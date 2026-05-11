@@ -13,8 +13,19 @@ import torch as th
 
 import malware_rl
 
+TARGET_ALIASES = {
+    "sorel-ffnn": "sorelFFNN",
+    "sorel_ffnn": "sorelFFNN",
+    "sorelffnn": "sorelFFNN",
+}
+
+
+def normalize_target(target):
+    return TARGET_ALIASES.get(target.lower(), target)
+
+
 parser = argparse.ArgumentParser()
-parser.add_argument('--target', choices=['ember', 'sorel', 'sorelFFNN', 'AV1', 'custom'], default='ember', help='target to test')
+parser.add_argument('--target', type=normalize_target, choices=['ember', 'sorel', 'sorelFFNN', 'AV1', 'custom'], default='sorelFFNN', help='target detector to use')
 parser.add_argument('--seed', type=int, default=26871, help='random seed')
 parser.add_argument('--num-episodes', type=int, default=300, help='number of episodes to run')
 parser.add_argument('--num-queries', type=int, default=4096, help='number of queries to run')

@@ -17,6 +17,17 @@ from surrogate import train_surrogate
 
 import malware_rl
 
+TARGET_ALIASES = {
+    "sorel-ffnn": "sorelFFNN",
+    "sorel_ffnn": "sorelFFNN",
+    "sorelffnn": "sorelFFNN",
+}
+
+
+def normalize_target(target):
+    return TARGET_ALIASES.get(target.lower(), target)
+
+
 logging.basicConfig(filename="training.log",
                     filemode='a',
                     format='%(asctime)s,%(msecs)d %(levelname)s %(message)s',
@@ -105,7 +116,7 @@ def evaluate_agent(agent, env_string, num_episodes, num_queries, outdir, seed=0)
     return queries
 
 argparser = argparse.ArgumentParser()
-argparser.add_argument("--target", choices=["ember", "sorel", "sorelFFNN", 'AV1', 'custom'], default="ember", help="Target to train on")
+argparser.add_argument("--target", type=normalize_target, choices=["ember", "sorel", "sorelFFNN", 'AV1', 'custom'], default="sorelFFNN", help="Target detector to train on")
 argparser.add_argument("--seed", type=int, default=26871, help="Random seed")
 argparser.add_argument("--num_boosting_rounds", type=int, default=500, help="Number of boosting rounds")
 argparser.add_argument("--init_timesteps", type=int, default=256, help="Number of timesteps to train on")
