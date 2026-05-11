@@ -117,6 +117,16 @@ data/evaded/sorelFFNN/Locker/<sha256_of_modified_file>
 
 so train does not write modified evasion files.
 
+## PPO max turns
+
+- Changed the shared environment max turns from `15` to `10` in `malware_rl/__init__.py`:
+
+```python
+MAXTURNS = 10
+```
+
+- PPO uses this value through the registered train/test gym environments.
+
 ## Verification
 
 - Ran syntax check with `ast.parse`.
