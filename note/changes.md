@@ -127,6 +127,15 @@ MAXTURNS = 10
 
 - PPO uses this value through the registered train/test gym environments.
 
+## Memory output folders
+
+- Added automatic creation of `data/memory/...` folders in envs that write `observations.npy` and `scores.npy`.
+- This fixes errors like:
+
+```text
+FileNotFoundError: data/memory/sorelFFNN/observations.npy
+```
+
 ## Verification
 
 - Ran syntax check with `ast.parse`.
