@@ -71,6 +71,12 @@ MALWARE_RL_SPLIT_SEED=42
 MALWARE_RL_SPLIT_DIR=<path>
 ```
 
+- An existing split can be selected instead of creating a new one with:
+
+```text
+MALWARE_RL_SPLIT_FILE=data/splits/samples/split.json
+```
+
 - The code saves only manifest files, not copies of the binary samples.
 
 ## Evasion output structure
@@ -104,6 +110,12 @@ data/evaded/sorelFFNN/Locker/<sha256_of_modified_file>
 ```
 
 - Changed `sorelFFNN-test-v0` to:
+
+```python
+"save_modified_data": True
+```
+
+- Changed `sorel-test-v0` to:
 
 ```python
 "save_modified_data": True

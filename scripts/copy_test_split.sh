@@ -1,10 +1,66 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Copy real sample files listed in the saved test split.
-# Usage:
+# Huong dan:
+# Script nay copy cac file sample that nam trong test split sang mot folder rieng.
+#
+# Chay mac dinh tu root project:
 #   bash scripts/copy_test_split.sh
+#
+# Mac dinh script se doc danh sach test o:
+#   data/splits/samples/test.txt
+#
+# Neu dang dung split co san cho training/evaluation, chay env voi:
+#   export MALWARE_RL_SPLIT_FILE=data/splits/samples/split.json
+#
+# Bien MALWARE_RL_SPLIT_FILE dung file split.json co ca "train" va "test".
+# Script nay chi copy file sample nen doc file test.txt.
+#
+# File sample goc duoc lay tu:
+#   malware_rl/envs/utils/samples
+#
+# Output mac dinh:
+#   data/test_samples
+#
+# Neu muon chi dinh duong dan rieng:
 #   bash scripts/copy_test_split.sh <split_file> <source_samples_dir> <output_dir>
+#
+# Vi du:
+#   bash scripts/copy_test_split.sh data/splits/samples/test.txt malware_rl/envs/utils/samples data/test_samples
+#
+# Tren Linux co the cap quyen execute roi chay:
+#   chmod +x scripts/copy_test_split.sh
+#   ./scripts/copy_test_split.sh
+
+if [[ "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
+  cat <<'EOF'
+Copy real sample files listed in the saved test split.
+
+Usage:
+  bash scripts/copy_test_split.sh
+  bash scripts/copy_test_split.sh <split_file> <source_samples_dir> <output_dir>
+
+Default paths:
+  split_file:         data/splits/samples/test.txt
+  source_samples_dir: malware_rl/envs/utils/samples
+  output_dir:         data/test_samples
+
+Related env option:
+  export MALWARE_RL_SPLIT_FILE=data/splits/samples/split.json
+
+Notes:
+  MALWARE_RL_SPLIT_FILE is used by the Python env loader and points to split.json.
+  This copy script reads test.txt because it only needs the test sample list.
+
+Example:
+  bash scripts/copy_test_split.sh data/splits/samples/test.txt malware_rl/envs/utils/samples data/test_samples
+
+Linux:
+  chmod +x scripts/copy_test_split.sh
+  ./scripts/copy_test_split.sh
+EOF
+  exit 0
+fi
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
