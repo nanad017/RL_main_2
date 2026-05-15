@@ -10,16 +10,6 @@ import argparse
 
 import malware_rl
 
-TARGET_ALIASES = {
-    "sorel-ffnn": "sorelFFNN",
-    "sorel_ffnn": "sorelFFNN",
-    "sorelffnn": "sorelFFNN",
-}
-
-
-def normalize_target(target):
-    return TARGET_ALIASES.get(target.lower(), target)
-
 
 def evaluate_model(agent_path, env_name, num_episodes, outdir, seed=0):
     """
@@ -68,7 +58,7 @@ def evaluate_model(agent_path, env_name, num_episodes, outdir, seed=0):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--target", type=normalize_target, choices=["ember", "sorel", "sorelFFNN", "AV1", "custom"], default="sorelFFNN")
+    parser.add_argument("--target", choices=["AV1", "custom"], default="AV1")
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--agent", type=str, default="saved_models/ppo-only-sorelFFNN-train-v0-26871.zip")
     
