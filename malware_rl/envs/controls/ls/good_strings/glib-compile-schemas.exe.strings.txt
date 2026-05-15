@@ -1,0 +1,705 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+P@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+ATUWVSH
+l$pM
+ [^_]A\
+AWAVAUATUWVSH
+l$ H
+T$@H
+T$8L
+\$@L
+D$HA
+T$0M
+\$ A
+\$HH
+\$8D
+X[^_]A\A]A^A_
+UWVSH
+([^_]
+WVSH
+ [^_
+ATUWVSH
+ [^_]A\
+\$8I
+t$8H
+ [^_]A\
+AUATUWVSH
+D$0H
+\$4H
+D$PraVG
+D$Ttnai1
+l$`H
+T$PH
+l$@A
+sgI)
+D$PGVar
+D$Tiant
+x[^_]A\A]
+WVSH
+ [^_
+ [^_
+ATUWVSH
+0[^_]A\
+0[^_]A\
+0[^_]A\
+-tdA
+t$ M
+0[^_]A\
+UWVSH
+([^_]
+UWVSH
+T$ )
+	B9L
+x[^_]
+x[^_]
+WVSH
+|$ H
+p[^_
+UWVSH
+H[^_]
+H[^_]
+T$8L
+WVSH
+0[^_
+0[^_
+AUATUWVSH
+l$ I
+8[^_]A\A]
+8[^_]A\A]
+UWVSH
+L$(L
+|$ H
+T$(H
+L$(H
+L$(H
+L$(H
+L$(H
+H[^_]
+WVSH
+\$`H
+ [^_
+ [^_
+|$`H
+ [^_
+UWVSH
+at)L
+l$0H
+[^_]
+[^_]
+WVSH
+|$ A
+0[^_
+|$ A
+|$ A
+|$ A
+WVSH
+D$ E1
+0[^_
+UWVSH
+|$ A
+8[^_]
+WVSH
+ [^_
+ [^_
+AWAVAUATUWVSH
+l$(H
+\$ I
+[^_]A\A]A^A_
+D$`H
+D$XH
+D$HH
+D$@H
+D$0H
+|$ I
+D$0H
+K0E1
+D$0H
+D$xH
+D$pH
+D$`H
+D$XH
+D$HH
+D$@H
+D$0H
+\$<A
+L$81
+D$0H
+\$ I
+D$xH
+D$pH
+D$`H
+D$XH
+D$HH
+D$@H
+D$0H
+\$ I
+D$0H
+D$@H
+D$0H
+D$(H
+D$HH
+D$@H
+D$0H
+F0E1
+\$(H
+\$ A
+D$@H
+D$0H
+D$(H
+D$0H
+D$HH
+D$@H
+D$0H
+D$HH
+D$@H
+D$0H
+\$ H
+T$ H
+t$HH
+|$@H
+t$8M
+l$0H
+|$(A
+|$0H
+t$(H
+t$ I
+l$(H
+\$ I
+t$ I
+t$ A
+l$(H
+\$ I
+\$<A
+n0E1
+\$ I
+\$ L
+\$(H
+\$ A
+\$(H
+|$ A
+l$ I
+|$ A
+\$ A
+\$ A
+d$(H
+\$ I
+AUATUWVSH
+[^_]A\A]
+l$0H
+D$ A
+l$(H
+T$ L
+K Mc
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+AWAVAUATUWVSH
+D$pH
+|$HH
+D$X1
+D$0H
+t$PH
+D$`f
+T$0I
+D$0H
+D$HH
+D$XH
+D$hL
+L$@E1
+t$XH
+D$@H
+L$HE1
+t#f.
+t#f.
+D$`H
+L$8A
+L$8H
+\$(D
+[^_]A\A]A^A_
+|$@H
+t$8H
+L$xH
+T$pE1
+L$p1
+l$`H
+D$PH
+D$PH
+L$8H
+D$@H
+D$`I
+D$x1
+D$`I
+T$`H
+T$ H
+T$`H
+d$(H
+T$ H
+gvdb/gvdb-builder.c
+GLib-GIO
+size == 0
+index == guint32_from_le (item->assigned_index)
+item->child == NULL && item->table == NULL
+item->table == NULL
+children == i
+!item->value && !item->table && !item->child
+g_str_has_prefix (item->key, parent->key)
+!parent->value && !parent->table
+!item->parent && !item->sibling
+chunk->offset > result->len
+chunk->offset - result->len < 8
+result->len == chunk->offset
+file_builder_serialise
+file_builder_allocate_for_hash
+file_builder_add_hash
+gvdb_item_set_parent
+gvdb_item_set_hash_table
+gvdb_item_set_value
+.enums.xml
+empty names are not permitted
+invalid name '%s': names must begin with a lowercase letter
+invalid name '%s': invalid character '%c'; only lowercase letters, numbers and hyphen ('-') are permitted.
+invalid name '%s': two successive hyphens ('--') are not permitted.
+invalid name '%s': the last character may not be a hyphen ('-').
+invalid name '%s': maximum length is 1024
+messages
+time
+unsupported l10n category: %s
+l10n requested, but no gettext domain given
+translation context given for  value without l10n enabled
+glib-compile-schemas.c
+GLib-GIO
+class != NULL
+enum
+flags
+<%s id='%s'> already specified
+.path
+.extends
+.list-of
+.gettext-domain
+text may not appear inside <%s>
+override
+default
+<%s> is not contained in the specified range
+<%s> is not a valid member of the specified enumerated type
+<%s> contains string not in the specified flags type
+<%s> contains string not in <choices>
+failed to parse <default> value of type '%s': 
+schemalist
+<%s> must contain at least one <value>
+schema
+element <default> is required in <key>
+choices
+<choices> must contain at least one <choice>
+aliases
+<aliases> must contain at least one <alias>
+enumerated type
+<choices>
+gettext-domain
+list-of
+extends
+path
+<schema id='%s'> already specified
+<schema id='%s'> extends not yet existing schema '%s'
+<schema id='%s'> is list of not yet existing schema '%s'
+Can not be a list of a schema with a path
+Can not extend a schema with a path
+<schema id='%s'> is a list, extending <schema id='%s'> which is not a list
+<schema id='%s' list-of='%s'> extends <schema id='%s' list-of='%s'> but '%s' does not extend '%s'
+a path, if given, must begin and end with a slash
+the path of a list must end with ':/'
+/apps/
+warning: Schema '%s' has path '%s'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
+/desktop/
+/system/
+type
+name
+cannot add keys to a 'list-of' schema
+<key name='%s'> already specified
+<key name='%s'> shadows <key name='%s'> in <schema id='%s'>; use <override> to modify value
+exactly one of 'type', 'enum' or 'flags' must be specified as an attribute to <key>
+<%s id='%s'> not (yet) defined.
+invalid GVariant type string '%s'
+child
+<child name='%s'> already specified
+context
+l10n
+<override> given but schema isn't extending anything
+<override name='%s'> already specified
+summary
+Only one <%s> element allowed inside <%s>
+description
+range
+<range/> already specified for this key
+<range> specified minimum is greater than maxmimum
+<choices> cannot be specified for keys tagged as having an enumerated type
+<choices> already specified for this key
+<choices> not allowed for keys of type '%s'
+<aliases> already specified for this key
+<aliases> can only be specified for keys with enumerated or flags types or after <choices>
+choice
+value
+<choice value='%s'/> already given
+alias
+target
+<alias value='%s'/> given when '%s' is already a member of the enumerated type
+<alias value='%s'/> given when <choice value='%s'/> was already given
+<alias value='%s'/> already specified
+alias target '%s' is not in %s
+nick
+nick must be a minimum of 2 characters
+invalid numeric value
+<value nick='%s'/> already specified
+value='%s' already specified
+flags values must have at most 1 bit set
+Element <%s> not allowed inside <%s>
+Element <%s> not allowed at the top level
+no <key name='%s'> to override
+<range> not allowed for keys of type '%s'
+-32768
+32767
+65535
+-2147483648
+2147483647
+4294967295
+-9223372036854775808
+9223372036854775807
+18446744073709551615
+-inf
+(y(y&s))
+(y@au)
+(y(**))
+warning: undefined reference to <schema id='%s'/>
+targetdir
+where to store the gschemas.compiled file
+DIRECTORY
+strict
+Abort on any errors in schemas
+dry-run
+Do not write the gschema.compiled file
+allow-any-name
+Do not enforce key name restrictions
+schema-file
+glib20
+UTF-8
+Compile all GSettings schema files into a schema cache.
+Schema files are required to have the extension .gschema.xml,
+and the cache file is called gschemas.compiled.
+You should give exactly one directory name
+gschemas.compiled
+.gschema.xml
+.gschema.override
+No schema files found: 
+doing nothing.
+removed existing output file.
+%s:%d:%d  %s.  
+--strict was specified; exiting.
+This entire file has been ignored.
+%s: %s.  
+Ignoring this file.
+No such key '%s' in schema '%s' as specified in override file '%s'
+; ignoring override for this key.
+ and --strict was specified; exiting.
+error parsing key '%s' in schema '%s' as specified in override file '%s': %s.
+Ignoring override for this key.
+override for key '%s' in schema '%s' in override file '%s' is outside the range given in the schema
+override for key '%s' in schema '%s' in override file '%s' is not in the list of valid choices
+keys != NULL
+string != NULL
+set_overrides
+is_subclass
+is_valid_choices
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+_glib_get_locale_dir
+g_ascii_strtoll
+g_ascii_table
+g_assertion_message_expr
+g_build_filename
+g_clear_error
+g_dir_open_utf8
+g_dir_read_name_utf8
+g_file_get_contents_utf8
+g_file_set_contents
+g_free
+g_hash_table_foreach
+g_hash_table_insert
+g_hash_table_lookup
+g_hash_table_new_full
+g_hash_table_ref
+g_hash_table_remove
+g_hash_table_size
+g_hash_table_unref
+g_key_file_free
+g_key_file_get_groups
+g_key_file_get_keys
+g_key_file_get_value
+g_key_file_load_from_file
+g_key_file_new
+g_malloc
+g_malloc0_n
+g_markup_collect_attributes
+g_markup_error_quark
+g_markup_parse_context_end_parse
+g_markup_parse_context_free
+g_markup_parse_context_get_element
+g_markup_parse_context_get_element_stack
+g_markup_parse_context_get_position
+g_markup_parse_context_new
+g_markup_parse_context_parse
+g_option_context_add_main_entries
+g_option_context_free
+g_option_context_new
+g_option_context_parse
+g_option_context_set_summary
+g_option_context_set_translation_domain
+g_prefix_error
+g_printerr
+g_ptr_array_add
+g_ptr_array_free
+g_ptr_array_new
+g_ptr_array_sort
+g_queue_free
+g_queue_is_empty
+g_queue_new
+g_queue_pop_head
+g_queue_push_tail
+g_return_if_fail_warning
+g_set_error
+g_set_error_literal
+g_slice_alloc
+g_slice_alloc0
+g_slice_free1
+g_slist_free
+g_slist_prepend
+g_str_equal
+g_str_has_prefix
+g_str_has_suffix
+g_str_hash
+g_strconcat
+g_strdup
+g_strfreev
+g_string_append_len
+g_string_erase
+g_string_free
+g_string_new
+g_string_new_len
+g_string_prepend_len
+g_string_truncate
+g_unlink
+g_variant_builder_add
+g_variant_builder_add_value
+g_variant_builder_end
+g_variant_builder_init
+g_variant_byteswap
+g_variant_classify
+g_variant_compare
+g_variant_get_normal_form
+g_variant_get_size
+g_variant_get_string
+g_variant_iter_init
+g_variant_iter_next_value
+g_variant_new_from_data
+g_variant_new_string
+g_variant_new_variant
+g_variant_parse
+g_variant_ref
+g_variant_ref_sink
+g_variant_store
+g_variant_type_checked_
+g_variant_type_copy
+g_variant_type_dup_string
+g_variant_type_element
+g_variant_type_equal
+g_variant_type_free
+g_variant_type_is_array
+g_variant_type_is_maybe
+g_variant_type_new
+g_variant_type_string_is_valid
+g_variant_unref
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_setlocale
+libintl_textdomain
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strcmp
+strlen
+strncmp
+vfprintf
+libglib-2.0-0.dll
+libintl-8.dll
+KERNEL32.dll
+msvcrt.dll

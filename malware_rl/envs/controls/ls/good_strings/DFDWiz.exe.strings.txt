@@ -1,0 +1,1013 @@
+!This program cannot be run in DOS mode.
+jRich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+UVWATAUAVAWH
+)H+M
+A_A^A]A\_^]
+UVWH
+T$ H
+tlD;
+@@s_A
+\$(E3
+\$ H
+\$PH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+x AVH
+\$0H
+|$HH
+l$8H
+t$@H
+T$H3
+\$@H
+t$PH
+H WH
+T$H3
+\$0H
+t$8H
+\$@9
+\$0H
+D$PH
+D$ D
+D$PH
+D$HH
+D$`8
+D$hH
+D$HH
+D$PH
+T$@H
+D$`p
+D$`H
+D$ L
+T$@3
+\$0H
+D$ E3
+\$pI
+UATAUAVAWH
+A_A^A]A\]
+u)E3
+` UAVAWH
+u4E8f
+A_A^]
+E9f<u
+E9f8
+t$ L
+E9f<t
+E9f<u
+E9f8u
+KhE3
+WAVAWH
+uCD8
+\$@3
+l$HH
+t$PH
+ A_A^_
+KhE3
+x AVH
+t$(D
+t$ I
+KpE3
+AD9v
+u3D8v
+\$PH
+l$XH
+t$`H
+|$hH
+T$@3
+\$HH
+t$PH
+T$H3
+\$@H
+t$PH
+T$H3
+\$@H
+t$PH
+T$H3
+\$@H
+t$PH
+L$ H
+t$fD9
+L$8L
+D$0I
+D$xD
+x AVH
+|$PH
+l$8H
+|$HH
+\$ UVWATAUAVAWH
+L$0E
+T$0D
+D$ P(
+D9-1
+A_A^A]A\_^]
+L$03
+t+L+
+H WH
+T$h3
+\$PH
+t$XH
+T$H3
+\$@H
+t$PH
+T$83
+\$0H
+t$fE9
+\$0H
+D$(L
+L$ D
+t$fE9
+\$@L
+T$0H
+D$(L
+L$ D
+UVWATAUAVAWH
+\$PM
+D$hH
+D$`H
+\$XM
+D$@L
+D$LH
+T$PH
+t$PL
+t$PL
+T$@L
+d$XI
+ED$@
+t$PH
+D$hH
+D$ M
+T$pH
+L$hE
+E`I;
+t$@L
+D$hH
+L$`H
+A_A^A]A\_^]
+WATAUAVAWH
+f98t
+4FH+
+\$`H
+l$hH
+t$pH
+0A_A^A]A\_
+\$@H
+|$HH
+T$@3
+\$HH
+t$PH
+T$H3
+\$@H
+t$PH
+UVWATAUAVAWH
+D$ H
+\$ L
+L!d$XH
+EPL!d$PE3
+L!d$HE3
+L!d$@3
+L!d$8L!d$0L!d$(H
+OH8Y
+pA_A^A]A\_^]
+UVWATAUAVAWH
+fD98t
+fD98t
+D$pD9W(
+fA;	M
+D$xH
+D$pE3
+fD99t
+0A_A^A]A\_^]
+x	L98
+WATAUAVAWH
+fD9)t
+fD9(t
+fD9)t
+D$0L
+|$(H
+fD9*t
+x	L9(
+A_A^A]A\_
+WAVAWH
+\$`H
+t$pH
+@A_A^_
+WATAUAVAWH
+H9i@
+t=;K(s8
+D$ M
+\$`H
+l$hH
+t$pH
+0A_A^A]A\_
+;{8r
+\$0H
+;{(se
+\$0H
+t$8H
+f99t
+L$ SUVWH
+(_^][
+\$0H
+L$ 3
+L$$A
+D$HI
+D$<3
+D$8H
+L$0E3
+L$0H
+L$HH3
+\$hH
+{ UH
+t$HH
+t$@D
+t$8A
+x ATAVAWH
+;P8ugE3
+t`E3
+48A+
+\$@@
+|$XH
+l$HH
+t$PH
+ A_A^A\
+x AVH
+\$@H
+l$HH
+t$PH
+|$XH
+WAVAWH
+\$@H
+l$HH
+t$PH
+ A_A^_
+\$0H
+\$0H
+x ATAVAWH
+fD99t
+D$ H
+y%I;
+\$PH
+|$hH
+0A_A^A\
+|$HH
+\$@H
+@USVH
+D$8E3
+D$ L
+t$(D
+D$ E3
+E8E3
+D$(L
+t$(D
+`^[]
+UVWATAUAVAWH
+D!mXD
+D$ E3
+EPE3
+D$@H
+D$8H
+L!l$0
+t$(D!l$ 
+D$ L
+|$8M
+|$0A
+|$(H
+t.@8|
+t'@8|
+`A_A^A]A\_^]
+UVWH
+D$xE3
+D$@E3
+D$8H
+\$pH
+P_^]
+UVWATAUAVAWH
+l$(3
+\$ L
+D$(H
+@A_A^A]A\_^]
+UVWAVAWH
+}HE3
+D$ E
+\$ L
+D$(L
+M@E3
+|$ H
+M8E3
+L$(L
+\$`H
+0A_A^_^]
+UVWH
+D$ H
+u(E3
+D$(H
+t$ E3
+M(E3
+L$(H
+M0E3
+\$PH
+0_^]
+\$0H
+t$8H
+UATAUAVAWH
+D$8H
+d$0H
+d$(H
+D$ L
+d$@A
+d$DH
+L$pD
+usE3
+|$XL
+D$HH
+T$X3
+L$HH
+D$@I
+d$DD8exu!H
+D9d$Dt
+t-D8a
++D8a
+D$@H
+L$pH
+D$@H
+D$@D
+L$p3
+tcD8e
+D$@H
+D$@H
+D$@H
+\$@H
+A_A^A]A\]
+T$H3
+\$@H
+t$PH
+\$0H
+t$8H
+|$@H
+H WH
+D$pH
+D$ L
+T$h3
+\$PH
+t$XH
+s WH
+L$@D
+L$PH
+L$`H3
+\$pI
+T$(H
+L$(H
+H+L$ H
+L$@H3
+x UATAUAVAWH
+0u,H
+fD9/u
+M'H3
+A_A^A]A\]
+L$ A
+L$0H3
+\$`H
+UVWATAUAVAWH
+D$xL
+t$0H
+D$4A
+T$@D
+D$pH
+|$8H
+D$PH
+D$X3
+D$ M
+\$HH
+D$HH
+D$ A
+D$ L
+T$HH
+L$HH
+|$<;|$D
+<0u#D
+<0u$A
+|$xL
+D$ L
+D$ L
+D$hH
+|$<A
+$;|$D
+D$h3
+\$4L
+D$h3
+D$h3
+|$8@
+A_A^A]A\_^]
+VWAVH
+D$@H
+l$PH
+ A^_^
+D$0H
+D$hA
+L$8H
+D$hH
+D$(L
+L$0H
+D$`E3
+L$8H
+\$PH
+L$ 3
+t"fD9
+L$8I
+D$0L
+D$(L
+L$ D
+t f9
+t	f9
+\$PL
+D$@L
+L$8I
+D$0L
+T$(L
+L$ D
+\$pH
+\$0H
+t$8H
+UVWATAUAVAWH
+D$pA
+L$PE
+l$ E
+D$PD
+D$ L
+l$P3
+T$PH
+D$@L
+d$(E3
+D$ D
+zt+H
+D$@A;
+T$PH
+L$@A
+D$(H
+D$@H
+D$ M
+D$HH
+D$HH
+L$pH3
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+D$@H
+D$0D
+D$(H
+L$@I
+fD9!t
+D$PH
+D$0H
+D$ L
+D$ L
+\$XH
+t$`H
+` AUAVAWH
+f9)t
+l$0D
+D$ I
+D$ L
+|$pL
+\$`H
+@A_A^A]
+D$XH
+D$@H
+\$8E3
+D$0E3
+L$@L
+L$XH3
+\$xH
+p WATAUAVAWH
+H!|$8H
+D$xH
+D$0E3
+l$(E3
+\$ I
+D$xH
+D$0E3
+d$(E3
+\$ I
+D;3D
+G3E3
+A_A^A]A\_
+UVWATAUAVAWH
+D$ L
+D$ L
+fE;>
+fD99
+fD98t
+fD9<Qu
+fD9<Qu
+fD9<Fu
+fD9<Au
+fD9<Fu
+fD;>
+\$pH
+0A_A^A]A\_^]
+\$(H
+\$ L
+t$ WATAUAVAWH
+l$(H
+\$@I
+A_A^A]A\_
+UWAVH
+H!D$8
+D$0D
+t$(H
+\$pI
+A^_]
+s WH
+D$x3
+\$@H
+D$@H
+\$8D
+D$0L
+D$HH
+D$( 
+L$pD
+L$xH3
+\$0H
+l$8H
+t$@H
+t$ WATAUAVAWH
+D$PE
+vFD;}
+u*;M
+D;d$P
+tND9n
+gD9k
+D99t
+D9:t
+\$XH
+l$`H
+t$hH
+ A_A^A]A\_
+\$0H
+@USWH
+D$@E3
+E8E3
+D$8H
+!E(E3
+M8E3
+D$@H
+D$8H
+!\$ 
+L$(H
+T$ H
+\$ D
+P_[]
+VWATAVAWH
+!X L
+l$xH
+@A_A^A\_^
+UVWATAUAVAWH
+t$ L
+D$ H
+MXE3
+L$(I
+PA_A^A]A\_^]
+WAVAWH
+t$`H
+*H!:A!9
+l$HH
+t$PH
+ A_A^_
+L$hE3
+L$(L
+L$0H
+D$ H
+\$PH
+t$`H
+D$$H
+D$,H
+L$ H
+L$0H3
+\$PH
+D$ E3
+D$(L
+D$(L
+D$ H
+USWH
+D$ A
+}(E3
+D$(L
+E E3
+D$(L
+}(E3
+D$ H
+0_[]
+D$ H
+L$XH
+D$@H
+D$(L
+L$PH
+D$HE3
+L$HA
+L$XH
+UVWAVAWH
+D$ H
+|$XE3
+|$PE3
+|$H3
+D$@H
+D$8L
+|$0L
+|$(L
+|$ D
+D9}@u;H
+D9}@v^D
+|$0L
+|$(L
+;]@s
+pA_A^_^]
+UVWAVAWH
+D$PE
+0u L
+0u L
+0u#L
+L$ H
+\$@A
+l$HI
+L$PH3
+`A_A^_^]
+` UAVAWH
+t$ L
+D$ L
+A_A^]
+\$ H
+UVWATAUAVAWH
+fD;}P
+fD9mPu<
+`A_A^A]A\_^]
+` AUAVAWH
+D8hA
+D$(A
+l$PH
+|$`L
+d$hH
+0A_A^A]
+WAVAWH
+D$ !
+\$8H
+D$pH
+D$0A
+D$(!
+L$pL
+\$`H
+t$xH
+@A_A^_
+\$0H
+D$0I;
+D$0H
+; ws
+\$(H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+x AVH
+l$8H
+t$@H
+|$HH
+@SUWH
+ _][
+@SUWH
+H9]`
+`_][
+@SUWH
+H9] 
+ _][
+@SUWH
+ _][
+@SUWH
+ _][
+@SUWH
+H9]0
+0_][
+@SUWH
+ _][
+@SUWH
+0_][
+TaskDialogIndirect
+IsolationAware function called after IsolationAwareCleanup
+dCreatePropertySheetPageW
+DestroyPropertySheetPage
+PropertySheetW
+PrintDlgExW
+CommDlgExtendedError
+GetSaveFileNameW
+InitCommonControlsEx
+Vh`D
+RSDS\
+DFDWiz.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+TraceMessage
+OpenProcessToken
+RegOpenKeyExW
+EventWrite
+RegQueryInfoKeyW
+RegCloseKey
+RegEnumKeyExW
+RegDeleteKeyW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+LookupPrivilegeValueW
+AdjustTokenPrivileges
+AllocateAndInitializeSid
+CheckTokenMembership
+FreeSid
+InitiateShutdownW
+RegCreateKeyExW
+RegSetValueExW
+RegQueryValueExW
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+RegisterTraceGuidsW
+UnregisterTraceGuids
+EventRegister
+EventUnregister
+ADVAPI32.dll
+SetLastError
+DeactivateActCtx
+GetLastError
+ActivateActCtx
+LoadLibraryW
+FindActCtxSectionStringW
+CreateActCtxW
+GetModuleFileNameW
+GetModuleHandleExW
+QueryActCtxW
+OutputDebugStringA
+CreateEventW
+CloseHandle
+GetProcAddress
+GetCurrentThreadId
+GlobalFree
+MulDiv
+HeapAlloc
+GetCurrentProcess
+CreateFileW
+WriteFile
+HeapFree
+OpenMutexW
+CreateMutexW
+LocalFree
+GetVersionExW
+FormatMessageW
+GetProcessHeap
+HeapSetInformation
+RegisterApplicationRestart
+GetSystemTime
+SystemTimeToFileTime
+KERNEL32.dll
+DeleteDC
+SetAbortProc
+SetMapMode
+GetDeviceCaps
+CreateFontIndirectW
+SelectObject
+StartDocW
+StartPage
+EndPage
+EndDoc
+AbortDoc
+DeleteObject
+GDI32.dll
+LoadCursorW
+CreateWindowExW
+GetWindowLongPtrW
+SetWindowLongPtrW
+PeekMessageW
+DispatchMessageW
+MsgWaitForMultipleObjects
+DestroyWindow
+LoadIconW
+SendMessageW
+SetWindowPos
+EnumThreadWindows
+DefWindowProcW
+GetParent
+PostMessageW
+GetDlgItem
+ShowWindow
+SetCursor
+EnableWindow
+CreateDialogParamW
+DrawTextW
+IsDialogMessageW
+TranslateMessage
+SetFocus
+MessageBoxW
+LoadStringW
+DialogBoxParamW
+SetDlgItemTextW
+EndDialog
+USER32.dll
+wcsstr
+_wcsupr
+_wcslwr
+_vsnwprintf
+malloc
+_callnewh
+free
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_ismbblead
+__setusermatherr
+_initterm
+__C_specific_handler
+_acmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+CoInitialize
+CoUninitialize
+CoCreateInstance
+ole32.dll
+NtQuerySystemTime
+WinSqmStartSession
+WinSqmEndSession
+WinSqmAddToStream
+WinSqmSetDWORD
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+GetUserProfileDirectoryW
+USERENV.dll
+RegEnumValueW
+Sleep
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+DeviceIoControl
+FindFirstVolumeW
+FindNextVolumeW
+FindVolumeClose
+GetVolumePathNamesForVolumeNameW
+_wcsicmp
+SetupDiGetClassDevsW
+SetupDiDestroyDeviceInfoList
+SetupDiEnumDeviceInterfaces
+SetupDiGetDeviceInterfaceDetailW
+SetupDiGetDeviceRegistryPropertyW
+SETUPAPI.dll
+CoInitializeEx
+CoCreateGuid
+StringFromGUID2
+OLEAUT32.dll
+__CxxFrameHandler3
+memcmp
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+	<assemblyIdentity
+		name="Microsoft.Windows.Disk.Failure.Diagnostic.Wizard"
+		processorArchitecture="amd64"
+		version="1.0.0.0"
+		type="win32"/>
+	<description>Windows Hard Disk Diagnosis Wizard</description>
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity
+				type="win32"
+				name="Microsoft.Windows.Common-Controls"
+				version="6.0.0.0"
+				processorArchitecture="amd64"
+				publicKeyToken="6595b64144ccf1df"
+				language="*"
+			/>
+		</dependentAssembly>
+	</dependency>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel
+					level="asInvoker"
+					uiAccess="false"
+				/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+  <asmv3:application>
+    <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings"> 
+      <dpiAware>true</dpiAware> 
+    </asmv3:windowsSettings>
+  </asmv3:application>
+</assembly>
+CRIM@
+WEVT
+CHAN
+TTBL
+TEMP
+TEMP
+OPCO
+LEVL
+TASK
+KEYW
+EVNT`
+WEVT
+CHAN
+OPCO
+LEVL@
+TASK
+KEYW
+EVNT
+WEVT@
+CHAN
+TTBL
+TEMP
+OPCO
+LEVLh
+TASK
+KEYW
+EVNT
+3333335UUUS3333333333UUUUUUU333333335\
+UUS3333335
+UUS33333\
+UU3333<
+US333
+US33<
+U33<
+S33<
+333<
+3333
+33333<
+333333<
+33333333
+3333333333<
+333333
+3333
+3333
+3333333333

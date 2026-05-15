@@ -1,0 +1,282 @@
+!This program cannot be run in DOS mode.
+vfpr
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+WVSH
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+AUATUWVSA
+~PHc
+7~7H
+[^_]A\A]
+WVSH
+T$XL
+D$`H
+t$XL
+L$hH
+t$(H
+0[^_
+AWAVAUATUWVSH
+D$8H
+D$0M
+L$,E
+H[^_]A\A]A^A_
+DD$,
+|$0M
+D$8H
+HcD$<L
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+T$ L
+AWAVAUATUWVSH
+ wpIc
+D$lt
+D$`H
+HcD$l
+D$0H
+D$xD
+D$l;
+|$\H
+L$0I
+L$`H
+T$PH
+T$ I
+L$PI
+D$xH
+T$pH
+l$@H
+l$pL
+D$PH
+D$<H
+[^_]A\A]A^A_
+D$PH
+usage: %s [-Vhv] [-i index] [-l LANG] [--index index] [--lang LANG] [--verbose] [--version] [--help] font-file...
+Validate font files and print result
+  -i, --index INDEX    display the INDEX face of each font file only
+  -l, --lang=LANG      set LANG instead of current locale
+  -v, --verbose        show more detailed information
+  -V, --version        display font config version and exit
+  -h, --help           display this help and exit
+fontconfig version %d.%d.%d
+i:l:mVhv
+Can't initalize FreeType library
+Unable to open %s
+%s:%d Missing %d glyph(s) to satisfy the coverage for %s language
+  0x%04x
+%s:%d Satisfy the coverage for %s language
+index
+lang
+verbose
+version
+help
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+%s: 
+POSIXLY_CORRECT
+unknown option -- %s
+unknown option -- %c
+option doesn't take an argument -- %.*s
+ambiguous option -- %.*s
+option requires an argument -- %s
+option requires an argument -- %c
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+FcCharSetCount
+FcCharSetDestroy
+FcCharSetFirstPage
+FcCharSetNextPage
+FcCharSetSubtract
+FcFini
+FcFreeTypeCharSet
+FcLangGetCharSet
+FcLangNormalize
+FcStrFree
+FT_Done_Face
+FT_Done_FreeType
+FT_Init_FreeType
+FT_New_Face
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+atoi
+calloc
+exit
+fprintf
+fputc
+free
+fwrite
+getenv
+malloc
+memcpy
+printf
+setlocale
+signal
+strchr
+strlen
+strncmp
+vfprintf
+libfontconfig-1.dll
+libfreetype-6.dll
+KERNEL32.dll
+msvcrt.dll

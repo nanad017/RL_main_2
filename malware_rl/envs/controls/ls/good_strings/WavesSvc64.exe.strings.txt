@@ -1,0 +1,7761 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`RT_CODE
+`.rdata
+@.data
+.pdata
+@text
+ data
+@.rsrc
+@.reloc
+\$0H
+UVWATAUH
+\$xL
+l$dI
+\$xH
+I;\$xt
+D$hD
+l$lH
+T$hI
+T$pI
+\$xH
+0A]A\_^]
+\$0H
+SVWH
+\$XL
+T$`H
+0_^[
+@SVWH
+L$A3
+L$@L
+L$0H
+T$@H
+|$ D
+t<9t$0uwH9s
+CdE3
+ChE3
+L$09Kh~
+SUWH
+D$PL;
+D$ H
+D$ H
+H;Gx
+d$hH
+9Gh|dIcL
+t$XIct
+1;Gd
+T$`H
+t$XL
+d$hH
+0_][
+d$hH
+0_][
+0_][
+t$ WH
+t_E3
+9Gh|(IcT
+l$8H
+\$0H
+VWATH
+l$HL
+l$@H
+l$HH
+\$PH
+ A\_^
+\$PH
+ A\_^
+UWATH
+l$HL
+9Ch|[A
+t$@Ict
+1;Cd
+t$@L
+l$HH
+\$PH
+ A\_]
+\$PH
+ A\_]
+H;Axt
+T$PH
+L$ H
+L$ L
+L$ L
+u"L;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+l$HH
+\$@H
+D$PI
+(A\^
+t$8H
+\$0H
+\$0H
+t$8H
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+T$@L
+\$HH
+\$PH
+D$PL
+T$XH
+L$ H
+L$ L
+L$0H
+\$HH
+\$PH
+l$XH
+t$hH
+\$`H
+D$`H
+D$ L
+L$`H
+\$PH
+l$XH
+t$hH
+\$PH
+t$`H
+\$XH
+D$XH
+D$ L
+L$XH
+\$PH
+t$`H
+D$0H
+)D$ H
+\$PH
+t$X3
+\$0H
+\$0H
+\$0H
+\$0H
+l$ VWATH
+l$xH
+@A\_^
+\$`H
+l$hL
+|$8H
+|$0E
+\$(H
+zubH
+|$8H
+|$0E
+|$(H
+|$8H
+|$0E
+\$(H
+l$hH
+\$`L
+t$pH
+l$xH
+@A\_^
+\$0H
+t$8H
+t$8H
+\$0H
+l$8H
+t$@H
+\$0H
+|$03
+|$0H
+|$0H
+\$0H
+\$0H
+SVWATH
+D$(H
+\$pL
+|$xH
+HA\_^[
+\$0H
+D$(H
+D$ 2
+D$(H
+L$ Hc
+T$ H
+L$ H
+D$(@
+@UVWAT
+D$@L
+D$8H
+t$0L
+l$(D
+D$0H
+l$(D
+A\_^]
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+@UVWATAUAVAWH
+L$XH
+D$@H
+D$HM
+L9A(t
+L$(H
+|$(I
+L$(H
+L$(H
+L$(H
+L$(H
+T$@H
+D$hH
+D$`A
+T$`H
+D$hH
+L$`H;
+T$HH
+D$hH
+D$`A
+T$`H
+D$hH
+L$`H;
+t$(L
+l$ E3
+T$(L
+l$ E3
+t$(L
+l$ E3
+l$(H
+D$ E3
+t$(H
+D$ E3
+D$0A
+D$(H
+D$ E3
+|$(H
+D$ E3
+t$(L
+l$ E3
+A_A^A]A\_^]
+\$0H
+\$HH
+\$HH
+WATAUAVAWH
+D$PL
+t$(L
+d$(L
+l$@I
+|$(I
+l$8H
+\$(I
+t,H+
+l$@H
+l$8L
+d$(I
+T$(I
+L$PH3
+\$`I
+A_A^A]A\_
+@UVWATAUH
+t$8H
+L$8L
+|$8H
+L$HI
+\$8I
+t$H+
+L$HH
+L$8H
+T$8I
+D$8H
+CD$8H
+D$(H
+D$ E3
+M'H3
+A]A\_^]
+@UVWATAUAVAWH
+D$XH
+L$PL
+L$@A
+T$pI
+|$pH
+t2L+
+t&H+
+D$(H
+D$ E3
+l$XE3
+D$0A
+D$(H
+D$ E3
+D$(H
+D$ E3
+A_A^A]A\_^]
+\$0H
+\$HH
+\$HH
+@UVWH
+D$0H
+D$ L
+\$0H
+D$HH
+D$@A
+T$@H
+D$HH
+L$@H;
+D$ E3
+L$0H
+|$0H
+|$0L
+\$8H
+UATAUAVAWH
+|$8H
+@8~ u1H
+@8~ t
+|$HH
+D;d$H
+|$(H
+D$(A
+D$0L
+L$(M
+L$(H
+D$ H
+L$(H
+L$ H
+|$@H
+L$(H
+L$ @
+T$@H
+t$8H
+L$ H
+D$8H
+D$ I
+\$8H
+L$8H;
+T$8H;
+\$8H+
+L$ I
+D$@H
+|$@H
+L$ L
+\$0H
+L$(M
+M'H3
+A_A^A]A\]
+\$0H
+\$HH
+\$@L
+T$PH
+\$HH
+t$XH
+\$@L
+T$HH
+UATAUAVAWH
+M'H3
+A_A^A]A\]
+H;_ u
+@8kIuB
+6r	H
+@8nIt
+\$0H
+t$@H
+l$8H
+u9fff
+H;_ u
+\$0H
+WATAUH
+I;\$ 
+s@E2
+\$@H
+l$HH
+t$PA
+ A]A\_
+WATAUH
+I;\$ 
+s@E2
+\$@H
+l$HH
+t$PA
+ A]A\_
+@VATAUH
+\$@H
+l$HH
+|$PI;\$ twH
+|$PH
+\$@H
+ A]A\^
+ A]A\^
+\$0H
+\$0H
+@UVWH
+D$`H
+D$0H
+L$0H;
+L$0H
+CL$0L
+t$@H
+D$0H
+CD$0
+T$0H
+T$ H
+\$ H
+L$`H3
+p_^]
+@SUAUH
+ A]][
+t$@H
+|$HL
+d$PH
+tlL;
+|$HH
+t$@L
+d$PH
+ A]][
+t$8H
+T$PH
+L$ H
+L$ L
+@UVAUH
+0A]^]
+\$PH
+d$XL
+d$(H
+zuVE
+\$(H
+d$XH
+\$PL
+t$`H
+0A]^]
+t$0H
+t$0H
+\$8H
+l$@H
+t$0H
+t$0H
+\$8H
+\$0H
+VWATH
+L$ L
+l$hH
+@A\_^
+\$`L;
+L$pA
+l$ H
+L$pA
+L$pH
+L$pI
+L$pI
+l$ H
+T$0L
+\$`H
+l$hH
+@A\_^
+L$XH
+D$PI
+L$XH
+D$XH
+D$`I
+L$XH
+L$XH
+\$PH
+t$XH
+D$HH
+\$PH
+t$XH
+\$0H
+SUVWATAUH
+D8kIu@H
+D8nIt
+l$xL
+\$xH
+\$xL
+\$xH
+\$xL
+T$(H
+d$xH
+L$@H
+8A]A\_^][
+UATAUH
+T$Hu
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+|$(H
+|$(H
+D$(H
+D$(H
+u8ff
+|$(H
+M7H3
+A]A\]
+)t$0I
+t$XH
+.t$Xz
+(t$0H
+D$(H
+(t$0H
+(t$03
+UATAUAVAWH
+D$pH
+D$pH
+D$pH
+D$pH
+T$`E3
+D$XD
+D$H3
+D$HH
+L$HH
+CL$HL
+|$XH
+D$HH
+CD$H
+T$`H
+D$HH
+CD$HH
+D$0H
+D$(H
+D$ E3
+D$pH
+t.E3
+A_A^A]A\]
+USVWATAUAVAWH
+L$@I
+l$H3
+\$PH
+\$XIc
+gfffffffE
+\$PH
+\$pH
+\$hH
+gfffffff
+gfffffff
+\$PH
+l$HH;
+H;\$Xu
+\$PL
+l$HH
+\$pH
+\$hH
+H;\$Xu
+\$PL
+l$HH
+\$pH
+\$hH
+\$PH
+|$PH
+|$pH
+|$hH
+|$PH
+l$HH
+\$PH
+gfffffffI
+\$PL
+l$HE3
+D$hH
+|$pH
+D$pH
+L$8H
+L$0H
+D$(H
+D$ E3
+D$x3
+9t$xte3
+|$hH
+T$hH
+.t$hz
+d$@H
+\$PM
+M`H3
+A_A^A]A\_^[]
+|$0H
+|$0H
+\$8H
+l$@H
+VWATH
+D$8H
+D$0H
+D$8H
+L$0H;
+D$0H
+D$8H
+D$0Hc
+Pu\L
+D$0E3
+D$8H
+L$0H;
+A\_^
+@UVWATAUAVAWH
+D$hH
+L$ H
+T$@H
+l$XH
+t$PL
+t$@D8cIul
+T$@I
+D8cIt
+l$(I
+L$@I
+\$0H
+D$0H
+L$ H;
+L$@I
+T$@I
+l$XL
+L$hH3
+pA_A^A]A\_^]
+@SVWH
+D$xH
+D$pA
+T$pH
+D$xH
+L$pH;
+D$HH
+CD$H
+t$0H
+D$(H
+D$ E3
+D$(H
+\$@H
+t$H3
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UWATAUAVH
+d$83
+L$PH
+d$0H
+t$8L
+.t$8z
+d$8H
+8Y8u(H
+D$(H
+D$ E3
+#D$0uG
+D$(L
+l$ E3
+D$(L
+l$ E3
+D$(L
+l$ E3
+D$0t*H
+D$0t
+D$(L
+l$ E3
+A^A]A\_]
+\$0H
+\$0H
+w;H+
+\$0H
+\$PH
+woH+
+gfffffffH
+L$@H
+L$HH
+DH;K
+L$@H
+L$HH
+\$PH
+t$0H
+\$8H
+\$8H
+l$03
+?r	H
+@8oIt
+l$0H
+\$8H
+t$@H
+gfffffffI+
+effffff
+fffffff
+t$0H
+t$0H
+\$8H
+l$@H
+t$ WH
+\$@H
+t$HH
+l$0H
+d$8D
+l$0H
+\$@A
+d$8H
+\$0H
+\$0H
+\$8H
+t$@H
+l$0J
+l$0H
+t$@H
+\$8H
+\$PH
+t$`H
+|$hH
+|$XH
+D$XH
+D$XH
+T$XH
+\$(H
+\$PH
+t$`H
+|$hH
+L$ L
+uEL;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+@SVATH
+l$@H
+|$HL
+l$PL
+l$PH
+|$HH
+l$@I
+ A\^[
+\$@H
+t$PH
+|$XH
+fffffff
+gfffffffI
+D$HL
+\$@H
+t$PH
+|$XH
+t$0H
+t$0H
+\$8H
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HH
+|$ ATH
+l$0H
+l$0H
+t$@H
+|$HH
+\$8H
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+\$@r	H
+l$HH
+D$PI
+(A\^
+fffffff
+T$PH
+L$ H
+L$ L
+s WATAUH
+D$p8
+t$HM
+H9K@t'H
+A]A\_
+SUVWATAUAVH
+|$xffff
+t$pL
+|$xI
+L; u,A
+0A^A]A\_^][
+TUUUUUU
+\$PH
+\$PH
+\$@H
+t$HH
+D$PH
+\$XH
+\$(H
+\$@H
+t$HH
+T$XH
+L$ H
+L$ L
+\$@H
+t$HI
+\$@H
+t$HH
+VWATH
+\$hI
+\$PE3
+\$XH
+\$`H
+\$hH
+0A\_^
+\$0H
+\$0H
+\$HH
+UWATH
+A\_]
+|$0H
+|$0H
+D$@H
+\$(H
+L$ H
+t$PH
+\$HH
+t$PH
+t$PH
+D$@3
+\$(H
+L$ H
+\$HH
+D$@H
+@UVWH
+T$03
+l$ H
+D$$H
+T$`H
+|$`{u!3
+T$`H
+UWATAUAVH
+l$0A
+D$(H
+D$(H
+D$(H
+D9l$0
+L$pH
+CL$pL
+D$pH
+CD$p
+D$pH
+CD$p
+D$pH
+CD$pH
+D$pH
+CD$p
+L$pH
+CL$p
+;t$0s
+D$(H
+D$(H
+D$(H
+D$(H
+l$0H
+|$(H
+|$(H
+D$(H
+D$(H
+T$HH
+|$(H
+l$HH
+T$HH
+\$XH
+A^A]A\_]
+\$HH
+D$(H
+UATAVH
+D$(H
+D$ E3
+E'I;
+M?H3
+A^A\]
+D$(H
+D$(H
+D$(E3
+\$PH
+t$XH
+D$(E3
+\$PH
+t$XH
+t$XH
+D$@3
+gfff
+D$(H
+\$(H
+\$HH
+t$PH
+t$PH
+D$@3
+;|$@t:H
+|$(H
+\$HH
+D$(H
+\$HH
+D$$H
+T$@H
+|$@{u!3
+T$@H
+\$0H
+\$0H
+UATAVH
+E'I;
+\$ A
+D$0H
+t$(H
+D$ E3
+tEE3
+D$(H
+D$ E3
+D$(H
+D$ E3
+M?H3
+A^A\]
+@VWATH
+D$pH
+D$(D
+D$`H
+\$83
+L$xH
+D$ @2
+l$`9n
+D$`H
+gfff
+Au	;
+\$8tLE
+D$(H
+@A\_^
+@UVWATAUAVAWH
+|$0A
+D$(H
+D$(H
+D$(H
+|$@H
+D9|$0
+D$xH
+D$pH
+D$pH
+CD$p
+D$pH
+CD$pJ
+D$pH
+CD$p
+L$pH
+CL$p
+;t$0s9
+D$(H
+uSffff
+D$(H
+D$(H
+D$(H
+|$0H
+|$(H
+|$(H
+D$(H
+D$(H
+T$HH
+|$(H
+|$HH
+T$HH
+\$XH
+A_A^A]A\_^]
+L$03
+|$ H
+|$$@
+|$@3
+D$$H
+T$@H
+|$@{u!3
+T$@H
+\$0H
+D$(H
+t<E3
+D$(A
+\$@H
+\$@H
+D$(H
+uCE3
+D$(A
+uQE3
+D$(A
+\$(L
+\$@H
+\$@H
+D$(H
+t2E3
+D$(A
+tvE3
+D$(A
+D$(H
+QME3
+\$@H
+l$HH
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+L$ H
+\$HH
+t$PH
+\$HH
+t$PH
+t$ WH
+l$PL
+d$XE3
+d$8L
+d$(L
+d$8L
+\$(H
+T$ 3
+l$PA
+\$`H
+t$hH
+\$`H
+t$h3
+u2H;
+\$0H
+l$8H
+\$0H
+@WATAUH
+\$PH
+l$XH
+t$`E
+|$hH
+|$hM
+tdD+
+T$ H
+|$ H
+|$hH
+\$PH
+l$XH
+t$`H
+0A]A\_
+@USWAUAVAWH
+L$8I
+D$@3
+\$DL
+\$LL
+\$TD
+D$@ 
+T$@A
+D$` 
+D$dH
+D$lH
+D$|E
+D$`L
+T$@E
+D$03
+T$`E3
+t$0H
+u79\$0t1
+L$0H
+T$`L
+t$(H
+\$8A
+D$@H
+A_A^A]_[]
+@USVWATAUAWH
+L$hL
+D$PH
+T$`H
+D$tH
+D$|H
+L$XD
+D$p 
+t$@L
+D$pA
+T$pA
+T$HH
+L$DE3
+t$HH
+\$DA
+t$0H
+T$pE
+L$LE3
+L$LH
+t$0H
+T$pE3
+@82t
+T$pH
+|$0D
+L$XH
+L$`H
+L$Pf
+d$@E
+A_A]A\_^[]
+t'fD;
+L$Xf
+L$`f
+L$Pf
+D$X3
+D$`D
+D$Pf
+t$ WH
+D$@;
+\$0H
+l$8H
+t$HH
+P Hc
+x3;X
+\$0H
+t$8H
+\$XH
+t$`H
+D$(H
+D$ E3
+whE3
+\$XH
+t$`H
+\$0H
+D$(H
+D$ E3
+@UVWATAUH
+D$(L
+d$ E3
+D$XH
+D$PH
+T$PA
+T$(L
+d$ E3
+T$XH
+L$PH;
+D$(H
+D$ E3
+|$ L
+D$(H
+D$ E3
+D$(H
+\$ L
+D$(H
+D$ E3
+D$@H
+\$8f
+\$0H
+\$(H
+T$@H
+T$ E3
+D$(H
+D$ E3
+D$(H
+D$ E3
+H9^ t
+H9^0t
+D$(H
+D$ E3
+A]A\_^]
+D$(E3
+D$(E3
+D$(E3
+UATAUAVAWH
+D$(H
+D$ E3
+D$ L
+D$(H
+D$ E3
+D$(H
+D$ E3
+T$ L
+D$(H
+|$ E3
+t$H+
+d$ L
+M'H3
+A_A^A]A\]
+D$(H
+D$8H
+L$0A
+L$0H
+T$8H;
+D$(E3
+D$(E3
+D$8H
+L$0A
+L$0H
+T$8H;
+|$ ATH
+l$0r
+l$0H
+t$@H
+|$HH
+\$8H
+\$8H
+l$@H
+t$0r
+t$0H
+l$@H
+\$8H
+\$0H
+\$03
+\$0H
+\$0H
+SVWATAUH
+D$(H
+\$pL
+|$xH
+@A]A\_^[
+T$PH
+L$ H
+L$ L
+D$0H
+D$ L
+\$0H
+D$XH
+D$PA
+D$8H
+T$PH
+D$XH
+L$PH;
+\$0H
+D$ H
+D$ H
+D$(H
+D$0H
+f;D$ u!H
+D$ H
+D$(H
+D$0H
+f;D$ u&H
+D$(@
+\$PH
+@UVWH
+T$0E3
+L$ H
+9E,u
+D$HH
+D$@H
+L$@3
+D$HH
+L$@H;
+T$HH
+UATAUH
+l$8H
+D$8H
+D$ A
+L$8H
+l$4H
+D$4H
+D$(L
+l$ L
+L$@E3
+D$4H
+D$(H
+D$ L
+L$@E3
+D$XH
+D$PH
+D$XH
+L$PH;
+D$PH
+D$XH
+D$PHc
+D$XH
+L$PH;
+T$0I
+\$0;
+D$XH
+D$PH
+PunD
+T$PI
+D$XH
+L$PH;
+A]A\]
+D$@H
+D$XH
+D$ H
+L$ H
+VWATAUAVH
+D$XH
+D$PH
+T$PH
+D$XH
+L$PH;
+L$(L
+t$(L
+l$@I
+L$(I
+A^A]A\_^
+@USVWATH
+d$PH
+D$XH
+D$@H
+D$PH
+D$8L
+d$ E3
+L9d$P
+L$hH
+CL$h
+D$(H
+L$ A
+d$PH
+M H3
+A\_^[]
+@UVWATAVH
+D$xH
+D$pH
+T$pH
+D$xH
+L$pH;
+L$HH
+CL$HE3
+H9D$X
+D$0H
+D$ A
+L$0H
+L$0H
+D$8L
+D$8M
+T$8H
+|$0H
+T$0H
+\$XH
+D$HH
+T$HH
+CT$HH
+A^A\_^]
+@USVWATAUAWH
+D$8@2
+L$PH
+CL$PE3
+H9D$`
+D$0H
+D$ A
+L$0H
+L$0H
+D$@L
+D$@M
+T$@H
+T$8H
+\$`H
+D$PH
+T$PH
+CT$PH
+A_A]A\_^[]
+@UVWATAUAVAWH
+T$XE3
+l$0H
+t$02
+L$`H
+L$`H
+CU(H
+L$`H
+CL$`L
+\$pH
+D$`H
+CD$`D
+L$pH
+H9\$xs
+l$pH
+D$`H
+CD$`
+L$pH
+D$`H
+CD$`H
+\$pH
+D$`H
+CD$`
+L$pH
+H9\$xs
+l$pH
+D$`H
+CD$`
+L$pH
+D$`H
+CD$`H
+\$pH
+D$`H
+CD$`
+l$4L
+t$0L
+d$`H
+Cd$`H
+t$0H
+l$@H
+D$@H
+D$ A
+L$@H
+D$8H
+D$(H
+D$4H
+D$ L
+L$HE3
+t$0H
+t$0H
+A_A^A]A\_^]
+UATAUAVAWH
+D$(H
+D$(H
+D$(H
+D9|$0
+;|$0
+D$(H
+uRfff
+D$(H
+D$(H
+D$(H
+|$0H
+|$(H
+|$(H
+D$(H
+D$(H
+|$(H
+M/H3
+A_A^A]A\]
+t$PH
+D$PH
+D$ L
+L$PH
+t$@E2
+L$@A
+L$@H
+t$0H
+9\$0
+t$HH
+t$8H
+L$@H
+\$8M
+D$H3
+\$8H
+L$HH
+t$XH
+L$8H
+T$XH
+D$xH
+D$pA
+T$pH
+D$xH
+L$pH;
+\$8H
+L$HM
+L$HH
+;\$0
+L$@H
+L$PH
+UATAUAVAWH
+l$pH
+l$@L
+l$XH
+D$@H
+D$ L
+D$@H
+tFE2
+L$XA
+D$@D
+l$`H
+L$XH
+D$@H
+L$XA
+;\$`
+l$HL
+l$PH
+D$PH
+D$H3
+D$PH
+L$HH
+D$xH
+D$xH
+fD;t$x
+l$hH
+L$PH
+T$hH
+D$0H
+L$(H
+D$ E3
+D$PH
+L$HH
+L$HH
+L$XH
+D$@H
+D$@H
+M0H3
+A_A^A]A\]
+D$0H
+T$`H
+T$0H
+T$ H
+\$ H
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+\$@r	H
+l$HH
+D$PI
+(A\^
+\$PH
+t$XH
+t$@H
+t$HH
+ZH;K
+|$@H
+|$HH
+\$PH
+t$XH
+l$03
+?r	H
+@8oIt
+l$0H
+\$8H
+t$@H
+@SATAUH
+l$@H
+t$HH
+|$PH
+t$XE3
+t$XH
+|$PH
+l$@I
+t$HI
+ A]A\[
+ A]A\[
+$II+
+L$ L
+uEL;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+\$PH
+t$`H
+|$hH
+|$XH
+D$XH
+D$XH
+T$XH
+\$(H
+\$PH
+t$`H
+|$hH
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+T$@H
+\$HH
+t$PH
+uDff
+t$PH
+TUUUUUU
+\$PH
+\$PH
+\$@H
+D$PL
+D$XL
+D$(M
+\$@H
+VWATH
+\$hI
+\$PE3
+\$XH
+\$`H
+\$hH
+0A\_^
+WATAUAVAWH
+L$0H;
+T$8H
+D$8H
+|$8H
+\$8L
+|$8H
+\$8H
+d$ M
+\$PI
+A_A^A]A\_
+\$0H
+WATAUH
+\$`H
+\$pH
+|$xH
+D$hH
+t$XD
+T$PL
+D$HL
+l$@D+
+T$8D
+L$0D
+A]A\_
+L$PL
+\$0H
+L$PH
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+t$@H
+\$0H
+t$@H
+T$PH
+L$ H
+L$ L
+u L;
+L$8H
+L$8H
+L$HH
+T$8H;T$@u
+t$@A
+T$8M
+D$8H
+|$Ht
+H93u
+H90u-
+H90u
+|$HH
+t$@H
+\$0M
+D$8H
+\$0H
+\$0H
+t$8H
+|$@I;
+|$@H
+|$@H
+uIffff
+|$@H
+|$@H
+L$ I
+|$@H
+L$8M
+\$0H
+D$HL
+T$PH
+L$ H
+L$ L
+\$0H
+\$HH
+t$PH
+\$HH
+t$PH
+\$0H
+VWATH
+D$(L
+d$ E3
+D$(L
+d$ E3
+D$(L
+d$ E3
+\$0H
+D$HH
+D$@3
+D$@H
+D$HH
+L$@H;
+D$(L
+d$ E3
+D$ L
+T$0H
+A\_^
+D$HH
+D$(H
+D$@3
+L$PE3
+9\$@
+D$HH
+D$(H
+D$@3
+L$PE3
+9\$@t~H
+D$XH
+D$ H
+L$XH
+D$HL
+L$PH
+D$(H
+D$@E3
+\$@L
+D$ H
+T$ A
+D$ ;
+D$8H
+D$0A
+D$0H
+D$8H
+L$0H;
+UATAUAVAWH
+D$ A
+D$ A
+D$ A
+t6fff
+A_A^A]A\]
+WATAUH
+t$HH
+\$@A
+,(Hc
+t$HH
+l$PA
+ A]A\_
+\$0H
+|$8H
+|$8H
+\$0H
+l$@H
+\$0H
+t$8H
+\$0H
+|$`H
+D$0D
+D$(H
+D$ E
+D$(H
+D$0D
+D$(H
+|$`H
+\$hH
+l$pH
+\$hH
+l$p3
+D$(H
+\$(A
+\$@3
+\$0H
+|$@3
+H9{0ufH
+CHH9{@uYH
+D$(H
+\$(L
+C@H9{@@
+|$@H
+D$(H
+H9{@
+D$(E
+KPE3
+\$(H
+\$@H
+AHE3
+D$(H
+\$(H
+L$0E3
+D$(E
+t;E3
+\$(H
+\$pH
+D$(H
+D$`L
+\$@H
+l$HH
+t$PH
+\$`H
+t$hH
+\$XH
+\$`H
+t$hH
+t$ ATAUAVH
+ Lcd$`Ic
+|$@+H
+|$@A;s
+\$HA
+l$PHc
+ A^A]A\
+L$ H
+l$8H
+t$@A
+\$0H
+L$XA
+L$PM
+D$XH
+\$0H
+@USWH
+D$(H
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+E8E3
+D$(H
+E E3
+0_[]
+0_[]
+UVWH
+H9/t{H
+l$PE3
+L$HH
+L$@H
+L$8H
+l$0H
+D$@H
+D$8H
+`_^]
+t$ WH
+\$PH
+D$@H
+D$PH
+D$8H
+\$ M
+L$PH
+H9\$Pt8H
+L$PA
+D$(H
+l$xH
+\$pH
+VWATH
+l$0H
+t$8H
+D$8H
+D$ A
+L$8H
+D$(H
+t$ L
+L$4E3
+D$(H
+l$ L
+L$4E3
+\$xH
+PA\_^
+SVWH
+P_^[
+D$xE3
+D$@H
+D$8H
+P_^[
+VWATAUAVH
+L$HH
+t$8L
+t$0L
+t$(L
+t$ L
+L$@L
+D$pA
+|$PH;{
+t$XH
+L$pH
+D$pH
+T$pH
+A^A]A\_^
+\$0H
+\$HH
+\$HH
+\$0H
+@VWATH
+\$pH
+l$xL
+l$ L
+\$ L
+D$hI
+L$hH
+\$pH
+l$xH
+@A\_^
+{8H9{@t
+t$8@
+@UVWH
+\$PH
+uvH;
+\$`H
+D$`H
+L$`H
+D$XH
+\$XH
+\$PH
+0_^]
+@VWH
+D$tH
+T$hH
+L$hH
+L$8E3
+L$8E3
+T$0H
+L$xH3
+|$0H
+@UVWATAUH
+x<9]0u2H
+fD;m
+fD;m
+fD;m
+@A]A\_^]
+\$pH
+D$8H
+D$@H
+L$hL
+T$`I
+D$8H
+f;D$8u
+\$(H
+D$ E3
+\$pH
+VWATH
+\$PH
+l$hH
+\$`L
+\$PH
+l$hH
+0A\_^
+UATAUH
+D$ L
+t.f;
+L$ L
+D$ L
+\$pI
+A]A\]
+@VATAUH
+l$H+H
+|$P+
+,7H;
+D8/t+H
+l$H+
+\$@x(I
+ A]A\^
+\$HH
+t$PH
+\$HH
+t$PH
+\$0H
+t$8H
+\$0H
+t$83
+l$ WH
+\$@H
+l$HH
+t$0H
+d$8D
+t$0H
+\$@3
+d$8H
+\$0H
+\$0H
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HH
+D$@;y
+\$0H
+t$8H
+t$8H
+\$0H
+L$X3
+D$HH
+D$@H
+D$(H
+D$@H
+D$ A
+L$@D
+T$`H
+\$HH
+D$XH
+D$(H
+D$(H
+9spt/H
+|$xH
+L$XH3
+t$ UWATAUAVH
+D$(E3
+fD;2t	L
+D$(E3
+fD;wtu3H
+O0E3
+D$ A
+D$(E3
+D$(E3
+D$0H
+T$(H
+D$(E3
+D$(E3
+D$(H
+D$(E3
+A^A]A\_]
+T$0H
+D$0D
+D$(H
+D$(E
+l$ D
+D$(H
+D$(H
+D9c(
+D9c(
+P(D9e
+d$(L
+P(D9e
+t$(L
+D$(H
+S0E3
+D$(H
+D$(H
+|$(L
+tHL9c8tBD
+M'H3
+\$0H
+t$8H
+\$0H
+t$ WH
+D$pH
+D$(H
+D$0H
+D$8H
+D$@H
+D$0H
+f;D$0ubH
+D$8D
+T$@H
+D$LA;C
+D$(E3
+L$pH3
+L$ H
+\$0H
+|$0H
+|$0H
+\$8H
+l$@H
+\$8H
+l$@2
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+D$8I;
+L$8H;
+?wRHc
+|$ H
+L$XH
+D$XH
+L$XH
+D$XH
+L$XH
+D$HL
+L$PH
+D$(H
+D$@E3
+\$@H
+\$0H
+UATAUH
+D$0H
+\$ A
+D$Hu
+D$ A
+D$(H
+D$ L
+D$(H
+D$ E3
+M7H3
+A]A\]
+)t$0f
+|$(H
+l$(A
+(t$0H
+\$XH
+t$`H
+\$XH
+D$(H
+D$(E3
+D$(E3
+WATAUH
+\$@H
+l$HH
+t$PH
+ A]A\_
+\$pH
+L$xD
+L$XH
+D$PL
+\$HH
+L$8D+
+D$0D
+T$(L
+\$pH
+D$ 3
+D$ P
+(D$ 
+(L$0
+(D$@
+(L$P
+(D$`
+W`E3
+D9_hI
+)D$p
+\$0H
+\$ UVWH
+p_^]
+L9i8uDA
+D8k)tU
+D$@H
+l$8D
+l$0H
+D$P 
+D$@H
+l$8D
+l$0H
+L$`A
+D$bD
+D$@H
+l$8D
+l$0H
+p_^]
+hurD
+D$ND3
+C$D+
+L$XH
+\$0H
+t$8H
+D$XH
+\$0H
+t$8H
++uV3
+D$XH
+\$0H
+t$8H
+D$XHc
+\$0H
+t$8H
+\$0H
+t$8H
+D$X3
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+D$XH
+\$0H
+t$8H
+D$XH
+\$0H
+t$8H
+\$0H
+t$83
+\$0H
+\$ ATH
+D$PI
+t$HH
+QhE3
+L$XI
+QiE3
+l$@D
+|$PH
+t$HH
+\$0H
+t$8H
+D$XH
+L$XH
+D$HL
+L$PH
+D$(H
+D$@E3
+9\$@
+@SVWH
+d$PL
+l$XA
+l$@H
+T$@E3
+l$@E3
+l$HL
+};Hc
+l$HL
+d$PL
+l$XH
+ _^[
+L$13
+T$0A
+T$0A
+D$ %
+t$ WH
+T$8D
+T$(D
+T$ D
+L$@H
+L$Q3
+T$PA
+L$@H
+T$PA
+D$ $
+VWATH
+D$p8
+|$HM
+L9f0u
+A\_^
+UWATH
+D$8I
+\$0H
+D$(H
+D$(H
+l$PH
+t$XM
+`A\_]
+L$a3
+D$`A
+D$(H
+D$XH
+D$@H
+D$PE3
+D$8L
+\$0H
+\$PD
+L$`H
+L$PH
+D$(H
+D$`H
+t<E3
+D$(H
+t$pA
+d$PA
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+d$PH
+|$HH
+|$HH
+D$HH
+D$HH
+T$0H
+|$HH
+d$0H
+T$0H
+d$0H
+D$0H
+D$ A
+L$0H
+D$<H
+D$(H
+D$hH
+D$ L
+L$8E3
+d$0H
+D$0H
+D$ A
+L$0H
+D$8H
+D$(H
+D$pH
+D$ L
+L$<E3
+.t$hz
+.t$pz
+D$ H
+D$(H
+D$(H
+M7H3
+WATAUAVAWH
+D$TA
+l$(H
+t$ E3
+D$(H
+t$ E3
+D$pH
+D$@H
+D$XH
+D$8H
+L$XH
+D$(H
+t$ E3
+D$(H
+t$ E3
+d$PH
+T$P3
+\$hH
+D$(H
+t$ E3
+D$(H
+t$ E3
+D$`L
+\$`L
+A_A^A]A\_
+UWATAUAVH
+p E3
+uPfff
+\$pI
+A^A]A\_]
+UATAUAVAWH
+D$(H
+D$(H
+t-E3
+D$(E
+D$(E3
+	sxH
+D$(E3
+D$0H
+s`E3
+D$(E
+sRE3
+D$(E
+wFH+
+D$0H
+u79]
+D$(H
+L$(E3
+D$ E
+MhE3
+\$tH9
+|$t3
+\$pH
+\$|H
+\$HL
+\$PH
+\$Xt6A
+d$PM
+T$XL
+l$HI
+d$PH
+T$XL
+d$PL
+l$HH
+T$XL
+d$PL
+l$HH
+d$PH
+T$XL
+d$PL
+l$HM
+T$XL
+d$PL
+l$HM
+d$PH
+T$XL
+d$PL
+l$HM
+T$XL
+d$PL
+l$HM
+d$PH
+T$XL
+d$PL
+l$HM
+T$XL
+d$PL
+l$HM
+d$PH
+M0I;
+M0L;
+u0I+
+T$XL
+d$PL
+l$HM
+T$XL
+d$PL
+l$HH
+d$PM
+L$HH
+d$PL
+l$HM
+L$HH
+d$PL
+l$HM
+HcL$tH
+L$hD
+9\$p
+H9]`u
+u"E3
+D$(H
+D$(H
+D$(H
+T$ H
+D$(H
+D$(H
+D$0H
+T$(A
+D$(H
+D$(H
+x<E3
+D$(E
+D$(H
+8_IuH
+6r	H
+8^It
+8_IuIf
+6r	H
+8^It
+D$(H
+t!9]
+9\$|uFL
+t!9]
+D$(H
+\$xA
+8\$@t
+H9\$h
+D$(H
+D$0C
+D$(H
+D$(H
+D$(H
+L$hH
+9\$t
+D$(H
+\$(H
+D$(E
+A_A^A]A\]
+WATAUH
+\$@H
+l$HH
+t$PH
+ A]A\_
+UVWATAUH
+|$PM
+L$PD
+L$PI
+|$P9_
+T$`H
+L$PD
+tG9_
+|$PM
+D$XH
+D$ L
+t$XH
+D$(H
+l$@D
+l$8E3
+d$0H
+\$(H
+pA]A\_^]
+L$(E3
+T$0H
+D$(H
+\$P@
+L$8E3
+L$(H
+)t$@f
+T$0H
+D$(H
+(t$@H
+\$`H
+\$ UVWH
+T$0H
+L$(E3
+L$@fI
+D$0H
+D$@E
+D$(H
+T$0H
+L$(E3
+T$0H
+D$(H
+l$XH
+\$PH
+\$ UVWH
+L$(E3
+D$8H
+D$@E
+D$0H
+D$(H
+T$0H
+D$(H
+(t$PH
+\$pH
+t$ WH
+L$(H
+L$PfI
+D$0H
+D$PE
+D$(H
+T$8E3
+L$(H
+T$0H
+D$(H
+\$PH
+L$(H
+T$0H
+D$(H
+\$`H
+t$ WH
+L$(H
+D$0H
+D$@E
+D$(H
+\$ UVWH
+L$(I
+D$0H
+D$@E
+D$(H
+T$0H
+L$(E3
+T$0H
+D$(H
+\$PH
+T$0H
+L$(E3
+T$(E
+\$PH
+T$8E3
+L$(H
+T$0H
+D$(H
+\$PH
+T$(E
+l$hH
+\$`H
+L$ H
+@VWAUH
+l$HI
+d$PLc`
+\$@B
+l$HL
+d$PA
+ A]_^
+)t$ f
+zxuvH
+\$0u
+(t$ H
+(t$ H
+UATAUAVAWH
+D$ H
+D$`H
+D$`H
+D$`H
+t$xH
+D$`H
+D$`H
+D$`H
+D$`H
+t$hH
+\$`H
+8^It
+\$`H
+D$`H
+D$`H
+T$ H
+t$ H
+T$ H
+D$ H
+D$ H
+D$ H
+D$8H
+D$8H
+D$8H
+t$PH
+D$8H
+D$8H
+D$8H
+D$8H
+t$@H
+\$8H
+8^It
+\$8H
+D$8H
+D$8H
+T$ H
+\$8H
+M0H;
+t$ I
+D$ 3
+t$(I
+L$(D
+D$(D
+D$(D#
+;|$ r
+t$ H
+T$ H
+A_A^A]A\]
+UATAUAVAWH
+D$PH
+D$0H
+D$0H
+D$0H
+|$HH
+D$xH
+CD$x@
+D$xH
+CD$xH
+D$xH
+CD$x
+T$xH
+CT$xH
+|$ H
+L$ E3
+D$0H
+D$0H
+D$0H
+D$0H
+|$8H
+\$0H
+\$0H
+D$0H
+D$0H
+T$PH
+\$0H
+|$PH
+T$PH
+T$XH
+M`H3
+A_A^A]A\]
+L$@H
+L$@E3
+L$@H
+\$HH
+t$PH
+\$(H
+\$HH
+t$P@
+fffffff
+fffffff
+UVWATAUH
+\$xLc
+t$ D
+\$xH
+@A]A\_^]
+\$0H
+\$HH
+t$PH
+\$HH
+t$PH
+\$@H
+\$0H
+\$0H
+t$8H
+@UVWATAUAVAWH
+D$`H
+D$`H
+D$`H
+|$xH
+D$`H
+uUff
+D$`H
+D$`H
+D$`H
+\$`H
+\$`H
+D$`H
+D$`H
+\$`H
+L$PM
+t$PA
+t$@H
+|$8L
+\$(D
+t$ E3
+A_A^A]A\_^]
+)t$@
+(t$@H
+t$`H
+|$hu8L
+D$(H
+t*@8
+D$ H
+t$`H
+|$hH
+(t$@H
+\$ 3
+L$ L
+SVWATAUAVAWH
+t$`H
+D$(H
+D$ E3
+t$`A
+D$dH
+t'Hc
+t$`E3
+L$@D
+d$8H
+t$(H
+D$ E3
+D$dA
+pA_A^A]A\_^[
+VWATH
+l$@L
+l$HE3
+l$HH
+\$PH
+ A\_^
+L$@H
+L$(H
+L$HH
+L$@H
+L$(H
+L$HH
+|$ ATAUAVH
+L9axu6L
+t[D8
+\$@H
+l$HH
+t$PH
+|$XH
+ A^A]A\
+s WH
+D$h3
+|$8H
+D$PL
+D$(3
+L$hH3
+\$pI
+\$ UVWATAWH
+T$0H
+T$HH
+|$(H
+D$PH
+D$XH
+D$`H
+D$H	
+|$PH
+D$ D
+D$HH
+D$(L
+D$(E3
+D$(E
+pA_A\_^]
+t$ ATH
+D$ A
+D$(H
+D$0H
+D$8H
+L$pH
+\$XH
+l$`H
+t$hH
+VWATH
+L$ L
+T$8H
+L$@H;
+T$HH;
+L$@H
+\$8H
+T$HH;
+L$@H
+\$8H
+L$@+
+l$ M
+\$`I
+A\_^
+@USVWATAUAVAWH
+L$XE2
+l$PM
+D$@H
+L$8L
+D$(D
+D$ E3
+u	E3
+M0I;
+t$(H
+|$ A
+t$XI
+D$PH
+L$XH
+D$X;
+L$ A
+D$PH
+D$ A
+t$XH
+D$PA
+|$pA
+D$hH
+D$hH
+D$hH
+t$hH
+t$hH;
+uVH;
+t$hH
+D$hH
+D$hH
+t$hH
+A_A^A]A\_^[]
+@SUVWATAUAVH
+D$ A
+D$ A
+D$ A
+@A^A]A\_^][
+@USVWATAUAVAWH
+L$@L
+\$4H
+D$0H
+D$xH
+D$XH
+D$`H
+D$8H
+D$XH
+l$xH
+t$`L
+t$XH
+|$hL
+T$@ff
+t$8M
+D$8H
+D$PH
+D$(H
+D$8H
+D$ L
+D$Pf
+.D$8z
+D$HH;
+D$HL;
+\$HI+
+l$xH
+l$xH
+D$8H;
+D$8L;
+\$8I+
+|$hH
+t$`L
+t$XH
+|$hH
+t$`L
+t$XH
+\$4L
+t$`L
+\$4I
+I9D$Xu
+L$XH
+L$XI
+D$XI;D$8t?H
+L$ D
+L$LL
+\$LE3
+\$(H
+D$ A
+A_A^A]A\_^[]
+\$0H
+@UVWATAUAVAWH
+D$(H
+D$ L
+D$(H
+D$ L
+D$ E
+D$ A
+D$ A
+D$ A
+D$ D
+D$ E
+A_A^A]A\_^]
+\$0H
+t$8H
+\$0H
+@USVWATAUAVAWH
+D$HH
+D$HH
+D$HH
+|$HH
+D$hH
+D$hH
+D$hH
+L$`E
+|$hH
+D$8H
+D$ A
+d$8I
+L$8I
+L$8E
+D$ D
+D91D
+|$hH;
+|$hH
+D$hH
+D$hH
+\$pH
+|$hD
+u9fff
+|$h3
+|$HH;
+|$HH
+D$HH
+D$HH
+|$HH
+A_A^A]A\_^[]
+@SUVWATH
+\$pA
+ A\_^][
+ A\_^][
+ A\_^][
+@SVWH
+D$hI
+L$0A
+T$0A
+|$(H
+L$hH3
+p_^[
+\$ UVWH
+D$pH
+D$0H
+D$(L
+L$4H
+T$8E3
+\$0E
+D$0L
+L$4H
+D$(H
+T$8E3
+\$0H
+D$03
+L$pH3
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HH
+s WH
+D$h3
+|$8H
+D$PL
+D$(3
+L$hH3
+\$pI
+UVWATAUAVAWH
+D$ A
+u3E3
+u9fff
+u/ff
+u8ff
+A_A^A]A\_^]
+L$XH
+L$HH
+L$PH
+L$(H
+L$HE3
+L$ H
+t"D;
+UVWATAUH
+T$ H
+L$HH3
+PA]A\_^]
+@SUVWATAUH
+T$(H
+L$XH
+L$PA
+D$PI
+\$XH
+L$PI;
+A]A\_^][
+gfffffffI+
+\$0H
+l$8H
+t$@H
+@SUVWATAUH
+L$0D
+T$0A
+l$(L
+A]A\_^][
+\$ UVWATAUH
+L$@E
+D$03
+D$(L
+L$4H
+T$@E3
+\$0E
+D$0L
+L$4H
+D$(H
+T$@E3
+\$0H
+A]A\_^]
+@VWATH
+\$pH
+|$xH
+D$8D
+D$(H
+D$xH
+D$ L
+L$0E3
+\$8H
+D$xA
+\$pH
+PA\_^
+@UVWH
+\$hA
+D$`D
+D$pH
+D$ A
+\$`H
+\$hH
+@_^]
+@WATAUAVAWH
+\$pH
+l$xH
+D$0H
+\$ D
+t(E3
+\$pH
+l$xH
+@A_A^A]A\_
+UATAUAVAWH
+|$HE3
+l$XA
+l$PA
+D$PH
+D$ E3
+\$hL
+L$PH
+l$XL
+D$PH
+D$ D
+l$@H
+D$@H
+D$8L
+l$0L
+l$(L
+l$ L
+L$`L
+l$@H
+D$@H
+D$(L
+l$ L
+L$dE3
+D$@E
+D$@H
+D$(H
+\$ L
+L$dE3
+D$@E3
+D$@H
+|$HH
+L$PH
+A_A^A]A\]
+\$0H
+l$8H
+t$@H
+UWATH
+d$0H
+L$0D
+\$@H
+d$XD
+d$HH
+d$pH
+D$@H
+D$ D
+L$0D
+|$ L
+L$@H
+A\_]
+\$0H
+l$8H
+D$@H
+D$@H
+N8E3
+D$ H
+D$`H
+\$0H
+\$03
+D$8H
+D$@H
+D$HH
+D$(H
+|$`H
+D$0H
+|$`H
+t$ WH
+L$0D
+\$8H
+l$@H
+t$HH
+\$0H
+l$8H
+t$@H
+t$ WH
+L$0L
+\$8H
+l$@H
+t$HH
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HH
+UVWATAUAVAWH
+egffff
+EgD#
+u8ff
+A_A^A]A\_^]
+\$0H
+l$8H
+t$@H
+UVWH
+\$pI
+\$hH
+D$ D
+\$pH
+@_^]
+SVWH
+\$pH
+D$h;H
+L$hD
+@_^[
+\$@H
+t$PH
+|$XH
+D$HL
+\$@H
+t$PH
+|$XH
+\$@H
+t$PH
+|$XH
+D$HL
+\$@H
+t$PH
+|$XH
+w8H+
+\$0H
+\$0H
+|$0H
+|$0L
+\$8H
+\$8H
+T$PH
+L$ H
+L$ L
+T$PH
+L$ H
+L$ L
+t$ WH
+l$`H
+t$hH
+\$XH
+T$PH
+L$ H
+L$ L
+H9q u
+\$0H
+t$8H
+\$HH
+\$HH
+\$@H
+t$PH
+|$XH
+D$HL
+\$@H
+t$PH
+|$XH
+@VWH
+d$PH
+T$pH
+L$ H
+L$ L
+\$xH
+l$HL
+t$@L
+t$@H
+l$HH
+\$xH
+d$PH
+\$XH
+T$PH
+L$ H
+L$ L
+L$ L
+uEL;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+L$ L
+u"L;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+\$0H
+t$8H
+\$0H
+t$8H
+T$PH
+L$ H
+L$ L
+t$@H
+\$8H
+T$PH
+L$ H
+L$ L
+VWATH
+\$PH
+l$XL
+T$`H
+T$`L
+H9+u
+H9*u&
+H9(u
+\$hL
+T$(H
+D$`I
+\$PH
+l$XH
+0A\_^
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+l$HH
+\$@H
+D$PI
+(A\^
+t$8H
+\$0H
+SVWH
+D$`H
+D$XH
+D$hL
+D$XH
+0_^[
+@UVWH
+\$PH
+uUfff
+\$XL
+T$`H
+\$PH
+0_^]
+\$0H
+t$8H
+\$0H
+t$8H
+SWAVAWH
+W@H;G(sjD9w0udf
+t$xH
+l$pH
+D9w0ujf
+(|$ 
+(t$0L
+l$@L
+HA_A^_[
+L$ H
+L$ H
+D$PL
+T$XH
+L$ H
+L$ L
+VWATH
+\$`E
+|$XH
+\$`H
+0A\_^
+SWAVAWH
+W@H;G(sjD9w0udf
+t$xH
+l$pH
+D9w0ugf
+(|$ 
+(t$0L
+l$@L
+HA_A^_[
+\$@L
+T$HH
+SVWH
+D$X;{
+|$XH
+t$`H
+v@E3
+0_^[
+ATAUAVH
+\$XH
+t$`H
+|$hE
+ rUH
+|$ H
+H;S v
+\$XH
+t$`H
+|$hH
+0A^A]A\
+t$8H
+SVWH
+D$X;{
+|$XH
+t$`H
+vCE3
+0_^[
+\$0H
+\$XH
+\$HL
+T$PH
+\$XH
+@VWATAUAVH
+\$hH
+l$pM
+D$`H
+D$`H
+\$hH
+l$pH
+0A^A]A\_^
+t$8t_
+T$0H
+nD$0
+t$8H
+\$@H
+t$8H
+\$@H
+L$0A
+\$0A
+t$8H
+\$@H
+D$0H
+gfff
+\$@H
+\$0H
+t$8H
+\$0H
+t$82
+k VWATH
+)t$P
+)|$@H
+T$0H
+T$0L
+\$0I
+T$0H
+T$0L
+(t$P
+(|$@L
+\$`I
+A\_^
+)t$0H
+T$PL
+\$Pf
+T$ H
+T$PL
+\$Pf
+.s z
+(t$0H
+(t$0H
+(t$0
+UVWATAUAVAWH
+L9i0
+d$ L
+d$(L
+d$0H
+D$(H
+D$(H
+D$(H
+T$ I
+L$(H
+T$HH
+EgE3
+L$(H
+u1ff
+L$(H
+D$(H
+D$(H
+d$0H
+|$(H
+|$(H
+D$(H
+D$(H
+|$(H
+I;F0s4
+d$@H
+T$@H
+A_A^A]A\_^]
+@UWH
+gfffH
+\$xH
+L$ H
+\$ H
+L$(I
+D$p3
+;t$p
+H9_0vv
+gfff
+H;G0r
+\$xL
+l$@H
+t$PL
+d$HH
+t$PL
+d$H2
+T$0H
+tQ9t$0tKH
+H;w0sBH
+\$8H
+t$@H
+t$@H
+UATAUAVAWH
+L$hH
+|$H3
+\$PE3
+l$(D
+t$ A
+l$@H
+D$@H;
+D$@H;
+t$@H+
+d$XH
+\$PH
+|$HH
+d$XH
+\$PH
+|$HH
+\$PA
+t$x3
+T$xI
+T$pI
+\$pH
+D$HH;
+D;t$D}
+A_A^A]A\]
+D$0H
+D$0H
+T$8L
+L$09SXu
+9KTu
+9CPt
+\$HH
+t$PH
+H+:H
+\$HH
+t$PH
+\$0H
+t$8H
+w;M+
+\$0H
+t$8H
+\$0H
+t$8H
+D$H3
+D$PH
+D$XH
+D$`H
+D$(H
+D$0H
+D$8H
+L$PH
+t$8H
+\$0H
+\$0H
+T$PH
+L$ H
+L$ L
+l$03
+@8oAt
+l$0H
+\$8H
+t$@H
+L$ L
+uEL;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+L$ L
+u"L;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+\$@H
+l$HH
+D$PI
+(A\^
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+l$HH
+\$@H
+D$PI
+(A\^
+w6H+
+\$0H
+\$0H
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+T$@H
+\$HH
+t$PH
+uDff
+t$PH
+effffff
+\$PH
+\$PH
+D$`H
+T$XH
+L$ H
+L$ L
+@UVWATAUAVAWH
+D$ L
+D;eo
+T$ E3
+A_A^A]A\_^]
+\$0H
+D$PI
+T$(H
+L$PH3
+\$xH
+\$0H
+\$0H
+@SVWH
+D$@H
+L$ D
+L$@H3
+P_^[
+VWATAUAVH
+D$8L
+|$ I
+t$(H
+L$ H;
+T$ H;
+|$ H+
+L$(H;
+T$(H;
+|$(H+
+L$8H3
+\$PI
+(t$@I
+A^A]A\_^
+\$0H
+\$0H
+\$HH
+\$HH
+UVWATAUAVAWH
+RTMX
+L$(L
+T$0L
+T$8H
+PA_A^A]A\_^]
+UVWATAUAVAWH
+BPAM
+ffff
+ffff
+$>M;
+/H;C
+A_A^A]A\_^]
+\$ VH
+d$@H
+|$8H;
+f0fD
+F@L;
+l$0H
+d$@H;
+|$8H
+\$HH
+VWATAUAVH
+|$0H
+T$0H;
+D$0H
+d$0L+
+T$0L
+L$ H;
+T$ H;
+|$ H+
+A^A]A\_^
+t!D;
+|$ ATAUAVH
+\$@H
+l$HH
+t-D;
+u$D;
+l$HH
+\$@H
+t$PH
+|$XH
+ A^A]A\
+UWATAUAVH
+tuffffff
+uWH;
+A^A]A\_]
+UWATAUAVH
+{ H;
+uWH;
+A^A]A\_]
+@VWATH
+\$X;
+T$`H
+T$ H
+l$hH
+\$XH
+0A\_^
+\$PH
+w6H+
+L$@H
+L$HH
+*H;C
+L$@H
+L$HH
+\$PH
+|$0I
+|$0L
+\$8H
+|$0H
+\$8H
+\$8H
+UWATH
+A\_]
+t$0H
+t$0H
+\$8H
+t$0H
+t$0H
+\$8H
+l$@H
+\$0H
+t$ WH
+T$@L
+\$@L
+\$HH
+l$PH
+t$XH
+\$@H
+t$PH
+|$XH
+D$HL
+\$@H
+t$PH
+|$XH
+T$PH
+L$ H
+L$ L
+\$PH
+t$`H
+|$hH
+\$XH
+D$XH
+D$XH
+T$XH
+\$(H
+\$PH
+t$`H
+|$hH
+\$PH
+L$ H
+T$@L
+\$HH
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+@UVWH
+\$hI
+fffffff
+l$ H
+|$`L
+T$pH
+\$hH
+@_^]
+\$HH
+effffff
+|$`H
+\$@L
+T$(H
+\$`M
+\$HH
+\$@H
+D$PH
+L$XH
+L$(H
+\$@H
+l$03
+l$0H
+t$@H
+\$8H
+\$HH
+t$PH
+H+:H
+\$HH
+t$PH
+D$@E3
+D$PH
+\$HH
+t$PH
+|$@H
+\$HH
+t$PH
+\$0H
+\$HH
+T$ H
+T$@L
+D$@H
+\$HH
+\$XH
+T$ L
+D$(L
+T$PL
+D$PH
+\$XH
+t$8H
+\$0H
+T$PH
+L$ H
+L$ L
+\$0H
+t$8H
+L$ L
+u"L;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+l$HH
+\$@H
+D$PI
+(A\^
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+L$ L
+t$PL;
+L$ M
+t$PH
+t$PH
+uIffff
+T$ H
+t$PH
+T$ H
+t$PH
+T$0M
+t$PH
+T$@L
+\$HH
+\$PH
+T$@L
+\$HH
+\$PH
+D$PL
+D$PL
+T$XH
+L$ H
+L$ L
+\$0H
+WATAUH
+\$@H
+|$8H
+\$0E3
+l$xH
+\$pH
+PA]A\_
+)t$`H
+D$XH
+L$8f
+t$0H
+T$8A
+L$XH3
+(t$`H
+\$ UVWH
+D$XI
+L$8H
+D$0L
+L$4H
+T$8H
+D$(E3
+L$XH3
+`_^]
+@SVWH
+D$PI
+L$0A
+T$0A
+|$(H
+L$PH3
+`_^[
+@SUVWATH
+t$(H
+\$ L
+L$0E3
+T$`H
+t$(L
+d$ L
+L$0E3
+T$`H
+\$8H
+\$@H
+\$HL
+D$@+
+A\_^][
+D$PA
+\$0H
+\$HH
+\$HH
+@SUVWATH
+D$8H
+D$0H
+|$0H
+D$8H
+L$0H;
+A\_^][
+WATAUH
+\$@H
+l$HH
+t$PH
+ A]A\_
+\$0H
+\$XH
+l$`H
+t$hH
+|$(H
+T$(H
+T$PH
+\$PH
+\$XH
+l$`H
+t$hH
+VATH
+u;fff
+T$PL
+T$PH
+|$ t
+H9+u
+H9*u1
+H9(u
+|$ H
+l$HH
+D$PI
+(A\^
+T$PH
+L$ H
+L$ L
+\$0H
+t$8H
+L$ L
+uEL;
+\$8H
+L$@L
+L$@H
+T$0L
+D$@L;D$Hu
+\$8L
+t$ L
+L$ L
+l$XH
+t$hH
+\$PL;
+L$`A
+t$ H
+L$`A
+D$`H
+L$`I
+L$`I
+t$ H
+T$0L
+\$PH
+l$XH
+t$hH
+UVWATAUH
+H;8u2A
+T$`L
+\$hH
+0A]A\_^]
+\$PH
+\$PH
+\$@H
+t$HH
+D$PH
+\$XH
+\$(H
+\$@H
+t$HH
+T$XH
+L$ H
+L$ L
+L$PH
+T$PH
+L$ L
+L$PH
+T$PH
+L$ L
+\$0H
+t$8H
+\$0H
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+\$0H
+T$XH
+L$ H
+fffffff
+ffff
+fffffff
+ffff
+t7SH
+9D$@t
+\$0H
+t$8H
+\$PH
+t$XH
+|$`H
+L$ USWH
+P_[]
+C E3
+UATAUH
+\$PI
+A]A\]
+D$`H
+D$(L
+L$ M
+L$ E3
+d$ UH
+D$8H
+E t	
+\$pI
+\$0H
+t$8H
+UATAUH
+E9l$
+\$`H
+t$hH
+|$pH
+@A]A\]
+D8.u
+D8/t
+D8/t
+D8(t,
+D8/u
+|$ UATAUAVAWH
+u)A;
+>@8}
+\$@I
+A_A^A]A\]
+D$ H
+ATAUAVH
+V H;
+\$@H
+t$HH
+|$PH
+ A^A]A\
+\$0H
+t$8H
+UWATAVAWH
+tpD8'u
+D$8H
+t$0H
+D$(L
+E1fA
+tlD8&u
+D$8H
+t$0H
+D$(L
+E1fA
+\$pI
+A_A^A\_]
+\$0H
+t$8H
+L$ L
+D$8B
+\$`H
+l$hH
+t$pH
+@87u
+@83u
+\$PH
+t$XH
+|$`H
+L$ 3
+L$ 3
+@8l$8t
+D$ 9h
+u:H+
+t6f;
+@8l$8t
+\$PH
+l$XH
+t$`H
+\$0H
+\$0H
+\$0H
+WATAUAVAWH
+D$0H
+D$ L
+t$(L
+D$8H
+|$ H;
+\$(H
+\$0L
+D$8H
+\$pH
+t$xH
+@A_A^A]A\_
+T$pA
+\$PH
+t$XH
+|$`H
+@83t
+` UH
+JD8'u
+D8&u
+\$PH
+t$XH
+|$`L
+d$hH
+|$ ATH
+d$ E
+D$@H
+\$HH
+t$PH
+|$XH
+\$ UVWATAUAVAWH
+L$hH
+T$pM
+\$xH
+ A_A^A]A\_^]
+L$`H
+t^Lcw
+t$hH+
+L$pD
+L$`L
+t$hE
+t$hI
+L$pH
+L$`L
+t$hH
+L$pH
+` AUH
+\$`H
+\$ L
+\$@H
+t$HH
+|$PL
+d$XH
+L$ M
+x ATAUAVH
+\$@H
+l$HH
+t$PH
+|$XH
+ A^A]A\
+\$8H
+\$0H
+l$8H
+t$@H
+\$8H
+t$@H
+\$0H
+\$8H
+@UAUAVH
+l$0H
+t$(L
+fD93u
+|$0H
+d$(H
+A^A]]
+L$ I
+D$ H
+\$PH
+t$ WATAUH
+L$xH
+D$pH
+D$`L
+D$(L
+\$PH
+l$XH
+t$hH
+0A]A\_
+\$`I
+D$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+UWATH
+L$t3
+\$pH
+\$HH
+T$@I
+T$@H
+L$`H
+L$0H
+L$XL
+L$(H
+L$ 3
+|$tH
+A\_]
+T$`L
+\$@H
+l$HH
+t$PH
+D$`H
+L$ H
+D$0A
+\$0H
+WATAUAVAWH
+y8M+
+IcqHI
+L$0I
+D$(I
+D$(I
+ t;3
+IcqHH
+;7sUH
+D;+t1
+D$HD
+\$@I
+A_A^A]A\_
+\$0H
+l$8H
+t$@H
+x UH
+D$p H
+D$(H
+D$8H
+\$0H
+D$(L
+L$pD
+D$8H
+\$0H
+D$(L
+L$pA
+\$0H;
+L$0H;
+\$8H
+L$ 3
+UVWATAUH
+D$8H
+D9d$ 
+D$&8\$&t-8X
+t18Y
+L$8H3
+@A]A\_^]
+` AUH
+\$@H
+t$HH
+|$PL
+d$XH
+\$0H
+t$8H
+\$0H
+\$0H
+L$0H
+L$0H;
+H;=>
+\$8H
+D$0H
+\$8H
+l$@H
+t$HH
+WATAUH
+\$`I
+\$@H
+l$HH
+t$PH
+ A]A\_
+UVWATAUAVAWH
+L$pH
+T$hH
+D$dD
+t#Lc
+u)A;
+D$hM
+T$@D
+T$HA
+L$HM
+D$dA
+D$P0A
+t$dI
+t$@H
+|$D+
+D$HE
+L$xL
+L$DH
+L$ H
+9D$Du
+t$@E3
+D$HD9T$\
+@t1A
+D$P-
+D$P+
+D$P 
+|$LD
+d$XH
+t$pD+d$HD+
+L$@L
+L$@H
+L$PL
+L$@L
+|$H3
+9D$Ttg
+D$pL
+L$@H
+L$@L
+D$pL
+L$@A
+t$@E3
+|$DL
+T$`A
+A_A^A]A\_^]
+It8A
+ht)A
+T$`H
+T$pL
+D$@A
+T$hD
+T$hE
+T$pL
+D$@A
+t$@E3
+*u A
+ tAA
+#t1A
++t"A
+T$xD
+T$\D
+T$XD
+T$LE
+|$DD
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+L$pH
+T$hH
+D$dD
+t#Lc
+u)A;
+T$hH
+T$@D
+T$HE
+D$`A
+L$HM
+D$dA
+D$P0A
+t$dI
+t$@H
+|$D+
+D$HE
+L$xL
+L$DH
+L$ H
+9D$Du
+t$@E3
+D$HD9T$\
+@t1A
+D$P-
+D$P+
+D$P 
+|$LD
+d$XH
+t$pD+d$HD+
+L$@L
+L$@H
+L$PL
+L$@L
+|$H3
+9D$Ttg
+D$pL
+L$@H
+L$@L
+D$pL
+L$@A
+t$@E3
+|$DH
+T$hD
+D$`A
+A_A^A]A\_^]
+It=A
+ht.A
+T$`H
+T$pL
+D$@A
+T$hD
+T$hE
+T$pL
+D$@A
+t$@E3
+*u A
+ tAA
+#t1A
++t"A
+T$xD
+T$\D
+T$XD
+T$LE
+t$DD
+@UATAUAVAWH
+l$@H
+@88t
+|$@H
+l$(H
+!t$(H!t$ A
+L$(E
+\$@H
+t$(H
+L$8D
+L$(H
+D$(H
+D$ A
+A_A^A]A\]
+L$PI
+L$PD
+D$0H
+\$pI
+D$ D
+L$ 3
+D$ D
+UWATH
+T$8L
+D$(H
+E A#
+`A\_]
+t$ WATAUH
+<vGI
+f93t
+L$@@
+L$0H
+T$@H
+A]A\_
+x ATH
+l$8H
+t$@H
+|$HH
+\$0H
+x ATH
+l$8H
+t$@H
+|$HH
+\$0H
+x ATH
+l$8H
+t$@H
+|$HH
+\$0H
+L$ A
+D$(D
+D$ H
+\$PH
+t$XH
+L$(L
+\$hH
+u&Hc
+\$0H
+t$8H
+|$@H
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+|$@H
+\$0H
+WATAUAVAWH
+|$`3
+|$(H
+}*Hc
+\$hH
+t$pH
+0A_A^A]A\_
+\$0H
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+8csm
+@ = 
+\$0H
+l$8H
+t$@H
+; w	
+;"u	3
+< w	H
+\$0H
+t.Hc
+\$@H
+l$HH
+t$PH
+x ATAUAVH
+l$`M
+;"u6
+< tG<	tC
+\$@H
+l$HH
+t$PH
+|$XH
+ A^A]A\
+t$ WH
+D$HL
+L$@E3
+Hct$@H
+s\HcL$HH
+D$HL
+L$@H
+\$@H
+\$PH
+t$XH
+x ATH
+fD9 t
+fD9#u
+fD9#u
+d$8H+
+d$0H
+d$(L
+d$8L
+d$0D
+l$(H
+\$PH
+l$XH
+t$`H
+|$hH
+ATAUAVH
+fD9t$b
+D$hH
+tEHc
+A^A]A\
+L$8D
+\$8L3
+\$@H
+tuH+
+VWATAUAWH
+;at/
+;rt#
+L$hE
+D$hH
+\$`H
+l$pH
+0A_A]A\_^
+|$ ;=
+\$@H
+t$HH
+d$ L
+\$0H
+t$8H
+USVWATAUAVAWH
+l18A
+\0@K
+L0	A:
+D0	E
+L09A:
+D09A
+L0:A:
+D0:K
+uf9}
+Ht;H
+D1:Hc
+mPA+
+D$(3
+E`L;
+t@fD
+D19K
+L;m`
+mPM;
+XA_A^A]A\_^[]
+WATAUAVAWH
+\$XH
+t$`H
+ A_A^A]A\_
+\$0H
+t$8H
+VWATAUAVH
+xs;=
+\$XH
+ A^A]A\_^
+t$8H
+\$0H
+ATAUAWH
+\$ ;
+|$(H
+\$PH
+t$XH
+|$`H
+0A_A]A\
+\$0H
+VWATH
+\$PH
+ A\_^
+L$hH
+T$`L
+L$(H
+\$@H
+t$HH
+@UATAUAVAWH
+l$0H
+\$0H
+d$(H
+A_A^A]A\]
+L$@A
+L$@D
+D$(H
+\$pH
+t$xH
+\$ UVWATAUAVAWH
+!|$DHc
+d$PMk
+|$`@
+T$\H
+!|$XI
+D$\E
+D$LH
+L$aA
+D$`A
+L$@A
+L$\H
+D$`L
+D$@A
+L$PH
+L$XH
+T$`I
+|$DD9d$X
+L$XH
+T$`I
+D$@A
+d$L@
+f;D$@ug
+f;D$@uD
+D$DL
+|$DH
+H!\$ H
+D$PH
+|$DL
+|$`I
+L$HH
+|$HH
+HcD$HH;
+|$DH
+H!\$ H
+D$PH
+|$DL
+|$`I
+L$HH
+|$HH
+HcD$HH;
+L$p3
+D$p+
+D$(U
+D$PH
+D$`L
+L$HH
+t$HD;
+H!|$ L
+L$HE
+|$H3
+D$PH
++|$D
+A_A^A]A\_^]
+VWATAUAVH
+xs;=
+\$XH
+ A^A]A\_^
+UVWATAUAVAWH
+9]wt
+ug9]
+fD9:r
+u fE
+u	9Z
+A_A^A]A\_^]
+tfSH
+KXH;
+K`H;
+K H;
+K(H;
+K0H;
+K8H;
+K@H;
+KHH;
+KhH;
+KpH;
+KxH;
+T$8L
+D$<D
+D$8H
+\$0H
+VWATAUAVH
+xv;=
+\$XH
+ A^A]A\_^
+s&Hc
+L$ UVWH
+`_^]
+D$8H
+|$(H
+L$@H
+T$0D
+@SUVWATAUAVH
+D$HA
+tbL;
+L$0A
+D$8H
+L$ A
+L$HH3
+PA^A]A\_^][
+` UH
+D8"u%H
+\$`H
+t$hH
+|$pL
+d$xH
+~0A;
+D$(H
+r&D8g
+D$(H
+\$ ;
+}eHc
+\$@H
+t$HH
+UVWATAUAVAWH
+A_A^A]A\_^]
+tFA;
+D$(L
+D$(L
+d$ D
+u:Hc
+uKHc
+txE;
+8@8}
+D$(A
+|$pH
+L$(D
+D$ D
+t!Hc
+\$PH
+L$`E
+L$ D
+` UH
+D8'u
+$f;Q
+D8&u
+fD;A
++f;A
+r%f;A
+\$PH
+t$XH
+|$`L
+d$hH
+s_Hc
+\$0H
+l$8H
+t$@H
+siHc
+\$0H
+l$8H
+s)Hc
+` AVH
+\$0H
+t$8H
+|$@L
+d$HH
+ATAUAVH
+\$0J
+D$0H
+tsHc
+|$ Hc
+\$`H
+t$hH
+|$pH
+@A^A]A\
+VWATH
+\$PH
+ A\_^
+L$HH
+T$@A
+D$@H
+UVWATAUAVAWH
+;=6b
+`A_A^A]A\_^]
+UVWATAUAVAWH
+D+=P[
+`A_A^A]A\_^]
+8D$8t
+L$ E
+<Et	H
+\$ L
+\$@D
+x ATAUAWH
+\$PI
+A_A]A\
+D8d$Ht
+D$0H
+80tVD
+gfffA
+@SUVWH
+D$pH
+D$XH
+T$@D
+|$@-H
+|$@-D
+L$@H
+D$0H
+D$@H
+L$pH3
+_^][
+UATAUAVAWH
+|$(D
+?D8}
+Z0E8
+H+M0x
+d|.H
+gfffffffH
+\$PI
+A_A^A]A\]
+x ATH
+T$xH
+@8|$8t
+@8t$8t
+<$-Hc
+<$-u
+IcD$
+\$ I
+\$PH
+l$XH
+t$`H
+|$hH
+@SUVWH
+D$`H
+D$HH
+T$0D
+|$0-H
+D$43
+L$0D
+|$0-
+L$0D
+D$(H
+L$`H3
+x_^][
+@SUVWATH
+D$pH
+D$XH
+T$@D
+d$D3
+|$@-
+L$@D
+L$@D
+D$(H
+D$0H
+D$@H
+L$pH3
+A\_^][
+etjA
+EtdA
+D$pD
+L$`H
+at$A
+D$pD
+L$`H
+D$pD
+L$`H
+D$pD
+L$`H
+D$xH
+x ATAUAWH
+l$8H
+t$@H
+|$HfA
+\$0H
+A_A]A\
+` UH
+\$PH
+t$XH
+|$`L
+d$hH
+x ATAUAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A]A\
+Uy]E3
+|$ UH
+|$ UH
+\$0H
+u	A!A
+@USVWH
+M'H3
+_^[]
+UVWATAUAVAWH
+t7E3
+u"fE
+E9.t
+$(E;
+<5|j
+A_A^A]A\_^]
+fD9M
+ueeH
+D$0 
+\$8H
+\$0H
+\$0H
+x:;^Xu
+\$0H
+t$8H
+\$0H
+9q@~%H
+x_;{@}ZH
+;{@|
+\$0H
+l$8H
+t$@H
+\$0H
+L$(H
+T$0H
+L$ H
+\$0H
+t$ WATAUAVAWH
+ Icx
+~ID;c
+T$PE3
+D$PD
+\$XH
+t$hH
+l$`H
+ A_A^A]A\_
+p WATAUH
+\$@H
+l$HH
+t$XH
+ A]A\_
+T$PL
+D$8H
+D$(L
+D$ L
+\$XH
+t$`H
+L$xL
+\$(H
+L$ H
+l$XH
+t$`H
+D$@H
+WATAUH
+ HcZ
+d$pH
+T$hL
+D$`A
+t*HcO
+A;1~	I
+teE3
+D;)|
+\$@H
+l$HH
+t$PH
+ A]A\_
+\$0H
+@USVWATAUAVAWH
+L$0H
+D$0H
+F@E3
+D$(H
+\$PH
+t$XH
+\$`L
+d$pH
+D$ H
+|$xL
+A_A^A]A\_^[]
+\$0H
+l$8H
+t$@H
+(McH
+L$@I
+L$@;|
+\$0H
+L$@I
+\$0H
+x ATH
+t;9_
+\$0H
+l$8H
+t$@H
+|$HH
+8RCC
+8MOC
+8csm
+SVWATAUAVAWH
+|$xL
+0A_A^A]A\_^[
+9csm
+WATAUAVAWH
+9:~x
+F0HcH
+F0HcH
+~EHc
+\$PH
+l$XH
+t$`A
+ A_A^A]A\_
+@SVWATAUAVAWH
+l$ D!
+L!l$HL!l$@
+D$8H
+D$PL9oXt
+L$@A
+D$HH
+\$@M
+l$ H
+\$HH
+d$`L
+t$PI
+>csm
+D$8HcH
+A_A^A]A\_^[
+ATAUAVH
+tnLcV
+t69^
+\$PH
+t$XH
+|$`H
+0A^A]A\
+uaE3
+\$0H
+t$8H
+VWATAUAVH
+L$@H
+l$0I
+T$(H
+\$PI
+A^A]A\_^
+UVWATAUAVAWH
+>MOC
+>RCC
+D$0I
+|$(H
+D$PL
+t$0H
+D$(H
+;L$P
+l$8H
+L$(H
+;L$P
+`A_A^A]A\_^]
+UVWATAUAVAWH
+?csm
+?csm
+E9,$~T3
+IcL$
+IcL$
+E;,$|
+?csm
+|$0H
+D$(H
+A9t$
+A;t$
+Mc,$E
+O0HcQ
+O0HcQ
+G0Hc	H
+D$@I
+D$8H
+D$0L
+l$(L
+HcC H
+L$@L
+|$8H
+A_A^A]A\_^]
+D$0H
+t$(H
+WATAVH
+;csm
+t0D9
+ t?D9
+t D9
+HcO H
+;csm
+K0LcY
+D$8H
+D$(H
+|$ A
+D$(H
+\$`H
+l$hH
+t$pH
+@A^A\_
+L$0H
+T$8D
+D$@H
+T$8H
+x ATH
+\$0H
+l$8H
+t$@H
+|$HA
+t$83
+USVWATAUH
+D$@H
+D$0H
+T$8H
+D$(H
+L$pD
+nEpH
+|$HL
+D$Xf
+nD$0
+ZD$h
+L$8I
+D$0H
+A]A\_^[]
+)t$`
+D$("
+D$("
+D$(!
+D$("
+t$PH
+(t$`H
+)t$`A
+t$PL
+D$@D
+D$(!
+D$(!
+D$("
+t$PL
+(t$`H
+t>H=
+t&H=
+!P H
+!P`H
+A A#
+B`A#
+\$8H
+t$@H
+|$HH
+D$(H
+D$pH
+t$ WH
+\$@H
+t$HH
+HcM H
+t!Hc
+D$0H
+D$(H
+D$ L
+8csm
+H(H9J(u
+8csm
+@SUH
+;csm
+SUVWH
+SUWH
+}`H;
+SUWH
+}PH;
+SUWH
+}`H;
+EPHk
+\$PH
+\$@M
+T$HH
+|$@L
+T$HH
+\$PH
+\$PH
+\$@M
+T$HH
+|$@L
+T$HH
+\$PH
+\$PH
+\$@M
+T$HH
+|$@L
+T$HH
+\$PH
+\$0H
+\$0H
+L$73
+D$6M
+L$0L
+u@E3
+D$0H
+D$(E
+uJE3
+UVWATAUAVAWH
+T${H
+D8gIuPfff
+D8wIuP
+E8t$It
+u9fff
+A_A^A]A\_^]
+SVWH
+|$XL
+T$`H
+t$PL
+T$XH
+0_^[
+@USVWH
+d$pL
+l$0E3
+t$(H
+|$ D9a
+|$ uSH
+t$(uSH
+d$puSH
+8_^[]
+\$ UVWH
+L$!3
+L$ L
+L$ L
+D$0H
+T$0A
+\$HH
+t$PH
+\$HH
+t$PH
+\$XH
+\$HL
+T$PH
+\$@L
+T$HH
+\$XH
+|$ ATH
+D8c)uKH
+D8`)u
+D8`)u5H
+D8`)t
+D8`)u
+D8`)t
+D8c)uPfffff
+D8f)t
+D8c)uIH
+D8`)u
+D8`)u3
+D8`)t
+D8`)u
+D8`)t
+D8c)uH
+D8f)t
+\$0H
+l$8H
+t$@D
+|$HH
+\$ UVWATAUAVAWH
+D$4L
+D$4D
+t$0u'E3
+L$ I
+L$@A
+D$4L
+D$(L
+t$0H
+A_A^A]A\_^]
+WATAUAVAWH
+\$(H
+\$0H
+\$8H
+T$(I
+t$0I
+d$0D
+\$HH
+\$PH
+\$XH
+T$HI
+l$PH
+\$pI
+A_A^A]A\_
+VWATH
+L$A3
+L$A3
+L$@L
+D$@3
+L$A3
+D$@H
+t8E3
+L$@H
+WLt?H
+A\_^
+@SUH
+L$!3
+L$ L
+D$ H
+T$ E3
+L$!3
+L$ L
+D$ H
+T$ L
+l$ WH
+t$0H
+L$0H;
+T$0H;
+t$0H+
+t$8H
+\$@H
+l$HH+
+l$ WH
+t$0H
+L$0H;
+T$0H;
+t$0H+
+t$8H
+\$@H
+l$HH+
+UVWATAUAVAWH
+uGE3
+tiI;
+uCE3
+tgI;
+pA_A^A]A\_^]
+@SVWH
+L$!3
+L$ L
+L$ L
+L$ A
+Unknown exception
+bad allocation
+CorExitProcess
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+('8PW
+700PP
+`h`hhh
+xppwpp
+UTF-8
+UTF-16LE
+UNICODE
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+e+000
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+=L9o<
+vids
+ppj.
+pRlL
+9/+t
+:R3A
+Doo\m1
+HBuB
+HBuB
+HBuB
+HhU1
+1CW#
+y-?n
+/LtE
+	Y&k
+&1*y
++HV@
+3"#C8
+WfKs
+JKN#
+e[^~
+,'aq
+bad exception
+_Mem_Runtime_Data
+invalid map/set<T> iterator
+map/set<T> too long
+invalid string position
+string too long
+{16f8e5c7-a429-4a91-8746-0d6414974bdc}
+{%s} %s(%d) [%d]: ASSERT("%s") "%s"
+{%s} %s(%d) [%d]: trace %s
+============================================================================
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\AudioSession.cpp
+Session information
+SessionIdentifier : %s
+SessionInstanceIdentifier : %s
+Process ID : %d, Single Process : %s
+SystemSoundsSession : %s
+%s is running.
+wwahost.exe
+%s module is in memory.
+Failed to open a process (%d), Error code = %d.
+%s module is not in memory.
+vector<T> too long
+mCameraName
+SOFTWARE\Waves Audio\MaxxAudio\General
+CAutoSubtypeOnAudioSession::OnRefreshSessionList -> SUT_DISCONNECTED -> DisconnectReasonServerShutdown.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\AutoSubtypeOnAudioSession.cpp
+running
+not running
+Application %s is %s.
+APORenderA
+APORenderB
+APORenderDockA
+APORenderDockB
+APOMVCaptureA
+APOMVCaptureB
+APOMVCaptureDockA
+APOMVCaptureDockB
+Render
+Capture
+unset
+SubType is %s for %s (%s).
+CAutoSubtypeOnAudioSession::OnDeviceStateChanged(%s, %d).
+CAutoSubtypeOnAudioSession::OnRefreshAudioObjects.
+Camera is active : %s.
+Set WFC SubType.
+Unset WFC SubType.
+WFC timer has just started.
+Expiring timer for WFC.
+Subtype has been changed to %d
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\AutoOrientationControl.cpp
+Sound Mode has been changed to %d
+APORenderGFX
+APOMVCaptureLFX
+CInclinometerPresetOrientationControl::Uninitialize.
+CInclinometerPresetOrientationControl::Initialize.
+On Timer
+CInclinometerPresetOrientationControl::OnDataUpdatedEvent.
+Calculated SM = %d
+Setting Timer: %u seconds, Last SM = %d, New SM = %d
+CInclinometer3DSensor::OnDataUpdatedEvent() Failed
+SM ignored
+SM calculated = %d
+Set Sound Mode to %d
+SM not changed
+SOFTWARE\Lenovo\MoccaMode
+Error: Failed to open registry key "%s", Error Code (%d)
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\AutoOrientationControl_Lenovo.cpp
+Error: Failed to create event, Error code (%d)
+Error: Failed to register for registry change notification, Error code (%d)
+Orientation Sound Mode for Output Mode (0) has been changed to %d
+Mode
+CBaseThread::ThreadFunc
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\BaseThread.cpp
+DoTheWork
+CBaseThread::Start
+CreateEvent
+CreateThread
+CBaseThread::Stop
+SetEvent
+WaitForSingleObject
+WaitForSingleObject, Error Code = %d
+DEFAULT
+{C18E2F7E-933D-4965-B7D1-1EEF228D2AF3}
+ExternalModule
+{44444404-dbc0-4106-91ed-87aa08bf614e}
+{44444403-c7e3-40c4-94eb-8d5f3fabb3e8}
+{33330001-fcfc-4367-9e0e-5d4533ff7dcb}
+APOMVCaptureDock
+{22220001-5ee5-4a88-9c52-cc2989d6ac6d}
+{77777703-9a73-44bb-bfe9-db76354b330e}
+{77777702-4bd6-4e10-bf93-391d0413305f}
+{66660002-06d0-4b9d-a121-775aa4ac208f}
+{66660001-81f3-42cd-9a32-5c72273431fe}
+{55550002-a639-4dc2-b816-21158f7cb9ed}
+{55550001-9c76-457f-b3d2-a1400b696958}
+{44444402-aed6-4172-9884-14e02f2a7d72}
+APOMVCapturePSS
+{33330000-3657-4da7-96d6-9c0808ca95a6}
+APOMSCaptureLFX
+{11111155-852c-48b9-8d43-61e5455392d3}
+{77777701-ff66-4d7e-939c-3859cafbe669}
+{66660000-626b-4aea-b582-5895aeddf39f}
+{55550017-0c8d-4bac-baf2-24ac14b873e2}
+{44440000-c661-4f31-a1a4-94937c15c087}
+{33330000-c622-487d-9bc0-639fffef1851}
+{44444401-d66f-4826-824a-63974a0d27ad}
+{44444400-3f0b-402a-af67-8244f1075962}
+{33333337-c9bd-47cd-8a2d-de4341773869}
+{22225555-9ef5-4d58-993a-ca9c93f52f54}
+{22222283-f501-4114-a51f-04b318d992e4}
+{eeeeee85-667f-4aac-b04f-fb6ba4c6ac6c}
+{BDB16ABE-CCCB-4db2-8874-E3DE0F63C52B}
+{DC253AB8-10DC-483c-AB5F-D6A4E189FD70}
+{A27368B3-D810-42ce-B114-83900258B8EC}
+{62dc1a93-ae24-464c-a43e-452f824c4250}
+{637C490D-EEE3-4C0A-973F-371958802DA2}
+APOVSDRenderGFX
+{919E321F-A0D6-460d-9333-1A0FAD222AB7}
+{77777700-a618-46a1-b783-f50fdba00e86}
+{666666de-de1f-47e6-a4c4-dba360675157}
+{55555548-68cc-4cd7-b0b1-e5744039e781}
+{44444440-42ce-433f-9992-8eb7976b907b}
+{AAF1A9FE-267C-4528-ADFE-F34397B99B6D}
+{22DF4E87-F39A-4cbd-988C-BF3F49CDA965}
+{902445EE-6CB4-45f8-A14F-A34C3FECBA34}
+MOVIE
+{B26FEB0D-EC94-477C-9494-D1AB8E753F6E}
+MEDIA
+{4780004E-7133-41D8-8C74-660DADD2C0EE}
+NOTIFICATION
+{9CF2A70B-F377-403B-BD6B-360863E0355C}
+SPEECH
+{FC1CFC9B-B9D6-4CFA-B5E0-4BB2166878B2}
+COMMUNICATION
+{98951333-B9CD-48B1-A0A3-FF40682D73F7}
+{9E90EA20-B493-4FD1-A1A8-7E1361A956CF}
+MaxxAudioOptions
+Nuvoton
+VEN_1050
+Intel
+DEV_3438
+VEN_INT
+Fujitsu
+VEN_10CF
+Lenovo/NEC
+VEN_17AA
+Cirrus Logic
+VEN_1013
+VEN_1106
+Conexant
+VEN_14F1
+VEN_111D
+Realtek
+VEN_10EC
+Microsoft
+Unknown
+HdAudAddService
+wave
+INTELAUDIO
+HDAUDIO
+ACPI
+SUBSYS_
+VEN_
+DEV_
+CDirectShowCameraImp::CDirectShowCameraImp
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\DirectShowCamera.cpp
+CDirectShowCameraImp::~CDirectShowCameraImp
+CDirectShowCameraImp::Connect
+Failed at m_pGraphBuilder->AddFilter. Error Code = 0x%08x
+Failed at m_pSampleCaptureGraphBuilder->SetOutputFileName. Error Code = 0x%08x
+Failed at m_pSampleCaptureGraphBuilder->RenderStream. Error Code = 0x%08x
+Failed at m_pSampleCaptureGraphBuilder->ControlStream. Error Code = 0x%08x
+Failed at m_pGraphBuilder->QueryInterface. Error Code = 0x%08x
+successful
+fail
+CDirectShowCameraImp::Connect is %s
+Failed to create CaptureGraphBuilder2. Error Code = 0x%08x
+Failed to create GraphBuilder. Error Code = 0x%08x
+Failed at m_pSampleCaptureGraphBuilder->SetFiltergraph. Error Code = 0x%08x
+CDirectShowCameraImp::InitializeVideoCaptureFilter
+Failed to create CreateDevEnum. Error Code = 0x%08x
+Failed at pCreateDevEnum->CreateClassEnumerator. Error Code = 0x%08x
+Failed at pMoniker->BindToStorage. Error Code = 0x%08x
+CDirectShowCameraImp::Disconnect
+Failed at pMediaControl->Run. Error Code = 0x%08x
+Failed at pMediaControl->Stop. Error Code = 0x%08x
+Property%u
+SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\
+SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\
+{3BA0CD54-830F-4551-A6EB-F3EAB68E3700},17
+{3BA0CD54-830F-4551-A6EB-F3EAB68E3700},6
+\Properties
+\FxProperties
+Conexant -> Internal device for "%s" APO Type is : %s.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\EndpointIDStringList.cpp
+WavesGenericWindow
+Error: Failed to create event
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\JackSense.cpp
+Error: Failed to open registry key
+MaxxAudioAPOShell64.dll
+Error: Failed to load shell DLL
+Software\Waves Audio\MaxxAudio\General
+Error: Failed to initialize WavesFX
+LineOutMode
+SYSTEM\ControlSet001\services\NAU88L24Rvp\Parameters
+JackInserted2
+SYSTEM\CurrentControlSet\Control\Class\{4d36e96c-e325-11ce-bfc1-08002be10318}
+HeadsetStatus
+A'qQU
+KeyhookTest
+[KeyHook] Key processed 0x%08x,0x%08x,0x%08x,0x%08x
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\KeyboardTimeManage.cpp
+[KeyHook] Not updated, continues event 
+[KeyHook] ERROR! vkCode >=256, 0x%08x,0x%08x,0x%08x,0x%08x
+[KeyHook] Key error 2
+FALSE
+[KeyHook] Key error 1
+[KeyHook] Thread Started
+[KeyHook] Thread Ended
+[KeyHook] Creating thread
+[KeyHook] Uninit
+[KeyHook] Posting WM_QUIT
+[KeyHook] Thread ended successfully - synced
+[KeyHook] SetWindowsHookEx: 0x%08x
+[KeyHook] Starting message loop
+[KeyHook] Finished message loop
+[KeyHook] UnhookWindowsHookEx( 0x%08x )
+[KeyHook] WM_INPUT
+Local\
+Global\
+CPresetOrientationSettings::RestoreSettings.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\PresetOrientationSettings.cpp
+Landscape_Standing_X_Min
+Software\Waves Audio\OrientationSettings\General
+Landscape_Standing_X_Max
+Landscape_Laying_X_Min
+Landscape_Laying_X_Max
+Portrait_Standing_Y_Min
+Portrait_Standing_Y_Max
+Portrait_Laying_Y_Min
+Portrait_Laying_Y_Max
+Timeout
+Advapi32.dll
+RegCreateKeyTransactedA
+HBuB
+CSimpleDeviceOrientationSensor::OnDataUpdatedEvent. Device Orientation = %u.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\SensorManager.cpp
+%04x%04x%04x
+%04x%04x
+SSIDEx
+MaxxAudioGUIType
+Software\Conexant
+Error code = 0x%08x, Error description : %s
+Stopping the audio client.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\StreamMonitor.cpp
+Failed to stop the AudioClient. %s
+Failed to create instance of MMDeviceEnumerator. %s
+Failed to get default instance of MMDevice. %s
+Failed to activate the AudioClient. %s
+Failed to get the Mix-Format. %s
+Failed to initialize the AudioClient. %s
+Failed to initialize the CaptureClient. %s
+Starting the audio client.
+Failed to start the AudioClient. %s
+GetThreadPriority -> Before AvSetMmThreadCharacteristics (%d).
+AvSetMmThreadCharacteristics.
+Pro Audio
+AvSetMmThreadCharacteristics -> Error code (%d).
+GetThreadPriority -> After AvSetMmThreadCharacteristics (%d).
+Sleeping.
+Un-initializing the Stream Monitor.
+Initializing the Stream Monitor.
+Failed to initialize the Stream Monitor. %s
+Sample rate change is applied.
+CStreamMonitor::OnPropertyValueChanged.
+Sample rate has been changed to = %d
+WavesFX_Initialize
+WavesFX_Uninitialize
+WavesFX_IsConnectionActive
+WavesFX_SetParameter
+WavesFX_GetParameter
+WavesFX_GetParametersArray
+WavesFX_SetParametersArray
+WavesFX_SetChunk
+WavesFX_GetChunk
+WavesFX_SetBypassMode
+WavesFX_SetDoubleBufferingMode
+WavesFX_SetProperty
+WavesFX_GetProperty
+WavesFX_RegisterChangeNotification
+WavesFX_VendorSpecific
+WavesFX_Preset_SaveDefault
+WavesFX_Preset_SaveDefault2
+WavesFX_Preset_RegisterFile
+WavesFX_Preset_RegisterMem
+WavesFX_Preset_SetActive
+WavesFX_Preset_GetActive
+WavesFX_Preset_SetParameter
+WavesFX_Preset_GetParameter
+WavesFX_Preset_GetDefaultParameter
+WavesFX_Preset_RevertToDefault
+WavesFX_Preset_SetType
+WavesFX_Preset_GetType
+WavesFX_Preset_GetDefaultType
+WavesFX_Preset_GetName
+WavesFX_Preset_GetCount
+WavesFX_Preset_GetNameW
+WavesFX_Preset_SetNameW
+WavesFX_Preset_GetParametersArray
+WavesFX_Preset_SetParametersArray
+WavesFX_Preset_Add
+WavesFX_Preset_Delete
+WavesFX_Preset_GetOutputName
+WavesFX_Preset_RegisterChangeNotification
+WavesFX_CreatePluginWindow
+WavesFX_DetachPluginWindow
+ATL:%p
+MuteTimeout
+CPowerState
+Mute
+Mute flag is set to 1. Un-muting the audio.
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\WavesSvc\AutoMuteOnHibernate.cpp
+Setting Mute flag to %d.
+Mute State was : %g
+PBT_APMPOWERSTATUSCHANGE
+PBT_APMRESUMEAUTOMATIC
+PBT_APMRESUMESUSPEND
+PBT_APMSUSPEND
+PBT_POWERSETTINGCHANGE
+PBT_APMQUERYSUSPEND
+Speakers - Large size
+Speakers - Medium size
+Speakers - Small size
+Headphones - Large size
+Headphones - Medium size
+Headphones - Small size
+ShowJackPopup
+communicator.exe
+skypeapp
+SkypeWebPlugin.exe
+skype.exe
+SSID = "%s"
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\WavesSvc\WavesSvc.cpp
+SSID
+Error storing data to registry.
+Failed reading SSID.
+Param%u
+SOFTWARE\Waves Audio\MaxxVoice\General
+Stop
+Stopping...
+Install
+Uninstall
+Uninstalling...
+WavesSvc
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Get SSID...
+Jack
+Initialize jack sense...
+Jack sense failed to initialize.
+Installing...
+"%s"
+ -Jack
+Debug
+Global\ParameterChangeNotification0
+Failed to create event. Error Code = (%d)
+s_hParamChangeEvent_Render
+Global\ParameterChangeNotification8
+s_hParamChangeEvent_RenderB
+Global\ParameterChangeNotification4
+s_hParamChangeEvent_Capture
+Global\ParameterChangeNotification12
+s_hParamChangeEvent_CaptureB
+Preset Per Orientation is set to ON.
+WavesSvcStop
+s_hStopEvent
+Started
+Automatic Mute on Hibernate is set ON.
+CAutoMuteOnHibernate
+Automatic Skype Detect is set to ON.
+Automatic Lync Detect is set to ON.
+AutoSubtypeOnAudioSession
+CAutoOrientationControl_Lenovo::Initialize() = %d
+CAutoOrientationControl::Initialize(MaxxVoice) = %d
+CInclinometerPresetOrientationControl::Initialize() = %d
+MVBufferToKeep
+DeBabbleToKeep
+GSCBufferToKeep
+Unhooking the keyboard
+Capture Event: Param Changed
+Event: Stop
+Render Event: Param Changed
+Event: Jack Sense
+Event: Mocca Mode
+Cleaning...
+Finished
+NULL
+WavesFX
+APOCaptureLFX
+APOVSDCaptureLFX
+APOCustom
+WavesLenovoApp
+MaxxAudioClient
+CVManager
+WavesFX_Initialize([wfx==0x%x] "%s", %u, "%s")
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\WavesMaxxAudioGeneric.cpp
+WavesFX_Uninitialize(0x%x)
+%s(...)=%d
+WavesFX_SetParameter(0x%x, %u, %g)
+WavesFX_GetParameter(0x%x, %u, *)
+WavesFX_GetParameter(_, _, %s)=%d
+WavesFX_Preset_SetActive(0x%x, %d, %d)
+WavesFX_Preset_GetActive(0x%x, *, *)
+WavesFX_Preset_GetActive(_, %s, %s)=%d
+WavesFX_Preset_SetParameter(0x%x, %u, %g, %d, %d)
+WavesFX_Preset_GetParameter(0x%x, %u, *, %d, %d)
+WavesFX_Preset_GetParameter(_, _, %s, _, _)=%d
+WavesFX_Preset_RevertToDefault(0x%x, %d, %d)
+WavesFX_Preset_SetType(0x%x, %d, %d, 0x%08x)
+WavesFX_Preset_GetType(0x%x, %d, %d, *)
+WavesFX_Preset_GetType(_, _, _, %s)=%d
+WavesFX_GetProperty(0x%x, %u, *, %u, *)
+WavesFX_GetProperty(_, _, _, _, %s)=%d
+WavesFX_SetDoubleBufferingMode(0x%x, %d, %d)
+WavesFX_Preset_SetSoundMode(0x%x, %d, %d)
+WavesFX_Preset_SetSoundMode(_, _, _)=%d
+WavesFX_SetRuntimeData_Value(0x%x, %u, %d)
+WavesFX_SetRuntimeData_Value
+WavesFX_Preset_SetTypeEx(0x%x, %d, %d, %d, %d)
+WavesFX_Preset_SetTypeEx(_, _, _, _, _)=%d
+SOFTWARE\Waves Audio\MaxxAudio_DockA\General
+SOFTWARE\Waves Audio\MaxxAudio_DockB\General
+SOFTWARE\Waves Audio\MaxxAudio_B\General
+SOFTWARE\Waves Audio\MaxxVolumeSD\General
+SOFTWARE\Waves Audio\MaxxVoice_B\General
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\General
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\General
+SOFTWARE\Waves Audio\MaxxSpeech\General
+SOFTWARE\Waves Audio\MaxxVoice_PSS\General
+SOFTWARE\Waves Audio\MaxxAudio\Stream%u
+SOFTWARE\Waves Audio\MaxxAudio_DockA\Stream%u
+SOFTWARE\Waves Audio\MaxxAudio_DockB\Stream%u
+SOFTWARE\Waves Audio\MaxxAudio_B\Stream%u
+SOFTWARE\Waves Audio\MaxxVolumeSD\Stream%u
+SOFTWARE\Waves Audio\MaxxVoice\Stream%u
+SOFTWARE\Waves Audio\MaxxVoice_B\Stream%u
+SOFTWARE\Waves Audio\MaxxSpeech\Stream%u
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\Stream%u
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\Stream%u
+SOFTWARE\Waves Audio\MaxxVoice_PSS\Stream%u
+SOFTWARE\Waves Audio\MaxxAudio\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_DockA\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_DockB\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_B\Presets\User
+SOFTWARE\Waves Audio\MaxxVolumeSD\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_B\Presets\User
+SOFTWARE\Waves Audio\MaxxSpeech\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_PSS\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_DockA\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_DockB\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio_B\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVolumeSD\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_B\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxSpeech\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxVoice_PSS\Stream%u\Presets\User
+SOFTWARE\Waves Audio\MaxxAudio\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_DockA\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_DockB\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_B\Presets\Default
+SOFTWARE\Waves Audio\MaxxVolumeSD\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_B\Presets\Default
+SOFTWARE\Waves Audio\MaxxSpeech\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_PSS\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_DockA\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_DockB\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxAudio_B\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVolumeSD\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_B\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_Dock_A\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_Dock_B\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxSpeech\Stream%u\Presets\Default
+SOFTWARE\Waves Audio\MaxxVoice_PSS\Stream%u\Presets\Default
+Failed to open ("%s") file
+s:\p4client\Consumer\MainRel2\Consumer\Platform\Vista\Shared\ControlMaxxAudioAPO.cpp
+SOFTWARE\Waves Audio\MaxxAudio\Capture
+SOFTWARE\Waves Audio\MaxxVolumeSD\Capture
+WAMAAPO
+WAMADOCKAAPO
+WAMADOCKBAPO
+WAMABAPO
+WAMAAPOCAPTURE
+WAMVSDAPO
+WAMVSDAPOCAPTURE
+WAMVAPOCAPTURE
+WAMVBAPOCAPTURE
+WAMVDOCKAAPOCAPTURE
+WAMVDOCKBAPOCAPTURE
+WAMSAPOCAPTURE
+WAMVPSSAPOCAPTURE
+\Mode %d,%d,%u
+Memory size is %d
+TRUE
+kk= %d, bOk = %s, jj=%d, nMemorySize=%d, nPacketSize=%d, cnSizeOfEachItem=%d
+ActiveOutputMode
+ActiveSoundMode
+ChangeNotify
+WavesNotifications
+Smoothing DB Set %d
+Smoothing not DB
+Smoothing BP Begin
+Smoothing BP End
+DefaultPreset
+SoundModeOnOutput%d
+Type
+PresetChangeNotification%d
+ParameterChangeNotification%d
+Reading Features
+Features set to: %u
+deque<T> too long
+<Chunk %d>
+MaxxAudioPresets
+MaxxAudioPresetParameters
+MaxxAudioOutputModes
+File is corrupted
+No preset has been found
+MAAP_BAND1_ACTIVE
+MAAP_BAND1_TYPE
+MAAP_BAND1_GAIN
+MAAP_BAND1_FREQ
+MAAP_BAND1_Q
+MAAP_BAND2_ACTIVE
+MAAP_BAND2_TYPE
+MAAP_BAND2_GAIN
+MAAP_BAND2_FREQ
+MAAP_BAND2_Q
+MAAP_BAND3_ACTIVE
+MAAP_BAND3_TYPE
+MAAP_BAND3_GAIN
+MAAP_BAND3_FREQ
+MAAP_BAND3_Q
+MAAP_BAND4_ACTIVE
+MAAP_BAND4_TYPE
+MAAP_BAND4_GAIN
+MAAP_BAND4_FREQ
+MAAP_BAND4_Q
+MAAP_BAND5_ACTIVE
+MAAP_BAND5_TYPE
+MAAP_BAND5_GAIN
+MAAP_BAND5_FREQ
+MAAP_BAND5_Q
+MAAP_BAND6_ACTIVE
+MAAP_BAND6_TYPE
+MAAP_BAND6_GAIN
+MAAP_BAND6_FREQ
+MAAP_BAND6_Q
+MAAP_BAND7_ACTIVE
+MAAP_BAND7_TYPE
+MAAP_BAND7_GAIN
+MAAP_BAND7_FREQ
+MAAP_BAND7_Q
+MAAP_BAND8_ACTIVE
+MAAP_BAND8_TYPE
+MAAP_BAND8_GAIN
+MAAP_BAND8_FREQ
+MAAP_BAND8_Q
+MAAP_BAND9_ACTIVE
+MAAP_BAND9_TYPE
+MAAP_BAND9_GAIN
+MAAP_BAND9_FREQ
+MAAP_BAND9_Q
+MAAP_BAND10_ACTIVE
+MAAP_BAND10_TYPE
+MAAP_BAND10_GAIN
+MAAP_BAND10_FREQ
+MAAP_BAND10_Q
+MAAP_PEQ2_BAND1_ACTIVE
+MAAP_PEQ2_BAND1_TYPE
+MAAP_PEQ2_BAND1_GAIN
+MAAP_PEQ2_BAND1_FREQ
+MAAP_PEQ2_BAND1_Q
+MAAP_PEQ2_BAND2_ACTIVE
+MAAP_PEQ2_BAND2_TYPE
+MAAP_PEQ2_BAND2_GAIN
+MAAP_PEQ2_BAND2_FREQ
+MAAP_PEQ2_BAND2_Q
+MAAP_PEQ2_BAND3_ACTIVE
+MAAP_PEQ2_BAND3_TYPE
+MAAP_PEQ2_BAND3_GAIN
+MAAP_PEQ2_BAND3_FREQ
+MAAP_PEQ2_BAND3_Q
+MAAP_PEQ2_BAND4_ACTIVE
+MAAP_PEQ2_BAND4_TYPE
+MAAP_PEQ2_BAND4_GAIN
+MAAP_PEQ2_BAND4_FREQ
+MAAP_PEQ2_BAND4_Q
+MAAP_PEQ2_BAND5_ACTIVE
+MAAP_PEQ2_BAND5_TYPE
+MAAP_PEQ2_BAND5_GAIN
+MAAP_PEQ2_BAND5_FREQ
+MAAP_PEQ2_BAND5_Q
+MAAP_PEQ2_BAND6_ACTIVE
+MAAP_PEQ2_BAND6_TYPE
+MAAP_PEQ2_BAND6_GAIN
+MAAP_PEQ2_BAND6_FREQ
+MAAP_PEQ2_BAND6_Q
+MAAP_PEQ2_BAND7_ACTIVE
+MAAP_PEQ2_BAND7_TYPE
+MAAP_PEQ2_BAND7_GAIN
+MAAP_PEQ2_BAND7_FREQ
+MAAP_PEQ2_BAND7_Q
+MAAP_PEQ2_BAND8_ACTIVE
+MAAP_PEQ2_BAND8_TYPE
+MAAP_PEQ2_BAND8_GAIN
+MAAP_PEQ2_BAND8_FREQ
+MAAP_PEQ2_BAND8_Q
+MAAP_PEQ2_BAND9_ACTIVE
+MAAP_PEQ2_BAND9_TYPE
+MAAP_PEQ2_BAND9_GAIN
+MAAP_PEQ2_BAND9_FREQ
+MAAP_PEQ2_BAND9_Q
+MAAP_PEQ2_BAND10_ACTIVE
+MAAP_PEQ2_BAND10_TYPE
+MAAP_PEQ2_BAND10_GAIN
+MAAP_PEQ2_BAND10_FREQ
+MAAP_PEQ2_BAND10_Q
+MAAP_IPEQ_2_ACTIVE
+MAAP_IPEQ_3_ACTIVE
+MAAP_PEQ3_BAND1_ACTIVE
+MAAP_PEQ3_BAND1_TYPE
+MAAP_PEQ3_BAND1_GAIN
+MAAP_PEQ3_BAND1_FREQ
+MAAP_PEQ3_BAND1_Q
+MAAP_PEQ3_BAND2_ACTIVE
+MAAP_PEQ3_BAND2_TYPE
+MAAP_PEQ3_BAND2_GAIN
+MAAP_PEQ3_BAND2_FREQ
+MAAP_PEQ3_BAND2_Q
+MAAP_PEQ3_BAND3_ACTIVE
+MAAP_PEQ3_BAND3_TYPE
+MAAP_PEQ3_BAND3_GAIN
+MAAP_PEQ3_BAND3_FREQ
+MAAP_PEQ3_BAND3_Q
+MAAP_PEQ3_BAND4_ACTIVE
+MAAP_PEQ3_BAND4_TYPE
+MAAP_PEQ3_BAND4_GAIN
+MAAP_PEQ3_BAND4_FREQ
+MAAP_PEQ3_BAND4_Q
+MAAP_PEQ3_BAND5_ACTIVE
+MAAP_PEQ3_BAND5_TYPE
+MAAP_PEQ3_BAND5_GAIN
+MAAP_PEQ3_BAND5_FREQ
+MAAP_PEQ3_BAND5_Q
+MAAP_PEQ3_BAND6_ACTIVE
+MAAP_PEQ3_BAND6_TYPE
+MAAP_PEQ3_BAND6_GAIN
+MAAP_PEQ3_BAND6_FREQ
+MAAP_PEQ3_BAND6_Q
+MAAP_PEQ3_BAND7_ACTIVE
+MAAP_PEQ3_BAND7_TYPE
+MAAP_PEQ3_BAND7_GAIN
+MAAP_PEQ3_BAND7_FREQ
+MAAP_PEQ3_BAND7_Q
+MAAP_PEQ3_BAND8_ACTIVE
+MAAP_PEQ3_BAND8_TYPE
+MAAP_PEQ3_BAND8_GAIN
+MAAP_PEQ3_BAND8_FREQ
+MAAP_PEQ3_BAND8_Q
+MAAP_PEQ3_BAND9_ACTIVE
+MAAP_PEQ3_BAND9_TYPE
+MAAP_PEQ3_BAND9_GAIN
+MAAP_PEQ3_BAND9_FREQ
+MAAP_PEQ3_BAND9_Q
+MAAP_PEQ3_BAND10_ACTIVE
+MAAP_PEQ3_BAND10_TYPE
+MAAP_PEQ3_BAND10_GAIN
+MAAP_PEQ3_BAND10_FREQ
+MAAP_PEQ3_BAND10_Q
+MAAP_SYSTEM_TYPE
+MAAP_MUTE
+MAAP_BYPASS_ALL
+MAAP_MAXX_3D_SPAN
+MAAP_MAXX_3D_LOW_FREQUENCY
+MAAP_IVOLUME_DYNAMIC
+MAAP_IVOLUME_LOW_LEVEL_GAIN
+MAAP_IVOLUME_GATE
+MAAP_IVOLUME_TRIM_OUTPUT
+MAAP_MAXX_HF_FREQUENCY
+MAAP_MAXX_BASS_FREQUENCY
+MAAP_IVOLUME_GAIN
+MAAP_MAXX_3D_EFFECT
+MAAP_MAXX_HF_EFFECT
+MAAP_MAXX_BASS_EFFECT
+MAAP_IVOLUME_A_LEVELER_ACTIVE
+MAAP_IVOLUME_A_LEVELER_THRESHOLD
+MAAP_IVOLUME_B_LEVELER_ACTIVE
+MAAP_IVOLUME_B_LEVELER_THRESHOLD
+MAAP_IVOLUME_LEVELER_SELECT
+MAAP_BALANCE
+MAAP_IPEQ_ACTIVE
+MAAP_MAXX_BASS_ACTIVE
+MAAP_MAXX_HF_ACTIVE
+MAAP_MAXX_3D_ACTIVE
+MAAP_IVOLUME_ACTIVE
+MAAP_IVOLUME_HARDKNEE
+MAAP_AEQ_ACTIVE
+MAAP_MAXX_BASS_HIGH_PASS_ACTIVE
+MAAP_MAXX_BASS_HIGH_PASS_FREQ
+MAAP_TRIM_INPUT
+MAAP_IVOLUME_RANGE_FACTOR
+MAAP_MAXX_BASS_RANGE_FACTOR
+MAAP_MAXX_HF_RANGE_FACTOR
+MAAP_MAXX_3D_RANGE_FACTOR
+MAAP_SPEAKER_PROTECTION_CHAIN
+MAAP_ATTACH_SYSTEM_VOLUME
+MAAP_MAXX_BASS_ORIGINAL_BASS
+MAAP_MAXX_BASS_COMP_INT
+MAAP_MAXX_BASS_CUTOFF_RATIO
+MAAP_MAXX_BASS_INTENSITY_RATIO
+MAAP_MAXX_BASS_OUTPUT_LP_RATIO_A
+MAAP_MAXX_BASS_OUTPUT_LP_RATIO_B
+MAAP_MAXX_BASS_INPUT_HP_RATIO
+MAAP_MAXX_BASS_AMOUNT
+MAAP_CENTER_ACTIVE
+MAAP_CENTER_GAIN_CENTER
+MAAP_CENTER_GAIN_LEFTRIGHT
+MAAP_LEVELER_ACTIVE
+MAAP_LEVELER_TARGET
+MAAP_LEVELER_RANGE
+MAAP_LEVELER_CURVE
+MAAP_VOLUME_COMPRESSOR_ACTIVE
+MAAP_VOLUME_COMPRESSOR_RATIO
+MAAP_VOLUME_COMPRESSOR_THRESHOLD
+MAAP_VOLUME_COMPRESSOR_ATTACK
+MAAP_VOLUME_COMPRESSOR_RELEASE
+MAAP_VOLUME_COMPRESSOR_MAKEUP
+MAAP_VOLUME_COMPRESSOR_KNEE
+MAAP_LEVELER_ATTACK
+MAAP_LEVELER_RELEASE
+MAAP_LEVELER_Q
+MAAP_DISCRETE_EQ_MODE
+MAAP_ECHO_CANCELLER_SUPPORT
+MAAP_IGNORE_SYSTEM_GAIN_FOR_EC
+MAAP_BAND1_R_ACTIVE
+MAAP_BAND1_R_TYPE
+MAAP_BAND1_R_GAIN
+MAAP_BAND1_R_FREQ
+MAAP_BAND1_R_Q
+MAAP_BAND2_R_ACTIVE
+MAAP_BAND2_R_TYPE
+MAAP_BAND2_R_GAIN
+MAAP_BAND2_R_FREQ
+MAAP_BAND2_R_Q
+MAAP_BAND3_R_ACTIVE
+MAAP_BAND3_R_TYPE
+MAAP_BAND3_R_GAIN
+MAAP_BAND3_R_FREQ
+MAAP_BAND3_R_Q
+MAAP_BAND4_R_ACTIVE
+MAAP_BAND4_R_TYPE
+MAAP_BAND4_R_GAIN
+MAAP_BAND4_R_FREQ
+MAAP_BAND4_R_Q
+MAAP_BAND5_R_ACTIVE
+MAAP_BAND5_R_TYPE
+MAAP_BAND5_R_GAIN
+MAAP_BAND5_R_FREQ
+MAAP_BAND5_R_Q
+MAAP_BAND6_R_ACTIVE
+MAAP_BAND6_R_TYPE
+MAAP_BAND6_R_GAIN
+MAAP_BAND6_R_FREQ
+MAAP_BAND6_R_Q
+MAAP_BAND7_R_ACTIVE
+MAAP_BAND7_R_TYPE
+MAAP_BAND7_R_GAIN
+MAAP_BAND7_R_FREQ
+MAAP_BAND7_R_Q
+MAAP_BAND8_R_ACTIVE
+MAAP_BAND8_R_TYPE
+MAAP_BAND8_R_GAIN
+MAAP_BAND8_R_FREQ
+MAAP_BAND8_R_Q
+MAAP_BAND9_R_ACTIVE
+MAAP_BAND9_R_TYPE
+MAAP_BAND9_R_GAIN
+MAAP_BAND9_R_FREQ
+MAAP_BAND9_R_Q
+MAAP_BAND10_R_ACTIVE
+MAAP_BAND10_R_TYPE
+MAAP_BAND10_R_GAIN
+MAAP_BAND10_R_FREQ
+MAAP_BAND10_R_Q
+MAAP_MULTIBAND_ACTIVE
+MAAP_MVBAND0_ONOFF
+MAAP_MVBAND0_SOLO
+MAAP_MVBAND0_FILT_TYPE
+MAAP_MVBAND0_FREQUENCY
+MAAP_MVBAND0_Q
+MAAP_MVBAND0_MAKEUP
+MAAP_MVBAND0_REF_MODE
+MAAP_MVBAND0_CHAN_MODE
+MAAP_MVBAND0_COMP_ONOFF
+MAAP_MVBAND0_COMP_KNEE
+MAAP_MVBAND0_COMP_ATK
+MAAP_MVBAND0_COMP_REL
+MAAP_MVBAND0_COMP_RATIO
+MAAP_MVBAND0_COMP_THR
+MAAP_MVBAND0_LIMITER_MODE
+MAAP_MVBAND1_ONOFF
+MAAP_MVBAND1_SOLO
+MAAP_MVBAND1_FILT_TYPE
+MAAP_MVBAND1_FREQUENCY
+MAAP_MVBAND1_Q
+MAAP_MVBAND1_MAKEUP
+MAAP_MVBAND1_REF_MODE
+MAAP_MVBAND1_CHAN_MODE
+MAAP_MVBAND1_COMP_ONOFF
+MAAP_MVBAND1_COMP_KNEE
+MAAP_MVBAND1_COMP_ATK
+MAAP_MVBAND1_COMP_REL
+MAAP_MVBAND1_COMP_RATIO
+MAAP_MVBAND1_COMP_THR
+MAAP_MVBAND1_LIMITER_MODE
+MAAP_MVBAND2_ONOFF
+MAAP_MVBAND2_SOLO
+MAAP_MVBAND2_FILT_TYPE
+MAAP_MVBAND2_FREQUENCY
+MAAP_MVBAND2_Q
+MAAP_MVBAND2_MAKEUP
+MAAP_MVBAND2_REF_MODE
+MAAP_MVBAND2_CHAN_MODE
+MAAP_MVBAND2_COMP_ONOFF
+MAAP_MVBAND2_COMP_KNEE
+MAAP_MVBAND2_COMP_ATK
+MAAP_MVBAND2_COMP_REL
+MAAP_MVBAND2_COMP_RATIO
+MAAP_MVBAND2_COMP_THR
+MAAP_MVBAND2_LIMITER_MODE
+MAAP_MVBAND3_ONOFF
+MAAP_MVBAND3_SOLO
+MAAP_MVBAND3_FILT_TYPE
+MAAP_MVBAND3_FREQUENCY
+MAAP_MVBAND3_Q
+MAAP_MVBAND3_MAKEUP
+MAAP_MVBAND3_REF_MODE
+MAAP_MVBAND3_CHAN_MODE
+MAAP_MVBAND3_COMP_ONOFF
+MAAP_MVBAND3_COMP_KNEE
+MAAP_MVBAND3_COMP_ATK
+MAAP_MVBAND3_COMP_REL
+MAAP_MVBAND3_COMP_RATIO
+MAAP_MVBAND3_COMP_THR
+MAAP_MVBAND3_LIMITER_MODE
+MAAP_MVBAND4_ONOFF
+MAAP_MVBAND4_SOLO
+MAAP_MVBAND4_FILT_TYPE
+MAAP_MVBAND4_FREQUENCY
+MAAP_MVBAND4_Q
+MAAP_MVBAND4_MAKEUP
+MAAP_MVBAND4_REF_MODE
+MAAP_MVBAND4_CHAN_MODE
+MAAP_MVBAND4_COMP_ONOFF
+MAAP_MVBAND4_COMP_KNEE
+MAAP_MVBAND4_COMP_ATK
+MAAP_MVBAND4_COMP_REL
+MAAP_MVBAND4_COMP_RATIO
+MAAP_MVBAND4_COMP_THR
+MAAP_MVBAND4_LIMITER_MODE
+MAAP_MVBAND5_ONOFF
+MAAP_MVBAND5_SOLO
+MAAP_MVBAND5_FILT_TYPE
+MAAP_MVBAND5_FREQUENCY
+MAAP_MVBAND5_Q
+MAAP_MVBAND5_MAKEUP
+MAAP_MVBAND5_REF_MODE
+MAAP_MVBAND5_CHAN_MODE
+MAAP_MVBAND5_COMP_ONOFF
+MAAP_MVBAND5_COMP_KNEE
+MAAP_MVBAND5_COMP_ATK
+MAAP_MVBAND5_COMP_REL
+MAAP_MVBAND5_COMP_RATIO
+MAAP_MVBAND5_COMP_THR
+MAAP_MVBAND5_LIMITER_MODE
+MAAP_MVBAND6_ONOFF
+MAAP_MVBAND6_SOLO
+MAAP_MVBAND6_FILT_TYPE
+MAAP_MVBAND6_FREQUENCY
+MAAP_MVBAND6_Q
+MAAP_MVBAND6_MAKEUP
+MAAP_MVBAND6_REF_MODE
+MAAP_MVBAND6_CHAN_MODE
+MAAP_MVBAND6_COMP_ONOFF
+MAAP_MVBAND6_COMP_KNEE
+MAAP_MVBAND6_COMP_ATK
+MAAP_MVBAND6_COMP_REL
+MAAP_MVBAND6_COMP_RATIO
+MAAP_MVBAND6_COMP_THR
+MAAP_MVBAND6_LIMITER_MODE
+MAAP_IVOLUME_CEILING
+MAAP_MVBAND7_ONOFF
+MAAP_MVBAND7_SOLO
+MAAP_MVBAND7_FILT_TYPE
+MAAP_MVBAND7_FREQUENCY
+MAAP_MVBAND7_Q
+MAAP_MVBAND7_MAKEUP
+MAAP_MVBAND7_REF_MODE
+MAAP_MVBAND7_CHAN_MODE
+MAAP_MVBAND7_COMP_ONOFF
+MAAP_MVBAND7_COMP_KNEE
+MAAP_MVBAND7_COMP_ATK
+MAAP_MVBAND7_COMP_REL
+MAAP_MVBAND7_COMP_RATIO
+MAAP_MVBAND7_COMP_THR
+MAAP_MVBAND7_LIMITER_MODE
+MAAP_SURROUND_UPMIX_ACTIVE
+MAAP_SURROUND_UPMIX_MODE
+MAAP_SURROUND_UPMIX_EFFECT
+MAAP_MV_LINK_MODE
+MAAP_LEVELER_MODE
+MAAP_LEVELER_WEIGHT_FRONT
+MAAP_LEVELER_WEIGHT_CENTER
+MAAP_LEVELER_WEIGHT_LFE
+MAAP_LEVELER_WEIGHT_REAR_SIDES
+MAAP_THRESHOLD_HIGH_FRONT
+MAAP_THRESHOLD_HIGH_CENTER
+MAAP_THRESHOLD_HIGH_LFE
+MAAP_THRESHOLD_HIGH_REAR_SIDES
+MAAP_THRESHOLD_LOW_FRONT
+MAAP_THRESHOLD_LOW_CENTER
+MAAP_THRESHOLD_LOW_LFE
+MAAP_THRESHOLD_LOW_REAR_SIDES
+MAAP_LOW_LEVEL_GAIN_FRONT
+MAAP_LOW_LEVEL_GAIN_CENTER
+MAAP_LOW_LEVEL_GAIN_LFE
+MAAP_LOW_LEVEL_GAIN_REAR_SIDES
+MAAP_MV_OUTPUT_GAIN_FRONT
+MAAP_MV_OUTPUT_GAIN_CENTER
+MAAP_MV_OUTPUT_GAIN_LFE
+MAAP_MV_OUTPUT_GAIN_REAR_SIDES
+MAAP_OUTPUT_VOLUME_FRONT
+MAAP_OUTPUT_VOLUME_CENTER
+MAAP_OUTPUT_VOLUME_LFE
+MAAP_OUTPUT_VOLUME_REAR
+MAAP_OUTPUT_VOLUME_SIDES
+MAAP_DELAY_REAR
+MAAP_DELAY_SIDES
+MAAP_ACTIVE_CENTER
+MAAP_MUTE_ACTIVE_CENTER
+MAAP_MAXXEQ_ACTIVE_CENTER
+MAAP_MAXXBASS_ACTIVE_CENTER
+MAAP_MAXXBASS_CUTOFF_CENTER
+MAAP_MAXXBASS_INTENSITY_CENTER
+MAAP_CENTER_BAND1_ACTIVE
+MAAP_CENTER_BAND1_TYPE
+MAAP_CENTER_BAND1_GAIN
+MAAP_CENTER_BAND1_FREQ
+MAAP_CENTER_BAND1_Q
+MAAP_CENTER_BAND2_ACTIVE
+MAAP_CENTER_BAND2_TYPE
+MAAP_CENTER_BAND2_GAIN
+MAAP_CENTER_BAND2_FREQ
+MAAP_CENTER_BAND2_Q
+MAAP_CENTER_BAND3_ACTIVE
+MAAP_CENTER_BAND3_TYPE
+MAAP_CENTER_BAND3_GAIN
+MAAP_CENTER_BAND3_FREQ
+MAAP_CENTER_BAND3_Q
+MAAP_CENTER_BAND4_ACTIVE
+MAAP_CENTER_BAND4_TYPE
+MAAP_CENTER_BAND4_GAIN
+MAAP_CENTER_BAND4_FREQ
+MAAP_CENTER_BAND4_Q
+MAAP_CENTER_BAND5_ACTIVE
+MAAP_CENTER_BAND5_TYPE
+MAAP_CENTER_BAND5_GAIN
+MAAP_CENTER_BAND5_FREQ
+MAAP_CENTER_BAND5_Q
+MAAP_CENTER_BAND6_ACTIVE
+MAAP_CENTER_BAND6_TYPE
+MAAP_CENTER_BAND6_GAIN
+MAAP_CENTER_BAND6_FREQ
+MAAP_CENTER_BAND6_Q
+MAAP_CENTER_BAND7_ACTIVE
+MAAP_CENTER_BAND7_TYPE
+MAAP_CENTER_BAND7_GAIN
+MAAP_CENTER_BAND7_FREQ
+MAAP_CENTER_BAND7_Q
+MAAP_CENTER_BAND8_ACTIVE
+MAAP_CENTER_BAND8_TYPE
+MAAP_CENTER_BAND8_GAIN
+MAAP_CENTER_BAND8_FREQ
+MAAP_CENTER_BAND8_Q
+MAAP_CENTER_BAND9_ACTIVE
+MAAP_CENTER_BAND9_TYPE
+MAAP_CENTER_BAND9_GAIN
+MAAP_CENTER_BAND9_FREQ
+MAAP_CENTER_BAND9_Q
+MAAP_CENTER_BAND10_ACTIVE
+MAAP_CENTER_BAND10_TYPE
+MAAP_CENTER_BAND10_GAIN
+MAAP_CENTER_BAND10_FREQ
+MAAP_CENTER_BAND10_Q
+MAAP_MAXXTREBLE_ACTIVE_CENTER
+MAAP_MAXXTREBLE_CUTOFF_CENTER
+MAAP_MAXXTREBLE_INTENSITY_CENTER
+MAAP_ACTIVE_LFE
+MAAP_MUTE_ACTIVE_LFE
+MAAP_MAXXEQ_ACTIVE_LFE
+MAAP_MAXXBASS_ACTIVE_LFE
+MAAP_MAXXBASS_CUTOFF_LFE
+MAAP_MAXXBASS_INTENSITY_LFE
+MAAP_LFE_BAND1_ACTIVE
+MAAP_LFE_BAND1_TYPE
+MAAP_LFE_BAND1_GAIN
+MAAP_LFE_BAND1_FREQ
+MAAP_LFE_BAND1_Q
+MAAP_LFE_BAND2_ACTIVE
+MAAP_LFE_BAND2_TYPE
+MAAP_LFE_BAND2_GAIN
+MAAP_LFE_BAND2_FREQ
+MAAP_LFE_BAND2_Q
+MAAP_LFE_BAND3_ACTIVE
+MAAP_LFE_BAND3_TYPE
+MAAP_LFE_BAND3_GAIN
+MAAP_LFE_BAND3_FREQ
+MAAP_LFE_BAND3_Q
+MAAP_LFE_BAND4_ACTIVE
+MAAP_LFE_BAND4_TYPE
+MAAP_LFE_BAND4_GAIN
+MAAP_LFE_BAND4_FREQ
+MAAP_LFE_BAND4_Q
+MAAP_LFE_BAND5_ACTIVE
+MAAP_LFE_BAND5_TYPE
+MAAP_LFE_BAND5_GAIN
+MAAP_LFE_BAND5_FREQ
+MAAP_LFE_BAND5_Q
+MAAP_LFE_BAND6_ACTIVE
+MAAP_LFE_BAND6_TYPE
+MAAP_LFE_BAND6_GAIN
+MAAP_LFE_BAND6_FREQ
+MAAP_LFE_BAND6_Q
+MAAP_LFE_BAND7_ACTIVE
+MAAP_LFE_BAND7_TYPE
+MAAP_LFE_BAND7_GAIN
+MAAP_LFE_BAND7_FREQ
+MAAP_LFE_BAND7_Q
+MAAP_LFE_BAND8_ACTIVE
+MAAP_LFE_BAND8_TYPE
+MAAP_LFE_BAND8_GAIN
+MAAP_LFE_BAND8_FREQ
+MAAP_LFE_BAND8_Q
+MAAP_LFE_BAND9_ACTIVE
+MAAP_LFE_BAND9_TYPE
+MAAP_LFE_BAND9_GAIN
+MAAP_LFE_BAND9_FREQ
+MAAP_LFE_BAND9_Q
+MAAP_LFE_BAND10_ACTIVE
+MAAP_LFE_BAND10_TYPE
+MAAP_LFE_BAND10_GAIN
+MAAP_LFE_BAND10_FREQ
+MAAP_LFE_BAND10_Q
+MAAP_ACTIVE_REAR
+MAAP_MUTE_ACTIVE_REAR
+MAAP_MAXXEQ_ACTIVE_REAR
+MAAP_MAXXBASS_ACTIVE_REAR
+MAAP_MAXXBASS_CUTOFF_REAR
+MAAP_MAXXBASS_INTENSITY_REAR
+MAAP_REAR_BAND1_ACTIVE
+MAAP_REAR_BAND1_TYPE
+MAAP_REAR_BAND1_GAIN
+MAAP_REAR_BAND1_FREQ
+MAAP_REAR_BAND1_Q
+MAAP_REAR_BAND2_ACTIVE
+MAAP_REAR_BAND2_TYPE
+MAAP_REAR_BAND2_GAIN
+MAAP_REAR_BAND2_FREQ
+MAAP_REAR_BAND2_Q
+MAAP_REAR_BAND3_ACTIVE
+MAAP_REAR_BAND3_TYPE
+MAAP_REAR_BAND3_GAIN
+MAAP_REAR_BAND3_FREQ
+MAAP_REAR_BAND3_Q
+MAAP_REAR_BAND4_ACTIVE
+MAAP_REAR_BAND4_TYPE
+MAAP_REAR_BAND4_GAIN
+MAAP_REAR_BAND4_FREQ
+MAAP_REAR_BAND4_Q
+MAAP_REAR_BAND5_ACTIVE
+MAAP_REAR_BAND5_TYPE
+MAAP_REAR_BAND5_GAIN
+MAAP_REAR_BAND5_FREQ
+MAAP_REAR_BAND5_Q
+MAAP_REAR_BAND6_ACTIVE
+MAAP_REAR_BAND6_TYPE
+MAAP_REAR_BAND6_GAIN
+MAAP_REAR_BAND6_FREQ
+MAAP_REAR_BAND6_Q
+MAAP_REAR_BAND7_ACTIVE
+MAAP_REAR_BAND7_TYPE
+MAAP_REAR_BAND7_GAIN
+MAAP_REAR_BAND7_FREQ
+MAAP_REAR_BAND7_Q
+MAAP_REAR_BAND8_ACTIVE
+MAAP_REAR_BAND8_TYPE
+MAAP_REAR_BAND8_GAIN
+MAAP_REAR_BAND8_FREQ
+MAAP_REAR_BAND8_Q
+MAAP_REAR_BAND9_ACTIVE
+MAAP_REAR_BAND9_TYPE
+MAAP_REAR_BAND9_GAIN
+MAAP_REAR_BAND9_FREQ
+MAAP_REAR_BAND9_Q
+MAAP_REAR_BAND10_ACTIVE
+MAAP_REAR_BAND10_TYPE
+MAAP_REAR_BAND10_GAIN
+MAAP_REAR_BAND10_FREQ
+MAAP_REAR_BAND10_Q
+MAAP_MAXXTREBLE_ACTIVE_REAR
+MAAP_MAXXTREBLE_CUTOFF_REAR
+MAAP_MAXXTREBLE_INTENSITY_REAR
+MAAP_ACTIVE_SIDES
+MAAP_MUTE_ACTIVE_SIDES
+MAAP_MAXXEQ_ACTIVE_SIDES
+MAAP_MAXXBASS_ACTIVE_SIDES
+MAAP_MAXXBASS_CUTOFF_SIDES
+MAAP_MAXXBASS_INTENSITY_SIDES
+MAAP_SIDES_BAND1_ACTIVE
+MAAP_SIDES_BAND1_TYPE
+MAAP_SIDES_BAND1_GAIN
+MAAP_SIDES_BAND1_FREQ
+MAAP_SIDES_BAND1_Q
+MAAP_SIDES_BAND2_ACTIVE
+MAAP_SIDES_BAND2_TYPE
+MAAP_SIDES_BAND2_GAIN
+MAAP_SIDES_BAND2_FREQ
+MAAP_SIDES_BAND2_Q
+MAAP_SIDES_BAND3_ACTIVE
+MAAP_SIDES_BAND3_TYPE
+MAAP_SIDES_BAND3_GAIN
+MAAP_SIDES_BAND3_FREQ
+MAAP_SIDES_BAND3_Q
+MAAP_SIDES_BAND4_ACTIVE
+MAAP_SIDES_BAND4_TYPE
+MAAP_SIDES_BAND4_GAIN
+MAAP_SIDES_BAND4_FREQ
+MAAP_SIDES_BAND4_Q
+MAAP_SIDES_BAND5_ACTIVE
+MAAP_SIDES_BAND5_TYPE
+MAAP_SIDES_BAND5_GAIN
+MAAP_SIDES_BAND5_FREQ
+MAAP_SIDES_BAND5_Q
+MAAP_SIDES_BAND6_ACTIVE
+MAAP_SIDES_BAND6_TYPE
+MAAP_SIDES_BAND6_GAIN
+MAAP_SIDES_BAND6_FREQ
+MAAP_SIDES_BAND6_Q
+MAAP_SIDES_BAND7_ACTIVE
+MAAP_SIDES_BAND7_TYPE
+MAAP_SIDES_BAND7_GAIN
+MAAP_SIDES_BAND7_FREQ
+MAAP_SIDES_BAND7_Q
+MAAP_SIDES_BAND8_ACTIVE
+MAAP_SIDES_BAND8_TYPE
+MAAP_SIDES_BAND8_GAIN
+MAAP_SIDES_BAND8_FREQ
+MAAP_SIDES_BAND8_Q
+MAAP_SIDES_BAND9_ACTIVE
+MAAP_SIDES_BAND9_TYPE
+MAAP_SIDES_BAND9_GAIN
+MAAP_SIDES_BAND9_FREQ
+MAAP_SIDES_BAND9_Q
+MAAP_SIDES_BAND10_ACTIVE
+MAAP_SIDES_BAND10_TYPE
+MAAP_SIDES_BAND10_GAIN
+MAAP_SIDES_BAND10_FREQ
+MAAP_SIDES_BAND10_Q
+MAAP_MAXXTREBLE_ACTIVE_SIDES
+MAAP_MAXXTREBLE_CUTOFF_SIDES
+MAAP_MAXXTREBLE_INTENSITY_SIDES
+MAAP_NUMBER_CHANNELS_LFX
+MAAP_MAXX_NR_ACTIVE
+MAAP_MAXX_NR_MODE
+MAAP_EXCITER_ACTIVE
+MAAP_EXCITER_DRY_GAIN
+MAAP_EXCITER_WET_GAIN
+MAAP_EXCITER_PRESET
+MAAP_MAXX_BASS_SOLO
+MAAP_LAB_TOGGLE_FIXED_FLOAT_OUTPUT
+MAAP_LAB_DIFF_FIXED_FLOAT_OUTPUT
+MAAP_NR_HP
+MAAP_NR_MIN_FC
+MAAP_NR_MAX_FC
+MAAP_NR_LP
+MAAP_NR_ADP_POS
+MAAP_NR_MIN_THR_ABOVE_N
+MAAP_NR_EXP_MIN_G
+MAAP_NR_EXP_MAX_ATTN
+MAAP_NR_ADAPT_THR_ATK_1K
+MAAP_NR_ADAPT_THR_ATK_SCL
+MAAP_NR_ADAPT_THR_ATK_MIN
+MAAP_NR_ADAPT_THR_ATK_MAX
+MAAP_NR_ADAPT_THR_RLS_1K
+MAAP_NR_ADAPT_THR_RLS_SCL
+MAAP_NR_ADAPT_THR_RLS_MIN
+MAAP_NR_ADAPT_THR_RLS_MAX
+MAAP_NR_EXP_ATK_1K
+MAAP_NR_EXP_ATK_SCL
+MAAP_NR_EXP_ATK_MIN
+MAAP_NR_EXP_ATK_MAX
+MAAP_NR_EXP_RLS_1K
+MAAP_NR_EXP_RLS_SCL
+MAAP_NR_EXP_RLS_MIN
+MAAP_NR_EXP_RLS_MAX
+MAAP_NOISE_RIDER_ACTIVE
+MAAP_LEVELER_MAKEUP
+MAAP_LEVELER_THRESHOLD
+MAAP_MAXXSPACE_X_GAIN
+MAAP_SIZE_OF_JITTER_BUFFER
+MAAP_PROCESS_TIME_MEASURE_ACTIVE
+MAAP_PROCESS_TIME_MEASURE_THR
+MAAP_PROCESS_TIME_MEASURE_BYPASS_LENGTH
+MAAP_PROCESS_TIME_RESET_BROKEN_RT_EVENTS
+MAAP_PROCESS_TIME_MEASURE_ACTION_TYPE
+MAAP_PROCESS_TIME_P2B_XFADE
+MAAP_PROCESS_TIME_SECTION_00_ENABLE
+MAAP_PROCESS_TIME_SECTION_01_ENABLE
+MAAP_PROCESS_TIME_SECTION_02_ENABLE
+MAAP_PROCESS_TIME_SECTION_03_ENABLE
+MAAP_PROCESS_TIME_SECTION_04_ENABLE
+MAAP_PROCESS_TIME_SECTION_05_ENABLE
+MAAP_PROCESS_TIME_SECTION_06_ENABLE
+MAAP_MAXXSENSE_ACTIVATE
+MAAP_VOLUME_SYSTEM_VOLUME_ENABLE
+MAAP_COMPATIBILITY_MODE_DSP
+MAAP_ENABLE_FADE_ON_SILENT
+MAAP_MAXXSENSE_VOIP
+MAAP_MAXXSENSE_UGC
+MVAP_MAIN_ACTIVE
+MVAP_MAXX_VOLUME_ACTIVE
+MVAP_AEC_ACTIVE
+MVAP_EQ_ACTIVE
+MVAP_BEAMFORMING_ACTIVE
+MVAP_DEESSER_ACTIVE
+MVAP_SWAP_LEFT_RIGHT
+MVAP_MIC_ALIGN
+MVAP_ATTACH_SYSTEM_VOLUME
+MVAP_INPUT_GAIN_LEFT
+MVAP_INPUT_GAIN_RIGHT
+MVAP_OUTPUT_GAIN_LEFT
+MVAP_OUTPUT_GAIN_RIGHT
+MVAP_INPUT_PHASE_REVERSE_LEFT
+MVAP_INPUT_PHASE_REVERSE_RIGHT
+MVAP_SOURCE_OF_RENDER_STREAM
+MVAP_BEAMFORMING_FOCUS
+MVAP_BEAMFORMING_DIRECTION
+MVAP_BEAMFORMING_OOBSILENCE
+MVAP_BEAMFORMING_OOBFOCUS
+MVAP_BEAMFORMING_OOBLIMITDB
+MVAP_BEAMFORMING_OOBTHRESHOLD
+MVAP_BEAMFORMING_DIFFGAINDB
+MVAP_BEAMFORMING_NC
+MVAP_BEAMFORMING_NCSTRENGTHDB
+MVAP_BEAMFORMING_DMIC
+MVAP_BEAMFORMING_SWAPMIC
+MVAP_BEAMFORMING_LOWTHROUGH
+MVAP_BEAMFORMING_SELECT
+MVAP_BEAMFORMING_MIC_TYPE
+MVAP_BEAMFORMING_LOWCUT
+MVAP_BEAMFORMING_OOBSDIRECT
+MVAP_EQ_BAND1_TYPE
+MVAP_EQ_BAND1_FREQ
+MVAP_EQ_BAND1_GAIN
+MVAP_EQ_BAND1_Q
+MVAP_EQ_BAND1_ACTIVE
+MVAP_EQ_BAND2_TYPE
+MVAP_EQ_BAND2_FREQ
+MVAP_EQ_BAND2_GAIN
+MVAP_EQ_BAND2_Q
+MVAP_EQ_BAND2_ACTIVE
+MVAP_EQ_BAND3_TYPE
+MVAP_EQ_BAND3_FREQ
+MVAP_EQ_BAND3_GAIN
+MVAP_EQ_BAND3_Q
+MVAP_EQ_BAND3_ACTIVE
+MVAP_EQ_BAND4_TYPE
+MVAP_EQ_BAND4_FREQ
+MVAP_EQ_BAND4_GAIN
+MVAP_EQ_BAND4_Q
+MVAP_EQ_BAND4_ACTIVE
+MVAP_EQ_BAND5_TYPE
+MVAP_EQ_BAND5_FREQ
+MVAP_EQ_BAND5_GAIN
+MVAP_EQ_BAND5_Q
+MVAP_EQ_BAND5_ACTIVE
+MVAP_EQ_BAND6_TYPE
+MVAP_EQ_BAND6_FREQ
+MVAP_EQ_BAND6_GAIN
+MVAP_EQ_BAND6_Q
+MVAP_EQ_BAND6_ACTIVE
+MVAP_EQ_BAND7_TYPE
+MVAP_EQ_BAND7_FREQ
+MVAP_EQ_BAND7_GAIN
+MVAP_EQ_BAND7_Q
+MVAP_EQ_BAND7_ACTIVE
+MVAP_EQ_BAND8_TYPE
+MVAP_EQ_BAND8_FREQ
+MVAP_EQ_BAND8_GAIN
+MVAP_EQ_BAND8_Q
+MVAP_EQ_BAND8_ACTIVE
+MVAP_EQ_BAND9_TYPE
+MVAP_EQ_BAND9_FREQ
+MVAP_EQ_BAND9_GAIN
+MVAP_EQ_BAND9_Q
+MVAP_EQ_BAND9_ACTIVE
+MVAP_EQ_BAND10_TYPE
+MVAP_EQ_BAND10_FREQ
+MVAP_EQ_BAND10_GAIN
+MVAP_EQ_BAND10_Q
+MVAP_EQ_BAND10_ACTIVE
+MVAP_CNS_ACTIVE
+MVAP_CNS_THRESHOLD
+MVAP_CNS_RESIDUAL_EC_ACTIVE
+MVAP_CNS_RESIDUAL_EC
+MVAP_CNS_REDUCTION_MIN
+MVAP_CNS_SMOOTHING
+MVAP_CNS_FC_MIN
+MVAP_CNS_FC_MAX
+MVAP_CNS_RESIDUAL_ATT
+MVAP_CNS_RESIDUAL_REL
+MVAP_CNS_EXPNDR_MAX_ATTEN
+MVAP_CNS_OFFSET_HOLD_THR
+MVAP_CNS_APPLY_GLOBAL_HP
+MVAP_CNS_APPLY_GLOBAL_LP
+MVAP_CNS_NUM_ACTIVE_BANDS
+MVAP_CNS_ENVIRONMENT_ACTIVE
+MVAP_COMPRESSOR_ACTIVE
+MVAP_COMPRESSOR_MU_GAIN
+MVAP_COMPRESSOR_THRESH
+MVAP_COMPRESSOR_RATIO
+MVAP_COMPRESSOR_ATTACK
+MVAP_COMPRESSOR_RELEASE
+MVAP_COMPRESSOR_HARD_KNEE
+MVAP_IGNORE_RENDER_SYSTEM_GAIN
+MVAP_AUDIO_BUFFER_JITTER_SIZE
+MVAP_CAPTURE_DELAY_MSEC
+MVAP_EC_WARM_UP_RESOLUTION
+MVAP_END_THRESH
+MVAP_EC_MU_SCALING_OLD
+MVAP_EC_MU_SCALING_STATIC
+MVAP_EC_MU_SCALING_DYNAMIC
+MVAP_HD_FAREND_TH
+MVAP_EC_NON_LINEAR_MAX_ATTN
+MVAP_EC_5
+MVAP_NOISE_THRESH
+MVAP_EC_NON_LINEAR
+MVAP_EC_HALF_DUPLEX
+MVAP_EC_WARM_UP_DURATION
+MVAP_EC_START_UP_FREEZE_DURATION
+MVAP_VOLUME_NOISE_GATE
+MVAP_VOLUME_HARD_KNEE
+MVAP_VOLUME_INPUT
+MVAP_VOLUME_OUTPUT
+MVAP_VOLUME_GAIN
+MVAP_KEYBOARD_ACTIVE
+MVAP_KEYBOARD_DETECTION_THRESHOLD
+MVAP_KEYBOARD_OS_EVENTS_ACTIVE
+MVAP_KEYBOARD_OS_EVENT_LATENCY
+MVAP_KEYBOARD_VOICE_THRESH
+MVAP_KEYBOARD_LF_EXTENSION
+MVAP_KEYBOARD_SCHAIN_FILTER
+MVAP_KEYBOARD_AUTO_THRESH
+MVAP_KBNR_HIGH_LATENCY
+MVAP_KBNR_GATEMODE
+MVAP_KBNR_DELAY
+MVAP_KBNR_VAD_HOLD
+MVAP_KBNR_GATE_FLOOR
+MVAP_HDP_MICROPHONE_THREASHOLD
+MVAP_HDP_SPEAKER_THREASHOLD
+MVAP_HDP_MICROPHONE_ATTENUATION
+MVAP_HDP_SPEAKER_ATTENUATION
+MVAP_DEBABBLE_ACTIVE
+MVAP_DEBABBLE_FAST_TRACKING
+MVAP_DEBABBLE_NON_LINEAR
+MVAP_DEBABBLE_MIC_CALIB
+MVAP_DEBABBLE_ANGLE
+MVAP_DEBABBLE_NON_LINEAR_SMOOTH
+MVAP_ASR_MODE
+MVAP_DEBABBLE_SAVE_STATE
+MVAP_VAD_NOISETYPE
+MVAP_VAD_MAINSPEECH
+MVAP_VAD_RESET_LEARN_TIME
+MVAP_VAD_ANGLE_ACTIVE
+MVAP_ORIENTATION_INDEX
+MVAP_WORLD_FACING_CAMERA_ACTIVE
+MVAP_BEAMFORMING_RATIO_LAW
+MVAP_DEESSER_FREQ
+MVAP_DEESSER_RATIO
+MVAP_DEESSER_THRESH
+MVAP_DEESSER_Q
+MVAP_AUTO_BEAM_STEERING_ON_OFF
+MVAP_MAXXBEAM_AUTO_STEERING
+MVAP_MAXXBEAM_AUTO_FOCUS
+MVAP_MAXXBEAM_TRACKING_DEG_PER_SEC
+MVAP_MAXXBEAM_ZOOMING_DEG_PER_SEC
+MVAP_AUTO_CONF_MODE
+MVAP_EQ_PRE_MB_ACTIVE
+MVAP_EQ2_BAND1_TYPE
+MVAP_EQ2_BAND1_FREQ
+MVAP_EQ2_BAND1_GAIN
+MVAP_EQ2_BAND1_Q
+MVAP_EQ2_BAND1_ACTIVE
+MVAP_EQ2_BAND2_TYPE
+MVAP_EQ2_BAND2_FREQ
+MVAP_EQ2_BAND2_GAIN
+MVAP_EQ2_BAND2_Q
+MVAP_EQ2_BAND2_ACTIVE
+MVAP_EQ2_BAND3_TYPE
+MVAP_EQ2_BAND3_FREQ
+MVAP_EQ2_BAND3_GAIN
+MVAP_EQ2_BAND3_Q
+MVAP_EQ2_BAND3_ACTIVE
+MVAP_EQ2_BAND4_TYPE
+MVAP_EQ2_BAND4_FREQ
+MVAP_EQ2_BAND4_GAIN
+MVAP_EQ2_BAND4_Q
+MVAP_EQ2_BAND4_ACTIVE
+MVAP_EQ2_BAND5_TYPE
+MVAP_EQ2_BAND5_FREQ
+MVAP_EQ2_BAND5_GAIN
+MVAP_EQ2_BAND5_Q
+MVAP_EQ2_BAND5_ACTIVE
+MVAP_EQ2_BAND6_TYPE
+MVAP_EQ2_BAND6_FREQ
+MVAP_EQ2_BAND6_GAIN
+MVAP_EQ2_BAND6_Q
+MVAP_EQ2_BAND6_ACTIVE
+MVAP_EQ2_BAND7_TYPE
+MVAP_EQ2_BAND7_FREQ
+MVAP_EQ2_BAND7_GAIN
+MVAP_EQ2_BAND7_Q
+MVAP_EQ2_BAND7_ACTIVE
+MVAP_EQ2_BAND8_TYPE
+MVAP_EQ2_BAND8_FREQ
+MVAP_EQ2_BAND8_GAIN
+MVAP_EQ2_BAND8_Q
+MVAP_EQ2_BAND8_ACTIVE
+MVAP_EQ2_BAND9_TYPE
+MVAP_EQ2_BAND9_FREQ
+MVAP_EQ2_BAND9_GAIN
+MVAP_EQ2_BAND9_Q
+MVAP_EQ2_BAND9_ACTIVE
+MVAP_EQ2_BAND10_TYPE
+MVAP_EQ2_BAND10_FREQ
+MVAP_EQ2_BAND10_GAIN
+MVAP_EQ2_BAND10_Q
+MVAP_EQ2_BAND10_ACTIVE
+MVAP_VOLUME_GATE_ACTIVE
+MVAP_VOLUME_GATE_FLOOR
+MVAP_VOLUME_GATE_KNEE
+MVAP_VOLUME_GATE_ATK
+MVAP_VOLUME_GATE_REL
+MVAP_TOGGLE_FIXED_FLOAT_OUTPUT
+MVAP_DIFF_FIXED_FLOAT_OUTPUT
+MVAP_DEESSER_SOLO
+MVAP_NOISE_RIDER_THRE_MIN
+MVAP_NOISE_RIDER_THRE_MAX
+MVAP_NOISE_RIDER_GAIN_REL
+MVAP_NOISE_RIDER_GAIN_ATTAK
+MVAP_NOISE_RIDER_NOISE_REL
+MVAP_NOISE_RIDER_NOISE_ATTCK
+MVAP_NOISE_RIDER_ACTIVE
+MVAP_NOISE_RIDER_VAD_HOLDTIME
+MVAP_NOISE_RIDER_MAX_GAIN
+MVAP_DEBABBLE_AUTO_CONF_SENSITIVITY
+MVP_DEBABBLE_OFS_ANGLE
+MVAP_DEBABBLE_LOW_THRESH
+MVP_CANCEL_START_UP_FREEZE_DURATION
+MVP_CANCEL_ONOFF
+MVP_CANCEL_NLP
+MVP_CANCEL_WARMUP_DURATION
+MVP_CANCEL_WARMUP_RESOLUTION
+MVP_CANCEL_MAIN_RESOLUTION
+MVAP_MAXX_BASS_FREQUENCY
+MVAP_MAXX_BASS_EFFECT
+MVAP_MAXX_BASS_ACTIVE
+MVAP_MAXX_BASS_HIGH_PASS_ACTIVE
+MVAP_MAXX_BASS_HIGH_PASS_FREQ
+MVAP_MAXX_BASS_RANGE_FACTOR
+MVAP_MAXX_BASS_ORIGINAL_BASS
+MVAP_MAXX_BASS_COMP_INT
+MVAP_MAXX_BASS_CUTOFF_RATIO
+MVAP_MAXX_BASS_INTENSITY_RATIO
+MVAP_MAXX_BASS_OUTPUT_LP_RATIO_A
+MVAP_MAXX_BASS_OUTPUT_LP_RATIO_B
+MVAP_MAXX_BASS_INPUT_HP_RATIO
+MVAP_MAXX_BASS_AMOUNT
+MVAP_MAXX_BASS_SOLO
+MVAP_AUDIO_CHAIN_TYPE
+MVAP_GENERAL_SOFT_BYPASS
+MVAP_AUTOEQ_ACTIVE
+MVAP_AUTOEQ_VAD_FLOOR
+MVAP_AUTOEQ_VAD_THR
+MVAP_AUTOEQ_EQ_TYPE
+MVAP_AUTOEQ_NORM
+MVAP_AUTOEQ_GAIN_INTER_TYPE
+MVAP_AUTOEQ_MU
+MVAP_AUTOEQ_CONVERGENCE_TIME
+MVAP_AUTOEQ_ACTIVE_RANGE
+MVAP_AUTOEQ_NUM_OF_BANDS
+MVAP_AUTOEQ_REFEQ_BAND_00
+MVAP_AUTOEQ_REFEQ_BAND_01
+MVAP_AUTOEQ_REFEQ_BAND_02
+MVAP_AUTOEQ_REFEQ_BAND_03
+MVAP_AUTOEQ_REFEQ_BAND_04
+MVAP_AUTOEQ_REFEQ_BAND_05
+MVAP_AUTOEQ_REFEQ_BAND_06
+MVAP_AUTOEQ_REFEQ_BAND_07
+MVAP_AUTOEQ_REFEQ_BAND_08
+MVAP_AUTOEQ_REFEQ_BAND_09
+MVAP_AUTOEQ_REFEQ_BAND_10
+MVAP_AUTOEQ_REFEQ_BAND_11
+MVAP_AUTOEQ_REFEQ_BAND_12
+MVAP_AUTOEQ_REFEQ_BAND_13
+MVAP_AUTOEQ_REFEQ_BAND_14
+MVAP_AUTOEQ_REFEQ_BAND_15
+MVAP_AUTOEQ_REFEQ_BAND_16
+MVAP_AUTOEQ_REFEQ_BAND_17
+MVAP_AUTOEQ_REFEQ_BAND_18
+MVAP_AUTOEQ_REFEQ_BAND_19
+MVAP_AUTOEQ_REFEQ_BAND_20
+MVAP_AUTOEQ_REFEQ_BAND_21
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_00
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_01
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_02
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_03
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_04
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_05
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_06
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_07
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_08
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_09
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_10
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_11
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_12
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_13
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_14
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_15
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_16
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_17
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_18
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_19
+MVAP_AUTOEQ_REFEQ_BAND_CUTOFF_20
+MVAP_AUTOEQ_DRY_WET
+MVAP_AUTOEQ_GAIN_UP_LIMIT
+MVP_S1_ACTIVE
+MVP_S1_STEREO_MODE
+MVP_S1_S_DELAY
+MVP_S1_WIDTH
+MVP_S1_BALANCE
+MVAP_MULTICHANNEL_INPUT_INDEX_LEFT
+MVAP_MULTICHANNEL_INPUT_INDEX_RIGHT
+MAAP_MAXX_BASS_WIDEBAND_MODE
+MAAP_SWAP_LEFT_RIGHT
+Chunk%u
+_Sync
+_Mem
+_Ready
+_Read
+_Discovery
+_Exclusive
+TimeOut
+_Server
+_Client
+floor
+powf
+log10f
+log10
+_nextafter
+_logb
+frexp
+fmod
+_hypot
+_cabs
+ldexp
+modf
+fabs
+ceil
+sqrt
+atan2
+atan
+acos
+asin
+tanh
+cosh
+sinh
+RSDS~
+sbiw
+s:\p4client\Consumer\MainRel2\Products\Release\x64\WavesSvc64.pdb
+CM_Get_Device_IDA
+SetupDiGetClassDevsA
+SetupDiDestroyDeviceInfoList
+SetupDiEnumDeviceInfo
+SetupDiGetDeviceInstanceIdA
+CM_Get_Parent
+SetupDiGetDeviceRegistryPropertyA
+SetupDiGetDeviceInterfaceDetailA
+SetupDiEnumDeviceInterfaces
+CM_Get_DevNode_Status_Ex
+SETUPAPI.dll
+AvRevertMmThreadCharacteristics
+AvSetMmThreadCharacteristicsA
+AVRT.dll
+lstrlenA
+WideCharToMultiByte
+MultiByteToWideChar
+lstrlenW
+GetLastError
+OpenProcess
+K32GetModuleFileNameExA
+QueryFullProcessImageNameA
+OutputDebugStringA
+CloseHandle
+K32EnumProcessModulesEx
+CreateEventA
+WaitForSingleObject
+SetEvent
+CreateThread
+FindResourceExW
+FindResourceW
+LoadResource
+SizeofResource
+LockResource
+GetTempFileNameW
+GetTempPathW
+DeleteFileA
+GetModuleHandleA
+QueryPerformanceCounter
+QueryPerformanceFrequency
+MapViewOfFile
+UnmapViewOfFile
+CreateFileMappingA
+FormatMessageA
+LocalFree
+HeapAlloc
+GetCurrentProcess
+GetProcessHeap
+GetProcAddress
+Sleep
+OpenFileMappingA
+GetCurrentThread
+GetThreadPriority
+FreeLibrary
+LoadLibraryA
+LeaveCriticalSection
+FlushInstructionCache
+RaiseException
+SetLastError
+EnterCriticalSection
+GetCurrentThreadId
+ResetEvent
+WaitForMultipleObjects
+GetModuleFileNameA
+KERNEL32.dll
+PostMessageA
+CallWindowProcA
+SetWindowLongPtrA
+DefWindowProcA
+KillTimer
+GetWindowLongPtrA
+SetTimer
+CharUpperA
+RegisterClassA
+GetClassInfoA
+EndDialog
+GetDlgItem
+CreateWindowExA
+GetWindowLongA
+UnregisterClassA
+GetWindowTextA
+SendMessageA
+CreateDialogParamA
+DestroyWindow
+LoadIconA
+UnhookWindowsHookEx
+DispatchMessageA
+SetWindowsHookExA
+TranslateMessage
+CallNextHookEx
+PostThreadMessageA
+GetMessageA
+PeekMessageA
+RegisterWindowMessageA
+LoadCursorA
+GetClassInfoExA
+RegisterClassExA
+LoadImageA
+ShowWindow
+SetWindowPos
+InvalidateRect
+SetWindowLongA
+SetForegroundWindow
+DrawTextA
+FillRect
+SetCursor
+wsprintfA
+USER32.dll
+CreateSolidBrush
+GetObjectA
+GetDIBColorTable
+CreateCompatibleDC
+SelectObject
+DeleteObject
+SetBkMode
+StretchBlt
+DeleteDC
+SetTextColor
+GDI32.dll
+RegQueryValueExA
+RegOpenKeyExA
+RegNotifyChangeKeyValue
+RegCloseKey
+RegSetValueExA
+RegCreateKeyExA
+RegDeleteValueA
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+RegDeleteKeyA
+RegEnumKeyExA
+RegEnumValueA
+ADVAPI32.dll
+CoCreateInstance
+PropVariantClear
+CoTaskMemFree
+CoUninitialize
+CoInitialize
+ole32.dll
+OLEAUT32.dll
+SHDeleteKeyA
+SHLWAPI.dll
+GdiplusShutdown
+gdiplus.dll
+AlphaBlend
+TransparentBlt
+MSIMG32.dll
+WaitForMultipleObjectsEx
+OpenEventA
+CreateMutexA
+InitializeCriticalSection
+DeleteCriticalSection
+HeapFree
+DecodePointer
+EncodePointer
+HeapReAlloc
+GetModuleHandleW
+ExitProcess
+GetCommandLineA
+GetStartupInfoW
+ExitThread
+RtlPcToFileHeader
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+HeapSetInformation
+GetVersion
+HeapCreate
+HeapDestroy
+RtlUnwindEx
+HeapSize
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+FlsGetValue
+FlsSetValue
+FlsFree
+FlsAlloc
+LCMapStringW
+WriteFile
+GetStdHandle
+GetModuleFileNameW
+InitializeCriticalSectionAndSpinCount
+LoadLibraryW
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+GetFileType
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+ReadFile
+SetFilePointer
+GetStringTypeW
+GetConsoleCP
+GetConsoleMode
+CreateFileA
+SetStdHandle
+FlushFileBuffers
+WriteConsoleW
+SetEndOfFile
+CreateFileW
+InterlockedPushEntrySList
+VirtualFree
+VirtualAlloc
+InterlockedPopEntrySList
+RegisterClipboardFormatA
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+.?AV_com_error@@
+.?AVbad_exception@std@@
+.?AVCAPORuntimeData@@
+.?AVexception@std@@
+{25CB91DC-741D-4279-890F-7FD4008A89A5}
+@h-s
+.?AVbad_alloc@std@@
+.?AUIUnknown@@
+.?AUIMMNotificationClient@@
+.?AVCAudioProperties@@
+.?AVCAtlException@ATL@@
+.?AVCAudioSessionManager@@
+.?AVCEndpointSessionList@@
+.?AVCAudioSession@@
+.?AUIAudioSessionEvents@@
+.?AVCAudioSessionEvents@@
+.?AUIAudioSessionNotification@@
+.?AVCSessionNotifications@@
+.?AVCMessageMap@ATL@@
+.?AVCWindow@ATL@@
+.?AV?$CWindowImplRoot@VCWindow@ATL@@@ATL@@
+.?AV?$CWindowImplBaseT@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+.?AV?$CWindowImpl@VCAutoSubtypeOnAudioSession@@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@3@@ATL@@
+.?AVCAutoSubtypeOnAudioSession@@
+.?AVCPropChangeEvent@@
+.?AUCPresetOrientationSettings@@
+.?AVCInclinometerPresetOrientationControl@@
+.?AVCAutoOrientationControl@@
+.?AVCSimpleDeviceOrientationSensor@@
+.?AVCSensor@@
+.?AVCInclinometer3DSensor@@
+.?AVCAutoOrientationControl_Lenovo@@
+.?AVCBaseThread@@
+.?AVCDirectShowCameraImp@@
+.?AVCGenericWindow@@
+.?AVCJackSense@@
+.?AVCKeyboardTimeManage@@
+.?AVCKeyTiming@@
+.?AV?$CWindowImpl@VCPowerState@@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@3@@ATL@@
+.?AVCPowerState@@
+.?AUISensorManagerEvents@@
+.?AVCSensorManagerEvent@@
+.?AUISensorEvents@@
+.?AVCSensorEvent@@
+.?AVCStreamMonitor@@
+.?AVCWavesFX@@
+.?AV?$CWindowImpl@VCAutoMuteOnHibernate@@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@3@@ATL@@
+.?AVCAutoMuteOnHibernate@@
+.?AVCPowerStateEvent@@
+.?AV?$CDialogImplBaseT@VCWindow@ATL@@@ATL@@
+.?AV?$CDialogImpl@VCJackPopup@@VCWindow@ATL@@@ATL@@
+.?AVCJackPopup@@
+.?AVCImage@ATL@@
+.?AVCCodecVendorManager@@
+.?AVCWavesMaxxAudioGeneric@@
+.?AVCWavesFXImpl@@
+.?AVCLenovoGUI@@
+.?AVCMaxxAudioPreset@@
+.?AVCMaxxAudioPresetSet@@
+.?AVCParamMap@@
+.?AVCMaxxAudioRegistryPreset@@
+.?AVCInterProcessComm@@
+.?AVCExternalComm@@
+T$@D
+D$PD
+|$PM3
+T$`f
+YD$`
+VD$pf
+fffffff
+fffffff
+D$p;
+ffffff
+T$p3
+VD$p
+L$Pf
+VT$pD
+VD$p
+fffffff
+uNffffff
+L$PfA
+fffffff
+L$PfA
+L$PfA
+ffffff
+L$PfA
+ffffff
+UUUUUU
+Ok!\
+?+>^m
+EiUL
+?lZE
+?kxG2)
+?&l|
+?!5WOo
+?%<q
+@p^_
+[&-*
+?qBJ
+l@6 
+?:kP<
+?UUUUUU
+?ysB
+?30]
+UUUUUU
+UUUUUU
+?{Q}<
+?8bunz8
+?'*6
+?)TH
+?]%>
+?@En[vP
+X 843"8
+82Pa8
+g9@x!8
+r9T6
++i9O
+x8}0	9
+5m8>8=t
+99jd9
+T9K<
+9Z=K7
+IHDR
+	pHYs
+IDATx
+%Gy'
+18 |c
+<_>*
+"NwU
+^5joT\E
+<VWW
+cnn.
+={044
+gQsC
+o_rv
+4:>6y
+Fsy~M]
+I;==
+VMkd>b
+;011a
+:>*k
+<aZE
+|EYw
+7Zw*
+^Y6Y
+>,.n
+#|s/
+T)X[
+i'''
+zaS)
+%S[<
+U?NcCk*
+iDZ.
+^9oU
+UWOU
+vI;88
+FFF0;;
+UqrYt
+CCCx
+1<<L>h~/
+_umR2T
+~SSSx
+ry M
+t@W7
+CD:1
+vZV*
+l@04
+y&''
+0::jE{
+j7V{d
+T*_qe@!W
+kNNa
+FFFp
+#[*a
+9QrK6
+pEdV
+H4`*
+=7$d
+)x#"
+czz:
+A,..:5
+Kw>~W
+h.j>Z%
+W@cq
+J/u>
+j{'^H
+mhOl
+L%+y@
+@kM>[
+PmLu
+CIT.
+n9}\5I>
+llwM
+G39c
+J%LOO
+MLp"
+-9~T
+yU|\
+8m}m:
+m|Z~
+>jslt
+dR:6;
+|ff&
+9d{n
+tuSu|
+b%71
+BWgH
+IDAT
+rx5x
+j+]	X
+}EIu
+V(' 
+5[}#G
+':L)g
+]Zb% -&''q
+:K[i
+w:RMD
+4?3An
+*h	Y
+J%#~
+ly8Qm
+)%766
+N8o(
+X^Lj
+.t4,9R
+.;Y"
+TK9)
+^NoR
+udd$?
+C8 DV
+V"E#_
+_X 6
+VsI:
+xm{3
+h_XY
+?SFG
+i)p`` K
+M5PU
+B'N'#
+Kv~%
+T9b4
+T<%+
+gX%A
+"j'Oh
+Eg7-	
+&45c,
+4Txad
+FJBe
+"mQ<
+sZQ#
+sc"-
+JE'["
+wbz.G
+^j9)`T
+!?ox
+yMs6
+uKYr
+Rls<
+;fQ?v
+~7gE]
+"!d&
+N.Cif
+47gY
+<tKX
+D[,-
+#FB	
+8u2m
+-dzkn
+2OY]
+,e+\
+Qq::
+ox8;3Y&
+JnY!
+b>\?y
+EbbJ 5D9
+P2mt
+J6*Yq>
+%Wn:
+#UO]
+kyZ&
+kK-C
+OZmE
+toux
+&-k4P?u
+C]_y
+Mc63
+ke^b
+ch^H:
+h%+=$
+\6,q
+[:N@y
+bBpL#=
+LgYQ4&g
+<u<T
+y tH
+F4kN
+e[S|
+:yQt
+sg:uQ
+UZ*n
+|Tt<.
+|BU]8l
+	ihk'
+]}[5
+ix8k'v
+2_Dz9
+*=%3
+)-uo3w
+uxQ^]r
+LS]:
+rZOZ
+)iG`
+C	~B
+Kt,1
+#]eJSv]
+\6Sz
+e_VZ
+E	TO-
+ildo
+WO8}
+%K}tr
+^O%`
+(IDAT
+ CYf
+%P[>
+wlA~b
+Q=q<\	
+ 2!6
+TO,apfN
+9|hS
+	OB.
+x`6|
+)#RM
+l;'wE
+3MxV
+h;G7)
+Q#T5
+:>i;
+Zd5%
+W[>Nv
+UWS~*
+(aJ[;
+h$F/
+/w,a
+g2ytf
+e)*L]
+w[S"
+n.j6s
+.]Dse%
+/*Gb
+{.?U
+>}b,
+1iSnS;
+\at{u
+?a^P?v
+F}+W
+\:&x
+l6)e
+]&NZ
+XDat
+sP+&
+|[7-
+U6g#
+YH|w% 
+<GqWZ
+%O>2
+SV,G
+'?]]
+|%@|' R
+Gir|0
+uF3O
+}U[w
+Um&m
+a)*~Y
+]9b-
+Mq&zUx
+\/l(
+~6aT\
+8FGG188
+Q=M:
+Rq"?9o9
+_olX
+Vs?-]
+yu~U\
+hMaY
+qP#?
+/^g5
+"6"6
+=*Gld
+Gxlr
+*r3`]
+:cS[
+mGv>
+LNNbd$\<
+)LwM
+a*z*=
+*~``
+chhH9o
+u^ <
+lE\w
+ApZG
+3SiL
+WWWq
+FFF055
+i(+	
+.]RNK"
+MuhJ
+@&k@E
+ FFFP.
+X]]E
+*VWW
+2N#<j
+@q>AZ
+cpp0v.
+IEND
+k"""
+i&&$
+i   
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+>0<0
+0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+150122000000Z
+180322235959Z0]1
+	Tennessee1
+	Knoxville1
+	Waves Inc1
+	Waves Inc0
+W-K;
+a_|o
+$0"0 
+http://sv.symcb.com/sv.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+4x\,
+)1(B
+%srzo
+wCVP
+Quof%U_ :
+^D)K
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+PTu=
+}?;o
+dxT~
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160724115511Z0#
+S,b{.
+1fS+E
+9>x^
+Uf_r
+?L"J
+nkv*
+A	G'{Y5p

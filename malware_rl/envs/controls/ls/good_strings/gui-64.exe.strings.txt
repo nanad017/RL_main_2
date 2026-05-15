@@ -1,0 +1,1095 @@
+!This program cannot be run in DOS mode.
+Richg?
+.text
+`.rdata
+@.data
+.pdata
+|$ ATAUAVH
+l$HH
+t$PH
+\$@I
+ A^A]A\
+D$@H
+T$0H
+|$@\
+D$@H
+T$0H
+D$@H
+D$@H;
+D$@H
+T$0H
+|$ ATAUAVH
+\$@H
+l$HH
+t$PH
+|$XI
+ A^A]A\
+L$pD
+D$PH
+D$XH
+D$ph
+\$PH
+D$pL
+\$HH
+D$@H
+|$8H
+|$0E3
+D$`H
+L$PH
+WATAUH
+\$@H
+l$HH
+t$PI
+ A]A\_
+@SWAVAWH
+D$ Lc
+T$0A
+L$0H;
+|$03
+L$0H
+D$0H
+T$$H
+T$0H
+t$$L
+A_A^_[
+H SVWATH
+\$ E3
+\$ E3
+t%Hc
+\$ E3
+T$hH
+8A\_^[
+9D$@t
+t$H+
+D$`H
+D$(L
+L$ M
+UVWATAUAVAWH
+T$pH;
+;:u,L;
+<\t	<.u	H
+t/L;
+tQH;
+rLL;
+tPH+
+t!H+
+L$pL
+\$xH
+0A_A^A]A\_^]
+\$@H
+L$8M#
+T$0L
+L$(I#
+T$ H
+\$`H
+t$hH
+L$ 3
+L$ SH
+L$@H
+L$0L
+L$0E3
+D$HB
+T$03
+tuH+
+\$0H
+\$0H
+\$0H
+WATAUAVAWH
+D$0H
+D$ L
+t$(L
+D$8H
+|$ H;
+\$(H
+\$0L
+D$8H
+\$pH
+t$xH
+@A_A^A]A\_
+ubHc
+u!9=
+u!9=
+T$pA
+WATAUAVAWH
+q8M+
+L$0H
+D$(I
+;>sj
+9.vTH
+s6H;
+T$xI
+\$@I
+A_A^A]A\_
+\$0H
+|$8H
+t0SH
+\$0H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+L$hH
+L$xI
+D$`D
+D$TD
+t#Lc
+u)A;
+T$@D
+T$DA
+L$DM
+D$`A
+D$L0A
+T$HA
+|$`I
+L$HA
+guAA
+L$xD
+L$pL
+L$(H
+T$xH
+T$xH
+D$DD9T$X
+@t1A
+D$L-
+D$L+
+D$L 
+t$TH
+l$h+t$D+
+L$@L
+L$@H
+L$LL
+L$@L
+|$D3
+9D$Ptu;
+D$hL
+L$@H
+l$hA
+L$@L
+D$@A;
+L$@L
+T$\L
+A_A^A]A\_^]
+It:@
+ht+@
+T$\H
+T$x@
+T$hL
+D$@@
+T$hL
+D$@@
+ tA@
+#t1@
++t"@
+T$pD
+T$XD
+T$TD
+T$HE
+` AUAVAWH
+fD9|$b
+D$hI;
+Hc0I
+tILc
+tJI;
+A_A^A]
+L$t3
+\$pH
+\$HH
+T$@H
+T$@H
+L$`H
+L$0H
+L$XL
+L$(H
+L$ 3
+T$`D
+\$`D
+\$@H
+l$HH
+t$PH
+l$8H
+t$@H
+\$0H
+x ATH
+l$8H
+t$@H
+|$HH
+\$0H
+x ATH
+l$8H
+t$@H
+|$HH
+\$0H
+WATAUH
+l$HH
+t$PH
+\$@H
+ A]A\_
+t7SH
+\$ ;
+}iLc
+\$@H
+t$HH
+t$8H
+\$0H
+AUAVAWH
+|$ A
+t$(H
+t$PH
+|$XL
+d$`H
+0A_A^A]
+u%Hc
+\$0H
+t$8H
+|$@H
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+|$@H
+\$0H
+\$@H
+L$`H
+L$hH
+t+<.t"H
+\$@H
+l$HH
+t$PH
+L$ A
+D$(D
+D$ H
+\$PH
+t$XH
+\$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+\$0H
+l$8H
+t$@H
+D$p H
+D$(H
+D$8H
+\$0H
+D$(L
+L$pD
+D$8H
+\$0H
+D$(L
+L$pA
+\$0H;
+L$0H;
+\$8H
+L$ 3
+UVWATAUH
+D$8H
+D9d$ 
+D$&8\$&t-8X
+t18Y
+L$8H3
+@A]A\_^]
+` AUH
+T$ L
+\$@H
+t$HH
+|$PL
+d$XH
+\$0H
+t$8H
+\$0H
+\$0H
+L$0H
+L$0H;
+\$8H
+L$@I
+D$@H
+T$8L
+D$(H
+D$pH
+8D$Xt
+D$p#
+\$`I
+D$0H
+\$8H
+l$@H
+t$HH
+l$ AVH
+<vFH
+t,Hc
+L$HL
+\$@H
+|$PL
+l$XH
+ATAUAVH
+V H;
+\$@H
+t$HH
+|$PH
+ A^A]A\
+\$0H
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+\$0H
+l$8H
+t$@H
+WATAUAVAWH
+|$p3
+H!t$ E3
+|$8D
+|$8H
+}*Hc
+\$@I
+A_A^A]A\_
+\$ A
+8csm
+@ = 
+; w	
+;"u	3
+< w	H
+\$0H
+tCHc
+\$@H
+l$HH
+t$PH
+x ATAUAVH
+l$`M
+;"u6
+< tG<	tC
+\$@H
+l$HH
+t$PH
+|$XH
+ A^A]A\
+t$ WH
+D$HL
+L$@E3
+Hct$@H
+s\HcL$HH
+D$HL
+L$@H
+\$@H
+\$PH
+t$XH
+x ATH
+fD9#t
+fD9'u
+fD9'u
+d$8L
+d$0H+
+d$(L
+d$8L
+d$0D
+l$(H
+t	A;
+D8 t
+D8 u
+D8 u
+\$PH
+l$XH
+t$`H
+|$hH
+D$0A
+L$8D
+\$8L3
+\$@H
+d$ L
+s&Hc
+D$ D
+L$ 3
+D$ D
+L$ UVWH
+\$@A9k
+vLH;
+@8l$Xt
+`_^]
+tCH;
+@8l$X
+@8l$X
+D$8H
+l$0L
+|$(H
+@8l$X
+\$0H
+t$8H
+\$0H
+t$8H
+H!|$ E3
+\$@H
+t$HH
+H!\$ E3
+\$@H
+\$HH
+\$ UVWATAUAVAW
+l$@E
+H!|$ E3
+t$PMk
+T$XH
+!|$LI
+D$XE
+L$]A
+D$\A
+L$DA
+L$XH
+D$\L
+D$DA
+D$PH
+L$LH
+T$\I
+|$@9l$L
+D$PH
+l$\H
+L$LD
+T$\I
+D$DA
+f;D$D
+f;D$Dux
+\$LL
+t$@H
+H!\$ H
+t$@L
+t$PL
+L$HH
+|$HH
+HcD$HH;
+t$@H
+H!\$ H
+t$@L
+t$PL
+L$HH
+|$HH
+HcD$HH;
+L$p3
+D$p+
+D$(U
+D$PH
+L$HD+
+t$HD;
+H!|$ L
+L$HE
+|$H3
+A_A^A]A\_^]
+WATAUAVAWH
+|$ E3
+|$ E3
+\$hH
+t$pH
+0A_A^A]A\_
+VWATH
+\$`H
+0A\_^
+L$0I
+\$8A
+\$`H
+WATAUH
+\$PI
+A]A\_
+\$8H
+D8l$Ht
+D8.t
+D8l$Ht
+.D8l$Ht
+D8l$H
+D8l$H
+D8l$H
+@UATAUAVAWH
+l$@H
+|$(H
+MpD;
+@88t
+EpD;
+|$(H
+|$@H
+|$(H
+L$(H
+D$(H
+\$@I;
+t$(H
+L$8D
+L$0;
+L$(H
+D$(H
+D$ A
+D91u
+D91u
+\$(H
+\$(H
+\$@H
+\$(L
+D91u(
+D$(A
+e A_A^A]A\]
+L$PI
+L$PD
+D$0H
+\$pI
+L$ UATAUAVAWH
+l$0H
+|$0H;
+d$(H
+D9)u
+\$(H
+A_A^A]A\]
+L$@A
+L$@D
+D$(H
+\$pH
+t$xH
+fffffff
+ffff
+fffffff
+ffff
+tBSH
+K H;
+K(H;
+K0H;
+K8H;
+K@H;
+KHH;
+T$8L
+D$<D
+D$8H
+\$0H
+WATAUAVAWH
+|$ E3
+|$ E3
+\$hH
+t$pH
+0A_A^A]A\_
+VWATAUAVH
+tcL;
+D$0H
+L$ A
+\$pH
+l$xH
+@A^A]A\_^
+L$03
+D$@H
+D$ H
+x ATAUAVH
+D$03
+D$0@
+@8|$Ht
+\$PI
+A^A]A\
+D$ H
+\$0H
+WATAUH
+|$ E3
+|$ E3
+\$`H
+t$hH
+0A]A\_
+L$@tfH
+L$DH
+T$@A
+D$HL
+D$@A
+L$DH
+T$HD
+L$PH3
+@8*u
+\$`H
+l$hH
+t$pH
+L$0I
+\$0A9k
+u%H;
+@8l$Ht
+L$0D
+~0A;
+D$(H
+L$0;
+r(@8o
+@8l$H
+@8l$Ht
+D$(H
+D$0H
+saHc
+\$0H
+l$8H
+t$@H
+skHc
+\$0H
+l$8H
+s)Hc
+` AUH
+\$0H
+t$8H
+|$@L
+d$HH
+AUAVAWH
+|$$H
+\$0J
+\$0I
+|$$H
+D$0H
+ttHc
+|$ Hc
+\$`H
+|$hL
+d$pH
+@A_A^A]
+D$(L
+D$ A
+L$(H3
+@USVWATAUAVAWH
+l$@H
+\$@H
+|$(H
+|$(H
+|$8L
+D$(D
+|$8L
+|$0D
+|$(L
+tWHc
+|$8L
+|$0D
+|$(H
+M0H3
+eHA_A^A]A\_^[]
+\$`H
+l$hH
+t$pH
+<9=u
+\$0H
+t$8H
+\$@H
+t$HH
+|$PH
+D$8H
+8\$Xt
+\$0L
+\$`I
+D$PH
+|$(H
+L$P3
+L$PH
+\$XH
+l$`H
+@USVWATAUAVAWH
+l$0H
+d$(L
+t	D;
+\$(H
+t$0H;
+t$(H
+\$(H
+|$0H;
+d$(H
+d$(H
+\$(H
+\$(H
+D$(L
+D$ M
+M(H3
+e8A_A^A]A\_^[]
+L$@I
+L$@D
+D$0H
+\$pH
+t$xH
+L$@I
+8\$Xt
+L$@L
+L$@L
+\$0A
+\$pH
+t$xH
+UVWATAUAVAWH
+D$pI;
+L9.u
+l$xH
+t9L9-y{
+0A_A^A]A\_^]
+(L9-
+tfL9l
+D9l$x
+T$pD
+\$@H
+t$HH
+L$0I
+@8t$Ht
+\$`H
+t$hH
+T$89r
+@8t$Ht
+@83t
+@8t$Ht
+SUVWATAUAVAWH
+\$8A;
+|18A
+\0@K
+L0	A:
+D0	D:
+L09A:
+D09A
+L0:A:
+D0:K
+L$0D
+HcT$0;
+D$@L;
+D$@H
+L$0H
+u{9|$0tuL
+L;d$@
+Ht;I
+L0	|
+D1:Hc
+D$8L
+D$(3
+d$4;
+fA9U
+<(M;
+L$0H
+9|$0
+D19K
+d$4L
+XA_A^A]A\_^][
+WATAUAVAWH
+\$ E3
+\$ E3
+\$ E3
+\$hH
+t$pH
+0A_A^A]A\_
+UVWATAUAVAWH
+l$pD
+L$H#
+l$Ps
+l$P@
+l$P@
+D$HH
+|$0L
+L$`A
+D$XH
+D$HH
+|$0A
+L$`D
+l$(A
+D$XH
+u;Hc
+uMHc
+T$@A
+HcT$D
+D$T#
+|$DA
+T$DA
+D$D=
+vqA;
+8@8|$Lu!@
+D$PD
+D$HH
+D$(A
+A_A^A]A\_^]
+H VWH
+D$ @
+T$@H
+t(Hc|$@H
+L$ L
+L$XL
+D$@I
+L$XL
+D$@H
+L$@H
+UVWATAUAVAWH
+D81t
+D80t
+D$pM
+D$p}
+\$xH
+0A_A^A]A\_^]
+x ATAUAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A]A\
+U}]E3
+\$0H
+t$8H
+L$ H
+SUWATAUAVAWH
+A88u
+A88u
+L$p3
+t2A;
+D$PE3
+D$HH
+D$pI
+D$@H
+|$8H
+D$0D
+L$PH
+|$PH
+A_A^A]A\_][
+@SUVWATAUAVAWH
+D$xH
+T$hE
+L$Xf
+L$`A
+t$0L
+t$8D
+t$4H
+D$hH
+L$83
+L$8A
+|$PI;
+|$PI;
+=D82t(
+/@8q
+:u*8Y
+d$@H9u
+T$hL
+H93u
+L$XH
+d$0M
+l$0D
+d$@H
+|$`I
+T$HH
+H!t$ E3
+t$HI
+t$0L
+D9t$4
+Hc\$PL
+D$hH
+L$8I;
+I;?u
+L$8L
+L$xH3
+A_A^A]A\_^][
+L$0I
+H!|$ E3
+@8|$Ht
+D$8A9x
+@8|$HtcH
+8L$Ht
+\$`H
+t$hH
+L$0I
+\$8A9k
+@8l$Ht
+tA@8+u
+fA;K
+fA;K
+)fA;K
+r"fA;K
+tA@8/u
+fA;S
+fA;S
+)fA;S
+r"fA;S
+u*f;
+t	H;
+@8l$H
+@8l$Ht
+\$`H
+l$hH
+t$pH
+HcM H
+t'HcU@H
+failed to get exit code from process.
+failed to create process.
+Could not exec %s
+Cannot find Python executable %s
+#!python.exe
+Cannot open %s
+-script.pyw
+CorExitProcess
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6034
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+R6032
+- not enough space for locale information
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+R6030
+- CRT not initialized
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+('8PW
+700PP
+`h`hhh
+xppwpp
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+.com
+.exe
+.bat
+.cmd
+SystemRoot
+GenerateConsoleCtrlEvent
+GetExitCodeProcess
+WaitForSingleObject
+CreateProcessA
+SetConsoleCtrlHandler
+GetModuleFileNameA
+EnterCriticalSection
+LeaveCriticalSection
+GetModuleHandleW
+Sleep
+GetProcAddress
+ExitProcess
+GetCommandLineA
+GetStartupInfoA
+RtlUnwindEx
+SetHandleCount
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+GetLastError
+HeapFree
+HeapAlloc
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+EncodePointer
+DecodePointer
+FlsGetValue
+FlsSetValue
+FlsFree
+SetLastError
+GetCurrentThreadId
+FlsAlloc
+WriteFile
+LoadLibraryA
+InitializeCriticalSectionAndSpinCount
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+HeapSetInformation
+HeapCreate
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+HeapReAlloc
+GetConsoleCP
+GetConsoleMode
+FlushFileBuffers
+LCMapStringA
+MultiByteToWideChar
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetLocaleInfoA
+SetFilePointer
+HeapSize
+CloseHandle
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetStdHandle
+CreateFileA
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+KERNEL32.dll
+ReadFile
+SetEndOfFile
+GetProcessHeap
+GetFileAttributesA
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ

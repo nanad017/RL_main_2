@@ -1,0 +1,1694 @@
+!This program cannot be run in DOS mode.
+Richu
+.text
+`.rdata
+@.data
+.rsrc
+h(SB
+PhlSB
+PhlSB
+h<UB
+h8UB
+Rh0UB
+h|TB
+h8UB
+Ph0UB
+VhhTB
+PhHTB
+Qh8UB
+Rh0UB
+tPVh$TB
+Qh$TB
+?"uTG
+=PRB
+WVQS
+hHUB
+<7-u
+hHUB
+ htWB
+hTWB
+h4WB
+Vh$WB
+h WB
+VWh8XB
+h8UB
+h0UB
+h$XB
+PhdYB
+5PRB
+hdXB
+hDXB
+hHUB
+h4ZB
+u!9^
+_[t$
+h|[B
+hP[B
+h@[B
+V$RQP
+hL\B
+h8\B
+Phh\B
+F!h@[B
+SVW3
+uOhx^B
+h8UB
+h8UB
+Phl^B
+u%h@^B
+h`]B
+SVWh@_B
+h<UB
+h8_B
+h _B
+Rh8UB
+hd_B
+h|`B
+hT`B
+Vh`!@
+Vh0!@
+h0`B
+Vhp @
+h@[B
+h@[B
+h@aB
+Vh$aB
+PQhP
+PQh 
+|-SQR
+|SVW3
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+WVhPcB
+hhbB
+h<bB
+QRPh
+h(dB
+_^[]
+RPWj
+ SVW3
+WhleB
+SShdeB
+t6Wh
+_^[t
+SVPW2
+|!VW
+PVhteB
+VhleB
+VVhdeB
+PQWR
+PhtfB
+Ph0fB
+SPQR
+_^[]
+VWPQ3
+Sh0=@
+tCSV
+hTCLO
+h`hB
+Vh0=@
+h8hB
+QPh0hB
+h(hB
+WhdjB
+[hRPCI
+QRWV
+PSVWh
+htiB
+t.j V
+u3WVh
+SPQRV
+SVW3
+=@QB
+5@QB
+Ph`kB
+Ph kB
+QWVj
+hXMVt
+h,~A
+7j@V
+PQRP
+RQh0nB
+QRPh
+hhmB
+t@Ht"H
+RPQh
+RPhdoB
+QhPoB
+V.PQRh4oB
+Ph$qB
+VPhppB
+PVhDpB
+Vh pB
+RSPW
+RPQh
+PQRhprB
+QRPh@rB
+hxqB
+QRhTqB
+VhPqB
+h,~A
+h\tB
+hDtB
+h\uB
+=|QB
+h(uB
+u?hL
+hltB
+hltB
+hTvB
+RPWj
+QRPW
+t!h(wB
+WhtdB
+PhpxB
+hDxB
+h,tB
+h8UB
+Qh0UB
+hpxB
+h(xB
+hpxB
+PRhpxB
+PQhpxB
+PhpxB
+PhpxB
+hdwB
+h8tB
+h8tB
+hPqB
+PVhpxB
+h<wB
+h0yB
+^t	Q
+usVW
+<Vh`yB
+hhyB
+hhyB
+Vh8wB
+VhpyB
+t;Gj/W
+h0yB
+h0yB
+h0yB
+_^[t	
+SQWh8_B
+VtUP
+PVWR
+PVWR
+PQh8zB
+tqVhtdB
+h8eB
+h(eB
+hTeB
+hdzB
+hHzB
+t4SVW
+hpzB
+Vht{B
+hL{B
+QhD{B
+Vht{B
+2wGt>
+w-t$
+			Yq@
+h,|B
+h@|B
+hT|B
+hh|B
+u9Vj
+Vh0UB
+VQPhD{B
+QWRP
+9A$wr
+Q$t<S
+VPh8UB
+Qh0UB
+Vh8UB
+Qh0UB
+RhT~B
+h0~B
+RhT~B
+SWt)VP
+QhT~B
+PVSQ
+PhT~B
+t'VP
+QhT~B
+C Ph
+t!hT~B
+hX}B
+GVhT~B
+h,}B
+tHPhT~B
+PhT~B
+<0|!<9
+uDRh8UB
+:Du;
+Rh8UB
+ht~B
+WPVQS
+w	VhP
+Vh8UB
+Sh0UB
+PVQS
+u	_3
+hl~B
+Ph8_B
+S V3
+Rh8UB
+Ph0UB
+@ ;A v
+hl~B
+hl~B
+Vh8UB
+hl~B
+Vh8UB
+DQh8UB
+Wh0UB
+PWSh
+hl~B
+Rh8_B
+Ph(}B
+u'VW
+Ht&-
+u>8_!u
+h@TB
+8G!u
+hDTB
+tEh|
+G!PV
+O j;V
+tth,
+Vh8UB
+Ph0UB
+Qh8UB
+Wh0UB
+Rh8UB
+Wh0UB
+WtvV
+_^P2
+5@QB
+PQWR
+zuBj
+_^[]
+_^[]
+htdB
+jbhX
+SWvz
+VWhL
+t-Sh
+t0SV
+HhSV
+5|QB
+t9Ht
+t9Vh0
+t5Hu
+RjDhx
+uV_3
+4?@;
+j QS
+ t0;
+ t0;
+@t0;
+ t0;
+ t0;
+ t4;
+_^[t
+:Nu#
+_^[t
+!!!!!!!!!	
+!!!!!!!!
+!! !
+jSh0
+u$PPj
+RPQP
+2RWPhp
+_^[u
+u(h|
+hBMSR
+vXVW
+hBMSR
+j0Wh,
+j0Qh,
+@Ph,
+_^[t
+u hdzB
+PVRQhdzB
+PhdzB
+RPhp
+VPh<
+u#Vh
+SPWh
+t}SVh
+QSVh
+C,PQ
+I8_^
+r'WVQ
+^[_]
+^[_]
+|$u	
+8_[3
+SVW3
+F(KP
+J5to
+B4_^
+jDjd
+j jd
+F(JP
+QSVh
+QVWh
+QRPV
+SVWt"
+t"It
+t$Nt
+tFVW
+hp*A
+t>^_
+hP0A
+hp*A
+5PQB
+PSVW
+$SVW
+t	8]
+tI8]
+t78]
+SVWj
+2w<t3
+:_^3
+[tu=
+-tD=
+,t'=5
+PQVR
+SVWP
+QPPPj$j
+PVVVj$j
+SSSRPW
+uR9]
+RPQh
+WRPQ
+:uWf
+\uPj
+=`%C
+t	VP
+5\%C
+^[_3
+^_[3
+=`%C
+u.;5L%C
+=`%C
+5\%C
+j`hP
+8MZu
+=`%C
+u:Vj
+5\%C
+u%9= 
+x`;=
+_^[]
+SVWUj
+hL}A
+]_^[
+hT}A
+t.;t$$t(
+VC20XC00U
+SVWU
+tYVU
+t?xH
+]_^[
+YY_[]
+u%;E
+=`%C
+;5L%C
+wLVWP
+5\%C
+5\%C
+FVWS
+5\%C
+PPPPPPPP
+PPPPPPPP
+u79=l%C
+AAFFf
+WVU3
+v	N+D$
+v	N+D$
+@@Nu
+PSRWR
+tH9]
+uC8\8
+PSRW
+BF;U
+QSSSj
+_^[]
+~"9E
+PWj	
+;F(r(8_
+FHt7
+AABBf
+AABB
+5\%C
+5\%C
+%@%C
+%D%C
+54RB
+uiSj
+5\%C
+=X%C
+5H%C
+5\%C
+5\%C
+5\%C
+@_^[
+j?^;
+%@%C
+h,~A
+Y_^[
+HHt`HHt\
+RPWS
+WVj0
+F<W3
+F,98uX
+9P,t
+9P4t
+9P0t
+9P@t
+YYt-V
+FT=x
+9x,t
+	9x4t
+	9x0t
+	9x@t
+YYt+V
+<Yv"
+QSVW
+~\u	
+9=p%C
+t$<"u	3
+0<=t
+>=Yt
+t7VP
+Y]_^[
+8"u&
+QQSVW3
+9=p%C
+SUVW
+tyf9
+SSS+
+@PVSS
+t#SSUP
+t$$VSS
+_^][YY
+9= $C
+9= $C
+= $C
+YYt.
+5 $C
+_^][
+uMSW
+80t.
+Wj0S
+_^[]
+t!PV
+PWj?
+PWj?
+>:u>FV
+QQSVW
+jd_Fj
+PVVWV
+$f95
+PVVWV
+VVVVVUWUUj
+VVVVVj
+WUVj
+WVS3
+u8SS3
+9] u
+E SS
+t-9]
+t!SS9]
+9] u
+Wj@3
+ t6S
+    
+=p%C
+j.V%
+YYtGhT
+YYt3hL
+YYt"hD
+</uT
+</uI
+t)@8
+YYt~h
+vBWSSSj
+9~(~
+t	WS
+u]!]
+?]ur
+oG<-uK
+]t@G:
+t	VS
+YYj0[
+ptaS
+t	VS
+pt1S
+t	VS
+~'WP
+tVPV
+t/9U
+5l%C
+5l%C
+YYt%
+HHtjHHtF
+@PWV
+_^[]
+VVVV
+;A t
+;p$t
+t&:a
+PPPPPPPP
+VWumh@
+A#D$
+VWj Y
+SVWj ^
+PPPP
+PPPP
+_^]t
+xd;=
+-_^u
+=d%C
+<8=u
+j8h(
+6PWS
+t WW
+WWWWVSW
+tCVj
+t2WWVPVSW
+LSVWj
+p`;5
+=`%C
+5\%C
+u	9}
+u.h$
+VWsX
++t"HHt
+9~DO
+	j	XO
+HHu&
+QQSV3
+VVVVj
+tLVV
+t@VW
+j@hh
+F9=$
+PVPWW
+9} u	
+M 9}
+~+9]
+~>9]
+tSj=V
+uU9]
+Y|F9
+YYtC
+YYt8
+PhPqB
+?$u+
+RShH
+u$Vh
+hXMVf
+hXMVf
+hXMVf
+_^[]
+SVWf
+_^[]
+SVWf
+_^[]
+SVWj
+t.Ht
+Ht9Ht&Ht
+5@QB
+jCh4
+YY9]
+%TQB
+QVW3
+pd;5
+r	f=Z
+r	f=Z
+ AABB
+tJf9}
+tDf9E
+j$h8
+u5SSWh
+t	@@;
+9] u
+Y9E t
+E SSSS
+t;9u
+Unrecoverable memory allocation failure at %s:%d
+[VMToolsUpgrader]: %s
+VMware Tools Upgrader: Failed to format error message
+detected.
+Reboot really suppress parameter %s 
+not detected or skipped.
+Pointer location out of bounds. 
+REBOOT=R
+Str_Asprintf failed to build fullPath
+Error in FindNextFile (%d)
+Queuing %s for deletion
+Error in FindFirstFile (%d)
+Searching in %s
+Error in File_GetPathName
+Error in GetModuleFileName (%d)
+ succeeded.
+ failed. Please finish the removal process manually.
+Deleting %s... 
+Error in Str_Asprintf
+%s%s%s
+windows.iso
+d:/build/ob/bora-1463223/bora-vmsoft/apps/upgrader/win32/upgraderWin32.cpp
+%s %s: %s [%s]
+ %s %s %s %s %s %s %s %s
+-h                    
+-s                    
+-c                    
+-p "<args>"    
+options
+Usage
+Shutdown the guest when finished
+Display usage
+Delete vmupgrader-related files when finished
+Pass <args> to the installer. Include the double quotes.
+Options:
+Setup Launcher
+\StringFileInfo\040904e4\FileDescription
+%s %s
+%s %s %s
+Bad input: %s
+/s /v"/qn" /L "%s\vmmsi.log"
+/s /v"/qn /L*v "%s\vmmsi.log""
+/s /v"/qb- REBOOT=R" /L "%s\vmmsi.log"
+/s /v"/qb- REBOOT=R /L*v "%s\vmmsi.log""
+Error creating process
+Attempting to launch "%s"
+Failed to get installer command line
+Error in access
+setup.exe
+Failed to cancel reboot timer.
+Reboot is required to complete tools install...
+VMware Tools Setup
+Setup needs to reboot the system in order to complete the install. Do you want to reboot now? The system will be rebooted shortly unless you cancel the reboot by answering "No".
+Setup process returned %d
+NOT_REACHED %s:%d
+Failed to uninstall Control event handler.
+Error getting exit code from process
+Exiting UpgraderLoop on signal %d
+Unexpected end of the main loop (%d)
+Failed to install Control event handler.
+OS_Reboot
+reboot
+OS_Halt
+halt
+OS_Suspend
+suspend
+OS_Resume
+resume
+OS_PowerOn
+poweron
+UpgraderTcloCapReg: Failed to register HGFS server capability.
+tools-upgrader
+Failed to send upgrader capability to VMX
+tools.capability.upgrader_parameters 1
+Received Capabilities_Register from VMX
+Error in CodeSet_Utf8ToCurrent
+Received upgrader.run from vmware
+Received upgrader.cancel from VMX
+ATR tools-upgrader
+Received reset from VMX
+Error in the RPC receive loop: %s.
+Upgrader rebooting VM.
+Upgrader shutting down VM.
+Failed to send RPC to end tool install.
+toolinstall.end 0
+RPC greeting failed: Host software version may not be compatible with the Upgrader.
+Failed to send RPC greeting to set temp directory.
+upgrader.setGuestFileRoot
+Unable to allocate string for RPC greeting.
+Could not create temporary directory.
+Failed to allocate string for new directory name.
+Failed to convert directory name to UTF8.
+%s%s%08x%s
+Unable to get system temporary directory.
+Error deleting upgrader binary at %s error %d.
+Unlinking ISO at %s
+Error in Iso9660_Extract
+Extracting %s to %s
+Error in Iso9660_Open
+%s%s
+Upgrader: Beginning installation.
+d:/build/ob/bora-1463223/bora-vmsoft/apps/upgrader/upgrader.c
+dshcp:
+Setting temp directory root failed.
+Unable to initialize HGFS server.
+upgrader.cancel
+upgrader.run
+Capabilities_Register
+Unable to start the receive loop.
+Unable to create the RpcIn object.
+Unable to create the event queue.
+Upgrader failed parsing command line arguments.
+Unable to create upgrader data structure.
+Upgrader failed initialization.
+Starting Tools Upgrader
+The VMware Tools Upgrader application must be run in a Virtual Machine.
+%s: %s
+Warning
+Msg_Append: %s
+Msg_Post: %s
+HOSTINFO: This machine has %u physical CPUS, %u total cores, and %u logical CPUs.
+HOSTINFO: numCores is 0, bumping to 1.
+HOSTINFO: numPhysCPUs is 0, bumping to 1.
+HOSTINFO: Failed to get logical CPU count.
+HOSTINFO: Unknown CPU vendor "%s" seen, assuming one core per CPU and one thread per core.
+HOSTINFO: Seeing AMD CPU, numCoresPerCPU %u numThreadsPerCore %u.
+AuthenticAMD
+HOSTINFO: Seeing Intel CPU, numCoresPerCPU %u numThreadsPerCore %u.
+HOSTINFO: Failed to get Intel CPU count.
+GenuineIntel
+HOSTINFO: No CPUID information available.
+NOT_IMPLEMENTED %s:%d
+kernel32.dll
+@&!*@*@(msg.hostwin32.numcpu)Could not determine the number of processors.
+kernel32
+EventManager_Destroy: destroyed %u events
+d:/build/ob/bora-1463223/bora-vmsoft/lib/procMgr/procMgrWin32.c
+%s\%s
+Killing tools sub-process %d
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+GetProcessTimes
+default
+winsta0
+Unable to delete ace at index %d: %d
+Spawned sub-process %d
+winsta0\default
+ProcMgr_ExecAsync: Unable to create async process '%s'
+ProcMgr_ExecAsync: CreateProcessAsUser failed %d
+ProcMgr_ExecAsync: DuplicateHandle failed token = %#x, result = %d
+ProcMgr_ExecAsync: CreateProcess failed %d
+ProcMgr_ExecAsync: Executing async command: %s
+RpcIn: couldn't send back the last result
+RpcIn: couldn't close channel
+RpcIn: Unable to run the loop
+Bad command
+RpcIn: Not enough memory
+ERROR 
+Unknown Command
+RpcIn: Unable to receive
+RpcIn: Unable to send
+d:/build/ob/bora-1463223/bora-vmsoft/lib/rpcin/rpcin.c
+Registering callback '%s'
+Unregistering callback '%s'
+ping
+reset
+RpcIn_start: couldn't start the loop
+RpcIn_start: couldn't open channel with TCLO protocol
+RpcOut: couldn't open channel with RPCI protocol
+RpcOut: Invalid format for the result of the RPCI command
+RpcOut: Unable to receive the result of the RPCI command
+RpcOut: Unable to send the RPCI command
+RpcOut: couldn't close channel
+Rpci: unable to close the communication channel
+Rpci: Sent request='%s', reply='%s', len=%Iu, status=%d
+RpcOut: Unable to open the communication channel
+RpcOut: Unable to create the RpcOut object
+Rpci: Sending request='%s'
+acpi
+DriverDesc
+SYSTEM\CurrentControlSet\Control\Class\{4D36E966-E325-11CE-BFC1-08002BE10318}\0000
+System_SetProcessPrivilege: CloseHandle failed: %u
+System_SetProcessPrivilege: AdjustTokenPrivileges failed: %u
+System_SetProcessPrivilege: LookupPrivilegeValue error: %u
+OpenThreadToken failed: %u
+Winlogon
+SeShutdownPrivilege
+The version of this program is incompatible with your %s.
+For information on updating your VMware Tools please see
+http://www.vmware.com/support/reference/common/info_tools.html.
+VMware software
+SymGetSymFromAddr64
+SymSetSearchPath
+SymSetOptions
+SymGetOptions
+SymLoadModule64
+SymCleanup
+SymFromAddr
+SymGetModuleBase64
+SymFunctionTableAccess64
+StackWalk64
+SymInitialize
+----Failed to resolve dbghelp.dll symbols. No backtrace.----
+----End of backtrace----
+ (no symbol information): %d
+ (%s + %#06I64x)
+ [no module found]
+ [%s base %#010I64x %#06x:%#010x]
+backtrace[%02d] frame %#010I64x IP %#010I64x params %#I64x %#I64x %#I64x %#I64x
+SymInitialize() failed: %d
+Module path: %s
+Unable to determine module from IP
+----Backtrace using dbghelp.dll----
+----Failed to load dbghelp.dll (%d). No backtrace.----
+  file version %u.%u.%u.%u
+  image file %S
+  checksum %#010x timestamp %#010x
+CoreDump: including module base 0x%#010I64x size 0x%#010x
+CoreDump: Including thread %d
+CoreDump: Including threadex %d
+Minidump failed: %s
+CoreDump: Writing minidump to %s
+CoreDump: Cannot open minidump file %s: %s
+%s\%s-%d.dmp
+CoreDump: unable to determine app data path
+CoreDump: unable to determine module name
+CoreDump: dbghelp.dll missing minidump support: %s
+MiniDumpWriteDump
+CoreDump: no dbghelp.dll; no minidump: %s
+Exception %#010x %s has occurred.
+Warning: the system was unable to load a page of memory; this can be caused by network problems or a failing hard disk drive.
+ -- %#010Ix
+The following data was delivered with the exception:
+esi %#010x edi %#010x ebp %#010x esp %#010x
+eax %#010x ebx %#010x ecx %#010x edx %#010x
+IP %#010Ix eflags %#010x rwFlags %#010Ix badAddr %#010Ix
+----Win32 exception detected, exceptionCode %#010x %s----
+Exception loop in CoreDumpExceptionFilter.  Giving up.
+(debug breakpoint)
+(access violation)
+(disk error while paging)
+CoreDump_CoreDump: faking exception to get context
+d:/build/ob/bora-1463223/bora/lib/coreDump/coreDumpWin32.c
+Unknown error %d (0x%x)
+WININIT.INI
+[Rename]
+%s: Couldn't _fullpath
+File_FullPath
+d:/build/ob/bora-1463223/bora/lib/file/fileWin32.c
+%s: FindClose failure (%d) on (%s)
+%s: FindNextFile failure (%d) on (%s)
+MEM_ALLOC %s:%d
+%s: FindFirstFile failure (%d) on (%s)
+%s: FindFirstFile ERROR_SHARING_VIOLATION on (%s)
+%s: Str_Asprintf failure on (%s)
+File_ListDirectory
+%s\*.*
+%s: Couldn't realloc
+%s: Unable to get the directory's security descriptor.
+%s: Unable to check access rights (error %d).
+%s: Unable to get the process access token (error %d).
+%s: Unable to impersonate self (error %d).
+%s: Unable to get the thread access token (error %d).
+File_IsWritableDir
+%s: Couldn't get a temporary directory
+File_GetTmpDir
+WideCharToMultiByte
+GetTempPathW
+tmpDirectory
+%s: MoveFileEx failed on %s, code %d
+%s: MapViewOfFile failed, code %d
+%s: CreateFileMapping failed, code %d
+%s: GetFileSize on %s failed, code %d
+%s: CreateFile on %s failed, code %d
+%s: Str_Asprintf failed
+NUL=%s
+%s: File_Fullpath failed
+%s: GetWindowsDirectory failed, code %d
+File_UnlinkDelayed
+\\.\PhysicalDrive
+@&!*@*@(button.cancel)Cancel
+@&!*@*@(button.file.create.overwrite)Overwrite
+@&!*@*@(button.file.create.retry)Retry
+file_Last
+d:/build/ob/bora-1463223/bora/lib/file/file.c
+uuid=%s
+uuid=
+d:/build/ob/bora-1463223/bora/lib/file/fileIOWin32.c
+d:/build/ob/bora-1463223/bora/lib/file/fileIO.c
+FILE: %s on '%s' failed: %s
+FileIO_Lock
+Lock timed out
+FileIO_Unlock
+FILE: %s kernel32 missing?
+DynaLink
+FILE: %s Process32Next failure: %d
+FILE: %s at least one process assertion failure: %d
+FILE: %s CreateToolhelp32Snapshot failed.
+HardProcessValidation
+FILE: %s file creation time conversion error on %s
+%I64u
+FILE: %s pid conversion error on %s
+FileLockValidOwner
+FILE: %s unmapped error code %d
+FileLockOpenFile
+FileLockCloseFile
+FileLockDeleteFile
+FILE: %s sharing violation retries exceeded
+FileLockRenameFile
+FileLockReadFile
+FileLockWriteFile
+FileLockFileSize
+FileLockCreateDirectory
+FileLockDeleteDirectory
+FILE: %s of '%s' failed: %s
+RemoveLockingFile
+FILE: %s removing problematic lock file '%s'
+FILE: %s unknown lock type '%s'
+FILE: %s mandatory argument %u is missing!
+FILE: %s Lamport number conversion error
+FILE: %s read length issue on '%s': %u and %u
+FILE: %s read failure on '%s': %s
+FILE: %s file '%s': size %u, required size %u
+FILE: %s fstat failure on '%s': %s
+FILE: %s open failure on '%s': %s
+FileLockMemberValues
+.lck
+FILE: %s discarding file '%s%s%s'; invalid executionID.
+FILE: %s discarding file '%s%s%s'; invalid file name.
+FILE: %s: Could not read the directory '%s'.
+ScanDirectory
+FILE: %s discarding %s data from '%s'.
+Scanner
+FILE: %s timeout on '%s' due to another machine (%s)
+FILE: %s discarding file '%s'; invalid executionID.
+FILE: %s timeout on '%s' due to a local process (%s)
+WaitForPossession
+FILE: %s stat failure on '%s': %s
+FILE: %s creation failure on '%s': %s
+FILE: %s: '%s' exists; an old style lock file?
+%s%sE%05u%s
+%s%sD%05u%s
+M%05u%s
+FILE: %s: '%s' exists and is not a directory.
+CreateEntryDirectory
+FILE: %s rename of '%s' to '%s' failed: %s
+FILE: %s write length issue on '%s': %u and %Id
+FILE: %s close of '%s' failed: %s
+FILE: %s write of '%s' failed: %s
+CreateMemberFile
+%s %s %u %s %s
+FILE: %s implicit %s lock succeeded on '%s'.
+FileLockIntrinsic
+RRIP_1991A
+CD001
+WSAGetLastError
+gethostname
+ws2_32.dll
+%s gethostbyname failed.
+%s Failed to find gethostbyname.
+gethostbyname
+%s gethostname failed.
+%s Failed to find gethostname.
+%s Failed to wsock32.
+wsock32
+%s Failed to load ws2_32, will try wsock32.
+ws2_32
+%s %s failed: %d
+d:/build/ob/bora-1463223/bora/lib/misc/hostname.c
+GetComputerNameExW
+%s GetModuleHandle on kernel32 failed
+Hostinfo_HostName
+SHGetFolderPathA
+shfolder.dll
+\VMware
+dbghelp.dll
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+VMware
+%s GetAdaptersInfo failure %d: %d.
+%s GetAdaptersInfo is not supported.
+%s Failed to find GetAdaptersInfo.
+GetAdaptersInfo
+%s Failed to load iphlpapi.dll.
+IpHlpApi.dll
+%s Failed to load icmp.dll.
+ObtainHardwareID
+icmp.dll
+%s ObtainHardwareID failure (%s); providing default.
+%s Hostinfo_HostName failure; providing default.
+Hostinfo_MachineID
+No Expire
+Looping pid=%d
+IsDebuggerPresent
+Win32 object usage: GDI %d, USER %d
+GetGuiResources
+user32.dll
+Panic loop
+%s:%d Buffer too small 0x%x
+d:/build/ob/bora-1463223/bora/lib/string/str.c
+0123456789abcdef?
+0123456789ABCDEF?
+(null)
+0123456789abcdef0123456789ABCDEF(
+?d:/build/ob/bora-1463223/bora/lib/strutil/strutil.c
+%s.%.I64x
+-%2x%2x-%2x%2x%2x%2x%2x%2x
+%lx-%hx-%hx
+d:/build/ob/bora-1463223/bora/lib/uuid/uuid.c
+%02x %02x %02x %02x %02x %02x %02x %02x-%02x %02x %02x %02x %02x %02x %02x %02x
+MachineGuid
+SOFTWARE\Microsoft\Cryptography
+UUID: SMBIOS UUID is reported as '%s'.
+UUID: SMBIOS UUID could not be located.
+UUID: Failed to obtain host UUID
+GetSystemFirmwareTable
+Kernel32.dll
+UUIDHost
+volatile
+Failed to get system information
+Failed to connect to WMI
+%s cachedResult is %s
+False
+True
+%s routine pointers %p %p %p %p
+SysFreeString
+SysAllocString
+VariantInit
+VariantClear
+%s oleaut32.dll inaccessible?
+oleaut32.dll
+AdjustSecurity: security set #2 success
+AdjustSecurity: security set #2 failed: 0x%08x 0x%08x
+AdjustSecurity: authInfo 0x%08x capabilities 0x%08x
+AdjustSecurity: authLev 0x%08x imp 0x%08x
+AdjustSecurity: servername %S
+AdjustSecurity: authn 0x%08x authz 0x%08x
+AdjustSecurity: security query success
+AdjustSecurity: security query failed: 0x%08x 0x%08x
+AdjustSecurity: invalid parameter
+attribute
+object
+GetWMIObjectAttribute: could not get attribute: 0x%08x %S
+GetWMIObjectAttribute: '%s' failed
+WMI_GetWMIObjectAttributeAsString: unrecognized/unsupported type: 0x%08x
+WMI_GetWMIObjectAttributeAsString: failed to obtain attribute '%S'
+attrString
+WMI_GetWMIObjectAttributeAsString: '%s' failed
+WMI_GetWMIObjectAttributeAsString: Failed to alloc buffer for: %S
+WMI_GetWMIObjectAttributeAsString: failed to get attr: %S
+WMI_CreateWMIObjectEnum: Failed to create enum for class: 0x%08x '%S'
+WMI_CreateWMIObjectEnum: could not allocate class name string: '%S'
+name
+WMI_CreateWMIObjectEnum: '%s' failed
+WMI_CreateWMIObjectInstance: failed to enum an instance of class: 0x%08x %d '%S'
+WMI_CreateWMIObjectInstance: created instance of object: 0x%08x
+WMI_CreateWMIObjectInstance: couldn't allocate enum
+WMI_CreateWMIObjectInstance: '%s' failed
+WMI_ConnectToWMI: Connected to WMI server
+WMI_ConnectToWMI: Failed to connect to namespace server: 0x%08x 0x%08x
+WMI_ConnectToWMI: Failed to connect since namespace doesn't exist
+WMI_ConnectToWMI: Connecting to WMI server
+WMI_ConnectToWMI: Failed to allocate string for namespace
+WMI_ConnectToWMI: created namespace locator
+WMI_ConnectToWMI: Could not create namespace locator: 0x%08x 0x%08x
+WMI_ConnectToWMI: '%s' failed
+servicesResult
+nameSpace
+1 argument required
+tools.capability.hgfs_server %s %s
+HgfsServerGetAccess: error: prefix too long
+HgfsServerGetDents: Error: Name "%s" is too long.
+hgfs.fdCache.maxNodes
+ASSERT %s:%d bugNr=%d
+toolbox/windows/hgfslib/hgfsServer.c
+root
+drive
+toolbox/windows/hgfslib/hgfsServerWin32.c
+HgfsServerGetOpenFlags: Invalid HgfsOpenFlags
+CPName_ConvertFromRoot: First component does not exist
+CPName_ConvertFromRoot: not enough room
+CPName_ConvertFromRoot: failed to get drive name
+CPName_ConvertFromRoot: failed to get machine name
+CPName_ConvertFromRoot: get first component failed
+CPName_GetComponentGeneric: error: Illegal char "%c" found in input
+CPName_GetComponentGeneric: error: found dot/dotdot
+CPName_GetComponentGeneric: error: first char can't be NUL
+CPNameConvertFrom: error: not enough room
+CPNameConvertFrom: error: get next component failed
+NtSetEaFile
+NtQueryEaFile
+NtWriteFile
+NtReadFile
+NtQueryVolumeInformationFile
+NtQueryDirectoryFile
+NtSetInformationFile
+NtQueryInformationFile
+NtClose
+NtCreateFile
+CorExitProcess
+mscoree.dll
+ (8PX
+700WP
+`h````
+ppxxxx
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6029
+- This application cannot run using the active version of the Microsoft .NET Runtime
+Please contact the application's support team for more information.
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+_nextafter
+_logb
+frexp
+fmod
+_hypot
+_cabs
+ldexp
+modf
+fabs
+floor
+ceil
+sqrt
+atan2
+atan
+acos
+asin
+tanh
+cosh
+sinh
+log10
+e+000
+GAIsProcessorFeaturePresent
+KERNEL32
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+.com
+.bat
+.cmd
+.exe
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Invalid argument
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Unknown error
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+No error
+InitializeCriticalSectionAndSpinCount
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+Program: 
+A buffer overrun has been detected which has corrupted the program's
+internal state.  The program cannot safely continue execution and must
+now be terminated.
+Buffer overrun detected!
+A security error of unknown cause has been detected which has
+corrupted the program's internal state.  The program cannot safely
+continue execution and must now be terminated.
+Unknown security failure detected!
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+<5IkQ
+s1q4
+<5IkQ
+<5IkQ
+ Backtrace for bugNr=%d
+Backtrace:
+@&!*@*@(msg.util.ExpandStringNoMemForChunk)Cannot allocate memory to expand "%s" in "%s".
+@&!*@*@(msg.util.expandStringNoMemForResult)Cannot allocate memory for the expansion of "%s".
+Environment variable '%s' not defined in '%s'.
+unknown
+USER
+@&!*@*@(msg.util.expandStringTooManyChunks)Filename "%s" has too many chunks.
+@&!*@*@(msg.util.ExpandStringNoMemForCopy)Cannot allocate memory to expand "%s".
+d:/build/ob/bora-1463223/bora/lib/misc/hostinfo_misc.c
+Unable to get OS version.
+0123456789ABCDEF'
+'"'"7.7.0
+VMware Tools
+d:/build/ob/bora-1463223/bora/lib/productState/productState.c
+SOFTWARE\VMware, Inc.\%s
+GetDiskFreeSpaceExA
+RSDS
+nZh\z
+d:\build\ob\bora-1463223\bora-vmsoft\build\release\apps\upgrader9x\Upgrader9x.pdb
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+GetUserNameA
+CopySid
+GetLengthSid
+GetTokenInformation
+InitializeSecurityDescriptor
+GetSecurityDescriptorDacl
+GetAce
+AddAce
+InitializeAcl
+GetAclInformation
+SetSecurityDescriptorDacl
+EqualSid
+AddAccessAllowedAce
+DeleteAce
+CreateProcessAsUserA
+RegSetValueExA
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+InitiateSystemShutdownA
+AccessCheck
+MapGenericMask
+GetFileSecurityA
+RevertToSelf
+ImpersonateSelf
+OpenThreadToken
+RegCreateKeyExA
+ADVAPI32.dll
+PostQuitMessage
+MessageBoxA
+GetDesktopWindow
+LoadStringA
+PeekMessageA
+KillTimer
+SetTimer
+GetUserObjectSecurity
+SetUserObjectSecurity
+CloseDesktop
+CloseWindowStation
+OpenDesktopA
+SetProcessWindowStation
+OpenWindowStationA
+GetProcessWindowStation
+GetUserObjectInformationA
+OpenInputDesktop
+ExitWindowsEx
+USER32.dll
+CoUninitialize
+CoInitialize
+CoSetProxyBlanket
+CoTaskMemFree
+CoQueryProxyBlanket
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+VerQueryValueA
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+VERSION.dll
+OutputDebugStringA
+FindClose
+FindNextFileA
+FindFirstFileA
+GetLastError
+GetModuleFileNameA
+GetModuleHandleA
+WaitForMultipleObjectsEx
+SetConsoleCtrlHandler
+QueryPerformanceCounter
+GetProcAddress
+GetSystemInfo
+FreeLibrary
+LoadLibraryA
+GetCurrentProcess
+GetCurrentThread
+CloseHandle
+OpenProcess
+WaitForSingleObject
+FileTimeToSystemTime
+TerminateProcess
+GetExitCodeProcess
+CreateProcessA
+DuplicateHandle
+GetTickCount
+GetVersionExA
+IsBadReadPtr
+VirtualQuery
+GetCurrentThreadId
+CreateFileA
+GetCurrentProcessId
+TlsSetValue
+TlsGetValue
+RaiseException
+SetUnhandledExceptionFilter
+TlsAlloc
+FormatMessageA
+MoveFileExA
+CreateDirectoryA
+RemoveDirectoryA
+Sleep
+GetFileInformationByHandle
+GetFileAttributesA
+GetTempPathA
+GetFileType
+SetEndOfFile
+SetFilePointer
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingA
+GetFileSize
+GetWindowsDirectoryA
+GetDriveTypeA
+GetDiskFreeSpaceA
+SetLastError
+WriteFile
+ReadFile
+FlushFileBuffers
+GetVersion
+DeleteFileA
+MoveFileA
+WideCharToMultiByte
+MultiByteToWideChar
+GetFullPathNameA
+CreateEventA
+SetEvent
+GetSystemTimeAsFileTime
+GetLogicalDriveStringsA
+GetOverlappedResult
+CopyFileA
+GetModuleHandleW
+CreateEventW
+HeapFree
+HeapAlloc
+GetStartupInfoA
+GetCommandLineA
+GetTimeZoneInformation
+RtlUnwind
+GetCurrentDirectoryA
+FileTimeToLocalFileTime
+HeapReAlloc
+EnterCriticalSection
+LeaveCriticalSection
+ExitProcess
+HeapDestroy
+HeapCreate
+VirtualFree
+DeleteCriticalSection
+VirtualAlloc
+TlsFree
+GetStdHandle
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+SetHandleCount
+LCMapStringA
+LCMapStringW
+GetACP
+GetOEMCP
+GetCPInfo
+InterlockedExchange
+GetStringTypeA
+GetStringTypeW
+InitializeCriticalSection
+GetLocaleInfoA
+VirtualProtect
+HeapSize
+SetStdHandle
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+KERNEL32.dll
+                0000000000000000 
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+   <assemblyIdentity
+      version="1.0.0.0"
+      processorArchitecture="X86"
+      name="VMware.VMware.upgrader"
+      type="win32"
+   />
+   <description>"VMware Tools Upgrader"</description>
+   <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+      <security>
+         <requestedPrivileges>
+            <requestedExecutionLevel
+               level="asInvoker"
+               uiAccess="false"
+         />
+         </requestedPrivileges>
+      </security>
+   </trustInfo>
+</assembly>
+0k0o0
+L0B0
+0~0Y0
+NY0P0
+RW0~0Y0K0
+0D0D0H0
+VT{W0f0
+0W0j0D0P
+0o0Y0P0k0
+0~0Y0
+_pe>
+0k0!nW0~0Y0
+0~0Y0
+NW0_0
+0JRd
+W0~0Y0
+NW0_0
+0W0~0Y0
+:yW0~0Y0
+>0<0
+0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+131017000000Z
+161115235959Z0
+California1
+	Palo Alto1
+VMware, Inc.1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+VMware, Inc.0
+#:7C
+tlEy
+M5Su
+90705
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+e0c0$
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+	|7X
+ePBPc
+U	+a
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+CcjRK
+{]KV
+3130
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+$"(@
+:'jI
+#(2v
+wha3
+\J$jg
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+http://www.vmware.com/0
+;OFfA
+7xw;'
+/],yl
+NQ!f
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150814210319Z0#
+:y!V\
+*"Z!
+IP;T
+V:Nx
+hxA2

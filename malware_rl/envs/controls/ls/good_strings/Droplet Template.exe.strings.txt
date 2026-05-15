@@ -1,0 +1,557 @@
+!This program cannot be run in DOS mode.
+Rich?Rv
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+r)@Pj@
+QRPS
+RDB8
+WWPS
+=RDB8
+QRPS
+tg9}
+tF9}
+RQPS
+SVWP
+f98t
+RheliFP
+BdhllunQ
+hllunP
+R\QhOrvOP
+RhdrvOP
+RhrdlFP
+RhnAvSP
+h   TP
+R4QP
+V$PQ
+V$PQ
+V$PQ
+h goLP
+R4QP
+RhFctBP
+Y_^[
+tu@Ph
+^_[3
+YY8]
+woVW
+ SW3
+PPPPPPPP
+QQSVWd
+QSVW
+jXhx
+YQPVh
+Fh=h
+_^[]
+Y_^[]
+Fpt"
+F\=0
+PPPPP
+uTVWh
+j hH
+PPPPP
+<v*V
+^SSSSS
+@u^V
+t%HHt
+HHt$HHt
+RPWS
+90tW
+?If90t
+YYt.
+@_^]
+=RCC
+=MOC
+=csm
+8csm
+9csm
+~A;L
+>csm
+taSV
+YYPV
+t)SV
+Hu4j
+=MOC
+t*=RCC
+;7|G;p
+9>u&
+hX	A
+tR99u2
+r,9Y
+@_^[]
+8csm
+t$<"u	3
+t?VSP
+Y[_^
+PPPPP
+>"u&
+< tK<	tG
+wf93t
+f90u
+f90u
+VVV+
+@PSVV
+t*VV
+j@j ^V
+SWf9M
+j@j 
+Y__^[
+9csm
+9]$u
+9](SS
+t"SS9] u
+9] SS
+u,9E
+v4;5<
+vL;5T
+j h 
+t!Ht
+_^[]
+Y_^[
+Y_^[
+u}h<
+_^[]
+t'Ou
+VVhU
+QSWVj
+v	N+D$
+t&:a
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+_^[]
+~%9M
+QVj	
+r 8^
+~,WPV
+98t^
+tVPV
+t/9U
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+PPPPPPPP
+PPPPPPPP
+upperCaseExtension
+lowerCaseExtension
+ddmm
+ddmmyy
+yyddmm
+yymmdd
+yyyymmdd
+mmdd
+mmddyy
+upperCaseSerial
+lowerCaseSerial
+fourDigit
+threeDigit
+twoDigit
+oneDigit
+upperCase
+lowerCase
+name
+unused
+err=%x %d
+suppressOpenOptions
+suppressWarnings
+fileNamingRules
+unix
+windows
+macintosh
+start
+fileNamingComponents
+textKey
+fileNamingComponent
+component
+descriptor->PutData len=%08x
+fileStartPos %d
+CLSID=%8x-%4x-%4x-%2x%2x-%2x%2x%2x%2x%2x%2x
+The droplet was unable to connect. Please try again. (Error code %d.)
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+CorExitProcess
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+bad exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+('8PW
+700PP
+`h`hhh
+xppwpp
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+FindClose
+lstrcpyA
+FindFirstFileA
+GlobalAlloc
+ReadFile
+CloseHandle
+SetFilePointer
+CreateFileA
+MultiByteToWideChar
+GetModuleFileNameA
+KERNEL32.dll
+MessageBoxA
+wsprintfA
+USER32.dll
+CoCreateInstanceEx
+OleInitialize
+ole32.dll
+OLEAUT32.dll
+GetLastError
+HeapFree
+HeapAlloc
+RtlUnwind
+GetCommandLineA
+HeapSetInformation
+GetStartupInfoW
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+EncodePointer
+TlsAlloc
+TlsGetValue
+TlsSetValue
+DecodePointer
+TlsFree
+GetModuleHandleW
+SetLastError
+GetCurrentThreadId
+GetProcAddress
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+TerminateProcess
+GetCurrentProcess
+HeapCreate
+ExitProcess
+WriteFile
+GetStdHandle
+GetModuleFileNameW
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+GetFileType
+DeleteCriticalSection
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LCMapStringW
+GetStringTypeW
+LeaveCriticalSection
+EnterCriticalSection
+Sleep
+LoadLibraryW
+GetConsoleCP
+GetConsoleMode
+RaiseException
+IsProcessorFeaturePresent
+HeapReAlloc
+HeapSize
+SetStdHandle
+WriteConsoleW
+CreateFileW
+FlushFileBuffers
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_exception@std@@
+.?AVexception@std@@
+.?AVtype_info@@
+IHDR
+IDATx
+	AvE@:
+a_k:D
+Lx?Dm
+R&H4
+G r*
+D kRN
+{!G9
+s_=.
+N1!K
+>v)w
+BeD 
+.TA2
+bp">8'
+3g3u
+v?>~
+@2*!
+f&sh
+i>$cU
+:>di
+#xHY
+nN_p
+g-^H
+WW>O
+dc3&
+_5BjP1
+Y5&A
+j'^\
+/0X:\~
+\t1=
+PAt!P
+V}zk
+T#n1
+vrvy
+Ady/
+t=[V=
+#pTh(
+DQmz
+k&,r"
+Vy}+
+&D$Q1
+oenB
+9|w`w?/>
+P^~+
+]s/	
+.LYF
+C]{U
+k?Ek{
+4s*[W
+V*H]A
+UX'm
+ K|;
+mD`1
+7O<J
+#K4l<
+w	+X
+7j@Z
+s>z1
+vnx6
+Gyb	
+Az/4
+\}5>
+R5_0
+jo$*T
+I+	X)
+Y%AP
+o[%O
+Kx	@
+Ky	@
+F~H^
+0u%g
+J	AUr
+'.Y!?
+L~P[
+OJh,
+YG \
+IDATC6
+v#V-'
+jN@=
+F7BE
+E\mVi
+@-|D
+ll1n
+C~I0
+C~u`
+ 9$,
+91H4
+"pAfr
+O,'`
+IEND
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+1!1J1
+2+3:3H3T3a3
+4^4h4m4x4
+4	5*5D5N5
+6"646:6Q6i6
+6.7c7
+7=8[8j8
+;M<q<
+>+?G?
+60\0
+4#5r5
+556A6
+8,838
+9 9*999
+?8?g?m?|?
+434q4
+4D5I5S5
+608A8{8
+929V9
+9E:b:
+<!<:<V<_<e<n<s<
++020>0D0P0V0_0e0n0z0
+0$1d1j1
+2$3*3@3E3M3S3Z3`3g3m3u3|3
+4!40454;4D4d4j4
+6B6^6
+7#7+737?7H7M7S7]7f7q7}7
+9*9D9O9W9g9m9~9
+;H;`;j;
+;(<E<
+0`0o0
+4)6l6
+7<8G8M8r8x8}8
+9%9~:
+;(;i;t;~;
+;Z=k=s=y=~=
+?G?N?c?
+090i0{0
+111N1
+3(3K3X3d3l3t3
+8&8-8F8Z8`8i8|8
+849T9u9~9
+>0>B>T>f>x>
+?)?.?3?8?H?w?}?
+0#0(060
+0.1=1M1T1\1
+283=3O3m3
+5*5/585B5M5
+7*878P8n8
+;g=A>
+?B?X?
+2%242@2M2q2
+3!3E3t3
+78708_8
+9$9+93989<9@9i9
+: :$:(:,:
+;I;P;T;X;\;`;d;h;l;
+;$<\<
+<E=_=h=u>
+p0u0
+0i1o1{1
+2<2T2[2c2h2l2p2
+3J3P3T3X3\3
+4G4y4
+4h5n5
+5.6V6o6
+7,7:7G7f7
+9/9<9A9O9*:M:X:{:
+;-;2;
+?>?f?
+61_1z1
+L1P1T1X1\1h1l1x7|7
+,040<0D0L0T0\0d0l0t0|0
+82<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4(4,40484P4T4l4|4
+4,5P5\5d5
+686D6`6
+6 7(7,7D7H7d7h7p7x7
+888X8t8x8
+9$9@9`9
+0 0$0(0,0004080<0@0D0H0L0
+6 6$6(6,6064686H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6P7`7p7
+7P9T9X9x9
+; ;$;(;,;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;

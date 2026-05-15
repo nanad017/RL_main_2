@@ -1,0 +1,3005 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.gfids
+@.tls
+.rsrc
+@.reloc
+hp	A
+_^][
+D$$V
+QSVW
+_^[Y
+_^[Y
+*UVW
+s]+3
+_^][
+=UUU
+=UUU
+SUVW
+3^][
+:/u	
+:\u	
+_t-Qj.
+\@;F
+PSV3
+t;Vj;S
+_^[d
+s`+3
+_]^[
+_^][Y
+_^][
+=UUU
+_^][Y
+_^][Y
+_^][Y
+NlXkV
+XNlXkV
+XNlXkV
+lZkV
+lZkV
+lZkV
+XNV*
+XG,0
+XNV*
+XN(c
+XN(d
+XN(d
+XN(c
+XN(c
+l	ZkV
+XN(c
+XN(d
+XN(d
+XN(c
+XN(c
+l	ZkV
+XNl#
+o@Zi
+XNl#
+o@Zi
+XNl#
+o@Zi
+YGvl#
+Gvl#
+o@[	lXk
+l[kl#
+o@ZiR
+l[kl#
+o@ZiR
+l[kl#
+o@ZiR
+o@ZiR
+$XJ)
+$XJ)
+ XJ)
+$XJ)
+XJ9-
+XJ(%
+XNli
+XNli(V
+dXG*
+eXG*
+XNV*
+XN(c
+XN(d
+l	ZkV
+XN(d
+XN(c
+XN(c
+XJ[*
+XJ[*
+l	l6
+XJ(7
+#<YV
+dXG(
+eXG(
+&	(+
+XJ(o
+XJ	X
+XJ)	
+(XJ	
+%JJ)
+xXJ)
+XJ(>
+eXG,
+&+J(J
+XJ9Q
+XJ(%
+4B(W
+4B(W
+?V	"
+4B(W
+HB(S
+XJ(%
+$XG,
+&	(f
+XT+$
+XJ	JY
+XJ4! 
+XJ(c
+JJT+
+	JT	
+T*AL
+JXJT
+XT+$
+XJ	Y
+XJ	Y
+[Y(0
+[Y(.
+[Y(0
+[Y(.
+klY#
+Y@[Yk(
+kl[k
+kl[k
+klYk(
+klYk(
+Y@[Yk(
+kl[k
+kl[k
+	XG,
+@[Yk(
+kl[k
+kl[k
+	XG,
+o@[kV
+o@[kV
+o@[kV
+o@[kV
+o@[kV
+o@[kV
+XJ54
+	*AL
+	4D	
+[0)	
+R l	
+6	(k
+t=Whh
+t7Whn
+NlYkV
+XNlYkV
+XNlYkV
+XNlZ
+NlZX
+XNlZXk*
+XJ \
+XJX(
+XJX(
+XJ	JY 
+$XN(
+(XN(
+,XN(
+T*AL
+XT+'
+ZXT*
+	JX 
+tB+}
+8csm
+Y__^[
+u&hd
+j Y+
+8csm
+ineI
+5ntel
+5Genu
+t#=`
+4XJ)
+ XJ)
+JJ csm
+3/& 
+SVWj
+Y_^3
+j Y+
+float64
+bitmap
+bool
+Error
+Load Error
+string
+wstring
+luaobject
+luatable
+string
+wstring
+.tga
+.dbr
+Error
+Please open a DBR in the subdirectory you want to batch process.
+Default
+Tight
+TightBaseline
+Cylinder
+Sphere
+Capsule
+BMC1
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+string
+wstring
+luaobject
+luatable
+string
+wstring
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+Cylinder
+Sphere
+Capsule
+.tga
+\My Games\Grim Dawn
+\Tools.ini
+Login
+builddir
+additionalbuilddirs
+Database
+Resources
+XPack
+Audio
+Videos
+Text
+Direct3D
+main.dmp
+./settings/defaults.txt
+settings/options.txt
+settings/keybindings.txt
+\Settings\options.txt
+GAME.DLL
+InitializeObjects
+.dbr
+luaobject
+luatable
+string
+wstring
+Cylinder
+Sphere
+Capsule
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+float64
+bool
+string
+wstring
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+Cylinder
+Sphere
+Capsule
+bad allocation
+bad array new length
+>#g/
+InitializeConditionVariable
+SleepConditionVariableCS
+WakeAllConditionVariable
+I@ ( %f , %f , %f ) 
+Memory allocation of %dkb failed
+\\?\UNC\
+%.1fkb
+%.1fmb
+\*.*
+\*.*
+vector<T> too long
+Unknown exception
+invalid string position
+string too long
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+lua51.dll
+lua52.dll
+lua5.1.dll
+list<T> too long
+^`a$!
+-)%+($-*'.($*%")%!'%"%!
+,&"-(#.(%-(#/)"0+%/,(-'#.(#2-*/*%# 
++(%=:5BA?553.-++'"$ 
+:96^`a
+\]^lmn
+lnpprs[\^WVU=;7
+_aavxx
+	[\\
+_acrst
+	[ZY
+\[ZLJI
+^ackmn
+efh62.KJGWTQ[XWZZXdfg
+`aaoru
+^`aopr
+`aanpt
+[]_qqs
+'%"'"
+-("0,&)$
+noovy|
+kijghj
+0+%50*-("LIE
+fggw{}!
+-(!+'#
+iiilmn
+852DB<
+osu!
+73-0,'RNK
+a_^w{}"
+/*#-)$
+efdyyw
+FBA("
+fgh(#
+61,TRM
+hfdsuv'"
+30)3-(
+FD@4/*1,&pqp
+GFE*$
+,'!fge
+jhfqss.("950=70
+bcb|{z
+FEA83.>:5:5/
+:74ROJ
+1,&jkj
+[[\$
+kkhuww2-'=94C=6
+MKG>94FB=B>9C>9
+61+uus
+[[Y*$
+srnvyy71+B>8FB=
+SPLC?9KGAJFAGC>MID
+;60yxw
+]^[.(!struxy.)#GC>JFA
+qrqzzy
+VTQHD>OKFOKFPLGMICZWS
+@;5xwv
+cb`3-'tsq
+VUR51+JFA
+XWTNJESOJPKFJFAFB=?:5ba_
+D@;pqp
+hge60+{yw
+{||B?;
+oqpz{{
+POL@;7LHDYWSfge
+EA=zzy
+eedD?9WSO
+UQL|||
+ghgMHCVRMTOJ
+utqa_\c_Zd`[
+bdc94/IE@JE@GA<^[X
+vtr^ZVTPKPKFSOIWSNXTORMHvus
+RPMMID
+pomc`\UQLTOKWURmmk
+lnnLHDea\rqmb`\RNJRNI\ZVnnm
+\[Y^\Yzzy
+dcbedbYXW[[Z^^]XXV\[XZXWZYW]\Z][Z]]\
+OMKVVVmnm
+jjj[\\VUSLKHGDA!
+A?<tvw>:6{
+86394/=:7
+CB?SSR#
+CA>\]\,'!~
+GEB]\Z72-
+jkj}
+OMI^][A<7
+?;5A<7
+B=7JF@GD?
+IFAVSO
+srpeb_YUQ
+y{{ihezzyzzylkizzy
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089jSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP$'
+3'Oi4
+B5y_d?
+6	QX#1Q
+Jpqo
+NbtkD
+Z{S-U
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+6!P!
+FP"	
+*Qp	
+`;o3
+`XoB
+`woQ
+`yp%
+`pq|
+`Ur4
+`yrK
+`hs+
+`~t!
+`2v_
+`Fvp
+`#w,
+`+w@
+`3wR
+`Fwa
+`jwr
+`,yA
+`OyA
+`qyA
+`+{h
+`>{y
+`0|P
+`ftf
+`[}.
+3#	s
+3C	s
+3c	s
+3  ;
+3@ ;
+3a K
+ ! + A K W a f k 
+!+!3!8!=!S![!`!
+"'"1"8"="S"a"f"
+#!#&#4#I#S#`#g#q#{#
+$+$5$A$I$O$Y$^${$
+%/%9%D%P%T%]%g%
+&;&\&
+&''3'C'^'C
+'8(C(O(W(](g(s(
+)")')e)
+.*3*8*=*U*Z*g*l*}*
++$+,+C+X+c+p+
+,.,3,8,B,N,d,j,o,|,
+/%/+/5/?/G/Q/`/j/o/~/
+0S0v0~0
+1!1)1T1_1m1
+2"2(2-2>2C2I2R2^2e2o2t2x2~2
+3L3R3Y3b3g3p3y3
+<Module>
+$ArrayType$$$BY0BC@$$CBD
+<CppImplementationDetails>
+$ArrayType$$$BY0O@$$CBD
+$ArrayType$$$BY0BF@$$CBD
+$ArrayType$$$BY08$$CBD
+$ArrayType$$$BY0L@$$CBD
+$ArrayType$$$BY0BA@$$CBD
+$ArrayType$$$BY05$$CBD
+$ArrayType$$$BY04$$CBD
+$ArrayType$$$BY01$$CBD
+$ArrayType$$$BY00$$CBD
+$ArrayType$$$BY02$$CBD
+$ArrayType$$$BY07$$CBD
+$ArrayType$$$BY0BG@$$CBD
+$ArrayType$$$BY06$$CBD
+$ArrayType$$$BY0BI@$$CBD
+$ArrayType$$$BY03$$CBD
+$ArrayType$$$BY0BD@$$CBD
+$ArrayType$$$BY0BE@$$CBD
+RenderBlendFactor
+GAME
+RenderTextureFormat
+$ArrayType$$$BY09$$CBD
+EntityListType
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+$ArrayType$$$BY0EB@$$CBD
+$ArrayType$$$BY09$$CBG
+_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >,std::_Iterator_base0>
+integral_constant<bool,1>
+_General_ptr_iterator_tag
+_One_then_variadic_args_t
+integral_constant<bool,0>
+$ArrayType$$$BY0BB@$$CBD
+random_access_iterator_tag
+_Any_tag
+_Really_trivial_ptr_iterator_tag
+_iobuf
+exception
+basic_string<char,std::char_traits<char>,std::allocator<char> >
+Rect
+Vec2
+Vec3
+BinaryReader
+Frustum
+Object
+RTTI_ClassInfo
+_GUID
+HWND__
+Color
+ABBox
+Entity
+Actor
+GraphicsMeshInstance
+Backend
+BitmapCreator
+DisplayWidget
+vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >
+Region
+FileSystem
+Partition
+Camera
+Pixel
+GraphicsNormalRenderer
+BackgroundMode
+BackendScene
+GraphicsSceneRenderer
+vector<GAME::GraphicsSceneRenderer::RenderableEntry>
+vector<GAME::GraphicsLight>
+hash_map<GAME::Region *,GAME::Coords,std::hash<GAME::Region *> >
+GraphicsCanvas
+_List_iterator<std::_List_val<std::_List_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+_List_const_iterator<std::_List_val<std::_List_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+lgString
+LUAGLUE
+_Hash<std::_Umap_traits<GAME::Region *,GAME::Coords,std::_Uhash_compare<GAME::Region *,std::hash<GAME::Region *>,std::equal_to<GAME::Region *> >,std::allocator<std::pair<GAME::Region * const,GAME::Coords> >,0> >
+vector<GAME::GraphicsLight,std::allocator<GAME::GraphicsLight> >
+vector<GAME::GraphicsSceneRenderer::RenderableEntry,std::allocator<GAME::GraphicsSceneRenderer::RenderableEntry> >
+vector<GAME::Entity *,std::allocator<GAME::Entity *> >
+_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+_List_buy<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+_String_alloc<std::_String_base_types<char,std::allocator<char> > >
+_String_val<std::_Simple_types<char> >
+_Bxty
+_List_node<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,void *>
+_List_alloc<std::_List_base_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+_Wrap_alloc<std::allocator<char> >
+vector<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > >,std::_Wrap_alloc<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > > > > >
+list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >
+_Wrap_alloc<std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+_List_buy<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >
+GraphicsLight
+Type
+_Wrap_alloc<std::allocator<GAME::Entity *> >
+_List_node<std::pair<GAME::Region * const,GAME::Coords>,void *>
+allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >
+GraphicsTexture
+$_s__RTTIBaseClassArray$_extraBytes_4
+$_s__RTTIBaseClassArray$_extraBytes_8
+_s__RTTIBaseClassDescriptor2
+_s__RTTIClassHierarchyDescriptor
+$_TypeDescriptor$_extraBytes_24
+$_TypeDescriptor$_extraBytes_25
+$_TypeDescriptor$_extraBytes_28
+$_TypeDescriptor$_extraBytes_33
+$_TypeDescriptor$_extraBytes_20
+$_TypeDescriptor$_extraBytes_22
+vector<GAME::Region *,std::allocator<GAME::Region *> >
+Sphere
+WorldFrustum
+_s__RTTICompleteObjectLocator
+_s__ThrowInfo
+$ArrayType$$$BY01Q6AXXZ
+$ArrayType$$$BY08Q6AXXZ
+$ArrayType$$$BY03D
+LightManager
+LightStruct
+BinaryWriter
+Viewport
+Coords
+DebugRenderManager
+RenderSurface
+RenderTexture
+$ArrayType$$$BY03Q6AXXZ
+GraphicsEngine
+RenderDevice
+RenderDeviceSettings
+Image
+Format
+$ArrayType$$$BY0BA@UPixel@GAME@@
+Engine
+$ArrayType$$$BY0BPE@D
+WorldCoords
+World
+GraphicsMesh
+ObjectManager
+LoadTable
+Level
+IntVec3
+$ArrayType$$$BY07Q6AXXZ
+$ArrayType$$$BY02Q6AXXZ
+$ArrayType$$$BY07VVec3@GAME@@
+Options
+__std_exception_data
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<GAME::Entity *> > >
+forward_iterator_tag
+_Vector_iterator<std::_Vector_val<std::_Simple_types<GAME::Entity *> > >
+MainForm
+Timer
+$ArrayType$$$BY0BJ@$$CBD
+less<void>
+GraphicsEngineSettings
+HINSTANCE__
+pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,std::basic_string<char,std::char_traits<char>,std::allocator<char> > *>
+$_TypeDescriptor$_extraBytes_18
+$ArrayType$$$BY02_N
+$ArrayType$$$BY0EAA@D
+$ArrayType$$$BY05Q6AXXZ
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<BitmapCreator::LightManager::LightStruct> > >
+_Vector_iterator<std::_Vector_val<std::_Simple_types<BitmapCreator::LightManager::LightStruct> > >
+vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >
+_Wrap_alloc<std::allocator<BitmapCreator::LightManager::LightStruct> >
+rebind<BitmapCreator::LightManager::LightStruct>
+allocator<BitmapCreator::LightManager::LightStruct>
+TransformGizmo
+Mode
+ModuleLoadException
+<CrtImplementationDetails>
+ModuleLoadExceptionHandlerException
+ModuleUninitializer
+__scrt_native_startup_state
+TriBool
+Progress
+IUnknown
+LanguageSupport
+gcroot<System::String ^>
+__s_GUID
+$ArrayType$$$BY0A@P6AHXZ
+ICLRRuntimeHost
+ICorRuntimeHost
+$ArrayType$$$BY00Q6MPBXXZ
+$ArrayType$$$BY0A@P6AXXZ
+_EXCEPTION_POINTERS
+ThisModule
+KERNEL32.dll
+mscorlib
+System.Data
+System
+System.Drawing
+System.Windows.Forms
+System.Xml
+AssemblyKeyNameAttribute
+System.Reflection
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyVersionAttribute
+AssemblyCultureAttribute
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+AssemblyAttributesGoHere
+System.Runtime.CompilerServices
+SecurityAction
+System.Security.Permissions
+SecurityPermissionAttribute
+AssemblyAttributesGoHereSM
+CallConvStdcall
+CallConvCdecl
+CallConvThiscall
+NativeCppClassAttribute
+Enum
+IsConst
+ValueType
+IsSignUnspecifiedByte
+DecoratedNameAttribute
+IsLong
+IsImplicitlyDereferenced
+IsUdtReturn
+IsCopyConstructed
+CLSCompliantAttribute
+Marshal
+System.Runtime.InteropServices
+Form
+TreeView
+Splitter
+Button
+PictureBox
+Panel
+GroupBox
+ColorDialog
+SaveFileDialog
+NumericUpDown
+Label
+FolderBrowserDialog
+CheckBox
+OpenFileDialog
+IContainer
+System.ComponentModel
+EventArgs
+Hashtable
+System.Collections
+MouseEventArgs
+KeyEventArgs
+Int32
+TreeNode
+String
+STAThreadAttribute
+Application
+Thread
+System.Threading
+ApartmentState
+Keys
+Decimal
+FileDialog
+DialogResult
+CommonDialog
+Control
+MouseButtons
+Rectangle
+TreeNodeCollection
+IntPtr
+Directory
+System.IO
+CompilerMarshalOverride
+ISupportInitialize
+EventHandler
+Icon
+Stream
+Assembly
+Size
+Font
+FontStyle
+GraphicsUnit
+BorderStyle
+ScrollableControl
+CheckState
+ButtonBase
+ControlCollection
+MouseEventHandler
+DockStyle
+SystemColors
+KeyEventHandler
+Point
+Container
+TargetFrameworkAttribute
+System.Runtime.Versioning
+Exception
+SerializationInfo
+System.Runtime.Serialization
+StreamingContext
+SecurityCriticalAttribute
+System.Security
+Stack
+SecuritySafeCriticalAttribute
+PrePrepareMethodAttribute
+System.Runtime.ConstrainedExecution
+IDisposable
+AppDomain
+UnsafeValueTypeAttribute
+Guid
+DebuggerStepThroughAttribute
+System.Diagnostics
+ReliabilityContractAttribute
+Consistency
+FixedAddressValueTypeAttribute
+Interlocked
+Monitor
+RuntimeEnvironment
+GCHandle
+RuntimeHelpers
+Delegate
+RuntimeTypeHandle
+IEnumerator
+SecurityRulesAttribute
+SecurityRuleSet
+HandleProcessCorruptedStateExceptionsAttribute
+System.Runtime.ExceptionServices
+OutOfMemoryException
+IsBoxed
+SuppressUnmanagedCodeSecurityAttribute
+ModuleHandle
+RuntimeMethodHandle
+Module
+std.exception.{dtor}
+std.exception.__vecDelDtor
+delete
+std._Allocate
+_Count
+_Try_aligned_allocation
+std._Deallocate
+_Ptr
+GAME.+
+GAME.*
+GAME.Color.{ctor}
+color
+BitmapCreator.GetDirectoryFromFileName
+fileName
+path
+BitmapCreator.Backend.{ctor}
+BitmapCreator.Backend.__vecDelDtor
+mem.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >.{dtor}
+BitmapCreator.Backend.{dtor}
+BitmapCreator.Backend.SetBorderSize
+value
+BitmapCreator.Backend.SetBackAlpha
+BitmapCreator.Backend.GetRegion
+BitmapCreator.Backend.LoadPreviewTexture
+fName
+BitmapCreator.Backend.LoadDBR
+BitmapCreator.Backend.CopyCamera
+BitmapCreator.Backend.PasteCamera
+BitmapCreator.Backend.BatchUpdate
+BitmapCreator.Backend.Batch
+outputDir
+fileSystem
+BitmapCreator.Backend.HandleMouseButton
+button
+state
+position
+BitmapCreator.Backend.PanX
+BitmapCreator.Backend.PanY
+BitmapCreator.Backend.SetCameraYaw
+cameraYaw
+BitmapCreator.Backend.SetCameraPitch
+cameraPitch
+BitmapCreator.Backend.SetCameraDistance
+cameraDistance
+BitmapCreator.Backend.GetCameraYaw
+BitmapCreator.Backend.GetCameraPitch
+BitmapCreator.Backend.GetCameraDistance
+BitmapCreator.Backend.GetCamera
+BitmapCreator.Backend.SetBackgroundColor
+BitmapCreator.Backend.SetIconHWND
+_iconHWND
+BitmapCreator.Backend.SetPreviewHWND
+_previewHWND
+BitmapCreator.Backend.Update
+BitmapCreator.Backend.GetPreviewWidth
+BitmapCreator.Backend.GetPreviewHeight
+BitmapCreator.Backend.UpdatePreviewSize
+BitmapCreator.Backend.SetIconSize
+tileSize
+BitmapCreator.Backend.DownSamplePixel
+pixels
+BitmapCreator.Backend.DownSample
+pixelBuffer1
+pixelBuffer2
+smallerWidth
+smallerHeight
+BitmapCreator.Backend.SaveTGA
+pixelBuffer
+width
+height
+BitmapCreator.Backend.SaveIcon
+BitmapCreator.Backend.ReCreatePreviewSurface
+xResolution
+yResolution
+BitmapCreator.Backend.ReCreateTGASurface
+BitmapCreator.Backend.ReCreateSecondarySurface
+BitmapCreator.Backend.ExtentsCheck
+frust
+BitmapCreator.Backend.IconZoom
+BitmapCreator.Backend.RenderTGA
+GAME.GraphicsNormalRenderer.{dtor}
+GAME.BackendScene.{dtor}
+GAME.GraphicsSceneRenderer.{dtor}
+mem.vector<GAME::GraphicsSceneRenderer::RenderableEntry>.{dtor}
+mem.vector<GAME::GraphicsLight>.{dtor}
+BitmapCreator.Backend.RenderPreviewSurface
+BitmapCreator.Backend.RenderIconSurface
+BitmapCreator.Backend.AddLight
+BitmapCreator.Backend.RemoveActiveLight
+BitmapCreator.Backend.Render
+canvas
+BitmapCreator.Backend.GetShadows
+BitmapCreator.Backend.GetAutoZoom
+BitmapCreator.Backend.SetShadows
+BitmapCreator.Backend.SetAutoZoom
+BitmapCreator.Backend.SetActiveLightColor
+BitmapCreator.Backend.UpdateCameraFromParameters
+forIcon
+BitmapCreator.Backend.MouseMove
+BitmapCreator.Backend.SaveBMC
+BitmapCreator.Backend.LoadBMC
+BitmapCreator.Backend.GetIconSize
+BitmapCreator.Backend.GetBlocksX
+BitmapCreator.Backend.GetBlocksY
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.end
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.begin
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.{dtor}
+std._Hash<std::_Umap_traits<GAME::Region *,GAME::Coords,std::_Uhash_compare<GAME::Region *,std::hash<GAME::Region *>,std::equal_to<GAME::Region *> >,std::allocator<std::pair<GAME::Region * const,GAME::Coords> >,0> >.{dtor}
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.clear
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.erase
+_Where
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.push_back
+_Val
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.end
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.begin
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.assign
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.=
+_Right
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.{dtor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.{ctor}
+std._List_buy<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.{dtor}
+std._String_alloc<std::_String_base_types<char,std::allocator<char> > >.{dtor}
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Unchecked_end
+std.list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.{dtor}
+std.vector<GAME::GraphicsLight,std::allocator<GAME::GraphicsLight> >._Tidy
+std.vector<GAME::GraphicsSceneRenderer::RenderableEntry,std::allocator<GAME::GraphicsSceneRenderer::RenderableEntry> >._Tidy
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Tidy
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Tidy
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Reserve
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Reallocate
+std._String_val<std::_Simple_types<char> >._Bxty.{dtor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Tidy
+_Built
+_Newsize
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Grow
+_Trim
+_Roff
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.append
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Assign_rv
+std._List_buy<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.{dtor}
+std._List_alloc<std::_List_base_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >.{ctor}
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.clear
+std.vector<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > >,std::_Wrap_alloc<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > > > > >._Tidy
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Copy
+_Oldlen
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.erase
+_Off
+std._List_buy<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Freenode
+_Pnode
+std.list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.clear
+std._List_alloc<std::_List_base_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >._Buynode0
+_Next
+_Prev
+std.list<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Insert<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &>
+<_Val_0>
+std._String_alloc<std::_String_base_types<char,std::allocator<char> > >.{ctor}<struct std::_Wrap_alloc<class std::allocator<char> >,void>
+std._List_buy<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Buynode<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &>
+std.allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >.construct<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &>
+<_Args_0>
+std._Uninitialized_move_al_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >
+_First
+_Last
+_Dest
+std._Uninitialized_move_al_unchecked1<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >
+__unnamed004
+__unnamed005
+GAME.BackendScene.AddEntity
+entity
+GAME.BackendScene.GetEntitiesInFrustum
+entities
+frustum
+listType
+GAME.BackendScene.GetEntitiesInSphere
+startRegion
+sphere
+GAME.BackendScene.GetRegionsInFrustum
+regions
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.push_back
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.end
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.begin
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Reserve
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Reallocate
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.insert<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > > >
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Insert<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > > >
+__unnamed003
+std.rotate<class GAME::Entity * *>
+_Mid
+std._Uninitialized_move_al_unchecked<class GAME::Entity * *,class GAME::Entity * *,class std::allocator<class GAME::Entity *> >
+std._Uninitialized_copy<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > >,class GAME::Entity * *,class std::allocator<class GAME::Entity *> >
+std._Rotate_unchecked1<class GAME::Entity * *>
+std._Copy_memmove<class GAME::Entity * *,class GAME::Entity * *>
+std._Copy_memmove<class GAME::Entity * const *,class GAME::Entity * *>
+WinMain
+hInstance
+hPrevInstance
+lpCmdLine
+nCmdShow
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.compare
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.substr
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Traits_compare
+_Left
+_Left_size
+_Right_size
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.rfind
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.swap
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Swap_bx
+std.operator+<char,struct std::char_traits<char>,class std::allocator<char> >
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.reserve
+_Newcap
+std._Sort_unchecked1<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,struct std::less<void> >
+_Ideal
+_Pred
+std._Partition_by_median_guess_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Make_heap_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Insertion_sort_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Guess_median_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Pop_heap_hole_by_index<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<void> >
+_Hole
+_Bottom
+std._Pop_heap_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Med3_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Push_heap_by_index<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<void> >
+_Top
+GAME.-
+GAME.DotProduct
+BitmapCreator.LightManager.{ctor}
+BitmapCreator.LightManager.__vecDelDtor
+BitmapCreator.LightManager.{dtor}
+BitmapCreator.LightManager.SetShadows
+BitmapCreator.LightManager.SetTarget
+target
+BitmapCreator.LightManager.SetActiveLightColor
+BitmapCreator.LightManager.HandleMouseButton
+camera
+viewport
+BitmapCreator.LightManager.HandleMouseMove
+BitmapCreator.LightManager.Render
+region
+BitmapCreator.LightManager.AddLightsToScene
+renderer
+BitmapCreator.LightManager.AddLight
+BitmapCreator.LightManager.RemoveActiveLight
+BitmapCreator.LightManager.Save
+writer
+BitmapCreator.LightManager.Load
+reader
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >.erase
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >.push_back
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >.resize
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >.begin
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >.{dtor}
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >._Tidy
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >._Reserve
+std.vector<BitmapCreator::LightManager::LightStruct,std::allocator<BitmapCreator::LightManager::LightStruct> >._Reallocate
+std._Uninitialized_default_fill_n1<struct BitmapCreator::LightManager::LightStruct *,unsigned int,class std::allocator<struct BitmapCreator::LightManager::LightStruct> >
+std.allocator<BitmapCreator::LightManager::LightStruct>.construct<struct BitmapCreator::LightManager::LightStruct,struct BitmapCreator::LightManager::LightStruct const &>
+std._Uninitialized_move_al_unchecked<struct BitmapCreator::LightManager::LightStruct *,struct BitmapCreator::LightManager::LightStruct *,class std::allocator<struct BitmapCreator::LightManager::LightStruct> >
+std._Uninitialized_move_al_unchecked1<struct BitmapCreator::LightManager::LightStruct *,struct BitmapCreator::LightManager::LightStruct *,class std::allocator<struct BitmapCreator::LightManager::LightStruct> >
+std.allocator<BitmapCreator::LightManager::LightStruct>.construct<struct BitmapCreator::LightManager::LightStruct,struct BitmapCreator::LightManager::LightStruct>
+<CrtImplementationDetails>.ThrowNestedModuleLoadException
+innerException
+nestedException
+<CrtImplementationDetails>.ThrowModuleLoadException
+errorMessage
+<CrtImplementationDetails>.RegisterModuleUninitializer
+handler
+<CrtImplementationDetails>.FromGUID
+guid
+__get_default_appdomain
+ppUnk
+__release_appdomain
+<CrtImplementationDetails>.GetDefaultDomain
+<CrtImplementationDetails>.DoCallBackInDefaultDomain
+function
+cookie
+__scrt_is_safe_for_managed_code
+<CrtImplementationDetails>.DefaultDomain.DoNothing
+<CrtImplementationDetails>.DefaultDomain.HasPerProcess
+<CrtImplementationDetails>.DefaultDomain.HasNative
+<CrtImplementationDetails>.DefaultDomain.NeedsInitialization
+<CrtImplementationDetails>.DefaultDomain.NeedsUninitialization
+<CrtImplementationDetails>.DefaultDomain.Initialize
+?A0x13efd873.??__E?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0x13efd873.??__E?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0x13efd873.??__E?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA@@YMXXZ
+?A0x13efd873.??__E?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+<CrtImplementationDetails>.LanguageSupport.InitializeVtables
+<CrtImplementationDetails>.LanguageSupport.InitializeDefaultAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeNative
+<CrtImplementationDetails>.LanguageSupport.InitializePerProcess
+<CrtImplementationDetails>.LanguageSupport.InitializePerAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeUninitializer
+<CrtImplementationDetails>.LanguageSupport._Initialize
+<CrtImplementationDetails>.LanguageSupport.UninitializeAppDomain
+<CrtImplementationDetails>.LanguageSupport._UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.DomainUnload
+<CrtImplementationDetails>.LanguageSupport.Cleanup
+<CrtImplementationDetails>.LanguageSupport.{ctor}
+<CrtImplementationDetails>.LanguageSupport.{dtor}
+<CrtImplementationDetails>.LanguageSupport.Initialize
+.cctor
+gcroot<System::String ^>..P$AAVString@System@@
+gcroot<System::String ^>.=
+gcroot<System::String ^>.{dtor}
+gcroot<System::String ^>.{ctor}
+___CxxCallUnwindDtor
+pDtor
+pThis
+__ehvec_dtor
+size
+count
+destructor
+?A0xf45b0832.ArrayUnwindFilter
+pExPtrs
+__ArrayUnwind
+<CrtImplementationDetails>.AtExitLock._handle
+<CrtImplementationDetails>.AtExitLock._lock_Construct
+<CrtImplementationDetails>.AtExitLock._lock_Set
+<CrtImplementationDetails>.AtExitLock._lock_Get
+<CrtImplementationDetails>.AtExitLock._lock_Destruct
+<CrtImplementationDetails>.AtExitLock.IsInitialized
+<CrtImplementationDetails>.AtExitLock.AddRef
+<CrtImplementationDetails>.AtExitLock.RemoveRef
+?A0x27925454.__alloc_global_lock
+?A0x27925454.__dealloc_global_lock
+_exit_callback
+_initatexit_m
+_initatexit_app_domain
+_app_exit_callback
+DecodePointer
+EncodePointer
+_initterm_e
+pfbegin
+pfend
+_initterm
+<CrtImplementationDetails>.ThisModule.Handle
+_initterm_m
+<CrtImplementationDetails>.ThisModule.ResolveMethod<void const * __clrcall(void)>
+methodToken
+_WinMainCRTStartup
+GAME.Actor.GetMeshInstance
+GAME.DisplayWidget.{ctor}
+GAME.GraphicsLight.{dtor}
+std._Xlength_error
+GAME.BinaryReader.{dtor}
+GAME.BinaryReader.{ctor}
+fread
+ftell
+fseek
+GAME.BinaryWriter.WriteBool
+GAME.BinaryWriter.WriteInt32
+GAME.BinaryWriter.WriteFloat32
+GAME.BinaryWriter.WriteBlock
+GAME.Camera.SetCoords
+GAME.DebugRenderManager.Flush
+GAME.Singleton<GAME::DebugRenderManager>.Get
+GAME.DebugRenderManager.RenderBox
+GAME.GraphicsCanvas.PresentSurface
+GAME.GraphicsTexture.GetTexture
+GAME.GraphicsCanvas.RenderRect
+GAME.GraphicsTexture.GetRect
+GAME.GraphicsCanvas.GetViewport
+GAME.GraphicsCanvas.EndFrame
+GAME.GraphicsNormalRenderer.Render
+GAME.GraphicsNormalRenderer.BuildScene
+GAME.GraphicsSceneRenderer.SetViewer
+GAME.GraphicsNormalRenderer.SetBackgroundMode
+GAME.GraphicsNormalRenderer.EnableWireframe
+GAME.Camera.GetCoords
+GAME.GraphicsNormalRenderer.{ctor}
+GAME.GraphicsCanvas.Clear
+GAME.GraphicsCanvas.SetClearColor
+GAME.GraphicsCanvas.BeginFrame
+GAME.GraphicsCanvas.SetTargetSurface
+GAME.GraphicsCanvas.SetClippingRect
+GAME.GraphicsCanvas.SetViewport
+GAME.GraphicsEngine.GetCanvas
+GAME.Camera.GetFrustum
+GAME.Frustum.ContainsPoint
+new[]
+fclose
+GAME.BinaryWriter.GetBuffer
+GAME.BinaryWriter.GetLength
+fwrite
+fopen
+GAME.Image.WriteTGA
+GAME.BinaryWriter.{dtor}
+GAME.BinaryWriter.{ctor}
+GAME.Image.Create
+GAME.Image.{dtor}
+GAME.Image.{ctor}
+GAME.GraphicsTexture.GetHeight
+GAME.GraphicsTexture.GetWidth
+GAME.Coords.LookAt
+_stricmp
+GAME.Engine.GetFileSystem
+GAME.FileSystem.GetMatchingFiles
+GAME.StripPathAndExtension
+GAME.WorldCoords.{ctor}
+GAME.World.AddEntity
+GAME.GraphicsMesh.GetBoundingBox
+GAME.GraphicsMeshInstance.GetMesh
+GAME.GraphicsMesh.GetNumVertices
+GAME.RTTI_ClassInfo.IsA
+GAME.ObjectManager.CreateObjectFromFile
+GAME.World.RemoveEntity
+GAME.GraphicsEngine.LoadTexture
+GAME.ObjectManager.GetLoadTable
+GAME.ObjectManager.LoadTableFile
+GAME.GraphicsEngine.UnloadTexture
+GAME.Singleton<GAME::ObjectManager>.Get
+GAME.ObjectManager.DestroyObjectEx
+GAME.Region.SetLevel
+GAME.Level.PostLoad
+GAME.Level.NewSpace
+GAME.Level.{ctor}
+GAME.World.GetRegion
+GAME.IntVec3.{ctor}
+GAME.World.AddRegion
+GAME.Camera.SetFarPlane
+GAME.Camera.SetNearPlane
+GAME.Camera.SetFOV
+GAME.Viewport.{ctor}
+GAME.Radians
+GAME.Camera.{ctor}
+strncpy
+strrchr
+GAME.Entity.Update
+GAME.GraphicsEngine.GetRenderDevice
+GAME.Engine.GetGraphicsEngine
+GAME.ABBox.GetVertices
+MessageBoxA
+GAME.Vec3.Unit
+GAME.Coords.{ctor}
+GAME.Cos
+GAME.Sin
+std._Xout_of_range
+delete[]
+__CxxUnregisterExceptionObject
+__CxxQueryExceptionSize
+__CxxDetectRethrow
+__CxxRegisterExceptionObject
+__CxxExceptionFilter
+_CxxThrowException
+_invalid_parameter_noinfo_noreturn
+std._Xbad_alloc
+memmove
+__std_exception_destroy
+GAME.Engine.SetBaseUserPath
+GAME.Engine.SetLogPath
+GAME.Engine.SetDumpPath
+GAME.Engine.SetDefaultSettingsPath
+GAME.Engine.SetNormalSettingsPath
+GAME.Engine.SetKeymapPath
+GAME.Engine.GetBaseUserPath
+GAME.Engine.GetNormalSettingsPath
+GAME.Engine.GetGamePath
+GAME.GraphicsEngineSettings.{dtor}
+GAME.Engine.Render
+GAME.Engine.PresentSurface
+GAME.Engine.Update
+GAME.Camera.GetFarPlane
+GAME.WorldFrustum.{ctor}
+GAME.Engine.AddWidget
+GAME.Engine.SetPSEditorMode
+GetProcAddress
+LoadLibraryA
+GAME.Engine.LoadAdditionalDatabases
+GAME.Engine.GetOptions
+GAME.Options.Load
+GAME.Engine.SetFileSystem
+GAME.Engine.{ctor}
+GAME.GraphicsEngineSettings.{ctor}
+GAME.FileSystem.AddSource
+BreakUpDirectoryList
+GetFixedPath
+GetMyDocumentsFolder
+GAME.FileSystem.{ctor}
+GetPrivateProfileStringA
+GAME.TransformGizmo.{ctor}
+GAME.TransformGizmo.SetCoords
+GAME.Coords.Identity
+GAME.GraphicsSceneRenderer.AddLight
+GAME.GraphicsLight.SetObjectToWorldCoords
+GAME.Coords.LookIn
+GAME.GraphicsLight.SetRadius
+GAME.GraphicsLight.SetCastsShadows
+GAME.GraphicsLight.SetColor
+GAME.GraphicsLight.SetType
+GAME.GraphicsLight.{ctor}
+GAME.TransformGizmo.GetCoords
+GAME.TransformGizmo.Render
+GAME.TransformGizmo.HandleMouseMove
+GAME.TransformGizmo.HandleMouseButton
+_getFiberPtrId
+_cexit
+Sleep
+abort
+__security_init_cookie
+__FrameUnwindFilter
+terminate
+??_C@_0BC@EOODALEL@Unknown?5exception?$AA@
+?A0x7fe48364.unnamed-global-0
+?A0x7fe48364.unnamed-global-1
+?A0x7fe48364.unnamed-global-2
+?A0x7fe48364.unnamed-global-3
+?A0x7fe48364.unnamed-global-4
+?A0x7fe48364.unnamed-global-5
+?A0x7fe48364.unnamed-global-6
+?A0x7fe48364.unnamed-global-7
+?A0x7fe48364.unnamed-global-8
+?A0x7fe48364.unnamed-global-9
+?A0x7fe48364.unnamed-global-10
+?A0x7fe48364.unnamed-global-11
+?A0x7fe48364.unnamed-global-12
+?A0x7fe48364.unnamed-global-13
+?A0x7fe48364.unnamed-global-14
+?A0x7fe48364.unnamed-global-15
+?A0x7fe48364.unnamed-global-16
+?A0x7fe48364.unnamed-global-17
+?A0x7fe48364.unnamed-global-18
+?A0x7fe48364.unnamed-global-19
+?A0x7fe48364.unnamed-global-20
+?A0x7fe48364.unnamed-global-21
+?A0x7fe48364.unnamed-global-22
+?A0x7fe48364.unnamed-global-23
+?A0x7fe48364.unnamed-global-24
+?A0x7fe48364.unnamed-global-25
+?A0x7fe48364.unnamed-global-26
+?A0x7fe48364.unnamed-global-27
+?A0x7fe48364.unnamed-global-28
+?A0x7fe48364.unnamed-global-29
+?A0x7fe48364.unnamed-global-30
+?A0x7fe48364.unnamed-global-31
+?A0x7fe48364.unnamed-global-32
+?A0x7fe48364.unnamed-global-33
+?A0x7fe48364.unnamed-global-34
+?A0x7fe48364.unnamed-global-35
+?A0x7fe48364.unnamed-global-36
+?A0x7fe48364.unnamed-global-37
+?A0x7fe48364.unnamed-global-38
+?A0x7fe48364.unnamed-global-39
+?A0x7fe48364.unnamed-global-40
+?A0x7fe48364.unnamed-global-41
+??_C@_0BD@OLBABOEK@vector?$DMT?$DO?5too?5long?$AA@
+??_C@_0BA@JFNIOLAK@string?5too?5long?$AA@
+??_C@_0BI@CFPLBAOH@invalid?5string?5position?$AA@
+??_C@_0BB@MOGOBHAF@list?$DMT?$DO?5too?5long?$AA@
+??_R2BackendScene@GAME@@8
+??_R2Backend@BitmapCreator@@8
+??_R2DisplayWidget@GAME@@8
+??_R2exception@std@@8
+??_R1A@?0A@EA@BackendScene@GAME@@8
+??_R1A@?0A@EA@Backend@BitmapCreator@@8
+??_R1A@?0A@EA@DisplayWidget@GAME@@8
+??_R1A@?0A@EA@exception@std@@8
+??_R3BackendScene@GAME@@8
+??_R0?AVBackendScene@GAME@@@8
+??_R3DisplayWidget@GAME@@8
+??_R0?AVDisplayWidget@GAME@@@8
+??_R3Backend@BitmapCreator@@8
+??_R0?AVBackend@BitmapCreator@@@8
+??_R3exception@std@@8
+??_R4BackendScene@GAME@@6B@
+??_R4Backend@BitmapCreator@@6B@
+??_R4exception@std@@6B@
+??_7BackendScene@GAME@@6B@
+??_7Backend@BitmapCreator@@6B@
+?name@?$basic_type_name@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@VVarArgs@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@VLuaTable@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@VLuaObject@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@PBG@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@PBD@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@_N@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@N@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@M@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@_K@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@I@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@G@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@E@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@_J@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@H@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@F@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@D@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@X@internal@LUAGLUE@@2VlgString@3@B
+??_R0?AVexception@std@@@8
+??_7exception@std@@6B@
+?A0x128ca5cd.unnamed-global-0
+?A0x128ca5cd.unnamed-global-1
+?A0x128ca5cd.unnamed-global-2
+?A0x128ca5cd.unnamed-global-3
+?A0x128ca5cd.unnamed-global-4
+?A0x128ca5cd.unnamed-global-5
+?A0x128ca5cd.unnamed-global-6
+?A0x128ca5cd.unnamed-global-7
+?A0x128ca5cd.unnamed-global-8
+?A0x128ca5cd.unnamed-global-9
+?A0x128ca5cd.unnamed-global-10
+?A0x128ca5cd.unnamed-global-11
+?A0x128ca5cd.unnamed-global-12
+?A0x128ca5cd.unnamed-global-13
+?A0x128ca5cd.unnamed-global-14
+?A0x128ca5cd.unnamed-global-15
+?A0x128ca5cd.unnamed-global-16
+?A0x128ca5cd.unnamed-global-17
+?A0x128ca5cd.unnamed-global-18
+?A0x128ca5cd.unnamed-global-19
+?A0x128ca5cd.unnamed-global-20
+?A0x128ca5cd.unnamed-global-21
+?A0x128ca5cd.unnamed-global-22
+??_C@_00CNPNBAHC@?$AA@
+??_C@_0BE@LGHDLIKE@?2My?5Games?2Grim?5Dawn?$AA@
+?A0x502ce219.unnamed-global-0
+?A0x502ce219.unnamed-global-1
+?A0x502ce219.unnamed-global-2
+?A0x502ce219.unnamed-global-3
+?A0x502ce219.unnamed-global-4
+?A0x502ce219.unnamed-global-5
+?A0x502ce219.unnamed-global-6
+?A0x502ce219.unnamed-global-7
+?A0x502ce219.unnamed-global-8
+?A0x502ce219.unnamed-global-9
+?A0x502ce219.unnamed-global-10
+?A0x502ce219.unnamed-global-11
+?A0x502ce219.unnamed-global-12
+?A0x502ce219.unnamed-global-13
+?A0x502ce219.unnamed-global-14
+?A0x502ce219.unnamed-global-15
+?A0x502ce219.unnamed-global-16
+?A0x502ce219.unnamed-global-17
+?A0x502ce219.unnamed-global-18
+?A0x502ce219.unnamed-global-19
+?A0x502ce219.unnamed-global-20
+?A0x502ce219.unnamed-global-21
+?A0x502ce219.unnamed-global-22
+??_C@_0L@NDDLJNHG@?2Tools?4ini?$AA@
+??_C@_08GMDCEBJC@builddir?$AA@
+??_C@_05DHEMANOL@Login?$AA@
+??_C@_0BE@DIOJONFM@additionalbuilddirs?$AA@
+??_C@_08HDBDMMBI@Database?$AA@
+??_C@_09FDCBPLKG@Resources?$AA@
+??_C@_05NJPBEMHO@XPack?$AA@
+??_C@_05KKCMAPLJ@Audio?$AA@
+??_C@_06CKLONCAK@Videos?$AA@
+??_C@_04OJAHODMC@Text?$AA@
+??_C@_08POBFLGLP@Direct3D?$AA@
+??_C@_01KICIPPFI@?2?$AA@
+??_C@_03MGHMBJCF@log?$AA@
+??_C@_08CBMOJKCP@main?4dmp?$AA@
+??_C@_0BI@CGIDKCKD@?4?1settings?1defaults?4txt?$AA@
+??_C@_0BF@BFAAINHB@settings?1options?4txt?$AA@
+??_C@_0BJ@NOBNIKAN@settings?1keybindings?4txt?$AA@
+??_C@_0BG@OKIABAAO@?2Settings?2options?4txt?$AA@
+??_C@_08HDLAOCCI@GAME?4DLL?$AA@
+??_C@_0BC@OKFBALNF@InitializeObjects?$AA@
+??_C@_04KFDCPNOJ@?4dbr?$AA@
+??_C@_04JCAPCJAP@?4tga?$AA@
+??_R2Engine@GAME@@8
+??_R2FileSystem@GAME@@8
+??_R1A@?0A@EA@Engine@GAME@@8
+??_R1A@?0A@EA@FileSystem@GAME@@8
+??_R3Engine@GAME@@8
+??_R0?AVEngine@GAME@@@8
+??_R3FileSystem@GAME@@8
+??_R0?AVFileSystem@GAME@@@8
+??_R4Engine@GAME@@6B@
+??_R4FileSystem@GAME@@6B@
+??_SEngine@GAME@@6B@
+??_SFileSystem@GAME@@6B@
+?A0x1ba9c03b.unnamed-global-0
+?A0x1ba9c03b.unnamed-global-1
+?A0x1ba9c03b.unnamed-global-2
+?A0x1ba9c03b.unnamed-global-3
+?A0x1ba9c03b.unnamed-global-4
+?A0x1ba9c03b.unnamed-global-5
+?A0x1ba9c03b.unnamed-global-6
+?A0x1ba9c03b.unnamed-global-7
+?A0x1ba9c03b.unnamed-global-8
+?A0x1ba9c03b.unnamed-global-9
+?A0x1ba9c03b.unnamed-global-10
+?A0x1ba9c03b.unnamed-global-11
+?A0x1ba9c03b.unnamed-global-12
+?A0x1ba9c03b.unnamed-global-13
+?A0x1ba9c03b.unnamed-global-14
+?A0x1ba9c03b.unnamed-global-15
+?A0x1ba9c03b.unnamed-global-16
+?A0x1ba9c03b.unnamed-global-17
+?A0x1ba9c03b.unnamed-global-18
+?A0x1ba9c03b.unnamed-global-19
+?A0x1ba9c03b.unnamed-global-20
+?A0x1ba9c03b.unnamed-global-21
+?A0x1ba9c03b.unnamed-global-22
+??_R2LightManager@BitmapCreator@@8
+??_R1A@?0A@EA@LightManager@BitmapCreator@@8
+??_R3LightManager@BitmapCreator@@8
+??_R0?AVLightManager@BitmapCreator@@@8
+??_R4LightManager@BitmapCreator@@6B@
+??_7LightManager@BitmapCreator@@6B@
+?A0xb25ff6f2.unnamed-global-0
+?A0xb25ff6f2.unnamed-global-1
+?A0xb25ff6f2.unnamed-global-2
+?A0xb25ff6f2.unnamed-global-3
+?A0xb25ff6f2.unnamed-global-4
+?A0xb25ff6f2.unnamed-global-5
+?A0xb25ff6f2.unnamed-global-6
+?A0xb25ff6f2.unnamed-global-7
+?A0xb25ff6f2.unnamed-global-8
+?A0xb25ff6f2.unnamed-global-9
+?A0xb25ff6f2.unnamed-global-10
+?A0xb25ff6f2.unnamed-global-11
+?A0xb25ff6f2.unnamed-global-12
+?A0xb25ff6f2.unnamed-global-13
+?A0xb25ff6f2.unnamed-global-14
+?A0xb25ff6f2.unnamed-global-15
+?A0xb25ff6f2.unnamed-global-16
+?A0xb25ff6f2.unnamed-global-17
+?A0xb25ff6f2.unnamed-global-18
+?A0xb25ff6f2.unnamed-global-19
+?A0xb25ff6f2.unnamed-global-20
+?A0xb25ff6f2.unnamed-global-21
+?A0xb25ff6f2.unnamed-global-22
+__@@_PchSym_@00@UhbmxvwUkilqvxghUtwUrmgvinvwrzgvUyrgnzkxivzgliUtlthsrkUhgwzucOlyq@EBC4FCA56F1CD96D
+_GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?A0x13efd873.?InitializedPerProcess$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+_GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+_GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+_GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?Entered@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasNative@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+?InitializedPerProcess@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?Count@AllDomains@<CrtImplementationDetails>@@2HA
+?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNativeFromCCTOR@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA
+?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNative@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasPerProcess@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+__xc_mp_z
+__xi_vt_z
+?A0x13efd873.?IsDefaultDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xc_ma_a
+__xc_ma_z
+?A0x13efd873.?Initialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+?A0x13efd873.?InitializedPerAppDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xi_vt_a
+?A0x13efd873.?InitializedNative$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xc_mp_a
+?A0x13efd873.?InitializedVtables$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+?A0x13efd873.?Uninitialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__unep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCGJPAX@Z
+__unep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCGJPAX@Z
+?A0x27925454.__onexitbegin_m
+?A0x27925454.__exit_list_size
+__onexitend_app_domain
+?_lock@AtExitLock@<CrtImplementationDetails>@@$$Q0PAXA
+?_ref_count@AtExitLock@<CrtImplementationDetails>@@$$Q0HA
+?A0x27925454.__onexitend_m
+__exit_list_size_app_domain
+__onexitbegin_app_domain
+__imp_?classInfo@Entity@GAME@@1VRTTI_ClassInfo@2@B
+__imp_GAME.gEngine
+?epsilon@Math@GAME@@2MB
+?pi@Math@GAME@@2MB
+??_7type_info@@6B@
+__xi_z
+__scrt_current_native_startup_state
+__scrt_native_startup_lock
+__xc_a
+__xi_a
+__scrt_native_dllmain_reason
+__xc_z
+value__
+<MarshalCopy>
+<MarshalDestroy>
+.ctor
+InitializeComponent
+MainForm_Load
+sender
+AddFileSystemSource
+directory
+AddFileNameToTreeView
+treeView
+hashtable
+StripPathAndExtension
+name
+result
+fileView_DoubleClick
+UpdatePreviewSize
+ResizeIconSize
+updateTimer_Tick
+setupDisplay_MouseMove
+setupDisplay_MouseUp
+setupDisplay_MouseWheel
+setupDisplay_MouseDown
+iconWidthUpDown_ValueChanged
+iconHeightUpDown_ValueChanged
+iconSizeUpDown_ValueChanged
+chromaKeyButton_Click
+saveIconButton_Click
+addLightButton_Click
+removeLightButton_Click
+lightColorButton_Click
+batchButton_Click
+autoZoomButton_Click
+autoZoomBox_CheckedChanged
+shadowsBox_CheckedChanged
+batchUpdateTimer_Tick
+saveLayoutButton_Click
+loadLayoutButton_Click
+copyCameraButton_Click
+pasteCameraButton_Click
+borderWidthUpDown_ValueChanged
+backAlphaUpDown_ValueChanged
+saveLargeImageBox_CheckedChanged
+fileView_Enter
+MainForm_Enter
+fileView_KeyDown
+timer
+backend
+panningCamera
+movingCamera
+lastMouseX
+lastMouseY
+updateTimer
+fileView
+splitter2
+splitter1
+saveLayoutButton
+setupDisplay
+iconAreaPanel
+SetupOptionsGroup
+iconDisplayPanel
+iconDisplay
+splitter3
+colorPicker
+chromaKeyButton
+batchButton
+saveIconButton
+saveFileDialog
+loadLayoutButton
+addLightButton
+removeLightButton
+iconSizeUpDown
+label3
+label2
+iconHeightUpDown
+label1
+iconWidthUpDown
+lightColorButton
+folderDialog
+zoomButton
+autoZoomBox
+shadowsBox
+batchUpdateTimer
+openFileDialog
+copyCameraButton
+pasteCameraButton
+label4
+label5
+backAlphaUpDown
+borderWidthUpDown
+splitter4
+previewDisplay
+label6
+label7
+previewDisplayPanel
+components
+info
+context
+message
+Nested
+get_NestedException
+set_NestedException
+__set_formal
+ToString
+GetObjectData
+formatString
+<backing_store>NestedException
+NestedException
+AddHandler
+SingletonDomainUnload
+source
+arguments
+lock
+_ModuleUninitializer
+GetExceptionPointers
+GetExceptionCode
+get_CurrentThread
+set_ApartmentState
+get_KeyCode
+ToInt32
+op_Implicit
+get_Checked
+get_SelectedPath
+get_FileName
+set_RestoreDirectory
+set_FilterIndex
+set_Filter
+get_B
+get_G
+get_Color
+get_R
+ShowDialog
+Focus
+get_Delta
+set_Capture
+get_X
+get_Y
+get_Button
+get_Value
+op_Explicit
+get_Height
+set_Top
+get_Width
+set_Left
+get_ClientRectangle
+set_Height
+set_Width
+set_FileName
+op_Inequality
+get_Tag
+get_SelectedNode
+set_Tag
+Substring
+EndsWith
+ToLower
+get_Nodes
+get_Item
+IndexOf
+FreeHGlobal
+StringToHGlobalAnsi
+Concat
+GetCurrentDirectory
+ToPointer
+Start
+get_Handle
+EndInit
+ResumeLayout
+add_Load
+GetExecutingAssembly
+GetManifestResourceStream
+set_Icon
+set_Text
+set_ClientSize
+set_AutoScaleBaseSize
+set_Interval
+set_DefaultExt
+set_Font
+set_BorderStyle
+set_AutoScroll
+set_Minimum
+set_Increment
+add_CheckedChanged
+set_CheckState
+set_Checked
+add_Click
+add_ValueChanged
+set_Value
+set_Maximum
+set_TabStop
+get_Controls
+add_MouseDown
+add_MouseWheel
+add_MouseMove
+add_MouseUp
+set_TabIndex
+set_Dock
+get_ActiveBorder
+set_BackColor
+add_Enter
+add_DoubleClick
+add_KeyDown
+set_Size
+set_SelectedImageIndex
+set_Name
+set_Location
+set_ItemHeight
+set_ImageIndex
+set_HideSelection
+add_Tick
+BeginInit
+SuspendLayout
+Dispose
+Increment
+Decrement
+Exchange
+CompareExchange
+Enter
+Exit
+Empty
+GetRuntimeInterfaceAsIntPtr
+Alloc
+Free
+get_Target
+set_Target
+ThrowExceptionForHR
+GetHRForException
+GetObjectForIUnknown
+PrepareDelegate
+PrepareConstrainedRegions
+AddValue
+GetValue
+KeepAlive
+Invoke
+GetType
+get_Message
+get_InnerException
+IsDefaultAppDomain
+get_CurrentDomain
+get_Id
+add_ProcessExit
+add_DomainUnload
+GetTypeFromHandle
+GetEnumerator
+Push
+MoveNext
+get_Current
+FromIntPtr
+ToIntPtr
+AllocHGlobal
+ResolveMethodHandle
+GetFunctionPointer
+get_Module
+get_ModuleHandle
+app.ico
+C:\Synced\Projects\GD\Grim Dawn\..\intermediate\BitmapCreator\GOGShip\BitmapCreator.MainForm.resources
+BitmapCreator.exe
+Q)^MI
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+4 Y Y
+ Y Y
+4 Y Y
+ M m
+ Y Y
+ Y a
+ M m
+ Y Y
+ Y a
+ M m
+ Y Y
+ Y Y
+ Y Y
+ m m
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+T Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ m m
+ Y Y
+P Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ M m
+ Y Y
+ Y Y
+L Y Y
+ Y Y
+@ Y Y
+@ m m
+L Y Y
+ M m
+ Y Y
+ m m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+@ Y Y
+H Y Y
+ Y Y
+H Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y	 Y Y
+ Y a
+ M	 Y Y
+ Y a
+ Y Y
+ Y a
+ m m
+ Y a
+ Y Y
+ m m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+| Y Y
+ Y Y
+ Y Y
+| Y Y
+ Y Y
+ Y Y
+ Y Y
+ m m
+ I i
+ E i
+ E i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ I i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M	 Y Y
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y Y
+ M	 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+  Y Y
+  Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ Y Y
+$ Y Y
+ Y Y
+( Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y Y
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y a
+ Y Y
+8 Y Y
+ Y Y
+ Y Y
+ Y Y
+\ Y Y
+ Y Y
+ Y a
+ Y a
+ Y Y
+ E i	
+ Y a
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ I m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+l Y Y
+ M m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ M m
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y a
+ Y a
+ Y	 Y	 Y	
+ Y		
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ m m
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y		
+ Y Y
+ m m
+ Y Y
+				
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y		
+ Y a
+	 Y			
+ Y Y
+ Y		
+ Y Y
+D Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+L Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+$ Y Y
+ Y Y
+ Y Y
+$ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+						
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y a
+ Y Y
+4 Y Y
+ Y Y
+ Y Y
+8 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y a
+ Y a
+ Y a
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ Y Y
+ Y a
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y a
+ Y a
+ Y a
+ Y Y
+ Y Y
+ m m
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+x Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ E i
+ E i
+ E i
+ E i	
+ E i
+ Y Y
+ Y Y
+ Y Y
+1.0.*
+SkipVerification
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+UnmanagedCode
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SkipVerification
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.CRTMA$XCA
+.CRTMA$XCC
+.CRTMA$XCZ
+.CRTMP$XCA
+.CRTMP$XCZ
+.CRTVT$XCA
+.CRTVT$XCZ
+.rdata
+.rdata$T
+.rdata$ilfixup
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.gfids$y
+.tls
+.tls$
+.tls$ZZZ
+.rsrc$01
+.rsrc$02
+?gEngine@GAME@@3PAVEngine@1@A
+?classInfo@Entity@GAME@@1VRTTI_ClassInfo@2@B
+?HandleKeyEvent@DisplayWidget@GAME@@UAE_NABVButtonEvent@InputDevice@2@@Z
+?HandleMouseEvent@DisplayWidget@GAME@@UAE_NABUMouseEvent@InputDevice@2@@Z
+?HandleJoystickEvent@DisplayWidget@GAME@@UAE_NABUJoystickEvent@InputDevice@2@@Z
+?HandleControllerEvent@DisplayWidget@GAME@@UAE_NABUControllerEvent@InputDevice@2@@Z
+?IsFileWriteable@FileSystem@GAME@@UBE_NPBD@Z
+?OpenFile@FileSystem@GAME@@UAEPAVFile@2@PBDW4FileMode@2@@Z
+?OpenFileWithCheck@FileSystem@GAME@@UAEPAVFile@2@PBD0W4FileMode@2@@Z
+?CloseFile@FileSystem@GAME@@UAEXAAPAVFile@2@@Z
+?OpenFileStream@FileSystem@GAME@@UAEPAVFileStream@2@PBD@Z
+?CloseFileStream@FileSystem@GAME@@UAEXAAPAVFileStream@2@@Z
+?GetFileTime@FileSystem@GAME@@UBEXPBDAAUFileTime@2@@Z
+?Initialize@Engine@GAME@@UAEXPAXABVGraphicsEngineSettings@2@_NPAVFileSystem@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N5@Z
+?Log@Engine@GAME@@UBAXW4LogPriority@2@IPBDZZ
+?Log@Engine@GAME@@UBAXW4LogPriority@2@PBDZZ
+?LogSeparator@Engine@GAME@@UBEXW4LogPriority@2@D@Z
+??1FileSystem@GAME@@UAE@XZ
+??1Engine@GAME@@UAE@XZ
+Engine.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPBD@Z
+?_Xout_of_range@std@@YAXPBD@Z
+MSVCP140.dll
+memmove
+__std_exception_copy
+__std_exception_destroy
+_except_handler4_common
+memset
+_CxxThrowException
+__CxxFrameHandler3
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+__stdio_common_vsprintf
+fwrite
+fclose
+terminate
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_narrow_winmain_command_line
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+free
+_callnewh
+malloc
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_controlfp_s
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+GetCurrentProcess
+TerminateProcess
+KERNEL32.dll
+GetPrivateProfileStringA
+LoadLibraryA
+GetProcAddress
+Sleep
+MessageBoxA
+USER32.dll
+?Update@Entity@GAME@@QAEXH@Z
+?GetGraphicsEngine@Engine@GAME@@QAEPAVGraphicsEngine@2@XZ
+?GetRenderDevice@GraphicsEngine@GAME@@QAEPAVRenderDevice@2@XZ
+?GetMeshInstance@Actor@GAME@@QAEPAVGraphicsMeshInstance@2@XZ
+?GetMesh@GraphicsMeshInstance@GAME@@QBEPBVGraphicsMesh@2@XZ
+	?GetBoundingBox@GraphicsMesh@GAME@@QBEABVABBox@2@XZ
+.	?GetCanvas@GraphicsEngine@GAME@@QAEAAVGraphicsCanvas@2@XZ
+?SetTargetSurface@GraphicsCanvas@GAME@@QAEXPAVRenderSurface@2@@Z
+?BeginFrame@GraphicsCanvas@GAME@@QAE_NXZ
+?SetClearColor@GraphicsCanvas@GAME@@QAEXABVColor@2@@Z
+?Clear@GraphicsCanvas@GAME@@QAEXIM@Z
+?GetViewport@GraphicsCanvas@GAME@@QBEABVViewport@2@XZ
+?GetRect@GraphicsTexture@GAME@@QBE?AVRect@2@XZ
+??0Viewport@GAME@@QAE@HHHH@Z
+?SetViewport@GraphicsCanvas@GAME@@QAEXABVViewport@2@@Z
+?GetTexture@GraphicsTexture@GAME@@QBEPBVRenderTexture@2@XZ
+?RenderRect@GraphicsCanvas@GAME@@QAEXABVRect@2@0PBVRenderTexture@2@W4RenderBlendFactor@2@2ABVColor@2@_N@Z
+?EndFrame@GraphicsCanvas@GAME@@QAEXXZ
+?PresentSurface@GraphicsCanvas@GAME@@QAEXPAVRenderSurface@2@@Z
+?SetCoords@Camera@GAME@@QAEXABVCoords@2@@Z
+??1GraphicsLight@GAME@@QAE@XZ
+?GetWidth@GraphicsTexture@GAME@@QBEHXZ
+?GetHeight@GraphicsTexture@GAME@@QBEHXZ
+?GetFrustum@Camera@GAME@@QBE?AVFrustum@2@ABVViewport@2@@Z
+??0Image@GAME@@QAE@XZ
+?Create@Image@GAME@@QAEXIIW4Format@12@PBX@Z
+?WriteTGA@Image@GAME@@QBE_NAAVBinaryWriter@2@@Z
+??1Image@GAME@@UAE@XZ
+?UnloadTexture@GraphicsEngine@GAME@@QAEXPBVGraphicsTexture@2@@Z
+?Get@?$Singleton@VObjectManager@GAME@@@GAME@@SAPAVObjectManager@2@XZ
+?LoadTableFile@ObjectManager@GAME@@QAEPBVLoadTable@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetLoadTable@ObjectManager@GAME@@QBEABVLoadTable@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?LoadTexture@GraphicsEngine@GAME@@QAEPBVGraphicsTexture@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?RemoveEntity@World@GAME@@QAEXPAVEntity@2@_N@Z
+?DestroyObjectEx@ObjectManager@GAME@@QAEXPAVObject@2@PBDH@Z
+?CreateObjectFromFile@ObjectManager@GAME@@QAEPAVObject@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I_N@Z
+?GetNumVertices@GraphicsMesh@GAME@@QBEIXZ
+??0WorldCoords@GAME@@QAE@PAVRegion@1@@Z
+?AddEntity@World@GAME@@QAE_NPAVEntity@2@ABVWorldCoords@2@_N@Z
+??0GraphicsNormalRenderer@GAME@@QAE@XZ
+k	?GetCoords@Camera@GAME@@QBEABVCoords@2@XZ
+?EnableWireframe@GraphicsNormalRenderer@GAME@@QAEX_N@Z
+?SetBackgroundMode@GraphicsNormalRenderer@GAME@@QAEXW4BackgroundMode@12@ABVColor@2@1@Z
+?SetViewer@GraphicsSceneRenderer@GAME@@QAEXPAVRegion@2@ABVCamera@2@ABVViewport@2@ABVFrustum@2@@Z
+?BuildScene@GraphicsNormalRenderer@GAME@@QAEX_N@Z
+?Render@GraphicsNormalRenderer@GAME@@QAEPAVRenderTexture@2@AAVGraphicsCanvas@2@_N1@Z
+?Get@?$Singleton@VDebugRenderManager@GAME@@@GAME@@SAPAVDebugRenderManager@2@XZ
+?RenderBox@DebugRenderManager@GAME@@QAEXPAVRegion@2@ABVABBox@2@ABVColor@2@@Z
+?Flush@DebugRenderManager@GAME@@QAEXAAVGraphicsCanvas@2@PAVRegion@2@ABVCamera@2@ABVViewport@2@@Z
+??0DisplayWidget@GAME@@QAE@XZ
+??0Camera@GAME@@QAE@XZ
+??0Viewport@GAME@@QAE@XZ
+?SetFOV@Camera@GAME@@QAEXM@Z
+?SetNearPlane@Camera@GAME@@QAEXM@Z
+?SetFarPlane@Camera@GAME@@QAEXM@Z
+?AddRegion@World@GAME@@QAEHPAVLevel@2@ABVIntVec3@2@@Z
+?GetRegion@World@GAME@@QAEPAVRegion@2@H@Z
+??0Level@GAME@@QAE@PAVRegion@1@@Z
+?NewSpace@Level@GAME@@QAEXABVVec2@2@@Z
+?PostLoad@Level@GAME@@QAE_N_N@Z
+?SetLevel@Region@GAME@@QAEXPAVLevel@2@@Z
+?SetClippingRect@GraphicsCanvas@GAME@@QAEXABVRect@2@_N@Z
+	?GetFileSystem@Engine@GAME@@QAEPAVFileSystem@2@XZ
+?GetMatchingFiles@FileSystem@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0_NAAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@mem@@@Z
+??0WorldFrustum@GAME@@QAE@PAVRegion@1@ABVFrustum@1@@Z
+	?GetFarPlane@Camera@GAME@@QBEMXZ
+?Update@Engine@GAME@@QAEXPBVSphere@2@PBVWorldFrustum@2@_N1@Z
+?PresentSurface@Engine@GAME@@QAEXXZ
+?Render@Engine@GAME@@QAEXXZ
+?AddSource@FileSystem@GAME@@QAE_NW4Partition@12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBD_N33@Z
+??0FileSystem@GAME@@QAE@XZ
+??0GraphicsEngineSettings@GAME@@QAE@XZ
+??0Engine@GAME@@QAE@XZ
+?SetBaseUserPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetBaseUserPath@Engine@GAME@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?SetLogPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetDumpPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetDefaultSettingsPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetNormalSettingsPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetKeymapPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetFileSystem@Engine@GAME@@QAEXPAVFileSystem@2@@Z
+?GetGamePath@Engine@GAME@@SAPBDXZ
+?GetOptions@Engine@GAME@@QAEPAVOptions@2@XZ
+?GetNormalSettingsPath@Engine@GAME@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?Load@Options@GAME@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?LoadAdditionalDatabases@Engine@GAME@@QAEXABV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@mem@@@Z
+?SetPSEditorMode@Engine@GAME@@QAEXXZ
+?AddWidget@Engine@GAME@@QAEXPAVDisplayWidget@2@@Z
+??1GraphicsEngineSettings@GAME@@QAE@XZ
+??0TransformGizmo@GAME@@QAE@XZ
+?HandleMouseButton@TransformGizmo@GAME@@QAE_NABVCamera@2@ABVViewport@2@HHABVVec2@2@@Z
+?HandleMouseMove@TransformGizmo@GAME@@QAE_NABVCamera@2@ABVViewport@2@ABVVec2@2@@Z
+?Render@TransformGizmo@GAME@@QBEXAAVGraphicsCanvas@2@ABVCamera@2@ABVViewport@2@@Z
+p	?GetCoords@TransformGizmo@GAME@@QBEABVCoords@2@XZ
+??0GraphicsLight@GAME@@QAE@XZ
+?SetType@GraphicsLight@GAME@@QAEXW4Type@12@@Z
+?SetColor@GraphicsLight@GAME@@QAEXABVColor@2@@Z
+?SetCastsShadows@GraphicsLight@GAME@@QAEX_N@Z
+?SetRadius@GraphicsLight@GAME@@QAEXM@Z
+??0WorldCoords@GAME@@QAE@PAVRegion@1@ABVCoords@1@@Z
+?SetObjectToWorldCoords@GraphicsLight@GAME@@QAEXABVWorldCoords@2@@Z
+?AddLight@GraphicsSceneRenderer@GAME@@QAEXABVGraphicsLight@2@@Z
+?SetCoords@TransformGizmo@GAME@@QAEXABVCoords@2@@Z
+strrchr
+__CxxQueryExceptionSize
+__CxxExceptionFilter
+__CxxRegisterExceptionObject
+__CxxDetectRethrow
+__CxxUnregisterExceptionObject
+__FrameUnwindFilter
+memchr
+__vcrt_InitializeCriticalSectionEx
+strncpy
+fopen
+fseek
+ftell
+fread
+_stricmp
+abort
+realloc
+api-ms-win-crt-string-l1-1-0.dll
+CloseHandle
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+SetEvent
+ResetEvent
+WaitForSingleObjectEx
+CreateEventW
+SHGetSpecialFolderPathA
+SHELL32.dll
+memcpy
+__libm_sse2_cosf
+__libm_sse2_sinf
+_CorExeMain
+mscoree.dll
+.?AVBackendScene@GAME@@
+.?AVBackend@BitmapCreator@@
+.?AVDisplayWidget@GAME@@
+.?AVFileSystem@GAME@@
+.?AVEngine@GAME@@
+.?AVLightManager@BitmapCreator@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+^`a$!
+-)%+($-*'.($*%")%!'%"%!
+,&"-(#.(%-(#/)"0+%/,(-'#.(#2-*/*%# 
++(%=:5BA?553.-++'"$ 
+:96^`a
+\]^lmn
+lnpprs[\^WVU=;7
+_aavxx
+	[\\
+_acrst
+	[ZY
+\[ZLJI
+^ackmn
+efh62.KJGWTQ[XWZZXdfg
+`aaoru
+^`aopr
+`aanpt
+[]_qqs
+'%"'"
+-("0,&)$
+noovy|
+kijghj
+0+%50*-("LIE
+fggw{}!
+-(!+'#
+iiilmn
+852DB<
+osu!
+73-0,'RNK
+a_^w{}"
+/*#-)$
+efdyyw
+FBA("
+fgh(#
+61,TRM
+hfdsuv'"
+30)3-(
+FD@4/*1,&pqp
+GFE*$
+,'!fge
+jhfqss.("950=70
+bcb|{z
+FEA83.>:5:5/
+:74ROJ
+1,&jkj
+[[\$
+kkhuww2-'=94C=6
+MKG>94FB=B>9C>9
+61+uus
+[[Y*$
+srnvyy71+B>8FB=
+SPLC?9KGAJFAGC>MID
+;60yxw
+]^[.(!struxy.)#GC>JFA
+qrqzzy
+VTQHD>OKFOKFPLGMICZWS
+@;5xwv
+cb`3-'tsq
+VUR51+JFA
+XWTNJESOJPKFJFAFB=?:5ba_
+D@;pqp
+hge60+{yw
+{||B?;
+oqpz{{
+POL@;7LHDYWSfge
+EA=zzy
+eedD?9WSO
+UQL|||
+ghgMHCVRMTOJ
+utqa_\c_Zd`[
+bdc94/IE@JE@GA<^[X
+vtr^ZVTPKPKFSOIWSNXTORMHvus
+RPMMID
+pomc`\UQLTOKWURmmk
+lnnLHDea\rqmb`\RNJRNI\ZVnnm
+\[Y^\Yzzy
+dcbedbYXW[[Z^^]XXV\[XZXWZYW]\Z][Z]]\
+OMKVVVmnm
+jjj[\\VUSLKHGDA!
+A?<tvw>:6{
+86394/=:7
+CB?SSR#
+CA>\]\,'!~
+GEB]\Z72-
+jkj}
+OMI^][A<7
+?;5A<7
+B=7JF@GD?
+IFAVSO
+srpeb_YUQ
+y{{ihezzyzzylkizzy
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0 090>0C0J0P0i0n0s0z0
+1)1.131:1A1i1n1s1z1
+2+20252[2`2e2
+3+30353>3E3k3p3u3~3
+4 4%4I4N4S4q4w4
+4$5K5
+5N6T6
+7@7F7
+8&939@9K9
+:::@:
+<<<I<R<`<z<
+364<4
+5#5.5X5r5
+6!7I7T7e7
+8c9}9\:q:~:
+>p>v>
+5V6n6
+6K7f7
+7-9I9E:_:l:y:
+!3?3
+3"3(3.343:3@3F3L3R3X3^3d3j3p3
+7.7{7
+8f8y8
+:%:1:@:I:V:
+<:<X<
+=K=c=i=~=
+>/>=>X>c>
+>C?R?Y?
+0$0*00070>0E0L0S0Z0a0i0q0y0
+07===
+253J3V3\3b3h3n3t3z3
+4"4,42484>4D4J4P4V4\4b4h4n4t4z4
+5"5(5.545:5@5F5L5R5X5^5d5j5p5v5|5
+6$6*60666<6B6H6N6T6Z6`6f6l6r6x6~6
+7'7:7F7U7Z7c7
+8#8:8@8F8Q8Y8c8u8{8
+9$9*90969<9B9H9N9T9Z9`9f9q9
+:4:B:R:b:r:
+;";2;B;R;b;r;~;
+: :$:@:D:
+5 5$5
+60646H6L6d6h6l6
+7 7$7(7@7D7X7h7l7|7
+8$8(8,80888P8
+= =0=<=\=
+>0>L>P>l>p>
+0 0$0(0,0004080<0X0\0`0d0h0l0p0t0x0|0
+2,2P2t2

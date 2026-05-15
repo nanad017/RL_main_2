@@ -1,0 +1,230 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+[^_]
+[^_]
+$Tq@
+$@r@
+$dr@
+dos2
+unix
+/usr
+re/l
+ocal
+/sha
+$Gs@
+$Gs@
+$Ps@
+mac2
+unix
+[^_]
+$ts@
+$Pt@
+$ts@
+$Pu@
+$Pu@
+$,v@
+$`v@
+$\w@
+$,|@
+ [^]
+C,HE@
+C0PE@
+[^_]
+w	9X
+[^_]
+w	9X
+w	9X
+w	9X
+Copyright (C) 2009-2013 Erwin Waterlander
+Copyright (C) 1998      Christian Wurll (Version 3.1)
+Copyright (C) 1998      Bernd Johannes Wuebben (Version 3.0)
+Copyright (C) 1994-1995 Benjamin Lin
+All rights reserved.
+%s: 
+can not write to output file: %s
+using code page %d.
+Binary symbol found at line %d
+%s: %s
+%s: %s: %s
+Failed to change the owner and group of temporary output file %s: %s
+Failed to change the permissions of temporary output file %s: %s
+Failed to open temporary output file: %s
+Failed to write to temporary output file %s: %s
+problems renaming '%s' to '%s': %s
+          which is the target of symbolic link '%s'
+          output file remains in '%s'
+problems resolving symbolic link '%s'
+DOS2UNIX_LOCALEDIR
+error: Value of environment variable DOS2UNIX_LOCALEDIR is too long.
+dos2unix
+mac2unix
+--help
+--keepdate
+Skipping %s, not a regular file.
+Skipping symbolic link %s.
+--force
+--safe
+--quiet
+mac2unix.exe
+target of file %s not specified in new file mode
+Skipping symbolic link %s, target is not a regular file.
+Skipping %s, output file %s is a symbolic link.
+code page %d is not supported.
+Skipping binary file %s
+Skipping %s, target of symbolic link %s is not a regular file.
+Skipping UTF-16 file %s, the current locale character encoding is not UTF-8.
+Skipping UTF-16 file %s, the size of wchar_t is %d bytes.
+Skipping UTF-16 file %s, an UTF-16 conversion error occurred.
+--newline
+converting file %s to Unix format ...
+problems converting file %s
+--add-bom
+converting file %s to file %s in Unix format ...
+problems converting file %s to file %s
+--skip-symlink
+--follow-symlink
+--replace-symlink
+--version
+--license
+-ascii
+-iso
+-437
+-850
+active code page: %d
+-860
+-863
+-865
+-1252
+--convmode
+ascii
+7bit
+--oldfile
+--newfile
+option '%s' requires an argument
+invalid %s conversion mode specified
+%s: %s: %s
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice in the documentation and/or other materials provided with
+   the distribution.
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+%s %s (%s)
+Usage: %s [options] [file ...] [-n infile outfile ...]
+ -ascii                convert only line breaks (default)
+ -iso                  conversion between DOS and ISO-8859-1 character set
+   -1252               Use Windows code page 1252 (Western European)
+   -437                Use DOS code page 437 (US) (default)
+   -850                Use DOS code page 850 (Western European)
+   -860                Use DOS code page 860 (Portuguese)
+   -863                Use DOS code page 863 (French Canadian)
+   -865                Use DOS code page 865 (Nordic)
+ -7                    Convert 8 bit characters to 7 bit space
+ -c, --convmode        conversion mode
+   convmode            ascii, 7bit, iso, mac, default to ascii
+ -f, --force           force conversion of binary files
+ -h, --help            give this help
+ -k, --keepdate        keep output file date
+ -L, --license         display software license
+ -l, --newline         add additional newline
+ -m, --add-bom         add UTF-8 Byte Order Mark
+ -n, --newfile         write to new file
+   infile              original file in new file mode
+   outfile             output file in new file mode
+ -o, --oldfile         write to old file
+   file ...            files to convert in old file mode
+ -q, --quiet           quiet mode, suppress all warnings
+                       always on in stdio mode
+ -s, --safe            skip binary files (default)
+2013-01-25
+6.0.3
+ -F, --follow-symlink  follow symbolic links and convert the targets
+ -R, --replace-symlink replace symbolic links with converted files
+                       (original target files remain unchanged)
+ -S, --skip-symlink    keep symbolic links and targets unchanged (default)
+ -V, --version         display version number
+%s %s (%s)
+MSYS version.
+Without Unicode UTF-16 support.
+With native language support.
+LOCALEDIR: %s
+/d2utmpXXXXXX
+%s%s
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_sprintf
+libintl_textdomain
+__errno
+__main
+abort
+calloc
+chmod
+chown
+close
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fdopen
+fgetc
+fileno
+fopen
+fputc
+free
+getenv
+lstat
+malloc
+memcpy
+mkstemp
+realloc
+realpath
+rename
+setlocale
+setmode
+stat
+strcasecmp
+strcpy
+strdup
+strerror
+strlen
+strrchr
+umask
+ungetc
+unlink
+utime
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-intl-8.dll
+msys-1.0.dll
+KERNEL32.dll

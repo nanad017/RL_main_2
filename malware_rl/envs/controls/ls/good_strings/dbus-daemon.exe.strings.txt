@@ -1,0 +1,1715 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+T$ A
+@(H9
+T$ I
+T$ I
+T$ I
+T$ I
+T$ I
+T$ M
+T$ M
+@(H9
+@(H9
+L$ H
+@(H9
+T$ I
+T$(H
+T$ L
+T$ I
+T$ I
+T$ I
+D$0H
+D$(H
+D$ A
+T$ I
+T$0H
+T$(H
+T$ H
+T$ I
+T$ L
+D$0s
+D$ s
+T$ I
+T$ L
+T$ A
+@XH;E
+L$ H
+L$ E
+T$ A
+T$ A
+@XH9
+@XH9
+UATWVSH
+L$hL
+L$XH
+|$PH
+t$HH
+\$@H
+L$8H
+L$0L
+L$ M
+[^_A\]
+UAWAVAUATWVSH
+T$(H
+T$ M
+L$8H
+\$0H
+|$(H
+t$ M
+D$0H
+D$(H
+D$ A
+L$XH
+t$PH
+\$HL
+|$@L
+t$8L
+l$0L
+|$ H
+L$0H
+L$(H
+L$ H
+D$8H
+D$0H
+D$(H
+D$ A
+D$8H
+D$0H
+D$(H
+D$ A
+L$8H
+L$0H
+L$(H
+L$ H
+D$8H
+D$0H
+D$(H
+D$ A
+D$8H
+D$0H
+D$(H
+D$ A
+T$(H
+T$ M
+[^_A\A]A^A_]
+@XH9
+T$ I
+T$ I
+T$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$ I
+D$PH
+D$HH
+D$@H
+D$8H
+D$0H
+D$(H
+D$ I
+D$`H
+D$XH
+D$PH
+D$HH
+D$@H
+D$8H
+D$0H
+D$(H
+D$ I
+D$0H
+D$(H
+D$ I
+D$ I
+D$0H
+D$(H
+D$ I
+T$ I
+T$xH
+T$pH
+T$hH
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+T$ M
+T$ L
+T$ L
+T$ L
+T$ L
+<*uMH
+<*uMH
+T$ I
+D$@H
+D$8H
+D$0H
+D$(H
+D$ I
+T$ I
+D$ I
+T$ M
+T$ M
+T$ M
+T$ I
+D$ A
+D$ A
+T$ L
+T$ A
+T$ A
+T$ A
+D$ A
+H;E u6H
+H;E(u(H
+H;E u
+H;E(u
+H;E u
+L$(H
+L$ A
+D$0H
+D$(H
+D$ I
+@@H9
+@@H9
+@@H9
+@@H;E
+T$ I
+E(+E 
+E ;E(|8H
+U Hc
+E ;E(
+<Z~3H
+<]t1H
+T$ E
+<[uHH
+<=t1H
+T$ E
+L$ L
+L$ E
+<[u"H
+L$0H
+L$(H
+L$ H
+\$ I
+T$0H
+T$(H
+T$ M
+L$(H
+L$ H
+L$0H
+L$(H
+L$ H
+UAUATWVSH
+l$HL
+d$@H
+|$8H
+t$0H
+\$(H
+L$ I
+L$0H
+L$(H
+T$0H
+T$(H
+T$ A
+T$ M
+[^_A\A]]
+T$ I
+D$(H
+D$ L
+\$0H
+D$(H
+D$ L
+D$(s
+D$ A
+T$ I
+L$(H
+L$ A
+D$ u
+T$0H
+T$(H
+T$ E
+T$(H
+T$ M
+D$ u
+L$0H
+T$(H
+T$ A
+ExH9
+T$ I
+T$ I
+T$ I
+T$ I
+T$ I
+T$ I
+D$0u
+L$(H
+L$ A
+U$Hc
+T$ I
+T$ I
+\$(H
+L$ I
+T$ L
+*E H
+;E t`
+;E0|
+;E0u
+T$ H
+T$ H
+H;E u
+E H;E(t
+T$ I
+L$ H
+<:u-H
+T$ I
+\$ I
+\$ I
+T$(H
+T$ E
+H;E(u
+L$ H
+L$ H
+<:u-H
+H;E uCH
+T$ I
+T$ I
+T$ I
+@P;E
+@P;E
+@P;E
+<=t,H
+< t!H
+<=t%H
+<'t<H
+\u9H
+'u H
+T$ M
+T$(H
+T$ M
+T$ M
+D$(?
+T$ I
+D$ A
+@P;E
+<:ulH
+UXHc
+UXHc
+UXHc
+UXHc
+<.t3
+@P;EX
+L$ H
+L$ H
+L$ H
+L$ H
+L$PH
+L$HH
+L$@H
+L$8H
+L$0H
+L$(H
+L$ H
+L$ H
+UVSH
+L$ I
+D$(H
+D$ M
+T$ L
+T$ L
+T$ L
+@,;E
+<"t H
+<\uEH
+\utH
+<\t	
+T$ I
+\$ I
+T$ I
+T$ I
+L$ E
+T$ I
+@4<.u,H
+@5<.u
+<:uNH
+D$ I
+<:uwH
+<\u/H
+D$ I
+D$ I
+@(;E
+T$ I
+T$ I
+L$(H
+L$ H
+<	u	
+<\u4H
+<\u?H
+T$HH
+T$@H
+T$ L
+:E u
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+org.freedesktop.DBus.Error.NoMemory
+Can't stat the service file
+org.freedesktop.DBus.Error.Failed
+Name
+D-BUS Service
+Exec
+User
+SystemdService
+Service %s already exists in activation entry list
+The new service name "%s" of service file "%s" is already in cache, ignoring
+.service
+DBUS_STARTER_ADDRESS
+DBUS_STARTER_BUS_TYPE
+session
+DBUS_SESSION_BUS_ADDRESS
+system
+DBUS_SYSTEM_BUS_ADDRESS
+Successfully activated service '%s'
+Invalid configuration (missing or empty <user>?)
+org.freedesktop.DBus.Error.Spawn.ConfigInvalid
+Launcher could not run (out of memory)
+Failed to setup environment correctly
+org.freedesktop.DBus.Error.Spawn.FailedToSetup
+Bus name is not valid or missing
+org.freedesktop.DBus.Error.Spawn.ServiceNotValid
+Bus name not found in system service directory
+org.freedesktop.DBus.Error.Spawn.ServiceNotFound
+The permission of the setuid helper is not correct
+org.freedesktop.DBus.Error.Spawn.PermissionsInvalid
+The service file is incorrect or does not have all required attributes
+Cannot launch daemon, file not found or permissions invalid
+org.freedesktop.DBus.Error.Spawn.ExecFailed
+Invalid arguments to command line
+org.freedesktop.DBus.Error.InvalidArgs
+Launched child was signaled, it probably crashed
+org.freedesktop.DBus.Error.Spawn.ChildSignaled
+Launch helper exited with unknown return code %i
+org.freedesktop.DBus.Error.Spawn.ChildExited
+Activated service '%s' failed: %s
+org.freedesktop.DBus.Error.TimedOut
+Failed to activate service '%s': timed out
+The name %s was not provided by any .service files
+org.freedesktop.DBus.Error.ServiceUnknown
+%s=%s
+The maximum number of pending activations has been reached, activation of %s failed
+org.freedesktop.DBus.Error.LimitsExceeded
+org.freedesktop.systemd1
+ActivationRequest
+org.freedesktop.systemd1.Activator
+/org/freedesktop/DBus
+org.freedesktop.DBus
+Activating via systemd: service name='%s' unit='%s'
+Activating systemd to hand-off: service name='%s' unit='%s'
+Failed to activate via systemd: service name='%s' unit='%s'
+Cannot do system-bus activation with no user
+org.freedesktop.DBus.Error.Spawn.FileInvalid
+Activating service name='%s' (using servicehelper)
+Activating service name='%s'
+Failed to activate service %s: %s
+Activation via systemd failed for unit '%s': %s
+disabled
+enabled
+Mode attribute on <apparmor> must have value "enabled" or "disabled" but cannot be "%s" when D-Bus is built without AppArmor support
+org.freedesktop.DBus.Error.Failed
+org.freedesktop.DBus.Error.NoMemory
+The pid file "%s" exists, if the message bus is not running, remove this file
+org.freedesktop.DBus.Error.Failed
+system
+[system] 
+session
+[session 
+Printing message bus address: did not write all bytes
+Could not get UID and GID for username "%s"
+SELinux enabled but D-Bus initialization failed; check system log
+AppArmor D-Bus mediation is enabled
+Reloaded configuration
+Unable to reload configuration: %s
+%s%s
+(unset)
+(bus)
+org.freedesktop.DBus
+%s, %d matched rules; type="%s", sender="%s" (%s) interface="%s" member="%s" error name="%s" requested_reply="%d" destination="%s" (%s)
+Message bus will not accept messages of unknown type
+org.freedesktop.DBus.Error.AccessDenied
+An SELinux policy prevents this sender from sending this message to this recipient
+Hello
+Client tried to send a message other than %s without being registered
+Rejected send message
+Would reject message
+Rejected receive message
+Rejected: destination has a full message queue
+org.freedesktop.DBus.Error.LimitsExceeded
+org.freedesktop.DBus.Error.NoMemory
+busconfig
+Configuration file has the wrong document type %s
+org.freedesktop.DBus.Error.Failed
+Attribute "%s" repeated twice on the same <%s> element
+Attribute "%s" is invalid on <%s> element in this context
+user
+type
+fork
+syslog
+keep_umask
+pidfile
+listen
+auth
+servicehelper
+includedir
+standard_session_servicedirs
+standard_system_servicedirs
+allow_anonymous
+servicedir
+include
+selinux_root_relative
+if_selinux_enabled
+ignore_missing
+ignore_missing attribute must have value "yes" or "no"
+if_selinux_enabled attribute must have value "yes" or "no"
+selinux_root_relative attribute must have value "yes" or "no"
+policy
+at_console
+group
+context
+<policy> element must have exactly one of (context|user|group|at_console) attributes
+default
+mandatory
+context attribute on <policy> must have the value "default" or "mandatory", not "%s"
+Unknown username "%s" in message bus configuration file
+Unknown group "%s" in message bus configuration file
+true
+false
+Unknown value "%s" for at_console in message bus configuration file
+limit
+name
+<limit> element must have a "name" attribute
+selinux
+apparmor
+mode
+Element <%s> not allowed inside <%s> in configuration file
+own_prefix
+receive_requested_reply
+send_requested_reply
+eavesdrop
+receive_type
+receive_path
+receive_sender
+receive_error
+receive_member
+receive_interface
+send_type
+send_path
+send_destination
+send_error
+send_member
+send_interface
+Element <%s> must have one or more attributes
+On element <%s>, if you specify a member you must specify an interface or a path. Keep in mind that not all messages have an interface field.
+Invalid combination of attributes on element <%s>
+Bad message type "%s"
+Bad value "%s" for %s attribute, must be true or false
+Unknown username "%s" on element <%s>
+Unknown group "%s" on element <%s>
+<%s> rule cannot be per-user because it has bus-global semantics
+<%s> rule cannot be per-group because it has bus-global semantics
+allow
+deny
+associate
+Element <associate> must have attributes own="<servicename>" and context="<selinux context>"
+Unknown element <%s> at root of configuration file
+Element <%s> is not allowed in this context
+max_incoming_bytes
+max_incoming_unix_fds
+max_outgoing_bytes
+max_outgoing_unix_fds
+max_message_size
+max_message_unix_fds
+service_start_timeout
+auth_timeout
+pending_fd_timeout
+reply_timeout
+max_completed_connections
+max_incomplete_connections
+max_connections_per_user
+max_pending_service_starts
+max_names_per_connection
+max_match_rules_per_connection
+max_replies_per_connection
+There is no limit called "%s"
+<limit name="%s"> must be a positive number
+XML parser ended element with no element on the stack
+XML element <%s> ended but topmost element on the stack was <%s>
+XML element <%s> was expected to have content inside it
+Circular inclusion of file '%s'
+org.freedesktop.DBus.Error.FileNotFound
+.conf
+Encountered error '%s' while parsing '%s'
+Text content outside of any XML element in configuration file
+No text content expected inside XML element %s in configuration file
+Could not determine SELinux policy root for relative inclusion
+<limit name="%s"> element has invalid value (could not parse as integer)
+Element <%s> was not closed in configuration file
+Configuration file needs one or more <listen> elements giving addresses
+none
+busconfig
+user
+auth
+type
+fork
+pidfile
+listen
+allow
+deny
+servicehelper
+includedir
+standard_session_servicedirs
+standard_system_servicedirs
+servicedir
+include
+policy
+limit
+selinux
+associate
+syslog
+keep_umask
+allow_anonymous
+apparmor
+org.freedesktop.DBus.Error.NoMemory
+uid=%ld
+pid=%ld comm="
+sid="%s" 
+Connection has not authenticated soon enough, closing it (auth_timeout=%dms, elapsed: %.0fms)
+inactive
+org.freedesktop.DBus
+dbus-daemon transaction failed (OOM), sending error to sender %s
+The maximum number of active connections has been reached
+org.freedesktop.DBus.Error.LimitsExceeded
+The maximum number of active connections for UID %lu has been reached
+org.freedesktop.DBus.Error.NoReply
+Message recipient disconnected from message bus without replying
+Message did not receive a reply (timeout by message bus)
+Message has the same reply serial as a currently-outstanding existing method call
+org.freedesktop.DBus.Error.AccessDenied
+The maximum number of pending replies per connection has been reached
+message from dbus-daemon rejected but not enough memory to capture it
+Connection %s (%s) became a monitor.
+org.freedesktop.DBus.Error.NoMemory
+org.freedesktop.DBus.DesktopParseError.InvalidEscapes
+Text to be unescaped contains embedded nul
+Text to be unescaped ended in \
+Text to be unescaped had invalid escape sequence
+org.freedesktop.DBus.DesktopParseError.InvalidSyntax
+Invalid syntax for section header
+org.freedesktop.DBus.DesktopParseError.InvalidChars
+Invalid characters in section name
+Empty key name
+Invalid characters in key name
+No '=' in key/value pair
+Error in section %s at line %d: %s
+Error at line %d: %s
+Desktop file size (%ld bytes) is too large
+org.freedesktop.DBus.Error.Failed
+invalid UTF-8
+invalid service file: key=value before [Section]
+No "%s" key in .service file
+broadcast rejected, but not enough memory to tell monitors
+broadcast cannot be delivered to %s (%s) because it does not support receiving Unix fds
+org.freedesktop.DBus.Error.NotSupported
+broadcast with Unix fd not delivered, but not enough memory to tell monitors
+org.freedesktop.DBus.Error.NoMemory
+Tried to send message with Unix file descriptorsto a client that doesn't support that.
+(unknown)
+Disconnected
+org.freedesktop.DBus.Local
+Monitoring connection %s closed.
+org.freedesktop.DBus
+(unset)
+Monitoring connection %s (%s) is not allowed to send messages; closing it. Please fix the monitor to not do that. (message type="%s" interface="%s" member="%s" error name="%s" destination="%s")
+:not.active.yet
+Name "%s" does not exist
+org.freedesktop.DBus.Error.NameHasNoOwner
+Could not get %s of name '%s': no such name
+org.freedesktop.DBus.Error.NameHasNoOwner
+org.freedesktop.DBus.Error.AccessDenied
+rejected attempt to call %s by unknown uid
+rejected attempt to call %s by uid %s
+NameOwnerChanged
+org.freedesktop.DBus
+/org/freedesktop/DBus
+org.freedesktop.DBus.Error.NoMemory
+NameLost
+NameAcquired
+Already handled an Hello message
+org.freedesktop.DBus.Error.Failed
+(inactive)
+Connection "%s" is not allowed to add more match rules (increase limits in configuration file if required)
+org.freedesktop.DBus.Error.LimitsExceeded
+Could not get owner of name '%s': no such name
+Could not determine unique name for '%s'
+Could not get owners of name '%s': no such name
+Could not determine UID for '%s'
+Could not determine PID for '%s'
+org.freedesktop.DBus.Error.UnixProcessIdUnknown
+audit session data
+Could not determine audit session data for '%s'
+org.freedesktop.DBus.Error.AdtAuditDataUnknown
+security context
+Could not determine security context for '%s'
+org.freedesktop.DBus.Error.SELinuxSecurityContextUnknown
+credentials
+ProcessID
+UnixUserID
+WindowsSID
+LinuxSecurityLabel
+BecomeMonitor does not support any flags yet
+org.freedesktop.DBus.Error.InvalidArgs
+Hello
+RequestName
+ReleaseName
+StartServiceByName
+UpdateActivationEnvironment
+a{ss}
+NameHasOwner
+ListNames
+ListActivatableNames
+AddMatch
+RemoveMatch
+GetNameOwner
+ListQueuedOwners
+GetConnectionUnixUser
+GetConnectionUnixProcessID
+GetAdtAuditSessionData
+GetConnectionSELinuxSecurityContext
+ReloadConfig
+GetId
+GetConnectionCredentials
+a{sv}
+Introspect
+BecomeMonitor
+GetStats
+GetConnectionStats
+GetAllMatchRules
+a{sas}
+    <signal name="NameOwnerChanged">
+      <arg type="s"/>
+      <arg type="s"/>
+      <arg type="s"/>
+    </signal>
+    <signal name="NameLost">
+      <arg type="s"/>
+    </signal>
+    <signal name="NameAcquired">
+      <arg type="s"/>
+    </signal>
+org.freedesktop.DBus.Introspectable
+org.freedesktop.DBus.Monitoring
+org.freedesktop.DBus.Debug.Stats
+      <arg direction="%s" type="
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+"http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node>
+  <interface name="%s">
+    <method name="%s">
+    </method>
+  </interface>
+</node>
+Method '%s' is only available at the canonical object path '%s'
+ActivationFailure
+org.freedesktop.systemd1.Activator
+org.freedesktop.systemd1
+(unauthenticated)
+Ignoring forged ActivationFailure message from connection %s (%s)
+Call to %s has wrong args (%s, expected %s)
+org.freedesktop.DBus.Error.UnknownMethod
+org.freedesktop.DBus.Error.UnknownInterface
+%s does not understand message %s
+org.freedesktop.DBus.Error.NoMemory
+org.freedesktop.DBus.Error.NoMemory
+Requested bus name "%s" is not valid
+org.freedesktop.DBus.Error.InvalidArgs
+Cannot acquire a service starting with ':' such as "%s"
+org.freedesktop.DBus
+(inactive)
+Connection "%s" is not allowed to own the service "%s"because it is reserved for D-Bus' use only
+Connection "%s" is not allowed to own the service "%s" due to SELinux policy
+org.freedesktop.DBus.Error.AccessDenied
+Connection "%s" is not allowed to own the service "%s" due to security policies in the configuration file
+Connection "%s" is not allowed to own more services (increase limits in configuration file if required)
+org.freedesktop.DBus.Error.LimitsExceeded
+Given bus name "%s" is not valid
+Cannot release a service starting with ':' such as "%s"
+Cannot release the %s service because it is owned by the bus
+%s='
+%.*s
+'\''
+type
+interface
+member
+path
+path_namespace
+sender
+destination
+true
+false
+eavesdrop
+namespace
+arg%d%s
+Match rule has a key with no subsequent '=' character
+org.freedesktop.DBus.Error.MatchRuleInvalid
+org.freedesktop.DBus.Error.NoMemory
+Unbalanced quotation marks in match rule
+Key '%s' in match rule starts with 'arg' but lacks an arg number. Should be 'arg0' or 'arg7' for example.
+Key '%s' in match rule starts with 'arg' but could not parse arg number. Should be 'arg0' or 'arg7' for example.
+arg0namespace
+arg0namespace='%s' is not a valid prefix of a bus name
+Key '%s' in match rule contains junk after argument number (%u). Only 'arg%upath' (for example) or 'arg0namespace' are valid
+Key '%s' in match rule has arg number %lu but the maximum is %d.
+Argument %d matched more than once in match rule
+Match rule text is %d bytes, maximum is %d
+org.freedesktop.DBus.Error.LimitsExceeded
+Key %s specified twice in match rule
+Invalid message type (%s) in match rule
+Sender name '%s' is invalid
+Interface name '%s' is invalid
+Member name '%s' is invalid
+path or path_namespace specified twice in match rule
+Path '%s' is invalid
+Destination name '%s' is invalid
+eavesdrop='%s' is invalid, it should be 'true' or 'false'
+Unknown key "%s" in match rule
+The given match rule wasn't found and can't be removed
+org.freedesktop.DBus.Error.MatchRuleNotFound
+org.freedesktop.DBus
+Serial
+ListMemPoolUsedBytes
+ListMemPoolCachedBytes
+ListMemPoolAllocatedBytes
+ActiveConnections
+IncompleteConnections
+MatchRules
+PeakMatchRules
+PeakMatchRulesPerConnection
+BusNames
+PeakBusNames
+PeakBusNamesPerConnection
+org.freedesktop.DBus.Error.NoMemory
+Bus name '%s' has no owner
+org.freedesktop.DBus.Error.NameHasNoOwner
+UniqueName
+IncomingMessages
+IncomingBytes
+IncomingFDs
+PeakIncomingBytes
+PeakIncomingFDs
+OutgoingMessages
+OutgoingBytes
+OutgoingFDs
+PeakOutgoingBytes
+PeakOutgoingFDs
+{sas}
+Memory allocation failure in message bus
+org.freedesktop.DBus.Error.NoMemory
+UTF-8
+Error in file %s, line %d, column %d: %s
+org.freedesktop.DBus.Error.Failed
+dbus-daemon [--version] [--session] [--system] [--config-file=FILE] [--print-address[=DESCRIPTOR]] [--print-pid[=DESCRIPTOR]] [--introspect] [--address=ADDRESS] [--nopidfile] [--nofork]
+1.10.0
+D-Bus Message Bus Daemon %s
+Copyright (C) 2002, 2003 Red Hat, Inc., CodeFactory AB, and others
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Can not introspect - Out of memory
+--%s specified but configuration file %s already requested
+--%s specified but address %s already requested
+--%s specified but printing address to %s already requested
+--%s specified but printing pid to %s already requested
+--help
+--version
+--introspect
+--nofork
+--nopidfile
+--system
+system
+--session
+session
+--config-file=
+config-file
+--config-file
+--address=
+address
+--address
+--print-address=
+print-address
+--print-address
+--print-pid=
+print-pid
+--print-pid
+No configuration file specified.
+Invalid file descriptor: "%s"
+SELinux pre-initialization failed
+AppArmor pre-initialization failed: out of memory
+Failed to start message bus: %s
+{sv}
+invalid request, socket fd %Iu not open
+could not find watch %p to remove
+could not find timeout %p to remove
+org.freedesktop.DBus.Error.NoMemory
+Unclosed quotes in command line
+org.freedesktop.DBus.Error.InvalidArgs
+No tokens found in command line
+Cannot daemonize on Windows
+org.freedesktop.DBus.Error.NotSupported
+Could not create PID file %s: %s
+Failed to format PID for "%s": %s
+Could not write to %s: %s
+Could not close file %s: %s
+org.freedesktop.DBus.Error.NoMemory
+Printing message bus PID: did not write enough bytes
+org.freedesktop.DBus.Error.Failed
+cannot change fd limit on this platform
+info
+warning
+security
+fatal
+%s%s
+.exe
+Could not allocate memory for directory filename copy
+Could not append filename wildcard
+Could not append filename wildcard 2
+Could not allocate memory for directory iterator
+Failed to read directory "%s": %s
+Failed to get next in directory: %s
+No memory to read directory entry
+UNIX user IDs not supported on Windows
+The workstation driver is not installed.
+The server could not be located.
+An internal error occurred. The network cannot access a shared memory segment.
+A network resource shortage occurred.
+This operation is not supported on workstations.
+The device is not connected.
+The Server service is not started.
+The queue is empty.
+The device or directory does not exist.
+The operation is invalid on a redirected resource.
+The name has already been shared.
+The server is currently out of the requested resource.
+Requested addition of items exceeds the maximum allowed.
+The Peer service supports only two simultaneous users.
+The API return buffer is too small.
+A remote API error occurred.
+An error occurred when opening or reading the configuration file.
+A general network error occurred.
+The Workstation service is in an inconsistent state. Restart the computer before restarting the Workstation service.
+The Workstation service has not been started.
+The requested information is not available.
+An internal error occurred.
+The server is not configured for transactions.
+The requested API is not supported on the remote server.
+The event name is invalid.
+The computer name already exists on the network. Change it and restart the computer.
+The specified component could not be found in the configuration information.
+The specified parameter could not be found in the configuration information.
+A line in the configuration file is too long.
+The printer does not exist.
+The print job does not exist.
+The printer destination cannot be found.
+The printer destination already exists.
+The printer queue already exists.
+No more printers can be added.
+No more print jobs can be added.
+No more printer destinations can be added.
+This printer destination is idle and cannot accept control operations.
+This printer destination request contains an invalid control function.
+The print processor is not responding.
+The spooler is not running.
+This operation cannot be performed on the print destination in its current state.
+This operation cannot be performed on the printer queue in its current state.
+This operation cannot be performed on the print job in its current state.
+A spooler memory allocation failure occurred.
+The device driver does not exist.
+The data type is not supported by the print processor.
+The print processor is not installed.
+The service database is locked.
+The service table is full.
+The requested service has already been started.
+The service does not respond to control actions.
+The service has not been started.
+The service name is invalid.
+The service is not responding to the control function.
+The service control is busy.
+The configuration file contains an invalid service program name.
+The service could not be controlled in its present state.
+The service ended abnormally.
+The requested pause or stop is not valid for this service.
+The service control dispatcher could not find the service name in the dispatch table.
+The service control dispatcher pipe read failed.
+A thread for the new service could not be created.
+This workstation is already logged on to the local-area network.
+The workstation is not logged on to the local-area network.
+The user name or group name parameter is invalid.
+The password parameter is invalid.
+@W The logon processor did not add the message alias.
+The logon processor did not add the message alias.
+@W The logoff processor did not delete the message alias.
+The logoff processor did not delete the message alias.
+Network logons are paused.
+A centralized logon-server conflict occurred.
+The server is configured without a valid user path.
+An error occurred while loading or running the logon script.
+The logon server was not specified. Your computer will be logged on as STANDALONE.
+The logon server could not be found.
+There is already a logon domain for this computer.
+The logon server could not validate the logon.
+The security database could not be found.
+The group name could not be found.
+The user name could not be found.
+The resource name could not be found.
+The group already exists.
+The user account already exists.
+The resource permission list already exists.
+This operation is only allowed on the primary domain controller of the domain.
+The security database has not been started.
+There are too many names in the user accounts database.
+A disk I/O failure occurred.
+The limit of 64 entries per resource was exceeded.
+Deleting a user with a session is not allowed.
+The parent directory could not be located.
+Unable to add to the security database session cache segment.
+This operation is not allowed on this special group.
+This user is not cached in user accounts database session cache.
+The user already belongs to this group.
+The user does not belong to this group.
+This user account is undefined.
+This user account has expired.
+The user is not allowed to log on from this workstation.
+The user is not allowed to log on at this time.
+The password of this user has expired.
+The password of this user cannot change.
+This password cannot be used now.
+The password does not meet the password policy requirements. Check the minimum password length, password complexity and password history requirements.
+The password of this user is too recent to change.
+The security database is corrupted.
+No updates are necessary to this replicant network/local security database.
+This replicant database is outdated; synchronization is required.
+The network connection could not be found.
+This asg_type is invalid.
+This device is currently being shared.
+The computer name could not be added as a message alias. The name may already exist on the network.
+The Messenger service is already started.
+The Messenger service failed to start.
+The message alias could not be found on the network.
+This message alias has already been forwarded.
+This message alias has been added but is still forwarded.
+This message alias already exists locally.
+The maximum number of added message aliases has been exceeded.
+The computer name could not be deleted.
+Messages cannot be forwarded back to the same workstation.
+An error occurred in the domain message processor.
+The message was sent, but the recipient has paused the Messenger service.
+The message was sent but not received.
+The message alias is currently in use. Try again later.
+The Messenger service has not been started.
+The name is not on the local computer.
+The forwarded message alias could not be found on the network.
+The message alias table on the remote station is full.
+Messages for this alias are not currently being forwarded.
+The broadcast message was truncated.
+This is an invalid device name.
+A write fault occurred.
+A duplicate message alias exists on the network.
+@W This message alias will be deleted later.
+The message alias was not successfully deleted from all networks.
+This operation is not supported on computers with multiple networks.
+This shared resource does not exist.
+This device is not shared.
+A session does not exist with that computer name.
+There is not an open file with that identification number.
+A failure occurred when executing a remote administration command.
+A failure occurred when opening a remote temporary file.
+The data returned from a remote administration command has been truncated to 64K.
+This device cannot be shared as both a spooled and a non-spooled resource.
+The information in the list of servers may be incorrect.
+The computer is not active in this domain.
+The share must be removed from the Distributed File System before it can be deleted.
+The operation is invalid for this device.
+This device cannot be shared.
+This device was not open.
+This device name list is invalid.
+The queue priority is invalid.
+There are no shared communication devices.
+The queue you specified does not exist.
+This list of devices is invalid.
+The requested device is invalid.
+This device is already in use by the spooler.
+This device is already in use as a communication device.
+This computer name is invalid.
+The string and prefix specified are too long.
+This path component is invalid.
+Could not determine the type of input.
+The buffer for types is not big enough.
+Profile files cannot exceed 64K.
+The start offset is out of range.
+The system cannot delete current connections to network resources.
+The system was unable to parse the command line in this file.
+An error occurred while loading the profile file.
+@W Errors occurred while saving the profile file. The profile was partially saved.
+Log file %1 is full.
+This log file has changed between reads.
+Log file %1 is corrupt.
+The source path cannot be a directory.
+The source path is illegal.
+The destination path is illegal.
+The source and destination paths are on different servers.
+The Run server you requested is paused.
+An error occurred when communicating with a Run server.
+An error occurred when starting a background process.
+The shared resource you are connected to could not be found.
+The LAN adapter number is invalid.
+There are open files on the connection.
+Active connections still exist.
+This share name or password is invalid.
+The device is being accessed by an active process.
+The drive letter is in use locally.
+The specified client is already registered for the specified event.
+The alert table is full.
+An invalid or nonexistent alert name was raised.
+The alert recipient is invalid.
+A user's session with this server has been deleted.
+The log file does not contain the requested record number.
+The user accounts database is not configured correctly.
+This operation is not permitted when the Netlogon service is running.
+This operation is not allowed on the last administrative account.
+Could not find domain controller for this domain.
+Could not set logon information for this user.
+The Netlogon service has not been started.
+Unable to add to the user accounts database.
+This server's clock is not synchronized with the primary domain controller's clock.
+A password mismatch has been detected.
+The server identification does not specify a valid server.
+The session identification does not specify a valid session.
+The connection identification does not specify a valid connection.
+There is no space for another entry in the table of available servers.
+The server has reached the maximum number of sessions it supports.
+The server has reached the maximum number of connections it supports.
+The server cannot open more files because it has reached its maximum number.
+There are no alternate servers registered on this server.
+Try down-level (remote admin protocol) version of API instead.
+The UPS driver could not be accessed by the UPS service.
+The UPS service is not configured correctly.
+The UPS service could not access the specified Comm Port.
+The UPS indicated a line fail or low battery situation. Service not started.
+The UPS service failed to perform a system shut down.
+The program below returned an MS-DOS error code:
+The program below needs more memory:
+The program below called an unsupported MS-DOS function:
+The workstation failed to boot.
+The file below is corrupt.
+No loader is specified in the boot-block definition file.
+NetBIOS returned an error:      The NCB and SMB are dumped above.
+A disk I/O error occurred.
+Image parameter substitution failed.
+Too many image parameters cross disk sector boundaries.
+The image was not generated from an MS-DOS diskette formatted with /S.
+Remote boot will be restarted later.
+The call to the Remoteboot server failed.
+Cannot connect to the Remoteboot server.
+Cannot open image file on the Remoteboot server.
+Connecting to the Remoteboot server...
+Remote boot service was stopped; check the error log for the cause of the problem.
+Remote boot startup failed; check the error log for the cause of the problem.
+A second connection to a Remoteboot resource is not allowed.
+The browser service was configured with MaintainServerList=No.
+Service failed to start since none of the network adapters started with this service.
+Service failed to start due to bad startup information in the registry.
+Service failed to start because its database is absent or corrupt.
+Service failed to start because RPLFILES share is absent.
+Service failed to start because RPLUSER group is absent.
+Cannot enumerate service records.
+Workstation record information has been corrupted.
+Workstation record was not found.
+Workstation name is in use by some other workstation.
+Profile record information has been corrupted.
+Profile record was not found.
+Profile name is in use by some other profile.
+There are workstations using this profile.
+Configuration record information has been corrupted.
+Configuration record was not found.
+Adapter ID record information has been corrupted.
+An internal service error has occurred.
+Vendor ID record information has been corrupted.
+Boot block record information has been corrupted.
+The user account for this workstation record is missing.
+The RPLUSER local group could not be found.
+Boot block record was not found.
+Chosen profile is incompatible with this workstation.
+Chosen network adapter ID is in use by some other workstation.
+There are profiles using this configuration.
+There are workstations, profiles, or configurations using this boot block.
+Service failed to backup Remoteboot database.
+Adapter record was not found.
+Vendor record was not found.
+Vendor name is in use by some other vendor record.
+(boot name, vendor ID) is in use by some other boot block record.
+Configuration name is in use by some other configuration.
+The internal database maintained by the Dfs service is corrupt.
+One of the records in the internal Dfs database is corrupt.
+There is no DFS name whose entry path matches the input Entry Path.
+A root or link with the given name already exists.
+The server share specified is already shared in the Dfs.
+The indicated server share does not support the indicated DFS namespace.
+The operation is not valid on this portion of the namespace.
+The operation is ambiguous because the link has multiple servers.
+Unable to create a link.
+The server is not Dfs Aware.
+The specified rename target path is invalid.
+The specified DFS link is offline.
+The specified server is not a server for this link.
+A cycle in the Dfs name was detected.
+The operation is not supported on a server-based Dfs.
+This link is already supported by the specified server-share.
+Can't remove the last server-share supporting this root or link.
+The operation is not supported for an Inter-DFS link.
+The internal state of the Dfs Service has become inconsistent.
+The Dfs Service has been installed on the specified server.
+The Dfs data being reconciled is identical.
+The DFS root cannot be deleted. Uninstall DFS if required.
+A child or parent directory of the share is already in a Dfs.
+Dfs internal error.
+unknown
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/share
+CommonProgramFiles
+/dbus-1/services
+system.conf
+session.conf
+Failed to execute program %s: %s
+org.freedesktop.DBus.Error.Spawn.ExecFailed
+Process %s exited with status %d
+org.freedesktop.DBus.Error.Spawn.ChildExited
+Process %s exited, status unknown
+org.freedesktop.DBus.Error.Failed
+org.freedesktop.DBus.Error.NoMemory
+Failed to create new thread
+org.freedesktop.DBus.Error.Spawn.ForkFailed
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+_dbus_close_socket
+_dbus_concat_dir_and_file
+_dbus_connection_get_linux_security_label
+_dbus_connection_get_pending_fds_count
+_dbus_connection_get_stats
+_dbus_connection_set_pending_fds_function
+_dbus_credentials_new_from_current_process
+_dbus_credentials_to_string_append
+_dbus_credentials_unref
+_dbus_delete_file
+_dbus_error_from_system_errno
+_dbus_exit
+_dbus_file_get_contents
+_dbus_flush_caches
+_dbus_generate_uuid
+_dbus_get_config_file_name
+_dbus_get_install_root
+_dbus_get_monotonic_time
+_dbus_getenv
+_dbus_getpid
+_dbus_hash_iter_get_string_key
+_dbus_hash_iter_get_uintptr_key
+_dbus_hash_iter_get_value
+_dbus_hash_iter_init
+_dbus_hash_iter_next
+_dbus_hash_iter_remove_entry
+_dbus_hash_table_free_preallocated_entry
+_dbus_hash_table_get_n_entries
+_dbus_hash_table_insert_string
+_dbus_hash_table_insert_string_preallocated
+_dbus_hash_table_insert_uintptr
+_dbus_hash_table_lookup_string
+_dbus_hash_table_lookup_uintptr
+_dbus_hash_table_new
+_dbus_hash_table_preallocate_entry
+_dbus_hash_table_remove_string
+_dbus_hash_table_remove_uintptr
+_dbus_hash_table_unref
+_dbus_list_alloc_link
+_dbus_list_append
+_dbus_list_append_link
+_dbus_list_clear
+_dbus_list_copy
+_dbus_list_find_last
+_dbus_list_foreach
+_dbus_list_free_link
+_dbus_list_get_first
+_dbus_list_get_first_link
+_dbus_list_get_last
+_dbus_list_get_last_link
+_dbus_list_get_length
+_dbus_list_get_stats
+_dbus_list_insert_after
+_dbus_list_insert_after_link
+_dbus_list_insert_before_link
+_dbus_list_length_is_one
+_dbus_list_pop_first
+_dbus_list_pop_first_link
+_dbus_list_pop_last
+_dbus_list_prepend
+_dbus_list_prepend_link
+_dbus_list_remove
+_dbus_list_remove_last
+_dbus_list_remove_link
+_dbus_list_unlink
+_dbus_mem_pool_alloc
+_dbus_mem_pool_dealloc
+_dbus_mem_pool_free
+_dbus_mem_pool_new
+_dbus_no_memory_message
+_dbus_path_is_absolute
+_dbus_pipe_close
+_dbus_pipe_init
+_dbus_pipe_init_stdout
+_dbus_pipe_invalidate
+_dbus_pipe_is_stdout_or_stderr
+_dbus_pipe_is_valid
+_dbus_pipe_write
+_dbus_poll
+_dbus_server_toggle_all_watches
+_dbus_set_error_valist
+_dbus_sleep_milliseconds
+_dbus_socketpair
+_dbus_split_paths_and_append
+_dbus_strdup
+_dbus_strerror_from_errno
+_dbus_string_append
+_dbus_string_append_byte
+_dbus_string_append_int
+_dbus_string_append_len
+_dbus_string_append_printf
+_dbus_string_append_printf_valist
+_dbus_string_copy
+_dbus_string_copy_data
+_dbus_string_copy_len
+_dbus_string_equal_c_str
+_dbus_string_find_eol
+_dbus_string_free
+_dbus_string_init
+_dbus_string_init_const
+_dbus_string_init_from_string
+_dbus_string_parse_int
+_dbus_string_parse_uint
+_dbus_string_set_length
+_dbus_string_skip_white
+_dbus_string_split_on_byte
+_dbus_string_starts_with_c_str
+_dbus_string_steal_data
+_dbus_string_validate_utf8
+_dbus_timeout_new
+_dbus_timeout_set_enabled
+_dbus_timeout_set_interval
+_dbus_timeout_unref
+_dbus_type_reader_get_current_type
+_dbus_type_reader_get_signature
+_dbus_type_reader_init_types_only
+_dbus_type_reader_next
+_dbus_uuid_encode
+_dbus_validate_bus_name
+_dbus_validate_bus_namespace
+_dbus_validate_interface
+_dbus_validate_member
+_dbus_validate_path
+_dbus_warn
+_dbus_watch_get_oom_last_time
+_dbus_watch_get_pollable
+_dbus_watch_invalidate
+_dbus_watch_list_add_watch
+_dbus_watch_list_free
+_dbus_watch_list_new
+_dbus_watch_list_remove_watch
+_dbus_watch_list_set_functions
+_dbus_watch_new
+_dbus_watch_ref
+_dbus_watch_set_oom_last_time
+_dbus_watch_unref
+_dbus_win_error_from_last_error
+_dbus_win_error_string
+_dbus_win_free_error_string
+_dbus_win_set_error_from_win_error
+dbus_connection_add_filter
+dbus_connection_allocate_data_slot
+dbus_connection_can_send_type
+dbus_connection_close
+dbus_connection_dispatch
+dbus_connection_free_data_slot
+dbus_connection_free_preallocated_send
+dbus_connection_get_adt_audit_session_data
+dbus_connection_get_data
+dbus_connection_get_dispatch_status
+dbus_connection_get_is_connected
+dbus_connection_get_outgoing_size
+dbus_connection_get_outgoing_unix_fds
+dbus_connection_get_unix_process_id
+dbus_connection_get_unix_user
+dbus_connection_get_windows_user
+dbus_connection_preallocate_send
+dbus_connection_ref
+dbus_connection_remove_filter
+dbus_connection_send_preallocated
+dbus_connection_set_allow_anonymous
+dbus_connection_set_data
+dbus_connection_set_dispatch_status_function
+dbus_connection_set_max_message_size
+dbus_connection_set_max_message_unix_fds
+dbus_connection_set_max_received_size
+dbus_connection_set_max_received_unix_fds
+dbus_connection_set_route_peer_messages
+dbus_connection_set_timeout_functions
+dbus_connection_set_unix_user_function
+dbus_connection_set_watch_functions
+dbus_connection_set_windows_user_function
+dbus_connection_unref
+dbus_error_free
+dbus_error_has_name
+dbus_error_init
+dbus_error_is_set
+dbus_free
+dbus_free_string_array
+dbus_malloc
+dbus_malloc0
+dbus_message_append_args
+dbus_message_contains_unix_fds
+dbus_message_get_args
+dbus_message_get_auto_start
+dbus_message_get_destination
+dbus_message_get_error_name
+dbus_message_get_interface
+dbus_message_get_member
+dbus_message_get_no_reply
+dbus_message_get_path
+dbus_message_get_reply_serial
+dbus_message_get_sender
+dbus_message_get_serial
+dbus_message_get_signature
+dbus_message_get_type
+dbus_message_has_destination
+dbus_message_has_path
+dbus_message_has_sender
+dbus_message_has_signature
+dbus_message_is_method_call
+dbus_message_is_signal
+dbus_message_iter_abandon_container
+dbus_message_iter_append_basic
+dbus_message_iter_append_fixed_array
+dbus_message_iter_close_container
+dbus_message_iter_get_arg_type
+dbus_message_iter_get_basic
+dbus_message_iter_init
+dbus_message_iter_init_append
+dbus_message_iter_next
+dbus_message_iter_open_container
+dbus_message_iter_recurse
+dbus_message_new
+dbus_message_new_error
+dbus_message_new_method_return
+dbus_message_new_signal
+dbus_message_ref
+dbus_message_set_destination
+dbus_message_set_error_name
+dbus_message_set_no_reply
+dbus_message_set_reply_serial
+dbus_message_set_sender
+dbus_message_type_from_string
+dbus_message_type_to_string
+dbus_message_unref
+dbus_move_error
+dbus_realloc
+dbus_server_allocate_data_slot
+dbus_server_disconnect
+dbus_server_free_data_slot
+dbus_server_get_address
+dbus_server_get_data
+dbus_server_get_is_connected
+dbus_server_listen
+dbus_server_set_auth_mechanisms
+dbus_server_set_data
+dbus_server_set_new_connection_function
+dbus_server_set_timeout_functions
+dbus_server_set_watch_functions
+dbus_server_unref
+dbus_set_error
+dbus_set_error_const
+dbus_timeout_get_enabled
+dbus_timeout_get_interval
+dbus_timeout_handle
+dbus_watch_get_enabled
+dbus_watch_get_flags
+dbus_watch_handle
+XML_ErrorString
+XML_GetCurrentColumnNumber
+XML_GetCurrentLineNumber
+XML_GetErrorCode
+XML_Parse
+XML_ParserCreate_MM
+XML_ParserFree
+XML_SetCharacterDataHandler
+XML_SetElementHandler
+XML_SetUserData
+CloseHandle
+CreateEventA
+CreateFileA
+CreateProcessA
+CreateThread
+DeleteCriticalSection
+EnterCriticalSection
+FindClose
+FindFirstFileA
+FindNextFileA
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeProcess
+GetFileAttributesExA
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+OutputDebugStringA
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetEvent
+SetLastError
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WaitForSingleObject
+WriteFile
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_environ
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+_vsnprintf
+abort
+calloc
+exit
+fprintf
+fputc
+fputs
+free
+fwrite
+isalpha
+malloc
+memcmp
+memcpy
+memset
+printf
+puts
+signal
+sprintf
+strcat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strrchr
+strstr
+vfprintf
+vsprintf
+_stricmp
+send
+libdbus-1-3.dll
+libexpat-1.dll
+KERNEL32.dll
+msvcrt.dll
+WS2_32.dll

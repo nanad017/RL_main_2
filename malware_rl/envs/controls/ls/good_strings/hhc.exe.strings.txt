@@ -1,0 +1,704 @@
+!This program cannot be run in DOS mode.
+>PRich
+.text
+`.rdata
+@.data
+.rsrc
+VWh0
+PQh0
+SVWd
+D$$@
+D$(PQ
+L$(Q
+4SVW
+SVWUj
+]_^[
+t.;t$$t(
+D$$]_^[
+D$\P
+D$D'
+|$ WRQP
+WRQP
+T$,~
+T$XP
+L$\RQ
+D$XP
+D$XP
+|$X-u
+D$0+D$4+
+D$(u
+T$(PQRj 
+T$4P
+T$(PQRj0
+D$ P
+PQWR
+T$(PQRj 
+]_^[
+]_^[
+9csm
+D$$P
+D$$P
+D$$PV
+D$ VP
+t$$VQ
+VRPQ
+D$<9H
+8csm
+D$8Q
+8csm
+8csm
+D$HQ
+L$DRPQ
+9L$ 
+\$$tc
+t];p
+T$@SPQ
+D$HQR
+L$LP
+T$LQR
+9D$ 
+D$,j
+]_^[
+D$@Q
+L$@R
+T$@P
+D$@Q
+L$@RPQ
+ ]_^[
+]_^[
+SVWU
+t$,P
+D$,W
+L$,V
+T$,P
+D$,QRP
+\$0PQSWV
+v[9]
+T$(P
+D$(WUj
+L$8R
+T$8PQR
+]_^[
+|$ U
+N9+}
+9csm
+D$8V
+PSQW
+PSQWV
+]_^[
+ SVW
+8csm
+8csm
+uGjtj
+SVWU
+FPPQ
+]_^[
+]_^[
+FXPj
+~T_^[
+]_^[
+SVW3
+=t=Q
+]_^[
+>"tF
+>"t0
+>"u"
+T$ ]_^[
+SVW3
+]_^[
+]_^[
+USVWj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+DSVWUh
+]_^[
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+VWU9
+]_^[
+IQRV
+]_^[
+t\j	
+r-j	
+wS;5
+w:j	
+]_^[
+]_^[
+SVW3
+]_^[
+SVW3
+~*SP
+SVW3
+t_PW
+]_^[
+L$ Qh 
+SVWU
+ _^[
+h J@
+8csm
+SVWUul
+]_^[
+]_^[
+]_^[
+]_^[
+v"SP
+v"SP
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVW3
+PQRV
+tzVS
+GIt%
+t/Ku
+SVWU3
+|$ ;
+]_^[
+L$$+
+D$$j
+D$ ;
+]_^[
+]_^[
+D$ ]+
+Vtnh
+SVW3
+]_^[
+Pj1Wj
+Pj2Wj
+Pj3Wj
+Pj4Wj
+Pj5Wj
+Pj6Wj
+Vj7Wj
+F Pj*Wj
+F$Pj+Wj
+F(Pj,Wj
+F,Pj-Wj
+F0Pj.Wj
+F4Pj/Wj
+Pj0Wj
+F8PjDWj
+F<PjEWj
+F@PjFWj
+FDPjGWj
+FHPjHWj
+FLPjIWj
+FPPjJWj
+FTPjKWj
+FXPjLWj
+F\PjMWj
+F`PjNWj
+FdPjOWj
+FhPj8Wj
+FlPj9Wj
+FpPj:Wj
+FtPj;Wj
+FxPj<Wj
+F|Pj=Wj
+Pj>Wj
+Pj?Wj
+Pj@Wj
+PjAWj
+PjBWj
+PjCWj
+Pj(Wj
+Pj)Wj
+Pj Sj
+]_^[
+j#Wj
+Pj%Wj
+SVW3
+]_^[
+F PjPWj
+F$PjQWj
+F(Pj
+F)Pj
+F*PjTWj
+F+PjUWj
+F,PjVWj
+F-PjWWj
+F.PjRW
+VjSWj
+]_^[
+SVWU3
+u!hh
+]_^[
+]_^[
+]_^[
+PPPPPPPP
+PPPPPPPP
+]_^[
+D$ P
+]_^[
+VUPQ
+]_^[
+]_^[
+SVj	
+SVW3
+]_^[
+@PPW
+]_^[
+EXPj
+]_^[
+SVWU
+SSSPW
+UVPW
+t%UVP
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUuV
+]_^[
+]_^[
+D$ j
+L$ j
+PQh 
+]_^[
+]_^[
+D$ j
+L$ j
+SVPQh 
+D$ W
+,GVf
+]_^[
+SVWUuL
+]_^[
+PSQR
+]_^[
+|$(;
+D$ j
+L$ j
+PQj	W
+t>Uj
+D$ U
+L$ VPQj
+L$$QP
+D$ VP
+]_^[
+WUu;j
+]_^[
+]_^[
+]_^[
+]_^[
+UVPS
+]_^[
+D$ Pj
+]_^[
+WUu;j
+]_^[
+]_^[
+]_^[
+]_^[
+UVPS
+D$ j
+]_^[
+D$(Pj
+]_^[
+J#D$
+WUuOj
+]_^[
+WRPQ
+]_^[
+9t$,u	
+L$0j
+WPj	Q
+]_^[
+]_^[
+L$0SWPj
+USPQ
+PUSQR
+]_^[
+VUSPQ
+D$(j
+D$4j
+WVh 
+L$4P
+PWVh 
+]_^[
+t	WP
+^_[3
+hhctest.hhp
+(null)
+ (8PX
+700WP
+`h````
+ppxxxx
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+united-states
+united-kingdom
+united states
+united kingdom
+turkey
+taiwan
+switzerland
+sweden
+spain
+south-korea
+south korea
+singapore
+russia
+pr-china
+pr china
+portugal
+poland
+norway
+new-zealand
+new zealand
+netherlands
+mexico
+korea
+japan
+italy
+ireland
+iceland
+hungary
+hong-kong
+hong kong
+holland
+greece
+great britain
+germany
+france
+finland
+england
+denmark
+china
+canada
+britain
+brazil
+belgium
+austria
+australia
+america
+turkish
+swiss
+swedish
+spanish-modern
+spanish-mexican
+spanish
+slovak
+russian
+portuguese-brazilian
+portuguese
+polish
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+korean
+japanese
+italian-swiss
+italian
+irish-english
+icelandic
+hungarian
+greek
+german-swiss
+german-austrian
+german
+french-swiss
+french-canadian
+french-belgian
+french
+finnish
+english-usa
+english-us
+english-uk
+english-nz
+english-ire
+english-can
+english-aus
+english-american
+english
+dutch-belgian
+dutch
+danish
+czech
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+H:mm:ss
+dddd, MMMM dd, yyyy
+M/d/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+HHA.dll
+GetFileAttributesA
+DeleteFileA
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+RtlUnwind
+GetCommandLineA
+GetVersion
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetCurrentThreadId
+TlsSetValue
+TlsAlloc
+SetLastError
+TlsGetValue
+GetLastError
+UnhandledExceptionFilter
+GetModuleFileNameA
+FreeEnvironmentStringsA
+MultiByteToWideChar
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+WideCharToMultiByte
+GetCPInfo
+GetACP
+GetOEMCP
+SetHandleCount
+GetFileType
+GetStdHandle
+GetStartupInfoA
+HeapDestroy
+HeapCreate
+VirtualFree
+WriteFile
+HeapFree
+HeapAlloc
+SetUnhandledExceptionFilter
+IsBadReadPtr
+IsBadWritePtr
+IsBadCodePtr
+VirtualAlloc
+GetProcAddress
+LoadLibraryA
+FlushFileBuffers
+SetFilePointer
+CloseHandle
+SetStdHandle
+HeapReAlloc
+HeapSize
+GetStringTypeA
+GetStringTypeW
+GetLocaleInfoA
+GetLocaleInfoW
+LCMapStringA
+LCMapStringW
+KERNEL32.dll
+CoUninitialize
+CoInitialize
+ole32.dll
+Example: hhc myfile.hhp
+    where <filename> = an HTML Help project file
+Usage:   hhc <filename>
+Unable to open %s.
+.hhp
+.hhm
+[FILES]
+Cannot open hhctest.hhp
+.htm
+wwww
+wwwx
+wwwx
+wwwx
+wwwx
+wwwwwp
+hhc.dbg
+hhc.exe
+Z0X03
+>0!0	
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+110221205312Z
+120521205312Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+JnYC H
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+GA7<^u
+!cAF
+6}@T`
+cC?;
+2%vi%
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190115Z
+130725191115Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:85D3-305C-5BCF1%0#
+Microsoft Time-Stamp Service0
+.5kE
+bMF/
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+>gbT
+`G#{'
+"hFL
+Os	=
+z?*[FS	<
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1,0*
+http://microsoft.com0
+|.V]
+8U,K*
+qIOZD9
+ z$/Cq
+gjL"A
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+110327142111Z0#
+vEty|'
+So*<	
+1NG:%t2
+s96O]m
++wOh

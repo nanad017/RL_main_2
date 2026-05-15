@@ -1,0 +1,226 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+System.Reflection
+AssemblyTitleAttribute
+.ctor
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+GuidAttribute
+AssemblyFileVersionAttribute
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+System
+Object
+Attribute
+Easeware.Driver.Core.Domain
+Settings
+System.IO
+DirectoryInfo
+String
+IsNullOrEmpty
+ToLower
+Equals
+Environment
+SpecialFolder
+GetFolderPath
+About
+get_AssemblyCompany
+Path
+Combine
+FileSystemInfo
+get_Exists
+Create
+GetInstance
+set_Language
+IOException
+get_UseDefaultProxy
+get_ProxyServer
+Concat
+get_ProxyPort
+Int32
+ToString
+get_ProxyUser
+get_ProxyPassword
+get_AutoCreateStorePoint
+get_CloseConfirm
+get_CloseToTray
+get_ScheduleScan
+get_UploadHardwareInfo
+get_Language
+get_ShowRestoreNextTime
+get_IsAutoScanWhenLaunched
+get_IsAutoRunWhenStart
+get_IsBackupAutoSelectAll
+get_BackupToPath
+get_IsPlaySound
+get_ShowShareNextTime
+get_GetDriverFromWindowsUpdate
+get_IsFirstClickGift
+File
+WriteAllLines
+AttributeUsageAttribute
+AttributeTargets
+Easeware.ConfigLanguageFromSetup.exe
+mscorlib
+Easeware.Driver.Core
+DotfuscatorAttribute
+.cctor
+Easeware.ConfigLanguageFromSetup
+ Easeware.ConfigLanguageFromSetup
+Easeware
+0Copyright 
+ 2011, Easeware. All right reserved.
+$06f06749-a90f-4495-b048-94ae200b7e77
+1.0.4.0
+WrapNonExceptionThrows
+)DEFQHSJUQKSMTZWWRY\\_]*+,-./
+000:0:0:5.5.4954.46574
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+j0h03
+>010
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+161121000000Z
+191122235959Z0
+Kowloon1
+Tsimshatsui1$0"
+Easeware Technology Limited1$0"
+Easeware Technology Limited0
+$|e_
+$0"0 
+http://sv.symcb.com/sv.crl0a
+Z0X0V
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+F=x	
+t]YD,
+,&CE1`
+FGbK
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+a}lG
+)gbu(
+1Af!$
+Yo\O
+-w${N
+OR,B#
+0!0	
+20170814084633Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G2
+IhQD
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2008 VeriSign, Inc. - For authorized use only1806
+/VeriSign Universal Root Certification Authority0
+160112000000Z
+310111235959Z0w1
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+^m@8
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0.
+"0 0
+http://s.symcd.com06
+/0-0+
+%http://s.symcb.com/universal-root.crl0
+TimeStamp-2048-30
+cH9@!
+xlBn
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+170102000000Z
+280401235959Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G20
+EhF$
+]rB	
+Ue_i
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0@
+90705
+/http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0
+k0i0*
+http://ts-ocsp.ws.symantec.com0;
+/http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(
+TimeStamp-2048-50
+\Z^ k;
+S+z+
+Mlz3
+AO2~
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA
+170814084633Z0/
+ }I1+
+&e07
+/1(0&0$0"
+o+L^k
+'<s^
+9WDB
+-r?(j7
++UYSZ

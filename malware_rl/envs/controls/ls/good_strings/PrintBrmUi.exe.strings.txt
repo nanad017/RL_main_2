@@ -1,0 +1,820 @@
+!This program cannot be run in DOS mode.
+0z6$
+3z&$
+2z0$
+/z5$
+,z5$
+1z5$
+zRich4$
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+t+L+
+D$ strgH
+D$(H
+x UATAUAVAWH
+l$`H
+D$h3
+|$p3
+D$XD
+l$xL
+strgL
+xRE3
+D$XH
+l$@H
+D$PH
+D$8H
+l$0E3
+l$ L
+L$PH
+A_A^A]A\]
+UVWATAUAVAWH
+t$PD
+strgD
+t$ H
+L$(H
+L$8H
+D$ E
+L$(I
+T$0H
+D;|$ }
+D9wLt
+G(fD90u
+fD90
+A_A^A]A\_^]
+l$ VWAVH
+D$(3
+D$  
+L$(H3
+\$`H
+l$hH
+0A^_^
+t$ UWAVH
+strgH
+|$@H
+D$8H
+|$0E3
+D$(?
+|$ D
+E A;
+E A;
+9} @
+\$PH
+A^_]
+WAVAWH
+l$HH
+t$PHc
+\$@H
+ A_A^_
+x AVH
+tv=0
+tf=1
+tV=2
+tF=3
+t6=5
+t&=7
+\$0H
+t$@H
+|$HH
+x UATAUAVAWH
+D$ H
+D$`E3
+L$0f
+t$DH
+D$HH
+D$PH
+t$ E
+@LA9
+A_A^A]A\]
+WATAUAVAWH
+d$xH
+	scI
+<ofA
+D$pH
+l$XH
+t$`H
+ A_A^A]A\_
+L$ SUVWH
+(_^][
+D$ strgH
+T$(H
+x8f9/t3H
+l$HH
+strg
+t!L;
+D$8H
+x UAVAWH
+L$xA
+strgH
+L$@E3
+L$PD
+D$h3
+D$HH
+D$XfD
+L$@D
+t$8H
+IL$HE
+L$`A
+D$hH
+L$0H
+D$ H
+t$8H
+|$0H
+t$8A
+L$PA
+IL$XH
+A_A^]
+|$ 3
+T$ H
+x UATAUAVAWH
+strgH
+D$0H
+L$(E3
+D$ D
+d$@3
+D9f 
+D$\H
+fD9 t	H
+L$ A
+D$(L
+T$@H
+T$@H
+strgH
+T$@H
+A_A^A]A\]
+UVWH
+L$0H3
+\$pH
+@_^]
+t4L!D$0A
+D!D$(
+4H!|$0
+\$PH
+|$ 3
+T$ H
+\$0H
+strgH
+f93t
+t$ E
+l$8H
+strg
+L$ H
+x UAUAVH
+L$2fD
+t$03
+D$ strgA
+l$(D
+D9s0
+T$0H
+L$ A
+D$0H
+T$(H
+T$0H
+L9s(
+strgL
+A^A]]
+UVWH
+L$0H3
+\$pH
+@_^]
+p WH
+strgL
+D$P3
+D$P3
+L$ H
+T$(L
+\$@H
+t$XH
+UVWH
+L$0H3
+\$pH
+@_^]
+@USVWATAVAWH
+strgD!uoA
+D!uw
+D$ H
+A_A^A\_^[]
+D$ H
+\$XH
+\$0H
+UWATAVAWH
+strgH
+9YHH
+\$`I
+A_A^A\_]
+D$(strg
+D$0H
+T$0H
+s WAVAWH
+L$03
+L9:t
+\$`I
+A_A^_
+D$@3
+D$ strgH
+D$(H
+L$ H
+L$(L
+L$ H
+T$(H
+L$@H3
+\$hH
+t$pH
+strgH
+L$ H
+L$ A
+T$(H
+L$ E
+T$(H
+strg3
+D$(I
+T$(H
+~(9(H
+L$ A
+T$(H
+L$ A
+T$(H
+l$HH
+t$PH
+D$ strgH
+L$ E
+T$(H
+\$0H
+p WAVAWH
+L$`L
+D$X3
+D9B@
+D$`I
+L$XH
+\$PH
+0A_A^_
+x ATAVAWH
+\$PH
+t$`H
+|$hH
+0A_A^A\
+WATAUAVAWH
+D$0D
+D$ 3
+t/fD;+t)H
+|$0H
+tIfD;m
+|$0H
+t$0H
+A_A^A]A\_
+\$0H
+USVWAUAVAWH
+F E3
+D9u@A
+@A_A^A]_^[]
+\$0H
+unkn
+t$XH
+\$PH
+\$0H
+WAVAWH
+\$@H
+t$PH
+ A_A^_
+\$0H
+D$PH
+L$(H
+D$ H
+D$0H
+D$@M
+L$8L
+D$ I
+L$PH3
+\$0H
+@USWAVH
+t$PA
+D$0I
+D$@H
+A^_[]
+strg
+t$PH
+L$0D
+L$TH
+D$H3
+t$(E3
+D$Pp
+D$`H
+L$PH
+D$8H
+D$hH
+D$HH
+@USVWATAUAVAWH
+strgH
+D$@L
+\$HH
+D$`E3
+\$h3
+D$PA
+D$pM
+t$8H
+T$`I
+L$hL
+L$pH
+L$PH
+D$XH
+\$ H
+D$8H
+D$ D
+|$8H
+D$0I
+t$8H
+A_A^A]A\_^[]
+D$@D
+T$8D
+\$`H
+t$hH
+UVWAVAWH
+strgH
+D$hH
+D$XI
+L$`H
+L$PE
+|$p3
+D$xH
+|$ L
+T$hH
+D$pH
+L$XE3
+D$HE3
+D$@H
+D$8L
+L$pH
+L$xH
+A_A^_^]
+|$ L
+UWATH
+strgL
+strgL
+@(strgL
+\$PI
+A\_]
+UVWAVAWH
+strg
+E#K/
+E+L/
+9yLA
+|$8H
+|$(H
+F(f98u
+t{A98t^E98t8v~A
+D$(I
+x\H9}
+M/H3
+A_A^_^]
+L$ USWH
+strgH
+`_[]
+t$ UWATAVAWH
+D9e0
+E8E;<
+D;e0
+t$hH
+ A_A^A\_]
+t$8H
+UVWATAUAVAWH
+fD9:
+fD9<Bu
+fD9<Ju
+D$xD
+|$(L
+D$ H
+T$xL
+\$pH
+0A_A^A]A\_^]
+WATAUAVAWH
+fD9,ru
+t4I;
+\$PA
+l$XH
+t$`H
+ A_A^A]A\_
+x ATAVAWH
+\$@H
+t$PH
+|$XH
+ A_A^A\
+L$ SUVWATAUAVAWH
+(A_A^A]A\_^][
+H9)u
+t$@H
+l$8H
+\$0H
+I!6H
+\$0H
+t$8H
+|$@H
+unkn
+\$0H
+t$8H
+|$@H
+\$0H
+l$8H
+t$@H
+WATAUAVAWH
+|$ L
+\$`H
+l$hH
+t$pH
+0A_A^A]A\_
+\$0H
+l$8H
+t$@H
+l$8H
+t$@H
+\$0H
+\$PH
+l$XH
+t$`H
+\$0H
+VWAVH
+D$XH
+T$XL
+t$ H
+\$XH
+l$`H
+0A^_^
+\$0H
+\$0H
+l$8H
+t$@H
+critH
+\$0H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L9=lN
+L$ f
+: wxfD9:t
+D9=pG
+D$ H
+A_A^A\
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$PH
+F0:s
+Dw=0
+3)6{
+RSDS&(
+#kUB
+PrintBrmUI.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+PrintBrmUI.exe
+??0CTcpMib@@QEAA@AEBV0@@Z
+??0CTcpMib@@QEAA@XZ
+??1CTcpMib@@UEAA@XZ
+??4CTcpMib@@QEAAAEAV0@AEBV0@@Z
+??_7CTcpMib@@6B@
+RegCreateKeyExW
+RegQueryValueExW
+RegCloseKey
+RegSetValueExW
+ADVAPI32.dll
+GetCommandLineW
+GetLastError
+HeapSetInformation
+LocalFree
+FindFirstFileW
+WaitForSingleObject
+SetEvent
+CreateFileW
+FindClose
+ResetEvent
+CreateEventW
+QueueUserWorkItem
+CloseHandle
+GetComputerNameExW
+GetCurrentProcess
+DuplicateHandle
+DeleteFileW
+GetSystemTime
+GetTempFileNameW
+CreateProcessW
+GetTempPathW
+FormatMessageW
+KERNEL32.dll
+SendMessageW
+SetWindowLongPtrW
+SetWindowLongW
+GetWindowLongPtrW
+GetParent
+PostMessageW
+CheckRadioButton
+IsDlgButtonChecked
+SetWindowTextW
+EnableWindow
+ShowWindow
+SendDlgItemMessageW
+GetDlgItem
+GetWindowTextW
+SetFocus
+CheckDlgButton
+DispatchMessageW
+PeekMessageW
+TranslateMessage
+USER32.dll
+wcschr
+_wcsicmp
+wcsncmp
+_purecall
+wcsrchr
+_vsnwprintf
+free
+malloc
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+_lock
+_unlock
+__dllonexit
+_onexit
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+PathAppendW
+SHLWAPI.dll
+DestroyPropertySheetPage
+PropertySheetW
+CreatePropertySheetPageW
+COMCTL32.dll
+OLEAUT32.dll
+CoCreateInstance
+CoUninitialize
+CoInitializeEx
+ole32.dll
+GetOpenFileNameW
+GetSaveFileNameW
+COMDLG32.dll
+CommandLineToArgvW
+SHGetSpecialFolderPathW
+SHGetKnownFolderIDList
+SHCreateItemFromIDList
+ShellExecuteExW
+SHELL32.dll
+ClosePrinter
+OpenPrinterW
+WINSPOOL.DRV
+TraceMessage
+Sleep
+GetStartupInfoW
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+TerminateProcess
+LoadStringW
+__CxxFrameHandler3
+EtwEventRegister
+EtwEventUnregister
+CoTaskMemFree
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+memset
+wcscmp
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity
+      language="x-ww"
+      version="5.1.0.0"
+      processorArchitecture="amd64"
+      name="Microsoft.Windows.PrintScan.BrmUi"
+      type="win32"
+  <description>Printer Migration</description>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="amd64"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+            level="asInvoker"
+            uiAccess="false"
+          />
+        </requestedPrivileges>
+    </security>
+  </trustInfo>
+    <application  xmlns="urn:schemas-microsoft-com:asm.v3">
+        <windowsSettings>
+            <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+        </windowsSettings>
+    </application>
+</assembly>
+hwww
+wwwww
+wwwww
+wwwww
+xwwwww
+wwwwwww
+ffff
+ffff
+wwwwwp
+vfhh
+vfhh
+Zeeeeeeddddddddddddddddd
+Zeeeeeeedddddddddddddddd
+Zeeeeeeeeddddddddddddddd
+Zeeeeeeeeeeddddddddddddd
+Zeeeeeeee@======@ddddddd
+Zeeeeeeee@eeeeee@ddddddd
+Zeeeeeeee@e'?
+e@ddddddd
+Zeeee===
+@e']
+===ddd
+Zeeee
+Zeeee
+==\\\\\\\\\\==
+Zeeee
+Zeeee
+Zeeee
+Zeeee<
+Y										Y
+<eed
+Zeeeee=
+<<<<<<<<<<
+=eeee
+Zee0Seee[@eeeeee@[eeeeee
+See[@eeeeee@[eeeeee
+Se[@cccccc@[eeeeee
+R[Ecccccc@[eeeeee
+IZ@=====@[eeeeee
+3KN::::75
+Seeeeeeeeeeeeee
+&("#
+eeeeeeeeeeeeeZ
+&(*,+" 
+QeeeeeeeeeeZXEE
+IeeeeeeeeeB@@@@E
+QeeeeeeeeeeUdd^E@
+QeeeeeeeeeeeXe`X
+QeeeeeeeeeeeeX^X
+Zee/Qeeeeeeeeeeee`UU
+Zeeeeeeeeeeeeeeee[EB
+ZZZZZZZZZZZZZZZZZX
+........34
+))))
+5555&55
+!555&55
+(&&&55
+ 5555+*
+ 5555
+ 55555%.
+%5555555&
+%%%%%%%%
+eee~
+wwxo
+wwwwx
+wwwwx
+wwwwx
+wwwwxw
+wwwwww
+wwwwww
+wwww
+#......----------------
+#......----------------
+#.......---------------
+#.........-------------
+#...........-----------
+#.......
+-------
+#.......
+......
+-------
+#.......
+-------
+#...
+#...
+#...
+%%%%%%%%%%
+#...
+#...
+#...
+#...
+"										"
+#....
+....
+#......$
+......
+$......
+#......$
+......
+$......
+#......$
+,,,,,,
+$......
+#......$
+,,,,,,
+$......
+#......$
+$.....#
+#..................#!
+#................
+#................
+#................!.)!
+#................!'!
+#...............)
+#...............$
+################!
+				
+""""
+""""
+""""""""
+"""""""
+"""""""
+"""""""
+eee~

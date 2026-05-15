@@ -1,0 +1,345 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+RSDSHM
+relog.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+QPWS
+PQQWh
+PQWS
+_^[]
+QSVW
+tQf9
+uPRV
+t+hX
+SWj [+
+_j	^
+j0Xf9
+jW[+
+PVh|
+h0y@
+Pj(V
+Pj)V
+u	VVh
+SVW3
+t*P3
+@tB9
+SVh5
+YYj#^
+YY^[
+7F;u
+	|&j
+YYt+h
+QPQ3
+ t(9
+YYj ^
+uB9E
+WRPh
+t19]
+SjPj
+t)WP
+SVW3
+t=hX
++j*V
+WPj!W
+Pj(W
+Pj	Z
+Pj)W
+Pj	Z
+hPy@
+RWVQP
+SVW3
+Pj!Q
+|$,9
+D$ PV
+#D$$
+D$,h
+D$,YY
+;D$(~
+D$0P
+D$<P
+D$xP
+D$xP
+u>95@
+n95@
+D$L;
+D$T;
+D$`3
+D$8P
+D$xP
+D$LP
+D$xP
+D$TP
+_^[3
+f97u
+SVhD
+;tGf
+hSVW
+PQVW
+QPVW
+t+S9E
+t+S9E
+h@w@
+hpy@
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+wcschr
+_wcsicmp
+fwprintf
+_wtoi
+_wcsnicmp
+_wsplitpath_s
+_wfopen
+wprintf
+_wcslwr
+fgetws
+_wmakepath_s
+wcsstr
+_vsnwprintf
+wcstod
+wcsncmp
+wcstok
+fclose
+_getmbcp
+exit
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+FindFirstFileW
+FreeLibrary
+HeapAlloc
+SystemTimeToFileTime
+SetConsoleTextAttribute
+HeapFree
+StringFromGUID2
+GetModuleHandleW
+GetProcessHeap
+SetThreadUILanguage
+LoadStringW
+ReadConsoleW
+WriteFile
+WideCharToMultiByte
+RegQueryValueExW
+LoadLibraryW
+GetConsoleMode
+GetLocaleInfoW
+CopyFileW
+FormatMessageW
+VerQueryValueW
+GetFileVersionInfoSizeExW
+SetConsoleMode
+WriteConsoleW
+FileTimeToSystemTime
+ReadFile
+GetModuleFileNameW
+CreateFileW
+UuidCreate
+MultiByteToWideChar
+GetTempPathW
+GetConsoleOutputCP
+GetStdHandle
+GetLastError
+FindClose
+GetFileVersionInfoExW
+GetConsoleScreenBufferInfo
+GetFileType
+RegOpenKeyExW
+HeapSetInformation
+FindNextFileW
+CloseHandle
+DeleteFileW
+RegCloseKey
+LocalFree
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-file-l2-1-2.dll
+api-ms-win-core-version-l1-1-0.dll
+RPCRT4.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+PdhCloseLog
+PdhExpandWildCardPathHW
+PdhAddCounterW
+PdhEnumObjectItemsHW
+PdhGetDataSourceTimeRangeH
+PdhEnumObjectsHW
+PdhValidatePathExW
+PdhBindInputDataSourceW
+PdhParseCounterPathW
+PdhMakeCounterPathW
+PdhOpenQueryH
+PdhEnumMachinesHW
+pdh.dll
+PdhRelogW
+PdhGetLogFileTypeW
+_ftol2
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Diagnosis.ReLog"
+    type="win32"
+<description>Performance Relogging Utility</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+0P0T0t6x6
+<-<C<j<q<~<
+=%=]=z=
+=c>j>
+>&?I?d?r?|?
+&0.090?0L0
+101y1
+2$2*242@2L2X2c2
+3'3,353@3E3N3Y3l3w3~3
+4"4(4G4d4x4
+5 5%535?5D5Q5V5`5s5
+656J6Y6p6
+7"7:7
+8O8l8t8
+;];d;
+>@>f>
+	0^0
+1)202n2
+3'3<3P3i3p3
+4J4N4R4V4Z4^4b4f4j4n4
+4A5H5O5T5k5|5
+6$656<6A6\6b6g6t6y6
+747W7]7d7u7
+8!8H8
+8A:O;T;x;
+<5=\=a=
+>!>S>^>
+?A?I?W?c?p?
+0'080?0D0c0p0y0
+1#171E1R1s1x1
+2)2.2@2E2m2
+3"373X3^3i3r3x3~3
+4 4T4d4l4
+5/5?5H5N5S5h5m5y5
+696b6~6
+7,7=7\7x7
+8`8p8
+9%9/979I9^9f9w9
+9":,:k:
+;R;|;
+<*<7<><Z<a<p<
+=$=D=f=
+>A>_>m>}>
+?M?R?k?q?
+0O0t0
+2A2e2
+3!3c3j3r3
+3	4@4R4k4
+5&545M5
+757F7[8
+9#939d9k9q9
+:N:_:x:
+;E;};
+<"<*<`<~<
+<+=h=m=
+>4>;>N>e>y>
+?$?-?M?m?z?
+0M0S0
+0!121T1Z1
+2 2<2R2p2w2
+243<3C3e3
+4E4\4
+5!5(575>5I5P5[5b5
+5`6u6|6
+717F7M7`7g7
+8)808S8
+8	9L9S9
+:&:G:
+;6;=;Y;`;
+=#=7=c=
+>V>]>k>r>
+?,?3?F?M?^?e?s?z?
+0 0)030?0E0L0U0[0c0i0v0~0
+1"141<1A1F1h1n1u1z1
+2"2(21262S2v2
+3%3,333:3A3H3O3W3_3g3s3|3
+3I4a4g4v4
+7(707T7b7m7
+7	8&8h8
+9$9(9D9H9d9h9
+001p1

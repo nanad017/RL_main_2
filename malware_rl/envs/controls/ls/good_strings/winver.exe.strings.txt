@@ -1,0 +1,486 @@
+!This program cannot be run in DOS mode.
+Riche
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+D$PH
+H9|$0
+T$0H
+T$8H
+\$(L
+D$ fA
+f99t
+T$P3
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L9=|!
+L$ f
+: wxfD9:t
+D$ H
+A_A^A\
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+RSDS@=;
+winver.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+GetDateFormatW
+GetModuleHandleW
+GetTimeFormatW
+FileTimeToSystemTime
+HeapSetInformation
+FileTimeToLocalFileTime
+KERNEL32.dll
+LoadStringW
+USER32.dll
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+?terminate@@YAXXZ
+msvcrt.dll
+Sleep
+GetStartupInfoW
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+ShellAboutW
+SHELL32.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    name="Microsoft.Windows.Shell.winver"
+    processorArchitecture="amd64"
+    version="5.1.0.0"
+    type="win32"/>
+<description>Windows Shell</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="*"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+<application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+        <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+</application>
+</assembly>
+wwwwwwwwwwwwwwwwwwwww
+gvwwwwwwx
+wgzv
+~wgzv
+ggzw
+vwhh
+wv~vw
+f~wgv
+~wg~wg~w
+ggggg
+whgvwvwh
+xgghg
+h~wggz
+w~x~xx
+hgvwv
+~xnwh
+~vwgwho
+wwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwx
+vwvww
+ggwh
+hhgg~
+gghgg
+~v~w
+xvwgv
+wwwwwwwwwwwwwx
+wxww
+wxww
+gwwo
+~xho
+vwho
+wwww
+wxww
+xwxwxx
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj
+~~~~~z~zzzzzzzzzzzzzzz
+vvvvvvvvvvvvvvzvvvv~zz~zzzzzwzwzvzvz
+knnnnnnnnnnnnnnnnnkv~z~zzzzzzzzxzxxxx
+nGGHHH
+nv~zsssssssszxzzzzx
+nGGGHH
+nv~~~~~~~z~zzzzxzxy
+n..GGHHH
+nv~~ssssssss{zzzyyy
+n...GGHHH
+nv~~~~~~~~~{{zzzzyz
+n+....HGHHHH
+ssssssst~{{zzyy
+n++....G.HHH
+~~~~{~{{{{
+n!!+....HGHHHH
+ssssstts~{~{{{{
+n!!++.....HHHHHH
+~~~~~~{~{{
+!!!++....GGHHH
+dopo
+!!""....-HHHH
+dpoo
+!!"".....HHHHnv
+ssssssss
+cdpo
+"""+....G-Hnv
+bcdp
+""""..-.-Gnv
+ssssssss
+ibcd
+"""...-.nv
+gibc
+n__[*
+""""..-nv
+ssssssss
+fgib
+nU_[_[D
+!""".+nv
+eggi
+nOTUTU[[ED'
+"""+nv
+ssssssss
+[efg
+nCODOSSSWWWWXWLWaanv
+U[ef
+n;;>D;DDDEESLWLLLLnv
+ssssssss
+OU^e
+;;:::3***3444nv
+OOU[
+'''*"31nv
+ssssssss
+NNOZ
+NNNO
+mnnnnnnnnnnnnnnnnnm
+ssssssss
+ONNO
+jurrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrruj
+juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuj
+juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+J>>>>>>>>>>>>>>>>ACA>>>>>>>>>G
+>S]]]]]]]]]]]]]]]]]]]]]]]]]]]>
+>S]]a]aaa]]]]]]a```____R_R_U]>
+>_]]QQQQQQRQRQQQ_``__STTRRRR]>
+>\]FIIIIIIIIIIFQ`LLLLLL_TRRR]>
+>_]I$$$
+IQ```a\a_`_URR]>
+>\]I
+$$$$
+IQ^LLLLLL___RR]>
+>_]I
+	IQ`_``a\a\_SRU]>
+>\]I
+$$$$
+IQ````ca\a__a]]>
+>_]I
+IQ`LLLLLL\]a_a]>
+>S]I
+$$$IQ````aca_a\]_]>
+>_]I
+$$IQ`LLLLLL]`
+>_WI
+IQ``_`a\a`a
+>S]I5
+IQ`LLLLLLa\$
+>_]IE=,
+IQ``````a\a
+$a]>
+>_]I66;;80-&&7IQ`LLLLLL`\
+>]]I11255880::IQ`````a\ac
+C]]I****,+...-IQ`LLLLLLca
+C]]I
+  ""IQ````aca\c
+C]]HIIIIIIIIIIH]aLLLLLLa\
+C]]]]]]]]]]]]]]]]]]]]]]]]]]]]>
+C_]a`a]]ac]a]a]a]a`a\a\a\ac]]>
+DKLKKKLKKLKKKKLKLKLKLMKKKKLKL>
+APOOOOOOOOOOOOOOOOOOOOO
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>J
+*(((((((((((((((((((()
+(55554444444141411111(
+(55554444222222111111(
+(555442424240,,,22111(
+(55$%
+4444422211(
+(55##$
+40+,,41221(
+4444414122(
+##!$
+4444422222(
+##%$
+40+,,4
+#!$444444
+#!40,,,2
+(55	
+#444444
+40+,,4
+444444
+50,,,3
+(55555555555555554444(
+(--------------,-,,.,(
+'//////////////
++((((((((((((((((((((*
+    
+!    
+     
+IHDR
+IDATx
+'$$D
+;kTE
+CB@@
+!i"M
+;>:f
+4D]~bS
+Z	)z=
+yS>"
+eJlW
+"~_"
+f8E*
+fVT\V
+YsEE
+[SOB
+K2|o%
+/ 1/_p
+&HqE
+	1|O
+4.D~
+k0d0,
+y,NNNp||
+%+3A
+|o\O
+u[Rl
+x?@~
+G6?s
+cO~D
+a|d*
+\cOq
+$TaX
+W4Zg
+n[iHm
+myk}:^
+#o376$\
+u@	B
+' %yl
+}B}+
+@~!d
+	B+\M
+kI:|.
+Rgg$oX
+501/,
+9K{LG
+8tcj
+{b[zuc
+bp8@
+@Zms<
+thbG
+"P}}`
+ i"P
+M ^wD
+x)j4
+|PN[
+j_H5d
+H~@I
+vT73
+cK||
+LR4t
+YMK4
+K|h`
+2E@~
+ Umf
+yLyzX
+3;eH&Q
+om5f	,
+N=Zxl
+Ss`c
+nXK|t
+(~y7F9m
+Id'`
+YAHlo
+yOm5$+R
+y["O%xL-
+^<TWl^#
+@pW_Ol 
+7V['L
+}mL<^
+I~V&
+gqcu
+n!qr
+Wq/<y
+h/L;~
+pV!}\
+IDAT=
+3<8=e
+1O'8y
+I@Ftu
+Y}ca
+~o~2
+SYan;
+8D8	
+=]R'+
+QXr8
+n[)%P
+iK|c
+_2Oq
+0I'(
+"0qy
+Wy% 
+}l#%
+}xW_
+ {~`B
+{%?)
+SR3`n
+FJ~O
+2L=$
+{5 h
+q7_J
+	sIh
+Qjbo_
+H)5y
+H@h/
+Rz. 
+I9n;y
+\>Li
+ G#^
+(~L^E
+1H)/
+?%>e
+K|)F
+\=ZB
+OYd@J
+dp20
+2`"dO
+Xp5)
+xBP.
+ I$O
+T!c%?
+W!A;
+x?Tw
+2RH77aK
+A#:5 I
+[f+0
+h %$]j
+5d7{
+)lE3
+Q}^_
+H~E|a
+wqts
+	@ZN
+4b^vly
+K$ZyT
+O%~hlM
+?cH@
+2t)Qn
+gggX
+6\:lt
+4BtF
+J26M
++J;C
+hkhknJ
+]Kr#
+M59(
+*VN(
+ J)D#
+$Z	) 
+Dw4R
+[Rv+
+?Z	,
+RQQq
+{lJEE
+[T#PQq
+IEND
+xtrE

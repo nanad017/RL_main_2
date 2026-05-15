@@ -1,6 +1,6 @@
 # Reproduce On A New Machine (No Malware/Dataset Download)
 
-Muc tieu: chi `git clone` repo, tao moi truong Python 3.7 va tai cac file cong khai can thiet (Ember model, UPX, benign trusted/good_strings). Khong tai malware samples/dataset.
+Muc tieu: chi `git clone` repo, tao moi truong Python 3.7 va tai cac file cong khai can thiet cho model. Khong tai malware samples/dataset. Cac artefact tuy chon nhu `upx`, `good_strings`, `trusted` sample de trong cau truc thu muc de bo sung sau.
 
 ## 1. Yeu cau tren may moi
 
@@ -26,13 +26,16 @@ source .venv37_clean/bin/activate
 - Tai:
   - `malware_rl/envs/utils/ember_model.txt`
   - `malware_rl/envs/utils/lgb_ember_model.txt` (copy tu ember model)
-  - `malware_rl/envs/controls/upx`
-  - `malware_rl/envs/controls/trusted/xournalpp-1.0.18-windows.exe`
-  - `malware_rl/envs/controls/good_strings/xournal-strings.txt`
+ - Tao cau truc thu muc rong:
+   - `malware_rl/envs/controls/trusted/`
+   - `malware_rl/envs/controls/good_strings/`
+   - `malware_rl/envs/utils/samples/`
 
 ## 4. Khong tai dataset
 
 Script KHONG chay `download_deps.py --accept`, vi lenh do se tai malware samples.
+
+Script cung KHONG tai `upx`, trusted PE hay `good_strings`. Neu can, ban tu bo sung sau.
 
 ## 5. Push cai gi
 

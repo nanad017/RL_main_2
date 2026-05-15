@@ -1,0 +1,637 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+@UAVAWH
+l$ H
+A_A^]
+l$ H
+VWAVH
+|$PH
+D$PH
+T$PH
+t$PM
+HH9>
+l$`H
+0A^_^
+\$0H
+t$8H
+UVWH
+D$HE3
+D$PH
+D$XH
+D$`H
+D$`H
+L$HH
+L$`H
+T$pH
+L$HH
+D$8L
+L$@H
+D$pH
+L$HH
+L$HH
+WATAUAVAWH
+f9|E
+fA9<Ou
+I9>t
+l$XH
+t$`H
+ A_A^A]A\_
+@UATAUAVAWH
+l$0H
+G8,7
+F8,>u
+|$(A
+t$ 3
+e A_A^A]A\]
+x ATAVAWH
+fD;1
+fD;9
+fD;0tpH
+fD;9u
+fD;8u[H
+fD;9u	
+H;3r
+fD;0tqfD
+s)H;
+H;3r
+fD;0u
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+@UATAUAVAWH
+l$0H
+M8E3
+M E3
+~vE3
+l$(L
+d$ H
+$t|fD9
+tJfE9U
+fE9U
+H;}(t
+D$(A
+L$ E3
+M@H3
+ePA_A^A]A\]
+>=uYH
+\$0H
+l$8H
+t$@H
+UVWATAUAVAWH
+D$0M
+\$ A9]
+T$@J
+D$ I
+D$ A;E
+OfA9
+I97tCI
+d$0I
+A_A^A]A\_^]
+WATAUAVAWH
+|$0L
+?fE;/
+l$ L
+y)E3
+l$ H
+fD;)
+A_A^A]A\_
+@USVWH
+l$`H
+T$ H
+D$ E3
+D$ E3
+D$ E3
+D$@E3
+D$8E3
+T$ H
+D$ E3
+D$ E3
+}0E3
+D$XE3
+D$P3
+D$HH
+D$@H
+D$8H
+D$0H
+L$XH
+L$PE3
+L$HE3
+L$@3
+D$8H
+L$0H
+L$(H
+T$8L
+T$0H
+T$(H
+>{uU
+T$XE3
+T$PE3
+T$HH
+T$@H
+T$8H
+T$0H
+xJ9U
+9UHt
+T$ H
+_^[]
+UAVAWH
+|$8A
+L$@H
+L$@D
+|$pH
+L$pH
+T$pH
+T$pH
+D9|$8~5I
+D$0H
+D;t$8|
+L$@D
+D8|$ht
+L$@D
+A_A^]
+\$0H
+UVWATAUAVAWH
+D$ E
+t4D9.u
+7D9.u
+PA_A^A]A\_^]
+UVWH
+T$0H
+D$0H
+L$0H
+D$(H
+D$0H+
+D$ H
+D$ H+
+SVWH
+\$XH
+T$PH
+\$XH
+T$PH
+\$XH
+0_^[
+x UH
+L$8L
+D$0L
+|$0L
+\$8L
+|$@H
+D$@E3
+D$(E3
+|$ H
+L9|$@
+\$8H
+T$0H
+\$PH
+t$PfD9|$Pt2H
+fD98u
+D$PH+
+T$0H
+L$@D
+\$8H
+t:9k
+HH9/u
+l$ H
+L$(D
+T$ D
+T$ H
+T$ H
+tF@8-
+\$`H
+l$hH
+t$pH
+x ATAVAWH
+1A90u>A9p
+Fu$H
+t$PH
+l$HH
+|$XH
+ A_A^A\
+t&A9
+\$0H
+l$8H
+t$@H
+tDf93t?H
+\$0H
+t$8H
+p UH
+D$X3
+t$XE3
+D$ H
+|$XH
+D$PD
+T$PH
+D$pH
+D$@E3
+D$`H
+t$`H
+D$8E3
+t$0H
+\$`D
+D$(N
+t$ H
+D$tH
+t$hH
+D$@E3
+D$hE3
+D$8I
+t$0H
+L$PH
+f94Au
+D$(E3
+L$ 3
+D$0A
+|$8E3
+|$@H
+|$HH
+|$0H
+\$0H
+L$R3
+\$8A
+D$0H
+T$0H
+\$8H
+l$ VWAVH
+D$ M
+D$$A
+L$(H3
+\$XH
+l$hH
+0A^_^
+HH9>
+HH9>u
+x AWH
+D$PL
+l$@E3
+l$8E3
+D$PH
+D$PH
+l$PH
+D$(L
+l$ 3
+L$XE3
+HH9+u
+|$PH
+WATAUAVAWH
+D8g8t
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+@8y(t
+\$0H
+t$ WATAUAVAWH
+D8g8t
+\$XH
+l$`H
+t$hH
+ A_A^A]A\_
+\$8H
+L$ M
+\$@H
+D$(H
+T$ H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L$ f
+: wxfD9:t
+D9=p?
+D$ H
+A_A^A\
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+l$8H
+t$@H
+|$HH
+OLEAUT32.dll
+ext-ms-win-rtcore-ntuser-window-ext-l1-1-0.dll
+RegDeleteKeyExW
+RegDeleteKeyW
+UnRegisterTypeLib
+&g@g
+RSDS
+upnpcont.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+%'t>
+DispatchMessageW
+PostThreadMessageW
+GetMessageW
+DestroyWindow
+_wcsicmp
+free
+malloc
+_beginthreadex
+wcscat_s
+realloc
+wcscpy_s
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+EtwTraceMessage
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+GetFullPathNameW
+GetCommandLineW
+CoCreateInstance
+VirtualQuery
+FindResourceExW
+FreeLibrary
+LoadResource
+CoUninitialize
+LoadLibraryExW
+CoTaskMemRealloc
+WaitForSingleObject
+SetEvent
+GetModuleHandleW
+RegCreateKeyExW
+CoSuspendClassObjects
+InitializeCriticalSection
+RegQueryInfoKeyW
+CoInitializeSecurity
+SizeofResource
+GetVersionExW
+HeapDestroy
+LeaveCriticalSection
+GetModuleFileNameW
+MultiByteToWideChar
+GetLastError
+GetProcAddress
+RegDeleteValueW
+VirtualAlloc
+EnterCriticalSection
+CharPrevW
+CoTaskMemFree
+CreateEventW
+RegEnumValueW
+RegOpenKeyExW
+GetSystemInfo
+CoTaskMemAlloc
+HeapSetInformation
+CoInitializeEx
+CharNextW
+VirtualProtect
+CoRevokeClassObject
+CoRegisterClassObject
+RegEnumKeyExW
+DeleteCriticalSection
+GetCurrentThreadId
+CloseHandle
+RegCloseKey
+RegSetValueExW
+CoResumeClassObjects
+Sleep
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+lstrcpynW
+lstrcmpiW
+lstrcpyW
+api-ms-win-core-string-obsolete-l1-1-0.dll
+ExitProcess
+OpenProcess
+CreateThread
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+UnregisterWait
+RegisterWaitForSingleObject
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+memcmp
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+  <assemblyIdentity version="1.0.0.0" processorArchitecture="amd64" name="Microsoft-Windows-UPnPCont" type="win32"/> 
+  <description>UPnP container</description> 
+  <!-- Identify the application security requirements. -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+1 TYPELIB "upnphost.tlb"
+MSFT
+^.I@DB
+(-$"qW
+stdole2.tlbWWW
+UPnPHostLibW
+IUPnPEventSinkWW
+OnStateChangedWW
+cChanges
+	rgdispidChangesW
+OnStateChangedSafeWW
+|hvarsadispidChangesWWd
+IUPnPEventSourced
+pAdviseWW
+MOpesSubscriberWWWd
+Unadvise
+IUPnPRegistrarWW
+RegisterDeviceWW
+bstrXMLDescW
+cbstrProgIDDeviceControlClass
+bstrInitStringWW
+bstrContainerIdW
+dbstrResourcePath
+nLifeTimeWWW
+pbstrDeviceIdentifierWWW
+mRegisterRunningDeviceWWW
+punkDeviceControlWWW
+RegisterDeviceProviderWW
+bstrProviderName
+hbstrProgIDProviderClassW
+GetUniqueDeviceNameW
+bstrDeviceIdentifier
+bstrTemplateUDNW
+pbstrUDN
+|pUnregisterDevice
+sfPermanentWW
+zLUnregisterDeviceProvider,
+IUPnPReregistrar,
+rReregisterDevice,
+!9ReregisterRunningDeviceW
+IUPnPDeviceControlWW
+NInitializeWW
+~GetServiceObject
+bstrUDNW
+bstrServiceIdWWW
+ppdispServiceWWW
+kIUPnPDeviceControlHttpHeadersWWW
++GetAdditionalResponseHeaders
+bstrHttpResponseHeadersWX
+8_tIUPnPDeviceProviderWX
+StartWWWX
+4Stop
+CIUPnPRemoteEndpointInfoW
+GetDwordValueWWW
+bstrValueNameWWW
+a9pdwValue
+weGetStringValueWW
+pbstrValueWW
+GetGuidValue
+tpguidValueWW 
+UPnPRegistrarWWW
+UPnPRemoteEndpointInfoWW#
+UPnP 1.0 Type Library (Device Host)WWW
+method OnStateChangedW
+method OnStateChangedSafeW
+method AdviseW
+method UnadviseWWW
+HKCR
+        NoRemove CLSID
+        {
+                ForceRemove {6d8ff8e8-730d-11d4-bf42-00b0d0118b56} = s 'UPnPContainer64'
+                {
+                        LocalServer32 = s '%MODULE%'
+                        {
+                                val ThreadingModel = s 'Free'
+                        }
+                        val AppID = s '{6d8ff8e8-730d-11d4-bf42-00b0d0118b56}'
+                }
+        }
+HKCR
+        NoRemove AppID
+        {
+                {4F0AC159-5804-4aa7-AE91-117D6E67BB9B} = s 'upnpcont'
+                'upnpcont.exe'
+                {
+                        val AppID = s {4F0AC159-5804-4aa7-AE91-117D6E67BB9B}
+                }
+        }

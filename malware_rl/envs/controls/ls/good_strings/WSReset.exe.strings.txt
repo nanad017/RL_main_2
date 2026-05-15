@@ -1,0 +1,176 @@
+!This program cannot be run in DOS mode.
+Richw
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+D$ p
+L$$D
+D$8H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+Reset
+RSDSgY
+WSReset.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+FreeLibrary
+LoadLibraryW
+GetProcAddress
+KERNEL32.dll
+_wcsicmp
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+ShellExecuteExW
+SHELL32.dll
+EvtClearLog
+wevtapi.dll
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+memset
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly
+    xmlns="urn:schemas-microsoft-com:asm.v1"
+    xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"
+    manifestVersion="1.0">
+<assemblyIdentity
+    name="Microsoft.Windows.EndUser.WSReset"
+    processorArchitecture="amd64"
+    version="5.1.0.0"
+    type="win32"/>
+<description>WSReset</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+  <security>
+    <requestedPrivileges>
+      <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"
+          />
+    </requestedPrivileges>
+  </security>
+</trustInfo>
+</assembly>
+IHDR
+sRGB
+gAMA
+	pHYs
+;IDATx^
+]szY
+Y|dq
+v-U;>
+GZrd
+"XV7di
+X}\N
+a{V2
+W^V[sb
+V}'~
+w6b3
+79pT|d
+\|d}
+dL_|
++>&K
+2N`M
+P9`$
+RO4LG#W
+ I*W
+cm[j7
+6>12
+?+NJ
+|euU
+{>zWh!ium
+ &<b
+_puU|
+I.HO!^
+3YS<
+h],G
+4{r]
+U'MS
+h],G
+4{r]
+~rh;
+V+RLd]
+<Wmxw
+=5N-8
+ 'Gw|
+,2dj
+eo,k
+=nl>
+IEND

@@ -1,0 +1,513 @@
+!This program cannot be run in DOS mode.
+Rich%R
+.text
+`.data
+.idata
+@.didat
+.rsrc
+@.reloc
+USER32.dll
+SHLWAPI.dll
+SHELL32.dll
+ Failed to allocate memory for interactive SID
+CheckUserToken
+Failed to create interactive SID [%d]
+Failed to determine if user is interactive [%d]
+Failed to get process window station [%d]
+CheckWindowStation
+Failed to get required buffer size [%d]
+Failed to allocate %d bytes for window station name
+Failed to get user object information [%d]
+Apphelp UI will not be shown; window station: %ls
+Apphelp UI will be shown; running in interactive window station
+0x%lx Failed to convert '%ls' to GUID
+ShowApphelpDialog
+Apphelp disabled for '%ls'
+Not displaying UI for '%ls
+Failed to retrieve module handle for PCA helper
+DisplayApphelpDialog
+f+S?
+pcaui
+0x%08X Failed to determine argument length
+StoreArgument
+Failed to allocate argument
+Failed to store command-line argument
+Failed to obtain command-line
+ParseCommandLine
+Failed to store app name argument
+Failed to parse block type argument
+Failed to store block type
+Invalid block type
+Failed to parse executable path argument
+Failed to store executable path
+Failed to prase FWLink id argument
+Failed to parse database GUID argument
+Failed to store database GUID
+Failed to parse KB Article argument
+Failed to parse App StoreId argument
+Failed to store App StoreId argument
+Failed to parse summary argument
+Failed to store summary argument
+Failed to store URL argument
+Failed to store vendor name argument
+Failed to parse executable GUID argument
+Failed to store executable GUID
+Invalid database GUID specified
+ValidateApphelpData
+Invalid executable GUID specified
+Invalid application name specified
+Invalid vendor name specified
+Invalid problem details specified
+No command-line arguments specified
+wWinMain
+Failed to parse command-line arguments
+Failed to validate command-line arguments
+No ADS found for reinstall_upgrade apphelp
+HandleApphelpMessageEvent failed [%x]
+An unhandled block type for toast was encountered (block type: %d)
+_ShowBlockMessageWithToast
+_CreateAndDisplayToastMessage
+_FormatApplicationBlockToastText failed to format toast text.
+Windows::Foundation::Initialize failed [%x]
+GetActivationFactory failed for ToastNotificationManager [%x]
+No data to format Uri.
+Failed to format the Toast Uri [%x]
+Failed to create protocol toast xml [%x]
+Failed to display toast [%x]
+No URI specified for toast.
+_CreateProtocolToastXml
+Failed to get Toast template [%x]
+Failed to find text elements in toast xml [%x]
+Failed to get text node count of toast xml [%x]
+Failed to get 1st text node [%x]
+Failed to set text for 1st text node [%x]
+Failed to get 2nd text node [%x]
+Failed to set text for 2nd text node [%x]
+Failed to find binding element in toast xml [%x]
+Failed to find root element as node 0 [%x]
+Failed to get attributes on binding element [%x]
+Failed to get template attribute node from attribute map [%x]
+Failed to convert template attribute from node [%x]
+Failed to set template attribute value [%x]
+Failed to find root element as node list [%x]
+Failed to add launch attribute [%x]
+Failed to add activationType attribute [%x]
+Failed to get attributes for node [%x]
+_AddAttribute
+Failed to create new attribute [%x]
+Failed to set the value for new attribute [%x]
+Failed to get new attribute as a node [%x]
+Failed to add new attribute to parent node [%x]
+Failed to create toast notifier [%x]
+_ShowNotificationToast
+Failed to create ToastNotification factory [%x]
+Failed to create toast [%x]
+Failed to show toast [%x]
+CreateTextNode failed [%x]
+_SetNodeValueString
+Failed to get IXmlNode from IXmlText [%x]
+Failed to append child IXmlNode [%x]
+_ShellConstructToastMessageString failed to format TitleText (id: %d)
+_FormatApplicationBlockToastText
+_ShellConstructToastMessageString failed to format DetailsText (id: %d)
+_ShellConstructToastMessageString failed to format HeaderText (id: %d)
+PRINT
+ERROR
+MARK
+TRACE
+%s,%s,%d,
+ASL_LOG FAIL: 
+Message too long!
+EventSetInformation
+Simple
+Metric
+Message
+Out of memory
+AslTelemetryCreate
+ERROR#%s#%d
+Failed to query key value [%x]
+AslRegistryGetUInt32_UStr
+Invalid value type
+RtlInitUnicodeStringEx failed [%x]
+AslRegistryGetUInt32
+Failed to allocate %d bytes for user key buffer
+AslRegistryBuildMachinePath
+AslRegistryBuildMachinePath failed for %ws [%x]
+AslRegistryGetKey
+NtOpenKey failed for %ws [%x]
+ETW0
+TelemetryClient
+BinFileVersion
+ChannelName
+CorrelationVectors
+Types
+Names
+Counts
+Metrics
+Messages
+Microsoft.Windows.AppHelp.Dialog
+.	}$9
+Microsoft.Windows.Compatibility.Asl
+RSDS
+pcaui.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.didat$5
+.rsrc$01
+.rsrc$02
+u$WSQ
+Vj2^
+tAWh
+SVWjD_Wj
+jHh@
+jSh@
+j\h@
+SVW3
+j<Zf;
+SPhP
+QQSVW
+jIhT
+jShT
+jZhT
+SSWS
+_^[3
+t!Rh
+ylWh
+Pj1h
+y-WhH
+PPSh
+PPSh
+O PVS
+PPSh
+PPSh
+PPSh
+WhH @
+Whl @
+K$PWV
+h8 @
+Wh0!@
+Pj*h
+Whp!@
+hX!@
+OXPVS
+Wh4"@
+u$Wh`"@
+u"jgh
+SVW3
+PVVWh
+QQV3
+QQVW3
+s);~
+PSSh
+PSh 
+>#F;
+QhH$@
+hL$@
+hX$@
+hp$@
+Pu$j
+rS;N
+Su;j
+t;Sj
+QQS3
+h0%@
+jxh@%@
+wHh_#@
+Ph_#@
+D$p3
+D$@3
+D$(3
+h\%@
+h\%@
+9{pvX
+ChG;{pr
+_^[3
+4SVW
+j	Y3
+D$ d
+FH@Pj
+L$ Q
+D$(d
+D$4d
+L$4Q
+D$$r;
+SVWj
+h`%@
+t j]W
+QQSV
+QQSV
+Pj$Zj@Y
+tOVhx%@
+QQSVWh
+QQVWh
+Ph(&@
+hX&@
+$SVW
+y!Vh
+ht&@
+QRPh
+h0u@
+j\hx~@
+XPQj
+8csm
+_^[]
+Y_^[
+Y_^[
+h0s@
+Y__^[
+QRPh
+QRPh<
+Y__^[
+GetUserObjectInformationW
+GetProcessWindowStation
+CloseWindowStation
+LoadStringW
+PathAppendW
+CommandLineToArgvW
+CheckTokenMembership
+CreateWellKnownSid
+ADVAPI32.dll
+FreeLibrary
+GetSystemDirectoryW
+LoadLibraryW
+GetLastError
+GetProcAddress
+GetTickCount64
+ProcessIdToSessionId
+HeapSetInformation
+GetCurrentProcessId
+LocalFree
+FormatMessageW
+RaiseException
+KERNEL32.dll
+_wcsicmp
+_wcsnicmp
+wcstoul
+_wtoi
+_vsnwprintf
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+_wcmdln
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+RtlFreeHeap
+RtlInitUnicodeString
+RtlGUIDFromString
+RtlAllocateHeap
+ntdll.dll
+WindowsDeleteString
+WindowsCreateStringReference
+RoGetActivationFactory
+RoInitialize
+RoUninitialize
+Sleep
+GetStartupInfoW
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+SdbIsNullGUID
+SdbSetEntryFlags
+SdbGetEntryFlags
+apphelp.dll
+WriteFile
+GetModuleFileNameW
+CreateFileW
+SetLastError
+OutputDebugStringA
+CloseHandle
+DebugBreak
+GetModuleHandleExW
+EventWriteTransfer
+EventUnregister
+EventRegister
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+memmove
+wcsrchr
+_vsnprintf
+sprintf_s
+strchr
+strcpy_s
+RtlEnterCriticalSection
+EtwEventRegister
+RtlReAllocateHeap
+ZwClose
+EtwEventUnregister
+RtlDeleteCriticalSection
+RtlLeaveCriticalSection
+RtlInitializeCriticalSection
+EtwEventWrite
+RtlInitAnsiString
+RtlEqualString
+ZwOpenKey
+RtlInitUnicodeStringEx
+ZwQueryValueKey
+RtlAppendUnicodeStringToString
+RtlAppendUnicodeToString
+__CxxFrameHandler3
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Program.Compatibility.Assistant.UI"
+    type="win32"
+<description>Program Compatibility Assistant</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="x86"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+  <asmv3:application>
+    <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+      <dpiAware>true</dpiAware>
+    </asmv3:windowsSettings>
+  </asmv3:application>
+</assembly>
+4l5p5t5t7x7
+<$=6=>=K=S=]={=
+>!>1>j>u>|>
+?8?D?J?T?t?
+0&000A0W0u0
+071>1
+2$2+2
+3+383F3U3p3z3
+4J4S4]4u4
+5R6Y6
+7$7.7t7{7
+7m8t8
+9L9{9
+:,:;:J:Y:e:q:}:
+; ;$;(;,;0;4;8;
+<J<U<\<s<y<
+=(=6=H=T=^=
+=$>2>
+?i?s?
+181D1N1{1
+2(222<2Z2t2
+2"3.383j3
+4c4v4
+5/5[5m5
+5)636\6k6
+6#757f7u7
+8:8H8S8a8}8
+9,9>9H9s9
+:!:::@:T:r:
+;*;M;e;t;
+<'<^<}<
+=$===C=X=t=
+>:>Y>x>
+?9?H?R?
+0?0]0g0
+011f1
+2-2N2n2
+6,6K6\6o6
+777A7m7
+7)8q8
+9%:2:::
+:];q;
+;J<]<
+=(>f>
+? ?=?B?K?V?]?o?
+0T0_0e0k0q0w0}0
+2@2G2X2
+9Q9f9
+9+;N;
+;5<l<
+=R=`=l=v=
+>$>+>f>k>u>
+?#?2?>?J?V?a?s?
+0 0)030?0E0L0U0[0c0i0v0~0
+1'1>1F1O1T1Y1o1u1|1
+1#2-232=2u2{2
+223H3V3g3o3
+394Q4W4f4r4
+7(707K7Z7e7
+81878=8C8I8O8V8]8d8k8r8y8
+9(9<9H9T9a9~9
+;:<|<
+=4=<=D=L=T=\=d=l=t=|=
+><>D>L>X>

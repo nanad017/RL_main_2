@@ -1,0 +1,1201 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+YHXf
+AUATUWVSE1
+[^_]A\A]
+t$ H
+WVSH
+P[^_
+L$HH
+T$(H
+AUATUWVSH
+H[^_]A\A]
+T$0f
+d$(f
+l$ H
+t$ I
+UWVSH
+X[^_]
+L$HH
+T$(H
+AWAVAUATUWVSH
+D$lE1
+D$0H
+D$hH
+D$8H
+D$tH
+D$@H
+D$pH
+D$HH
+D$|H
+D$PH
+D$xH
+D$Xf
+L$PH
+D$XH
+T$xIc
+T$|A
+[^_]A\A]A^A_
+D$@H
+L$0H
+D$8H
+D$(H
+D$HH
+ZD$hH
+ZL$lf
+ZT$p
+Z\$tA
+t$ I
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+D$`H
+D$XH
+D$8H
+D$0H
+t$(H
+D$XL
+t$(H
+AWAVAUATUWVSH
+HcILA
+D$LH
+HcMLH
+HcULH
+L$LE
+D$(H
+D$pH
+D$xH
+l$hD
+D$$E
+D$(HcP
+9t$$
+D$(Hc
+LcELE
+l$`H
+LcL$H
+T$pH
+d$PH
+D$xH
+HcELIc
+HcEL
+D$$;D$LHcL$H
+[^_]A\A]A^A_
+D$LH
+HcULHc
+T$@H
+HcULIc
+L$0H
+T$8D
+D$ L
+AWAVAUATUWVSH
+L$`H
+T$QA
+T$RA
+HcT$xI
+|$HE1
+[^_]A\A]A^A_
+)t$0
+(t$0
+(t$0
+AWAVAUATUWVSH
+D$HM
+L;L$H
+D$DM
+d$0D
+D$hH
+|$x9|$X
+D$XL
+D$tH
+t$XD
+l$0D
+L$PD
+D$DH
+;\$X
+9D$X
+T$`A
+D9T$D
+l$tL
+l$pL
+9D$X
+T$PD
+*L$p
+D$DA
+9l$`D
+T$PL
+l$DH
+T$PL
+D$X;D$x
+[^_]A\A]A^A_
+L$PD
+D$DH
+T$PL
+T$PH
+L$`H
+D$`D
+T$pD
+T$XL
+9T$`
+9D$X
+D$ A
+AVAUATUWVSH
+)t$0
+)|$@D
+)D$PH
+(t$0
+(|$@D
+(D$PH
+`[^_]A\A]A^
+HcFLf
+HcFLHc
+HcFLIc
+HcFLf
+d$(H
+(t$0H
+(|$@D
+(D$PH
+`[^_]A\A]A^
+D$(H
+ HcJLH
+HcJL
+LcBLM
+LcBLM
+Hc@L
+AVAUATUWVSH
+T$(E1
+D$,H
+d$(A
+Lc[LA
+0[^_]A\A]A^
+HcCT
+D;K\
+D;K`}{A
+t%Hc
+STMc
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+D$ L
+t$dD
+D$(H
+D$ L
+t$@E1
+t$0H
+t$(H
+T$ H
+t$xH
+T$hH
+T$hH
+T$hH
+T$pH
+T$hH
+T$(f
+L$xL
+l$hH
+t$hH
+L$hL
+D$pL
+t$(H
+T$PH
+T$8H
+D$@L
+t$@H
+T$pH
+T$PH
+\$ H
+T$(H
+L$hL
+L$hL
+L$hH
+L$pL
+|$pA
+|$pH
+D$ L
+D$ L
+DGhH
+DOpH
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-Ai
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;5Wf
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+libgcj-16.dll
+_Jv_RegisterClasses
+plug-in-curve-bend
+plug_in_curve_bend_ITER_FROM
+plug_in_curve_bend_ITER_TO
+Save Curve Points to File
+gtk-cancel
+gtk-save
+response
+destroy
+curve_bend.points
+Could not open '%s' for writing: %s
+POINTFILE_CURVE_BEND
+VERSION 1.0
+# points for upper and lower smooth curve (0.0 <= pt <= 1.0)
+# there are upto 17 points where unused points are set to -1
+#       UPPERX     UPPERY      LOWERX    LOWERY
+POINTS
+%s %+.6f  %+.6f   %+.6f  %+.6f
+# y values for upper/lower freehand curve (0 <= y <= 255) 
+# there must be exactly 256 y values 
+#     UPPER_Y  LOWER_Y
+VAL_Y
+%s %3d  %3d
+Load Curve Points from File
+gtk-open
+Could not open '%s' for reading: %s
+Error while reading '%s': %s
+%f %f %f %f
+warnig: BAD points[%d] in file %s are ignored
+%d %d
+warnig: BAD y_vals[%d] in file %s are ignored
+Wolfgang Hofer (hof@hotbot.com)
+This plug-in does bend the active layer If there is a current selection it is copied to floating selection and the curve_bend distortion is done on the floating selection. If work_on_copy parameter is TRUE, the curve_bend distortion is done on a copy of the active layer (or floating selection). The upper and lower edges are bent in shape of 2 spline curves. both (upper and lower) curves are determined by upto 17 points or by 256 Y-Values if curve_type == 1 (freehand mode) If rotation is not 0, the layer is rotated before and rotated back after the bend operation. This enables bending in other directions than vertical. bending usually changes the size of the handled layer. this plugin sets the offsets of the handled layer to keep its center at the same position
+Bend the image using two control curves
+RGB*, GRAY*
+_Curve Bend...
+v1.3.18 (2003/08/26)
+Wolfgang Hofer
+<Image>/Filters/Distorts
+This procedure calculates the modified values for one iterationstep for the call of plug_in_curve_bend
+plug_in_curve_bend_Iterator
+bender_plot_curve xmax:%d ymax:%d
+outline: %d  cX: %d cY: %d
+Error: gimp_drawable_transform_rotate_default call failed
+curve_bend_dummylayer
+p_main_bend  l_tmp_layer_id %d
+p_main_bend rotate: %f
+p_bender_calculate_iter_curve NORMAL1
+p_bender_calculate_iter_curve ITERmode 1
+p_main_bend: l_dst_height:%d
+%s_b
+p_add_layer: cant get new_drawable
+p_main_bend: DONE add layer
+p_main_bend: DONE layer resize
+Curve Bend
+p_main_bend: DONE vertical bend
+p_main_bend: DONE bend main
+gimp20-std-plug-ins
+UTF-8
+BEND_DEBUG
+DEBUG: run %s
+Can operate on layers only (but was called on channel or mask).
+Cannot operate on layers with masks.
+Cannot operate on empty selections.
+curve-bend
+gimp-curve-bend
+gtk-ok
+Preview
+_Preview Once
+clicked
+Automatic pre_view
+toggled
+Options
+Rotat_e:
+value-changed
+Smoo_thing
+_Antialiasing
+Work on cop_y
+Modify Curves
+event
+_Lower
+_Upper
+Curve for Border
+_Free
+Smoot_h
+Curve Type
+_Copy
+Copy the active curve to the other border
+_Mirror
+Mirror the active curve to the other border
+S_wap
+Swap the two curves
+gimp-reset
+Reset the active curve
+Load the curves from a file
+Save the curves to a file
+preview_original
+run-mode
+The run mode { RUN-NONINTERACTIVE (1) }
+total-steps
+total number of steps (# of layers-1 to apply the related plug-in)
+current-step
+current (for linear iterations this is the layerstack position, otherwise some value inbetween)
+len-struct
+length of stored data structure with id is equal to the plug_in  proc_name
+bent-layer
+the handled layer
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+image
+Input image
+drawable
+Input drawable (must be a layer without layermask)
+rotation
+Direction {angle 0 to 360 degree } of the bend effect
+smoothing
+Smoothing { TRUE, FALSE }
+antialias
+Antialias { TRUE, FALSE }
+work-on-copy
+{ TRUE, FALSE } TRUE: copy the drawable and bend the copy
+curve-type
+ { 0, 1 } 0 == smooth (use 17 points), 1 == freehand (use 256 val_y) 
+argc-upper-point-x
+{2 <= argc <= 17} 
+upper-point-x
+array of 17 x point_koords { 0.0 <= x <= 1.0 or -1 for unused point }
+argc-upper-point-y
+upper-point-y
+array of 17 y point_koords { 0.0 <= y <= 1.0 or -1 for unused point }
+argc-lower_point-x
+lower-point-x
+argc-lower-point-y
+lower_point_y
+argc-upper-val-y
+{ 256 } 
+upper-val-y
+array of 256 y freehand koord { 0 <= y <= 255 }
+argc-lower-val-y
+lower-val-y
+o@fffff
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fclose
+fgets
+fprintf
+free
+fwrite
+malloc
+memcpy
+memset
+signal
+sscanf
+strlen
+strncmp
+vfprintf
+gimp_context_pop
+gimp_context_push
+gimp_context_set_interpolation
+gimp_context_set_transform_resize
+gimp_displays_flush
+gimp_drawable_get
+gimp_drawable_has_alpha
+gimp_drawable_height
+gimp_drawable_is_rgb
+gimp_drawable_mask_bounds
+gimp_drawable_offsets
+gimp_drawable_type
+gimp_drawable_width
+gimp_edit_copy
+gimp_edit_paste
+gimp_image_base_type
+gimp_image_delete
+gimp_image_get_selection
+gimp_image_insert_layer
+gimp_image_new
+gimp_image_remove_layer
+gimp_image_undo_disable
+gimp_image_undo_group_end
+gimp_image_undo_group_start
+gimp_install_procedure
+gimp_item_get_image
+gimp_item_get_name
+gimp_item_get_visible
+gimp_item_is_layer
+gimp_item_set_name
+gimp_item_set_visible
+gimp_item_transform_rotate
+gimp_layer_add_alpha
+gimp_layer_copy
+gimp_layer_get_mask
+gimp_layer_get_mode
+gimp_layer_get_opacity
+gimp_layer_is_floating_sel
+gimp_layer_new
+gimp_layer_resize
+gimp_layer_set_offsets
+gimp_main
+gimp_pixel_fetcher_destroy
+gimp_pixel_fetcher_get_pixel
+gimp_pixel_fetcher_new
+gimp_pixel_fetcher_put_pixel
+gimp_pixel_fetcher_set_edge_mode
+gimp_pixel_rgn_init
+gimp_pixel_rgns_process
+gimp_pixel_rgns_register
+gimp_plugin_menu_register
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init
+gimp_progress_update
+gimp_selection_bounds
+gimp_tile_height
+gimp_tile_width
+gimp_filename_to_utf8
+gimp_locale_directory
+gimp_dialog_new
+gimp_frame_new
+gimp_help_set_help_data
+gimp_int_radio_group_new
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_radio_button_update
+gimp_spin_button_new
+gimp_standard_help_func
+gtk_box_new
+cairo_arc
+cairo_destroy
+cairo_line_to
+cairo_move_to
+cairo_new_sub_path
+cairo_paint
+cairo_set_line_width
+cairo_stroke
+cairo_translate
+gdk_cairo_create
+gdk_cairo_set_source_color
+gdk_cursor_new_for_display
+gdk_flush
+gdk_pixmap_new
+gdk_window_get_pointer
+gdk_window_set_cursor
+g_fopen
+g_free
+g_getenv_utf8
+g_log
+g_malloc
+g_malloc_n
+g_printerr
+g_set_error
+g_strdup_printf
+g_strerror
+g_object_get_data
+g_object_set_data
+g_signal_connect_data
+g_type_check_instance_cast
+gtk_adjustment_get_type
+gtk_adjustment_get_value
+gtk_adjustment_set_value
+gtk_alignment_new
+gtk_box_get_type
+gtk_box_pack_end
+gtk_box_pack_start
+gtk_button_new_from_stock
+gtk_button_new_with_mnemonic
+gtk_check_button_new_with_mnemonic
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_set_alternative_button_order
+gtk_dialog_set_default_response
+gtk_drawing_area_new
+gtk_file_chooser_dialog_new
+gtk_file_chooser_get_filename_utf8
+gtk_file_chooser_get_type
+gtk_file_chooser_set_current_name
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_label_get_type
+gtk_label_new_with_mnemonic
+gtk_label_set_mnemonic_widget
+gtk_main
+gtk_main_quit
+gtk_toggle_button_get_active
+gtk_toggle_button_get_type
+gtk_toggle_button_set_active
+gtk_widget_destroy
+gtk_widget_destroyed
+gtk_widget_get_display
+gtk_widget_get_style
+gtk_widget_get_toplevel
+gtk_widget_get_type
+gtk_widget_get_visible
+gtk_widget_get_window
+gtk_widget_queue_draw
+gtk_widget_set_events
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_window_get_type
+gtk_window_present
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_printf
+libintl_textdomain
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libcairo-2.dll
+libgdk-win32-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+curve-bend.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gimp_pixel_rgns_process
+__imp_gimp_tile_width
+__imp_gtk_adjustment_get_type
+__imp_gdk_cursor_new_for_display
+__imp_GetStartupInfoA
+__imp_gtk_widget_get_toplevel
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp__fmode
+__imp_gimp_image_undo_group_end
+__imp__lock
+__imp_RtlVirtualUnwind
+__imp_gimp_layer_is_floating_sel
+__imp_gimp_item_is_layer
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gtk_window_get_type
+__imp_gimp_layer_get_mode
+__imp_gimp_layer_new
+__imp_gimp_dialog_new
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp_gtk_toggle_button_get_active
+__imp_gtk_file_chooser_set_current_name
+__imp_gimp_help_set_help_data
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp_gimp_item_get_visible
+__imp_gimp_main
+__imp__amsg_exit
+__imp_gimp_drawable_type
+__imp__errno
+__imp_gdk_window_set_cursor
+__imp_g_object_get_data
+__imp_gimp_install_procedure
+__imp_gimp_drawable_height
+libglib_2_0_0_dll_iname
+__imp_gtk_widget_destroyed
+__imp_gimp_image_remove_layer
+__imp_g_fopen
+__imp_g_printerr
+__imp_GetCurrentThreadId
+__imp_gtk_toggle_button_set_active
+__imp_cairo_move_to
+__imp_gimp_preview_area_get_type
+__imp_gdk_cairo_set_source_color
+__imp___C_specific_handler
+__imp_GetLastError
+__imp_gimp_drawable_offsets
+__imp_free
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_gtk_main_quit
+__imp_gtk_drawing_area_new
+__imp_gimp_drawable_width
+__imp_RtlLookupFunctionEntry
+__imp___argc
+__imp_gimp_image_undo_disable
+_head_libgimpui_2_0_0_dll
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_gimp_pixel_fetcher_set_edge_mode
+__imp_gimp_context_set_transform_resize
+__imp_gimp_drawable_mask_bounds
+_head_libgdk_win32_2_0_0_dll
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+_head_libcairo_2_dll
+__imp_GetTickCount
+__imp_gimp_int_radio_group_new
+__imp_gtk_frame_new
+libgdk_win32_2_0_0_dll_iname
+_head_libgtk_win32_2_0_0_dll
+__imp_gtk_widget_get_window
+__imp_GetSystemTimeAsFileTime
+__imp_gdk_pixmap_new
+__imp_cairo_stroke
+__imp_libintl_printf
+__imp_gimp_progress_update
+__imp_gtk_widget_get_type
+__imp_gimp_item_set_name
+__imp_gimp_context_push
+__imp_gimp_image_base_type
+__imp_gimp_pixel_fetcher_new
+__imp_memset
+__imp_gtk_label_new_with_mnemonic
+__IAT_end__
+__imp_gtk_adjustment_set_value
+__imp_memcpy
+__imp_gimp_tile_height
+_head_libgobject_2_0_0_dll
+__imp_gimp_filename_to_utf8
+__imp_gimp_ui_init
+__imp_gimp_image_undo_group_start
+__imp_gimp_edit_copy
+__imp_gimp_pixel_rgn_init
+__imp_gimp_procedural_db_set_data
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_gimp_image_get_selection
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp_cairo_translate
+__imp_gtk_alignment_new
+__imp___getmainargs
+_head_lib64_libkernel32_a
+_head_lib64_libmsvcrt_a
+__imp_gimp_pixel_fetcher_destroy
+__imp_gimp_drawable_has_alpha
+__imp_gimp_layer_add_alpha
+__imp_gimp_layer_set_offsets
+__imp_EnterCriticalSection
+__imp_gtk_widget_get_visible
+__imp_cairo_paint
+__imp_GetCurrentProcessId
+__imp___lconv_init
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_sscanf
+__imp_g_malloc
+__imp_g_strerror
+__imp_signal
+_head_libgimp_2_0_0_dll
+__imp_gimp_displays_flush
+__imp_gdk_cairo_create
+__imp_gtk_widget_set_events
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gtk_container_get_type
+__imp_gimp_image_delete
+__imp_strlen
+__imp_malloc
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_gtk_label_get_type
+__imp_gimp_layer_get_opacity
+__imp_gtk_file_chooser_get_filename_utf8
+__imp_InitializeCriticalSection
+__imp_gtk_dialog_get_type
+__imp_exit
+__imp_gimp_item_get_image
+__imp_vfprintf
+__imp___initenv
+__imp_gtk_main
+__imp_gtk_label_set_mnemonic_widget
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_gimp_pixel_fetcher_put_pixel
+__imp_libintl_fprintf
+__imp_gdk_flush
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp__onexit
+__imp_gtk_toggle_button_get_type
+__imp_gimp_procedural_db_get_data
+__imp_libintl_gettext
+__imp_gtk_box_get_type
+__imp___argv
+__imp_Sleep
+__imp_gimp_pixel_fetcher_get_pixel
+__imp___setusermatherr
+__imp_gimp_image_new
+__imp_gimp_locale_directory
+__imp_g_free
+__imp_gtk_widget_destroy
+__imp_gimp_progress_init
+__imp_TlsGetValue
+__imp_gimp_layer_get_mask
+__imp_gtk_adjustment_get_value
+__imp_g_getenv_utf8
+__imp_fprintf
+__imp_gtk_window_present
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gtk_file_chooser_dialog_new
+__imp_gimp_item_get_name
+__imp_gtk_widget_get_style
+__imp_gimp_context_pop
+__imp_gimp_layer_copy
+__imp_gimp_drawable_get
+__imp_VirtualQuery
+__imp__initterm
+__imp_gimp_drawable_is_rgb
+__imp_fclose
+__imp___iob_func
+__imp_cairo_new_sub_path
+__imp_gimp_preview_area_new
+__imp_strncmp
+__imp_gtk_button_new_with_mnemonic
+__imp_gimp_item_set_visible
+__imp_gimp_image_insert_layer
+__imp_gtk_container_set_border_width
+__imp_gtk_dialog_set_default_response
+__imp_gimp_item_transform_rotate
+__imp_gtk_file_chooser_get_type
+__imp_gtk_frame_get_type
+libcairo_2_dll_iname
+__imp_gimp_spin_button_new
+__imp__unlock
+__imp___set_app_type
+__imp_gtk_box_pack_end
+__imp_gimp_selection_bounds
+__imp_g_object_set_data
+__imp_g_malloc_n
+__imp_gdk_window_get_pointer
+__imp_fgets
+__imp_cairo_arc
+__imp_gimp_layer_resize
+__imp_gimp_preview_area_draw
+__imp_gimp_pixel_rgns_register
+__imp_gimp_radio_button_update
+__imp_g_set_error
+__imp_gimp_context_set_interpolation
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gtk_container_add
+__imp_gtk_button_new_from_stock
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_check_button_new_with_mnemonic
+__imp_GetCurrentProcess
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_cairo_set_line_width
+__imp_g_strdup_printf
+__lib64_libmsvcrt_a_iname
+__imp_cairo_line_to
+__imp_cairo_destroy
+__imp_gimp_edit_paste
+__imp_gtk_widget_queue_draw
+__imp_g_log
+__imp_gtk_widget_get_display
+>0<0
+0!0	
+DUs 
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+	[2u
+IB s;W
+Lxl!
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510151342Z0#
+AYWF
+~Y:X]
+D@I~
+p*rY6
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+CB40
+6[Fm
+(2=H
+,{77
+)?=J
+20170510154543Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510154543Z0+
+6R}O
+'^uOZm
+5C:m
+RLON
+{,og
+11RA
+s&~D

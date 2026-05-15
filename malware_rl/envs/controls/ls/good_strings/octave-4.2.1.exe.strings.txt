@@ -1,0 +1,585 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+P@.pdata
+0@.xdata
+0@.bss
+.edata
+0@.idata
+.CRT
+.tls
+.reloc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+D$/H
+UWVSH
+|$`H
+D$.H
+D$01
+D$0H
+\$PI
+|$0H
+\$Pt/I
+D$PH
+T$@H
+D$0I
+[^_]
+l$@H
+\$PH
+L$0H
+D$@H
+\$/H
+D$PH
+D$PH
+T$@H
+\$/H
+D$0H
+\$/H
+D$PH
+D$@H
+\$/H
+AUATUWVSH
+D$?H
+\$pH
+D$pH
+l$@H
+D$pH
+\$PH
+D$PH
+l$`E1
+D$`H
+D$PH
+D$@H
+[^_]A\A]
+D$pH
+l$@H
+L$@M
+T$>H
+D$pH
+D$PH
+D$@H
+AWAVAUATUWVSH
+L$pH
+([^_]A\A]A^A_
+D$,H
+AUATUWVSH
+>.trH
+([^_]A\A]
+WVSH
+t5Hc
+ [^_
+ [^_
+xTHc
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+|$8H
+\$8H
+\$0H
+D$HH
+D$`H
+D$`H
+D$(A
+D$^f9
+u	A9
+t$@L
+D$ I
+D$`L
+D$df
+L;|$ t
+D$ff%
+D$(9D$`
+D$Rf9D$d
+D$HL+D$8H
+D$(I
+D$0L
+D$(L
+T$@I9
+L$8H
+D$(H
+D$0L
+\$(L
+\$(L
+T$@H
+D$HH
+\$0L
+\$8L
+\$HH
+T$\I
+f9T$^A
+D$Hu
+T$T9T$X
+D$\f
+L;t$ t
+D$ I
+D$8H
+T$0H
+H9D$HtDH
+D$HH
+L$8H)
+L$8H
+D$8M
+T$ I
+T$HL;t$ t
+D$8H
+T$0H
+H9D$Hu
+T$,H
+UWVSH
+</t_<\u
+/tBA
+\t<I9
+h[^_]
+T$ H
+T$ H
+D$&f%
+tdrL
+\t!A
+</u L
+AVAUATUWVSH
+[^_]A\A]A^
+t$ 1
+D$ /
+ATUWVSH
+`[^_]A\
+d$ H
+D$(t
+D$(A
+L$ E
+uLI9P
+AWAVAUATUWVSH
+8t2A
+vc</
+([^_]A\A]A^A_
+/tBH9
+/t6H
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-1y
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;5Gv
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+WVSH
+|$ H
+UWVSH
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+|`t.H
+ATUWVSH
+|$@1
+t$0D
+d$(H
+\$ I
+[^_]A\
+UWVSH
+D$,H
+D$,E
+8[^_]
+WVSH
+D$/1
+0[^_
+T$/H
+AWAVAUATUWVSH
+D$ H
+l$PL
+T$ H
+D$OH
+D$NH
+|$`H
+D$pL
+L$ H
+T$?D
+L$>L
+D$0D
+L$>D
+T$?t
+L$ H
+D$pL
+D$`L
+D$PL
+[^_]A\A]A^A_
+T$(H
+|$`L
+l$PH
+T$(H
+T$(H
+T$ H
+T$ H
+D$pL
+D$`L
+D$PH
+T$MH
+no graphical display found
+\bin\
+OCTAVE_HOME
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32
+graphical display unavailable
+OCTAVE_BINDIR
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/bin
+OCTAVE_ARCHLIBDIR
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/libexec/octave/4.2.1/exec/x86_64-w64-mingw32
+octave-cli-4.2.1
+octave-gui
+--no-gui-libs
+--no-gui
+--silent
+--quiet
+--no-window-system
+octave: 
+octave: disabling GUI features
+.exe
+: failed to exec '
+/dev/tty
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-stable-octave/octave-4.2.1/libgnu/fchdir.c
+0 <= fd
+0 <= oldfd && 0 <= newfd && oldfd != newfd
+kernel32.dll
+CreateHardLinkA
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+octave.exe
+_ZSteqIcEN9__gnu_cxx11__enable_ifIXsrSt9__is_charIT_E7__valueEbE6__typeERKSbIS3_St11char_traitsIS3_ESaIS3_EESC_
+_ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_EOS6_PKS3_
+_ZStplIcSt11char_traitsIcESaIcEESbIT_T0_T1_ERKS6_S3_
+_gl_directory_name
+_gl_nothrow_get_osfhandle
+_gl_register_dup
+_gl_register_fd
+_gl_unregister_fd
+base_len
+display_available
+execute_all_close_hooks
+execute_all_ioctl_hooks
+execute_close_hooks
+execute_ioctl_hooks
+fchdir
+gl_msvc_inval_ensure_handler
+last_component
+link
+main
+mfile_name_concat
+octave_access_f_ok
+octave_access_r_ok
+octave_access_w_ok
+octave_access_wrapper
+octave_access_x_ok
+octave_chdir_wrapper
+octave_close_wrapper
+octave_ctermid_wrapper
+octave_dup2_wrapper
+octave_execv_wrapper
+octave_execvp_wrapper
+octave_fork_wrapper
+octave_ftruncate_wrapper
+octave_getcwd_wrapper
+octave_getegid_wrapper
+octave_geteuid_wrapper
+octave_getgid_wrapper
+octave_gethostname_wrapper
+octave_getpgrp_wrapper
+octave_getpid_wrapper
+octave_getppid_wrapper
+octave_getuid_wrapper
+octave_have_fork
+octave_have_vfork
+octave_isatty_wrapper
+octave_link_wrapper
+octave_pipe_wrapper
+octave_rmdir_wrapper
+octave_setsid_wrapper
+octave_stdin_fileno
+octave_stdout_fileno
+octave_symlink_wrapper
+octave_unlink_wrapper
+octave_vfork_wrapper
+pipe
+register_fd_hook
+rpl_close
+rpl_dup2
+rpl_ftruncate
+rpl_getcwd
+rpl_isatty
+rpl_malloc
+rpl_realloc
+rpl_rmdir
+rpl_stat
+rpl_strdup
+rpl_unlink
+symlink
+unregister_fd_hook
+_Unwind_Resume
+_ZNKSs5rfindEPKcy
+_ZNKSs6substrEyy
+_ZNSs12_M_leak_hardEv
+_ZNSs12_S_constructEycRKSaIcE
+_ZNSs3endEv
+_ZNSs4_Rep10_M_disposeERKSaIcE
+_ZNSs4swapERSs
+_ZNSs6appendEPKc
+_ZNSs6appendEPKcy
+_ZNSs6appendEyc
+_ZNSs6assignERKSs
+_ZNSs7replaceEyyPKcy
+_ZNSsC1EPKcRKSaIcE
+_ZNSsC1ERKSs
+_ZNSt8ios_base4InitC1Ev
+_ZNSt8ios_base4InitD1Ev
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_x
+_ZSt4cerr
+_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+_Znay
+__cxa_guard_abort
+__cxa_guard_acquire
+__cxa_guard_release
+__cxa_throw_bad_array_new_length
+__gxx_personality_seh0
+DeleteCriticalSection
+EnterCriticalSection
+GetConsoleMode
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileAttributesA
+GetLastError
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_execvp
+_exit
+_findclose
+_findfirst64
+_fmode
+_fullpath
+_get_osfhandle
+_initterm
+_isatty
+_lock
+_onexit
+_pipe
+_snwprintf
+_spawnv
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwprintf
+fwrite
+getenv
+malloc
+memcmp
+memcpy
+memmove
+memset
+raise
+realloc
+signal
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strncpy
+strpbrk
+vfprintf
+wcscpy
+_stat64
+_findnext64
+_unlink
+_rmdir
+_getpid
+_getcwd
+_dup2
+_close
+_chsize
+_chdir
+_access
+GetDC
+MessageBoxW
+gethostname
+libgcc_s_seh-1.dll
+libstdc++-6.dll
+KERNEL32.dll
+msvcrt.dll
+USER32.dll
+WS2_32.dll

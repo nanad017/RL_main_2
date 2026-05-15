@@ -1,0 +1,522 @@
+!This program cannot be run in DOS mode.
+Cc|1
+Cc|1
+Cc|1
+Cc|1
+Cc|1
+Cc|1
+Cc|1
+Cc|Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+d$`H
+D$xp
+fA94@u
+T$xH
+d$@E3
+d$8E3
+d$pH
+D$hH
+|$h3
+d$pH
+T$pH
+L$pH
+t$`H
+x'E3
+d$ A
+@SVAVH
+|$XI
+l$@H
+|$HL
+d$PE
+d$PA
+|$HH
+l$@L
+|$XH
+ A^^[
+UVAVH
+|$@L
+|$HH;i
+|$@L
+|$HH
+\$PH
+ A^^]
+\$0H
+\$0H
+\$@H
+t$HH
+\$03
+t$8H
+\$03
+\$0H
+t$@H
+\$0H
+t$8L
+\$8H
+@SVH
+l$@H
+t$0H
+t$`L
+t$xL
+|$8H
+T$`H
+D$xH
+T$p3
+\$pH
+L$xL
+|$ H
+\$pH
+l$@L
+t$`L
+t$0H
+\$xH
+|$8H
+{@E3
+\$0H
+\$@3
+D$(H
+T$ H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L9=tC
+L$ f
+: wxfD9:t
+D$ H
+A_A^A\
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+D$ E3
+D$ H
+d$ E3
+D$ H
+t$`I
+D$ E3
+D$ E3
+D$ E3
+D$ E3
+d$ E3
+t$XE3
+t$`D
+|$hH
+d$hH
+|$hE
+|$hL
+t#McF
+\$ H
+D$ L
+|$0H
+D$ H
+D$ L
+\$0H
+\$0H
+L$ H
+D$hD
+L$ H
+T$8H
+D$0H
+D$xD
+H99t
+\$0H
+t$8H
+\$0H
+L$ 3
+t$ WH
+D$PH
+D$8H
+L$0L
+D$ L
+L$PH3
+\$`I
+\$0H
+D$ L
+\$@H
+\$HH
+|$PH
+T$@3
+\$@H
+D$ H
+|$PH
+\$HH
+\$03
+t$8H
+D$ H
+\$@3
+D$ L
+ext-ms-win-com-ole32-l1-1-1.dll
+CompPkgSup.DLL
+VyLL
+RSDSl
+MFPMP.pdb
+.text$lp00mfpmp.exe!20_pri7
+.text$mn
+.text$mn$00
+.text$np
+.text$x
+.text$zy
+.text$zz
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$00
+.rdata$zz
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$pr00
+.bss
+.bss$00
+.bss$zz
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+GetRunningObjectTable
+CreateItemMoniker
+RegisterServerForPMP
+UnregisterServerForPMP
+iswalpha
+towupper
+iswdigit
+free
+malloc
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+GetCommandLineW
+TraceMessage
+SetErrorMode
+HeapAlloc
+CoUninitialize
+SetEnvironmentVariableW
+HeapFree
+WindowsDeleteString
+WindowsCreateStringReference
+SetEvent
+GetProcessHeap
+WaitForMultipleObjectsEx
+RoGetActivationFactory
+OpenProcess
+CoInitializeSecurity
+RaiseException
+GetLastError
+CoFreeUnusedLibraries
+CoTaskMemFree
+CreateEventW
+IIDFromString
+HeapSetInformation
+CoInitializeEx
+OpenEventW
+GetErrorMode
+CloseHandle
+CoCreateFreeThreadedMarshaler
+CoCreateInstance
+StringFromCLSID
+WaitForSingleObject
+InitializeCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+ResetEvent
+DeleteCriticalSection
+Sleep
+GetStartupInfoW
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+GetCurrentPackageId
+api-ms-win-appmodel-runtime-l1-1-1.dll
+MFCreatePMPHost
+MFCORE.dll
+MFShutdown
+MFStartup
+MFPlat.DLL
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+ApiSetQueryApiSetPresence
+api-ms-win-core-apiquery-l1-1-0.dll
+memcpy
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.MF.MFPMP"
+    type="win32"
+<description>Media Foundation Protected Pipeline EXE</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+~/(v,
+D+$n
+8\OA
+^)!Y
+sk<P
+~ +|
+`8&G
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+150818171528Z
+161118171528Z0p1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Windows0
+Q0{n
+mQkTS!
+8a?7
+F0D1
+MOPR1301
+*31612+85cef474-af76-4076-90ff-a35e1e23d7de0
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+`t:,
+'G+?
+!Oe;
+~-Od
+4TP(3
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 20110
+-|by
+;S5|
+%(\6
+[*	k"
+h	sD]}
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+8.Ek
+@26v
+TlP0X
+R!s4Z
+s9_>
+Washington1
+Redmond1
+Microsoft Corporation1.0,
+%Microsoft Windows Production PCA 2011
+ <8d
+1L0J
+ http://www.microsoft.com/windows0
+Ehh2
+Mve?;
+ .jM$
+ki	TH
+20160907052518.27Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+160427170620Z
+170727170620Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service0
+h<r+
+umBo%
+s@dD
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+2)R7
+omn=
+2'Ud
+!#r_
+A>[,!
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:57F6-C1E0-554C1+0)
+"Microsoft Time Source Master Clock0
+20160907002813Z
+20160908002813Z0t0:
+1,0*0
+1(0&0
+>]My.
+^ft6*jl
+ns)0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+kKF0
+Cn.l
+B	gjAF#y

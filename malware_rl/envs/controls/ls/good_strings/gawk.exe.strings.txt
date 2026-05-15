@@ -1,0 +1,1919 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+,[^_]
+G98~
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$U!D
+[^_]
+$_!D
+$l!D
+$L"D
+$L#D
+$`#D
+$U!D
+$U!D
+$U!D
+$U!D
+$.$D
+$.$D
+$S$D
+$p$D
+txC;
+$U!D
+$@%D
+$t%D
+$U!D
+$U!D
+$U!D
+$U!D
+$$&D
+$U!D
+$`&D
+$U!D
+$U!D
+$U!D
+$l!D
+$U!D
+$$&D
+$U!D
+t9C9
+$\/D
+B<	tI
+$a/D
+[^_]
+$d/D
+$U!D
+$U!D
+[^_]
+$U!D
+$U!D
+$U!D
+[^_]
+$U!D
+$U!D
+$U!D
+$U!D
+,[^_]
+$L0D
+$U!D
+$p0D
+$L0D
+8:tT
+$U!D
+$L0D
+$L0D
+$U!D
+$U!D
+$<1D
+$L0D
+$U!D
+$h1D
+$U!D
+$U!D
+$02D
+$U!D
+$L2D
+$m2D
+$U!D
+$U!D
+$U!D
+$U!D
+$U!D
+$U!D
+$L3D
+$l3D
+[^_]
+$47D
+$U!D
+$`7D
+$U!D
+$U!D
+$U!D
+$U!D
+$U!D
+$47D
+$U!D
+,[^_]
+$H8D
+$U!D
+[^_]
+$U!D
+$U!D
+GtY1
+,[^_]
+$U9D
+[^_]
+[^_]
+$U!D
+$U!D
+$U!D
+<[^_]
+$U!D
+$U!D
+[^_]
+[^_]
+<[^_]
+$U!D
+$4:D
+$U!D
+$\:D
+$U!D
+$U!D
+$U!D
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$U!D
+$U!D
+[^_]
+$U!D
+$0;D
+$U!D
+$X;D
+$U!D
+[^_]
+[^_]
+$U!D
+ [^]
+[^_]
+$U!D
+Ft$v
+$`&D
+[^_]
+[^_]
+$U!D
+$L>D
+$U!D
+$m>D
+u4z2
+$U!D
+$|>D
+$U!D
+$#?D
+$2?D
+$I?D
+8"t`
+ [^]
+$\?D
+ [^]
+,[^_]
+$H@D
+,[^_]
+,[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+$HAD
+$pAD
+ [^]
+ [^]
+[^_]
+$XBD
+$`CD
+t#9}
+$(DD
+$TDD
+$DED
+$0FD
+$PFD
+$|FD
+ [^]
+ [^]
+$,ID
+\[^_]
+$QID
+$pID
+\[^_]
+$DJD
+[^_]
+[^_]
+$LKD
+$tKD
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+$DLD
+[^_]
+[^_]
+$lLD
+,[^_]
+ [^]
+ [^]
+ [^]
+ [^]
+58MD
+[^_]
+[^_]
+$@MD
+starf
+leng1
+[^_]
+$xMD
+[^_]
+;O s/
+[^_]
+[^_]
+[^_]
+u,z*
+$<ND
+$tND
+<[^_]
+u,z*
+$XOD
+<[^_]
+$8PD
+u,z*
+$tPD
+<[^_]
+<[^_]
+u,z*
+$<QD
+<[^_]
+<[^_]
+$pQD
+u,z*
+<[^_]
+<[^_]
+$8RD
+$dRD
+ [^]
+ [^]
+>0tl
+[^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$!VD
+$!VD
+$!VD
+$!VD
+L[^_]
+[^_]
+[^_]
+$@YD
+[^_]
+$MYD
+u	@9E
+<[^_]
+L[^_]
+Y09D
+[^_]
+w$9\
+[^_]
+G8;E
+[^_]
+W8C9
+[^_]
+[^_]
+[^_]
+[^_]
+uPF9
+[^_]
+W8F9
+[^_]
+[^_]
+[^_]
+l[^_]
+l[^_]
+,[^_]
+$ ZD
+,[^_]
+$ ZD
+$@ZD
+$`ZD
+$@ZD
+$@ZD
+$@ZD
+[^_]
+$@ZD
+$@ZD
+$D[D
+$@ZD
+$@ZD
+$@ZD
+$@ZD
+$@ZD
+$@ZD
+$X\D
+$@ZD
+$@ZD
+$@ZD
+$8]D
+$\]D
+ [^]
+$8]D
+$\]D
+,[^_]
+$8]D
+$8]D
+$\]D
+$8]D
+$\]D
+$8]D
+$\]D
+CxS;
+$8]D
+$8]D
+@tE;u
+[^_]
+<[^_]
+[^_]
+$8]D
+$4^D
+$8]D
+$X^D
+[^_]
+[^_]
+[^_]
+[^_]
+t-;u
+[^_]
+[^_]
+tP;]
+[^_]
+[^_]
+,[^_]
+$8]D
+$8]D
+$8]D
+$\]D
+$8]D
+L[^_]
+[\\]
+$a_D
+$t_D
+$L`D
+:-t8
+[^_]
+t	<-u
+[^_]
+} @;E
+9Wtb
+[^_]
+$``D
+$@aD
+$`aD
+[^_]
+[^_]
+$ bD
+$JbD
+$JbD
+[^_]
+$ bD
+$TbD
+9CLs
+9CLs
+[^_]
+$HcD
+|[^_]
+$ dD
+$PdD
+$$eD
+$$eD
+$`eD
+[^_]
+[^_]
+$0fD
+$|fD
+[^_]
+$*gD
+tA;B
+$0gD
+$XgD
+$,hD
+$ThD
+[^_]
+[^_]
+[^_]
+[^_]
+$<iD
+$diD
+<ru%
+$BjD
+$`jD
+$tjD
+[^_]
+$$eD
+$(kD
+[^_]
+$$eD
+,[^_]
+[^_]
+$7lD
+$LlD
+$|lD
+$LmD
+[^_]
+ [^]
+ [^]
+$7lD
+[^_]
+[^_]
+[^_]
+$$eD
+$$eD
+|[^_]
+$$eD
+$$eD
+$0nD
+$$eD
+_[^_]
+Vd_[^_]
+Bt@u}
+[^_]
+;OPse
+[^_]
+[^_]
+[^_]
+Sd[^_]
+[^_]
+[^_]
+[^_]
+$$eD
+$ rD
+$(rD
+$IrD
+$IrD
+$SrD
+$drD
+5$	E
+5$	E
+5$	E
+$4rD
+$!sD
+$4sD
+$xsD
+$xsD
+$xsD
+$AtD
+$xsD
+$PtD
+$xsD
+$xtD
+$xsD
+$xsD
+$xsD
+$xsD
+$<wD
+$"xD
+$8xD
+$RxD
+$pxD
+$$yD
+$PyD
+$uyD
+$5zD
+$PzD
+$D{D
+$ }D
+$ ~D
+>ttJ
+$xsD
+[^_]
+[^_]
+[^_]
+$cpD
+[^_]
+[^_]
+[^_]
+$xsD
+$xsD
+$xsD
+$xsD
+$xsD
+$xsD
+`[^]
+$xsD
+$xsD
+[^_]
+[^_]
+[^_]
+u1z/
+[^_]
+[^_]
+ [^]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u+F9
+[^_]
+[^_]
+C ui
+SxE9P tE
+,[^_]
+,[^_]
+~f)M
+,[^_]
+[^_]
+4QJI
+HD!M
+[^_]
+[^_]
+G(;E
+,[^_]
+,[^_]
+B(;E
+C(;E
+C$;C(t
+C$;C,t
+C$;C0t
+,[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	twF9
+[^_]
+[^_]
+[^_]
+!CP1
+	CP1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t+F9
+<[^_]
+[^_]
+@;C t#
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	CP1
+,[^_]
+,[^_]
+,[^_]
+[^_]
+B;S 
+;w }
+B;W 
+B;V 
+;G }
+;s }
+B;Q 
+;^ }
+;F }
+;F }
+~::U
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+^[^_]
+[^_]
+[^_]
+[^_]
+F$;F(t
+F$;F,t
+F$;F0t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9_Pu
+[^_]
+[^_]
+9Fh|Z
+[^_]
+9Fh}
+[^_]
+uKCtH
+[^_]
+[^_]
+[^_]
+<[^_]
+Jx=9
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u4Ct1
+[^_]
+CHJxd9S tO
+[^_]
+[^_]
+[^_]
+[^_]
+W\;U
+twC9
+[^_]
+[^_]
+wX9W
+uR;u
+~X~w
+;F }
+[^_]
+[^_]
+C4@t1
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+3~81
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9Ch|
+[^_]
+[^_]
+pl;pp
+K Y[]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+ulzj
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+5d	E
+5D	E
+[^_]
+[^_]
+[^_]
+[^_]
+8%t#
+[^_]
+=d	E
+[^_]
+tlw)
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+[^_]
+@builtin
+(END OF FILE)
+pqrstuvwxyzabcdefghijklmno
+CAk[S
+.*+(){}[]|?^$\
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bfnrtv\
+AVG_CHAIN_MAX
+AWK_HASH
+/usr/src/gawk/gawk-3.1.7/array.c
+attempt to use scalar parameter `%s' as an array
+internal error line %d, file: %s
+attempt to use function `%s' as an array
+attempt to use scalar `%s' as array
+from %s
+%s (
+message
+%s: %s: can't allocate %ld bytes of memory (%s)
+array_vname
+concat_exp
+symbol->type == Node_var_array
+reference to uninitialized element `%s["%s"]'
+subscript of array `%s' is null string
+assoc_lookup
+bucket->ahname_str
+delete: index `%s' not in array `%s'
+@grow_table
+%s: table_size = %d, array_size = %d
+%.*s
+%s: I: [len %d <%.*s>] V: [
+%s: empty (zero)
+%s: empty (null)
+%s: is parameter
+%s: array_ref to %s
+dup_table
+list->ahname_ref == 1
+list->ahname_str == NULL
+assoc_from_list
+list->ahname_str
+<=5304
+ !"#$%&'()*+,-9
+CDEEEFFFGGGGGHIIIJJLKNMOOPPPQQRRRRRRRRRRRRRRSRRUTTTTTVVWXXXYYZZZZZ[[\\]^]__``aabbccdddddeeffgggggghhhhhhhhiiijjkklllmmmmmmmmmmmnnnnnnnooooooooooooooppqqqrssstuvwwxyz
+jrsu
+lk}~
+fgde
+z{wxyv
+6()*
+XUN.
+N]H1
+:$%6
+K">A
+N@?N
+,D`a
+"#()*+-3468;<FGKMOahlmnoqr<>Lpqqq<<mqmm<oq
+gh@BHQ`txHN	
+%&'.012jk
+m34567:34567:
+()-ifghg
+*+IJ1bffh()s
+0=vzvaPa
+hhhhh#mmmmmmmmmmmm
+hv?<mvvha%
+ !$ART[_htux/p
+<<<a<QQQehQaQUPwxahv
+zhe>
+TVQ<\fuaa
+vQg=vv
+]a?aa<
+az^RtRhvhxgl
+WXvaxavaa
+YaRaVRu
+34MZ/yVv
+yavaaPaRPRplain `print' in BEGIN or END rule should probably be `print ""'
+awkgram.y
+syntax error
+`delete(array)' is a non-portable tawk extension
+`delete array' is a gawk extension
+`return' used outside function context
+`nextfile' is a gawk extension
+old awk does not support the keyword `in' except after `for'
+old awk does not support multidimensional arrays
+%s blocks must have an action part
+BEGIN
+multistage two-way pipelines don't work
+`%s' is a built-in function, it cannot be redefined
+call of `length' without parentheses is deprecated by POSIX
+memory exhausted
+non-redirected `getline' undefined inside END action
+(yyvsp[(8) - (8)].nodeval)->rnode->type == Node_expression_list
+regular expression on right of comparison
+regular expression on right of assignment
+`%s' used in %s action
+nextfile
+next
+use of non-array as array
+Duplicate `default' detected in switch body
+duplicate case values in switch body: %s
+each rule must have a pattern or an action part
+%s: %s: can't allocate %ld bytes of memory (%s)
+switch_body
+case_values
+regular expression on left of `~' or `!~' operator
+regexp constant `/%s/' looks like a C comment, but is not
+regexp constant `//' looks like a C++ comment, but is not
+statement may have no effect
+invalid subscript expression
+old awk does not support multiple `BEGIN' or `END' rules
+internal error line %d, file: %s
+call of `length' without parentheses is not portable
+asort
+asorti
+atan2
+bindtextdomain
+break
+close
+compl
+continue
+dcgettext
+dcngettext
+delete
+else
+exit
+extension
+fflush
+func
+function
+gensub
+getline
+gsub
+index
+length
+lshift
+match
+mktime
+print
+printf
+rand
+return
+rshift
+split
+sprintf
+sqrt
+srand
+strftime
+strtonum
+substr
+system
+systime
+tolower
+toupper
+while
+%.*s
+unexpected newline or end of string
+yyerror
+can't read sourcefile `%s' (%s)
+get_src_buf
+source file `%s' is empty
+empty program text on command line
+AWKREADFUNC
+can't open source file `%s' for reading (%s)
+tokstart
+tokexpand
+source file does not end in newline
+operator `^' is not supported in old awk
+%s: %d: tawk regex modifier `/.../%c' doesn't work in gawk
+unterminated regexp at end of file
+unterminated string
+operator `^=' is not supported in old awk
+numeric constant `%.*s' treated as octal
+unterminated regexp ends with `\' at end of file
+tawk regex modifier `/.../%c' doesn't work in gawk
+POSIX does not allow operator `**='
+old awk does not support operator `**='
+unterminated regexp
+POSIX does not allow `%s'
+`%s' is not supported in old awk
+`%s' is a Bell Labs extension
+`%s' is a gawk extension
+old awk does not support operator `**'
+POSIX does not allow operator `**'
+goto
+`goto' considered harmful!
+numeric constant `%.*s' treated as hexadecimal
+tokkey
+yylex
+invalid char '%c' in expression
+backslash not last character on line
+use of dcngettext(_"...") is incorrect: remove leading underscore
+%s third parameter is not a changeable object
+match: third argument is a gawk extension
+use of dcgettext(_"...") is incorrect: remove leading underscore
+close: second argument is a gawk extension
+%s: string literal as last arg of substitute has no effect
+%d is invalid as number of arguments for %s
+make_for_loop
+function `%s': parameter #%d, `%s', duplicates parameter #%d
+names
+dup_parms
+number value (%.17g)
+string (
+number (%.17g)
+?? flags %s
+string value (
+j == var_count
+could not open `%s' for writing (%s)
+sending profile to standard error
+table
+dump_vars
+%.*s: 
+%s: close failed (%s)
+unused variable
+array, %ld elements
+dump_funcs
+j == func_count
+there were shadowed variables.
+shadow_funcs
+shadow_funcs() called twice!
+function `%s': parameter `%s' shadows global variable
+function name `%s' previously defined
+function `%s': can't use function name as parameter name
+function `%s': can't use special variable `%s' as a function parameter
+pnames
+func_install
+fp->name
+func_use
+function `%s' defined but never called
+function `%s' called but never defined
+regexp constant for parameter #%d yields boolean value
+register_deferred_variable
+function `%s' called with space between name and `(',
+or used as a variable or an array
+#: %s:%d
+msgid 
+msgstr ""
+msgid_plural 
+msgstr[0] ""
+msgstr[1] ""
+tree->type == Node_K_printf || (tree->type == Node_builtin && tree->builtin == do_sprintf)
+ugh. fdopen: %s
+debugging read/close screwed up!
+can't happen
+division by zero attempted in `%%'
+constant_fold
+left->stptr
+/usr/src/gawk/gawk-3.1.7/builtin.c
+reason unknown
+%s to "%s" failed (%s)
+standard output
+exp: argument %g is out of range
+exp: received non-numeric argument
+internal error line %d, file: %s
+fflush: cannot flush: pipe `%s' opened for reading, not writing
+fflush: cannot flush: file `%s' opened for reading, not writing
+fflush: `%s' is not an open file, pipe or co-process
+/dev/stderr
+/dev/stdout
+index: received non-string first argument
+index: received non-string second argument
+int: received non-numeric argument
+length: untyped argument will be forced to scalar
+length: received non-string argument
+`length(array)' is a gawk extension
+log: received negative argument %g
+log: received non-numeric argument
+0123456789abcdef
+0123456789ABCDEF
+%s: %s: can't allocate %ld bytes of memory (%s)
+the_args
+format_tree
+i == num_args
+too many arguments supplied for format string
+[s]printf: format specifier does not have control letter
+^ ran out for this one
+not enough arguments to satisfy format string
+	`%s'
+	%*s%s
+ignoring unknown format specifier character `%c': no argument converted
+arg count %ld greater than total number of supplied arguments
+%.0f
+cpbufs[1].buf
+cp == arg->stptr || cp == cpbuf
+cpbufs[1].bufsize > 0
+obuf
+[s]printf: value %g is out of range for `%%%c' format
+`h' is meaningless in awk formats; ignored
+field width is ignored for `%%%%' specifier
+`l' is meaningless in awk formats; ignored
+[s]printf: value %g is too big for %%c format
+`L' is meaningless in awk formats; ignored
+cpbufs[0].buf
+precision is ignored for `%%%%' specifier
+field width and precision are ignored for `%%%%' specifier
+must use `count$' on all formats or none
+`l' is not permitted in POSIX awk formats
+`L' is not permitted in POSIX awk formats
+`h' is not permitted in POSIX awk formats
+arg count with `$' must be > 0
+`$' not permitted after period in format
+`$' is not permitted in awk formats
+no `$' supplied for positional field width or precision
+printf
+printf: no arguments
+sqrt: called with negative argument %g
+sqrt: received non-numeric argument
+substr: source string is zero length
+substr: length %g is not >= 0
+substr: start index %g is past end of string
+substr: non-integer start index %g will be truncated
+substr: start index %g is invalid, using 1
+substr: length %g too big for string indexing, truncating to %g
+substr: length %g at start index %g exceeds length of first argument (%lu)
+substr: non-integer length %g will be truncated
+substr: length %g is not >= 1
+?%a %b %d %H:%M:%S %Z %Y
+bufp
+do_strftime
+strftime: received non-string first argument
+strftime: received empty format string
+strftime: received non-numeric second argument
+%ld %d %d %d %d %d %d
+mktime: received non-string argument
+system: received non-string argument
+print
+do_print
+reference to uninitialized field `$%d'
+tolower: received non-string argument
+toupper: received non-string argument
+atan2: received non-numeric second argument
+atan2: received non-numeric first argument
+sin: received non-numeric argument
+cos: received non-numeric argument
+Asrand: received non-numeric argument
+do_match
+match: third argument is not an array
+?\\\&
+mb_indices
+sub_common
+gensub: third argument of 0 treated as 1
+Alshift(%lf, %lf): negative values will give strange results
+lshift(%lf, %lf): fractional values will be truncated
+lshift(%lf, %lf): too large shift value will give strange results
+lshift: received non-numeric second argument
+lshift: received non-numeric first argument
+_rshift(%lf, %lf): negative values will give strange results
+rshift(%lf, %lf): fractional values will be truncated
+rshift(%lf, %lf): too large shift value will give strange results
+rshift: received non-numeric second argument
+rshift: received non-numeric first argument
+_and(%lf, %lf): negative values will give strange results
+and(%lf, %lf): fractional values will be truncated
+and: received non-numeric second argument
+and: received non-numeric first argument
+_or(%lf, %lf): negative values will give strange results
+or(%lf, %lf): fractional values will be truncated
+or: received non-numeric second argument
+or: received non-numeric first argument
+_xor(%lf, %lf): negative values will give strange results
+xor(%lf, %lf): fractional values will be truncated
+xor: received non-numeric second argument
+xor: received non-numeric first argument
+_compl(%lf): fractional value will be truncated
+compl(%lf): negative value will give strange results
+compl: received non-numeric argument
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MESSAGES
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+dcgettext: `%s' is not a valid locale category
+POSIX
+Memory exhausted
+:alpha:]
+:upper:]
+:lower:]
+:digit:]
+:xdigit:]
+:space:]
+:punct:]
+:alnum:]
+:print:]
+:graph:]
+:cntrl:]
+:blank:]
+unfinished repeat count
+Unbalanced [
+Unfinished \ escape
+malformed repeat count
+Unbalanced (
+Unbalanced )
+No syntax specified
+memory exhausted
+`extension' is a gawk extension
+/usr/src/gawk/gawk-3.1.7/ext.c
+internal error line %d, file: %s
+extension: cannot open `%s' (%s)
+extension: library `%s': cannot call function `%s' (%s)
+extension: missing function name
+extension: can't use gawk built-in `%s' as function name
+extension: illegal character `%c' in function name `%s'
+extension: function `%s' already defined
+extension: function name `%s' previously defined
+extension: can't redefine function `%s'
+vnames
+%s: %s: can't allocate %ld bytes of memory (%s)
+make_builtin
+parm_names
+function `%s': argument #%d: attempt to use array as a scalar
+function `%s': argument #%d: attempt to use scalar as an array
+function `%s' defined to take no more than %d argument(s)
+function `%s': missing argument #%d
+/usr/src/gawk/gawk-3.1.7/field.c
+%s: %s: can't allocate %ld bytes of memory (%s)
+fields_arr
+init_fields
+grow_fields_arr
+NF != -1
+rebuild_record
+databuf
+set_record
+NF set to negative value
+split: null string for third arg is a gawk extension
+internal error line %d, file: %s
+split: second argument is not an array
+FIELDWIDTHS
+`FIELDWIDTHS' is a gawk extension
+invalid FIELDWIDTHS value, near `%s'
+set_FIELDWIDTHS
+null string for `FS' is a gawk extension
+old awk does not support regexps as value of `FS'
+.:/usr/share/awk
+AWKBUFSIZE
+exact
+/usr/src/gawk/gawk-3.1.7/posix/gawkmisc.c
+can't stat fd %d (%s)
+%s %s `%s': could not set close-on-exec: (fcntl: %s)
+/usr/src/gawk/gawk-3.1.7/gawkmisc.c
+%s: %s: can't allocate %ld bytes of memory (%s)
+xmalloc
+POSIXLY_CORRECT
+%s: unrecognized option '%c%s'
+%s: invalid option -- '%c'
+%s: option '%c%s' doesn't allow an argument
+%s: option '%s' requires an argument
+%s: option '%s' is ambiguous
+%s: option requires an argument -- '%c'
+%s: unrecognized option '--%s'
+%s: option '-W %s' is ambiguous
+%s: option '--%s' doesn't allow an argument
+%s: option '-W %s' doesn't allow an argument
+/usr/src/gawk/gawk-3.1.7/io.c
+cannot open file `%s' for reading (%s)
+close of fd %d (`%s') failed (%s)
+RED_FILE
+RED_PIPE
+RED_READ
+RED_WRITE
+RED_APPEND
+RED_NOBUF
+RED_EOF
+RED_TWOWAY
+RED_PTY
+RED_SOCKET
+RED_TCP
+expression for `%s' redirection has null string value
+filename `%s' for `%s' redirection may be result of logical expression
+expression in `%s' redirection only has numeric value
+/inet/
+tcp/
+to/from
+from
+can't open pipe `%s' for input (%s)
+pipe
+can't open two way pipe `%s' for input/output (%s)
+can't redirect from `%s' (%s)
+invalid tree type %s in redirect()
+internal error line %d, file: %s
+unnecessary mixing of `>' and `>>' for file `%.*s'
+%s: %s: can't allocate %ld bytes of memory (%s)
+redirect
+can't open pipe `%s' for output (%s)
+can't open two way socket `%s' for input/output (%s)
+can't redirect to `%s' (%s)
+too many pipes or input files open
+reached system limit for open files: starting to multiplex file descriptors
+close of `%s' failed (%s).
+close of redirection that was never opened
+close: `%.*s' is not an open file, pipe or co-process
+close: second argument must be `to' or `from'
+no explicit close of pipe `%s' provided
+failure status (%d) on file close of `%s' (%s)
+no explicit close of co-process `%s' provided
+close: redirection `%s' not opened with `|&', second argument ignored
+no explicit close of socket `%s' provided
+no explicit close of file `%s' provided
+failure status (%d) on pipe close of `%s' (%s)
+co-process flush of pipe to `%s' failed (%s).
+error writing standard error (%s)
+error writing standard output (%s)
+file flush of `%s' failed (%s).
+pipe flush of `%s' failed (%s).
+/inet/raw client not ready yet, sorry
+/inet/raw server not ready yet, sorry
+remote host and port information (%s, %s) invalid
+local port %s invalid in `/inet'
+file
+/dev/
+raw/
+no (known) protocol supplied in special filename `%s'
+stdin
+stdout
+stderr
+file `%s' is a directory
+udp/
+GAWK_SOCK_RETRIES
+special file name `%s' is incomplete
+must supply a remote port to `/inet'
+must supply a remote hostname to `/inet'
+use `PROCINFO["%s"]' instead of `%s'
+spec_setup
+use `PROCINFO[...]' instead of `/dev/user'
+%d %d %d %d
+/dev/fd/
+/dev/stdin
+/dev/stdout
+/dev/stderr
+/dev/pid
+/dev/ppid
+/dev/pgrpid
+/dev/user
+could not open `%s', mode `%s'
+close of pipe failed (%s)
+/dev/pty%c%x
+/dev/ptmx
+/dev/pty%c0
+close of slave pty failed (%s)
+/bin/sh
+socket
+moving pipe to stdin in child failed (dup: %s)
+close of stdin in child failed (%s)
+moving pipe to stdout in child failed (dup: %s)
+close of stdout in child failed (%s)
+close of master pty failed (%s)
+moving slave pty to stdin in child failed (dup: %s)
+moving slave pty to stdout in child failed (dup: %s)
+cannot open pipe `%s' (%s)
+cannot create child process for `%s' (fork: %s)
+AWKPATH
+trypath
+do_pathopen
+register_open_hook
+iop_alloc
+data file `%s' is empty
+iop->buf
+could not allocate more input memory
+grow_iop_buffer
+recm.rt_start != NULL
+recm.start != NULL
+error reading input file `%s': %s
+multicharacter value of `RS' is a gawk extension
+%s%.*spty
+pty_vs_pipe
+full_index
+IOP_IS_TTY
+IOP_IS_INTERNAL
+IOP_NO_FREE
+IOP_NOFREE_OBJ
+IOP_AT_EOF
+IOP_CLOSED
+IOP_AT_START
+awkvars.out
+%.6g
+compat
+traditional
+lint
+lint-old
+optimize
+posix
+nostalgia
+gen-po
+non-decimal-data
+profile
+copyleft
+copyright
+field-separator
+file
+re-interval
+source
+dump-variables
+assign
+version
+usage
+help
+exec
+use-lc-numeric
+TIDYMEM
+WHINY_USERS
+/usr/share/locale
+gawk
+@(#)
++F:f:v:W;m:DO
+%s: option requires an argument -- %c
+empty argument to `--source' ignored
+fatal
+%s: option `-W %s' unrecognized, ignored
+awkprof.out
+running %s setuid root may be a security problem
+POSIXLY_CORRECT
+environment variable `POSIXLY_CORRECT' set: turning on `--posix'
+/usr/src/gawk/gawk-3.1.7/main.c
+-m option usage: `-m[fr] nnn'
+`-m[fr]' option irrelevant in gawk
+`--posix' overrides `--traditional'
+invalid
+`--posix'/`--traditional' overrides `--non-decimal-data'
+out of memory
+can't set binary mode on stderr (%s)
+can't set binary mode on stdout (%s)
+can't set binary mode on stdin (%s)
+no program text at all!
+%s: %s: can't allocate %ld bytes of memory (%s)
+*data
+add_src
+Usage: %s [POSIX or GNU style options] -f progfile [--] file ...
+Usage: %s [POSIX or GNU style options] [--] %cprogram%c file ...
+POSIX options:		GNU long options:
+	-f progfile		--file=progfile
+	-F fs			--field-separator=fs
+	-v var=val		--assign=var=val
+	-m[fr] val
+	-O			--optimize
+	-W compat		--compat
+	-W copyleft		--copyleft
+	-W copyright		--copyright
+	-W dump-variables[=file]	--dump-variables[=file]
+	-W exec=file		--exec=file
+	-W gen-po		--gen-po
+	-W help			--help
+	-W lint[=fatal]		--lint[=fatal]
+	-W lint-old		--lint-old
+	-W non-decimal-data	--non-decimal-data
+	-W profile[=file]	--profile[=file]
+	-W posix		--posix
+	-W re-interval		--re-interval
+	-W source=program-text	--source=program-text
+	-W traditional		--traditional
+	-W usage		--usage
+	-W use-lc-numeric	--use-lc-numeric
+	-W version		--version
+To report bugs, see node `Bugs' in `gawk.info', which is
+section `Reporting Problems and Bugs' in the printed version.
+gawk is a pattern scanning and processing language.
+By default it reads standard input and writes standard output.
+Examples:
+	gawk '{ sum += $1 }; END { print sum }' file
+	gawk -F: '{ print $1 }' /etc/passwd
+error writing standard output (%s)
+Copyright (C) 1989, 1991-%d Free Software Foundation.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+-Ft does not set FS to tab in POSIX awk
+ARGV
+ARGC
+ARGIND
+BINMODE
+CONVFMT
+ENVIRON
+ERRNO
+FIELDWIDTHS
+FILENAME
+IGNORECASE
+LINT
+OFMT
+PROCINFO
+RLENGTH
+RSTART
+SUBSEP
+TEXTDOMAIN
+messages
+AWKPATH
+pgrpid
+3.1.7
+ppid
+euid
+egid
+group%d
+`%s' is not a variable name, looking for file `%s=%s'
+%s: `%s' argument to `-v' not in `var=value' form
+`%s' is not a legal variable name
+fatal error: internal error
+floating point exception
+internal error line %d, file: %s
+fatal error: internal error: segfault
+fatal error: internal error: stack overflow
+awk: bailing out near line 1
+/dev/null
+could not find groups: %s
+groupset
+init_groupset
+%s: 
+cmd. line:
+%d: 
+FILENAME=%s 
+FNR=%ld) 
+warning: 
+error: 
+fatal: 
+%.0f
+/usr/src/gawk/gawk-3.1.7/node.c
+s->stptr
+%s: %s: can't allocate %ld bytes of memory (%s)
+format_val
+Ar->stptr
+dupnode
+r->ahname_str
+old != NULL
+backslash at end of string
+make_str_node
+nextfree
+more_nodes
+old awk does not support the `\%c' escape sequence
+escape sequence `\%c' treated as plain `%c'
+hex escape \x%.*s of %d characters probably not interpreted the way you expect
+POSIX does not allow `\x' escapes
+no hex digits in `\x' escape sequence
+random: not enough state (%ld bytes); ignored.
+random: state info corrupted; not changed.
+GAWK_NO_DFA
+()|*+?.^$\[]
+/usr/src/gawk/gawk-3.1.7/re.c
+%s: %s: can't allocate %ld bytes of memory (%s)
+make_regexp
+rp->pat.fastmap
+dest
+%s: /%s/
+internal error line %d, file: %s
+t->type == Node_regex
+*+|?
+RE_BACKSLASH_ESCAPE_IN_LISTS
+RE_BK_PLUS_QM
+RE_CHAR_CLASSES
+RE_CONTEXT_INDEP_ANCHORS
+RE_CONTEXT_INDEP_OPS
+RE_CONTEXT_INVALID_OPS
+RE_DOT_NEWLINE
+RE_DOT_NOT_NULL
+RE_HAT_LISTS_NOT_NEWLINE
+RE_INTERVALS
+RE_LIMITED_OPS
+RE_NEWLINE_ALT
+RE_NO_BK_BRACES
+RE_NO_BK_PARENS
+RE_NO_BK_REFS
+RE_NO_BK_VBAR
+RE_NO_EMPTY_RANGES
+RE_UNMATCHED_RIGHT_PAREN_ORD
+RE_NO_POSIX_BACKTRACKING
+RE_NO_GNU_OPS
+RE_DEBUG
+RE_INVALID_INTERVAL_ORD
+RE_ICASE
+RE_CARET_ANCHORS_HERE
+RE_CONTEXT_INVALID_DUP
+RE_NO_SUB
+RE_SYNTAX_EMACS
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+LC_ALL
+LC_CTYPE
+LANG
+/usr/src/gawk/gawk-3.1.7/regcomp.c
+!IS_EPSILON_NODE (node->token.type)
+node->next == NULL
+right > -1
+left > -1
+alnum
+space
+upper
+lower
+cntrl
+alpha
+digit
+print
+blank
+graph
+punct
+xdigit
+/usr/src/gawk/gawk-3.1.7/regexec.c
+pmatch[0].rm_so == start
+regs_allocated == REGS_FIXED
+regs->num_regs >= nregs
+mctx.input.offsets_needed == 0
+err == REG_ESPACE
+num >= 0
+@(#)GNU Awk 3.1.7
+POSIX
+Node_illegal
+Node_times
+Node_quotient
+Node_mod
+Node_plus
+Node_minus
+Node_cond_pair
+Node_subscript
+Node_concat
+Node_exp
+Node_preincrement
+Node_predecrement
+Node_postincrement
+Node_postdecrement
+Node_unary_minus
+Node_field_spec
+Node_assign
+Node_assign_times
+Node_assign_quotient
+Node_assign_mod
+Node_assign_plus
+Node_assign_minus
+Node_assign_exp
+Node_assign_concat
+Node_and
+Node_or
+Node_equal
+Node_notequal
+Node_less
+Node_greater
+Node_leq
+Node_geq
+Node_match
+Node_nomatch
+Node_not
+Node_rule_list
+Node_rule_node
+Node_statement_list
+Node_switch_body
+Node_case_list
+Node_if_branches
+Node_expression_list
+Node_param_list
+Node_K_if
+Node_K_switch
+Node_K_case
+Node_K_default
+Node_K_while
+Node_K_for
+Node_K_arrayfor
+Node_K_break
+Node_K_continue
+Node_K_print
+Node_K_print_rec
+Node_K_printf
+Node_K_next
+Node_K_exit
+Node_K_do
+Node_K_return
+Node_K_delete
+Node_K_delete_loop
+Node_K_getline
+Node_K_function
+Node_K_nextfile
+Node_redirect_output
+Node_redirect_append
+Node_redirect_pipe
+Node_redirect_pipein
+Node_redirect_input
+Node_redirect_twoway
+Node_var_new
+Node_var
+Node_var_array
+Node_val
+Node_builtin
+Node_line_range
+Node_in_array
+Node_func
+Node_func_call
+Node_cond_exp
+Node_regex
+Node_dynregex
+Node_hashnode
+Node_ahash
+Node_array_ref
+Node_BINMODE
+Node_CONVFMT
+Node_FIELDWIDTHS
+Node_FNR
+Node_FS
+Node_IGNORECASE
+Node_LINT
+Node_NF
+Node_NR
+Node_OFMT
+Node_OFS
+Node_ORS
+Node_RS
+Node_SUBSEP
+Node_TEXTDOMAIN
+Node_final --- this should never appear
+unknown nodetype %d
+MALLOC
+TEMP
+PERM
+STRING
+STRCUR
+NUMCUR
+NUMBER
+MAYBE_NUM
+ARRAYMAXED
+FUNC
+FIELD
+INTLSTR
+/usr/src/gawk/gawk-3.1.7/eval.c
+buffer overflow in genflags2str
+statement has no effect
+`continue' outside a loop is not allowed
+`break' outside a loop is not allowed
+`nextfile' cannot be called from an END rule
+list[j-1] == t
+`next' cannot be called from an END rule
+internal error line %d, file: %s
+for loop: array `%s' changed size from %ld to %ld during loop execution
+`break' outside a loop is not portable
+`continue' outside a loop is not portable
+`nextfile' cannot be called from a BEGIN rule
+`next' cannot be called from a BEGIN rule
+for_loop
+%s: %s: can't allocate %ld bytes of memory (%s)
+list
+illegal type (%s) in tree_eval
+reference to uninitialized variable `%s'
+reference to uninitialized argument `%s'
+attempt to use array `%s' in a scalar context
+assignment used in conditional context
+concatenation: side effects in one expression have changed the length of another!
+can't use function name `%s' as variable or array
+division by zero attempted
+division by zero attempted in `%%'
+treelist
+tree_eval
+strlist
+nval
+interpret
+l->stptr
+division by zero attempted in `%%='
+division by zero attempted in `/='
+nloops_active > 0
+loop_stack
+push_forloop
+curfcall >= 0
+function `%s' called with more arguments than declared
+fcalls[curfcall].stack
+push_args
+fcalls
+function `%s' not defined
+type = %s
+reference to uninitialized field `$%d'
+assignment is not allowed to result of builtin function
+attempt to field reference from non-numeric value
+attempt to reference from null string
+attempt to access field %d
+`IGNORECASE' is a gawk extension
+BINMODE value `%s' is invalid, treated as 3
+`BINMODE' is a gawk extension
+efgEG
+ +-#'
+fmt_list
+fmt_index
+bad `%sFMT' specification `%s'
+CONV
+invalid
+turning off `--lint' due to assignment to `LINT'
+fatal
+could not open `%s' for writing: %s
+sending profile to standard error
+/usr/src/gawk/gawk-3.1.7/profile.c
+file != NULL
+indent_level >= 0
+case 
+%6ld  
+for (
+ in 
+break
+continue
+while (
+return
+print
+printf
+next
+if (
+} else {
+exit
+do {
+} while (
+switch (
+default:
+nextfile
+ && 
+ || 
+ in %s) { %s %s'
+# treated internally as `delete'
+delete %s[
+internal error: %s with null vname
+illegal type (%s) in tree_eval
+ %% 
+ >= 
+ <= 
+ != 
+ == 
+ ^= 
+ -= 
+ += 
+ %%= 
+ /= 
+ *= 
+internal error line %d, file: %s
+assignment is not allowed to result of builtin function
+attempt to use array `%s' in a scalar context
+ %s 
+pp_list: got %s
+tree->type == Node_expression_list
+delete %s
+ in %s
+getline
+# this is a dynamically loaded extension function
+	# gawk profile, created %s
+	# BEGIN block(s)
+	BEGIN {
+	# Rule(s)
+	# END block(s)
+	END {
+function %.*s(
+	# Functions, listed alphabetically
+\%03o
+unexpected type %s in prec_level
+SUBSEP
+BINMODE
+CONVFMT
+FIELDWIDTHS
+IGNORECASE
+LINT
+OFMT
+TEXTDOMAIN
+Unknown node type %s in pp_var
+O<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__printf__
+libintl_bindtextdomain
+libintl_dcgettext
+libintl_dcngettext
+libintl_dgettext
+libintl_fprintf
+libintl_gettext
+libintl_snprintf
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+__assert
+__errno
+__main
+__mb_cur_max
+_ctype_
+_exit
+abort
+accept
+access
+atan2
+atof
+atoi
+bind
+calloc
+ceil
+close
+connect
+ctime
+cygwin_conv_to_posix_path
+cygwin_internal
+dlerror
+dll_crt0__FP11per_process
+dlopen
+dlsym
+execl
+exit
+fclose
+fcntl
+fdopen
+fflush
+fgets
+fileno
+floor
+fmod
+fopen
+fork
+fprintf
+fputs
+free
+fstat
+fwrite
+getegid
+getenv
+geteuid
+getgid
+getgroups
+gethostbyname
+getpgrp
+getpid
+getppid
+getservbyname
+getuid
+gmtime
+grantpt
+isatty
+kill
+listen
+localeconv
+localtime
+longjmp
+malloc
+memcpy
+memmove
+memset
+open
+pclose
+pipe
+popen
+ptsname
+putc
+qsort
+read
+realloc
+recvfrom
+setjmp
+setlocale
+setmode
+setsockopt
+shutdown
+signal
+sleep
+socket
+sqrt
+sscanf
+stat
+strcasecmp
+strchr
+strcmp
+strcpy
+strdup
+strerror
+strftime
+strlen
+strncasecmp
+strncmp
+strrchr
+strtod
+strtol
+strtoul
+system
+tcgetattr
+tcsetattr
+time
+unlockpt
+vsnprintf
+wait
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-intl-8.dll
+msys-1.0.dll
+KERNEL32.dll

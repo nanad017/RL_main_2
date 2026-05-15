@@ -1,0 +1,779 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+Invalid parameter passed to C runtime function.
+(null)
+('8PW
+700PP
+```hhh
+xppwpp
+\VarFileInfo\Translation
+ProductVersion
+\StringFileInfo\%04x%04x\%s
+OriginalFilename
+LegalCopyright
+Microsoft (R) 
+%s (%s)
+Drive=%s, Dir=%s, Name=%s, Ext = %s
+Target file is %s
+No files Found with %s
+Current Symbol Search Path = %s 
+%s%s
+Trying Symbol Path %s :  
+Failed to get PDB file for %s : PDB error : %d 
+%s Invalid Image Format, is not EXE, SYS, or DLL
+Failed to get PDB file for %s error : %d
+Extracting TMF files from %s to %s
+Couldn't process file %s, Status = 0x%08X
+Continuing
+Couldn't find next file, GetLastError() = 0x%08X.
+Processing subdirs
+Processing Dir %s
+Couldn't process Dir %s, Status = 0x%08X
+Kernel32.dll
+HeapSetInformation
+TracePDB creates TMF files from the specified PDB file. If you specify
+an image file, TracePDB finds the PDB file for the image and then
+creates a TMF file.
+Usage: 
+TracePDB.exe [-f <PDBFiles>] [-s] [-p <TMFDirectory>] [-v] [-c]
+TracePDB.exe -i <ImageFiles> [-r <SymbolPaths>] [-p <TMFDiretory>] [-v] [-c]
+Parameters
+-f <PDBFiles>     - Source of trace formatting instructions. 
+                    Default=<LocalDirectory>\*.pdb.
+                    Valid wildcards are ? and *.
+-s                - Recursive. Creates TMF files for all PDB files
+                    that match -f in all subdirectories of the -f path.
+-p <TMFDirectory> - Output file location (directory only).
+                    Default=Local directory.
+                    Do not specify a file name; the file name is the message GUID.
+-i ImageFiles     - Image Files for which to find PDBs and creates TMFs.
+                    Valid wildcards are ? and *.
+-r <SymbolPaths>  - Path to private PDB symbol files. Default 
+                    is %_NT_SYMBOL_PATH% or srv*\\symbols\symbols.
+-o <TmfFile>      - Name of sigle tmf file output
+                    Will generate a single TMF file
+-c                - Generate TMC files.
+-v                - Verbose.
+Default values.
+        <PDBFiles>     <LocalDirectory>\*.pdb.
+        <TMFDirectory> Local directory.
+        <SymbolPath>   %_NT_SYMBOL_PATH% or srv*\\symbols\symbols
+TracePDB: no current directory
+TracePDB: PDBname toolarge
+argv %d, %s
+TracePDB: Path larger than MAX_PATH
+TracePDB: Out file name and path larger than MAX_PATH
+FILE:
+TracePDB: select either -o or -c, both are not allowed
+GEN_TMC
+TracePDB: SymPath Path larger than MAX_PATH
+TracePDB: Choose either -f file.pdb or -i image file to extract TMF files
+TracePDB: Invalid Target Path Name %s
+SymGetSymbolFile
+Dbghelp
+Functionality for finding the matching PDB file not availalbe
+!! UPDATE your DEBUGGER and use that DBGHELP.dll  !!
+Failed to load DBGHELP.dll  !!
+_NT_SYMBOL_PATH
+srv*\\symbols\symbols
+Failed to add EnumGuid entry : Memory allocation failed for Guid entries.
+Failed to add EnumGuid entry : Memory allocation failed for Guid Enumeration Link.
+Failed to add Enumeration entry : Memory allocation failed for Enumeration entries.
+Failed to add Enumeration entry : Memory allocation failed for Enumeration name.
+Failed to add Enumeration entry : Memory allocation failed for Guid Enumeration Link.
+%s\%s.tmf
+DumpEnumsToTMF : error BNP0000: WPPFMT File + Path too long %s
+%s %s
+#enumv %s
+%S,0x%I64X
+%8x`%08x
+dbh: initializing...
+Symbol Path = [%s]
+error 0x%x from SymInitialize()
+SymOpts = 0x%x
+error 0x%x from SymRegisterCallback64()
+warning: Enums will not be proccess, failed allocation of structures
+load <modname> - you must specify a module to load
+.pdb
+error 0x%x loading %s.
+error unloading %s at %s
+ModuleName = %s	 (Init called in Function %s)
+FlagName
+	%-32s	  Value
+PUBLIC_TMF:
+	%-32s	= 0x%08X
+//ModuleName = %s%s	 (Init called in Function %s)
+[Dynamic,
+ Description("%s_%s"),
+ guid("{%s}"),
+ locale("MS\\0x409")]
+class %s%s : EventTrace
+    [Description ("Enable Flags") : amended,
+        ValueDescriptions{
+             "%s Flag"
+             "%s Flag"
+        DefineValues{
+             "%s"
+             "%s"
+        Values{
+        ValueMap{
+             "0x00000001"
+             "0x%.8X"
+}: amended
+    ]
+    uint32 Flags;
+#typev %s%d
+Unknown
+%s FUNC=%s
+Error:Insufficient Buffer
+index %d already in use!
+TMF:
+.tmf
+TMC:
+.tmc
+%s : WARNING : Large Event Annoation ignored from TMF file %s
+   :%s
+%s\%s.mof
+%s : error BNP0000: WPPFMT Failed to make path %s
+%s : warning BNP0000: WPPFMT Failed Create %s (0x%0X)
+#pragma autorecover
+#pragma classflags("forceupdate")
+#pragma namespace("\\\\.\\root\\WMI")
+// WPP Generated File
+%s//
+%s : error BNP0000: WPPFMT GUID buffer too small 
+%s\%s%s
+%s : error BNP0000: WPPFMT File + Path too long %s
+%s : warning BNP0000: WPPFMT Failed to open %s (0x%0X)
+%s : info BNP0000: WPPFMT generating %s for %s
+FLAGS
+LEVEL
+ItemEnum
+ItemFlagsEnum
+    [Description ("Levels") : amended,
+        ValueDescriptions{
+            "Abnormal exit or termination",
+            "Severe errors that need logging",
+            "Warnings such as allocation failure",
+            "Includes non-error cases",
+            "Detailed traces from intermediate steps" } : amended,
+         DefineValues{
+            "TRACE_LEVEL_FATAL",
+            "TRACE_LEVEL_ERROR",
+            "TRACE_LEVEL_WARNING"
+            "TRACE_LEVEL_INFORMATION",
+            "TRACE_LEVEL_VERBOSE" },
+        Values{
+            "Fatal",
+            "Error",
+            "Warning",
+            "Information",
+            "Verbose" },
+        ValueMap{
+            "0x1",
+            "0x2",
+            "0x3",
+            "0x4",
+            "0x5" },
+        ValueType("index")
+    ]
+    uint32 Level;
+// PDB:  %s
+// PDB:  Last Updated :%d-%d-%d:%d:%d:%d:%d (UTC) [%s]
+error 0x%X calling SymSearch()
+error 0x%X calling SymSearch(%s)
+%s : info BNP0000: WPPFMT No Trace entries found in %s
+RSDS
+tracepdb.pdb
+t!SW
+AOHu
+L$(Q3
+YYSSS
+u"9=
+PPPPPP
+D$$h
+D$0P
+D$$Pj
+D$Hh\
+D$Hh`
+D$HP
+D$HPh|
+_^[3
+ PhT
+<itV<ItR<rt
+fjW[
+ PhH
+YYjz
+ Pht
+YYjW
+YYjWX
+SSSS
+j@Xf
+0YKu
+Y@Yf;
+Y_^[
+Ff;5
+QQSVf
+0PVS
+j	Yj@
+Gf;~
+t8VW
+YYv/3
+HtTHt&Ht
+Y_^[
+Wumf
+BTf;
+_^@[]
+SVWj
+S@VP
+YYSSh
+PQQQQW
+h  @
+ShD @
+hT @
+hl @
+s&Wh
+Sh$!@
+s&Wh8!@
+hL!@
+Sh$!@
+Wh8!@
+h`!@
+hx!@
+YY_^[
+tWj\
+PQh0
+QQVW
+u)j W
+9sLs
+CTPVh0
+sTh("@
+h8"@
+CL;CPuH
+ hH"@
+PPVh
+PPPP
+j$hX
+j$WVhX
+uUh4
+h<$@
+Whl$@
+Whl$@
+hp$@
+hx$@
+Whl$@
+<0(t
+8)u	+
+VVVVh 
+tjSh
+Ph:K@
+VVVVV
+YY95$
+txf95
+Ph<(@
+Ff;5
+ h`(@
+h(y@
+SVht
+F95x
+t,G;
+YY</t
+<\t	G;
+_^[]
+>:u"
+9E vVPW
+9u(vHVS
+9u v
+9] v
+^SSSSS
+SSSSS
+^SSSSS
+t)Ou
+^SSSSS
+URPQQh `@
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+8csm
+8csm
+hHy@
+t?!E
+_^[]
+hhy@
+Y_^[
+Y_^[
+Y__^[
+huY@
+v	N+D$
+VVVV
+t/HHt
+At]HHt<HHtUHHtQ
+~5Q3
+WWWWW
+RPVQ
+PPPPP
+PPPPP
+QQQQQ
+X_[^
+UQPXY]Y[
+WWWWW
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+Unknown
+FreeLibrary
+GetCurrentProcess
+LoadLibraryW
+GetEnvironmentVariableA
+FindFirstFileExA
+GetLastError
+GetProcAddress
+FindClose
+LoadLibraryA
+GetModuleFileNameA
+FindNextFileA
+GetModuleHandleA
+GetCurrentDirectoryA
+KERNEL32.dll
+free
+malloc
+fputs
+printf
+fprintf
+_vsnprintf
+_iob
+exit
+strchr
+_errno
+_XcptFilter
+__p__commode
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+_mbsdec
+_ismbblead
+memcpy
+memset
+?terminate@@YAXXZ
+_controlfp
+isleadbyte
+_fileno
+_snprintf
+_itoa
+wctomb
+__badioinfo
+__pioinfo
+_isatty
+_write
+_lseeki64
+VerQueryValueA
+GetFileVersionInfoSizeA
+GetFileVersionInfoA
+VERSION.dll
+SymSetOptions
+SymRegisterCallback64
+MakeSureDirectoryPathExists
+SymInitialize
+dbghelp.dll
+Sleep
+InterlockedExchange
+InterlockedCompareExchange
+OutputDebugStringA
+RtlUnwind
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+TerminateProcess
+CreateFileA
+GetFileSize
+FileTimeToSystemTime
+GetFileTime
+CloseHandle
+LocalFree
+strncmp
+strstr
+fgets
+_strcmpi
+fopen
+strrchr
+vfprintf
+fclose
+SymGetLineFromAddr64
+SymLoadModuleEx
+SymGetTypeInfo
+SymGetOptions
+SymCleanup
+SymEnumTypesByName
+SymUnloadModule64
+SymSearch
+SymFromAddr
+memcmp
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Tracing.Tracepdb"
+    type="win32" />
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false" />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+0p0t0
+9*:2:9:W:
+;1;;;w;
+;*<6<@<h<
+=V=e=
+>">'>4>:>E>L>u>{>
+?$?.?<?[?h?
+0&0,0?0F0r0
+1;1E1W1y1
+2!2'2/262K2V2G3
+34494Q4\4c4x4
+5%565M5T5e5s5
+626<6N6T6`6e6j6p6u6
+7!7&7-767?7O7X7^7d7u7
+8?8X8e8p8{8
+9/969I9O9^9p9
+:':3:B:R:
+;";-;F;U;c;x;
+<'<3<9<d<
+=/=>=F=U=Z=d=u=z=
+=">)>O>n>
+?%?P?{?
+1P1p1
+2*2<2B2H2S2Y2f2o2u2
+31373o3{3
+4#4O4U4b4h4n4t4
+5"5(5.5C5Q5]5d5
+5,64696?6G6L6R6Z6`6g6m6u6z6
+7J7P7r7x7
+8!8'868<8f8l8
+8@9[9a9p9
+:B:S:Y:n:
+; ;&;F;Q;w;
+<&<F<Y<
+= =+=;=K=T=Y=^=f=y=
+>2><>F>L>j>
+?'?,?1?H?N?S?Y?j?o?t?y?
+0!0.080K0P0V0b0i0w0}0
+1!191N1Z1b1u1z1
+1"2'252D2g2~2
+2s3{3
+444M4_4i4t4
+5%5,595C5G5R5]5c5i5o5y5
+6!6(6.6;6D6L6R6Z6a6m6{6
+7"7+757A7G7N7W7]7e7k7x7
+888C8U8]8b8g8
+9,929<9B9K9P9w9
+9/:;:
+163F3L3Z3f3
+6(656R6
+7'7/7;7D7I7O7Y7c7m7v7{7
+2J3^3
+6#7,7
+8&8z8
+9"9<9@9\9`9|9
+ 0$0
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1L0J
+ http://www.microsoft.com/windows0
+ihAY
+-:	Eq;Pk
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120726032428Z0#
+o-kl
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+bned
+1L0J
+ http://www.microsoft.com/windows0
+a#U,
+o~KA
+ Lbo"B
+20120726032429.579Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120220222922Z
+130520223922Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+7H[y
+|J:Sz
+U\m 
+":%T
+.QEHh2t
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+lc9h
+^6b.
+?U @I]
+oPnp
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Rdv]
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120725233522Z
+20120726233522Z0t0:
+1,0*0
+1(0&0
+6YCQ
+P|k>
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Rdv]
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+fYc$
+.xP9
+}&8~
+l~@	
+*KU$

@@ -1,0 +1,1219 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+,#(e
+,@	,=
+,9(f
+p*ro
+*jr}
+*.r5
+*.rK
+*.rk
+*.r/
+*.rc
+*.r3
+*.rg
+*.rE
+*.rm
+*.rG
+*.ro
+*.r-
+*.rA
+*.rk
+*6r5
+*6r[
+*2rA
+*6ro
+*6r1
+*6ra
+*6r	
+*2r1
+*2rU
+*Fr?
+*6rY
+*2r	
+*6r/
+*6rU
+*2r{
+*2rU
+*2r}
+*2r5
+*2ri
+*2rY
+*2r}
+*2r#
+*6rA
+*2ri
+	z*A4
+p	s"
+p	s"
+p	s"
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+7|">
+08ao2
+?u&	{u
+x0&0x
+6d|o
+SQL Server Log Shipping
+\The backup operation completed with errors. Primary Database: '{0}', Log Backup File: '{1}' 
+Server Default
+Disabled
+Enabled
+.An error occurred during the backup operation.
+VThe backup file '{0}' already exists in the destination directory. Secondary ID: '{1}'
+%The backup file '{0}' already exists.
+FThe file '{1}' is too recent to apply to the secondary database '{0}'.
+KBacking up transaction log. Primary Database: '{0}', Log Backup File: '{1}'
+Retrieved backup settings. Primary Database: '{0}', Backup Directory: '{1}', Backup Retention Period: {2} minute(s), Backup Compression: {3}
+8Could not retrieve backup settings for primary ID '{0}'.
+UThe backup operation was successful. Primary Database: '{0}', Log Backup File: '{1}' 
+BVerifying backup. Primary Database: '{0}', Log Backup File: '{1}' 
++----- START OF TRANSACTION LOG BACKUP -----
++----- START OF TRANSACTION LOG COPY   -----
+.----- START OF TRANSACTION LOG RESTORE   -----
+5An error occurred restoring the database access mode.
+Could not cleanup history.
++Could not delete old log backup file '{0}'.
+&Could not delete old log backup files.
+$Could not log history/error message.
+9Skipped log backup file. Secondary DB: '{0}', File: '{1}'
+WSearching through log backup files for first log backup to restore. Secondary DB: '{0}'
+Checking to see if any previously copied log backup files that are required by the restore operation are missing. Secondary ID: '{0}'
+Retrieved common restore settings. Primary Server: '{0}', Primary Database: '{1}', Backup Destination Directory: '{2}', File Retention Period: {3} minute(s)
+eThe copy operation completed with errors. Secondary ID: '{0}', Number of log backup files copied: {1}
+,An error occurred during the copy operation.
+nCould not copy log backup file '{0}'. The copy operation will be re-attempted on the next run of the Copy job.
+Copying log backup files. Primary Server: '{0}', Primary Database: '{1}', Backup Source Directory: '{2}', Backup Destination Directory: '{3}'
+Retrieved copy settings. Primary Server: '{0}', Primary Database: '{1}', Backup Source Directory: '{2}', Backup Destination Directory: '{3}', Last Copied File: '{4}'
+8Could not retrieve copy settings for secondary ID '{0}'.
+^The copy operation was successful. Secondary ID: '{0}', Number of log backup files copied: {1}
+QCopying log backup file to temporary work file. Source: '{0}', Destination: '{1}'
+YCopying missing log backup file to temporary work file. Source: '{0}', Destination: '{1}'
+\The log backup file '{1}' was verified but could not be applied to secondary database '{0}'.
+CDeleting log backup file. File: '{0}', Last Write Time (UTC): '{1}'
+6Deleting old log backup files. Primary Database: '{0}'
+4The copy destination directory '{0}' does not exist.
+(Disconnecting users. Secondary DB: '{0}'
++----- END OF TRANSACTION LOG BACKUP   -----
++----- END OF TRANSACTION LOG COPY     -----
+.----- END OF TRANSACTION LOG RESTORE     -----
+RAn error occurred checking the log backup file '{1}' for secondary database '{0}'.
+*** Error: {0}({1}) ***
+Exit Status: 1 (Error)
+Exit Status: 0 (Success)
+cSkipping log backup file '{1}' for secondary database '{0}' because the file could not be verified.
+HFound a log backup file to apply. Secondary Database: '{0}', File: '{1}'
+HFound first log backup file to restore. Secondary DB: '{0}', File: '{1}'
+	{0} ({1})
+&Could not update log shipping history.
+Invalid -Backup parameter.
+!{0}: Invalid type for column {1}.
+{0}: Invalid column value {1}.
+Invalid -Copy parameter.
+ Invalid -LoginTimeout parameter.
+Invalid parameter '{0}'.
+ Invalid -QueryTimeout parameter.
+Invalid -Restore parameter.
+ Invalid -VerboseLevel parameter.
+{0}	{1}
+[Assembly Version = {1}, File Version = {2}]
+Copyright (c) 2012 Microsoft. All rights reserved.
+{0} -server <instance_name> {{-backup <primary_id> | -copy <secondary_id> | -restore <secondary_id>}} [-verboselevel {{0|1|2|3|4}}] [-logintimeout <timeout_value>] [-querytimeout <timeout_value>]
+'Microsoft SQL Server Log Shipping Agent
+3A value must be provided for the -Backup parameter.
+1A value must be provided for the -Copy parameter.
+9A value must be provided for the -LoginTimeout parameter.
+9A value must be provided for the -QueryTimeout parameter.
+4A value must be provided for the -Restore parameter.
+3A value must be provided for the -Server parameter.
+9A -Backup, -Copy, or -Restore parameter must be provided.
+9A value must be provided for the -VerboseLevel parameter.
+SCould not find a log backup file that could be applied to secondary database '{0}'.
+Could not find a newer log backup file that could be applied to secondary database '{0}'. The restore operation will be re-attempted on the next run of the Restore job.
+No Recovery
+9No secondary databases were found for secondary ID '{0}'.
+<None>
+Not Specified
+({0}: Invalid null value for column {1}. 
+A transactional log backup could not be generated because the database is in either NORECOVERY mode or STANDBY mode. Primary Database: '{0}'
+*Could not find entry for primary ID '{0}'.
+Primary Database Settings
+>Renamed temporary work file. Source: '{0}', Destination: '{1}'
+@The restore operation completed with errors. Secondary ID: '{0}'
+LAn error occurred during the restore operation for secondary database '{0}'.
+Retrieved database restore settings. Secondary Database: '{0}', Restore Delay: {1}, Restore All: {2}, Restore Mode: {3}, Disconnect Users: {4}, Last Restored File: {5}, Block Size: {6}, Buffer Count: {7}, Max Transfer Size: {8}
+iThe restore operation was successful. Secondary Database: '{0}', Number of log backup files restored: {1}
+/An error occurred during the restore operation.
+BCould not apply log backup file '{1}' to secondary database '{0}'.
+$Could not retrieve restore settings.
+9The restore operation was successful. Secondary ID: '{0}'
+:Restored log backup file. Secondary DB: '{0}', File: '{1}'
+L**** The primary database is in either NORECOVERY mode or STANDBY mode. ****
+-Retrieving backup settings. Primary ID: '{0}'
+-Retrieving copy settings. Secondary ID: '{0}'
+0Retrieving restore settings. Secondary ID: '{0}'
+@Searching for a newer log backup file. Secondary Database: '{0}'
+ASearching for an older log backup file. Secondary Database: '{0}'
+lThe restore operation cannot proceed because the secondary database '{0}' is not in NORECOVERY/STANDBY mode.
+Secondary Database Settings
+Secondary Settings
+bSkipping log backup file since load delay period has not expired. Secondary DB: '{0}', File: '{1}'
+Skipping log backup file because the log terminates at an LSN value that is too early to apply to the database. Secondary DB: '{0}', File: '{1}'
+Standby
+2Starting transaction log backup. Primary ID: '{0}'
+2Starting transaction log copy. Secondary ID: '{0}'
+5Starting transaction log restore. Secondary ID: '{0}'
+WThe specified login is not a member of the sysadmin fixed server role for server '{0}'.
+0The backup log file '{0}' could not be verified.BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+A"7"
+;&7"
+[)7"
+'r"`
+!r 1
+!"w A
+L"} Q
+.%"!
+7%'!Y
+@%,!i
+t%>!I
+z"K!
+f'*"q
+($/"
+'S"A
+'Y"I
+Q%^"i
+(*"i
+)T#i
++:$i
+9+K$
+!1!8!a!j!w!
+"#"7"<"A"H"h"
+#F#k#
+<Module>
+SqlLogShip.exe
+LogShipping
+Microsoft.SqlServer.Management.LogShipping
+LogShippingUtil
+LogShippingException
+LogShippingCommandLineException
+ILogShippingTask
+FileComparer
+TaskType
+TaskStatus
+LogShippingSR
+Keys
+BackupTask
+LSPrimaryDatabasesResultSet
+CopyTask
+LSSecondaryResultSet
+LSSecondaryResultSetRestore
+RestoreTask
+SecondaryDB
+RestoreMode
+AssemblyVersionInfo
+mscorlib
+System
+Object
+Exception
+IDisposable
+System.Collections
+IComparer
+Enum
+Main
+Guid
+Microsoft.SqlServer.ConnectionInfo
+Microsoft.SqlServer.Management.Common
+SqlConnectionInfo
+ProcessCommandLine
+GetBanner
+GetUsageString
+.ctor
+BackupFileNameExtension
+BackupWorkFileNameExtension
+RestoreUndoFileNameExtension
+UtcDateTimeFormatStr
+ProductNameParam
+ProductVersionParam
+MessageSourceParam
+MessageIDParam
+QueryIsSysAdmin
+QueryIsInStandby
+QueryIsPreferredReplica
+QueryDBStatus
+QueryCanVerifyLog
+SpAddHistoryDetail
+SpAddErrorDetail
+SpGetNewSessionID
+SpCanTlogBeApplied
+SpCleanupHistory
+SpNull
+ServerConnection
+ConnectToServer
+System.Data
+System.Data.SqlClient
+SqlCommand
+GetSqlCommand
+SqlDataReader
+Type
+GetColumnValue
+CanVerifyLogBackup
+CanLogBackupBeApplied
+IsDBInStandbyMode
+IsDatabaseRestoring
+IsPreferredBackupReplica
+EscapeAndQuoteString
+GetBackupLogFileNamePrefix
+CheckFileNameFormat
+DateTime
+GetUtcFromFileName
+System.Diagnostics
+TraceSwitch
+AppTraceSwitch
+GetNewSessionID
+CleanupHistory
+LogErrorMessage
+LogWarningMessage
+LogInfoMessage
+LogEssentialInfoMessage
+LogVerboseMessage
+WriteTraceMessage
+WriteTraceErrorMessage
+WriteHistoryMessage
+WriteErrorDetail
+FormatHelpUrl
+FormatNullArg
+Initialize
+get_BeginTaskMessage
+get_EndTaskMessage
+Execute
+BeginTaskMessage
+EndTaskMessage
+Compare
+value__
+Invalid
+Backup
+Copy
+Restore
+Count
+Starting
+Running
+Success
+Error
+Warning
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+get_ApplicationName
+get_MessageSource
+get_BeginBackupMsg
+get_EndBackupMsg
+get_BeginCopyMsg
+get_EndCopyMsg
+get_BeginRestoreMsg
+get_EndRestoreMsg
+get_ExitStatusError
+get_ExitStatusSuccess
+get_RestoringDBDummyFileName
+get_BackupCompressionEnabled
+get_BackupCompressionDisabled
+get_BackupCompressionDefault
+get_NotSpecified
+get_None
+get_NoRecovery
+get_Standby
+get_PrimaryDatabaseSettings
+get_SecondarySettings
+get_SecondaryDatabaseSettings
+get_MissingServerParameter
+get_MissingBackupParameter
+get_MissingCopyParameter
+get_MissingRestoreParameter
+get_MissingLoginTimeout
+get_MissingQueryTimeout
+get_MissingVerboseLevel
+get_MissingTaskParameter
+get_InvalidBackupParameter
+get_InvalidCopyParameter
+get_InvalidRestoreParameter
+get_InvalidLoginTimeout
+get_InvalidQueryTimeout
+get_InvalidVerboseLevel
+get_HistoryWriteError
+get_CantDeleteOldBackupFiles
+get_BackupError
+get_CopyError
+get_RestoreSettingsError
+get_RestoreError
+get_CantChangeDBAccessMode
+get_CantLogMessage
+get_CantCleanupHistory
+LogShippingAgentBanner
+LogShippingAgentUsage
+LogMessageFormatStr
+ExceptionFormatStr
+HistoryDetailExceptionFormatStr
+StartingLogBackup
+RetrievingBackupSettings
+BackupInProgress
+BackupVerifyInProgress
+DeletingOldBackupFiles
+BackupSuccessful
+BackupCompletedWithErrors
+StartingLogCopy
+RetrievingCopySettings
+CopyInProgress
+BackupFileAlreadyCopied
+CopySuccessful
+CopyCompletedWithErrors
+StartingLogRestore
+RetrievingRestoreSettings
+RestoreDBSuccessful
+RestoreSuccessful
+RestoreCompletedWithErrors
+PrimaryDBInRestoreMode
+CheckingForMissingCopiedFiles
+BackupSettings
+DeletingOldBackupFile
+CopySettings
+CopyingBackupFileToTmpFile
+RenamedCopiedTmpFile
+CommonRestoreSettings
+RestoreDBSettings
+DisconnectingUsers
+RestoredBackupFile
+SkippingBackupFile
+CheckingBackupFiles
+CheckedBackupFile
+FoundFirstBackupFile
+SkippingOldBackupFile
+SearchingForNewerBackupFile
+SearchingForOlderBackupFile
+FoundBackupFile
+CopyingMissingBackupFileToTmpFile
+InvalidOption
+UserNotSysadmin
+BackupSettingsError
+PrimaryDBSettingsNotFound
+BackupFileExistsError
+VerifyBackupLogError
+CantDeleteOldBackupFile
+NoSecondaryDBsFound
+DestinationDirectoryDoesNotExist
+CopySettingsError
+CopyFileError
+SecondaryDBNotInRestoreMode
+ErrorCheckingBackupFile
+RestoreFileError
+RestoreDBError
+BackupFileTooRecent
+NoBackupFileToApply
+NoNewerBackupFileToApply
+CouldNotRestoreVerifiedFile
+FileNotVerifiedFile
+NullColumnValue
+InvalidColumnType
+InvalidColumnValue
+Culture
+ApplicationName
+MessageSource
+BeginBackupMsg
+EndBackupMsg
+BeginCopyMsg
+EndCopyMsg
+BeginRestoreMsg
+EndRestoreMsg
+ExitStatusError
+ExitStatusSuccess
+RestoringDBDummyFileName
+BackupCompressionEnabled
+BackupCompressionDisabled
+BackupCompressionDefault
+NotSpecified
+None
+NoRecovery
+Standby
+PrimaryDatabaseSettings
+SecondarySettings
+SecondaryDatabaseSettings
+MissingServerParameter
+MissingBackupParameter
+MissingCopyParameter
+MissingRestoreParameter
+MissingLoginTimeout
+MissingQueryTimeout
+MissingVerboseLevel
+MissingTaskParameter
+InvalidBackupParameter
+InvalidCopyParameter
+InvalidRestoreParameter
+InvalidLoginTimeout
+InvalidQueryTimeout
+InvalidVerboseLevel
+HistoryWriteError
+CantDeleteOldBackupFiles
+BackupError
+CopyError
+RestoreSettingsError
+RestoreError
+CantChangeDBAccessMode
+CantLogMessage
+CantCleanupHistory
+System.Resources
+ResourceManager
+resourceManager
+_culture
+GetString
+PrimaryDBQueryStr
+Dispose
+get_BackupCompressionString
+m_databaseName
+m_backupDir
+m_backupRetentionPeriod
+Microsoft.SqlServer.SmoExtended
+Microsoft.SqlServer.Management.Smo
+BackupCompressionOptions
+m_backupCompression
+m_taskID
+m_primaryConn
+m_sessionID
+CompressionEnumMap
+BackupCompressionString
+PrimaryID
+PrimaryDatabase
+BackupDir
+BackupShare
+BackupRetentionPeriod
+BackupCompression
+SecondaryQueryStr
+CopyMissingFiles
+GetEarliestLastRestoredFile
+CheckIfValidFileExists
+m_primaryServerName
+m_primaryDBName
+m_backupSourceDir
+m_backupDestDir
+m_lastCopiedFileName
+m_secondaryConn
+SecondaryID
+PrimaryServer
+BackupSourceDir
+BackupDestDir
+FileRetentionPeriod
+CopyJobID
+RestoreJobId
+MonitorServer
+MonitorServerSecurityMode
+SecondaryDatabase
+RestoreDelay
+RestoreAll
+DisconnectUsers
+BlockSize
+BufferCount
+MaxTransferSize
+RestoreThreshold
+ThresholdAlert
+ThresholdAlertEnabled
+LastCopiedFile
+LastCopiedDate
+LastCopiedDateUtc
+LastRestoredFile
+m_fileRetentionPeriod
+ArrayList
+m_secondaryDBList
+RestoreStr
+NoRecoveryOptionStr
+StandbyOptionStr
+BlockSizeOptionStr
+BufferCountOptionStr
+MaxTransferSizeOptionStr
+get_Name
+set_Name
+get_RestoreDelay
+set_RestoreDelay
+get_RestoreAll
+set_RestoreAll
+get_RestoreMode
+set_RestoreMode
+get_DisconnectUsers
+set_DisconnectUsers
+get_BlockSize
+set_BlockSize
+get_BufferCount
+set_BufferCount
+get_MaxTransferSize
+set_MaxTransferSize
+get_LastRestoredFileName
+set_LastRestoredFileName
+SearchTlogForward
+SearchTlogBackward
+m_name
+m_restoreDelay
+m_restoreAll
+m_restoreMode
+m_disconnectUsers
+m_lastRestoredFileName
+m_secondaryID
+m_blockSize
+m_bufferCount
+m_maxTransferSize
+Name
+LastRestoredFileName
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+args
+taskID
+System.Runtime.InteropServices
+OutAttribute
+connInfo
+verboseLevel
+conn
+colIdx
+valCategory
+valType
+allowNull
+fileName
+dbName
+inputStr
+delimiterChar
+quoteOutputStr
+backupFileNamePrefix
+taskType
+database
+sessionID
+sessionStatus
+showTimestamp
+message
+messageID
+inner
+value
+title
+assemblyVersion
+fileVersion
+date
+innerMsg
+path
+server
+file
+count
+retention
+compression
+primaryServer
+primaryDB
+srcDir
+destDir
+lastFile
+secondaryDB
+restoreDelay
+restoreAll
+recoverDB
+disconnectUsers
+blockSize
+bufferCount
+maxTransferSize
+param
+valueCategory
+arg0
+arg1
+arg2
+arg3
+arg4
+arg5
+arg6
+arg7
+arg8
+srcFileNames
+srcFile
+destFile
+secondaryID
+secondaryConn
+fileNames
+lastRestoredUtcTime
+startIdx
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTrademarkAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCultureAttribute
+NeutralResourcesLanguageAttribute
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+SqlLogShip
+Trace
+set_AutoFlush
+TraceListenerCollection
+get_Listeners
+Console
+System.IO
+TextWriter
+get_Out
+TextWriterTraceListener
+TraceListener
+Empty
+TraceLevel
+set_Level
+String
+SqlOlapConnectionInfoBase
+set_ServerName
+set_UseIntegratedSecurity
+set_QueryTimeout
+StringComparison
+Int32
+Parse
+set_ConnectionTimeout
+get_ConnectionTimeout
+get_QueryTimeout
+RuntimeTypeHandle
+GetTypeFromHandle
+IsDefined
+get_ServerName
+get_Length
+Equals
+WriteLine
+get_Message
+FormatException
+Assembly
+GetExecutingAssembly
+GetCustomAttributes
+get_Title
+AssemblyName
+GetName
+Version
+get_Version
+ToString
+ConnectionSettings
+set_NonPooledConnection
+set_ApplicationName
+ConnectionManager
+Connect
+System.Data.Common
+DbCommand
+set_CommandText
+ExecuteScalar
+SqlConnection
+get_SqlConnectionObject
+CreateCommand
+get_StatementTimeout
+set_CommandTimeout
+DbDataReader
+IsDBNull
+GetValue
+IsInstanceOfType
+Format
+ExecuteNonQuery
+CommandType
+set_CommandType
+SqlParameterCollection
+get_Parameters
+SqlParameter
+SqlDbType
+DbParameter
+set_Value
+ParameterDirection
+set_Direction
+get_Value
+Boolean
+CompareOrdinal
+Char
+get_Chars
+Math
+Substring
+Path
+GetInvalidFileNameChars
+DirectorySeparatorChar
+AltDirectorySeparatorChar
+VolumeSeparatorChar
+System.Text.RegularExpressions
+Regex
+Escape
+Replace
+StartsWith
+IsDigit
+MaxValue
+GetFileNameWithoutExtension
+DateTimeFormatInfo
+get_InvariantInfo
+IFormatProvider
+ParseExact
+get_Level
+get_InnerException
+get_Now
+get_InvariantCulture
+get_Source
+IDictionary
+get_Data
+get_Item
+EscapeUriString
+.cctor
+GetType
+get_Namespace
+set_Source
+get_Product
+set_Item
+get_FullName
+GetFileName
+CompilerGeneratedAttribute
+get_CurrentCulture
+Module
+get_Module
+get_Assembly
+ExecuteReader
+Read
+Byte
+Close
+get_UtcNow
+Combine
+File
+Exists
+Microsoft.SqlServer.Smo
+Server
+BackupRestoreBase
+set_Database
+BackupActionType
+set_Action
+BackupDeviceList
+get_Devices
+DeviceType
+AddDevice
+set_Initialize
+set_CompressionOption
+SqlBackup
+Directory
+GetFiles
+GetLastWriteTimeUtc
+TimeSpan
+op_Subtraction
+get_Ticks
+Delete
+Disconnect
+Array
+Sort
+BinarySearch
+Move
+get_Count
+FileInfo
+IEnumerator
+GetEnumerator
+get_Current
+MoveNext
+op_LessThan
+op_LessThanOrEqual
+MinValue
+DatabaseCollection
+get_Databases
+Database
+get_PrimaryFilePath
+DatabaseOptions
+get_DatabaseOptions
+Microsoft.SqlServer.SqlEnum
+DatabaseUserAccess
+get_UserAccess
+set_UserAccess
+TerminationClause
+Alter
+System.Text
+StringBuilder
+AppendFormat
+IsNullOrEmpty
+Append
+SqlException
+get_Number
+Microsoft.SqlServer.Management.LogShipping.LogShippingSR.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+Microsoft SQL Server
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1917 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
++Microsoft (R) SQL Server Log Shipping Agent
+'Microsoft SQL Server Log Shipping Agent
+en-US
+WrapNonExceptionThrows
+RSDS1s
+SqlLogShip.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+        <assemblyIdentity
+                        version="1.0.0.0"
+                        processorArchitecture="amd64"
+                        name="SqlLogShip"
+                        type="win32" />
+        <description>SQL Server Log Shipping</description>
+	<ms_asmv2:trustInfo xmlns:ms_asmv2="urn:schemas-microsoft-com:asm.v2">
+		<ms_asmv2:security>
+			<ms_asmv2:requestedPrivileges>
+        			<ms_asmv2:requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      			</ms_asmv2:requestedPrivileges>
+    		</ms_asmv2:security>
+  	</ms_asmv2:trustInfo>
+</assembly>
+							
+"#(&&"
+&##"
+(###"
+(((((##"
+(((((##
+*6666666660/,)!
+S6FS6FFFFFFFF6600,,)
+p#p#pHNpHNNNNNNNNRNJF0,,!
+N`[[[[[[[a[[O667,
+9Cw'
+'x``x``[[[[[[`aa`[NOJ$ 	
+?<eHxHfHHfHHHHHHHHHH6*
+N[G$	
+@=dg
+}}}vuurrrlW
+^^^^^^^^XTrlW
+?<;Bj
+}}vusrW
+@=:Ah
+}}yvuuW
+^^^^^^^^XTvuW
+}}}yW
+?<;Bj
+}}}W
+@=:Ai
+h^^^^^^^XT}}W
+?<;Bj
+h^^^^^^^XT
+@=:Ai
+XXX]]]]]]]]]]]]XXX
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+)YV 
+1D0B
+http://www.microsoft.com/sql0
+xAwh
+Hl,U
+	|~s6
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211165221Z0#
+],5gQ
+'Kmp%z}<
+z[pp
+jT!	
+N0L0
+ gu=o
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1D0B
+http://www.microsoft.com/sql0
+n\i~
+B@sytF
+0!0	
+O1&"'
+20120211165224.591Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+rse0
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+N<~pA
+k=n`R
+Kxz5
+1faE%
+D8Io6

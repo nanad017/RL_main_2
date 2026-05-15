@@ -1,0 +1,2788 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+UWVSH
+[^_]
+|$PI
+l$`H
+|$HH
+|$8H
+T$XH
+|$0H
+T$pH
+T$@L
+|$(H
+t$ H
+UWVSH
+h[^_]
+L$HH
+T$(H
+L$XH
+L$XL
+L$XI
+UWVSH
+([^_]
+UWVSH
+([^_]
+UWVSH
+K E1
+8[^_]
+AWAVAUATUWVSL
+<yD9
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+WVSH
+t6Hc
+ [^_
+AWAVAUATUWVSH
+t$(Hc
+|$(L
+T$(H
+X[^_]A\A]A^A_
+T$0L
+T$0A
+t$(A
+t$@M
+l$HI
+T$0H
+V(H)
+l$HL
+t$@H
+H9|$0A
+)vKH
+T$0N
+D$HH
+L$@H
+D$HH
+T$0D
+L$@I
+T$@H
+T$@H
+D$0H
+T$@H
+Lct$<L
+T$0I
+T$0H
+|$(E
+T$0H
+Lct$<L
+T$(L
+T$(Hc
+]t/H
+|$(u3
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+tLE1
+ [^_
+AWAVAUATUWVSH
+t$(K
+T$(I
+|$(L
+[^_]A\A]A^A_
+D$4H
+D$8L
+T$8H
+Q\D)
++QXD+A\
+AX+A`
+A\+A`H
+T$(A
+T$ H
+T$ H
+L$(L
+T$0H
+WVSH
+ [^_
+WVSH
+*IXH
+L$(H
+L$(H
+L$(H
+0[^_
+ATUWVSH
+|$0A
+@[^_]A\
+SXD)
+D+AXD+I\E
+L$(f
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$ H
+L$(H
+L$0H
+L$8H
+L$@H
+L$HH
+t$ H
+\$(H
+D$ H
+D$ H
+D$ H
+8[^_]A\A]A^A_
+D$ H
+L$ Hc
+L$(Hc
+WVSH
+ [^_
+AWAVAUATUWVSH
+t$<H
+|$(A
+H[^_]A\A]A^A_
+AWAVAUATUWVSH
+t$4D
+t$<E1
+L$(D
+d$,D9
+D$09D$8
+H[^_]A\A]A^A_
+AUATUWVSH
+H[^_]A\A]
+D$0d
+D$  
+D$0d
+D$0d
+D$  
+D$0d
+D$0d
+D$0d
+D$0d
+D$0d
+WVSH
+NXt(
+ [^_
+ [^_
+ATUWVSH
+ [^_]A\
+ATUWVSH
+ [^_]A\
+ [^_]A\
+D$0E1
+D$(H
+\$0H
+CL+S@D+CD
+ATUWVSH
+L$ H
+0[^_]A\
+UWVSH
++S0D
+D+C4
+([^_]
+WVSH
+D$0E1
+D$(H
+\$0H
+@[^_
+ATUWVSH
+D$pH
+ [^_]A\
+UWVSH
+([^_]
+WVSH
+ [^_
+WVSH
+ [^_
+UWVSH
+([^_]
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
++sX+C\
+ [^_
+WVSH
+D$0E1
+D$(H
+\$0H
+D$(H
+@[^_
+ATUWVSH
+ [^_]A\
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+([^H
+UWVSH
+([^_]
+UWVSH
+([^_]
+([^H
+([^H
+([^H
+T$(H
+AWAVAUATUWVSL
+<yD9
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+WVSH
+t6Hc
+ [^_
+AWAVAUATUWVSH
+|$ L
+$fD9
+L$ H
+X[^_]A\A]A^A_
+D$(H
+|$(L
+T$(H
+T$(H
+L$ A
+T$ H
+T$ H
+T$ H
+d$(~
+D9\$(
+Lcd$(L
+\$HL
+D$@L
+\$HH
+T$8L
+D$@I
+K(H)
+l$81
+H9l$8vKH
+T$8N
+E u'
+t}HcD$4L
+T$(H
+T$(H
+L$ Hc
+T$(H
+\$@H
+D$8L
+\$@H
+T$(D
+D$8I
+T$@H
+T$@H
+D$8H
+T$@H
+Lcd$(H
+Lc\$4L
+T$ L
+T$ Hc
+L$ u
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+tLE1
+ [^_
+AWAVAUATUWVSH
+D$0H
+D$@H
+D$PH
+D$`H
+D$pH
+D$8"L
+D$H'
+D$X&
+D$h<
+D$x>H
+D$(H
+L;d$(t
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+D$(H
+t$ K
+T$ I
+H;|$(t
+t$ L
+H;\$(t
+[^_]A\A]A^A_
+D$4H
+D$@H
+u3E1
+A+FXH
+A+F\A
+D$HH
+L$8H
+D$8H
+L$8H
+T$HH
+D$HH
+L$8H
+UWVSH
+D$(H
+H[^_]
+WVSH
+0[^_
+AUATUWVSH
+8[^_]A\A]
+([^H
+L$8H
+L$<H
+T$0H
+L$ H
+L$LH
+T$@H
+L$ H
+L$HL
+9T$@t
+L$49L$Du
+L$89L$Hu
+L$<9L$Lu
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+T$8E1
+D$ A
+T$8E1
+D$ A
+T$8E1
+D$ A
+T$8E1
+D$ A
+T$8L
+D$ A
+T$8L
+D$ A
+D$ A
+L$8H
+D$8H
+T$8E1
+H[^_]A\A]A^A_
+UWVSH
+([^_]
+t$(H
+t$(H
+\$(1
+D$0A
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AWAVAUATUWVSH
+L$@H
+L$@H
+L$@H
+L$@H
+X[^_]A\A]A^A_
+\$HH
+D$@L
+T$@H
+D$0d
+D$0d
+D$0d
+D$0d
+ATUWVSH
+)t$P
+(t$PH
+`[^_]A\
+d$0H
+D$0A
+D$@f
+L$8f
+|$ A
+\$ A
+(t$PH
+`[^_]A\
+T$0A
+|$ A
+\$ A
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+8[^_]A\A]
+D$XH
+D$8H
+D$0H
+D$(L
+wD=	
+tI=T
+T$(D
+T$(D
+UWVSH
+8[^_]H
+8[^_]
+D$PL
+D$PL
+L$XL
+D$(H
+t$0H
+WVSH
+)t$ 
+t$pD
+(t$ H
+0[^_
+L$hD
+D$(H
+)t$ 
+(t$ H
+ATUWVSH
+L$8H
+T$8H
+T$ H
+@[^_]A\
+@[^_]A\
+UWVSH
+8[^_]
+8[^_]
+8[^_]H
+8[^_]
+WVSH
+0[^_
+WVSH
+t$(H
+L$8I
+D$81
+@[^_
+WVSH
+t$0E1
+\$(1
+@[^_
+WVSH
+0[^_
+WVSH
+ [^_
+D$ L
+UWVSH
+8[^_]
+WVSH
+ [^_
+AWAVAUATUWVSL
+<yD9
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+WVSH
+t6Hc
+ [^_
+AWAVAUATUWVSH
+t$(Hc
+|$(L
+T$(H
+X[^_]A\A]A^A_
+T$0L
+T$0A
+l$8I
+D$HL
+D$HH
+T$@I
+P(H)
+l$8H
+H9|$8A
++vKH
+T$8N
+D$@H
+T$8H
+D$@H
+T$8I
+T$@H
+T$@H
+D$8H
+T$@H
+T$8A
+T$8L
+Lct$0L
+T$8I
+T$8H
+|$(E
+Lct$0L
+T$(L
+T$(Hc
+KtNH
+|$(u.
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+tLE1
+ [^_
+AWAVAUATUWVSH
+d$ H
+T$8H
+T$ H
+D$0K
+|$ L
+tIHc
+[^_]A\A]A^A_
+D$,H
+D$0L
+\$0H
+UWVSH
+([^_]
+T$,H
+L$,D
+D$(H
+UWVSH
+([^_]
+UWVSH
+\$pH
+([^_]
+([^_]H
+([^_]
+D$(H
+D$(H
+ATUWVSH
+T$(H
+0[^_]A\
+D$,H
+WVSH
+L$<H
+L$ H
+T$0H
+L$8L
+D$<A
+D$4A
+D$4H
+@[^_
+D$<D
+D$4D
+UWVSH
+D$Lt0H
+L$HH
+X[^_]
+T$HA
+D$0E1
+D$0E1
+T$LH
+L$HH
+ATUWVSH
+ [^_]A\
+AUATUWVSH
+([^_]A\A]
+UWVSH
+([^_]
+UWVSH
+([^_]
+WVSH
+ [^_
+AWAVAUATUWVSH
+d$HH
+l$DH
+|$@H
+t$LF
+D$<M
+D$@9
+D$HD9
+D$D;
+D$L;D$<~
+D$8H
+X[^_]A\A]A^A_
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+UWVSH
+([^_]
+UWVSH
+([^_]
+WVSH
+ [^_
+UWVSH
+\$ L
+\$ L
+\$ L
+\$ L
+\$ L
+\$ L
+\$ L
+8[^_]
+UWVSH
+t8f.
+([^_]
+UWVSH
+([^_]
+WVSH
+t$0E1
+\$(1
+@[^_
+D$(H
+AUATUWVSH
+([^_]A\A]
+WVSH
+WVSH
+tEf.
+ [^_
+UWVSH
+([^_]H
+UWVSH
+([^_]H
+WVSf
+UWVSH
+|$0H
+X[^_]
+WVSH
+L$(H
+L$(H
+P[^_
+AWAVAUATUWVSH
+\$HH
+l$@E1
+L$0H
+X[^_]A\A]A^A_
+\$PH
+T$@I
+L$@L
+L$HE1
+D$Hf
+L$8H
+L$8H
+WVSH
+t$@H
+T$0I
+L$8E1
+T$8H
+L$8H
+`[^_
+UWVSH
+t$@H
+T$0I
+L$0E1
+L$8E1
+h[^_]
+ATUWVSH
+t$@H
+T$0I
+L$0E1
+T$8H
+`[^_]A\
+L$8E1
+D$8H
+\$@H
+L$8E1
+D$8H
+\$@H
+UWVSH
+([^_]
+([^_]
+AVAUATUWVSH
+t$0H
+\$(H
+@[^_]A\A]A^
+AWAVAUATUWVSH
+,M A
+U4E1
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+T$ H
+YD$0f
+UWVSH
+([^_]
+ATUWVSH
+0[^_]A\
+UWVSH
+L$0A
+T$(D
+X[^_]
+\$ H
+AWAVAUATUWVSH
+|$`H
+t$lH
+l$ H
+D$ <
+[^_]A\A]A^A_
+ATUWVSH
+0[^_]A\
+AWAVAUATUWVSH
+L$HH
+*K,H
+L$HH
+X[^_]A\A]A^A_
+D$0c
+)t$0H
+\$(H
+T$ f
+(t$0H
+AUATUWVSH
+([^_]A\A]
+UWVSH
+\$(H
+T$(H
+8[^_]
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+D$XH
+D$HH
+D$P~'D
+L$XL
+t$PA
+\$xH
+l$`E
+|$HH
+L$PM
+t8Ic
+|$pA
+t$hD9l$H
+|$xE
+t$HC
+T$81
+D$xA
+D$XA
+L$XI
+L$x~
+D$`E1
+|$XL
+D$PE1
+D$HOc
+T$`9D$X
+t$XE
+T$81
+t$ H
+\$HL
+D$`H
+D$HH
+~"f.
+t$XH
+D$P~SD
+t$PA
+t$HE9
+L$`H
+t$XA
+d$ H
+\$pH
+UWVSH
+([^_]
+AWAVAUATUWVSH
+D$XH
+L$XH
+s8E1
+h[^_]A\A]A^A_
+A\D)Ad
+QX)Q`
+A\)Q`D)Ad
+Q`D)Ad
+QX)Q`D
+IXA9
+I`D9
+Q\D9
+T$ H
+T$ H
+D$ D
+T$(H
+D+IXD
++A\E
+WVSH
+ [^_
+WVSH
+*IXH
+L$(H
+L$(H
+L$(H
+L$(H
+0[^_
+ATUWVSH
+T$0A
+T$0A
+d$0A
+|$0H
+@[^_]A\
+UWVSH
+([^_]
+T$ L
+D+AXD+I\
+Idt1D
+WVSH
+ [^_
+UWVSH
+([^_]
+UWVSH
+t$@H
+h[^_]
+L$8E1
+h[^_]
+h[^_]
+WVSH
+t$0H
+K4|-H
+P[^_
+AUATUWVSH
+[^_]A\A]
+l$`L
+D$PH
+L$8E1
+D$8E1
+L$8E1
+D$8E1
+L$8E1
+D$8E1
+D$8H
+L$8E1
+ATUWVSH
+l$8H
+L9d$8u
+@[^_]A\
+@[^_]A\
+\$ H
+UWVSH
+\$ H
+H[^_]
+AUATUWVSH
+h[^_]A\A]
+|$@L
+d$8L
+L$0E1
+h[^_]A\A]
+UWVSH
+[^_]
+[^_]
+,z A
+L$HH
+L$PA
+t$`H
+l$PH
+L$XH
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+UWVSH
+l$pH
+NHE1
+[^_]
+AWAVAUATUWVSH
+h[^_]A\A]A^A_
+T$XL
+D$ 	
+T$XL
+WVSH
+t$0H
+WVSH
+ [^_
+AUATUWVSH
+8[^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+L$hH
+T$`L
+D$`H
+0[^_
+\$ E
+\$0A
+D$ L
+WVSH
+\$ A
+0[^_
+WVSH
+D$<H
+t$ H
+T$(H
+@[^_
+ATUWVSH
+)t$0f
+t$(E
+t$ H
+(t$0I
+@[^_]A\
+WVSH
+T$`D
+ [^_
+WVSH
+D$,I
+0[^_
+ATUWVSH
+ [^_]A\
+WVSH
+ [^_
+ATUWVSH
+ [^_]A\
+ATUWVSH
+ [^_]A\
+ [^_]A\
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+)t$Pf
+D$HfH
+L$8f
+(t$PH
+(t$PH
+uefH
+\$8f
+T$8H
+(t$PH
+\$8f
+T$8H
+(t$PH
+libgcj-16.dll
+_Jv_RegisterClasses
+Maurits Rijk (m.rijk@chello.nl)
+Released under the GNU General Public License
+Copyright 
+ 1999-2005 by Maurits Rijk
+Image Map Plug-In
+program-name
+transient-for
+license
+copyright
+authors
+version
+response
+destroy
+gtk-cancel
+gtk-open
+destroy
+response
+drag-data-received
+clicked
+STRING
+text/plain
+out of dynamic memory in cern_ensure_buffer_stack()
+out of dynamic memory in cern__create_buffer()
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+input in flex scanner failed
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+out of dynamic memory in cern__scan_buffer()
+out of dynamic memory in cern__scan_bytes()
+bad buffer in cern__scan_bytes()
+#"$%&'*+)(,.0-
+"circle" coords="%d,%d,%d"
+circ (%d,%d) %d
+circle %s %d,%d %d,%d
+imap-circle
+Center _x:
+value-changed
+pixels
+Center _y:
+_Radius:
+C_ircle
+Clear
+Copy
+Copy
+Create
+Delete
+Delete Point
+Edit Object
+Use Gimp Guides
+Create
+Al_ternate
+A_ll
+Add Additional Guides
+L_eft border
+_Right border
+_Upper border
+Lo_wer border
+_Base URL:
+Resulting Guide Bounds: %d,%d to %d,%d (%d areas)
+Create Guides
+Guides are pre-defined rectangles covering the image. You define them by their width, height, and spacing from each other. This allows you to rapidly create the most common image map type - image collection of "thumbnails", suitable for navigation bars.
+_Width:
+changed
+_Left start at:
+_Height:
+_Top start at:
+_Horz. spacing:
+_No. across:
+_Vert. spacing:
+No. _down:
+Base _URL:
+Image dimensions: %d 
+Resulting Guide Bounds: 0,0 to 0,0 (0 areas)
+Guides
+?Insert Point
+button-release-event
+motion-notify-event
+Move
+Move Down
+button-release-event
+motion-notify-event
+Move Sash
+Move Selected Objects
+Move To Front
+Move Up
+Move Down
+Move
+Move Up
+Paste
+Select
+Select All
+Select Next
+Select Previous
+button-release-event
+motion-notify-event
+Select Region
+Send To Back
+Unselect
+Unselect All
+Unknown
+out of dynamic memory in csim_ensure_buffer_stack()
+out of dynamic memory in csim__create_buffer()
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+input in flex scanner failed
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+out of dynamic memory in csim__scan_buffer()
+out of dynamic memory in csim__scan_bytes()
+bad buffer in csim__scan_bytes()
+&quot;
+&apos;
+&amp;
+&lt;
+&gt;
+RECT
+CIRCLE
+POLY
+DEFAULT
+$%&'
+#(89:;<=>?@ANOQR
+ !/0
+6S7TU
+VWXY[\]^_`abcdefghi
+"$%&'()*+,
+/0123
+45678
++,-P
+.1CDEFGZHIJKLM
+ !"#$%&'(
+)*/+.01234
+!"#$$%%%%%&'(()**+++,-.//0112233333333334567889:;<=>?
+gimp-imagemap
+plug-in-imagemap
+gtk-apply
+gtk-cancel
+gtk-ok
+response
+destroy
+http://
+ftp://
+gopher://
+file:/
+wais://
+telnet://
+mailto:
+Area Settings
+switch-page
+Link Type
+_Web Site
+toggled
+_Ftp Site
+_Gopher
+Ot_her
+F_ile
+WAI_S
+Tel_net
+e-_mail
+_URL to activate when this area is clicked: (required)
+Select HTML file
+changed
+Relati_ve link
+_Target frame name/ID: (optional - used for FRAMES only)
+ALT te_xt: (optional)
+_Link
+gimp-web
+Dimensions
+Pre_view
+o_nMouseover:
+on_Mouseout:
+on_Focus (HTML 4.0):
+on_Blur (HTML 4.0):
+_JavaScript
+imap-java
+Area #%d Settings
+Load Image Map
+gtk-cancel
+gtk-open
+destroy
+response
+Save Image Map
+gtk-save
+.map
+<span weight="bold" size="larger">%s</span>
+Error opening file
+Grid Settings
+_Snap-to grid enabled
+toggled
+Grid Visibility and Type
+_Hidden
+_Lines
+C_rosses
+Grid Granularity
+_Width
+value-changed
+pixels
+_Height
+Grid Offset
+pixels from l_eft
+pixels from _top
+_Preview
+URL: %s
+%s - Image Map
+<Untitled>
+gimp20-std-plug-ins
+UTF-8
+imagemap
+plug-in-imagemap
+delete-event
+key-press-event
+key-release-event
+destroy
+motion-notify-event
+enter-notify-event
+leave-notify-event
+button-press-event
+Maurits Rijk
+Create a clickable imagemap
+RGB*, GRAY*, INDEXED*
+_Image Map...
+1998-2005
+<Image>/Filters/Web
+Some data has been changed!
+Do you really want to discard your changes?
+Resize area's?
+Image size has changed.
+<span weight="bold" size="larger">%s</span>
+Couldn't read file:
+#$-:Image map file created by GIMP Image Map plug-in
+#$-:GIMP Image Map plug-in by Maurits Rijk
+#$-:Please do not edit lines starting with "#$"
+#$VERSION:2.3
+#$TITLE:%s
+#$AUTHOR:%s
+#$FORMAT:ncsa
+#$DESCRIPTION:%s
+default %s
+rect (4096,4096) (4096,4096) imap:#$
+-:Image map file created by GIMP Image Map plug-in
+-:GIMP Image Map plug-in by Maurits Rijk
+-:Please do not edit lines starting with "#$"
+VERSION:2.3
+TITLE:%s
+AUTHOR:%s
+FORMAT:cern
+DESCRIPTION:%s
+<img src="%s" width="%d" height="%d" border="0" usemap="#%s" />
+<map name="%s">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:%s -->
+<!-- #$DESCRIPTION:%s -->
+<area shape="default" href="%s" />
+</map>
+File "%s" saved.
+Couldn't save file:
+run-mode
+The run mode { RUN-INTERACTIVE (0) }
+image
+Input image (unused)
+drawable
+Input drawable
+sensitive
+/MainMenu/EditMenu/Paste
+/MainMenu/EditMenu/Undo
+_Undo %s
+label
+/MainMenu/EditMenu/Redo
+_Redo %s
+/MainMenu/ViewMenu/ZoomIn
+/MainMenu/ViewMenu/ZoomOut
+/MainMenu/EditMenu/Cut
+/MainMenu/EditMenu/Copy
+/MainMenu/EditMenu/Clear
+/MainMenu/EditMenu/EditAreaInfo
+/MainMenu/EditMenu/DeselectAll
+MenuActions
+building menus failed: %s
+/MainMenu
+/PopupMenu
+/MainMenu/ToolsMenu/Grid
+/Toolbar
+/Tools
+/Selection
+<ui>  <menubar name='MainMenu'>    <menu action='FileMenu'>      <menuitem action='Open'/>      <menuitem action='Save'/>      <menuitem action='SaveAs'/>      <separator/>      <menuitem action='Close'/>      <menuitem action='Quit'/>    </menu>    <menu action='EditMenu'>      <menuitem action='Undo'/>      <menuitem action='Redo'/>      <menuitem action='Cut'/>      <menuitem action='Copy'/>      <menuitem action='Paste'/>      <menuitem action='Clear'/>      <separator/>      <menuitem action='SelectAll'/>      <menuitem action='DeselectAll'/>      <separator/>      <menuitem action='EditAreaInfo'/>      <separator/>      <menuitem action='Preferences'/>    </menu>    <menu action='ViewMenu'>      <menuitem action='AreaList'/>      <menuitem action='Source'/>      <separator/>      <menuitem action='Color'/>      <menuitem action='Gray'/>      <separator/>      <menuitem action='ZoomIn'/>      <menuitem action='ZoomOut'/>      <menu action='ZoomToMenu'>        <menuitem action='Zoom1:1'/>        <menuitem action='Zoom1:2'/>        <menuitem action='Zoom1:3'/>        <menuitem action='Zoom1:4'/>        <menuitem action='Zoom1:5'/>        <menuitem action='Zoom1:6'/>        <menuitem action='Zoom1:7'/>        <menuitem action='Zoom1:8'/>      </menu>    </menu>    <menu action='MappingMenu'>      <menuitem action='Arrow'/>      <menuitem action='Rectangle'/>      <menuitem action='Circle'/>      <menuitem action='Polygon'/>      <separator/>      <menuitem action='EditMapInfo'/>    </menu>    <menu action='ToolsMenu'>      <menuitem action='Grid'/>      <menuitem action='GridSettings'/>      <separator/>      <menuitem action='UseGimpGuides'/>      <menuitem action='CreateGuides'/>    </menu>    <menu action='HelpMenu'>      <menuitem action='Contents'/>      <menuitem action='About'/>    </menu>  </menubar>  <popup name='PopupMenu'>    <menuitem action='EditMapInfo'/>    <menu action='ToolsMenu'>      <menuitem action='Arrow'/>      <menuitem action='Rectangle'/>      <menuitem action='Circle'/>      <menuitem action='Polygon'/>    </menu>    <menu action='ZoomMenu'>      <menuitem action='ZoomIn'/>      <menuitem action='ZoomOut'/>    </menu>    <menuitem action='Grid'/>    <menuitem action='GridSettings'/>    <menuitem action='CreateGuides'/>    <menuitem action='Paste'/>  </popup>  <popup name='ObjectPopupMenu'>    <menuitem action='EditAreaInfo'/>    <menuitem action='DeleteArea'/>    <menuitem action='MoveUp'/>    <menuitem action='MoveDown'/>    <menuitem action='Cut'/>    <menuitem action='Copy'/>  </popup>  <popup name='PolygonPopupMenu'>    <menuitem action='InsertPoint'/>    <menuitem action='DeletePoint'/>    <menuitem action='EditAreaInfo'/>    <menuitem action='DeleteArea'/>    <menuitem action='MoveUp'/>    <menuitem action='MoveDown'/>    <menuitem action='Cut'/>    <menuitem action='Copy'/>  </popup>  <toolbar name='Toolbar'>    <toolitem action='Open'/>    <toolitem action='Save'/>    <separator/>    <toolitem action='Preferences'/>    <separator/>    <toolitem action='Undo'/>    <toolitem action='Redo'/>    <separator/>    <toolitem action='Cut'/>    <toolitem action='Copy'/>    <toolitem action='Paste'/>    <separator/>    <toolitem action='ZoomIn'/>    <toolitem action='ZoomOut'/>    <separator/>    <toolitem action='EditMapInfo'/>    <separator/>    <toolitem action='MoveToFront'/>    <toolitem action='SendToBack'/>    <separator/>    <toolitem action='Grid'/>  </toolbar>  <toolbar name='Tools'>    <toolitem action='Arrow'/>    <toolitem action='Rectangle'/>    <toolitem action='Circle'/>    <toolitem action='Polygon'/>    <separator/>    <toolitem action='EditAreaInfo'/>  </toolbar>  <toolbar name='Selection'>    <toolitem action='MoveUp'/>    <toolitem action='MoveDown'/>    <toolitem action='EditAreaInfo'/>    <toolitem action='Clear'/>  </toolbar></ui>
+Zoom1:1
+Zoom1:2
+Zoom1:3
+Zoom1:4
+Zoom1:5
+Zoom1:6
+Zoom1:7
+Zoom1:8
+Arrow
+gimp-cursor
+Select existing area
+Rectangle
+imap-rectangle
+Define Rectangle area
+Circle
+imap-circle
+Define Circle/Oval area
+Polygon
+imap-polygon
+Define Polygon area
+Color
+Gray
+AreaList
+Area List
+Grid
+gimp-grid
+_Grid
+FileMenu
+_File
+Open
+gtk-open
+_Open...
+Save
+gtk-save
+_Save...
+SaveAs
+gtk-save-as
+Save _As...
+<shift><control>S
+Close
+gtk-close
+Quit
+gtk-quit
+EditMenu
+_Edit
+Undo
+gtk-undo
+Redo
+gtk-redo
+gtk-cut
+Copy
+gtk-copy
+Paste
+gtk-paste
+Clear
+gtk-delete
+Delete
+SelectAll
+Select _All
+<control>A
+DeselectAll
+D_eselect All
+<shift><control>A
+EditAreaInfo
+gtk-edit
+Edit Area _Info...
+Edit selected area info
+Preferences
+gtk-preferences
+MoveToFront
+imap-to-front
+Move Area to Front
+SendToBack
+imap-to-back
+Move Area to Bottom
+DeleteArea
+Delete Area
+MoveUp
+gtk-go-up
+Move Up
+MoveDown
+gtk-go-down
+Move Down
+InsertPoint
+Insert Point
+DeletePoint
+Delete Point
+ViewMenu
+_View
+Source
+Source...
+ZoomIn
+gtk-zoom-in
+plus
+Zoom in
+ZoomOut
+gtk-zoom-out
+minus
+Zoom out
+ZoomToMenu
+_Zoom To
+MappingMenu
+_Mapping
+EditMapInfo
+gtk-info
+Edit Map Info...
+Edit Map Info
+ToolsMenu
+_Tools
+GridSettings
+Grid Settings...
+UseGimpGuides
+Use GIMP Guides...
+CreateGuides
+Create Guides...
+HelpMenu
+_Help
+Contents
+gtk-help
+_Contents
+About
+gtk-about
+ZoomMenu
+_Zoom
+activate
+(mru-entry %s)
+out of dynamic memory in ncsa_ensure_buffer_stack()
+out of dynamic memory in ncsa__create_buffer()
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+input in flex scanner failed
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+out of dynamic memory in ncsa__scan_buffer()
+out of dynamic memory in ncsa__scan_bytes()
+bad buffer in ncsa__scan_bytes()
+ "#&'%)*+,.-01/
+ %s="%s"
+Object locked
+  You cannot delete the selected object  
+since it is currently being edited.
+motion-notify-event
+<area shape=
+target
+onmouseover
+onmouseout
+onfocus
+onblur
+ nohref="nohref"
+href
+# %s
+/ObjectPopupMenu
+"poly" coords="
+%d,%d
+poly 
+(%d,%d)
+(%d,%d) 
+poly %s
+ %d,%d
+imap-polygon
+x (pixels)
+y (pixels)
+changed
+pixels
+_Update
+clicked
+_Insert
+A_ppend
+_Remove
+xalign
+text
+/PolygonPopupMenu
+/PolygonPopupMenu/DeletePoint
+/PolygonPopupMenu/InsertPoint
+_Polygon
+Select Color
+imagemaprc
+default-map-type
+ncsa
+cern
+prompt-for-area-info
+require-default-url
+show-area-handle
+keep-circles-round
+show-url-tip
+use-doublesized
+mru-size
+undo-levels
+normal-fg-color
+normal-bg-color
+selected-fg-color
+selected-bg-color
+interactive-fg-color
+interactive-bg-color
+mru-entry
+# Image map plug-in resource file
+(default-map-type ncsa)
+(default-map-type cern)
+(default-map-type csim)
+(prompt-for-area-info %s)
+(require-default-url %s)
+(show-area-handle %s)
+(keep-circles-round %s)
+(show-url-tip %s)
+(use-doublesized %s)
+(undo-levels %d)
+(mru-size %d)
+(normal-fg-color %d %d %d)
+(normal-bg-color %d %d %d)
+(selected-fg-color %d %d %d)
+(selected-bg-color %d %d %d)
+(interactive-fg-color %d %d %d)
+(interactive-bg-color %d %d %d)
+Couldn't save resource file:
+General Preferences
+General
+Default Map Type
+_NCSA
+C_ERN
+C_SIM
+_Prompt for area info
+_Require default URL
+Show area _handles
+_Keep NCSA circles true
+Show area URL _tip
+_Use double-sized grab handles
+Menu
+Number of _undo levels (1 - 99):
+Number of M_RU entries (1 - 16):
+Colors
+Normal:
+Selected:
+Interaction:
+preview
+expose-event
+size-allocate
+drag-data-received
+button-press-event
+motion-notify-event
+changed
+value-changed
+STRING
+text/plain
+"rect" coords="%d,%d,%d,%d"
+rect (%d,%d) (%d,%d)
+rect %s %d,%d %d,%d
+imap-rectangle
+Upper left _x:
+value-changed
+pixels
+Upper left _y:
+_Width:
+_Height:
+_Rectangle
+text
+stock-id
+Selection
+ALT Text
+Target
+drag-data-received
+button-press-event
+button-release-event
+changed
+STRING
+text/plain
+Settings for this Mapfile
+Filename:
+Image name:
+Select Image File
+_Title:
+Aut_hor:
+Default _URL:
+_Description:
+Map File Format
+_NCSA
+toggled
+C_ERN
+C_SIM
+<Untitled>
+View Source
+imap-circle
+imap-coord
+imap-dimension
+imap-java
+imap-polygon
+imap-rectangle
+imap-to-back
+imap-to-front
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+GdkP
+general_status
+imap-coord
+imap-dimension
+zoom_status
+%d, %d
+1:%d
+"%s"="%s"
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+sqrt
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+atoi
+calloc
+clearerr
+exit
+fclose
+ferror
+fgets
+fprintf
+fread
+free
+fwrite
+getc
+malloc
+memcpy
+memmove
+printf
+realloc
+signal
+sprintf
+strchr
+strcmp
+strlen
+strncmp
+strstr
+strtok
+vfprintf
+_isatty
+_fileno
+gimp_drawable_detach
+gimp_drawable_get
+gimp_drawable_has_alpha
+gimp_drawable_height
+gimp_drawable_is_rgb
+gimp_drawable_type
+gimp_drawable_width
+gimp_image_find_next_guide
+gimp_image_get_colormap
+gimp_image_get_guide_orientation
+gimp_image_get_guide_position
+gimp_image_get_name
+gimp_image_height
+gimp_image_width
+gimp_install_procedure
+gimp_item_get_image
+gimp_main
+gimp_pixel_rgn_get_row
+gimp_pixel_rgn_init
+gimp_plugin_menu_register
+gimp_filename_to_utf8
+gimp_locale_directory
+gimp_personal_rc_file
+gimp_rgb_multiply
+gimp_rgb_set
+gdk_event_triggers_context_menu
+gimp_chain_button_get_active
+gimp_chain_button_get_type
+gimp_chain_button_new
+gimp_color_button_get_color
+gimp_color_button_get_type
+gimp_color_button_new
+gimp_color_button_set_color
+gimp_color_button_set_update
+gimp_dialog_new
+gimp_frame_new
+gimp_help_connect
+gimp_hint_box_new
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_ruler_new
+gimp_ruler_set_range
+gimp_standard_help_func
+gtk_box_new
+gtk_scrollbar_new
+cairo_arc
+cairo_clip
+cairo_close_path
+cairo_destroy
+cairo_fill
+cairo_line_to
+cairo_move_to
+cairo_rectangle
+cairo_restore
+cairo_save
+cairo_set_dash
+cairo_set_line_width
+cairo_set_source_rgb
+cairo_stroke
+gdk_cairo_create
+gdk_cairo_region
+gdk_cairo_set_source_color
+gdk_colormap_alloc_color
+gdk_cursor_new_for_display
+gdk_cursor_unref
+gdk_drawable_get_colormap
+gdk_window_set_cursor
+gdk_pixbuf_new_from_inline
+g_ascii_strcasecmp
+g_ascii_strncasecmp
+g_ascii_strtod
+g_error_free
+g_file_test_utf8
+g_filename_display_basename
+g_fopen
+g_free
+g_get_real_name
+g_get_user_name
+g_list_append
+g_list_find
+g_list_find_custom
+g_list_first
+g_list_free
+g_list_free_full
+g_list_index
+g_list_insert
+g_list_insert_before
+g_list_last
+g_list_length
+g_list_nth
+g_list_prepend
+g_list_remove
+g_list_remove_link
+g_log
+g_malloc
+g_malloc0
+g_malloc_n
+g_markup_escape_text
+g_path_get_basename
+g_slist_append
+g_slist_insert_sorted
+g_snprintf
+g_source_remove
+g_strconcat
+g_strdup
+g_strdup_printf
+g_strdup_vprintf
+g_strndup
+g_timeout_add
+g_utf8_validate
+g_object_get_data
+g_object_new
+g_object_set
+g_object_set_data
+g_object_unref
+g_signal_connect_data
+g_signal_handlers_disconnect_matched
+g_signal_stop_emission_by_name
+g_type_check_instance_cast
+gtk_about_dialog_get_type
+gtk_accel_group_new
+gtk_action_group_add_actions
+gtk_action_group_add_radio_actions
+gtk_action_group_add_toggle_actions
+gtk_action_group_new
+gtk_action_group_set_translation_domain
+gtk_adjustment_get_page_size
+gtk_adjustment_get_type
+gtk_adjustment_get_upper
+gtk_adjustment_get_value
+gtk_adjustment_new
+gtk_arrow_new
+gtk_box_get_type
+gtk_box_pack_end
+gtk_box_pack_start
+gtk_button_new
+gtk_button_new_with_mnemonic
+gtk_cell_renderer_pixbuf_new
+gtk_cell_renderer_text_new
+gtk_check_button_new_with_mnemonic
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_add_button
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_run
+gtk_dialog_set_alternative_button_order
+gtk_dialog_set_default_response
+gtk_dialog_set_response_sensitive
+gtk_drag_dest_set
+gtk_drag_finish
+gtk_editable_get_type
+gtk_editable_set_editable
+gtk_entry_get_text
+gtk_entry_get_type
+gtk_entry_new
+gtk_entry_set_text
+gtk_file_chooser_dialog_new
+gtk_file_chooser_get_filename_utf8
+gtk_file_chooser_get_type
+gtk_file_chooser_set_current_name
+gtk_file_chooser_set_do_overwrite_confirmation
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_handle_box_new
+gtk_icon_factory_add
+gtk_icon_factory_add_default
+gtk_icon_factory_new
+gtk_icon_set_add_source
+gtk_icon_set_new
+gtk_icon_set_unref
+gtk_icon_source_free
+gtk_icon_source_new
+gtk_icon_source_set_pixbuf
+gtk_icon_source_set_size
+gtk_icon_source_set_size_wildcarded
+gtk_image_menu_item_new_with_mnemonic
+gtk_image_new_from_stock
+gtk_label_get_type
+gtk_label_new
+gtk_label_new_with_mnemonic
+gtk_label_set_mnemonic_widget
+gtk_label_set_text
+gtk_list_store_append
+gtk_list_store_clear
+gtk_list_store_get_type
+gtk_list_store_insert
+gtk_list_store_new
+gtk_list_store_remove
+gtk_list_store_set
+gtk_main
+gtk_main_quit
+gtk_menu_get_type
+gtk_menu_popup
+gtk_menu_shell_get_type
+gtk_menu_shell_insert
+gtk_message_dialog_format_secondary_text
+gtk_message_dialog_get_type
+gtk_message_dialog_new
+gtk_message_dialog_new_with_markup
+gtk_misc_get_type
+gtk_misc_set_alignment
+gtk_notebook_append_page
+gtk_notebook_get_type
+gtk_notebook_new
+gtk_notebook_set_current_page
+gtk_orientable_get_type
+gtk_orientable_set_orientation
+gtk_radio_action_get_current_value
+gtk_radio_button_get_group
+gtk_radio_button_get_type
+gtk_radio_button_new_with_mnemonic
+gtk_radio_button_new_with_mnemonic_from_widget
+@	gtk_scrolled_window_add_with_viewport
+A	gtk_scrolled_window_get_hadjustment
+F	gtk_scrolled_window_get_type
+G	gtk_scrolled_window_get_vadjustment
+I	gtk_scrolled_window_new
+L	gtk_scrolled_window_set_policy
+M	gtk_scrolled_window_set_shadow_type
+W	gtk_selection_data_get_data
+Z	gtk_selection_data_get_format
+[	gtk_selection_data_get_length
+	gtk_spin_button_get_type
+	gtk_spin_button_get_value_as_int
+	gtk_spin_button_new
+	gtk_spin_button_set_numeric
+	gtk_spin_button_set_value
+	gtk_statusbar_get_context_id
+	gtk_statusbar_get_type
+	gtk_statusbar_new
+	gtk_statusbar_push
+	gtk_statusbar_remove
+	gtk_stock_add_static
+gtk_table_attach
+gtk_table_attach_defaults
+gtk_table_get_type
+gtk_table_new
+gtk_table_set_col_spacings
+gtk_table_set_row_spacings
+gtk_text_buffer_get_bounds
+gtk_text_buffer_get_end_iter
+gtk_text_buffer_get_text
+gtk_text_buffer_insert
+gtk_text_buffer_new
+gtk_text_buffer_set_text
+gtk_text_view_get_type
+gtk_text_view_new_with_buffer
+gtk_text_view_set_editable
+gtk_toggle_action_get_type
+gtk_toggle_action_set_active
+gtk_toggle_button_get_active
+gtk_toggle_button_get_type
+gtk_toggle_button_set_active
+gtk_toolbar_get_type
+gtk_toolbar_set_style
+gtk_tree_model_get
+gtk_tree_model_get_iter
+gtk_tree_model_get_iter_first
+gtk_tree_model_get_path
+gtk_tree_model_get_type
+gtk_tree_model_iter_n_children
+gtk_tree_model_iter_next
+gtk_tree_model_iter_nth_child
+gtk_tree_model_row_changed
+gtk_tree_path_free
+gtk_tree_selection_get_selected
+gtk_tree_selection_get_selected_rows
+gtk_tree_selection_select_iter
+gtk_tree_selection_set_mode
+gtk_tree_selection_unselect_iter
+gtk_tree_view_append_column
+gtk_tree_view_column_new
+gtk_tree_view_column_new_with_attributes
+gtk_tree_view_column_pack_start
+gtk_tree_view_column_set_alignment
+gtk_tree_view_column_set_cell_data_func
+gtk_tree_view_column_set_min_width
+gtk_tree_view_column_set_resizable
+gtk_tree_view_column_set_sizing
+gtk_tree_view_column_set_title
+gtk_tree_view_get_model
+gtk_tree_view_get_path_at_pos
+gtk_tree_view_get_selection
+gtk_tree_view_get_type
+gtk_tree_view_new_with_model
+gtk_tree_view_set_rules_hint
+gtk_ui_manager_add_ui_from_string
+gtk_ui_manager_get_accel_group
+gtk_ui_manager_get_action
+gtk_ui_manager_get_widget
+gtk_ui_manager_insert_action_group
+gtk_ui_manager_new
+gtk_widget_add_accelerator
+gtk_widget_destroy
+gtk_widget_destroyed
+gtk_widget_get_display
+gtk_widget_get_state
+gtk_widget_get_toplevel
+gtk_widget_get_type
+gtk_widget_get_window
+gtk_widget_grab_focus
+gtk_widget_hide
+gtk_widget_queue_draw
+gtk_widget_queue_resize
+gtk_widget_set_can_focus
+gtk_widget_set_events
+gtk_widget_set_sensitive
+gtk_widget_set_size_request
+gtk_widget_set_visible
+gtk_widget_show
+gtk_window_add_accel_group
+gtk_window_get_type
+gtk_window_new
+gtk_window_present
+gtk_window_set_position
+gtk_window_set_resizable
+gtk_window_set_title
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+libintl_vsprintf
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpcolor-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libcairo-2.dll
+libgdk-win32-2.0-0.dll
+libgdk_pixbuf-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+imagemap.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gtk_spin_button_get_value_as_int
+__imp_cairo_set_source_rgb
+__imp_gtk_menu_popup
+__imp_gtk_text_buffer_new
+__imp_gtk_message_dialog_new
+__imp_gtk_adjustment_get_type
+__imp_gimp_color_button_set_color
+__imp_libintl_vsprintf
+__imp_gdk_cursor_new_for_display
+__imp_GetStartupInfoA
+__imp_gimp_rgb_multiply
+__imp_gtk_tree_view_column_new
+__imp_gtk_widget_get_toplevel
+__imp_gtk_table_new
+__imp_gimp_personal_rc_file
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp_cairo_restore
+__imp_gtk_text_buffer_insert
+__imp_gtk_button_new
+__imp__fmode
+__imp_gtk_cell_renderer_pixbuf_new
+__imp_g_list_free_full
+__imp_gtk_widget_set_sensitive
+__imp__lock
+__imp_gtk_tree_view_column_new_with_attributes
+__imp_gtk_scrollbar_new
+__imp_gtk_widget_queue_resize
+__imp_RtlVirtualUnwind
+__imp_gtk_action_group_add_radio_actions
+__imp_gtk_notebook_get_type
+__imp_gtk_tree_view_column_set_title
+__imp_ferror
+__imp_gtk_statusbar_remove
+__imp_gtk_radio_button_get_group
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gtk_tree_model_get_iter_first
+__imp_gtk_menu_get_type
+__imp_gtk_list_store_get_type
+__imp_gtk_icon_factory_new
+__imp_gimp_drawable_detach
+__imp_gtk_window_get_type
+__imp_gimp_image_height
+__imp_gdk_cursor_unref
+__imp_gtk_tree_view_set_rules_hint
+__imp_gtk_text_buffer_set_text
+__imp_gtk_window_new
+__imp_gtk_toggle_action_get_type
+__imp_gtk_notebook_append_page
+__imp_gimp_dialog_new
+__imp_fileno
+__imp_g_strdup_vprintf
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp_gtk_tree_view_column_set_alignment
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp_gtk_toggle_button_get_active
+__imp_gtk_drag_dest_set
+__imp_gtk_file_chooser_set_current_name
+__imp_gtk_selection_data_get_format
+__imp_gtk_handle_box_new
+__imp_g_slist_insert_sorted
+__imp__acmdln
+__imp_DeleteCriticalSection
+__imp_gtk_ui_manager_get_accel_group
+libintl_8_dll_iname
+__imp_gtk_orientable_set_orientation
+__imp_g_ascii_strtod
+__imp_gtk_text_buffer_get_end_iter
+__imp_gtk_adjustment_get_upper
+__imp_g_ascii_strcasecmp
+__imp_gimp_main
+__imp__amsg_exit
+__imp_g_get_real_name
+__imp_gtk_tree_view_column_set_resizable
+__imp_gimp_drawable_type
+__imp__errno
+__imp_g_strdup
+__imp_gdk_window_set_cursor
+__imp_gtk_action_group_set_translation_domain
+__imp_g_object_get_data
+__imp_gimp_install_procedure
+__imp_gimp_drawable_height
+__imp_cairo_rectangle
+__imp_cairo_set_dash
+libglib_2_0_0_dll_iname
+__imp_gtk_accel_group_new
+__imp_gtk_widget_destroyed
+__imp_g_fopen
+__imp_gtk_tree_model_get
+__imp_gtk_tree_view_column_set_cell_data_func
+__imp_gtk_editable_get_type
+__imp_GetCurrentThreadId
+__imp_gtk_adjustment_get_page_size
+__imp_gtk_toggle_button_set_active
+__imp_cairo_move_to
+__imp_gtk_label_new
+__imp_gtk_tree_model_iter_nth_child
+__imp_gtk_toggle_action_set_active
+__imp_gtk_image_menu_item_new_with_mnemonic
+__imp_gtk_scrolled_window_get_hadjustment
+__imp_gtk_tree_model_iter_n_children
+__imp_gimp_preview_area_get_type
+__imp_gtk_spin_button_get_type
+__imp_gtk_cell_renderer_text_new
+__imp_gimp_rgb_set
+__imp_gdk_cairo_set_source_color
+__imp_strcmp
+__imp_gtk_statusbar_get_context_id
+__imp_gtk_icon_source_free
+__imp_gtk_icon_factory_add_default
+__imp___C_specific_handler
+__imp_gtk_scrolled_window_get_vadjustment
+__imp_g_filename_display_basename
+__imp_gtk_menu_shell_get_type
+__imp_GetLastError
+__imp_free
+__imp_g_list_remove
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_g_path_get_basename
+__imp_gtk_main_quit
+__imp_gimp_drawable_width
+__imp_gtk_list_store_insert
+__imp_libintl_sprintf
+__imp_RtlLookupFunctionEntry
+__imp_gtk_tree_view_new_with_model
+__imp_g_get_user_name
+__imp_g_signal_handlers_disconnect_matched
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_gtk_action_group_add_toggle_actions
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_g_object_new
+__imp_gtk_message_dialog_format_secondary_text
+_head_libgdk_win32_2_0_0_dll
+__imp_g_strndup
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+__imp_gtk_notebook_set_current_page
+__imp_gtk_list_store_clear
+__imp_gtk_tree_view_get_type
+_head_libcairo_2_dll
+__imp_gtk_table_attach_defaults
+__imp_GetTickCount
+__imp_gimp_image_get_name
+__imp_gtk_tree_model_iter_next
+__imp_gimp_ruler_set_range
+__imp_gtk_frame_new
+__imp_gtk_tree_selection_set_mode
+libgdk_win32_2_0_0_dll_iname
+_head_libgtk_win32_2_0_0_dll
+__imp_gtk_widget_get_window
+__imp_GetSystemTimeAsFileTime
+__imp_gtk_tree_model_get_iter
+__imp_gtk_window_set_title
+__imp_cairo_stroke
+__imp_gtk_statusbar_get_type
+__imp_gtk_icon_set_add_source
+__imp_atoi
+__imp_gtk_statusbar_new
+__imp_gtk_scrolled_window_add_with_viewport
+__imp_gtk_dialog_run
+__imp_gtk_text_view_get_type
+__imp_g_list_nth
+__imp_gtk_widget_get_type
+__imp_gtk_label_set_text
+__imp_gtk_scrolled_window_new
+__imp_gtk_tree_view_get_path_at_pos
+__imp_g_list_first
+__imp_cairo_save
+__imp_gtk_tree_view_get_selection
+__imp_gtk_label_new_with_mnemonic
+__imp_gimp_image_get_colormap
+__IAT_end__
+__imp_gdk_pixbuf_new_from_inline
+__imp_g_list_remove_link
+__imp_memcpy
+_head_libgobject_2_0_0_dll
+__imp_gimp_filename_to_utf8
+__imp_gtk_editable_set_editable
+__imp_memmove
+__imp_gtk_tree_view_column_set_sizing
+__imp_gimp_ui_init
+__imp_gtk_table_set_col_spacings
+__imp_gtk_message_dialog_new_with_markup
+__imp_gimp_pixel_rgn_init
+__imp_gtk_stock_add_static
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_g_list_last
+__imp_gtk_text_buffer_get_text
+__imp_gimp_image_get_guide_orientation
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp___getmainargs
+_head_lib64_libkernel32_a
+__imp_g_list_insert_before
+_head_libgdk_pixbuf_2_0_0_dll
+__imp_gtk_icon_set_unref
+_head_lib64_libmsvcrt_a
+__imp_strstr
+__imp_gtk_drag_finish
+__imp_gtk_misc_get_type
+__imp_gtk_list_store_set
+__imp_gtk_orientable_get_type
+__imp_gtk_action_group_new
+__imp_gimp_drawable_has_alpha
+__imp_gtk_spin_button_set_numeric
+__imp_gdk_event_triggers_context_menu
+__imp_EnterCriticalSection
+__imp_GetCurrentProcessId
+__imp_gtk_window_set_resizable
+__imp_gtk_arrow_new
+__imp_g_timeout_add
+__imp___lconv_init
+__imp_cairo_close_path
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_gtk_toolbar_get_type
+__imp_g_markup_escape_text
+__imp_gtk_icon_source_set_pixbuf
+__imp_g_malloc
+__imp_signal
+__imp_gtk_tree_model_get_path
+_head_libgimp_2_0_0_dll
+__imp_gtk_table_set_row_spacings
+__imp_gdk_cairo_create
+__imp_gtk_widget_set_events
+__imp_gtk_box_new
+__imp_gtk_ui_manager_get_action
+__imp_GetModuleHandleA
+__imp_gtk_statusbar_push
+__imp_QueryPerformanceCounter
+__imp_g_ascii_strncasecmp
+__imp_gtk_container_get_type
+__imp_gtk_icon_factory_add
+libgdk_pixbuf_2_0_0_dll_iname
+__imp_g_signal_stop_emission_by_name
+__imp_g_list_append
+__imp_strlen
+__imp_gtk_list_store_new
+__imp_gtk_misc_set_alignment
+__imp_malloc
+__imp_g_object_unref
+libgimpwidgets_2_0_0_dll_iname
+__imp_gtk_tree_selection_select_iter
+__imp_libintl_textdomain
+__imp_gtk_label_get_type
+__imp_gtk_ui_manager_new
+__imp_g_list_insert
+__imp_gtk_file_chooser_get_filename_utf8
+__imp_g_utf8_validate
+__imp_clearerr
+__imp_InitializeCriticalSection
+__imp_gtk_about_dialog_get_type
+__imp_gtk_radio_action_get_current_value
+libgimpcolor_2_0_0_dll_iname
+__imp_gtk_dialog_get_type
+__imp_strtok
+__imp_gtk_entry_set_text
+__imp_gtk_tree_view_column_pack_start
+__imp_gtk_tree_selection_unselect_iter
+__imp_realloc
+__imp_exit
+__imp_gimp_help_connect
+__imp_g_list_prepend
+__imp_g_malloc0
+__imp_gimp_item_get_image
+__imp_vfprintf
+__imp___initenv
+__imp_libintl_vfprintf
+__imp_g_list_length
+__imp_gtk_icon_source_set_size
+__imp_gtk_entry_new
+__imp_gtk_main
+__imp_gtk_label_set_mnemonic_widget
+__imp_gtk_image_new_from_stock
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_gtk_widget_hide
+__imp_libintl_fprintf
+__imp_gtk_table_attach
+__imp_gtk_scrolled_window_set_shadow_type
+__imp_g_file_test_utf8
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gtk_widget_set_visible
+__imp_gtk_action_group_add_actions
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp_cairo_fill
+__imp__onexit
+__imp_isatty
+__imp_gtk_toggle_button_get_type
+__imp_libintl_gettext
+__imp_gtk_text_view_set_editable
+__imp_gtk_dialog_add_button
+__imp_gtk_list_store_append
+__imp_gtk_box_get_type
+__imp_gtk_tree_selection_get_selected_rows
+__imp_gtk_scrolled_window_get_type
+__imp___argv
+__imp_Sleep
+__imp___setusermatherr
+__imp_gimp_hint_box_new
+__imp_gimp_color_button_new
+_head_libgimpcolor_2_0_0_dll
+__imp_gimp_locale_directory
+__imp_g_free
+__imp_gtk_adjustment_new
+__imp_gtk_widget_destroy
+__imp_gtk_menu_shell_insert
+__imp_TlsGetValue
+__imp_gtk_radio_button_new_with_mnemonic_from_widget
+__imp_gtk_tree_view_get_model
+__imp_gtk_adjustment_get_value
+__imp_gimp_image_width
+__imp_fprintf
+__imp_gtk_widget_add_accelerator
+__imp_gtk_window_present
+__imp_gtk_tree_model_get_type
+__imp_gtk_tree_model_row_changed
+__imp_g_slist_append
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gtk_ui_manager_add_ui_from_string
+__imp_g_object_set
+__imp_gtk_file_chooser_dialog_new
+__imp_gtk_entry_get_text
+__imp_g_strconcat
+__imp_gimp_image_find_next_guide
+__imp_gimp_drawable_get
+__imp_gtk_widget_grab_focus
+__imp_gimp_color_button_get_type
+__imp_gtk_widget_get_state
+__imp_gimp_pixel_rgn_get_row
+__imp_VirtualQuery
+__imp__initterm
+__imp_gimp_drawable_is_rgb
+__imp_fclose
+__imp___iob_func
+__imp_gimp_preview_area_new
+__imp_gtk_window_add_accel_group
+__imp_gimp_chain_button_get_active
+__imp_strncmp
+__imp_gdk_colormap_alloc_color
+__imp_gtk_icon_source_set_size_wildcarded
+__imp_gtk_button_new_with_mnemonic
+__imp_strchr
+__imp_gtk_icon_source_new
+__imp_gtk_ui_manager_get_widget
+__imp_gtk_notebook_new
+__imp_gtk_container_set_border_width
+__imp_gtk_dialog_set_default_response
+__imp_g_snprintf
+__imp_gdk_drawable_get_colormap
+__imp_gimp_ruler_new
+__imp_gtk_file_chooser_get_type
+__imp_gtk_tree_path_free
+__imp_gtk_frame_get_type
+__imp_gtk_widget_set_can_focus
+__imp_gtk_icon_set_new
+__imp_g_list_free
+__imp_gtk_tree_view_column_set_min_width
+libcairo_2_dll_iname
+__imp_gimp_color_button_get_color
+__imp__unlock
+__imp_gtk_text_buffer_get_bounds
+__imp___set_app_type
+__imp_gtk_box_pack_end
+__imp_g_object_set_data
+__imp_g_malloc_n
+__imp_gtk_scrolled_window_set_policy
+__imp_gtk_radio_button_new_with_mnemonic
+__imp_gtk_list_store_remove
+__imp_sprintf
+__imp_fgets
+__imp_gtk_spin_button_set_value
+__imp_gtk_entry_get_type
+__imp_cairo_clip
+__imp_cairo_arc
+__imp_gtk_file_chooser_set_do_overwrite_confirmation
+__imp_printf
+__imp_gtk_message_dialog_get_type
+__imp_fread
+__imp_gimp_chain_button_get_type
+__imp_gimp_preview_area_draw
+__imp_gimp_color_button_set_update
+__imp_g_source_remove
+__imp_gdk_cairo_region
+__imp_gtk_ui_manager_insert_action_group
+__imp_gtk_window_set_position
+__imp_gtk_selection_data_get_length
+__imp_gtk_table_get_type
+__imp_gtk_spin_button_new
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_g_error_free
+__imp_gtk_container_add
+__imp_gtk_toolbar_set_style
+__imp_gimp_chain_button_new
+__imp_gimp_image_get_guide_position
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_check_button_new_with_mnemonic
+__imp_GetCurrentProcess
+__imp_gtk_selection_data_get_data
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_g_list_find_custom
+__imp_gtk_text_view_new_with_buffer
+__imp_cairo_set_line_width
+__imp_gtk_tree_selection_get_selected
+__imp_g_strdup_printf
+__imp_gtk_tree_view_append_column
+__imp_g_list_find
+__imp_gtk_radio_button_get_type
+__lib64_libmsvcrt_a_iname
+__imp_g_list_index
+__imp_cairo_line_to
+__imp_cairo_destroy
+__imp_getc
+__imp_gtk_dialog_set_response_sensitive
+__imp_gtk_widget_queue_draw
+__imp_g_log
+__imp_gtk_widget_get_display
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+hHezN
+ff?V
+;:=6
+Awr1
+R'9m
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510152107Z0#
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+F0(|
+[;ws
+20170510155311Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155311Z0+
+6R}O
+:,(K
+lZr\y^
+A76p
+!-bP(

@@ -1,0 +1,989 @@
+This program must be run under Win32
+CODE
+`DATA
+.tls
+.rdata
+P.idata
+.edata
+@.reloc
+^[YY]
+It-I
+:<uF
+u.Gh+
+8-u=
+GC;]
+t7h'
+t(Vj
+t Vj
+QSVW
+t*j	
+h,FA
+]b9A
+]b9A
+]b9A
+]b9A
+h,FA
+]b9A
+]b9A
+h,FA
+h,FA
+h,FA
+j	SW
+_^[Y]
+tSJt|
+t,Jt
+=4JA
+h,JA
+Sh,JA
+;^,|D
+C;^,|
+;^,u
+0JtL
+C;^,
+_^[]
+_^[]
+_^[]
+5DJA
+hs3@
+_^[]
+_^[]
+_^[]
+_^[]
+u-hp
+_^[]
+tZPS
+Ub9A
+Yj.P
+Ub9A
+?[u+W
+;"u!
+<3"u
+_^[]
+t?j,j
+QSVW
+5p2A
+=TJA
+5p2A
+*;5x
+_^[Y]
+_^[]
+_^[]
+hHJA
+LCSVW
+_^[]
+t#P3
+ _^[YY]
+r!t-
+G$Jt
+t?BCIu
+AFOu
+_^[]
+QSVW
+_^[Y]
+_^[]
+_^[]
+_^[]
+^[YY]
+=tJA
+h\JA
+h\JA
+h\JA
+=|JA
+RVWS
+=xJA
+RVWS
+_^[YY]
+SVWj
+RhOX@
+QSVW
+_^[Y]
+hp"A
+_^[]
+h'#A
+_^[]
+hF#A
+h.#A
+h\#A
+hS#A
+hl#A
+hc#A
+,^[]
+h|#A
+hs#A
+p(SR
+;s(t
+C(;E
+S,;U
+h2$A
+h[$A
+h9$A
+hs$A
+hb$A
+hz$A
+SUVW
+_^][
+V(;U
+;^0t
+hd%A
+hA%A
+t	;]
+**BCCxh1U
+SUVW
+_^][
+;K s
+hR&A
+s(VS
+_^[]
+hY&A
+h>'A
+h 'A
+hE'A
+_^[YY]
+h((A
+_^[]
+h^(A
+h/(A
+he(A
+h1)A
+h`)A
+h8)A
+hg)A
+~ ;}
+h!*A
+h8*A
+h,*A
+_^[]
+hZ*A
+hC*A
+h|*A
+he*A
+_^[YY]
+QSVW
+_^[Y]
+RhJ~@
+ha~@
+hQ+A
+h#+A
+h\+A
+hM,A
+h&,A
+h}~@
+_^[YY]
+h}~@
+QSVW
+h],A
+hX,A
+_^[Y]
+typeinfo *
+Bad_typeid
+Bad_cast
+typeinfo
+_^[]
+_^[]
+~k;E
+Gu	;u
+_^[YY]
+SVWU
+]_^[
+A<ru	3
+5<wu
+A<+t
+9+u <tt
+2<bu
+#<+t
+[YY]
+PSh$
+QSVW
+_^[Y]
+_^[]
+_^[YY]
+Y_^[]
+_^[]
+@t,j
+_^[]
+_^[]
+h$LA
+QSVW
+_^[Y]
+h|2A
+t h$-A
+h$-A
+h$-A
+h$-A
+SVW3
+_^[]
+RQhp
+QPhp
+h4LA
+=8LA
+h 7A
+h=7A
+Y^[]
+SXRPS
+KP[]
+{PP|
+C\[]
+%u8F3
+:+u1
+_^[]
+_^[YY]
+twSj
+FSWV
+t>;u
+_^[YY]
+t	;E
+=pNA
+!sK3
+=@LA
+Y^[]
+Ph\KA
+^YY]
+h<LA
+QVh\KA
+L_^[
+SVW3
+h\9A
+Hu 3
+t	Ht
+_^[]
+Shd;A
+hg;A
+Mb9A
+QSVW
+t*;]
+H_^[Y]
+tC;]
+e@FBC;u
+Ub9A
+USVW3
+_^[]
+USVW
+_^[]
+USVW3
+_^[]
+USVW
+_^[]
+SVW3
+_^[]
+h@>A
+hk>A
+iXD5NZ
+_^[]
+SVWj
+Wj0S
+_^[]
+SVWj
+Ft,f
+Wj0S
+-$?A
+-L?A
+_^[YY]
+SVWf
+GYf=
+SVWf
+GYf=
+-*@A
+Mt?A
+Mx?A
+M|?A
+- @A
+h8@A
+5HMA
+Uc9A
+Eb9A
+Eb9A
+Eb9A
+Ub9A
+Eb9A
+hLMA
+_^[]
+RQ;5|@A
+_^[YY]
+_^[]
+SVWUQ
+Z]_^[
+QSVW
+_^[Y]
+QSVW
+_^[Y]
+_^[]
+QSVW
+_^[Y]
+hPMA
+ hPMA
+hPMA
+BF;5TNA
+5TNA
+v9VW
++5TNA
+tQjP
+PSVj
+YPVS
+T$!Rh
+hXNA
+YPVS
+YPWS
+Y_^[]
+h,AA
+h9AA
+hHAA
+hTAA
+=tAA
+<2=t
+_^[]
+SVWU
+D<"u%
+YZ]_^[
+_^[]
+QSVW
+Y_^[Y]
+SVWUQ
+h0BA
+Z]_^[
+hMBA
+h}BA
+QSVW
+tcIt:Itp
+_^[Y]
+u2j(
+_^[]
+t	RS
+_^[]
+hHOA
+h,OA
+5LOA
+hHOA
+Y_^[
+hdOA
+hhOA
+hhOA
+hhOA
+QSVW
+_^[Y]
+QSVW
+WCSV
+_^[Y]
+SVWU
+]_^[
+Borland C++ - Copyright 1996 Borland Intl.
+ResCom, a Resource Compiler, v2.00, 32-bit version
+Copyright (c) 1991-2010, David Harris, All Rights Reserved.
+   Usage: ResCom <sourcefile> [headerfile] [-w] [-v] [-a]
+      sourcefile is the input data: (default extension .r)
+      headerfile is the definition header file. The default is
+         the name of the source file with a .h extension.
+      -w: suppress warnings.
+      -v: verbose (list resource statistics).
+      -a: translate high-bit characters to ANSI format
+      -c: generate checksum file <sourcefile>.cks
+Menu
+String
+Window
+Block
+Data
+Integer
+Structure
+Define
+Dstring
+Include
+Text
+Typedef
+   %-4d  %-10s  %u bytes
+(typedef)
+keyword expected
+duplicate identifier
+expected identifier name
+#define %s %d		/* %s */
+#define %s %d		/* user type '%s' (%d) */
+%-30.30s %04d %-20.20s
+expected integer value
+expected string value
+%04X%04X
+expected ON or OFF
+expected ON or OFF
+expected ON or OFF
+expected ON or OFF
+expected an identifier to define
+expected a type name
+expected a filename
+%s\%s
+unable to include file
+.rsc
+Error: unable to open %s
+Error: unable to create header file %s
+**	Resource header file %s:
+**	Generated from %s on %d-%s-%02.2d at %d:%02d:%02d,
+**	by ResCom 1.20, Copyright (c) 1991-95 David Harris.
+Error: unable to create resource file %s
+TEMP.$$$
+Error: unable to create temporary file.
+.cks
+Error: unable to create checksum file.
+Compiling %s...
+TEMP.$$$
+   %d compilation error%s.
+   Created resource file %s:
+   Total of %d entries, largest = %u bytes.
+   Resource table size: %u bytes.
+This data type is not supported in the 32-bit version.
+This data type is not supported in the 32-bit version.
+string definitions missing from block
+unexpected end of file reading block data
+expected integer or integer expression
+expected string value
+This data type is not supported in the 32-bit version.
+This data type is not supported in the 32-bit version.
+expected block marker for start of structure
+error in integer expression in structure
+error in structure syntax
+expected block marker for start of text
+unexpected EOF while reading text structure
+unexpected value in text structure
+                                
+    
+    
+    
+    
+       
+    
+     
+MENU
+STRING
+WINDOW
+BLOCK
+DATA
+INTEGER
+STRUCTURE
+DEFINE
+DSTRING
+INCLUDE
+TEXT
+TYPEDEF
+HEADERS
+SYMBOLS
+CHAR
+PSTRING
+REPEAT
+Error %s %d: %s (%s).
+Warning %s %d: %s
+expected digit in character constant
+missing ' on char constant
+unterminated string literal
+string literal continuation failed
+;} 	
+expecting integer value
+missing resource ID in typedef
+illegal typedef resource ID.
+expected start of block
+unexpected EOF in typedef
+expected type keyword
+too many elements in typedef
+invalid keyword in typedef
+only one REPEAT allowed in typedef
+missing string length in typedef
+error in integer expression in typedef
+string cannot be zero-length
+internal error - lost typedef
+expected start of block for type definition
+unexpected EOF in type definition
+too many entries in type definition
+short type definition
+expecting integer value or expression
+value too large to be char value
+expected string literal
+string literal too long - truncated
+~ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+"%s"
+%04X
+%c:\
+Date: %s, %u %s %u %02u:%02u:%02u
+%u %s %u %02u:%02u:%02u
+%s%s
+%s\%s
+TEMP
+BTMP
+.TMP
+%04X%X
+%c%02d%02d
+%d %s %02d, %d:%02d
+%d %s %02d
+%d %s %02d, %d:%02d:%02d
+Stack Overflow!
+(ctorMask & 0x0100) != 0 || (ctorMask & 0x0020) == 0
+XX.CPP
+(ctorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(dtorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(mfnMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+cctrAddr
+XX.CPP
+dtorAddr
+XX.CPP
+argType
+XX.CPP
+__CPPexceptionList
+XX.CPP
+XX.CPP
+xdrPtr->xdERRaddr == xl
+XX.CPP
+dscPtr->xdERRaddr == errPtr
+XX.CPP
+dscPtr->xdHtabAdr == hdtPtr
+XX.CPP
+dscPtr->xdArgCopy == 0
+XX.CPP
+(dscPtr->xdMask & TM_IS_PTR) == 0
+XX.CPP
+mask & TM_IS_PTR
+XX.CPP
+dscPtr->xdMask & TM_IS_PTR
+XX.CPP
+dscPtr->xdTypeID == dscPtr->xdBase
+XX.CPP
+hdtPtr->HDcctrAddr
+XX.CPP
+dscPtr->xdSize == size
+XX.CPP
+xdrPtr && xdrPtr == *xdrLPP
+XX.CPP
+bogus context in Local_unwind()
+!"bogus context in Local_unwind()"
+XX.CPP
+bogus context in _ExceptionHandler()
+!"bogus context in _ExceptionHandler()"
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpClass.tpcDtorAddr
+XX.CPP
+(errPtr->ERRcInitDtc >= varType->tpClass.tpcDtorCount) || flags
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+dtorCnt < varCount
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+memType
+XX.CPP
+memType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_ARRAY
+XX.CPP
+varType->tpArr.tpaElemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+vdtCount
+XX.CPP
+etdCount <= elemCount || elemCount == 0
+XX.CPP
+dtrCount <= vdtCount
+XX.CPP
+IS_CLASS(varType->tpMask)
+XX.CPP
+((unsigned __far *)vftAddr)[-1] == 0
+XX.CPP
+dttPtr->dttFlags & (DTCVF_PTRVAL|DTCVF_RETVAL)
+XX.CPP
+dttPtr->dttType->tpMask & TM_IS_PTR
+XX.CPP
+dttPtr->dttType->tpPtr.tppBaseType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+IS_CLASS(dttPtr->dttType->tpMask) && (dttPtr->dttType->tpClass.tpcFlags & CF_HAS_DTOR)
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+elemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_PTR
+XX.CPP
+dtCnt >= 0
+XX.CPP
+**BCCxh1
+<notype>
+id->tpName
+XXTYPE.CPP
+XXTYPE.CPP
+XXTYPE.CPP
+tp1->tpName
+XXTYPE.CPP
+tp2->tpName
+XXTYPE.CPP
+IS_STRUC(base->tpMask)
+XXTYPE.CPP
+IS_STRUC(derv->tpMask)
+XXTYPE.CPP
+derv->tpClass.tpcFlags & CF_HAS_BASES
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+topTypPtr != 0 && IS_STRUC(topTypPtr->tpMask)
+XXTYPE.CPP
+tgtTypPtr != 0 && IS_STRUC(tgtTypPtr->tpMask)
+XXTYPE.CPP
+srcTypPtr == 0 || IS_STRUC(srcTypPtr->tpMask)
+XXTYPE.CPP
+__isSameTypeID(srcTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+tgtTypPtr != 0 && __isSameTypeID(topTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+srcTypPtr
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+addr
+XXTYPE.CPP
+Can't adjust class address (no base class entry found)
+!"Can't adjust class address (no base class entry found)"
+XXTYPE.CPP
+.$$$
+Error 0
+Invalid function number
+No such file or directory
+Path not found
+Too many open files
+Permission denied
+Bad file number
+Memory arena trashed
+Not enough memory
+Invalid memory block address
+Invalid environment
+Invalid format
+Invalid access code
+Invalid data
+Bad address
+No such device
+Attempted to remove current directory
+Not same device
+No more files
+Invalid argument
+Arg list too big
+Exec format error
+Cross-device link
+Too many open files
+No child processes
+Inappropriate I/O control operation
+Executable file in use
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Math argument
+Result too large
+File already exists
+Possible deadlock
+Operation not permitted
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Resource temporarily unavailable
+Block device required
+Resource busy
+Not a directory
+Is a directory
+Filename too long
+Unknown error
+creating global stream lock
+allocating stream lock table
+creating stream lock
+(null)
+allocating handle lock table
+creating handle lock
+creating global handle lock
+),(((((),(((
+*(((
+($v)
+%H:%M:%S
+%m/%d/%y
+%A, %B %d, %Y
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+printf : floating point formats not linked
+scanf : floating point formats not linked
+printf : floating point formats not linked
+scanf : floating point formats not linked
+-INF
++INF
+-NAN
++NAN
+Error: system code page access failure; MBCS table not initialized
+creating heap lock
+Assertion failed: 
+, file 
+, line 
+%02d/%02d/%04d %2d:%02d:%02d.%02d 
+kernel32.dll
+GetProcAddress
+Borland32
+Abnormal program termination
+No space for copy of command line
+No space for command line argument vector
+No space for command line argument
+PATH
+Out of memory in _setargv0
+GetEnvironmentStrings failed
+Could not allocate memory for environment block
+creating environment lock
+creating atexit lock
+creating thread data lock
+Semaphore error 
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+KERNEL32.dll
+USER32.dll
+GetCurrentDirectoryA
+CreateFileA
+GetSystemDirectoryA
+GetStdHandle
+DeleteFileW
+EnterCriticalSection
+ExitProcess
+GetTickCount
+CreateFileW
+FileTimeToSystemTime
+FindClose
+FindFirstFileA
+FindNextFileA
+GetACP
+GetCPInfo
+GetCommandLineA
+CloseHandle
+GetTempPathA
+GetStringTypeW
+GetDiskFreeSpaceA
+GetDriveTypeA
+GetEnvironmentStrings
+GetEnvironmentVariableA
+GetFileAttributesA
+GetFileAttributesW
+GetFileSize
+GetFileType
+GetFullPathNameA
+GetLastError
+GetLocalTime
+GetLogicalDrives
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+FileTimeToDosDateTime
+CreateDirectoryA
+DeleteFileA
+GetDateFormatA
+FileTimeToLocalFileTime
+GetCurrentThreadId
+GetTimeZoneInformation
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+InitializeCriticalSection
+LeaveCriticalSection
+LocalAlloc
+LocalFree
+MultiByteToWideChar
+RaiseException
+ReadFile
+RtlUnwind
+SetConsoleCtrlHandler
+SetCurrentDirectoryA
+SetEnvironmentVariableA
+SetFilePointer
+SetHandleCount
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+UnhandledExceptionFilter
+VirtualAlloc
+VirtualFree
+VirtualQuery
+WideCharToMultiByte
+WriteFile
+lstrcmpiA
+lstrcpynA
+GetStartupInfoA
+wsprintfA
+SendMessageA
+MessageBoxA
+GetWindowTextA
+GetWindowRect
+GetWindowPlacement
+GetWindowLongA
+GetParent
+GetDlgItem
+EnumThreadWindows
+ClientToScreen
+CharUpperA
+RESCOM.exe
+@__lockDebuggerData$qv
+@__unlockDebuggerData$qv
+__DebuggerHookData
+__GetExceptDLLinfo
+___CPPdebugHook
+0/0;0N0T0e0
+181D1J1]1j1q1x1
+2$3,393d3z3
+4g4k4o4s4w4{4
+5F6L6}6
+7$7|7
+7)8E8r8
+;);>;};
+<=<Q<Z<v<
+<==T=[=d=t=y=
+=->H>
+?2?k?
++0C0X0
+2/252:2
+3+3K3Z3s3w3{3
+4O4~4
+6!646K6z6
+7"717D7
+8:8L8
+:%:I:
+;:;t;
+<)<d<
+<3=a=!>(>?>C>G>K>O>v>
+>8?c?
+304=4Q4
+8*8&:
+90L0^0
+3 4,444P4n4
+6#6@6
+7o8x8
+:V;a;
+6B6Q6`6o6
+6A7I7U7e7v7
+8%8E8
+90:>:C:
+<Z<h<m<
+1Y1^1u1z1
+2"2'2
+5)5J4O4}5
+:+;0;
+<d<i<
+>/?4?S?X?
+0x0}0
+2j2o2
+2H4{4
+5c5h5
+6O8f8
+8\9a9|9
+:A:F:
+:t;y;4<9<
+=F=K=%>3>8>R>
+>r?v?
+;X<y<
+= =.=3=@=N=S=i=|=
+021?1p1
+2&252J2S2b2k2z2
+5!5%5)5-5155595=5A5E5I5M5
+9B=b=z=
+1	2b3~3
+656J6S6b6k6z6
+7"797E7R7f7q7
+728O8T8a8o8w8}8
+9%949O9[9g9n9
+;A<c<
+=E=S=
+0H2m2q2u2y2}2
+3#3A3E3I3M3Q3U3Y3|5
+6 6$6
+9L9^9
+2:5@5
+0(020A0J0T0|0
+5"5+555`5f5
+5W6\6
+=2=F=Z=n=
+>/>U>~>
+?!?M?m?
+C0m0
+2!212K2_2f2p2
+3E3Q3\3
+444v4
+5&51575B5N5w5
+6%656A6H6
+6$7Y7_7g7o7
+7&8w8
+8,929:9B9
+:D;L;S;X;
+;#<{<
+<^=l=w=
+.070@0J0W0c0u0
+171R1}1
+252O2
+303B3
+3s4x4
+5A5M5Y5e5y5
+6h7u7;8A8G8M8S8a8t8
+9'909V9
+9y:<;E;U;e;u;
+;'<9<M<p<
+=*=/=4=9=N=
+?(?,?3?>?j?
+H021K1
+2.282
+3!3i3
+4<4Z4o4
+5	6=6H6
+:$:j:x:
+=%=+=1=7===C=I=O=U=[=a=g=m=s=y=
+>!>'>->3>9>?>E>K>Q>W>]>c>i>o>u>{>
+,0004080D0H0L0T0Y0]0t0x0|0
+80D0H0
+2\2h2
+3 3$3(3,3034383<3@3D3
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<
+=0>4>8><>
+0x1|1
+1D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5"5(5.545:5@5F5L5R5X5^5d5j5p5v5|5

@@ -1,0 +1,1310 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+[^_]
+[^_]
+$&9B
+$09B
+$T9B
+?t*B
+[^_]
+[^_]
+[^_]
+[^_]
+@u-A
+$7:B
+$@:B
+$r:B
+$"IB
+$"IB
+ [^]
+$.IB
+[^_]
+$.IB
+[^_]
+[^_]
+$.IB
+$0IB
+$@IB
+$_IB
+$bIB
+$kIB
+$nIB
+$.IB
+$_IB
+$bIB
+$kIB
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$@JB
+$@JB
+$@JB
+$dJB
+$?JB
+[^_]
+3[^_]
+[^_]
+[^_]
+tc<.t+
+[^_]
+$,KB
+$lKB
+[^_]
+$<LB
+[^_]
+$\LB
+$\LB
+[^_]
+=mLB
+=nLB
+=cLB
+=dLB
+=wLB
+=xLB
+$GMB
+$MMB
+$QMB
+$MMB
+$XMB
+$0NB
+$\NB
+$MMB
+$0OB
+$\OB
+L[^_]
+L[^_]
+$3PB
+$\PB
+tZ;5
+[^_]
+,[^_]
+,[^_]
+<[^_]
+,[^_]
+,[^_]
+<[^_]
+?nt5
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$LQB
+tDKu
+<[^_]
+t<Ku
+L[^_]
+[^_]
+=]RB
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+@[^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$DTB
+$hTB
+:-t,
+[^_]
+t	<-u
+[^_]
+<:tS
+[^_]
+$|TB
+$.UB
+$LUB
+$sUB
+$LUB
+$LVB
+$tVB
+T$#1
+91t+
+[^_]
+$@WB
+$`WB
+$(XB
+$RXB
+L[^_]
+$pXB
+$RXB
+$!YB
+$9YB
+$JYB
+ [^]
+$\YB
+$lYB
+\[^_]
+\[^_]
+\[^_]
+ [^]
+$ ZB
+\t.1
+=`7B
+l[^_]
+$\ZB
+[^_]
+[^_]
+$,[B
+$`[B
+[^_]
+$ lB
+$'lB
+$hlB
+;/t>
+$ mB
+$'mB
+$.mB
+GmXX
+XXXX
+$1mB
+$LmB
+$xmB
+5l7B
+$@nB
+=`7B
+$h7B
+$IoB
+5h7B
+$ lB
+@N@u
+$doB
+$HpB
+$tqB
+>-t_
+[^_]
+[^_]
+$trB
+$trB
+,[^_]
+,0<	
+$DsB
+[^_]
+[^_]
+= hB
+\$+1
+[^_]
+$4tB
+$5uB
+$8uB
+=h7B
+ [^]
+ [^]
+$0vB
+$PvB
+$lvB
+t`;}
+[^_]
+$$wB
+$DwB
+$DwB
+$MwB
+$MwB
+$TwB
+$TwB
+$TwB
+$TwB
+[^_]
+$TwB
+[^_]
+$TwB
+$mwB
+$}wB
+$TwB
+$TwB
+=X8B
+,[^_]
+$+xB
+[^_]
+[^_]
+$ExB
+$[xB
+$_xB
+$qxB
+[^_]
+$8yB
+$ayB
+5@8B
+$uyB
+8.tA
+J<\t
+$5zB
+$LzB
+$jzB
+$zzB
+$zzB
+:	tU
+[^_]
+[^_]
+[^_]
+[^_]
+=@8B
+5@8B
+[^_]
+$={B
+$P{B
+\[^_]
+[^_]
+$x{B
+l[^_]
+l[^_]
+$ |B
+$P|B
+th;E
+tc;E
+[^_]
+$+}B
+[^_]
+[^_]
+$0}B
+[^_]
+tY;5
+|[^_]
+$p}B
+$x}B
+l[^_]
+$}}B
+<[^_]
+[^_]
+[^_]
+$4~B
+$S~B
+\[^_]
+\[^_]
+$t~B
+t0@B
+Z$tB
+FN@u
+VLty
+[^_]
+[^_]
+,[^_]
+@N t[
+@N u
+l[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$0~B
+=l8B
+[^_]
+=|8B
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+te9N
+[^_]
+<[^_]
+[^_]
+t@;5
+0[^]
+L[^_]
+L[^_]
+[^_]
+tp;5
+tw;5
+[^_]
+[^_]
+tB:U
+[^_]
+[^_]
+<$tl
+[^_]
+[^_]
+[^_]
+?.tU
+,[^_]
+,[^_]
+,[^_]
+tB9p
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+ N9}
+[^_]
+?}tzf
+[^_]
+u C9
+[^_]
+[^_]
+?t{B
+[^_]
+[^_]
+C,H'B
+C0P'B
+[^_]
+.out .a .ln .o .c .cc .C .cpp .p .f .F .r .y .l .s .S .mod .sym .def .h .info .dvi .tex .texinfo .texi .txinfo .w .ch .web .sh .elc .el
+/bin/sh
+#;"*?[]&|<>(){}$`^~!
+ -c 
+attempt to use unsupported feature: `%s'
+touch: Bad return code from ar_member_touch on `%s'
+touch: Member `%s' does not exist in `%s'
+touch: 
+touch: `%s' is not a valid archive
+touch: Archive `%s' does not exist
+!<arch>
+ARFILENAMES/
+.SUFFIXES
+$(MAKE)
+${MAKE}
+kill
+*** [%s] Archive member `%s' may be bogus; not deleted
+*** [%s] Deleting file `%s'
+unlink: 
+*** Archive member `%s' may be bogus; not deleted
+*** Deleting file `%s'
+#  commands to execute
+ (built-in):
+	%.*s
+ (from `%s', line %lu):
+$(AR) $(ARFLAGS) $@ $<
+%.out
+@rm -f $@ 
+ cp $< $@
+%.w %.ch
+$(CTANGLE) $^ $@
+%.tex
+$(CWEAVE) $^ $@
+$(CHECKOUT,v)
+RCS/%,v
+RCS/%
+$(GET) $(GFLAGS) $(SCCS_OUTPUT_OPTION) $<
+SCCS/s.%
+$(LINK.o) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.s) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.S) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.c) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.cc) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.C) $^ $(LOADLIBES) $(LDLIBS) -o $@
+.cpp
+$(LINK.cpp) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.f) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.p) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.F) $^ $(LOADLIBES) $(LDLIBS) -o $@
+$(LINK.r) $^ $(LOADLIBES) $(LDLIBS) -o $@
+.mod
+$(COMPILE.mod) -o $@ -e $@ $^
+.def.sym
+$(COMPILE.def) -o $@ $<
+cat $< >$@ 
+ chmod a+x $@
+.s.o
+$(COMPILE.s) -o $@ $<
+.S.o
+$(COMPILE.S) -o $@ $<
+.c.o
+$(COMPILE.c) $(OUTPUT_OPTION) $<
+.cc.o
+$(COMPILE.cc) $(OUTPUT_OPTION) $<
+.C.o
+$(COMPILE.C) $(OUTPUT_OPTION) $<
+.cpp.o
+$(COMPILE.cpp) $(OUTPUT_OPTION) $<
+.f.o
+$(COMPILE.f) $(OUTPUT_OPTION) $<
+.p.o
+$(COMPILE.p) $(OUTPUT_OPTION) $<
+.F.o
+$(COMPILE.F) $(OUTPUT_OPTION) $<
+.r.o
+$(COMPILE.r) $(OUTPUT_OPTION) $<
+.mod.o
+$(COMPILE.mod) -o $@ $<
+.c.ln
+$(LINT.c) -C$* $<
+.y.ln
+$(YACC.y) $< 
+ $(LINT.c) -C$* y.tab.c 
+ $(RM) y.tab.c
+.l.ln
+@$(RM) $*.c
+ $(LEX.l) $< > $*.c
+$(LINT.c) -i $*.c -o $@
+ $(RM) $*.c
+.y.c
+$(YACC.y) $< 
+ mv -f y.tab.c $@
+.l.c
+@$(RM) $@ 
+ $(LEX.l) $< > $@
+.F.f
+$(PREPROCESS.F) $(OUTPUT_OPTION) $<
+.r.f
+$(PREPROCESS.r) $(OUTPUT_OPTION) $<
+.l.r
+$(LEX.l) $< > $@ 
+ mv -f lex.yy.r $@
+.S.s
+$(PREPROCESS.S) $< > $@
+.texinfo.info
+$(MAKEINFO) $(MAKEINFO_FLAGS) $< -o $@
+.texi.info
+.txinfo.info
+.tex.dvi
+$(TEX) $<
+.texinfo.dvi
+$(TEXI2DVI) $(TEXI2DVI_FLAGS) $<
+.texi.dvi
+.txinfo.dvi
+.w.c
+$(CTANGLE) $< - $@
+.web.p
+$(TANGLE) $<
+.w.tex
+$(CWEAVE) $< - $@
+.web.tex
+$(WEAVE) $<
+ARFLAGS
+CHECKOUT,v
++$(if $(wildcard $@),,$(CO) $(COFLAGS) $< $@)
+COFLAGS
+$(CC) -E
+$(FC)
+F77FLAGS
+$(FFLAGS)
+LINT
+lint
+YACC
+yacc
+MAKEINFO
+makeinfo
+TEXI2DVI
+texi2dvi
+WEAVE
+weave
+CWEAVE
+cweave
+TANGLE
+tangle
+CTANGLE
+ctangle
+rm -f
+LINK.o
+$(CC) $(LDFLAGS) $(TARGET_ARCH)
+COMPILE.c
+$(CC) $(CFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
+LINK.c
+$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+COMPILE.cc
+$(CXX) $(CXXFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
+COMPILE.C
+$(COMPILE.cc)
+COMPILE.cpp
+LINK.cc
+$(CXX) $(CXXFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+LINK.C
+$(LINK.cc)
+LINK.cpp
+YACC.y
+$(YACC) $(YFLAGS)
+LEX.l
+$(LEX) $(LFLAGS) -t
+COMPILE.f
+$(FC) $(FFLAGS) $(TARGET_ARCH) -c
+LINK.f
+$(FC) $(FFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+COMPILE.F
+$(FC) $(FFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
+LINK.F
+$(FC) $(FFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+COMPILE.r
+$(FC) $(FFLAGS) $(RFLAGS) $(TARGET_ARCH) -c
+LINK.r
+$(FC) $(FFLAGS) $(RFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+COMPILE.def
+$(M2C) $(M2FLAGS) $(DEFFLAGS) $(TARGET_ARCH)
+COMPILE.mod
+$(M2C) $(M2FLAGS) $(MODFLAGS) $(TARGET_ARCH)
+COMPILE.p
+$(PC) $(PFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
+LINK.p
+$(PC) $(PFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_ARCH)
+LINK.s
+$(CC) $(ASFLAGS) $(LDFLAGS) $(TARGET_MACH)
+COMPILE.s
+$(AS) $(ASFLAGS) $(TARGET_MACH)
+LINK.S
+$(CC) $(ASFLAGS) $(CPPFLAGS) $(LDFLAGS) $(TARGET_MACH)
+COMPILE.S
+$(CC) $(ASFLAGS) $(CPPFLAGS) $(TARGET_MACH) -c
+PREPROCESS.S
+$(CC) -E $(CPPFLAGS)
+PREPROCESS.F
+$(FC) $(FFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -F
+PREPROCESS.r
+$(FC) $(FFLAGS) $(RFLAGS) $(TARGET_ARCH) -F
+LINT.c
+$(LINT) $(LINTFLAGS) $(CPPFLAGS) $(TARGET_ARCH)
+OUTPUT_OPTION
+-o $@
+.LIBPATTERNS
+lib%.so lib%.a
+.SUFFIXES
+SUFFIXES
+# Directories
+# %s (device %ld, inode %ld): 
+ files, 
+ impossibilities
+ impossibilities in %lu directories.
+# %s: could not be stat'd.
+ so far.
+# %s (device %ld, inode %ld): could not be opened.
+Recursive variable `%s' references itself (eventually)
+warning: undefined variable `%.*s'
+unterminated variable reference
+/usr/src/make/make-3.81/file.c
+*name != '\0'
+Commands for file `%s' were found by implicit rule search,
+but `%s' is now considered the same file as `%s'.
+Commands for `%s' will be ignored in favor of those for `%s'.
+Commands were specified for file `%s' at %s:%lu,
+can't rename double-colon `%s' to single-colon `%s'
+can't rename single-colon `%s' to double-colon `%s'
+unlink: 
+*** Deleting intermediate file `%s'
+Removing intermediate files...
+.SUFFIXES
+.PRECIOUS
+.LOW_RESOLUTION_TIME
+.PHONY
+.INTERMEDIATE
+.SECONDARY
+.EXPORT_ALL_VARIABLES
+.IGNORE
+.SILENT
+.NOTPARALLEL
+%s: Timestamp out of range; substituting %s
+Current time
+%04d-%02d-%02d %02d:%02d:%02d
+.%09d
+%s:%s
+ | %s
+#  Implicit rule search has been done.
+#  File is very old.
+#  File has been updated.
+#  Invalid value in `update_status' member!
+#  File has not been updated.
+#  Dependencies commands running (THIS IS A BUG).
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: `%s'
+#  File is an intermediate prerequisite.
+#  Also makes:
+#  Modification time never checked.
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Command-line target.
+#  Phony target (prerequisite of .PHONY).
+#  Precious file (prerequisite of .PRECIOUS).
+# Not a target:
+#  Last modified %s
+#  Successfully updated.
+#  File does not exist.
+#  Needs to be updated (-q is set).
+#  Commands currently running (THIS IS A BUG).
+#  Failed to be updated.
+question_flag
+#  Invalid value in `command_state' member!
+# Files
+# files hash-table stats:
+automatic
+default
+environment
+file
+environment override
+command line
+override
+undefined
+suffix
+notdir
+basename
+addprefix
+non-numeric first argument to `word' function
+%s: '%s'
+first argument to `word' function must be greater than 0
+non-numeric first argument to `wordlist' function
+non-numeric second argument to `wordlist' function
+invalid first argument to `wordlist' function: `%d'
+filter
+Internal error: func_error: '%s'
+%s:%lu: 
+pipe
+fork
+Cleaning up temporary batch file %s
+abspath
+addsuffix
+subst
+filter-out
+findstring
+firstword
+flavor
+join
+lastword
+patsubst
+realpath
+shell
+sort
+strip
+wildcard
+word
+wordlist
+words
+origin
+foreach
+call
+info
+error
+warning
+value
+eval
+simple
+recursive
+unterminated call to function `%s': missing `%c'
+insufficient number of arguments (%d) to function `%s'
+unimplemented on this platform: function `%s'
+warning: undefined variable `%.*s'
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: unrecognized option `--%s'
+%s: option `%c%s' doesn't allow an argument
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: invalid option -- %c
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+Looking for a case-insensitive implicit rule for `%s'.
+Looking for an implicit rule for `%s'.
+Looking for archive-member implicit rule for `%s'.
+Avoiding implicit rule recursion.
+Trying pattern rule with stem `%.*s'.
+Found prerequisite `%s' as VPATH `%s'
+Trying implicit prerequisite `%s'.
+Trying rule prerequisite `%s'.
+Looking for a rule with intermediate file `%s'.
+Rejecting impossible implicit prerequisite `%s'.
+Rejecting impossible rule prerequisite `%s'.
+Live child 0x%08lx (%s) PID %ld %s
+ (remote)
+Reaping winning child 0x%08lx PID %ld %s
+ (core dumped)
+*** [%s] %s%s
+*** Waiting for unfinished jobs....
+Removing child 0x%08lx PID %ld%s from chain.
+Reaping losing child 0x%08lx PID %ld %s
+remote_status
+Cleaning up temp batch file %s
+wait
+[%s] Error %d (ignored)
+.DELETE_ON_ERROR
+*** [%s] Error %d
+write jobserver
+Released token for child 0x%08lx (%s).
+INTERNAL: Freeing child 0x%08lx (%s) but no tokens left!
+/bin/sh
+vfork
+/usr/src/make/make-3.81/job.c
+f->command_state == cs_finished
+Putting child 0x%08lx (%s) PID %ld%s on the chain.
+don't 
+Need a job token; we %shave children
+Read returned EBADF.
+Duplicate the job FD
+read jobs pipe EOF
+Obtained token for child 0x%08lx (%s).
+INTERNAL: no children as we go to sleep on read
+read jobs pipe
+cannot enforce load limits on this operating system
+Estimated system load = %f (actual = %f) (max requested = %f)
+cannot enforce load limit: 
+getloadavg
+>execvp: 
+%s: Command not found
+SHELL
+%s: Shell program not found
+break
+case
+continue
+eval
+exec
+exit
+export
+login
+logout
+read
+readonly
+shift
+switch
+test
+times
+trap
+umask
+while
+ap <= end
+%s (line %d) Bad shell context (!unixy && !batch_mode_shell)
+$(SHELL)
+$(IFS)
+Options:
+  -b, -m                      Ignored for compatibility.
+  -B, --always-make           Unconditionally make all targets.
+  -C DIRECTORY, --directory=DIRECTORY
+                              Change to DIRECTORY before doing anything.
+  -d                          Print lots of debugging information.
+  --debug[=FLAGS]             Print various types of debugging information.
+  -e, --environment-overrides
+                              Environment variables override makefiles.
+  -f FILE, --file=FILE, --makefile=FILE
+                              Read FILE as a makefile.
+  -h, --help                  Print this message and exit.
+  -i, --ignore-errors         Ignore errors from commands.
+  -I DIRECTORY, --include-dir=DIRECTORY
+                              Search DIRECTORY for included makefiles.
+  -j [N], --jobs[=N]          Allow N jobs at once; infinite jobs with no arg.
+  -k, --keep-going            Keep going when some targets can't be made.
+  -l [N], --load-average[=N], --max-load[=N]
+                              Don't start multiple jobs unless load is below N.
+  -L, --check-symlink-times   Use the latest mtime between symlinks and target.
+  -n, --just-print, --dry-run, --recon
+                              Don't actually run any commands; just print them.
+  -o FILE, --old-file=FILE, --assume-old=FILE
+                              Consider FILE to be very old and don't remake it.
+  -p, --print-data-base       Print make's internal database.
+  -q, --question              Run no commands; exit status says if up to date.
+  -r, --no-builtin-rules      Disable the built-in implicit rules.
+  -R, --no-builtin-variables  Disable the built-in variable settings.
+  -s, --silent, --quiet       Don't echo commands.
+  -S, --no-keep-going, --stop
+                              Turns off -k.
+  -t, --touch                 Touch targets instead of remaking them.
+  -v, --version               Print the version number of make and exit.
+  -w, --print-directory       Print the current directory.
+  --no-print-directory        Turn off -w, even if it was turned on implicitly.
+  -W FILE, --what-if=FILE, --new-file=FILE, --assume-new=FILE
+                              Consider FILE to be infinitely new.
+  --warn-undefined-variables  Warn when an undefined variable is referenced.
+always-make
+directory
+basic
+debug
+environment-overrides
+file
+help
+ignore-errors
+include-dir
+jobs
+jobserver-fds
+keep-going
+load-average
+check-symlink-times
+just-print
+old-file
+print-data-base
+question
+no-builtin-rules
+no-builtin-variables
+silent
+no-keep-going
+touch
+version
+print-directory
+no-print-directory
+what-if
+warn-undefined-variables
+unix
+win32
+quiet
+stop
+new-file
+assume-new
+assume-old
+max-load
+dry-run
+recon
+makefile
+/usr/share/locale
+make
+getcwd
+.VARIABLES
+target-specific order-only second-expansion else-if
+.FEATURES
+archives
+jobserver
+check-symlink
+SHELL
+MAKE_RESTARTS
+MAKEFLAGS
+$(MAKE_COMMAND)
+MAKE_COMMAND
+MAKE
+${-*-command-variables-*-}
+-*-command-variables-*-
+MAKEOVERRIDES
+MAKELEVEL
+CURDIR
+TMPDIR
+fwrite (temporary file)
+unknown debug level specification `%s'
+/tmp
+.DEFAULT
+.DEFAULT_GOAL
+MAKE_MODE
+UNIX
+%d,%d
+warning: -jN forced in submake: disabling jobserver mode.
+/usr/src/make/make-3.81/main.c
+BOGUS_UPDATE_STATUS
+No targets specified and no makefile found
+More parallel jobs (-jN) than this platform can handle requested.
+Resetting to single job (-j1) mode.
+MAKE_RESTARTS=
+MAKE_RESTARTS=%u
+unlink (temporary file): 
+Updating makefiles....
+warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+init jobserver pipe
+%s=%u
+Included makefile `%s' was not found.
+Failed to remake makefile `%s'.
+Updating goal targets....
+Makefile `%s' was not found
+Couldn't change back to original directory.
+internal error: multiple --jobserver-fds options
+warning:  Clock skew detected.  Your build may be incomplete.
+Makefile `%s' might loop; not remaking it.
+creating jobs pipe
+Re-executing[%u]:
+empty string invalid as file name
+chdir
+fopen (temporary file)
+make: MAKE_MODE=%s is no longer supported
+make: --win32 is no longer supported
+internal error: invalid --jobserver-fds string `%s'
+Makefile from standard input specified twice.
+No targets
+dup jobserver
+.DEFAULT_GOAL contains more than one target
+MAKECMDGOALS
+Usage: %s [options] [target] ...
+This program built for %s
+Report bugs to <bug-make@gnu.org>
+This program built for %s (%s)
+the `-%c' option requires a positive integral argument
+the `-%c' option requires a non-empty string argument
+$(MAKEOVERRIDES)
+$(-*-command-variables-*-)
+MFLAGS
+%sGNU Make %s
+%sCopyright (C) 2006  Free Software Foundation, Inc.
+%sThis is free software; see the source for copying conditions.
+%sThere is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+%sPARTICULAR PURPOSE.
+%sThis program built for %s
+%sThis program built for %s (%s)
+# Make data base, printed on %s
+# Finished Make data base on %s
+INTERNAL: Exiting with %u jobserver tokens (should be 0)!
+INTERNAL: Exiting with %u jobserver tokens available; should be %u!
+write
+%s: Leaving an unknown directory
+%s[%u]: Leaving an unknown directory
+%s[%u]: Leaving directory `%s'
+%s: Leaving directory `%s'
+%s: Entering directory `%s'
+%s[%u]: Entering directory `%s'
+%s: Entering an unknown directory
+%s[%u]: Entering an unknown directory
+%s: 
+%s[%u]: 
+%s:%lu: 
+%s[%u]: *** 
+.  Stop.
+%s: *** 
+%s:%lu: *** 
+%s%s: %s
+%s: %s
+virtual memory exhausted
+write error: %s
+write error
+/usr/src/make/make-3.81/misc.c
+h->count != 0
+d == h
+/usr/include
+/usr/gnu/include
+/usr/local/include
+GNUmakefile
+makefile
+Makefile
+MAKEFILE_LIST
+$(MAKEFILES)
+Reading makefiles...
+Reading makefile `%s'
+ (no ~ expansion)
+ (no default goal)
+ (don't care)
+ (search path)
+vpath
+endef
+define
+override
+invalid `override' directive
+export
+unexport
+-include
+sinclude
+include
+missing rule before commands
+%s: %s
+        
+ (did you mean TAB instead of 8 spaces?)
+missing separator%s
+empty `override' directive
+ 	:(
+/usr/src/make/make-3.81/read.c
+*p2 != '\0'
+.DEFAULT_GOAL
+commands commence before first target
+target pattern contains no `%%'
+multiple target patterns
+missing target pattern
+invalid syntax in conditional
+missing `endif'
+empty variable name
+extraneous `endef'
+Extraneous text after `endef' directive
+missing `endef', unterminated `define'
+endif
+ifdef
+ifneq
+ifndef
+ifeq
+else
+Extraneous text after `%s' directive
+extraneous `%s'
+only one `else' per conditional
+v != 0
+Malformed target-specific variable definition
+.POSIX
+.SECONDEXPANSION
+warning: overriding commands for target `%s'
+warning: ignoring old commands for target `%s'
+target `%s' doesn't match the target pattern
+target `%s' given more than once in the same rule.
+mixed implicit and static pattern rules
+mixed implicit and normal rules
+target file `%s' has both : and :: entries
+prerequisites cannot be defined in command scripts
+warning: NUL character seen; rest of line ignored
+.INCLUDE_DIRS
+$(HOME)
+HOME
+virtual memory exhausted
+Nothing to be done for `%s'.
+`%s' is up to date.
+Pruning file `%s'.
+%sNo rule to make target `%s'%s
+%sNo rule to make target `%s', needed by `%s'%s
+Considering target file `%s'.
+Finished updating file `%s'.
+File `%s' was considered already.
+Recently tried and failed to update file `%s'.
+Still updating file `%s'.
+*** 
+Circular %s <- %s dependency dropped.
+Prerequisite `%s' is order-only for target `%s'.
+Prerequisite `%s' of target `%s' does not exist.
+Commands of `%s' are being run.
+Making `%s' due to always-make flag.
+Finished prerequisites of target file `%s'.
+The prerequisites of `%s' are being made.
+Prerequisite `%s' is newer than target `%s'.
+Target `%s' not remade because of errors.
+File `%s' does not exist.
+No commands for `%s' and no prerequisites actually changed.
+Prerequisite `%s' is older than target `%s'.
+Must remake target `%s'.
+Giving up on target file `%s'.
+  Ignoring VPATH name `%s'.
+No need to remake target `%s'
+; using VPATH name `%s'
+Target `%s' is double-colon and has no prerequisites.
+Target file `%s' needs remade under -q.
+Found an case-insensitive implicit rule for `%s'.
+Found an implicit rule for `%s'.
+Failed to remake target file `%s'.
+Using default commands for `%s'.
+/usr/src/make/make-3.81/remake.c
+file->update_status >= 0 && file->update_status <= 2
+Successfully remade target file `%s'.
+No implicit rule found for `%s'.
+touch: fstat: 
+touch %s
+touch: open: 
+touch: read: 
+touch: lseek: 
+touch: write: 
+Warning: File `%s' has modification time %.2g s in the future
+readlink: 
+stat: 
+lstat: 
+/lib
+/usr/lib
+%s/%s
+$(strip $(.LIBPATTERNS))
+.LIBPATTERNS element `%s' is not a pattern
+(%.o)
+# Implicit Rules
+# No implicit rules.
+# %u implicit rules, %u
+ (%.1f%%)
+ terminal.
+BUG: num_pattern_rules wrong!  %u != %u
+B/usr/src/make/make-3.81/strcache.c
+best->bytesfree > len
+%s # of strings in strcache: %d
+%s # of strcache buffers: %d
+%s strcache size: total = %d / max = %d / min = %d / avg = %d
+%s strcache free: total = %d / max = %d / min = %d / avg = %d
+.VARIABLES
+/usr/src/make/make-3.81/variable.c
+current_variable_set_list->next != NULL
+MAKELEVEL
+%s%s%s
+MAKE_VERSION
+SHELL
+MAKEFILES
+$(patsubst %/,%,$(dir $@))
+$(patsubst %/,%,$(dir $%))
+$(patsubst %/,%,$(dir $*))
+$(patsubst %/,%,$(dir $<))
+$(patsubst %/,%,$(dir $?))
+$(patsubst %/,%,$(dir $^))
+$(patsubst %/,%,$(dir $+))
+$(notdir $@)
+$(notdir $%)
+$(notdir $*)
+$(notdir $<)
+$(notdir $?)
+$(notdir $^)
+$(notdir $+)
+%s=%u
+empty variable name
+automatic
+define %s
+endef
+default
+environment
+makefile
+environment under -e
+command line
+`override' directive
+%s %s= 
+ (from `%s', line %lu)
+$(subst ,,%s)
+# variable set hash-table stats:
+# Variables
+# Pattern-specific Variable Values
+%s :
+# No pattern-specific variable values.
+# %u pattern-specific variable values
+3.81
+i686-pc-msys
+$(strip $(VPATH))
+$(strip $(GPATH))
+# VPATH Search Paths
+vpath %s 
+%s%c
+# %u `vpath' search paths.
+# General (`VPATH' variable) search path:
+# No `vpath' search paths.
+# No general (`VPATH' variable) search path.
+can't allocate %ld bytes for hash table: memory exhausted
+Load=%ld/%ld=%.0f%%, 
+Rehash=%d, 
+Collisions=%ld/%ld=%.0f%%
+Y@alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+POSIXLY_CORRECT
+/usr/src/make/make-3.81/glob/glob.c
+next != NULL
+HOME
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+_ctype_
+_exit
+abort
+access
+alarm
+atexit
+atof
+atoi
+atol
+calloc
+chdir
+close
+closedir
+ctime
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+dup2
+execvp
+exit
+fclose
+fcntl
+fdopen
+fflush
+fgets
+fopen
+fputs
+fread
+free
+fstat
+fwrite
+getcwd
+getenv
+getlogin
+getpid
+getpwnam
+getrlimit
+kill
+localtime
+lseek
+lstat
+malloc
+memcpy
+memmove
+memset
+mkstemp
+open
+opendir
+pipe
+putc
+putenv
+puts
+qsort
+read
+readdir
+readlink
+realloc
+realpath
+remove
+setlocale
+setrlimit
+setvbuf
+sigaction
+sigaddset
+sigemptyset
+signal
+sigprocmask
+sscanf
+stat
+strcasecmp
+strchr
+strcmp
+strcoll
+strcpy
+strdup
+strerror
+strlen
+strncmp
+strncpy
+strrchr
+strsignal
+strstr
+time
+unlink
+vfork
+vsnprintf
+wait
+waitpid
+write
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

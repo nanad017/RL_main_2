@@ -1,0 +1,16842 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+PQSV
+K\QQP
+T$@R
+Y_^[
+PQVW
+Y_^[
+%8CO
+9q<v
+9A<s
+9A<s
+9A<s
+wz+|$
+PQSVW
+Y_^[
+AQWV
+hhMS
+P$92tU
+H 91tQ
+hhMS
+hhMS
+Y_^[
+$SVW
+D2 3
+L08R
+L183
+Y_^[
+L08R
+PQVW
+M$QWj
+h0>@
+Y_^[
+h0>@
+OdQjU
+PQVW
+8SVW
+PShP
+PSh,
+G<SP
+Y_^[
+|$ +
+\$$+
+@,=r
+0SVW
+D$@d
+\$H;
+h@YT
+D$,;
+D$,;
+h\YT
+D$,;
+D$,;
+D$,;
+D$,;
+D$H	
+D$,;
+D$,;
+D$,;
+D$,;
+D$H;
+D$,;
+D$,;
+h ZT
+D$,;
+D$,;
+D$,;
+D$,;
+h<ZT
+D$,;
+hXZT
+t$H9\$,t
+L$,Q
+htZT
+\$$V
+L$@d
+Y_^[
+8SVW
+F(\eO
+F0\eO
+F8\eO
+F@\eO
+M,Qj
+NLVj
+NPVj
+NTVj
+Y_^[
+NLt<H
+OdQh
+;=LZT
+;;=hZT
+Y_^[
+Y_^[
+PQVW
+WWWh,
+RWhx
+RWh,
+PQVW
+D$@d
+L$@d
+HdSV
+%4DO
+9q<v
+9A<s
+9A<s
+w"+u
+9A<s
+PQSVW
+Y_^[
+hhMS
+SVWP
+P$9:tS
+H 99t6
+Y_^[
+hhMS
+Y_^[
+,SVW
+D2 3
+L08R
+L08R
+Y_^[
+p;=0ZT
+NLt<H
+HSVW
+PSh4
+QShx
+Y_^[
+PQSVW
+Y_^[
+Vt!S3
+Y_^[
+hhMS
+SVWP
+Y_^[
+s'PWV
+PQVW
+w&9F
+L08R
+L283
+Y_^[
+SVWP
+Y_^[
+T$4h
+u8j 
+SVWP
+Y_^[
+PQSVW
+N@QWP
+Y_^[
+PQSVW
+Y_^[
+I@PQ
+V@PQR
+u	_^
+L$$h
+u8j 
+PQVW
+hhMS
+PQVW
+Y_^[
+PH;Q
+A{#3
+AuO^
+Kh9T
+;KPu
+;KPu
+SVWP
+Y_^[
+PH;Q
+Y_^[
+hhMS
+L$$V3
+u8j 
+D$<h
+u8j 
+D$<h
+u8j 
+SVWP
+Y_^[
+D$<h
+u8j 
+D$<h
+u8j 
+R VW
+Y_^[
+hhMS
+^[_]
+_^[3
+t>=W
+SVW3
+T$<hp
+u8j 
+PQVW
+w&9F
+T$<VR
+u6j 
+T$4h
+u8j 
+D$dVW
+D$xd
+T$XR
+T$LR
+D$4P
+L$0Q
+9|$hr
+T$TR
+9|$0r
+9|$Lr
+L$8Q
+L$xd
+L$d3
+D$Lh(
+u8j 
+T$4h@
+u8j 
+T$4hd
+u8j 
+SVWP
+WWWWWWRP
+RWWSP
+Y_^[
+vvSVW
+L$4h
+u8j 
+L$4h
+u8j 
+SVWP
+Y_^[
+D$<3
+D$`P
+D$`P
+D$`P
+T$\R
+L$ +
+t$ +
+|$0;
+d$PP
+D$ #
+D$ =
+d$`P
+\$43
+d$`P
+T$HR
+D$LP
+L$<Q
+T$@R
+D$8P
+L$PQ
+T$XR
+t$ +
+|$0;
+9\$ tI
+t$ ;
+t$ V
+\$(r
+Y_^[
+PQVW
+D$0P
+D$0P
+L$0Q
+T$4h
+L$0Q
+T$,j
+D$,h
+L$,h4
+T$,h
+D$,j
+L$,hh
+T$,h
+D$,h
+L$,h
+T$,hH
+D$,j
+L$,h
+T$,h
+D$,j
+L$,h
+D$,h
+T$,h
+D$,j
+L$,h
+T$,h
+D$,h<
+L$,hp
+T$4h
+D$,j
+L$,h
+T$4h
+L$$j
+T$,h
+D$4h 
+L$,j
+T$,h,
+D$4hP
+T$$j
+D$,h`
+L$4h
+D$$j
+L$,h
+T$4h
+D$,j
+L$,h
+T$4h
+D$,j
+L$,h
+T$,h
+D$,h
+L$4h8
+T$,j
+D$,hL
+L$4hp
+T$,j
+D$,h
+L$4h
+T$,j
+D$,h
+L$,h
+T$,j
+D$,h
+L$4h(
+Y_^[
+_^Y]
+_^Y]
+_^Y]
+t/Ht
+FHHW
+FPHt
+ChPh
+9_Tt
+_^[]
+PQSW
+9_Tt
+8_Pt49_Tt
+SVWP
+W<PPR
+OTQVj
+Y_^[
+SVWP
+W<PPR
+9wDu
+Y_^[
+OTPVSQ
+WPRQ
+9_Tt
+_^[]
+PQSVW
+Y_^[
+PQVW
+s$PWV
+j@PQ
+OTQVj
+Y_^[
+PQSW
+3QP3
+SVWP
+Y_^[
+L$Dh`
+u8j 
+L$Dh`
+u8j 
+QVQh
+L$dh`
+u8j 
+L$Dh`
+u8j 
+L$Dh`
+u8j 
+L$$h
+u8j 
+L183
+D0<;
+L08R
+L18R
+L98;
+Y_^[
+L$4V3
+u8j 
+L$Dh`
+u8j 
+L$Dh`
+u8j 
+L$dh
+u6j 
+QPQh
+L$lh
+u6j 
+T$4VR
+u8j 
+u6j 
+Y_^[
+L983
+Y_^[
+PSVW
+@PWV
+Y_^[
+D$(d
+VXRj
+Sh@YT
+RVQP
+O,QP
+VdRh
+L$<QPS
+O,QP
+PhtZT
+L$(d
+PQSVW
+Y_^[
+ SVW
+@H;G
+Y_^[
+u+j 
+SVWP
+Y_^[
+;wDu
+SVW3
+8^Du
+\7HG
+B0Sh4
+B0Sh3
+B0Sh
+L$$h
+u8j 
+L$$hX
+u8j 
+L$$h
+u8j 
+L$$h
+u8j 
+L$$h
+u8j 
+L$$hT
+u8j 
+L$$h
+u8j 
+$SVW
+N|j,
+~xWh`
+Y_^[
+hhMS
+hhMS
+PQVW
+Y_^[
+SVWP
+gtR=
+VtH=
+Y_^[
+D$(d
+L$(d
+Y_^[
+D$,PW
+D$|P
+L$,QV
+D$\P
+\$\r
+L$xQ
+D$l;
+D$l;
+D$(@
+D$(;
+T$(R
+T$$RP
+D$4,
+L$LQ
+T$HR
+D$PP
+T$8R
+D$\P
+L$\Q
+T$hR
+D$"P
+L$#Q
+T$(R
+9\$pr
+T$\R
+D$xP
+D$@H
+L$`Q
+L$4R
+T$PQ
+L$\P
+9|$pr
+T$\R
+D$xP
+Y_^[
+PQSVW
+Y_^[
+9P r
+9P r
+8X(u
+8X(te
+8X(u
+8X(u
+8X(u
+8X(u
+8X,u
+8X,te
+8X,u
+8X,u
+8X,u
+8X,u
+L$$h@
+u8j 
+L$$h
+u8j 
+QVW3
+QWQh
+T$Lh$
+u6j 
+L$4ht
+u8j 
+L$4h
+u8j 
+L$4h
+u8j 
+D$<h
+u8j 
+;8u%j
+;8u%j
+$	r8
+Y_^[
+hhMS
+Y_^[
+hhMS
+Y_^[
+PQSVW
+Y_^[
+Y_^[
+:_^[
+Y_^[
+t)W3
+sNSW
+hhMS
+hhMS
+tES3
+[_^]
+PQhD
+PQh|
+PQh8
+QRhp
+QRh$
+RPh`
+Y_^[
+QSVW
+~v7SV
+H_^[
+rD97u
+;rHt#
+_[^]
+_[^]
+Y_^[
+hhMS
+hpTO
+$SVW
+D$4d
+\$<t
+D$,P
+T$8R
+L$4d
+Y_^[
+L$4d
+Y_^[
+u	8G&t
+$SVW
+D$4d
+PSh`XO
+RShPXO
+D$ P
+L$ Q
+D$$k
+RSh8XO
+D$ P
+Zh$XO
+L$ Q
+\$<t
+L$4d
+Y_^[
+D$,d
+L$,d
+D$ P
+L$ Q
+L$,d
+PQSVW
+Y_^[
+PQRV
+4UVW
+D$Dd
+D$TP
+T$(R
+-hFO
+T$<h
+D$ WP
+L$LQ
+L$Dd
+Y_^]
+D$ d
+L$ d
+Y_^[
+h;XN
+PQVW
+T$$P
+D$$QRPW
+h;XN
+PQVW
+h;XN
+PQVW
+D$4d
+\$D:^NtS
+L$4d
+=$\T
+=$\T
+h(MN
+(SVW
+D$8d
+L$8d
+Y_^[
+8]$t
+SUVWP
+PVUS
+(_^][
+1;0u
+HSVW
+Wh$[O
+EPuA
+MPWQ
+EOu	
+UPPQR
+M,QRP
+UPQR
+E,PQ
+];tq
+UW:ULu
+UN8U:u
+UM8U;u
+EPRP
+Y_^[
+ SUVW
+D$4d
+D$$3
+9|$L
+;|$L
+\$Pj
+h,[O
+T$(h
+D$0P
+L$4d
+Y_^][
+L$ SUVW3
+9|$<
+9l$8
+\$(t\
+D$4RP
+D$0QU
+;l$8
+;D$<
+9|$<
+L$$RP
+T$ R
+D$(P
+D$@QRP
+D$0QR
+=:T$ u
+;D$8
+;D$<
+T$ PQ
+L$8R
+_^][
+Vh$[O
+PWQS
+QRVP
+Y_^[
+hh[O
+Y_^[
+Y_^[
+hX\O
+hL\O
+PQSV
+PQVW
+D$$P
+PQSUVW
+Y_^][
+L$@P
+[_^]
+.:L$
+L$ Q
+DSVW
+D$Td
+|$dW
+D$8P
+L$Td
+Y_^[
+L$Td
+Y_^[
+DSVW
+D$Td
+|$dW
+D$8P
+L$Td
+Y_^[
+L$Td
+Y_^[
+0SVW
+D$@d
+|$PW
+T$,R
+L$@d
+Y_^[
+L$@d
+Y_^[
+0SVW
+D$@d
+|$PW
+T$,R
+L$@d
+Y_^[
+L$@d
+Y_^[
+5@\T
+_^]3
+_^][
+5@\T
+T$$3
+D$$r
+_^]2
+_^]2
+D$$PQR
+D$$PQR
+Y_^[
+TSUVW
+D$hd
+L$|3
+l$|PQ
+;D$|
+L$hd
+Y_^][
+SUVW
+t$03
+l$$t
+T$Tt
+Y_^][
+SUVW
+D$,d
+t1SS
+,B~W
+|$@QWS
+T$$R
+D$$P
+L$,d
+Y_^][
+L$08H
+T$48P
+L$88H
+L$08
+L$48N
+L$88N
+Y_^[
+PQSUVW
+|$(j.
+L$(Q
+T$(j
+h$]O
+Y_^][
+hX]O
+_^]2
+_^][
+PSUVW
+-tFO
+Y_^][
+XSUVW
+D$ld
+|$L3
+D$X3
+T$H3
+D$ 3
+D$(3
+T$TR
+D$PP
+L$TPQ
+D$TP
+T$dR
+D$dP
+L$dQ
+L$ld
+Y_^][
+8SUVW
+D$Ld
+\$83
+|$`;
+l$d;
+D$DP
+L$DQ
+D$hu0;
+|$\PRW
+t$hu%
+L$`;
+L$dQ
+T$dR
+L$DP
+D$dP
+L$dQ
+T$dR
+D$X	
+L$DP
+D$dP
+L$DQ
+T$DR
+L$Ld
+Y_^][
+D$0;
++D$4
+L$8;
++D$8
+L$0:
+L$0:
+L$0:
+][^_
+L$0RQP
+D$83
+D$08
+][^_
+SUVW
+D$,d
+D$ t
+D$ 8F
+D$(;
+L$,d
+Y_^][
+PQSUVW
+5@\T
+hd^O
+h<^O
+Y_^][
+PQSUVW
+|$,W
+Y_^][
+SUVW
+D$8Q
+L$8R
+T$8P
+D$8QRP
+T$(R
+:D$ u$
+D$$8F
+D$(8F
+:D$ s
+_][u
+PSUVW
+D$dd
+t$$3
+T$xu<;
+D$xP
+D$`P
+T$P}
+L$L;
+D$DP
+D$<;
+L$@;
+~^;D$
+;L$ u
+D$$QRP
+L$4Q
+T$(R
+D$0;
+L$dd
+Y_^][
+PQRV
+SUVW
+l$,U
+D$,P
+\$$u
+|$$t
+|$$t
+Y_^][
+VWt>
+t!8^
+t!8^
+VQRj
+_^][
+L$ R
+T$ Q
+L$ R
+T$,UVW
+L$4j
+D$@j
+T$8h
+D$HPj
+L$0QV
+D$(P
+D$ QRP
+PQSV
+DSUVW
+D$Xd
+D$h;
+\$`t
+D$@P
+L$(j
+|$R 
+T$$R
+9\$(
+D$(;
+t*8\$<t$P
+\$08^$uA
+D$ WUP
+L$ Q
+L$Xd
+Y_^][
+SUVW
+D$0d
+|$@SUW
+L$0d
+Y_^][
+,SUVW
+D$@d
+9l$(
+D$Tj,
+D$P;
+D$TQRS
+D$XP
+D$T8E
+D$X8E
+D$P8E
+L$$Wj
+L$@d
+Y_^][
+@SUVW
+D$Td
+L$<;
+\$\u<
+9|$$
+D$<;
+L$Td
+Y_^][
+PSUVW
+l$(U
+T$0Q
+L$0R
+T$,QU
+Y_^][
+SUVW
+l$0U
+@$QURS
+T$,UR
+Y_^][
+D$`d
+L$`d
+RjTP
+;D$tu
+L$`d
+D$ u
+t'VW
+WRPj
+L$ QW
+D$$[_^]
+PQSVW
+^(9_(
+Y_^[
+PSUVW
+t$$3
+D$$;
+Y_^][
+D$ PQ
+<SUVW
+D$Pd
+L$Pd
+Y_^][
+L$<u
+t$Hu
+T$<R
+L$Pd
+Y_^][
+|$Xt
+L$(u
+T$8RV
+WQPj
+L$$QW
+T$(R
+D$4P
+L$Pd
+Y_^][
+SUVW
+D$,d
+t$<3
+t]8\$(tWP
+D$<;
+L$,d
+Y_^][
+D$$PQR
+SUVW
+D$$d
+l$8U
+tFj,
+P QW
+L$$d
+Y_^][
+ SUVW
+D$4d
+\$Hj
+T$Lh 
+RPQj
+T$0RP
+PSQRj
+L$0QP
+D$$P
+L$4d
+Y_^][
+D$ PQ
+SUVW
+D$ d
+\$(u
+L$0VPQ
+L$ d
+Y_^][
+$t^V
+_^][
+PQVW
+T$0Q
+L$0R
+T$0Q
+L$0R
+T$0QRP
+D$8h,
+SUVW
+D$$d
+|$ 3
+D$,tH
+L$8Qj
+jZj]
+B jH
+jZjZ
+B jJ
+L$ Qj
+jZjZ
+B jJ
+L$$d
+Y_^][
+,SVW
+D$<d
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+D$P	
+t$L;
+t`jdj
+t$L;
+t<jjj
+t$L;
+L$<d
+Y_^[
+$SUVW
+D$8d
+;D$Lu=
+D$$P
+L$LQV
+L$$3
+9|$ 
+|$@t;j
+L$ ;
+L$8d
+Y_^][
+,SVW
+D$<d
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+t$L;
+D$L	
+t$L;
+tZjdj
+t$L;
+t8jjj
+t$L;
+L$<d
+Y_^[
+D$ P
+SUVW
+D$ d
+|$(t
+l$(u
+l$(t
+L$ d
+Y_^][
+hpJE
+hpJE
+=4GO
+8SVW
+D$Hd
+L$Hd
+Y_^[
+D$`PQ
+L$`Q
+L$Hd
+Y_^[
+xSUVW
+D$(P
+L$0Q
+T$ P
+D$,WUQ
+L$<R
+RSPQ
+D$,P
+D$ t
+D$\P
+Y_^][
+ SUVW
+D$4d
+t$<t
+L$ j
+T$ j
+L$4d
+Y_^][
+SUVW
+D$(d
+L$<3
+L$PQS
+L$@Q
+L$(d
+Y_^][
+(UVW
+D$8d
+l$Ht
+D$$P
+T$LR
+d$`t
+L$8d
+Y_^]
+D$ P
+ SUVW
+D$4d
+t$<t
+L$ j
+T$ j
+L$4d
+Y_^][
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+T$$P
+D$$QRPW
+D$$P
+D$@d
+L$@d
+D$4d
+F(QP
+\$18\$D
+8\$2t
+8\$1u
+L$4d
+T$DR
+T$ Q
+T$8R
+w,_^
+A\V3
+;y(u
+_^]2
+l$8V
+T$,R
+D$@P
+L$ QV
+(SUVW
+D$<d
+L$<d
+Y_^][
+N,u$
+D$Pd
+L$Pd
+(SVW
+D$8d
+L$8d
+Y_^[
+PQUVW
+6PWQh
+T$Ph(qO
+L$ Q
+T$8R
+Y_^]
+Y_^]
+D$(d
+F(QP
+L$(d
+D$4d
+L$4d
+L$4d
+t?VW
+h;XN
+PQVW
+h;XN
+PQVW
+SUVW
+D$ d
+D$(	
+D$(	t
+L$ d
+Y_^][
+_xu(
+9w8t
+PQSVW
+WPhTtO
+Y_^[
+PQSUVW
+D$$	
+9^,teh
+Y_^][
+T$$Q
+SUWtK
+L$$Q
+T$ R
+L$(Q
++L$0+
+D$$P
+9|$$t
+9|$(u3
+D$,P
+9|$$u
+L$$9|$(u
+L$$Q
+T$(_][
+ SUVW
+D$4d
+t$<t
+L$ j
+T$ j
+L$4d
+Y_^][
+L$$Q
+D$Tj
+L$ Q
+D$Pj
+D$pd
+L$DQ
+L$pd
+L$pd
+VUUU
+D$(d
+L$(d
+=HGO
+l$DVWU
+_^][t
+h;XN
+PQVW
+PQSVW
+Y_^[
+Y_^[
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+PQSUVW
+l$(U
+D$(;
+;~$|
+Y_^][
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+D$(P
+;QX}
+;A\}
+A\;Q`~
+Q`;Ad~
+Qp+Qh
+Qt+Ql
+=`GO
+h;XN
+PQVW
+SVWh
+t 9{(t
+_^][
+_^][
+=@GO
+PQUVW
+D$$P
+Y_^]
+L$$QP
+8D$$t(
+Y_^]
+%|GO
+Pj0V
+T$ 3
+$PQR
+$PRQ
+L$(Q
+9D$(
+T$,3
+D$8P3
+|$ 3
+9l$L~^
+L$Hj
+T$(Rj
+D$4V
+D$<;
+;l$L
+;|$ _]
+_][^
+SUVW
+D$ d
+L$ d
+Y_^][
+5PHO
+-hGO
+_^][
+n,Wu
+_^][
+QSUV
+l$ t9
+WSUQj
+PWSUQR
+_^]2
+WSUPQ
+_^][
+ SUV
+9T$8u
+L$<Q
+T$<R
+D$ P
+L$ Q
+UWPQ
+_^][
+ SUVW
+D$ PQ
+D$49D$(t
+D$89D$,
++|$,+t$(
+WVPQR
+_^][
+^][_
+-dIO
+=PHO
+^][_
+^][_
+T$$j
+hx_T
+Ex_T
+Php]T
+D$0d
+L$0d
+D$4d
+8\$Du
+L$4d
+L$4d
+D$4d
+F(QP
+L$4d
+D$ld
+T$4R
+L$ld
+F(QP
+T$|R
+L$ld
+h(MN
+D$8d
+L$8d
+F(QP
+T$HR
+L$8d
+D$4d
+F(QP
+L$4d
+D$0d
+F(QP
+L$0d
+DSUVW
+D$Xd
+l$h3
+D$h;
+|$`t
+|$h3
+\$hj
+VPWU
+D$$LxO
+T$$R
+L$Xd
+Y_^][
+=`GO
+D$,d
+L$,d
+D$0d
+L$0d
+0SUVW
+D$Dd
+L$T;
+D$TVP
+L$Tj
+F(RP
+D$TP
+L$Dd
+Y_^][
+h(MN
+(SVW
+D$8d
+D$HP
+F(QP
+L$8d
+Y_^[
+^][2
+,SUVW
+D$@d
+E(QP
+L$@d
+Y_^][
+D$ d
+D$4P
+tW9~,uR
+L$ d
+L$ d
+D$4d
+F(QP
+L$4d
+D$0d
+F(QP
+L$0d
+<SVW
+D$Ld
+\$`QP
+L$Ld
+Y_^[
+<SVW
+D$Ld
+_(Pj
+L$Ld
+Y_^[
+DSUVW
+D$Xd
+-LIO
+D$p+
+T$tR
+L$Xd
+Y_^][
+<SVW
+D$Ld
+_(Pj
+L$Ld
+Y_^[
+L$$t
+8SVW
+D$Hd
+D$XPj
+L$Hd
+Y_^[
+|$Xt
+L$Hd
+Y_^[
+L$Hd
+Y_^[
+L$\WQ
+L$Hd
+Y_^[
+L$Hd
+Y_^[
+SUVW
+L$$Q
+D$Ld
+T$`PQR
+L$Ld
+DSVW
+D$Td
+L$hQ
+T$ R
+D$Lx
+L$Td
+Y_^[
+XSVW
+D$hd
+L$4Q
+D$(P
+L$hd
+Y_^[
+0UVW
+D$D~v
+f;D$@t
+;|$D|
+D$Dd
+D$T=
+F(PQ
+L$Dd
+<SUVW
+D$Pd
+D$l3
+L$Pd
+Y_^][
+HSVW
+D$Xd
+L$tQ
+L$tQ
+L$Xd
+Y_^[
+D$,P
+L$Xd
+Y_^[
+L$Xd
+Y_^[
+tpWV
+u,PPh
+-LIO
+@SVW
+D$Pd
+D$dSP
+L$Pd
+Y_^[
+SQRP
+L$Pd
+Y_^[
+SUVW
+Y_^][
+VWPQ
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+D$(3
+h;XN
+PQVW
+PQSVW
+Y_^[
+D$0R
+D$(P
+t(PW
+D$<WP
+D$<WP
+XSUVW
+D$ld
+L$tt
+T$$R
+RQPV
+D$4PV
+L$ld
+Y_^][
+t$ W
+L$,u<;
+T$$Q
+T$0R
+50]T
+RPSU
+FP^]
+0SUVW
+D$Dd
+L$Dd
+Y_^][
+tVPW
+58]T
+PQRW
+@SVW
+D$Pd
+T$dQ
+L$Pd
+Y_^[
+L$Pd
+Y_^[
+D$0d
+tJPj
+L$0d
+L$0d
+`SVW
+D$pd
+PSh`XO
+D$ P
+\$xt
+D$ P
+T$<R
+T$0R
+T$ R
+L$pd
+Y_^[
+QRPh
+L$pd
+Y_^[
+D$ SV
+t$$W
+@SVW
+D$Pd
+T$`3
+8\$h
+RPVQ
+T$ R
+8\$@
+\$Xt
+8\$Bt
+L$Pd
+Y_^[
+L$Pd
+Y_^[
+@SVW
+D$Pd
+T$`WR
+L$ Q
+L$Pd
+Y_^[
+@SVW
+D$Pd
+T$`WR
+L$ Q
+L$Pd
+Y_^[
+@SVW
+D$Pd
+|$`Q
+L$ Q
+L$Pd
+Y_^[
+h@7C
+PQSUV
+Y^][
+t$(3
+D$Dd
+|$TW
+h0EC
+h0EC
+L$Dd
+SUVW
+D$ d
+D$8P
+T$ R
+D$(PQR
+|$<j
+T$ P
+D$(Q
+L$0R
+T$XP
+D$`QRUWP
+L$ d
+Y_^][
+D$,P
+Y_^[
+SUVW
+D$ ;
+D$ ;
+D$$P
+5<GO
+Y_^][
+SUVW
+T$ R
+F(QP
+T$ R
+Y_^][
+h;XN
+PQVW
+QSURW
+PWSUj
+u	][_2
+PSVW
+D$`d
+F(QP
+D$<P
+F(QP
+L$`d
+Y_^[
+SUVW
+L$ Q
+T$ R
+D$ PWU
+t>UV
+T$$RP
+L$,P
+D$hP
+D$hP
+L$ Q
+L$hQ
+L$4h 
+T$8R
+D$,P
+D$(j
+T$@R
+L$XQ
+T$,R
+D$HP
+L$\Qj
+L$PQ
+L$LR
+T$LP
+T$XR
+L$\Q
+D$$P
+L$$QWU
+T$ R
+L$$QWU
+D$ Q3
+D$ P
+DQMB
+Y_^][
+PSUVW
+l$$3
+Y_^][
+PSUVW
+l$$3
+Y_^][
+PQSUVW
+D$,WP
+Y_^][
+u1hP
+u1h\
+u1hl
+D$ 	
+u1h\
+u1hX
+u1hl
+\$ t
+L$,Q
+T$(R
+D$$Q
+T$,3
+QVWj
+|SVW
+T$ R
+L$$Q
+RShx
+D$(P
+T$,R
+L$0Q
+RShh
+D$4P
+QSh`
+T$8R
+PShT
+L$<Q
+RSh@
+D$@P
+QSh0
+T$DR
+PSh$
+L$HQ
+D$LP
+T$PR
+L$TQ
+D$XP
+T$\R
+L$`Q
+D$dP
+T$hR
+L$lQ
+D$pP
+L$xSQ
+D$tP
+T$xR
+L$|Q
+Y_^[
+L$0Q
+Y_^[
+PWjZjZjFW
+L$0Qj
+D$4Q
+L$4R
+T$4P
+D$4Q
+L$4R
+T$4P
+D$4QRP
+	RQPh
+T$8Q
+L$8R
+T$8Q
+L$8R
+T$8Q
+L$8R
+T$8QRV
+PQVW
+jtuG
+Ep_^
+D$|d
+L$|d
+h;XN
+PQVW
+T$$P
+D$$QRPW
+D$$d
+t$43
+D$8P
+\$,t
+8\$ t
+L$$d
+L$$d
+D$ d
+D$03
+D$4P
+L$ d
+L$ d
+t$4W
+=4GO
+hX\O
+t2h@
+D$(d
+L$(d
+Y_^[
+L$(d
+Y_^[
+SUVW
+D$(d
+L$ Q
+D$@P
+=4GO
+\$D;
+9D$Hu#
+L$ QUR
+u8j2
+9D$Hu.
+D$$P
+D$HPSWVhp
+L$(d
+Y_^][
+SUVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+= dT
+h;XN
+PQVW
+SVP3
+h;XN
+PQVW
+SVP3
+h;XN
+PQVW
+h;XN
+PQSV
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+h;XN
+PQVW
+PQPRW
+QPRPW
+PQPRW
+QPRPW
+ SUVW
+L$$Q
+5<GO
+)t$()t$,
+T$(PRP
+D$,PW
+QPRPW
+T$,QP
+T$4PQPRW
+T$$QP
+T$@Q
+_^][
+=@GO
+D$Dd
+L$Dd
+l$ WPU
+|$(j
+RQPU
+|$ +|$
+j%VPWU
+HSUVW
+D$\d
+t$dt
+H8Vj
+L$8Q
+T$,R
+T$0R
+D$(PS
+L$HQ
+L$0Q
+T$,RS
+L$\d
+Y_^][
+4SUVW
+D$Hd
+D$(P
+D$4P
+L$(QW
+L$ QR
+D$$P
+L$8Q
+T$<R
+D$4PW
+L$,Q
+T$4R
+L$Hd
+Y_^][
+SUVW
+L$4VQ
+L$,RPSWUV
+t$,Q
+L$8Q
+WUVhP
+Y_^][
+gfff
+_^][
+_^][
+_^][
+_^][
+_^][
+_^][
+PQSVW
+Y_^[
+Q :P u0
+Q!:P!u(
+Q#:P#u 
+Q":P"u
+Q$:P$u
+D$ d
+T$0h
+L$ d
+L$ Q
+(SUV
+5<GO
+|$DP
+D$,PV
+D$HW
+PWUV
+T$@PRP
+L$`W
+T$HP
+RPUV
+WPQPV
+L$$Q
+_^][
+T$ j
+D$(j
+F(PWj
+SQhP
+D$ P
+SUVW
+D$0d
+T$ Rj
+|$@W
+L$0d
+Y_^][
+SUVW
+L$8Qj
++|$0
++D$0
++\$(
++D$(
+L$$h,
++\$(
++D$(
+L$4PQ
+D$$P
+D$4QP
+T$4QR
+Y_^][
+SUVW
+L$$Q
+Y_^][
+ SVW
+D$0d
+?#uJW
+D$@P
+L$ Q
+D$1QP
+T$ R
+V<QP
+L$0d
+Y_^[
+L$0d
+Y_^[
+>QRP
+T$(P
+D$(Q
+L$(R
+T$(PQR
+h(	N
+T$ P
+D$ QRP
+hX	N
+DSVW
+D$Td
+L$Td
+Y_^[
+8SVW
+D$Hd
+L$Hd
+Y_^[
+L$Hd
+Y_^[
+L$Hd
+Y_^[
+T$ Q
+L$(RQV
+PQSVW
+Y_^[
+PQUVW
+L$$Q
+T$,R
+Y_^]
+L$$Rh,
+|$(W
+D$$W
+L$ P
+L$0Q
+L$,WQV
+D$(P
+D$ QRP
+_^][
+_^][
+L$ W
+lSUVW
+D$$P
+L$4Q
+UWPS
+L$,UWQS3
+F(RP
+D$D\wO
+T$DR
+Y_^][
+D$$P
+D$0d
+5tfT
+5tfT
+5tfT
+L$0d
+L$0d
+L$0d
+=xfT
+=xfT
+=XfT
+54GO
+L$$Q
+D$,Q
+j2j1W
+D$0j
+L$$Q
+D$ t
+D$$P
+D$(+D$
+D$(+D$
+T$ RP
+D$$SVW
+D$$;
+PQRV
+D$(P
+L$ Q
+VWUU
+T$<j
+Y_^]
+t$ P
+D$ t
+ SVW
+\$0h@
+t8Vj
+PSUVW
+T$(P
+D$(h
+QUSRP
+|$,h@
+T$DRh
+Y_^][
+T$ P
+D$ QRP
+T$<P
+D$<Q
+L$<R
+T$<P
+D$<QRP
+L$$Q
+T$,R
++l$(WU
+_^][
++|$$WU
+_^][
+|$(WU
+D$$P
+L$,Q
+L$()M
+T$$)
+_^][
+\$ t<
+L$4QRP
+T$,Q
+L$4RQW
+Y_^[
+D$@d
+D$PP
+L$@d
+D$,P
+L$4Q
+L$,P
+D$,PQ
+][_^
+_^][
+,SVW
+D$<d
+D$P3
+9\$Tu
+L$<d
+Y_^[
+D$PP
+L$<d
+Y_^[
+,SVW
+D$<d
+L$<d
+Y_^[
+0SUVW
+D$Dd
+9hdt	
+L$Dd
+Y_^][
+D$`V
+D$,j
+T$,RP
+L$`3
+L$d^3
+D$ P
+T$$RUW
+uGWh
+L$$Q
+T$$RUW
+_^][Y
+_^][Y
+QX_^
+D$$P
+SQWP
+VUUU
+HSUVW
+D$\d
+T$,R
+l$(un
+D$<P
+9l$$~
+9l$(
+L$,Q
+L$ Q
+T$DR
+D$XP
+t$<WV
+L$0+
+L$8+
+D$,+
+L$03
+USWV
+L$\d
+Y_^][
+PQVV
+_^[]
+D$4d
+F(QP
+L$4d
+SUVW
+l$,U
+D$,P
+\$$u
+Y_^][
+|$ P
+L$,Q
+RWUPQ
+PWUQhP
+VWu[
+u.;t$
+u ;t$
+D$@d
+L$@d
+L$@d
+D$ j
+T$ R
+L$$Q
+L$ QP
+Y_^]
+|$ P
+L$,QWSRP
+WSQh
+L$$QP
+R4PW
+R4PW
+@,QR
+G4_^
+G0_^
+u4_^]3
+D$ PWS
+_^][
+SUVW
+D$(d
+t$@P
+D$@Q
+L$@RWVPQ
+D$`Ph
+t$0t
+|$DW
+L$(d
+Y_^][
+_][^
+-@GO
+RWhJ
+B,SW
+L$4Q
+\$ +\$
+L$(RSWPQ
+_^][
+SUVW
+D$ d
+L$(QP
+L$ d
+Y_^][
+8UVW
+D$Hd
+L$Hd
+Y_^]
+F(PQ
+T$XR
+L$Hd
+Y_^]
+VWPj
+PQhJ
+PQSUVW
+\$,j
+-@GO
+PShH
+Y_^][
+SUVW
+QWSURP
+_^][
+QSUPhP
+_^][
+D$ j
+L$ Q
+L$$Q
+L$ QP
+Y_^]
+D$Dd
+L$Dd
+L$Dd
+h0`D
+h0`D
+hp`D
+hp`D
+h0`D
+hp`D
+hp`D
+4SUVW
+D$Hd
+D$ P
+L$@+
+L$<Q
+T$,RQPU
+T$,RQPU
+)D$(
+D$(PU
+L$Hd
+Y_^][
+D$,d
+F(QP
+L$,d
+VWtL
+VWtK
+DSUVW
+D$Xd
+|$h9_
+D$,P
+L$,t
+L$$3
+L$$V
+L$$P
+u 8D$ht
+L$Xd
+Y_^][
+8SVW
+D$Hd
+t$X;3
+L$XQ
+L$Hd
+Y_^[
+t89A,u-
+;7t)
+D$4d
+~0QP
+L$4d
+h;XN
+PQVW
+Y_^[
+Y_^[
+PQSUVW
+;|$(ty
+Y_^][
+^[t	
+SUVW
+Y_^][
+SUVW
+PQVW
+PQSVW
+\$$WS
+Y_^[
+h;XN
+PQVW
+T$$P
+D$$QRPW
+D$(d
+L$(d
+L$(d
+L$(d
+L$(d
+-PHO
+@t!V
+_^]3
+_^]2
+u<Vj
+SVWj
+SVWj
+PQSVW
+\$(;
+Y_^[
+PQSUVW
+l$,;
+Y_^][
+;QTt
+F ;G 
+2;1u
+\$$tN
+\$$t
+D$,;
+T$0R
+Y_^[
+Np+Nh
+Vt+Vl
+RPWUQ
+SUVW
+QWUWR
+_^][
+|$ WS
+_^][
+l$ VW
+_^][
+SUVW
+_^][Y
+_^][Y
+SUVW
+VUUU
+VUUU
+VUUU
+VUUU
+_^][
+D$ RPQ
+_^][
+QSPR
+-@AO
+RPPQ
+L$ QR
+Wu;SS
+|$$VS
+PVQR
+_^][
+_^][
+5`gT
+5DgT
+,SUVW
+D$@d
+l$P3
+T$8+
+T$:+
+T$<+
+D$>+
+L$ Qj
+T$0RP
+VWSU
+L$@d
+Y_^][
+=$gT
+~h_^
+-(AO
+_][^
+SUVW
+D$,d
+\$P+\$@
++|$<
+L$<;L$D
+T$@;T$Hu 
+L$X+
+D$LtK
+T$@P
+D$@Q
+L$TR
+T$ P
+RSWP
+D$@Q
+L$@R
+T$TP
+D$ Q
+RPSWQ
+L$,d
+Y_^][
+SUVW
+D$(d
+9t$@
+t$0uq9t$Duk
+l$8;
+\$<~
+l$83
+L$(d
+Y_^][
+SUVW
+D$(d
+\$83
+t$0~
+9t$Dup9t$Huj;
+\$@~
+D$@PSQ
+T$<S
+L$(d
+Y_^][
+ SUVW
+D$4d
+L$DP
+SWPUR
+L$4d
+Y_^][
+SUVW
+D$$d
+D$@z
+L$@|
+T$8PP
+SWRUP
+L$$d
+Y_^][
+SUVW
+D$$d
+)PSUWR
+L$$d
+Y_^][
+(SUVW
+D$<d
+D$d+
+D$d+
+\$d)D$T
+T$XPR
+D$T~'
+D$TUSW
+L$\WR
+l$XS
+\$$W
+|$\QSUWR
+L$<d
+Y_^][
+RWSP
+_[^]
+L$(Q
+T$(RU
+_^][
+D$dSUVW
+D$|d
+D$,t
+L$<Qj<P
+T$<R
+D$<P
+L$,QP
+L$|d
+Y_^][
+L$d3
+tRWVUS
+[t	UPW
+`SUVW
+D$td
+j VS
+PQRVSj
+D$$P
+UVSQRP
+L$0QU
+T$0RU
+L$td
+Y_^][
+L$(VWUSR
+T$8VWQ
+L$@RQ
+L$ R
+T$ USVWPQR
+SUVW
+|$ USPQV
+t$83
+T$,RU
+D$,PU
+D$8QRP
+L$(QU
+D$,j
+L$LQ
+L$8P
+D$0P
+L$@RPQ
+Y_^][
+dSUVW
+D$xd
+VSQPR
+PQRVSj
+RQVSj
+PQVSj
+VSQRP
+WVSRQP
+T$(j
+D$$PjTS
+L$DQ
+VSQRP
+VSPRQ
+WVSQRP
+L$xd
+Y_^][
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQVW
+L$ Q
+T$,P
+D$,Q
+L$,R
+T$,P
+D$,QRP
+D$(P
+D$ QRP
+T$(Q
+L$(R
+T$(Q
+L$(RQ
+T$(Q
+L$(R
+T$(Q
+L$(RQ
+T$(P
+D$(Q
+L$(R
+T$(PQR
+T$,P
+D$,Q
+L$,R
+T$,P
+D$,QRP
+T$8h
+L$0Q
+RPQj
+^$^[
+T$0R
+5lgT
+L$0Q
+L$0Q
+T$$R
+D$$P
+D$4j
+D$0Ph
+T$(R
+D$(P
+\$$t
+Y^][
+Y^][
+^PRP
+T$0P
+D$0Q
+L$0R
+T$0P
+D$0Q
+L$0RPQ
+SUVW
+D$,d
+D$$P
+L$$VQ
+L$,d
+Y_^][
+LSUVW
+D$`d
+t$43
+PWhH
+u9ht
+;D$0
+D$p3
+|$0jd
+D$p;
+|$pjd
+D$x;
+D$h	t
+|$|hP
+D$,Ph
+L$|j
+D$0h
+L$ Qh
+D$8\eO
+T$TR
+L$8;
+L$(Q
+T$(R
+D$\P
+L$8;
+L$0Q
+T$0R
+D$dP
+D$x 
+L$8;
+D$h!t
+D$h 
+D$h"tK
+D$xPj
+L$HQj
+|$|j
+D$|$
+T$DR
+D$TP
+L$tQ
+T$tR
+D$xP
+L$`d
+Y_^][
+<SUVW
+D$Pd
+\$Xt~
+PSh,
+T$(Rh
+D$8Ph
+t$Xt"
+T$(Rj
+t$Xt"
+L$(Qh
+D$t	
+t$Xt#
+D$0Pj
+t$Xt
+T$0Rj
+t$Xt
+T$4R
+D$(P
+L$0Q
+T$$R
+;\$(
+D$,P
+L$4Q
+L$<Q
+D$DP
+gfff
+L$Pd
+Y_^][
+D$(d
+L$ Q
+D$$u
+NTQP
+D$4P
+L$(d
+Y_^[
+SUVW
+l$ t	
+L$,Q
+T$$h
+T$(R
+L$4Q
+T$0R
+Y_^][
+ SUVW
+D$4d
+D$$3
+;D$$
+L$4d
+Y_^][
+D$ PQ
+h;>N
+h;>N
+D$0VP
+T$4RW
+D$0P
+R\VQ
+Y_^[
+Y_^[
+D$(P
+D$$PVR
+SUVW
+D$0d
+D$@P
+\$8uu
+L$ Q
+L$$Q
+L$dQ
+T$<R
+t$@Q
+L$0d
+Y_^][
+SUVW
+l$(3
+T$4WR
+L$<VQ
+T$8RU
+D$(P
+L$(Q
+L$8Q
+T$(R
+T$LR
+L$,Q
+D$Pt
+D$,P
+T$ R
+L$,UQ
+L$,Q
+L$(Q
+D$@P
+D$(PW
+L$,Q
+L$(Q
+T$(RW
+D$,P
+L$(Q
+Y_^][
+L$0QR
+D$$P
+%dBO
+SUWh
+	G$h
+_][3
+QRVP
+QSUV
+u	^]2
+|$$+
+D$(P
+D$ QRP
+P WQ
+D$Hd
+D$\P
+L$Hd
+L$Hd
+D$Hd
+D$XP
+L$Hd
+D$Hd
+D$XP
+L$Hd
+L$Hd
+\SUVW
+D$pd
+|$D}g3
+D$$P
+L$HQSUV
+T$PR
+T$dR
+t$8|.
+\$43
++t$$
++l$(
+D$ht
+D$dt
+D$`t	
+L$Tu1
+D$$P
+#T$,
++L$<
+#T$0
++L$@
+#T$8
++L$D
+T$PR
+T$L#T$,
+T$L#T$0
+T$L#T$8
+;\$X}>
+;\$X|
+L$pd
+Y_^][
+0SUVW
+D$Dd
+|$0t0
+T$0u
+D$,P
+L$8Q
+L$8Q
+D$\P
+L$\Q
+L$8Q
+\$ t
+L$8Q
+T$0j
+L$(SVR
+T$,UQ
+L$8P
+D$tW
+|$8WRP
+PPSVQ
+L$0UPj
+D$tR
+D$LP
+L$,Q
+L$Dd
+Y_^][
+(SUVW
+D$<d
+D$(3
+T$P|
+T$P|
+L$4j
+T$<RQ
+l$Lj
+t$0U
+T$TR
+L$\Q
+L$ Q
+L$<d
+Y_^][
+SUVW
+T$PR
+L$(Q
+t$P3
+Y_^][
+D$\}
+D$dBM
+D$\+
+D$t(
+D$|f
+D$hP
+D$lP
+D$pP
+D$tP
+D$xP
+D$|P
+t$P3
+D$Lts
+L$(Q
+T$(RP
+L$(Q
+9l$ 
+D$$~Y
+T$BR
+D$?P
+L$KQ
+L$(U
+;l$ |
+t$$un
+l$XU
+t$LW
+L$$R
+L$$P
+L$$R
+D$,;
+L$$R
+D7	Q
+L$ RP
+L$$R
+L$ RP
+L$$P
+D$(Q
+h> N
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+|$Pf
+D$Hf
+D$PP
+L$RQ
+L$TQ
+ul8E
+Y_^[
+Y_^[
+L$dPQ
+T$T;
+L$T3
+L$T3
+u2VW
+u!VW
+D$dP
+L$T;
+L$T3
+D$$P
+T$(R
+|$<j
+L$dQ
+D$,P
+T$(R
+L$4Q
+D$0P
+L$8f
+|$Hf
+D$pP
+L$qQ
+L$rQ
+L$sQ
+L$tQ
+L$vQ
+L$xQ
+L$|Q
+T$dR
+Y_^[
+Y_^[
+_^]Y
+:#u[
+_[^Y
+_[^Y
+_[^Y
+SUVW
+_^][
+hh N
+T$(R
+hpJE
+SUVW
+L$\Q
+T$TR
+D$lP
+L$lQh
+|$P@
+9l$D
+L$h+
+T$2R
+8\$&t@j
+D$hP
+L$hQ
+;D$D
+D$`P
+L$LtJ
+t$Hu
+T$T3
+L$pQ
+T$HR
+;D$X
+L$4hpJE
+T$<R
+PUSh
+L$4hpJE
+T$<R
+D$4hpJE
+L$<Q
+L$4hpJE
+T$<R
+\$,t
+D$4hpJE
+L$<Q
+Y_^][
+u	]_^2
+QjTP
+T$(R
+T$lPQj
+lSUVW
+L$,QjTP
+L$X3
+D$$f
+D$$BM
+D$HP
+L$@WQ
+Y_^][
+QjTP
+t	Wj
+hc!N
+hSUVW
+D$|d
+L$(QjTP
+L$Nf
+D$$PW
+L$|d
+Y_^][
+T$$RW
+L$|d
+Y_^][
+\$ V
+_]^[
++|$ 
+D$$PjTW
+QjTP
+L$6f
+T$lR
+D$0P
+V(RSj
+D$0P
+L$4QV
+D$|RPV
+$SUVW
+D$8d
++t$(
+L$8d
+Y_^][
+|$(;
+T$(t
+uzhL	P
+T$(RV
+Y_^]
+Y_^]
+Y_^]
+D$ PQ
+h""N
+SUVW
+D$0d
+|$@3
+L$ Q
+L$(Q
+L$0d
+Y_^][
+hH"N
+D$ d
+|$03
+L$ d
+Y_^[
+T$0Rh
+D$0P
+L$ d
+Y_^[
+t j j
+t$(u	
+PQVW
+h.#N
+PQSVW
+Y_^[
+h^#N
+SUVW
+D$$d
+ju$j
+L$$d
+Y_^][
+u'	=
+nt79~
+L$$d
+Y_^][
+9A ~
+;A |
+T$ RPS
+L$$d
+Y_^][
+L$$d
+Y_^][
+PQVW
+j@uG
+SUVW
+Y_^][
+L$XQj<P
+D$8f
+T$@f
+L$Fj
+T$ R
+Y_^[
+h!$N
+Y_^[
+|$$t5j
+Y_^[
+D$LV
+Rj<j
+L$L3
+QSVW
+T$ R
+T$$R
+T$(R
+D$ u
+L$,R
+T$,QR
+hH$N
+PQVW
+L$(Q
+PQVW
+L$ PQ
+-@GO
+t\;t$
+t);t$
+t+W2
+Uj	h
+T$0P
+T$8R
+\$0V
+#D$$
+9D$ 
+\$PVW3
+8_^[
+D$ u
+|$<j
+L$ Qj
+(]_^[
+L$(j,
+D$$Q
+L$$PQ
+L$$Q3
+SUVW
+D$,d
+T$ R
+L$DQ
+l$$3
+L$,d
+Y_^][
+PQVW
+Y_^[
+Y_^[
+u	_^]2
+_^][
+uW_^3
+h8%N
+PQSV
+hh%N
+PQVW
+D$$3
+L$$Q
+QSVW
+T$ Q3
+SUVW
+D$ d
+L$ d
+Y_^][
+PQVW
+Qj	h
+hg&N
+SUVW
+D$4P
+L$DQ
+T$ RSh
+Sj	h
+D$$P
+L$$Q
+Y_^][
+L$LQ
+D$TF
+D$ P
+D$(9
+D$@P
+PVWQ
+T$ RPjNU
+L$\QPh
+D$tR
+D$@P
+D$ P
+Sj	h
+D$4P
+L$ Q
+=@GO
+T$LRj
+L$PQP
+=@GO
+L$LQ
+;D$H
+SUVW
+D$8PVQ3
+SQPR
+D$0P
+L$ Q
+L$@Q
+D$<P
+D$$Ft3
+l$Pt
+T$DR
+D$03
+T$(R
+8L$|
+PVj{V
+Y_^][
+h!'N
+D$,3
+t$(PV
+PSUVW
+u:j0
+D$$;
+|$(;
+Y_^][
+PSUVW
+u:j0
+D$$;
+|$(;
+Y_^][
+hS'N
+PSUVW
+u:j0
+D$$;
+D$(P
+Y_^][
+h{'N
+D$4P
+G$Ph
+#D$ 
+PSUVW
+Y_^][
+P0SW
+P0SW
+=@GO
+$QRh
+QRh8
+_^][
+D$xd
+L$xd
+T$@R
+L$xd
+L$xd
+PSh8
+L$DQSh8
+D$dj
+T$`Rj
+RQVPS
+T$TR
+L$$QUh
+D$0W
+L$\QV
+_^][3
+tMVW
+G S3
+T$(3
+D$,h
+PQVW
+h@(N
+0SVW
+D$@d
+\$XP
+D$XQ
+L$XRWSPQ
+L$@d
+Y_^[
+D$pPh
+|$Ht
+L$@d
+Y_^[
+4SVWj4
+D$<d
+L$<d
+L$<d
+D$Dd
+t$TQSP
+D$,9X
+t$Tu
+L$Dd
+D$<d
+L$<d
+L$<d
+T$	QRP
+t$<W
+l$,t
+t'j0
+D$<d
+D$PP
+L$<d
+l$,VW
+_^][
+D$<d
+T$PR
+L$<d
+UVWj
+L$8UQ
+0_^][
+SUVW
+D$0d
+\$DP
+\$DP
+|$8t	
+L$0d
+Y_^][
+L$0d
+Y_^][
+L$0d
+Y_^][
+hg)N
+SUVW
+L$Lj
+T$4R
+T$ R
+T$(RS
+l$(t
+UWUj
+T$@RU
+D$(PS
+L$`Q
+L$4Q
+l$$3
+Y_^][
+t]j4
+PQVW
+t j0
+PQVW
+|$ W
+t4VW
+t$@W
+D$<d
+T$TR
+L$<d
+4SVWj4
+L$TSQ
+QRh+
+SUVW
+L$ Q
+L$ QV
+T$0RWh
+L$ PQ
+T$8R
+T$DR
+8T$|
+t4;-X
+D$DP
+Y_^][
+T$0R
+L$0QP
+T$0Rj
+D$,P
+L$ Q
+hH*N
+D$Xd
+L$Xd
+L$Xd
+SUVW
+D$,d
+t$<3
+L$$Q
+|$<;
+8]	t&
+L$,d
+Y_^][
+8D$ 
+D$ +
+PQSUVW
+l$(j
+Y_^][
+PQVW
+SUVW
+L$0QP
+l$,UV
+Y_^][
+0Vj0
+h8+N
+\SUVW
+D$pd
+D$Dj
+D$@(
+=@GO
+T$@Rj
+\$xts
+RQPU
+\$xt
+T$@Rj
+L$pd
+Y_^][
+@ ^Y
+@H^Y
+@p^Y
+V PQR
+N RPQ
+N RPQ
+N RPQ
+N RPQ
+V PQR
+V PQR
+N RPQ
+Pp+P _
++H _
+V PQR
++HH_
++PH_
+_^]3
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQSVW
+Y_^[
+[<[Y
+[<_[Y
+^<^Y
+^<^Y
+Dz'Q
+n8t2
+UWSR
+_^][
+UWSR
+_^][
+hJ,N
+SUVW
+D$$d
+D$ t
+L$$d
+Y_^][
+;yHt+V
+|N;A4sISW
+|^;A4sYSW
+QSUVW
+_^]2
+_^]2
+;A4s)P
+L$$Q
+L$ +L$
+BXWSU
+[_^2
+D$8P
+|$<t
+|$Dt	
+D$@P
+L$4Q
+|$8t
+L$Lt	
+@TRWU
+D$HP
+L$,Q
+_^][
+9~4u
+~`t/
+~Lt$
+hx,N
+PQVW
+D$<Q
+;C4W
+D$,d
+\$<VS
+D$<P
+L$DQ
+L$,d
+Y_^[
+t$$WV
+BlWS
+VWt#
+R\WUP
+T$,Q
+L$,R
+T$,Q
+L$,R
+T$,QR
+SVW3
+NdWPh0	
+VlWQh0	
+NpWPh0	
+VhWQh0	
+NtWPh0	
+D$$P
+RPQP
+SUVW
+D$$d
+\$ 3
+t$8+t$
+L$$d
+Y_^][
+hH-N
+PQSVW
+Y_^[
+D$$d
+L$$d
+5|xT
+h8xT
+=|xT
+=|xT
+h8.N
+hh.N
+h8xT
+PQVW
+D$ j
+SUVW
+PSh8)P
+\$$t
+Y_^][
+PSh()P
+\$$t
+\$$t
+\$$t
+Y_^][
+Y_^][
+D$,	
+h|(P
+h`(P
+hH(P
+h8(P
+h((P
+hx'P
+hh'P
+hX'P
+hH'P
+h8'P
+h 'P
+D$, 
+D$,!
+D$,"
+D$,#
+D$,$
+h|&P
+D$,%
+hl&P
+D$,&
+h`&P
+D$,'
+hP&P
+D$,(
+h4&P
+D$,)
+D$,*
+D$,+
+D$,,
+D$,-
+D$,.
+D$,/
+D$,0
+Y_^][
+hK0N
+PQVW
+h{0N
+PSUVW
+QRVW
+Y_^][
+SUVW
+D$(d
+ur9\$
+D$ ;
+PShT)P
+D$(PS
+L$LQ
+\$0t
+D$,P
+L$XQ
+D$,P
+D$H;D$$~
+D$<;
+D$@;
+D$D;
+L$(d
+Y_^][
+SUVW
+D$(d
+gfff
+UQRW
+L$(d
+Y_^][
+h@1N
+SUVW
+D$$d
+L$DR
+T$DQ
+L$DR
+D$,~
+D$DQPWS
+9t$4~3
+;t$4|
+L$$d
+Y_^][
+T$hR
+D$DP
+L$xQ
+D$XP
+L$dQ
+T$HR
+D$TP
+hh1N
+SUVW
+D$(d
+L$<3
+D$ s
+D$ Pj
+D$0P
+L$$Q
+D$,P
+L$(d
+Y_^][
+8SUVW
+D$Ld
+L$8Q
+T$0R
+L$8QR
+D$@t
++l$$
++D$$
+D$d3
+\$HtB9O
+|$`j
+D$d+
+D$$+D$(
+;L$lu[
+L$0Q
+T$(R
+D$,P
+L$(Q
+|$dt_
+L$@Q
+T$(R
++|$0
++D$0
+l$4;l$`u
+9L$ tV
+D$,P
+L$<P
+L$Ld
+Y_^][
+lSUVW
+D$Xt
+D$Pt
+D$LXgO
+L$D}
+D$H3
+L$<+
+L$Dv
+D$$+D$ 
+D$ +D$$
+D$,+D$(
+D$(+D$,
+L$8h
+D$|$fO
+T$tR
+L$pQ
++D$@Q
+L$H}
+)|$<+
++D$@
+D$@+D$
+D$$+D$ 
+D$ +D$$
+D$,+D$(
+D$(+D$,
+L$8h
+D$|$fO
+T$tR
+L$pQ
++D$<Q
+9|$<
+L$TQ
+L$LQ
+Y_^][
+hH2N
+`SUVW
+D$td
+L$Pt
+D$L$fO
+\$D+
+D$<h
+D$p$fO
+L$`Q
+L$LQ
+L$td
+Y_^][
+PVSWj
+hx2N
+h;XN
+PQVW
+PSVW
+D$ WP
+T$$R
+D$$P
+Y_^[
+D$(d
+D$ P
+D$ PQ
+L$,QP
+L$(d
+VUUU
+,SUVW
+D$@d
+L$PQ
+L$\Q
+\$TS
+D$,P
+T$ RS
+D$TSPU
+L$@d
+Y_^][
+h(3N
+SUVW
+D$,d
+L$,d
+Y_^][
+SUVW
+L$$Q
+L$$QS
+_^][
+SUVW
+D$lP
+D$ P
+u^PPj 
+D$4t
+L$ Q
+T$(R
+L$TQ
+L$(QP
+t$Pu
+T$Xt`
+L$lQ
+T$PRW
+L$LQW
+L$HR
+t$\+t$
+T$lP
+T$0RP
+Y_^][
+$UVW
+D$4d
+D$ P
+L$4d
+Y_^]
+;_^3
+=`BO
+T$ R
+h84N
+SUVW
+l$$t
+h$,P
+D$,j
+L$4Q
+T$,R
+PUQSR
+Y_^][
+hp4N
+ SUVW
+D$4d
+D$HP
+t$Df
+L$4d
+Y_^][
+QSUV
+-@GO
+_[^]
+D$ QP
+u	_^]2
+8_^]
+_^][
+9_^][
+=@GO
+hH;N
+u6^]2
+.u	^]2
+^][Y
+<SUV
+D$Ld
+L$Ld
+Y^][
+L$Ld
+Y^][
+8C1u
+L$Ld
+Y^][
+D$\P
+L$Ld
+Y^][
+SPQW
+D$Dd
+L$Dd
+L$Dd
+hK5N
+SUVW
+D$ d
+l$(u
+hd,P
+D$<Ph
+l$(t
+h\,P
+D$<Ph
+l$(t
+hT,P
+D$<Ph
+l$(t
+hL,P
+D$<Ph
+l$(t
+D$(	
+hD,P
+D$<Ph
+l$(t
+h<,P
+D$<Ph
+l$(t
+h0,P
+T$$R
+D$$Ph
+l$(t
+L$ d
+Y_^][
+T$ R
+L$TQ
+T$TR
+D$<VW
+|$LW
+L$<3
+tDj<
+L$D_^3
+D$ WSPQ
+h8ON
+Phl,P
+Y_^[
+0SUVW
+D$Dd
+|$T3
+L$TQ
+T$,Q
+D$ P
+L$,Q
+T$\R
+L$0Q
+L$0Q
+L$Dd
+Y_^][
+h!6N
+8SUVW
+D$Ld
+D$,P
+T$ P
+L$<f
+D$(WVP
+L$Ld
+Y_^][
+hh6N
+SUVW
+D$(d
+L$8j
+T$@R
+D$8P
+L$ Q
+D$ t
+L$$QP
+T$DR
+|$8t
+L$(d
+Y_^][
+PQSUVW
+\$,3
+t$(P
+Y_^][
+D$hd
+D$x=
+F(QP
+L$hd
+L$hd
+L$hd
+D$0P
+D$xP
+D$0P
+L$hd
+QUhD
+T$ j
+D$6v)
+L$8+
+h<7N
+SUVW
+=@GO
+9\$$
+T$ ;
+D$PSP
+T$LR
+L$df
+f9\$f
+Y_^][
+SUVW
+D$,d
+l$D;
+t$4|+
+t&9p
+D$ P
+T$HR
+T$HR
+L$ Qj
+D$HP
+L$@WQ
+T$HR
+L$HQ
+t$<u
+L$,d
+Y_^][
+|$(3
+D$,PW
+Y_^[
+Y_^[
+ SUVW
+D$4d
+t$<t
+L$ j
+T$ j
+L$4d
+Y_^][
+h(8N
+8^!t
+QdPR
+^!^[
+PWVR
+] _^[]
+] []
+hH$N
+PQVW
+h0uN
+PQSUVW
+T$(R
+VWPWS
+Y_^][
+hc8N
+PQSUVW
+T$,P
+D$,SQURP
+Y_^][
+T$(Q
+L$(R
+T$(Q
+L$(R
+T$(QR
+D$ d
+\$(t}
+D$ P
+L$ Qj
+L$ d
+Y_^[
+D$$P
+Wj0Q
+D$Dd
+T$XR
+D$TP
+L$Dd
+L$Dd
+h(9N
+D$pd
+T$8R
+T$8R
+L$pd
+L$pd
+L$pd
+hX9N
+SUVW
+Rh`0P
+0SUVW
+D$Dd
+|$TW
+T$XR
+\$<+\$4
+|$TWP
+D$$P
+D$0PQR
+L$,Q
+L$Dd
+Y_^][
+D$Dd
+L$Dd
+t$$V
+L$(Qj
+=0GO
+T$(RP
+T$,R
+_^t	
+=XGO
+L$0P
+T$8Q
+T$@R
+L$8+L$0
+T$<+T$4
+SUVW
+VQRP
+_^][
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQUVW
+n0tw
+Y_^]
+PQSVW
+9G,u
+Y_^[
+QlV3
+vdu0
+_^][t
+h&:N
+PQVW
+ht:N
+SUVW
+YdVR
+XdVQ
+trSWUU
+_[^]
+AlW3
+^][_
+SUVW
+D$$d
+\$,t
+L$$d
+Y_^][
+XSUVW
+D$ld
+|$|W
+8]\t
+t$tu
+L$@j
+D$<0
+D$`t
+T$<Rj
+EdQP
+D$ h
+L$ QP
+L$ld
+Y_^][
+EdWR
+][_3
+VWUPS
+_^][
+t`SW
+_^][
+QSUV
+_^][Y
+_^][
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQVW
+hH;N
+T$$R
+hH;N
+T$ WR
+Y_^[
+t#VP
+h0uN
+PQSUVW
+D$(P
+L$,Q
+D$(P
+T$(;J
+L$(Q
+Y_^][
+[_^]
+D$Dd
+T$X2
+T$4t
+L$Dd
+PQVW
+h&<N
+Y_^[
+UVWt
+_^][
+hh<N
+SUVW
+D$,P
+L$0Q
+Y_^][
+SUVW
+D$ d
+L$0U
+t$0QU
+T$ R
+L$ Q
+L$8;
+r ;D$<w
+L$ d
+Y_^][
+RhL;P
+L$ d
+Y_^][
+SUVW
+D$,9X
+T$4hT
+L$4hD
+T$4h
+D$,Ph
+Y_^][
+hd;P
+Y_^][
+T$$R
+D$(P
+h@=N
+LSUVW
+D$`d
+9\$pu!
+D$pu
+D$pu
+tn8\$YtB
+\$ht
+8\$Zt
+L$TQV
+8\$Wt
+T$URV
+D$pP
+L$`d
+Y_^][
+hy=N
+SUVW
+t$,QPQ
+Y_^][
+PQUVW
+tPj	j
+L$$Q
+Y_^]
+Wt)P
+h;XN
+PQVW
+TSUVW
+D$hd
+T$0R
+L$hd
+Y_^][
+D$(3
+T$ P
+hHyN
+h;>N
+hx>N
+D$(d
+T$<R
+L$8Q
+L$(d
+Y_^[
+hx<P
+L$(d
+Y_^[
+ SUVW
+D$4d
+l$D3
+\$<tc
+D$$<<P
+L$4d
+Y_^][
+h,?N
+PQSUVW
+9n0t
+|9l$4
+Y_^][
+hy?N
+PQSVW
+t$,;
+T$,R
+L$0Q
+Y_^[
+SUVW
+l$,U
+D$,P
+\$$u
+Y_^][
+PSUVW
+D$dd
+t$luP
+D$ P
+D$@t
+T$<;
+T$Lt:
+D$PP
+D$,t
+L$(;
+L$8t9
+L$PQ
+t$tj
+D$0P
+L$HQ
+L$dd
+Y_^][
+PSVW
+D$`d
+L$`d
+Y_^[
+-tGO
+]_^[
+97v S
+][_^
+t6V3
+97v.U
+-@GO
+Sj0Q
+]^_[
+\$(V3
+97vMU
+-0GO
+L$ Q
+t3V3
+hP@N
+pSUVW
+D$LP
+Y_^][
+D$ d
+L$<Q
+L$(QP
+L$<Q
+L$,QP
+L$ d
+Y_^[
+D$$+
+D$ UP
+T$(UR
+D$$PQ
+_][^Y
+SUWR
+D$ +
+D$ WP
+D$$+
+PUQW
+_][^Y
+SUVW
+_^][
+=@GO
+=\IO
+L$$SUW
+D$03
+D$$9D$ }
+PPRj
+T$0P
+D$<SQWRPU
+[u	2
+|	UWho
+_^][
+D$Hd
+L$Hd
+L$Hd
+<SVW
+D$Ld
+|$`9
+L$Ld
+Y_^[
+F(PQ
+8D$H
+L$Ld
+Y_^[
+h(AN
+<SUVW
+D$Pd
+L$dQP
+L$`Q
+\$XuA
+T$hR
+\$Xt
+L$Pd
+Y_^][
+=@GO
+htAN
+\$ t?
+PQVW
+PSUVW
+t$,P
+D$,Q
+L$,RWVP3
+D$LPh
+|$0W
+Y_^][
+hH;N
+PQSUVW
+-@GO
+D$(P
+Y_^][
+h(BN
+SUVW
+|$,;
+-@GO
+t	PW
+D$0P
+Y_^][
+hhBN
+`SUVW
+D$td
+L$4Q3
+T$<RV
+QRPV
+L$(QV
+L$td
+Y_^][
+SUVW
+D$,d
+L$(Q
+T$(R
+L$$Q
+T$$R
+D$$PQ
+L$,d
+Y_^][
+8SUVW
+D$Ld
+N(QP
+D$`P
+L$Ld
+Y_^][
+hvYN
+SUVW
+Y_^][
+hH$N
+PQVW
+5@GO
+PQSVW
+|$(;
+t$$u
+t$$Rj
+Y_^[
+SUVW
+D$$d
+9D$8
+D$4P
+L$$d
+Y_^][
+SSSh
+Y_^[
+h;CN
+D$(P
+L$<Q
+Y_^[
+qti=
+h(KN
+L$$Q
+L$$Q
+D$8d
+T$Hj
+L$8d
+D$HP
+L$8d
+D$<V
+t$Hj<
+D$4P
+L$<3
+L$<3
+D$<S
+\$LVW
+L$H_^[3
+D$@S
+\$LV
+t$TW
+L$L_^
+					
+																					
+hpEP
+hXEP
+h(EP
+D$(d
+hL,P
+hT,P
+h<,P
+hxGP
+hpGP
+hhGP
+h`GP
+hTGP
+hHGP
+h<GP
+h0GP
+h(GP
+h$GP
+h GP
+hD,P
+h\,P
+h|FP
+hd,P
+hpFP
+hhFP
+hXFP
+hHFP
+h<FP
+h0FP
+L$<Q
+D$@P
+L$(d
+Y_^]
+6666666
+6666666
+66666666
+6666666666666666666666666666666666666666666666666
+6666666666
+ !"#$%&'()*+,-./012345
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQSVW
+Y_^[
+L$$Q
+L$$Q
+L$$Q
+L$$Q
+L$$Q
+L$$QP
+L$4R
+T$,Q
+L$,R
+T$,Q
+L$,R
+T$,QR
+tX9p,uSS
+9P(t	
+hHDN
+SUVW
+l$,;
+D$DPj
+Y_^][
+sOUW
+_]^[
+^[]_
+SUVW
+D$ d
+L$ d
+Y_^][
+D$@d
+L$@d
+D$Dd
+L$Dd
+8SUVW
+D$Ld
+L$\PQ
+L$Ld
+Y_^][
+DSUVW
+D$Xd
+D$hP
+t08\$Ot
+8\$Rt
+L$Xd
+Y_^][
+hOEN
+PQSUVW
+D$4;
+D$8;
+L$<3
+Y_^][
+PQVW
+D$$d
+L$,Qj
+L$$d
+Y_^[
+hPFN
+pSUVW
+D$,P
+L$Hj
+T$xj
+9t$$
+D$(u
+9T$ u
+D$4$fO
+29D$ |R
+29L$(|D
+T$\R
+D$HP
+D$AQ
+RPVW
+;t$$
+Y_^][
+h~FN
+A0VW
+VWj@
+D$,d
+D$<RP
+L$,d
+L$,d
+T$ Q
+L$ Q
+PQSVW
+Y_^[
+t$4W
+L$$Qj
++D$$;D$
+l$ VW
+;D$,t
+L$,+|$
+D$0P
+_^]2
+4PVS
+NxWP
+t	+D$
+SUVW
+D$(d
+L$(d
+Y_^][
+9l$@
+VUQR
+;l$@
+;D$<
+\$8WV
+L$(d
+Y_^][
+h;XN
+PQVW
+T$4P
+D$4Q
+L$4R
+T$4P
+D$4Q
+L$4RPQW
+|$ Ph
+L$(UQR
+u	_^]2
+=@GO
+hCGN
+hxGN
+PSUVW
+D$dd
+L$0QP
+T$ RUP
+h LP
+D$0P
+T$DRj
+L$Hj
+L$PQ
+L$$QU
+L$dd
+Y_^][
+SUVW
+L$LQ
+T$DR
+T$XR
+D$hP
+D$dP
+L$\Q
+L$\Q
+T$TR
+=@GO
+L$dh
+=@GO
+L$ QUh
+L$(+
+L$8R
+h LP
+L$hQ
+D$x3
+T$$RPP
+T$4P
+D$4QR
+;l$D
+Y_^][
+_^][
+_^]3
+_^]3
+T$4R
+=@GO
+T$Pt
+T$<R
+T$<R
+\$(ta
++D$$
+D$\t
+D$X\eO
+L$HQ
+T$dRP
+9\$(
+9|$$
+L$hP
+D$@PQ
+;|$$
+|$`|
+;\$(
+T$hR
+D$t\eO
+D$lP
+L$$SQP
+T$\R
+D$D3
+L$HQRh
+=@GO
+D$03
+D$0u;
+T$lRWh
+D$x+D$p
+D$TP
+L$4Q
+|$t+
+D$ 3
+D$8v8
+D$()D$
+|$x+|$p
++D$T
+D$HP
+D$ j
+Y_^[
+D$$d
+hDLP
+L$$d
+Y_^[
+L$$d
+Y_^[
+PQSVW
+Y_^[
+h8IN
+ SUVW
+D$4d
+-@GO
+L$(Qj
+T$ R
+L$4d
+Y_^][
+PSUVW
+L$,Q
+Y_^][
+=@GO
+hhIN
+D$ d
+hdLP
+L$ d
+Y_^[
+L$ d
+Y_^[
+<SUVW
+D$Pd
+T$dP
+D$dQRP
+L$lR
+T$lQRWP
+L$hQ
+T$pR
+l$hQP
+L$Pd
+Y_^][
+-@GO
+]_^[Y
+T$$RUS
+^]_[
+^]_3
+PQSVW
+t$$u
+t$$Qj
+Y_^[
+D$ d
+D$0;
+L$ d
+D$(t1
+t5;t$
+_[^]
+_[^]
+^]_[
+SUV3
+D$ j
+_^][
+_^][
+L$ P
+^_][
+hbJN
+hbJN
+D$ P
+L$ Q
+gfff
+gfff
+h(KN
+PSUVW
+\$$;
+T$(R
+D$(PS
+Y_^][
+hXKN
+SUVW
+D$0d
+L$ 3
+L$HQ
+T$ R
+L$LQ
+T$,R
+L$XQ
+D$,+D$@
+T$(Q
+L$(R
+T$LR
+L$0d
+Y_^][
+l$ VW
+t$$t
+UPQP
+_^][
+T$0R
+D$,t
+D$03
+gfff
+SUVW
+D$$d
+L$$d
+Y_^][
+Y_^[
+hPLN
+D$@d
+L$,j
+L$@d
+hxLN
+PQVW
+h(MN
+(SVW
+D$8d
+|$HPQW
+@(RP
+L$8d
+Y_^[
+50]T
+_[^2
+_[^]Y
+_[^]Y
+lSUVW
+D$4PU
+L$$QU
+|$0+\$<+|$@+\$$+|$(
+WSPQU
+F(RP
+D$h3
+D$D\wO
+D$DP
+Y_^][
+A,RP
+]tHh
+T$$R
+L$ ;L$
+SUVW
+L$8QUV
+D$8P
+L$0h
+T$(R
+D$4P
+;l$$
+Y_^][
+[_]^
+L$ Q
+T$ RSU
+uqSUW
+_^][
+L$ Q
+_^]3
+h(MN
+(SVW
+D$8d
+L$L;
++;D$P
+F(QP
+\$4j
+L$8d
+Y_^[
+L$8d
+Y_^[
+t/Uj
+][_2
+h`MN
+ SVW
+D$0d
+L$0d
+Y_^[
+L$0d
+Y_^[
+hxLN
+PQSV
+w-t 
+_^][
+T$(R
+T$ WRU
+_^][
+_^][
+PQSV
+PQVW
+W@QRP
+hCNN
+PQSV
+gfff
+gfff
+PQVW
+PQSVW
+Y_^[
+PQSV
+D$ P
+D$ P
+h8ON
+PQSUVW
+tw< u
+D$<P
+D$(P
+D$09D$,~G+
+Y_^][
+D$ PQR
+SUVW
+D$$tC
+QPhx
+T$,Rj
+Y_^][
+<SUVW
+D$Pd
+D$L;
+|$Xt
+|$Xty
+T$$Rh
+D$4Ph
+t$@t#
+D$(Ph
+L$0Qh
+T$,Rh
+D$<Ph
+t$Dt#
+D$4Ph
+L$DQh
+T$<Rh
+D$LPh
+L$Pd
+Y_^][
+8SVW
+D$Hd
+\$XS
+L$Hd
+Y_^[
+L$Hd
+Y_^[
+h QN
+D$$d
+L$$d
+hoQN
+$SUVW
+D$8d
+D$HP3
+D$H;
+l$@t
+T$HRj
+L$ QP
+L$8d
+Y_^][
+D$@d
+hP(O
+L$@d
+T$0Q
+D$4R
+T$0P
+D$0QRP
+L$ Q
+SUVW
+D$(d
+\$0t
+L$(d
+Y_^][
+h@RN
+D$ d
+|$03
+L$ d
+Y_^[
+T$4QRW
+L$ d
+Y_^[
+T$4QRj
+L$ d
+Y_^[
+L$ d
+Y_^[
+hhRN
+h;XN
+PQVW
+T$$P
+D$$QRPW
+PQVW
+L$$;
+L$$;
+~>9D$
+t$ W
+_^][
+_^][
+=@GO
+SUVW
+_^][
+_^][
+ SUVW
+D$4d
+h$_P
+L$$Q
+D$ t
+j	WV
+j	WV
+L$4d
+Y_^][
+h@SN
+,SUVW
+D$@d
+D$,P
+D$(t
+L$ QWP
+T$,R
+D$ PU
+L$@d
+Y_^][
+hhSN
+DSVW
+D$Td
+D$dRQP
+8D$H
+|$\t
+L$Td
+Y_^[
+h;XN
+PQVW
+t$8;
+L$$u&
+L$ QV
+\$@th
+T$ R
+T$ R
+\$@]
+$SUVW
+D$8d
+D$ P
+\$4S
+L$(P
+T$$RV
+L$8d
+Y_^][
+D$$PV
+L$8d
+Y_^][
+hGTN
+SUVW
+h$_P
+L$(Q
+T$XR
+T$TR
+h8_P
+h,_P
+D$$P
+Y_^][
+l$,;
+Ph@_P
+L$ QP
+D$(j
+L$8Q
+D$$PQ
+T$,j
+L$DR
+Y_^]
+D$,P3
+L$(Q
+T$(R
++D$ 
+RUh(
+D$$+D$
++\$ 
+L$83
+L$,QP
+D$,3
+L$8U
+D$,P
+L$4U
+D$@_][
+D$@_][
+PQVW
+D$(P
+L$$Q
+VPWQ
+hsjN
+|SUVW
+PUhH
+D$0PQ
+T$0Rh4
+D$D,
+T$$R
+L$(P
+D$00 
+D$<P
+L$$QP
+T$(R
+Y_^][
+D$ P
+T$,R
+D$(;
+pSU3
+D$<3
+D$8p,H
+L$1QP
+SUVW
+D$$j
+D$ <
+T$,t
+D$ P
+L$AQP
+D$\P
+T$xR
+Y_^][
+PVQR
+h+VN
+,SVW
+D$<d
+D$ \eO
+L$ ;
+T$0QP
+L$(QW
+L$<d
+Y_^[
+hXVN
+|$0Q
+L$0h
+PWQR
+Y_^[
+D$<Ph
+Y_^[
+PSUVW
+L$$3
+hdmP
+L$8Q
+hPmP
+L$8Q
+Y_^][
+D$ d
+t$4j\
+t$0u
+L$ d
+Y_^[
+L$8j;
+T$ R
+D$ P
+L$ d
+Y_^[
+D$ hxmP
+t$8V
+|$0u
+L$ d
+Y_^[
+SUVW
+T$ R
+PVhH
+L$(Qh,
+T$HRP
+L$(Q
+T$4R
+D$<P
+L$8QR
+D$0P
+L$LQ
+T$ R
+9t$4vo
+;t$4r
+Y_^][
+T$,h|mP
+T$0j
+SQVRj
+Y^][
+h;XN
+PQVW
+T$$P
+D$$QRPW
+hhXN
+h@nP
+h0nP
+tKh\
+PQVW
+WRPQhlnP
+SUVW
+_^][
+T$$u
+D$$R
+ SUVW
+D$4d
+\$HVU
+D$0P
+ty9H
+D$$P
+D$(P
+L$4d
+Y_^][
+L$4d
+Y_^][
+h6YN
+t!jd
+u^Pj
+hvYN
+T$4P
+D$4Q
+L$4R
+T$4P
+D$4Q
+L$4R
+T$4PQR
+D$(d
+L$DR
+T$@h,
+l$0t
+L$(d
+Y_^]
+D$(0 
+L$(d
+Y_^]
+h$ZN
+D$$d
+L$ hl
+D$8h
+L$0Qh4
+L$$d
+Y_^[
+L$,Q
+WPQR
+t*V3
+h4$T
+tWh4$T
+h$ZN
+D$$d
+L$ hp
+D$8h
+L$0Qh4
+L$$d
+Y_^[
+hVZN
+D$,h4
+L$0R
+T$0P
+D$0Q
+L$0RPQ
+RIFFu
+anih
+=RIFFt'=LISTt 
+PQUVW
+Y_^]
+^]_[
+^]_[
+h#[N
+h#[N
+hH[N
+@SUVW
+D$Td
+RIFF
+=RIFF
+=LIST
+=anih
+L$4Q
+L$Li
+L$,Q
+=rateuZ
+D$hP
+L$di
+=seq uA
+L$hQ
+=iconuU3
+D$dW
+D$,P
+L$hQ
+;N,u
+L$Td
+Y_^][
+;\$ |
+^_][
+t$,;t$
+@;t$
+t$,;t$
+@;t$
+t$,;
+t$,;
+@;D$,
++t$,
+D$,;D$
+;\$$
+L$0_^
+4SUV
+l$L;L$
+T$ +
+l$8t#
+D$(u
+;D$,
++;L$
+t$ ~O
++t$ 
+t$09t$
+;L$(
+_^][
+^][_
+T$$R
+QPUSWR
+_^][3
+\$xU
+l$x+
+T$@3
+L$`u
+T$tQ
+L$`PR
+T$h+
+t$Hf
+D$ f
+D$$3
+][_^
+G Vj
+_^][
+SUVW
+=tFO
+SVWh
+L$4SUV
+L$,Q
+D$0P
+T$4j
+T$HR
+L$LQ
+D$(P
+L$<Q
+$_^][
+h~[N
+SUVW
+L$4QSRVU
+D$4P
+L$1+
+D$$}&
++L$$
+SVUh
+L$(U
+Y_^][
+D$0d
+L$DPQ
+L$0d
+h.\N
+T$4R
+|$0tL
+T$0R
+L$0Q
+D$(;
+T$0R
+D$(u
+t$$3
+L$(Q
+9\$(
+T$0R
+D$(P
+D$(u
+D$(;
+t<9^
+hq\N
+PQSVW
+D$(P
+Y_^[
+PQSUVW
+t$(V
+_<Q3
+Y_^][
+PQVW
+PQVW
+=0@O
+8E4uRS
+L$(Pj
+T$ R
+t)8E4t$
+T$(R
+8Q4u
+8Q4u
+WSPQ
+_^[Y
+h(]N
+SUVW
+T$$3
+L$$Q
+T$$R
+T$8P
+L$$Q
+D$$P
+T$8W
+Y_^][
+hn]N
+PQUV
+hPwP
+h *O
+D$HQP
+D$(d
+u-h`wP
+T$DR
+D$(P
+h`wP
+L$PQ
+h\wP
+D$,P
+L$ QP
+T$4R
+h`wP
+D$\P
+D$4	
+L$(d
+Y_^[
+hH$N
+PQSV
+PQSVW
+Y_^[
+|$$hhwP
+Y_^[
+hH$N
+PQSV
+8SVW
+D$Hd
+L$Hd
+Y_^[
+L$$Q
+L$Hd
+Y_^[
+hH^N
+$SVW
+D$4d
+L$4d
+Y_^[
+L$$P
+D$  
+L$4d
+Y_^[
+PQVW
+D$LPj
+D$XT
+L$LQPj)
+h8_N
+PQSVW
+u#Sj
+Y_^[
+hy_N
+SUVW
+D$4t
+5<GO
+D$,u
+5<GO
+L$,QV
+L$,Q
+\$<SV
+D$Pt
+L$DS
+T$HRV
+D$`P
+D$xj	
+T$|RQPV
+D$8t
++L$0
+D$ PQ
+T$4+
+L$(R
+\$,S
+\$8SP
++\$4
+L$hQV
+T$xRV
+D$\PV
+D$Pv
+D$LPQ
+PSQRV
+L$<Q
+D$ \eO
+L$8t%
+T$ ;
+T$ ;
+D$XP
+T$@R
+L$ Q
+D$$3
++D$,j
+\$8+
+D$,P
+L$LQV
+T$lRV
+D$pPV
+Y_^][
+hQ`N
+SUVW
+L$ Q
+T$,R
+D$(P
+L$$Q
+T$,R
+D$(P
+9F`s
+Y_^][
+=HHO
+PQSV
+h<xP
+L$0QV
+_^]2
+VQPj
+L$0QV
+T$4R
+D$ Pj
+h`xP
+_^]2
+_^]2
+_^]2
+_^]2
+4SUVW
+D$Hd
+|$ f
+t$$;
+\$Pt
+h`QF
+|$ ;
+D$D@
+D$D 
+T$(R
+T$8RP
+T$(R
+L$,Q
+L$<QP
+D$(P
+L$Hd
+Y_^][
+D$ d
+t$4j
+L$ d
+Y_^[
+D$ jAP
+T$(PR
+D$HV
+L$H3
+L$L^3
+L$xW
+hSaN
+D$ d
+hPzP
+h<zP
+h,zP
+L$ d
+Y^][
+SVWj0
+SUVW
+L$8QUP
+D$0f
+D$4t
+D$,P
+Y_^][
+h,bN
+D$4j
+T$ R
+h|zP
+D$ P
+Y_^[
+SUVW
+D$(d
+L$ Q
+D$$P
+L$(d
+Y_^][
+L$,Q
+PQSVW
+D$$;
+Y_^[
+ SUVW
+D$4d
+t$(;
+PWh8
+D$(Pj
+D$D;
+L$,Q
+T$ Rj
+D$X	
+T$HRh
+D$XPh
+L$0Q
+L$4d
+Y_^][
+L$ j
+^_][
+h0dN
+D$$d
+T$ R
+D$,P
+L$,Q
+T$<R
+D$ P
+L$$d
+Y_^]
+hcdN
+PQVW
+L$ PQ
+hcdN
+PQVW
+L$ PQ
+SUVW
+t$4+
+l$83
+T$0RU
+gfff
+gfff
+D$@9D$
+SSWV
+_^][
+@4SVW
+T$ R
+T$8R
+SUVW
+P<US
+L$$Q
+t$LVP
+D$8Q
+L$8PQ
+Y_^][
+hQeN
+SUVW
+L$4Q
+L$(QP
+T$,j
+t	9i
+T$(R
+D$0P
+D$ P
+T$,R
+D$,P
+L$ 9
+T$$R
+L$ Q
+D$$P
+Y_^][
+SUVWP
+PVUS
+(_^][
+PQVW
+T$$R
+h;XN
+PQVW
+T$$P
+D$$QRPW
+_^]3
+SUVW
+_^][
+PQVW
+t!jd
+PQSVW
+\$,3
+T$0Q
+L$,R
+T$,SQR
+Y_^[
+|$ t
+|$ t
+Rj	j
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+D$4	
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+|$ t
+Pj j 
+|$ t
+Rj!j!
+D$4 
+|$ t
+Qj"j"
+D$4!
+|$ t
+Pj#j#
+D$4"
+|$ t
+Rj$j$
+D$4#
+|$ t
+Qj%j%
+D$4$
+|$ t
+Pj&j&
+D$4%
+|$ t
+Rj'j'
+D$4&
+|$ t
+Qj(j(
+D$4'
+|$ t
+Pj)j)
+D$4(
+|$ t
+Rj*j*
+D$4)
+|$ t
+Qj+j+
+D$4*
+|$ t
+Pj,j,
+D$4+
+|$ t
+Rj-j-
+D$4,
+|$ t
+Qj.j.
+D$4-
+|$ t
+Pj/j/
+D$4.
+|$ t
+Rj2j0
+D$4/
+|$ t
+Qj3j1
+D$40
+|$ t
+Pj4j2
+D$41
+|$ t
+Rj5j3
+D$42
+|$ t
+Qj6j4
+D$43
+|$ t
+Pj7j5
+D$44
+|$ t
+Rj8j6
+D$45
+|$ t
+Qj9j7
+D$46
+|$ t
+Pj:j8
+D$47
+|$ t
+Rj;j9
+D$48
+|$ t
+Qj<j:
+D$49
+|$ t
+Pj=j;
+D$4:
+|$ t
+Rj>j<
+D$4;
+|$ t
+Qj?j=
+D$4<
+|$ t
+Pj@j>
+D$4=
+|$ t
+RjAj?
+D$4>
+|$ t
+QjBj@
+D$4?
+|$ t
+PjCjA
+D$4@
+|$ t
+RjDjB
+D$4A
+|$ t
+QjEjC
+D$4B
+|$ t
+PjFjD
+D$4C
+|$ t
+RjGjE
+D$4D
+|$ t
+QjHjF
+D$4E
+|$ t
+PjIjG
+D$4F
+|$ t
+RjJjH
+D$4G
+|$ t
+QjKjI
+D$4H
+|$ t
+PjLjJ
+D$4I
+|$ t
+RjMjK
+D$4J
+|$ t
+QjNjL
+D$4K
+|$ t
+PjOjM
+D$4L
+|$ t
+RjPjN
+D$4M
+|$ t
+QjQjO
+D$4N
+|$ t
+PjRjP
+D$4O
+|$ t
+RjSjQ
+D$4P
+|$ t
+QjTjR
+D$4Q
+|$ t
+PjUjS
+D$4R
+|$ t
+RjVjT
+D$4S
+|$ t
+QjWjU
+D$4T
+|$ t
+PjXjV
+D$4U
+|$ t
+RjYjW
+D$4V
+|$ t
+QjZjX
+D$4W
+|$ t
+Pj[jY
+D$4X
+|$ t
+Rj\jZ
+D$4Y
+|$ t
+Qj]j[
+D$4Z
+|$ t
+Pj^j\
+D$4[
+|$ t
+Rj_j]
+D$4\
+|$ t
+Qj`j^
+D$4]
+|$ t
+Pjaj_
+D$4^
+|$ t
+Rjbj`
+D$4_
+|$ t
+Qjcja
+D$4`
+|$ t
+Pjdjb
+D$4a
+|$ t
+Rjejc
+D$4b
+|$ t
+Qjfjd
+D$4c
+|$ t
+Pjgje
+D$4d
+|$ t
+Rjhjf
+D$4e
+|$ t
+Qjijg
+D$4f
+|$ t
+Pjjjh
+D$4g
+|$ t
+Rjkji
+D$4h
+|$ t
+Qjljj
+D$4i
+|$ t
+Pjmjk
+D$4j
+|$ t
+Rjnjl
+D$4k
+|$ t
+Qjojm
+D$4l
+|$ t
+Pjpjn
+D$4m
+|$ t
+Rjqjo
+D$4n
+|$ t
+Qjrjp
+D$4o
+|$ t
+Pjsjq
+D$4p
+|$ t
+Rjtjr
+D$4q
+|$ t
+Qjujs
+D$4r
+|$ t
+Pjvjt
+D$4s
+Y_^[
+VWt	
+hpJE
+hpJE
+SUWt
+L$,Q
+T$,R
+T$ R
+D$0P
+T$4+
+D$8P
+D$0;D$8u
+L$4;L$<tJ
+T$ R
+D$8+
+T$$R
+|$(+|$ 
+\$,+\$
+D$(P
+D$0P
+9|$,u
+9\$(t
+D$8P
+D$,v8
+D$HP
+_][^
+L$(Q
+T$(R
+0][t
+l$ ;
+L$(t$
+D$Pd
+L$Pd
+h8jN
+D$Ld
+L$Ld
+hsjN
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+SUVW
+D$ d
+l$03
+G,@t-Vj
+t+Vj
+L$ d
+Y_^][
+h.kN
+hpkN
+SUVW
+D$(d
+E,@t0
+L$(Q
+T$8j
+D$4P
+L$4Q
+L$(d
+Y_^][
+L$4R
+T$4P
+D$4Q
+L$4R
+T$4P
+D$4Q
+L$4RPQ
+PQVW
+h8lN
+PQSV
+T$8P
+D$8Q
+L$8R
+T$8P
+D$8Q
+L$8R
+T$8PQR
+hxlN
+,SUVW
+D$@d
+l$Ht
+D$ P
+L$Pj
+L$@d
+Y_^][
+hfmN
+SUVW
+\$0t
+T$Xj
+L$DQ
+D$ 3
+D$ 3
+<0|u
+D$ph
+D$$P
+L$ Q
+T$DR
+L$DQ
+D$@P
+9D$T
+D$TR
+T$@R
+L$8hh
+T$(R
+L$0Q
+D$(P
+L$0Q
+QPhh
+L$$Q
+T$,R
+L$8P
+Y_^][
+T$(P
+D$(Q
+L$(RPQ
+D$8d
+T$$R
+L$8d
+T$$R
+T$$R
+L$,Q
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+L$8d
+hanN
+$SUVW
+D$8d
+D$L3
+t$HPV
+D$PSP
+L$ Q
+L$,R
+D$4P
+L$(Q
+T$$R
+D$ P
+D$4P
+L$8d
+Y_^][
+D$@d
+L$@d
+T$4P
+D$4Q
+L$4R
+T$4P
+D$4Q
+L$4R
+T$4PQR
+D$,d
+l$<j
+L$,d
+Y_^]
+8SVW
+\$HPQVS
+u	_^[
+QPWUV
+T$Lj
+D$`RP
+L$XPQ
+T$Tj
+D$$3
+D$TQR
+T$Th 
+PQRWUV
+L$ QP
+T$XR
+QWUV
+D$(PV
+L$0QV
+;Flt
+SUVW
+D$ d
+L$ d
+Y_^][
+|$0t
+9|$0~J
+;|$0|
+I(QP
+hAoN
+L$0Q
+Y_^[
+Y_^[
+PQSUVW
+D$,P
+l$(t
+D$,P
+D$,P
+Y_^][
+PQVW
+D$<VWj
+T$,R
+L$D_^3
+D$4d
+D$DP
+L$4d
+D$4d
+D$DP
+L$4d
+SUVW
+1;T$
+T$$9
+_^][
+hVpN
+PQVW
+u>j,
+u>j,
+HSVW
+D$Xd
+L$Xd
+Y_^[
+D$@P
+D$@P
+L$@Q
+T$@R
+L$Xd
+Y_^[
+htAN
+\$ t?
+hPqN
+D$|d
+;F<t
+L$|d
+VDPQR
+L$dQ
+T$dR
+)T$d)L$`
+T$<R
+L$|d
+l$$VW
+T$,RUS
+t?;~D}
+9T$(
+t!;VH}
+T$$9T$
+;^<u
+_^][Y
+P$WU
+uA8^Tt*
+!8^Ut
+_^][Y
+_^][Y
+P$VW
+qD+q<
+qH+q@
+AD+AL;
+~E_+
+AH+AP;
+~$_+
+hxqN
+SUVW
+D$@3
+9~(t
+T$ R
+T$ R
+D$L9~4
+D$xu
+D$|P
+V<WRj
+T$(R
+T$(R
+V@WRj
+T$0R
+T$0R
+;L$t
+|$4;
+|$8;
+Y_^][
+;~<u
+n@t/
+;^<u	;n@
+][_^
+t]9N
+pSUVW
+L$$Q
+9~4t
+9~8t
+F<;D$
+L$,Q
+F@;D$$tKj
+D$XP
+Y_^][
+,SUVW
+D$@d
+L$@d
+Y_^][
+T$(R
+L$ Q
+T$,R
+L$0Q
+D$ 3
+D$(3
+_]^[
+h8rN
+PQVW
+hkrN
+SUVW
+WSRVQ
+B8j2
+Y_^][
+8F _^
+8F _^
+SUVW
+D$@t
+D$0Pj
+Y_^][
+|$$3
+-LGO
+D$ P
+_^][3
+,SUVW
+D$@d
+t$T3
+8\$Xt'
+D$X;
+\$Ht
+T$XR
+L$XQ
+D$(P
+L$0Q
+D$(P
+L$(Q
+D$PV
+L$Pu
+D$P9D$X
+;l$P~
+L$@d
+Y_^][
+h8sN
+h8sN
+hksN
+F|QRP
+PQVW
+PQSVW
+Y_^[
+SUVW
+D$ d
+tHj UW
+G.f=
+gfff
+gfff
+N8Pf
+gfff
+gfff
+G&f;
+L$09i
+T$0R
+L$ d
+Y_^][
+hFtN
+D$|d
+L$|d
+QSUVW
+_^]2
+^>8_
+ 8_#u
+8_ u
+8_!u
+t	9_
+8_"t
+$ < 
+G"_][
+SUVW
+_^]2
+8_0t
+8_1u
+8_2u
+8_3u
+8_4u
+ 8_5t
+8_6t
+^L^]
+LSUVW
+D$`d
+|$p3
+L$ UQ
+D$ B
+D$$u#;
+D$(;
+D$(;
+l$$t
+G 9h
+l$pt
+O@PQ
+L$`d
+Y_^][
+PQUVW
+tZhP
+Y_^]
+Y_^]
+l$LVWP3
+L$\V
+QjTP
+L$8h 
+T$<R
+D$LPQSSP
+9\$8
+-XAO
+9|$<~j
+D$PWSP
+tTWSV
+D$(V
+D$ PR
+;|$<|
+;\$8|
+D$@3
+9D$<
+D$DVP
+D$ }&
+T$@QSR
+L$ QP
+L$8Q
+;D$<
+h0uN
+PQSUVW
+L$,Q
+Y_^][
+T$(Vj
+Y_^][
+hfuN
+PQUVW
+l$$U
+Y_^]
+SUVW
+L$ j
+T$0R
+QUWS
+Y_^][
+PQSVW
+uSj$
+Y_^[
+2;1u
+l$ ;
+_^]3
+_^][
+l$ ;
+;t$$r
+_^][
+;.vF3
+._^]
+8"t	^[
+u	_^]2
+QSUW
+u	_]3
+^_][Y
+0WPU
+^][Y
+SUVW
+QSUV
+0WPU
+^][Y
+_RVQ
+w`WU
+_]^[
+_^][
+_^][
+_^][
+VWtN
+_^][
+UVW3
+_^]2
+PSUVW
+D$,;
+L$(;
+T$$rK
+sEWj
+l$(WUW
+D$$9B
+L$(WQ
+Y_^][
+QSVW
+SUVWh
+PQWV
+8*t*
+_^][
+PSVW
+\$$+
+D$ P
+Y_^[
+h(KN
+PSUVW
+l$(+
+4+;p
+T$$R
+Y_^][
+L$$Pj
+D$ 3
+PQUVW
+Y_^]
+PQSVW
+\$(;
+Y_^[
+h0vN
+PQSVW
+T$,RPQ
+D$0P
+\$$j
+L$$Q
+Y_^[
+WQRV
+s3SW
+PQSV
+t$ u	
+hXvN
+PQSVW
+Y_^[
+Y_^[
+PQVW
+D$$j
+D$ d
+T$ SR
+D$DP
+L$(Q
+T$4PQR
+D$4h
+L$<Q
+L$ d
+Y_^[
+L$ d
+Y_^[
+_^][
+h#wN
+hHwN
+PQUVW
+Y_^]
+PQSVW
+Y_^[
+_^]2
+SUVW
+.;l$
+u:9^
+;l$ t
+9l$ u
+u	9N
+_^]2
+PSVW
+Y_^[
+Y_^[
+][_2
+B$VW
+PVWQ
+hXxN
+0SVW
+D$@d
+D$PRP
+L$@d
+Y_^[
+%pIO
+SUVW
+D$$j
+<#t#
+<#t 
+tQ<#t 
+D$$P
+L$,Q
+T$$R
+t$Ht<
+L$|j
+D$xD
+|$@j
+T$TR
+D$dP
+L$|Qj
+D$<P
+D$8P
+D$0P
+D$,P
+D$`;
+L$4Q
+L$,Q
+L$HQ
+L$tQ
+T$hR
+D$hP
+L$dh
+T$$R
+D$,P
+L$$Q
+Y_^][
+r>f=
+;L$ 
+;L$ s
+SUV3
+;L$ 
+t	;L$ s
+_^][Y
+;|$$s]
+;|$$s
+;|$$s
+_^][
+;|$$
+D$$9D$
+f9+W
+;l$$
+\$ t
+t	;l$$s
+_^][
+t)9|$
+t59|$
+t ;\$
+L$ f
+T$"f
+t ;l$
+L$$f
+T$&f
+][^Y
+hHyN
+hHyN
+hxyN
+SUVW
+D$ d
+t$8r
+;L$4
+L$ d
+Y_^][
+hxyN
+SUVW
+D$ d
+T$(u
+f9T3
+D$8si
+;L$4wo
+L$ d
+Y_^][
+PQSUVW
+t$(j
+Y_^][
+PQSUVW
+T$,QR
+PQWU
+t$(j
+Y_^][
+t$ Vj
+PQSUVW
+D$(t
+l$0f
+Y_^][
+hVzN
+PQUVW
+L$(Q
+Y_^]
+PQSVW
+D$$j
+Y_^[
+PQVW
+hHyN
+h={N
+SUVW
+D$ d
+L$ d
+Y_^][
+L$ d
+Y_^][
+L$ d
+Y_^][
+L$ d
+Y_^][
+L$ d
+Y_^][
+L$ d
+Y_^][
+j,t%
+l$(ut
+T$ R
+L$ d
+Y_^][
+hH$N
+PQSV
+D$ P
+hx{N
+D$$d
+L$8Q
+D$ P
+L$$d
+Y_^]
+T$$R
+0SUVW
+D$Dd
+D$Xj
+T$\Rj%
+t$TQj
+L$$t
+T$XR
+D$\P
+T$Xj
+T$\R
+D$(P
+t$TQj
+L$Dd
+Y_^][
+T$\RV
+WuUV
+ha|N
+SUVW
+D$,d
+\$4j
+T$ R
+\$4t
+L$(Q
+\$4t
+T$@R
+D$(P
+\$4t
+D$0P
+\$4t
+L$Dj
+T$ R
+\$4t
+D$<j
+L$,d
+Y_^][
+PQVW
+D$$P
+T$(R
+D$$P
+|$ u
+h9}N
+T$,j
+PQVW
+T$ R
+tSUW
+]_^[
+^_][
+VWSU
+_^][
+s/SW
+VWPS
+hp}N
+PSUVW
+T$(j
+D$,Pj
+L$0j
+L$$SQ
+Y_^][
+T$ h
+L$ Q
+h2~N
+L$0Q
+D$DP
+D$0P
+\$'hT
+L$0Q
+T$$R
+Y^][
+L$lj
+D$hP
+D$l<
+D$xL
+hh~N
+T$ QR
+PWVS
+PQUVW
+Y_^]
+SUVW
+D$(d
+L$<QP
+T$@R
+L$<QP
+T$ R
+L$DQP
+L$<QP
+T$(R
+L$DQP
+L$@R
+L$(d
+Y_^][
+L$Dh
+T$4RP
+PQVW
+T$$h
+PQSUVW
+D$(9
+Y_^][
+SUWP
+Y_^][
+L$0PQ
+D$$P
+RPQj
+Y_^[
+SUVW
+_^][
+^]_[
+ttUj
+^]_[
+4SUVW
+D$Hd
+D$$3
+D$ 6
+|$(h
+D$$	
+D$ +
+D$ M
+D$ ,
+D$ ,
+D$ -
+D$ #
+D$ E
+\$(h
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ 	
+D$ %
+D$ 8
+\$ Q
+D$ 7
+\$(hT
+D$ G
+D$ 9
+D$ !
+D$ K
+D$ `
+D$ `
+D$ ?
+\$(h0
+D$ W
+D$ &
+D$ '
+D$ /
+D$ >
+D$ L
+D$ >
+D$ X
+D$ N
+\$(h
+D$ a
+D$ a
+D$ H
+D$ F
+\$ Q
+D$ O
+\$(h
+D$ Y
+D$ $
+D$$	
+\$(h
+D$ A
+D$ I
+D$ D
+D$ J
+\$ R
+D$ "
+\$(h
+ht	Q
+hd	Q
+hT	Q
+hH	Q
+h@	Q
+h4	Q
+D$ *
+h0	Q
+h(	Q
+h$	Q
+t$ Q
+L$Hd
+Y_^][
+D$ 3
+^[_3
+^[_]
+vXUVW
+h()S
+Y_^[
+Y_^[
+hH)S
+Y_^[
+PQUVW
+D$$R
+D$,P
+L$0Q
+Y_^]
+SUVW
+T$$Q
+L$$j
+T$(QRj
+T$(Q
+L$(R
+T$(Q
+L$(RQj
+9P v
+;P r
+\$(j
+P<\j
+PSVW
+9t$ ~_
+L$(Q
+;t$ |
+Y_^[
+D$,RP
+Y_^]
+^]_[
+D$(d
+L$@Q
+T$ R
+D$ P
+L$ Q
+L$(Q
+T$(R
+D$(P
+\$0t
+L$(d
+Y^][
+dSUVW
+D$xd
+l$ 3
+T$,R
+L$,Q
+L$4Q
+T$8R
+;D$,
+D$@3
+T$,v
+;l$,
+L$xd
+Y_^][
+PQVW
+SUVW
+D$(;D$D
+D$HP
+D$pP
+L$pQj
+tLVj
+T$dR
+D$lP
+;D$D
+D$(uIVj
+L$tQ
+D$8P
+D$8RPj
+T$8R
+D$L9D$@s8
+L$<Q
+L$4Q
+T$,h
+L$<Q
+L$<Q
+L$4Q
+8D$&
+Y_^][
+hH$N
+PQVW
+t$0RPV
+D$Ld
+t$\u
+t$\j
+t$\Rj
+L$Ld
+t$(u
+D$,P
+|$,9_
+Y_^[
+PQVW
+D$$P
+t89H
+QRPW
+$vOSU
+T$ VR
+_^][Y
+Ph`0P
+D$$j
+D$$j
+D$$j
+D$$j
+D$$j
+D$(d
+t$8Pj
+L$(d
+D$,d
+t$<Pj
+L$,d
+D$(d
+t$8Pj
+L$(d
+D$(d
+t$8Pj
+L$(d
+D$,d
+t$<Pj
+L$,d
+QRh@ Q
+ht Q
+hH$N
+L$ P
+D$,d
+T$<j
+D$<P
+L$,d
+PQVW
+t$ Pj
+SUVW
+\$,P
+L$,Q
+Y_^][
+h;XN
+PQVW
+T$$P
+D$$QRPW
+hl0T
+t9hl0T
+PhH"Q
+h@"Q
+][_2
+hx"Q
+][_2
+][_2
+][_2
+Qh`"Q
+h@"Q
+h@"Q
+D$$d
+L$$d
+L$$d
+PQVW
+PQVW
+t S+
+_^][
+_^][
+(t+;
+P8WS
+@4QR
+_^][
+_^][
+W_^3
+t$WU
+t#_^
+PQVW
+SUVW
+D$(d
+hxmP
+\$0t9
+\$0t
+5xEO
+T$(h
+D$4P
+L$TQP
+T$<R
+\$0t
+L$<Q
+T$(h
+L$(d
+Y_^][
+_^t6
+1 !"1111#$%&'()*111111111111+111,111-11111./0
+D$ d
+\$(t
+\$(t
+L$ d
+Y^][
+PQSUVW
+\$(Pj
+-xEO
+D$(SP
+Y_^][
+h@0O
+SUVW
+D$ d
+L$ d
+Y_^][
+$SUV
+D$4d
+t$Dj
+T$HPQ
+\$<t
+L$4d
+Y^][
+h((Q
+hH(Q
+hl(Q
+VWPRQ
+D$,d
+D$<j
+T$@Rj
+D$@P
+T$@VR
+L$,d
+L$,d
+h )Q
+hD)Q
+h\)Q
+tCUj
+ht)Q
+PQVW
+gfff
+j<RP
+=$EO
+D$$j
+D$lUVW
+-XFO
+L$Dj@Q
+D$DP
+T$Dj@R
+L$DQ
+Y_^]
+L$l3
+t$0W
+|$ FuT
+SVWj
+|$$3
+t$0P
+t$0Qj
+D$ c
+t$0P
+t$0Qj
+D$8d
+hx*Q
+ht*Q
+hl*Q
+hh*Q
+h`*Q
+h\*Q
+hX*Q
+hT*Q
+hP*Q
+t|hL*Q
+tlhH*Q
+t\hD*Q
+tLh@*Q
+t<h<*Q
+t,h8*Q
+h4*Q
+h0*Q
+L$8d
+l$|f
+D$PP
+t~VW
+L$4Q
+;D$0_^t
+HSVW
+D$0P
+T$0R
+gfff
+t$$f
+D$`SUVW
+D$xd
+L$$Qj
+0h,*Q
+)h(*Q
+h|*Q
+h$*Q
+h *Q
+t0<%u
+L$xd
+Y_^][
+L$`3
+D$ d
+D$03
+l$(t
+L$ VQ
+l$(t
+L$ d
+Y^][
+D$ d
+D$03
+l$(t
+L$ VQ
+l$(t
+L$ d
+Y^][
+D$$P
+L$LQ
+D$$P
+L$LQ
+}:Sj
+SUVW
+|$T>
+|$P<
+t$@f
+l$Dj
+D$XP
+_^][
+D$\RP
+_^][
+_^][
+ SVW
+t$0f
+f;4M
+D$0P
+f+4U
+L$ Q
+ SUVW
+T$$P
+\$$j
+D$,Q
+L$,R
+T$,PQR
+tqWj
+D$,P
+_tK}
+t$xV
+D$ P
+L$,j
+L$<Q
+T$xR
+D$<P
+VVVVPVj
+T$XR
+L$t+
+D$t+
+L$$+
+L$tQ
+T$XR
+L$xQj
+T$t+
+_^][
+SUVW
+D$8#
+L$<Q
+T$<x3
+9\$8r+
+L$<Q
+T$\R
+\$ht
+t$4w#
+T$|R
+D$p3
+L$d3
+D$(U
+L$0h
+T$8h
+L$ Sj
+T$ R
+D$ P
+L$ Q
+T$ R
+D$ P
+T$,j
+D$0j
+T$pj
+T$Xh
+D$`h
+L$(j
+D$@j
+T$Hj
+L$0j
+D$Dj
+D$^f=
+hx*Q
+Y_^][
+D$0P
+D$4;
+^]_[
+^]_[
+tsWj
+D$,P
+_tM~
+SUVW
+t$Tu3
+h02T
+u>h02T
+u!h02T
+T$$R
+D$$P
+T$$R
+T$$R
+L$$Q
+T$$R
+L$LQ
+T$0R
+D$8P
+D$,P
+L$0Q
+h02T
+D$hP
+h02T
+T$hR
+T$$R
+h02T
+T$hR
+D$$P
+L$,h02T
+D$09p
+h02T
+D$hP
+h02T
+h02T
+D$4P
+L$hQ
+T$$R
+D$$P
+Y_^][
+SSSSVSj
+D$4P
+L$hQW
+D$pf
+L$<f
+T$@f
+L$Df
+D$4P
+L$hQ
+;T$`
+SUVW
+\$8s
+\$83
+rLVUS
+t$<u
+D$4P
+L$pQ
+D$ P
+D$$u
+T$<R
+Y_^][
+D$ f=
+t$@UW
+T$0R
+D$pP
+;L$4tU
+D$4j
+SUVW
+h02T
+h02T
+h02T
+h02T
+h02T
+ulh02T
+uVh02T
+Y_^][
+D$8VP
+L$<Q
+L$0Q
+D$4P
+L$hQ
+T$(R
+T$ R
+L$,P
+T$$R
+L$$P
+T$,R
+L$(P
+T$8R
+L$0P
+SUQR
+T$<Q
+L$PRP
+L$4j
+L$0j
+;D$,
+;L$(w2j
+D$D9D$
+T$0R
+D$(u
+Y_^[
+Y_^[
+Y_^[
+|$(u
+Y_^[
+SUVW3
+_^][
+D$0d
+D$ <<P
+D$ Pj
+L$ Q
+T$ R
+D$ P
+L$ Q
+L$0d
+u09F
+u(j8
+hH$N
+PQVW
+L$$P
+h|6Q
+L$(Q
+L$(Q
+SUVW
+D$0d
+QUhD
+D$$PW
+D$ P
+T$ RW
+D$ P
+8"uJ
+L$ Q
+D$$P
+D$<	
+L$ Qh
+D$$P
+L$ Qh
+T$$R
+D$$P
+T$ Rh
+D$ =
+L$0d
+Y_^][
+PLSU
+P`QU
+D$(h
+D$ P
+PQSUVW
+\$,j/
+D$,P
+T$(;J
+L$(Q
+D$(P
+D$0P
+Y_^][
+hH$N
+PQVW
+u	j/
+PQVW
+PQSVW
+hxmP
+Y_^[
+D$ 3
+SUVW
+D$0d
+D$ Pj
+<0%u
+D$D%
+D$D}
+D$D)
+<8_u
+L$@+
+L$@Rj
+L$(Qj
+L$Dj
+|$@3
+L$0d
+Y_^][
+D$,Pj
+L$ Q
+T$$R
+D$ P
+PHVQ
+D$$P
+h(KN
+PSUVW
+PHWU
+D$(u
+\$,t
+P\SU
+D$(P
+Y_^][
+L$ Q
+[_^2
+L$(SQf
+u-h`
+T$(h
+t^SV
+t^SV
+SUVW
+;L$0t
+L$0;
+Y_^][
+SUVW
+D$,d
+|$@j
+D$$W
+L$,d
+Y_^][
+h\)Q
+h(UQ
+toSW
+h@UQ
+t_SV
+hXUQ
+htUQ
+tMSWP
+h;>N
+tVSW
+]_[^
+SUVW
+|$4j
+h@UQ
+Y_^][
+T$(R
+L$$QP
+T$(Rh$
+L$8Qj
+L$8QP
+T$ R
+Y_^]
+PQVW
+=xEO
+h(VQ
+u,h$VQ
+u	j.
+T$ R
+u	j:
+T$ R
+D$,P
+t$(u
+Y_^[
+8\$ 
+D$$P
+PQUVW
+D$0P
+D$$VP
+L$0j\
+T$$VR
+D$$j
+D$0P
+Y_^]
+SUVW
+D$DP
+L$0V
+T$8R
+L$<Q
+T$<R
+Y_^][
+t$(3
+D$,P
+v?j\j
+Y_^[
+Y_^[
+(UVW
+D$8d
+L$8d
+Y_^]
+T$LR
+T$ RQ
+D$Hw@
+D$HUP
+L$HQ
+L$PQ
+T$LR
+L$8d
+Y_^]
+SUVW
+D$ d
+T$4R
+\$(t
+L$@WQ
+\$(t
+t$0V
+L$ d
+Y_^][
+PQVW
+t$ u	
+SUVW
+D$ d
+D$83
+t=j:
+u3j\
+u"9n
+t$0u
+hxmP
+T$8R
+t$0u
+L$ d
+Y_^][
+PQVW
+|$ Pj
+L$$Q
+SUVW
+T$8R
+PWhl
+L$<Q
+RWh0VQ
+D$#P
+L$,Q
+RWh0VQ
+D$0P
+L$4WWQ
+D$0VP
+D$<P
+t$$u
+T$8R
+D$0P
+L$<PVQ
+L$,Q
+D$D3
+T$4R
+L$(j
+T$PRP
+L$0j\Q
+t$$u
+Y_^][
+PQSVW
+t$(Wj
+L$0RV
+D$$PQ
+T$(WR
+Y_^[
+T$ W
+L$4Q
+D$(P
+L$$Q
+|$0W
+D$4P
+D$$P
+L$,QR
+D$$P
+L$,Q
+L$4Qj
+T$8R
+D$@P
+L$HQ
+T$`R
+D$$P
+L$,Q
+SUVW
+D$(d
+L$<j
+T$$R
+D$$PQ
+D$$P
+\$0t
+hdVQ
+hDVQ
+L$(d
+Y_^][
+L$$V
+HSUVW
+D$\d
+T$xR
+D$xP
+t$ttbV
+T$pR
+\$dt{
+8~ui
+L$pQ
+T$@R
+|$0W
+D$h	
+D$4j
+T$tR
+D$ 3
+t?hxmP
+T$tR
+D$tP
+t$tV
+L$tQP
+\$dt
+T$tR
+L$pQ
+D$lP
+L$\d
+Y_^][
+L$ QR
+L$ QR
+L$ QR
+h;XN
+PQVW
+T$$P
+D$$QRPW
+h;XN
+PQVW
+T$$P
+D$$QRPW
+h;XN
+PQVW
+T$$P
+D$$QRPW
+9r$u
+9V$t
+9r$u
+9V$t
+T$ h
+h|]Q
+h<]Q
+h(\Q
+hh[Q
+h$[Q
+h\ZQ
+hDZQ
+h YQ
+hpJE
+SUVW
+D$ P
+T$,R
+D$ P
+L$$Q
+_^]3
+L$$Q
+T$$j
+D$$P
+RDPWU
+L$ Q
+L$$Q
+_^]3
+\$(j
+tW=@
+D$$P
+D$$P
+R8PWU
+L$ Q
+T$(h
+L$@Q
+PQVW
+PQVW
+PQSVW
+Y_^[
+Y_^[
+PSVW
+t$ }
+T$ Rh
+D$$j
+Y_^[
+PSVW
+Y_^[
+h,^Q
+L$(Q
+Y_^[
+hP^Q
+Y_^]
+PSUVW
+D$(P
+L$,Q
+Y_^][
+hx^Q
+L$8Q
+L$,Q
+h(KN
+PQSVW
+C$Pj
+T$$VR
+Y_^[
+Y_^[
+PSVW
+|$$}!
+L$$Qh
+C$PVW
+T$(j
+Y_^[
+PQSV
+T$ j
+PQSV
+T$ j
+PSUVW
+l$(} 
+hL_Q
+T$,j
+Y_^][
+h;XN
+PQVW
+D$4d
+F(QP
+L$4d
+PQSVW
+Y_^[
+PQSVW
+Y_^[
+PQVW
+t$ Qj
+h\wP
+hH$N
+PQVW
+h\wP
+PQVW
+|$ t
+L$$Q
+SUVW
+D$$d
+T$ Rj
+L$8P
+|$8P
+D$ Pj
+T$<U
+D$@P
+L$<Q
+L$$d
+Y_^][
+SUVW
+D$ d
+t$0u
+t$0u
+t$0u
+L$ d
+Y_^][
+PQSUVW
+L$(3
+Y_^][
+</VW
+{<.uk
+/uU;
+<!t+<$t'<&t#<'t
+F(^[
+Wj%j
+8.ui
+PQVW
+:%u#
+D$(P
+D$ _^][
+ SUV
+D$4P
+L$8Qj
+T$4R
+D$8P
+L$4Q
+T$8R
+|$$j
+D$$P
+M( [
+D$$P
+M(@[
+t,_^2
+9:uB
+[_^2
+8vu~
+>.uP
+>:u,
+;[UVW
+>]u-
+L$$Q
+>]uK
+T$$R
+D$$P
+/u1h0aQ
+\$ u\
+u>j@
+\$ t
+@8QR
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+PQVW
+h\bQ
+RhDbQ
+h8bQ
+h(bQ
+T$ R
+L$ Q
+SUVW
+D$(d
+\$0u
+D$$PSSUS
+D$$PWSUS
+D$$SUPS
+T$ R
+\$0t(
+L$(d
+Y_^][
+D$0d
+t$@j
+L$0d
+t$$PV
+t$$PV
+q,;F
+q,;F
+_]^[Y
+t1W3
+_^][Y
+L$ j
+D$ P
+L$$h`0P
+D$ P
+_^]3
+_^]3
+_^][Y
+_^]3
+G(QP
+_^]3
+_^][Y
+%XEO
+%XEO
+PQVW
+PQVW
+|$ W
+hdbQ
+PQVW
+|$ W
+hdbQ
+D$(PV
+Y_^]
+hlbQ
+Y_^]
+PQSVW
+Y_^[
+L$$Q
+h;XN
+PQVW
+T$ QRW
+PQVW
+PQSVW
+Y_^[
+hy=N
+l$,3
+<>\u6
+<>"uF
+h8cQ
+Y_^]
+"j\j
+Uh`cQ
+Y_^]
+D$ d
+\$(u
+F$9X
+T$0R
+\$(t
+N,v:
+8\$4
+L$ d
+Y_^[
+L$ d
+Y_^[
+PSVW
+Y_^[
+D$ P
+Y_^[
+|$(j/
+Y_^[
+D$(P
+Y_^[
+D$$d
+L$$d
+Y_^]
+hlcQ
+L$$d
+Y_^]
+PQSUVW
+Y_^][
+SUVW
+D$$d
+G(Ph(dQ
+C(Ph
+L$ Q
+L$$d
+Y_^][
+F(PhHdQ
+hldQ
+Y_^[
+F(SU
+_][^
+h;XN
+PQVW
+T$ QRW
+PQSVW
+htdQ
+Y_^[
+Y_^[
+|$$t 
+T$(R
+T$,R
+Y_^[
+0SUVW
+D$Dd
+L$$Q
+<]t)
+D$8P
+hxeQ
+QRWP
+h@eQ
+|$4u
+L$(WS
+L$<Q
+T$$R
+;l$@
+L$Dd
+Y_^][
+D$ d
+D$0PV
+L$8Qh
+@(Ph
+8!us
+L$ d
+Y_^]
+L$0Qh
+T$4R
+L$ d
+Y_^]
+Ph<fQ
+O(PQhTgQ
+RPQh(gQ
+SUPh
+F(Ph
+;~4udhxfQ
+)9],t
+N4;^,t
+RhXfQ
+V0[Q
+tSVW
+L$ Q
+T$TR
+htgQ
+Y_^[
+PQSUVW
+T$,QUVRP
+L$4Q
+T$,R
+L$4Q
+T$,R
+D$$	
+t$8t
+\$ t
+t$8t
+\$ t
+Y_^][
+PQVW
+h(KN
+PSUVW
+L$(Q
+Y_^][
+hHhQ
+D$,PV
+uW;~(tRh
+D$0P
+D$(P
+L$,Q
+SUVW
+\$,h
+T$DR
+tF;D$
+Y_^][
+\$,V
+D$DP
+T$DR
+r5VP
+r.VP
+L$ Q
+r7VP
+T$4R
+L$8Q
+T$$R
+tNSP
+T$$R
+8SUVW
+D$Ld
+9\$$uM
+D$ VP
+L$Ld
+Y_^][
+2;1u
+~l_^[
+tBPW
+9^0~
+;n0|
+V8RW
+NLQW
+Uj VW
+F|PW
+@tT9
+]^_[
+2;1u
+_^]3
+_^][
+{ht!
+QRPS
+N,QS
+FDPS
+PQWS
+hTkQ
+NPQRU
+NZQU
+F|RPU
+FdQRPU
+RPQU
+VpPQRU
+F<PU
+h0kQ
+QRWU
+_^][
+F<PU
+9^0W
+h0kQ
+PQWU
+\$HUV
+CtWP
+kHhl
+_^][
+VW|	
+U Qj
+QRPV
+QRPV
+Vlty
+<0uX
+h<iQ
+hHlQ
+SUV3
+8U	uT
+SUVW
+_^][
+_^][
+hXmQ
+hHmQ
+hXmQ
+htmQ
+50mQ
+hHmQ
+F|^_
+hToQ
+h,oQ
+htnQ
+hPnQ
+h,nQ
+^]_[
+^]_[
+^]_[
+L$,3
+;t$,|
+^]_[
+h|oQ
+^]_[
+tlSj
+[PQR
+][^_
+\$(SW
+h`pQ
+][^_
+D$$SPW
+L$ j
+][^_
+C0UV
+;D$(
+^]_3
+FLUP
+_^][Y
+;D$$
+h qQ
+^_[]Y
+L$$PQ
+;l$$|
+^_[]Y
+hPqQ
+GTPVj
+hlqQ
+%,FO
+hxqQ
+U Qj
+PQRV
+PQRV
+Vlty
+<0uX
+h<iQ
+hHlQ
+Fth$rQ
+VWsg
+D/ PS
+hdrQ
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+hHrQ
+_^][Y
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+T$ RS
+D$ PS
+uKh,rQ
+_^][Y
+hHrQ
+h,rQ
+_^][Y
+Fl@u	V
+L$ QV
+T$(RV
+:;9u
+NxQRV
+PQRV
+_t	V
+_^][
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+2;1u
+_^][Y
+\$HUVWt
+kHhl
+kH][
+SUVW3
+SUVW
+h|sQ
+hhsQ
+hPsQ
+_^]3
+L$ U
+t$$t0
+_^][
+_^][
+_^][
+_^][
+_^][
+D$,S
+L$$3
+f;l$$
+L$ )L$(
+L$$3
+f;l$$
+L$(u
+D$,f;H
+L$0"
+D$,f;H
+L$0"
+D$,f;H
+D$(t:
+t$0f
+D$(tg
+l$,f;}
+l$,f;U
+l$,f;U
+l$,f;U
+D$$uB
+[_^]
+[_^]
+D$$u@
+[_^]
+[_^]
+D$$u%
+[_^]
+[_^]
+[_^]
+[_^]
+[_^]
+_^][Y
+_^][
+_^][Y
+\$4V
+\$0PV
+D$(}
+D$(;
+L$$#
+;|$(f
+;|$ 
+;|$ f
+D$(}
+\$(f
+L$(f
+\$(f
+L$(f
+\$(f
+L$(f
+l$(uO
+l$P3
+l$(f
+D$P}
+\$(f
+T$(f
+\$(f
+D$(f
+l$PuFf;
+u=f;
+L$(f
+D$(f
+T$(f
+D$(f
+L$(f
+T$(f
+L$Pf
+l$(f
+|$L;
+D$4V
+Fp@t>
+Fp t
+L$8^3
+h<tQ
+GTPVj
+hXtQ
+hdtQ
+0^][
+L$#+
+l$&+
+L$(3
+h uQ
+l$"+
+L$$3
+T$$RhPuQ
+_^][
+L$ 3
+Ph<uQ
+_^][
+L$ 3
+Ph<uQ
+t$$tm
+>#uR
+T$`V
+t$`V
+T$`V
+t$`V
+WQVt
+hluQ
+~l_^
+|$(j
+0_^Y
+D$@SU
+L$43
+h|uQ
+L$@^][3
+PhpiQ
+L$ QS
+D$4S
+\$HUV
+t$HW
+T$ h
+D$(PQ
+> u&h
+t2< u
+hxvQ
+hdvQ
+L$43
+h8vQ
+L$43
+h$vQ
+_^][3
+\$(SW
+^]_[
+h<wQ
+l$$V
+D$HPW
+D$hj
+L$?QU
+8[_^]
+hXwQ
+D$PS
+\$PUV
+t$DW
+htwQ
+L$,QVW
+\$X+
+t$8UVW
+L$dQ
+T$LR
+D$pP
+L$XQ
+T$|j
+D$\PW
+T$\QRW
+_^][3
+D$PV
+t$PW
+T$4h
+D$0PV
+L$ 3
+L$ 3
+L$ 3
+L$ WQV
+\$(V
+t$ W
+hXxQ
+h4xQ
+9|$8t
+|$<@t
+9|$<t
+D$@;
+T$&j
+T$ R
+L$XhXiQ
+j8h$rQ
+PUh`iQ
+hhiQ
+h(yQ
+L$$QPS
+hlyQ
+_^][
+hPyQ
+\$ UV3
+T$ R
+D$&P
+T$0R
+L$:Q
+D$DP
+_^][
+_^][3
+_^[Y
+_^[Y
+L$$Qh
+L$,3
+hTzQ
+L$,3
+h0zQ
+L$,3
+L$,3
+ PQh
+h({Q
+L$ Q
+PhxiQ
+D$ P
+RhxiQ
+hX{Q
+QhxiQ
+D$ P
+T$,R
+ ^[3
+h$|Q
+D$ P
+T$,R
+ ^[3
+hL|Q
+_^[3
+D$8S
+9L$H
+;L$H|
+9T$H
+t$8~7
+;T$H|
+L$4u
+9|$H~9
+;T$H|
+9D$$s>
+;|$4w
+D$$r
+9L$H
+;L$H|
+T$ 3
+;|$4w
+D$8r
+9L$H
+;L$H|
+D$8;D$
+9T$H~3
+;T$H|
+9D$0s[
+;D$4
+D$$w
+D$0r
+9L$H~2
+;L$H|
+D$$;D$
+9\$4
++\$4
+L$(+
+L$8;
+D$0u
+T$,vD
+D$D;D$
+|$,+
+L$0;
+L$4}
+;l$8
+l$$w
+9D$H~
+;D$H
+_^][
+L$DUVWt4
+|$4t
+D$HU
+"\$H+t$$
+_^][
+_^][
+	\$H
+f	\$H+D$
+;|$ 
+_^][
+Fp t
+D$TS
+D$`+
+hp}Q
+T$$RV
+h8BT
+k UV
+hH}Q
+D$h+
+;h8BT
+L$(Q
+D$(P
+T$(R
+D$ PV
+*]^[
+L$D3
+ht|Q
+L$$QV
+<ArE<zwA<Zv
+<ar9
+<Ar2<zw.<Zv
+<ar&
+_^][
+_^][
+_^][
+_^][
+D$8SP
+L$8QW
+L$0$
+D$(r
+L$0$
+;t$ 
+;T$ u
+L$0$
+D$4r
+L$4^[3
+SUVW
+_^][
+D$,3
+_^][
+_^][
+D$4u
+_^][
+D$$h
+_^][
+VUUU
+h(~Q
+$ t	
+hL~Q
+hL~Q
+D$(SUV
+hl~Q
+hX~Q
+L$ QV
+T$0RV
+D$<PV
+L$(RUWQV
+$_^][3
+t$h,
+VUUU
+t6f9
+L$ QV
+_[^Y
+_[^Y
+_[^Y
+50mQ
+_[^Y
+D$ PV
+L$$QV
+]^[Y
+|$ ;
+_]^[Y
+_]^[Y
+_]^[Y
+T$HRV
+D$PP
+L$XQV
+T$`R
+T$HRV
+D$PP
+L$XQV
+T$`R
+T$HRV
+D$PP
+L$XQV
+T$`R
+T$HRV
+D$PP
+L$XQ
+T$`R
+=`EO
+RPQV
+|/=H
+][_Y
+^][_Y
+USPW
+D$ QRUPW
+ ^][_Y
+^][_Y
+^][_Y
+t3US
+D$(PS
+^_][
+^_][
+^_][
+^_][
+D$(j
+L$0QS
+ ^_][
+u>h\
+t3h(
+D$"P
+L$(Qf
+D$ PUV
+_^]3
+D$(PV
+L$(QV
+T$(RV
+|$$;
+v hx
+_^[3
+t3hp
+u3hT
+_[^]3
+|$ uCh
+D$,PV
+L$,QV
+[_^3
+|$ uChX
+t*h$
+D$,PV
+L$,QV
+[_^3
+D$,PW
+L$,QW
+htwQ
+]^[_
+L$(3
+T$(Q
+L$(P
+D$<QRSPW
+4]^[_
+]^[_
+D$ PW
+L$ QW
+]^[_
+]^[_
+$RPW
+$]^[_
+]^[_
+\$ V
+uLhH
+t^h,
+D$0PV
+RSVf
+_^[3
+]_^[
+]_^[
+VRSUW
+]_^[
+]_^[
+D$(SVW
+2;1u
+ u&VW
+\$8SW
+ u(VW
+D$8PW
+_^[3
+D$$PV
+:;9u
+FxPRV
+_[^]Y
+~(9~$u
+N h0%
+9n4W
+9n(u
+F(+{
+V4P+
+F,^3
+V0U+
+N4W+
+V,^3
+N,_^3
+T$(3
+L$4t<
++T$$
+T$4P
+L$$t&
+L$4t
+O@;H s
+L$$t&
+L$4t
+O@;H(s
+T$(QUR
+D$ )D$
+)D$(
+Oh;O\sU
+GTPQ
+GpPj
+D$0t 
+G`9Gh
+L$$s*
+L$$uI
+G`9Gh
+GTPQ
+WpRj
+D$0t4
+GXPQ
+TOpRj
+D$0t
+D$$;
+D$$;
+O,+L$
+L$,9ODv
+L$,+L$
+L$4v
+L$(+
+L$4+
+D$,+D$
+D$,t/
+^][_
+w<^]
+T$,;P
+l$8+n
+\$,+^
+D$0^][_
+F$QR
+V(SU
+O0PQ
+O0PQ
+9V r
+V ;Q
+W0QR
+W0QR
+][_3
+u!;\$
+][_^
+N$RP
+V0WQR
+N0WPQ
+WlSU
+Wt9T$
+P;D$
+_,UV
+o<+ot
+GD)_p)_l
+SUV3
+Ol#O4
+Wlf+Wp
+G`)Gt;
+Otwj
+Ol#O4
+_^]3
+_^][
+_^][
+QSUVW
+Ol#O4
+_`tq
+Wl+Wp
+Wlf+Wd
+Gxf+
+Ol#O4
+_^]3
+_^][
+_^][
+tr9_ tm9_$th
+|$$8
+O(9O$u
+G Vh
+W PQ
+T$(W
+^[_]
+<SUVW
++T$T
+L$ #
+D$Tt.;
+T$$#
++D$8
+;l$<
+L$4u,
+D$(+
+;l$T
+)l$T
+T$(+
+;l$Tsb)l$T
+;D$T
+L$4s@)D$T
+;l$Ts
+)l$T
+;t$,
+L$Tw
+L$P+
+D$,+
+x<_^]
+D$pv
+TTxf
+L$@u
+T$0*
+D$D+
+;T$ 
+t$@#
+;t$4
+;T$ s)
+;T$ r
+D$Du
+L$$+
+T$4f
+L$@#
+;L$4t
+_^][3
+;T$$f
+|$(f
+L$,f
+;L$$
+l$,f
+t$ u
+_^][
+_^][
+T$$f
+)l$ 
+_^][
+\$ tz+4
+t$$f
+\$ f	
+SV~=
+D$ V
+L$$^3
+~7f9
+~iSV
+SVWf	
+|$ WSPV
+%\CO
+%XCO
+%TCO
+%PCO
+%LCO
+%HCO
+%DCO
+%@CO
+%<CO
+% DO
+%$DO
+%(DO
+%,DO
+%0DO
+hhLS
+8csm
+t%VhZ
+5(BO
+5,BO
+hxRO
+hhRO
+hdRO
+< wI:
+XPVSh
+%\FO
+%`FO
+%dFO
+%xFO
+%|FO
+<$Xf
+WVS3
+WVU3
+v	N+D$
+v	N+D$
+Y__^[
+Y__^[
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+%0CO
+%0CO
+%tCO
+%tCO
+%`CO
+%tCO
+%8CO
+%tCO
+%tCO
+%8CO
+%`CO
+%pCO
+%8CO
+%pCO
+%tCO
+%tCO
+%tCO
+%pCO
+%`CO
+%hCO
+%8CO
+%hCO
+%hCO
+%tCO
+%tCO
+%4DO
+%4DO
+%tCO
+%hCO
+%tCO
+%pCO
+hXuO
+h  O
+h0 O
+hP O
+h` O
+hp O
+h !O
+h0!O
+h@!O
+hP!O
+h`!O
+hp!O
+hp"O
+h0"O
+hP"O
+h #O
+h0#O
+h@#O
+hP#O
+h`#O
+hp#O
+h $O
+h0$O
+h@$O
+hP$O
+h`$O
+hp$O
+h %O
+h0%O
+h@%O
+hP%O
+h`%O
+h@+P
+hl-P
+h &O
+h0&O
+h@&O
+hP&O
+h`&O
+hp&O
+h 'O
+h0'O
+h@'O
+hP'O
+h`'O
+hp'O
+h0MP
+h8MP
+h@MP
+h (O
+h0(O
+h@(O
+hp(O
+hLXP
+h )O
+h0)O
+h@)O
+hP)O
+h`)O
+hp)O
+h8vP
+h@vP
+h@*O
+hP*O
+h`*O
+hp*O
+h +O
+h0+O
+h@+O
+hP+O
+h`+O
+hp+O
+h ,O
+h0,O
+h@,O
+hP,O
+h`,O
+hp,O
+h -O
+h0-O
+h@-O
+hP-O
+h`-O
+hp-O
+h .O
+h@.O
+h`.O
+hP.O
+h /O
+h0/O
+h@/O
+hP/O
+h`/O
+hp/O
+h 0O
+h00O
+h`0O
+hp0O
+hP1O
+h`1O
+hp1O
+=TYT
+=pYT
+=4ZT
+=PZT
+=lZT
+hpJE
+wxMDIChildFrameClassNR
+wxMDIChildFrameClass
+wxMDIFrameClassNR
+wxMDIFrameClass
+wxWindowClassNR
+wxWindowClass
+An unhandled exception occurred. Press "Abort" to terminate the program,
+"Retry" to exit the program normally and "Ignore" to try to continue.
+Unhandled exception
+Cannot initialize OLE
+InitializeFlatSB
+InitCommonControlsEx
+DllGetVersion
+comctl32.dll
+wxApp
+wxCore
+333333
+?dqR
+"S@b
+b@PngBitDepth
+PngFormat
+Couldn't save PNG image.
+1.2.7
+Too many colours in PNG, the image may be slightly blurred.
+Couldn't load a PNG image - file is corrupted or not enough memory.
+wxPNGHandler
+image/x-bmp
+Windows bitmap file
+Can't load image from file '%s': file does not exist.
+FileName
+No unused colour in image.
+Can't save image to file '%s': unknown extension.
+No image handler for type %d defined.
+No image handler for type %s defined.
+Adding duplicate image handler for '%s'
+Failed to rewind the stream in wxImageHandler!
+HotSpotY
+HotSpotX
+Image file is not of type %ld.
+No image handler for type %ld defined.
+No handler found for image type.
+Image file is not of type %s.
+Image and mask have different sizes.
+No unused colour in image being masked.
+wxImageVariantData
+wxImage
+wxImageHandler
+wxImageModule
+control
+wxBitmap
+wxMask
+wxBitmapHandler
+LIGHT GREY
+CYAN
+MEDIUM GREY
+GREY
+AQUAMARINE
+BLACK
+BLUE
+BLUE VIOLET
+BROWN
+CADET BLUE
+CORAL
+CORNFLOWER BLUE
+DARK GREY
+DARK GREEN
+DARK OLIVE GREEN
+DARK ORCHID
+DARK SLATE BLUE
+DARK SLATE GREY
+DARK TURQUOISE
+DIM GREY
+FIREBRICK
+FOREST GREEN
+GOLD
+GOLDENROD
+GREEN
+GREEN YELLOW
+INDIAN RED
+KHAKI
+LIGHT BLUE
+LIGHT STEEL BLUE
+LIME GREEN
+LIGHT MAGENTA
+MAGENTA
+MAROON
+MEDIUM AQUAMARINE
+MEDIUM BLUE
+MEDIUM FOREST GREEN
+MEDIUM GOLDENROD
+MEDIUM ORCHID
+MEDIUM SEA GREEN
+MEDIUM SLATE BLUE
+MEDIUM SPRING GREEN
+MEDIUM TURQUOISE
+MEDIUM VIOLET RED
+MIDNIGHT BLUE
+NAVY
+ORANGE
+ORANGE RED
+ORCHID
+PALE GREEN
+PINK
+PLUM
+PURPLE
+SALMON
+SEA GREEN
+SIENNA
+SKY BLUE
+SLATE BLUE
+SPRING GREEN
+STEEL BLUE
+THISTLE
+TURQUOISE
+VIOLET
+VIOLET RED
+WHEAT
+WHITE
+YELLOW
+YELLOW GREEN
+GRAY
+wxGDIObject
+wxControl
+Could not transfer data to window
+wxWidgets information
+wxWidgets Library (%s port)
+Version %d.%d.%d%s%s, compiled at %s %s
+Runtime version of toolkit used is %d.%d.%s
+Copyright (c) 1995-2007 wxWidgets team
+Jul  9 2008
+14:37:20
+window-default-variant
+Constraints not satisfied for %s named '%s'.
+mousecapture
+CaptureMouse(%p)
+After ReleaseMouse() mouse is captured by %p
+ReleaseMouse(%p)
+wxWindowBase
+wxTLWHiddenParent
+msw.window.no-clip-children
+_TrackMouseEvent
+Can't create window of class %s
+wxBITMAP_STD_COLOURS
+wxWindow
+wxIdleWakeUpModule
+Don't know how to convert from Windows class 
+Please make SS_BITMAP statics into owner-draw buttons.
+STATIC
+MSCTLS_TRACKBAR32
+MSCTLS_UPDOWN32
+SCROLLBAR
+LISTBOX
+EDIT
+COMBOBOX
+Don't know what kind of button this is: id = %ld
+Have not yet implemented bitmap button as BS_BITMAP button.
+BUTTON
+msw.font.no-proof-quality
+R@MS Shell Dlg
+MS Shell Dlg 2
+Verdana
+Trebuchet MS
+Tahoma
+Lucida Sans Unicode
+Century Gothic
+Arial
+Terminal
+OCR A Extended
+Andale Mono
+Lucida Console
+Courier New
+Book Antiqua
+Bookman Old Style
+Garamond
+Georgia
+Times New Roman
+Old English Text MT
+Lucida Handwriting
+Comic Sans MS
+Brush Script MT
+Script
+%d;%ld;%ld;%ld;%ld;%ld;%d;%d;%d;%d;%d;%d;%d;%d;%s
+wxFont
+Windows bitmap resource
+ICO icon file
+ICO resource
+Can't load bitmap '%s' from resources! Check .rc file.
+Returning false from wxICOFileHandler::Load because of the size mismatch: actual (%d, %d), requested (%d, %d)
+Failed to load icon from the file '%s'
+iconload
+No small icons found in the file '%s'.
+No large icons found in the file '%s'.
+wxICON_QUESTION
+wxICON_WARNING
+wxICON_ERROR
+wxICON_INFORMATION
+wxBMPFileHandler
+wxBMPResourceHandler
+wxICOFileHandler
+wxICOResourceHandler
+wxValidator
+wxIdleEvent
+wxCommandEvent
+wxNotifyEvent
+wxScrollEvent
+wxScrollWinEvent
+wxMouseEvent
+wxKeyEvent
+wxSizeEvent
+wxPaintEvent
+wxNcPaintEvent
+wxEraseEvent
+wxMoveEvent
+wxFocusEvent
+wxChildFocusEvent
+wxCloseEvent
+wxShowEvent
+wxMaximizeEvent
+wxIconizeEvent
+wxMenuEvent
+wxJoystickEvent
+wxDropFilesEvent
+wxActivateEvent
+wxInitDialogEvent
+wxSetCursorEvent
+wxSysColourChangedEvent
+wxDisplayChangedEvent
+wxUpdateUIEvent
+wxNavigationKeyEvent
+wxPaletteChangedEvent
+wxQueryNewPaletteEvent
+wxWindowCreateEvent
+wxWindowDestroyEvent
+wxHelpEvent
+wxContextMenuEvent
+wxMouseCaptureChangedEvent
+wxMouseCaptureLostEvent
+wxClipboardTextEvent
+wxButton
+wxBrush
+wxColour
+TEXT
+button
+check
+comboBox
+dialog
+frame
+groupBox
+listBox
+staticLine
+staticText
+staticBitmap
+notebook
+panel
+radioBox
+radioButton
+radioButton
+scrollBar
+slider
+status_line
+text
+treeCtrl
+toolbar
+Message
+Select a file
+Select a directory
+wxDirCtrl
+filedlg
+wxBitmapButton
+wxColour::Set - couldn't set to colour string '%s'
+(%d, %d, %d)
+#%02X%02X%02X
+rgb(%d, %d, %d)
+wxColourVariantData
+wxIcon
+FlashWindowEx
+user32.dll
+SetLayeredWindowAttributes
+Can't create dialog using memory template
+wxTLWHiddenParentModule
+wxStaticBitmap
+wxFrame
+wxTopLevelWindow
+wxRadioButton
+wxStaticText
+wxControlWithItems
+choice
+wxChoice
+wxCheckBox
+wxPanel
+No more last focus
+focus
+Set last focus to %s(%s)
+SetFocusToChild() => first child (0x%p).
+SetFocusToChild() => last child (0x%p).
+SetFocus on wxPanel 0x%p.
+OnFocus on wxPanel 0x%p, name: %s
+wxTimerEvent
+Timer creation failed.
+Couldn't create a timer
+wxTimer
+Invalid menu string '%s'
+GradientFill
+GetLayout
+SetLayout
+AlphaBlend
+no-maskblt
+wxDC
+gdi32
+msimg32
+wxDCModule
+Fatal error
+Question
+Append log to file '%s' (choosing [No] will overwrite it)?
+log.txt
+&Close
+Log saved to the file '%s'.
+Can't save log contents to file.
+wxART_WARNING
+wxART_ERROR
+wxART_INFORMATION
+wxART_MESSAGE_BOX_C
+&Details
+Time
+Message
+ (%s)
+%s Information
+%s Warning
+%s Error
+none
+Encodings
+Failed to remember the encoding for the charset '%s'.
+Charsets
+The charset '%s' is unknown. You may select
+another charset to replace it with or choose
+[Cancel] if it cannot be replaced
+: unknown charset
+No font for displaying text in encoding '%s' found.
+Would you like to select a font to be used for this encoding
+(otherwise the text in this encoding will not be shown correctly)?
+No font for displaying text in encoding '%s' found,
+but an alternative encoding '%s' is available.
+Do you want to use this encoding (otherwise you will have to choose another one)?
+: unknown encoding
+corrupted config data: string '%s' is not a valid font encoding info
+can't load any font, aborting
+%s message
+_GSocket_Internal_Window_Class
+WSAAsyncSelect
+wsock32.dll
+wxPalette
+image/x-ico
+Windows icon file
+image/x-cur
+Windows cursor file
+image/x-ani
+Windows animated cursor file
+BMP: Couldn't allocate memory.
+ICO: Error in reading mask DIB.
+DIB Header: Encoding doesn't match bitdepth.
+Error in reading image DIB.
+DIB Header: Unknown encoding in file.
+DIB Header: Unknown bitdepth in file.
+DIB Header: Image height > 32767 pixels for file.
+DIB Header: Image width > 32767 pixels for file.
+ICO: Invalid icon index.
+BMP: Couldn't write data.
+?BMP: Couldn't write RGB color map.
+BMP: Couldn't write the file (BitmapInfo) header.
+BMP: Couldn't write the file (Bitmap) header.
+ABMP: wxImage doesn't have own wxPalette.
+wxBMP_FORMAT
+BMP: Couldn't save invalid image.
+ICO: Error writing the image file!
+ICO: Image too wide for an icon.
+ICO: Image too tall for an icon.
+wxBMPHandler
+wxICOHandler
+wxCURHandler
+wxANIHandler
+yellowgreen
+yellow
+whitesmoke
+white
+wheat
+violetred
+violet
+turquoise
+transparent
+tomato
+thistle
+steelblue
+springgreen
+snow
+slategray
+slateblue
+skyblue
+silver
+sienna
+seashell
+seagreen
+sandybrown
+salmon
+saddlebrown
+royalblue
+rosybrown
+purple
+powderblue
+plum
+pink
+peru
+peachpuff
+papayawhip
+palevioletred
+paleturquoise
+palegreen
+palegoldenrod
+orchid
+orangered
+orange
+olivedrab
+oldlace
+navyblue
+navy
+navajowhite
+moccasin
+mistyrose
+mintcream
+midnightblue
+mediumvioletred
+mediumturquoise
+mediumspringgreen
+mediumslateblue
+mediumseagreen
+mediumpurple
+mediumorchid
+mediumgoldenrod
+mediumforestgreen
+mediumblue
+mediumaquamarine
+maroon
+magenta
+linen
+limegreen
+lightyellow
+lightsteelblue
+lightslategray
+lightslateblue
+lightskyblue
+lightseagreen
+lightsalmon
+lightpink
+lightgray
+lightgoldenrodyellow
+lightgoldenrod
+lightcyan
+lightcoral
+lightblue
+lemonchiffon
+lawngreen
+lavenderblush
+lavender
+khaki
+ivory
+indianred
+hotpink
+honeydew
+greenyellow
+green
+gray99
+gray98
+gray97
+gray96
+gray95
+gray94
+gray93
+gray92
+gray91
+gray90
+gray9
+gray89
+gray88
+gray87
+gray86
+gray85
+gray84
+gray83
+gray82
+gray81
+gray80
+gray8
+gray79
+gray78
+gray77
+gray76
+gray75
+gray74
+gray73
+gray72
+gray71
+gray70
+gray7
+gray69
+gray68
+gray67
+gray66
+gray65
+gray64
+gray63
+gray62
+gray61
+gray60
+gray6
+gray59
+gray58
+gray57
+gray56
+gray55
+gray54
+gray53
+gray52
+gray51
+gray50
+gray5
+gray49
+gray48
+gray47
+gray46
+gray45
+gray44
+gray43
+gray42
+gray41
+gray40
+gray4
+gray39
+gray38
+gray37
+gray36
+gray35
+gray34
+gray33
+gray32
+gray31
+gray30
+gray3
+gray29
+gray28
+gray27
+gray26
+gray25
+gray24
+gray23
+gray22
+gray21
+gray20
+gray2
+gray19
+gray18
+gray17
+gray16
+gray15
+gray14
+gray13
+gray12
+gray11
+gray100
+gray10
+gray1
+gray0
+gray
+goldenrod
+gold
+ghostwhite
+gainsboro
+forestgreen
+floralwhite
+firebrick
+dodgerblue
+dimgray
+deepskyblue
+deeppink
+darkviolet
+darkturquoise
+darkslategray
+darkslateblue
+darkseagreen
+darksalmon
+darkorchid
+darkorange
+darkolivegreen
+darkkhaki
+darkgreen
+darkgoldenrod
+cyan
+cornsilk
+cornflowerblue
+coral
+chocolate
+chartreuse
+cadetblue
+burlywood
+brown
+blueviolet
+blue
+blanchedalmond
+black
+bisque
+beige
+azure
+aquamarine
+antiquewhite
+aliceblue
+grey
+XPM: incorrect header format!
+XPM: truncated image data at line %d!
+XPM: Malformed pixel data!
+XPM: incorrect colour description in line %d
+XPM: malformed colour definition '%s' at line %d!
+%u %u %u %u
+Failed to save the bitmap image to file "%s".
+WXCURSOR_HAND
+WXCURSOR_RIGHT_ARROW
+WXCURSOR_BULLSEYE
+WXCURSOR_CROSS
+WXCURSOR_MAGNIFIER
+WXCURSOR_PBRUSH
+WXCURSOR_PENCIL
+WXCURSOR_PLEFT
+WXCURSOR_PRIGHT
+WXCURSOR_BLANK
+wxCursor
+font
+Falling back to '%s'
+underlined
+ italic
+ light
+ bold
+wxPen
+wxSystemSettingsModule
+wxTreeCtrl
+Please install a newer version of comctl32.dll
+(at least version 4.70 is required but you have %d.%02d)
+or this program won't operate correctly.
+SysListView32
+Couldn't retrieve information about list control item %d.
+Failed to insert the column '%s' into listview!
+ListView_SetItem() failed
+wxListCtrl
+wxListView
+wxListItem
+wxListEvent
+     ..     
+      ..    
+   ..  ..   
+    ....    
+            
+. c #000000
+  c None
+12 11 2 1
+wxContextHelp
+wxContextHelpButton
+wxHelpProviderModule
+wxRegion
+wxRegionIterator
+wxAcceleratorTable
+tooltips_class32
+Failed to create the tooltip '%s'
+wxToolTip
+?wxIndividualLayoutConstraint
+wxLayoutConstraints
+wxSizerItem
+wxSizer
+wxGridSizer
+wxFlexGridSizer
+wxBoxSizer
+wxStaticBoxSizer
+wxStdDialogButtonSizer
+statusBar
+wxStatusBar
+wxWindowDC
+wxClientDC
+wxPaintDC
+wxPaintDCEx
+EnableTheming
+DrawThemeParentBackground
+GetThemeDocumentationProperty
+GetCurrentThemeName
+SetThemeAppProperties
+GetThemeAppProperties
+IsThemeDialogTextureEnabled
+EnableThemeDialogTexture
+GetWindowTheme
+IsAppThemed
+IsThemeActive
+GetThemeSysInt
+GetThemeSysString
+GetThemeSysFont
+GetThemeSysSize
+GetThemeSysBool
+GetThemeSysColorBrush
+GetThemeSysColor
+GetThemeFilename
+SetWindowTheme
+GetThemePropertyOrigin
+GetThemeIntList
+GetThemeMargins
+GetThemeRect
+GetThemeFont
+GetThemePosition
+GetThemeEnumValue
+GetThemeInt
+GetThemeBool
+GetThemeString
+GetThemeMetric
+GetThemeColor
+IsThemeBackgroundPartiallyTransparent
+IsThemePartDefined
+DrawThemeIcon
+DrawThemeEdge
+HitTestThemeBackground
+GetThemeBackgroundRegion
+GetThemeTextMetrics
+GetThemeTextExtent
+GetThemePartSize
+GetThemeBackgroundExtent
+GetThemeBackgroundContentRect
+DrawThemeText
+DrawThemeBackground
+CloseThemeData
+OpenThemeData
+uxtheme.dll
+wxUxThemeModule
+wxDCBase
+wxBufferedDC
+wxBufferedPaintDC
+msw.staticbox.optimized-paint
+msw.staticbox.htclient
+wxStaticBox
+riched32
+riched20
+msftedit
+Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll
+RICHEDIT
+RichEdit20A
+RICHEDIT50W
+Select &All
+&Delete
+&Paste
+&Copy
+Cu&t
+&Redo
+&Undo
+Unknown edit control '%s'.
+RichEdit%d0%c
+SendMessage(EM_SETPARAFORMAT, 0) failed
+{\Ib
+XL@SendMessage(EM_SETCHARFORMAT, SCF_SELECTION) failed
+wxRichEditModule
+wxTextCtrl
+wxMenuItem
+wxSpinCtrl
+SetMenuInfo
+user32
+wxMenu
+wxMenuBar
+wxMenuInfo
+COMMAND
+WINDOWS_MENU
+WINDOWS_RIGHT
+WINDOWS_LEFT
+KP_DIVIDE
+KP_DECIMAL
+KP_SUBTRACT
+KP_SEPARATOR
+KP_ADD
+KP_MULTIPLY
+KP_EQUAL
+KP_DELETE
+KP_INSERT
+KP_BEGIN
+KP_END
+KP_PAGEDOWN
+KP_NEXT
+KP_PAGEUP
+KP_PRIOR
+KP_DOWN
+KP_RIGHT
+KP_UP
+KP_LEFT
+KP_HOME
+KP_ENTER
+KP_TAB
+KP_SPACE
+PAGEDOWN
+PAGEUP
+SCROLL_LOCK
+NUM_LOCK
+DIVIDE
+DECIMAL
+SUBTRACT
+SEPARATOR
+HELP
+SNAPSHOT
+EXECUTE
+PRINT
+SELECT
+CAPITAL
+PAUSE
+MENU
+CLEAR
+CANCEL
+ESCAPE
+SPACE
+HOME
+PGDN
+PGUP
+RETURN
+ENTER
+INSERT
+DELETE
+Invalid key string "%s"
+No accel key found, accel string ignored.
+Unrecognized accel key '%s', accel string ignored.
+SPECIAL
+Unknown accel modifier: '%s'
+shift
+ctrl
+Shift-
+Ctrl-
+Alt-
+wxMemoryDC
+wxScrollBar
+File couldn't be loaded.
+The text couldn't be saved.
+wxTextUrlEvent
+wxTextCtrlBase
+wxSlider
+wxSpinEvent
+wxSpinButton
+wxComboBox
+DISPLAY
+wxListBox
+wxScreenDC
+Save current document with a different filename
+Save current document
+Close current document
+Undo last action
+Redo last action
+Quit this program
+Paste selection
+Replace selection
+Delete selection
+Cut selection
+Copy selection
+Show about dialog
+Zoom &Out
+Zoom &In
+Zoom to &Fit
+&Actual Size
+&Yes
+&Unindent
+&Underline
+Undelete
+&Stop
+Select all
+Save &As...
+&Save
+Revert to Saved
+Remove
+Refresh
+&Quit
+&Properties
+Print previe&w
+&Print
+&Preferences
+&Open
+&New
+Align Right
+Align Left
+Justified
+Centered
+&Italic
+&Index
+Indent
+&Home
+&Help
+&Forward
+&Down
+&Back
+Rep&lace
+&File
+&Find
+&Edit
+&Clear
+&Cancel
+&Bold
+&Apply
+&About
+wxToolBarToolBase
+ToolbarWindow32
+msw.remap
+wxToolBar
+Failed to create a status bar.
+wxBitmapVariantData
+wxIconVariantData
+wxDisplayModule
+wxStatusBarGeneric
+&Window
+Failed to create MDI parent frame.
+MDICLIENT
+wxMDIParentFrame
+wxMDIChildFrame
+wxMDIClientWindow
+wxPrintData
+wxPrintDialogData
+wxPageSetupDialogData
+wxFontData
+wxColourData
+wxDialog
+NormalColor
+Aero
+Can't create the notebook page '%s'.
+wxNotebook
+wxNotebookPageInfo
+wxNotebookEvent
+wxMessageDialog
+Input Text
+Enter Password
+wxTextEntryDialog
+wxPasswordEntryDialog
+wxColourDialog
+wxFontDialog
+Couldn't add an image to the image list.
+wxImageList
+wxStaticLine
+All files (%s)|%s
+%s files (%s)|%s
+*.%s
+Save %s file
+Load %s file
+wxFileDialogBase
+wxART_BUTTON_C
+wxART_HELP_BROWSER_C
+wxART_CMN_DIALOG_C
+wxART_FRAME_ICON_C
+wxART_MENU_C
+wxART_TOOLBAR_C
+%s-%s-%i-%i
+wxArtProvider
+wxArtProviderModule
+listCtrl
+wxSingleChoiceDialog
+wxMultiChoiceDialog
+wxQuantize
+Ms Shell Dlg 2
+Ms Shell Dlg
+wxTreeEvent
+wxDragImage
+Failed to initialize MS HTML Help.
+HtmlHelpA
+MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it.
+HHCTRL.OCX
+.chm
+.htm
+wxCHMHelpController
+wxMSWSystemMenuFontModule
+Unsupported clipboard format.
+Failed to put data on the clipboard
+Failed to set clipboard data.
+<!--EndFrag
+EndFragment
+<!--StartFrag
+StartFragment
+EndHTML
+%08u
+<html>
+StartHTML
+<!--EndFragment-->
+</body>
+</html>
+Version:0.9
+StartHTML:00000000
+EndHTML:00000000
+StartFragment:00000000
+EndFragment:00000000
+<html><body>
+<!--StartFragment -->
+HTML Format
+Failed to get data from the clipboard
+wxClipboard
+GetMonitorInfo
+MonitorFromWindow
+MonitorFromPoint
+ChangeDisplaySettingsEx
+EnumDisplayMonitors
+Generic PostScript
+Ready
+Cancel
+Please wait while printing
+Printing 
+dialog
+Printing Error
+Goto Page
+Enter a page number between %d and %d:
+Page %d
+Page %d of %d
+Could not start document preview.
+Sorry, not enough memory to create a preview.
+Print Preview Failure
+wxPrintNativeDataBase
+wxPrintFactoryModule
+wxPrinterBase
+wxPrinter
+wxPrintDialogBase
+wxPrintDialog
+wxPageSetupDialogBase
+wxPageSetupDialog
+wxPrintout
+wxPreviewCanvas
+wxPreviewControlBar
+wxPreviewFrame
+wxPrintPreviewBase
+wxPrintPreview
+PRC Envelope #10 Rotated 458 x 324 mm
+PRC Envelope #9 Rotated 324 x 229 mm
+PRC Envelope #8 Rotated 309 x 120 mm
+PRC Envelope #7 Rotated 230 x 160 mm
+PRC Envelope #6 Rotated 230 x 120 mm
+PRC Envelope #5 Rotated 220 x 110 mm
+PRC Envelope #4 Rotated 208 x 110 mm
+PRC Envelope #3 Rotated 176 x 125 mm
+PRC Envelope #2 Rotated 176 x 102 mm
+PRC Envelope #1 Rotated 165 x 102 mm
+PRC 32K(Big) Rotated
+PRC 32K Rotated
+PRC 16K Rotated
+PRC Envelope #10 324 x 458 mm
+PRC Envelope #9 229 x 324 mm
+PRC Envelope #8 120 x 309 mm
+PRC Envelope #7 160 x 230 mm
+PRC Envelope #6 120 x 230 mm
+PRC Envelope #5 110 x 220 mm
+PRC Envelope #4 110 x 208 mm
+PRC Envelope #3 125 x 176 mm
+PRC Envelope #2 102 x 176 mm
+PRC Envelope #1 102 x 165 mm
+PRC 32K(Big) 97 x 151 mm
+PRC 32K 97 x 151 mm
+PRC 16K 146 x 215 mm
+Japanese Envelope You #4 Rotated
+Japanese Envelope You #4
+12 x 11 in
+B6 (JIS) Rotated 182 x 128 mm
+B6 (JIS) 128 x 182 mm
+Japanese Envelope Chou #4 Rotated
+Japanese Envelope Chou #3 Rotated
+Japanese Envelope Kaku #3 Rotated
+Japanese Envelope Kaku #2 Rotated
+A6 Rotated 148 x 105 mm
+Double Japanese Postcard Rotated 148 x 200 mm
+Japanese Postcard Rotated 148 x 100 mm
+B5 (JIS) Rotated 257 x 182 mm
+B4 (JIS) Rotated 364 x 257 mm
+A5 Rotated 210 x 148 mm
+A4 Rotated 297 x 210 mm
+A3 Rotated 420 x 297 mm
+Letter Rotated 11 x 8 1/2 in
+Japanese Envelope Chou #4
+Japanese Envelope Chou #3
+Japanese Envelope Kaku #3
+Japanese Envelope Kaku #2
+A6 105 x 148 mm
+Japanese Double Postcard 200 x 148 mm
+A3 Extra Transverse 322 x 445 mm
+A3 Transverse 297 x 420 mm
+A2 420 x 594 mm
+B5 (ISO) Extra 201 x 276 mm
+A5 Extra 174 x 235 mm
+A3 Extra 322 x 445 mm
+B5 (JIS) Transverse 182 x 257 mm
+A5 Transverse 148 x 210 mm
+A4 Plus 210 x 330 mm
+Letter Plus 8 1/2 x 12.69 in
+SuperB/SuperB/A3 305 x 487 mm
+SuperA/SuperA/A4 227 x 356 mm
+Letter Extra Transverse 9.275 x 12 in
+A4 Transverse 210 x 297 mm
+Letter Transverse 8 1/2 x 11 in
+A4 Extra 9.27 x 12.69 in
+Tabloid Extra 11.69 x 18 in
+Legal Extra 9 1/2 x 15 in
+Letter Extra 9 1/2 x 12 in
+Envelope Invite 220 x 220 mm
+15 x 11 in
+10 x 11 in
+9 x 11 in
+Japanese Postcard 100 x 148 mm
+B4 (ISO) 250 x 353 mm
+German Legal Fanfold, 8 1/2 x 13 in
+German Std Fanfold, 8 1/2 x 12 in
+US Std Fanfold, 14 7/8 x 11 in
+6 3/4 Envelope, 3 5/8 x 6 1/2 in
+Monarch Envelope, 3 7/8 x 7 1/2 in
+Italy Envelope, 110 x 230 mm
+B6 Envelope, 176 x 125 mm
+B5 Envelope, 176 x 250 mm
+B4 Envelope, 250 x 353 mm
+C65 Envelope, 114 x 229 mm
+C6 Envelope, 114 x 162 mm
+C4 Envelope, 229 x 324 mm
+C3 Envelope, 324 x 458 mm
+C5 Envelope, 162 x 229 mm
+DL Envelope, 110 x 220 mm
+#14 Envelope, 5 x 11 1/2 in
+#12 Envelope, 4 3/4 x 11 in
+#11 Envelope, 4 1/2 x 10 3/8 in
+#10 Envelope, 4 1/8 x 9 1/2 in
+#9 Envelope, 3 7/8 x 8 7/8 in
+Note, 8 1/2 x 11 in
+11 x 17 in
+10 x 14 in
+Quarto, 215 x 275 mm
+Folio, 8 1/2 x 13 in
+B5 sheet, 182 x 257 millimeter
+B4 sheet, 250 x 354 mm
+A5 sheet, 148 x 210 mm
+A4 small sheet, 210 x 297 mm
+A3 sheet, 297 x 420 mm
+Executive, 7 1/4 x 10 1/2 in
+Statement, 5 1/2 x 8 1/2 in
+Ledger, 17 x 11 in
+Tabloid, 11 x 17 in
+Letter Small, 8 1/2 x 11 in
+E sheet, 34 x 44 in
+D sheet, 22 x 34 in
+C sheet, 17 x 22 in
+A4 sheet, 210 x 297 mm
+Legal, 8 1/2 x 14 in
+Letter, 8 1/2 x 11 in
+wxPrintPaperType
+wxPrintPaperModule
+wxBookCtrlBase
+Validation conflict
+'%s' is invalid
+'%s' should be numeric.
+'%s' should only contain alphabetic or numeric characters.
+'%s' should only contain alphabetic characters.
+'%s' should only contain ASCII characters.
+wxTextValidator
+wxFileDialog
+ yy      d   d  
+ysfy    dd   dd 
+yasfy  ddddddddd
+ yasfy  dd   dd 
+  yasy   d   d  
+   yyui+%o%p    
+     t@q22q&+   
+    @Oq,wwer@@  
+    %$*,3059q&  
+    12>678392%  
+    12>-345-#%  
+    o:*>,<--:X  
+    .&#*==-;@@  
+     +@###$+%   
+      .XooXO    
+f c #DB916B
+d c #008000
+16 15 42 1
+  yy            
+ ysdy           
+ yasdy          
+  yasdy         
+   yasy         
+    yyui+%o%p   
+      t@q22q&+  
+     @Oq,wwer@@ 
+     %$*,3059q& 
+     12>678392% 
+     12>-345-#% 
+     o:*>,<--:X 
+     .&#*==-;@@ 
+      +@###$+%  
+       .XooXO   
+2 c #CAD6E1
+# c #C0D1DC
+u c #C2CBDB
+7 c #EFF8FC
+; c #AFD1DE
+, c #81CCEB
+r c #B6D5EE
+p c #8EA9BC
+8 c #FDFDFE
+6 c #8AD0EE
+% c #81A3B9
+5 c #D3ECF8
+- c #71C5E7
+: c #B9CBD5
+i c #6591AE
+O c #AABFCD
+@ c #A0BACB
+0 c #E9F4FB
+a c #E6DED2
+< c #91D2EF
+* c #62B4DD
+e c #BCD9EF
+o c #749BB4
+s c #D8BCA4
+X c #85A7BC
+d c #DB916B
+= c #4CBCE3
+3 c #DEF1FA
+4 c #EAF6FC
++ c #98B3C6
+1 c #5A89A6
+q c #AEC9D7
+w c #B6E0F4
+t c #6B98B8
+> c #35B4E1
+$ c #B5CAD7
+9 c #A7DAF2
+y c #A06959
+16 15 41 1
+      XX*       
+   FXXFLX XX    
+ XXFGHJKX XiX   
+ XVCZASDXXXiiX  
+ XnxmMNBXiiiiiX 
+ XlzxcvbXiiiiiiX
+ XghjddkXiiiiiX 
+ XpasddfX++iiX  
+ XwertyuX@XiX   
+ X67890qX@XXX   
+ X<12345X@@@X   
+ X=-;:>,X@@@X   
+ X#$%&X*@@@@X   
+ XoO+X@@@@@@X   
+ ..XXXXXXXXXX   
+5 c #AFC2CF
+< c #CFDAE2
+C c #96AEC0
+Z c #91AABC
+b c #8CA6B9
+e c #BBCAD6
+& c #829EB5
+J c #7D9AB0
+. c #215579
+a c #B3C5D1
+n c #A4B9C8
+f c #9AB1C2
+1 c #C9D5DE
+: c #C4D1DB
+N c #8BA5B9
+3 c #BCCCD7
+s c #ADC0CD
+q c #A8BCCA
+$ c #D7E0E7
+x c #9EB4C4
+c c #99B0C1
+6 c #C8D4DE
+B c #85A0B5
+d c #982106
+w c #C0CFD9
+4 c #B6C7D3
+h c #ACBFCD
+y c #A7BBCA
+u c #A2B7C6
+% c #D1DBE3
+V c #9DB3C3
+m c #98AFC0
+X c #305F81
+; c #C9D6DF
+9 c #B5C6D2
+o c #E4EAEF
+l c #ABBECC
+K c #7796AC
+j c #A6BAC9
+M c #92AABD
+A c #8AA5B8
+p c #B9C9D5
+r c #B4C5D2
+0 c #AFC1CE
+# c #DEE5EB
+z c #A5B9C8
+* c #446A8C
+= c #D6E0E6
+k c #93ACBE
+2 c #C2D0DA
+F c #5A809C
+> c #BDCCD7
+G c #89A4B8
+S c #84A0B4
+g c #B3C4D1
+t c #AEC0CE
+L c #7090A8
++ c #376485
+O c #547897
+- c #D0DBE2
+v c #92ABBD
+7 c #C1CFDA
+8 c #BCCBD6
+, c #B7C7D3
+H c #839FB4
+D c #7E9BB1
+i c #9AEA53
+@ c Black
+16 15 69 1
+      i##       
+     8wu+       
+    8rty8       
+   0qwe8        
+  O1748    .9#&o
+  X44X  #@56<44X
+ +123    @<2222&
+ &,<X     X>,,,&
+ &>:$     @:>>>@
+ @:=+    @=:=*:@
+ X*=@+-+@*=;@#&@
+ $@%%&@&%%&@  +o
+  +o@@@@@o#    +
+   .XoooO       
+$ c #8FB0C3
+q c #A2B3C5
+y c #B3BFD1
+. c #ACC4D3
+0 c #467A9C
+@ c #326A8F
+7 c #ADBACE
+6 c #6F90A6
+X c #407598
+- c #A0BACB
+1 c #7393AB
+2 c #8DA0B9
+r c #ADBED2
+o c #236289
+w c #BECAD9
+e c #A5B3C8
+9 c #85A7BC
+& c #3F6F93
+5 c #5A809C
+* c #547897
+3 c #547B99
+; c #4C7398
+       @@i      
+       +uq8     
+       8rty8    
+        80qwe   
+X$@7O    8493.  
+o44<56#@  o44o  
+$1111<#    213+ 
+$,,,>o     o<,$ 
+#>>>:#     &:>$ 
+#:-=:=#    +=:# 
+#$@#*=-#+;+#=-o 
+X+  #$%%$#$%%#& 
++    @X#####X+  
+       .XXXoO   
+& c #8FB0C3
+w c #A2B3C5
+r c #B3BFD1
+< c #7F97B0
+O c #ACC4D3
+e c #467A9C
+# c #326A8F
+9 c #ADBACE
+t c #D2D9E0
+5 c #6F90A6
+o c #407598
+. c #6591AE
+; c #A0BACB
+i c #4C809F
+3 c #7393AB
+1 c #8DA0B9
+= c #597B9A
+y c #ADBED2
+X c #236289
+u c #E1E6EE
+: c #65839D
+q c #BECAD9
+0 c #A5B3C8
+> c #718BA7
++ c #749BB4
+7 c #85A7BC
+$ c #3F6F93
+, c #7F99B4
+6 c #5A809C
+8 c #3A749C
+@ c #5A89A6
+- c #547897
+2 c #547B99
+* c #4C7398
+4 c #9BACC2
+16 15 37 1
+   ............ 
+   .::::6752340 
+   .:::67523419 
+   .::6752341<8 
+   .:6752341<,8 
+  @@@@52341<,$o 
+  @>>@2341<,$%O 
+@@@>>@@@1<,$%&O 
+@>>>>>>@<,$%&*+ 
+@>>>>>>@,$%&*=+ 
+@@@>>@@@$%OOoO+ 
+  @>>@$$%&O::*o 
+  @@@@$%&*O:*o  
+   .$$%&*=O-;   
+   .XoOO+@#.    
+@ c #4581AA
+> c #ACE95B
+& c #A5CCEA
+6 c #FDFDFE
+4 c #E9F3FA
+< c #DAEAF7
+7 c #FAFCFE
+5 c #F7FBFD
+O c #6591AE
+3 c #EFF6FC
+= c #85BBE2
++ c #538DB3
+8 c #749BB4
+$ c #C3DDF1
+0 c #85A7BC
+# c #3A749C
+X c #5A89A6
+o c #6B98B8
+9 c #839CB5
+: c #FFFFFF
+- c #72A8D2
+* c #97C4E7
+16 15 29 1
+;#&     2#>.    
+&@@$    :@@1    
+ <#@*. .@@=     
+  o*@*oO@@,     
+   .>@#%@@.     
+     ;@@@+      
+      ;@@:      
+     .#@@@$.    
+     -@@X*@*.   
+     =@= .*@*.  
+    &@@X  .*@*o 
+    +@#.    $@% 
+    .Xo      OO 
+% c #5F7FB5
+> c #5A7BB4
+: c #6483B5
+, c #90A0BA
+@ c #3E69B1
+. c #B5B9BF
++ c #6F8AB7
+1 c #A0ABBC
+= c #4E74B3
+- c #7F95B9
+o c #ABB2BE
+X c #8598B9
+& c #8A9CBA
+# c #4971B2
+$ c #6986B6
+; c #758EB7
+O c #9AA7BC
+< c #95A3BB
+* c #5478B4
+2 c #A5AEBD
+............    
+.6453<>----.    
+.45<<>--....... 
+.3<<>--#.O21=:. 
+.<<>--##.21,:;. 
+.<>--##+.1,:;&. 
+.>--##++.,:;&*. 
+.--##++$.:;.... 
+.-##++$$.;&.==. 
+.##++$$%.&*.=.  
+.#++$$%@.....   
+.+XXXXXXXX@.    
+.+XOOOOOOX@.    
+ .XoOOOOoo.     
+   ......       
+= c #F4F9FD
+* c #B6D5EE
++ c #FBBCA4
+X c #9B8687
+3 c #FFF1ED
+. c #3C78A6
+6 c #FFFAF8
+: c #E9F3FA
+; c #DAEAF7
+2 c #FAFCFE
+1 c #F7FBFD
+$ c #F8AA8F
+5 c #FFF5F0
+4 c #FFF8F4
+- c #FDD8C9
+# c #FCCBB8
+@ c #F08B62
+& c #CAE1F3
+% c #F79586
+o c #7B767D
+> c #FEE3D7
+< c #FEECE4
+ 6225     522>  
+ 23,<5   5<,32  
+ <, ,2   2, ,<  
+ ,2 4<   <5 2,  
+ ><23<1 1<32<1  
+  >,,<, ,<,,1   
+     OO:=O      
+     #%#;.      
+     O=-..      
+     #%#..      
+     O.*..      
+    O#$ %.&     
+    O.   ..     
+   O.+   @.     
+   .X     .o    
+= c #9FA0A0
+4 c #9B8687
+X c #979BA0
+O c #826F72
+> c #CDC0C1
+@ c #C6C8CA
++ c #D2D3D4
+, c #AB5C64
+1 c #CFCFD0
+3 c #9C2A35
+5 c #B69596
+% c #B7B7B8
+; c #C6CCD3
+& c #C3C5C8
+< c #E42234
+# c #939495
+o c #DBDBDB
+2 c #AD3A45
+. c #6C6D70
+- c #FFFFFF
+: c #C3C3C4
+6 c #D8BDC0
+16 15 25 1
+     .......... 
+     .***-432,. 
+ .....**-432,>. 
+ .32<.*-432,>:. 
+ .32<.*432,>:=. 
+ .2<1.*32,>:=&. 
+ .<1:.*2,>:=&#. 
+ .>:=.*,>;=&#o. 
+ .:=&.*>;=&.... 
+ .=&%.*;=&#.--. 
+ .&%$.*=&#o.-.  
+ .%$o........   
+ .$oO+X##X      
+ .oO+@X#X       
+ .....XX        
+2 c #F4F9FD
+# c #AFD1EC
+> c #E5F0F9
+$ c #A5CCEA
+% c #B6D5EE
+- c #FDFDFE
+1 c #E2EFF8
+< c #E9F3FA
+: c #DAEAF7
+4 c #FAFCFE
+3 c #F7FBFD
++ c #72B2DD
+; c #DEEDF8
+, c #EFF6FC
+O c #85BBE2
+X c #2F93CD
+. c #7EA6C0
+& c #C3DDF1
+= c #D1E5F5
+@ c #60A9DA
+* c #FFFFFF
+o c #97C4E7
+@             @@
+ ##&224+++++&# @
+ ##&*o>>234+&# @
+ ##&*o>>,<1+&# @
+ ##&*o>>-;:+&# @
+ ##&***=-;:+&# @
+ ###&&&&&&&&## @
+ ############# @
+ ##%%%%%%.X%.X .
+ #O+++++++.X.X.@
+ #O++++++.......
+ #O+$$$$$XX...XX
+ oO+++++++.X.X.@
+% c #5D7C93
+# c #7A90AC
+$ c #BCBDBE
+o c #1B4467
+= c #B7BFC7
+; c #D2D9E0
+4 c #D6DFE7
+& c #305F81
+@ c None
+- c #C6CCD3
+: c #E1E6EE
+2 c #C3C5C8
+1 c #DCE2EA
+O c #65839D
+* c #A5B0BA
+, c #C0C7D1
+3 c #CAD2DC
+> c #446A8C
+< c #D5D6D8
+.             ..
+ @@$<<2OOOOO$@ .
+ @@$%X;;<12O$@ .
+ @@$%X;;:>,O$@ .
+ @@$%X;;*=-O$@ .
+ @@$%%%&*=-O$@ .
+ @@@$$$$$$$$@@ .
+ @@@@@@@@@@@@@ .
+ @@+++++++++@@ .
+ @oOOOOOOOOO+@ .
+ @oO#######O+@ .
+ XoOOOOOOOOO+X .
+               .
++ c #5D7C93
+@ c #7A90AC
+X c #1B4467
+& c #B7BFC7
+= c #D2D9E0
+2 c #D6DFE7
+$ c #305F81
+. c None
+* c #C6CCD3
+- c #E1E6EE
+< c #C3C5C8
+, c #DCE2EA
+o c #65839D
+% c #A5B0BA
+  c #5F666D
+: c #C0C7D1
+1 c #CAD2DC
+; c #446A8C
+> c #D5D6D8
+16 15 21 1
+  ######  
+###    ###
+##      ##
+#   ##   #
+   ####   
+ ######## 
+# c None
+   .      
+  ...     
+ .....    
+... ...   
+..   ...  
+      ... 
+       ...
+        ..
+          
+. c Gray0
+10 10 2 1
+  ##########e#  
+  #3111q84597e  
+  #3--------3w  
+  #31q84597360  
+  #3--------,0  
+  #38459736,%X  
+  #3--------&o  
+  #355736,%&*o  
+  #3--------=O  
+  #3456,%&*=-O  
+  #3-----<oXoO  
+  #%%%%&*211=X  
+  .,,%&*=<1=X>  
+  .%%&*=-;:;>   
+  ..XooO+@#$    
++ c #4581AA
+5 c #F4F9FD
+* c #A5CCEA
+& c #B6D5EE
+# c #8EA9BC
+3 c #E2EFF8
+q c #FDFDFE
+7 c #E9F3FA
+6 c #DAEAF7
+8 c #FAFCFE
+4 c #F7FBFD
+o c #6591AE
+9 c #EFF6FC
+$ c #D6DFE7
+- c #85BBE2
+O c #538DB3
+; c #5F9BC8
+2 c #7EA6C0
+0 c #749BB4
+% c #C3DDF1
+e c #85A7BC
+> c #F1F4F7
+< c #67A1CF
+, c #D1E5F5
+@ c #3A749C
+. c #5A89A6
+X c #6B98B8
+w c #839CB5
+1 c #FFFFFF
+: c #72A8D2
+= c #97C4E7
+16 16 32 1
+  XXXXXXXXXXXX  
+  .0qwjxkchzvX  
+  .3595jgklhzX  
+  5355595gsfhX  
+  5555555dasfX  
+ 5555i5555yasX  
+  55rui559eypX  
+ 5555r5555teyX  
+  55555550q9eX  
+  5,5559530qwX  
+  .,5:5612378X  
+  .*,:<->1234X  
+  .+*;:=->XXXX  
+  .&+*#$=-XXX   
+  .oO+@#$%XX    
+  ........X     
+k c #D1D1DA
+2 c #E0E0E6
+* c #EFEFF2
+t c #D8D8E0
+9 c #D8D8DF
+X c #9494AD
+s c #D0D0D9
+@ c #EEEEF2
+i c #DFDFE5
+v c #C8C8D3
+w c #D7D7DF
+- c #E6E6EB
+o c #F5F5F7
+c c #CFCFD8
+, c #EDEDF1
+3 c #DEDEE4
+; c #EDEDF0
+e c #D6D6DE
+l c #CECED8
+f c #CECED7
+# c #ECECF0
+. c #C6C6D5
+6 c #E4E4EA
+j c #D5D5DD
+& c #F3F3F6
+> c #E4E4E9
+O c #F3F3F5
+0 c #DCDCE3
+: c #EBEBEF
+7 c #DCDCE2
+d c #D4D4DD
+r c #E3E3E9
+y c #D4D4DC
+h c #CCCCD6
+4 c #DBDBE2
+$ c #EAEAEE
+5 c #00A5FF
+x c #D3D3DC
+1 c #E2E2E8
+g c #D3D3DB
++ c #F1F1F4
+q c #DADAE1
+< c #E9E9ED
+a c #D2D2DB
+u c #E1E1E7
+p c #D2D2DA
+8 c #D9D9E1
+z c #CACAD4
+= c #E8E8ED
+% c #E8E8EC
+16 16 51 1
+0.............  
+0qw9O764*=-;:.  
+.89O764*=-;:>$$ 
+.@O764*=-;:>,<. 
+..564*=-;:>,<1. 
+.+.4*=-;:>,<12$.
+.O&*=-;:>,<1231.
+.O%............&
+.OOOOOOO@ooo.$  
+.OOOO#OO@ooo.$  
+.OOOOOO@@ooo..  
+.OO+....ooooo.  
+....   X.ooo.   
+        X.o.    
+= c #BBC4D6
+; c #CAD6E1
+- c #C2CBDB
+w c #7A90AC
+* c #B3BFD1
+9 c #7F97B0
+0 c #215579
+3 c #F8F9FA
+1 c #EEF1F3
+4 c #A8B6CA
+X c #7393AB
+. c #305F81
+% c #467291
+2 c #F5F6F7
+, c #E1E6EE
+> c #DCE2EA
+q c #65839D
+& c #446A8C
+: c #D1D9E5
+# c #7F99B4
+$ c #5A809C
+8 c #547897
+7 c #94A5BD
+o c #9AEA53
+q++++++++++++w  
+90<8X561@#$%23  
+.78X561@#$%2*%3 
+..X561@#$%2*=-3 
+..X41@#$%2*=-;3 
+.<.1@#$%2*=-;:23
+.X+@#$%&*=-;:>,+
+.X++++++++++++++
+.XXXXXXXXXXXX.  
+.XXXXO........  
+.XXXo.          
+.....           
+# c #BBC4D6
+% c #CAD6E1
+4 c #A2B3C5
+$ c #C2CBDB
+< c #7A90AC
+@ c #B3BFD1
+8 c #7F97B0
+9 c #215579
+, c #FDFDFE
+> c #F8F9FA
+= c #E4E9ED
+1 c #A8B6CA
+3 c #6A89A2
+& c #D6DFE7
+q c #305F81
+X c #8DA0B9
+7 c #597B9A
+: c #F5F6F7
+* c #DCE2EA
+0 c #65839D
+- c #EAEDF3
+2 c #D1D9E5
+o c #7F99B4
+; c #F1F4F7
+5 c #94A5BD
+w c #547B99
+16 15 31 1
+ .321,>:;oO+X.  
+ .21,>:;oO+X#.  
+ .1,>:;oO+X#$.  
+ .,>:;oO+X#$<.  
+ .>:;oO+X#$%&.  
+ .:;oO+X#$%&*.  
+ .;oO+X#$%&*=.  
+ .oO+@#$%&*=-.  
+ .............  
+ .XXXX.         
+ .....          
+% c #E5EAF1
+o c #B3BFD1
+= c #F8F9FA
+& c #EEF1F3
+; c #ADBACE
+- c #FAFCFE
+@ c #D2D9E0
+# c #D6DFE7
+* c #F5F6F7
+$ c #E1E6EE
+O c #BECAD9
+X c #D1D9E5
+ <<<<<<<<<<<<<< 
+<OOOOOOOOOOO***.
+<O1111122233*4*.
+<,=&XoO+@#$%%%%.
+<..............<
+.,=&XoO+@#$%*;-.
+.:=&XoO+@#$%*;>.
+ .=&XoO+@#$%*;. 
+ .=&XoO+@#$%*-. 
+  .&XoO+@#$%*.  
+   .XoO+@#$%.   
+< c #8FB0C3
+& c #E7E7E7
+- c #979BA0
++ c #C6C8CA
+# c #BCBDBE
+; c #9EA2A8
+O c #CFCFD0
+3 c #407598
+1 c #4C809F
+* c #A6A8AD
+X c #DFE0E2
+$ c #B7B7B8
+= c #EBEBEC
+, c #F5F6F7
+: c #DCE2EA
+2 c #4A7898
+% c #ACAEB2
+. c #8497A5
+> c #7A92A3
+o c #D5D6D8
+@ c #C3C3C4
+16 15 23 1
+-*************, 
+-:X:XXXXXXXXX:> 
+-:::::::::::::- 
+--------------; 
+%=+++++++++++&% 
+ %&.........*%  
+  ..+$O+++#.O   
+  ..#+++++#.O   
+  ..........O   
+  .o@@@@@@@.O   
+  .o+OOOOO+.O   
+  .o+++++++.O   
+  .XoooooooXO   
+% c #7F8286
+# c #CAD6E1
+; c #636465
+- c #545B63
+O c #215579
+X c #203646
+@ c #979BA0
+: c #E4E9ED
+$ c #1B4467
+, c #4B4C4D
+* c #B2B3B3
+> c #5F666D
+o c #697787
+. c #446A8C
++ c #FFFFFF
+& c #E3E4E6
+16 15 18 1
+ XXXtyyyoo44411u
+ t>$$$$$$$$$$$>o
+ ttyyyoo4441uuuo
+ X8628>22222<<*4
+ wXwe@O44X4<r<o 
+  90*9$$$-7Xqo  
+   X%$$$$2;-X8  
+  o5$$$$$26;7*  
+  o=--$<4<22-X  
+  o3>--1$122-*  
+  o=>,-<1<$2-o  
+  +O#;-$$$$$$:  
+   *=-;$$$$$o+  
+    X@#$$$%o&   
+     .XooOo+    
+q c #5D7C93
+7 c #A2B3C5
+6 c #C0D1DC
+> c #B3BFD1
+. c #8EA9BC
+# c #ADBACE
+: c #6F90A6
+; c #B4C4D3
+8 c #B9CBD5
+& c #AABFCD
+5 c #A0BACB
+u c #49708B
+O c #7393AB
+9 c #D6DFE7
+1 c #467291
+t c #597B9A
+- c #ADBED2
+e c #DCE2EA
+* c #65839D
+2 c #BECAD9
+r c #ACAEB2
++ c #CAD2DC
+0 c #7898AD
+< c #8497A5
+X c #5A809C
+% c #F1F4F7
+4 c #4D7492
+@ c #839CB5
+$ c #FFFFFF
+y c #547B99
+= c #9BACC2
+1111111111111111
+auu&:::::::::::1
+1uu1::::::::ip:1
+1uu1:::::::::::1
+y11111111111111e
+&44468rrrr84444,
+&4%r,67;;782t%4.
+ &4+49*,,*9wo4. 
+ &4,49*0q*9we4. 
+ ###+67;;78242  
+  &:>+,<1234o5  
+  &$*==-;$$$&   
+  #$$%%%%$$$X   
+   .XoooXO+@    
+& c #5D7C93
+8 c #C0D1DC
+3 c #7F97B0
+$ c #E7E7E7
+% c #215579
+q c #C6C8CA
+w c #E4E9ED
+= c #DCDBDA
+- c #D2D3D4
++ c #6A89A2
+X c #6F90A6
+; c #CFCFD0
+r c #B4C4D3
+# c #AABFCD
+p c #130A0B
+, c #7393AB
+a c #526E8B
+e c #467291
+* c #DFE0E2
+t c #C6CCD3
+< c #597B9A
+: c #EBEBEC
+9 c #F5F6F7
+0 c #C3C5C8
+6 c #DCE2EA
+2 c #65839D
+O c #718BA7
+> c #CAD2DC
+i c #51B03D
+y c #446A8C
+u c #D1D9E5
+o c #7A92A3
+@ c #376485
+1 c #4D7492
+. c #547897
+4 c #FFFFFF
+7 c #E3E4E6
+ ooooooooooooo  
+ o321,>:-+@#Oo  
+ o21,>:-+@#O%o  
+ o1,>:-+@#O%&o  
+ o,>:-+@#O%&<o  
+ o>:-+@#O%&*=o  
+ o:-+@#O%&*=;o  
+ o-+@#O%&.X;.X .
+ o+@#$%&*=.X.X. 
+ o+@#$%&*XX...XX
+ oooooooo.......
+ oOOOOo  XX...XX
+ ooooo    .X.X. 
+         .X .XX.
+* c #E5EAF1
+: c #A2B3C5
+2 c #7A90AC
++ c #B3BFD1
+= c #EEF1F3
+- c #ADBACE
+$ c #D2D9E0
+% c #D6DFE7
+, c #8DA0B9
+. c #FFFF00
+; c #F5F6F7
+& c #E1E6EE
+@ c #BECAD9
+3 c #718BA7
+# c #CAD2DC
+< c #EAEDF3
+O c #D1D9E5
+1 c #7F99B4
+o c #547897
+> c #9BACC2
+16 15 22 1
+ .XXX. o    o . 
+ .XXX.   o    . 
+ .XXX.  o   o . 
+ .XXX.......... 
+o c #848484
+X c #000084
+. c #FFFFFF
+16 15 4 1
+ X  X    X    X 
+ XXXXXXXXXXXXXX 
+ .  .    .    . 
+  c Black
+ .........  ... 
+ .XXXXXXX.  .X. 
+ .X.....X.  .X. 
+ .X.   .X.  .X. 
+ .X.....X....X. 
+ .XXXXXXXXXXXX. 
+      ....      
+              $$$               
+              ###               
+            @@@@@@@             
+           @@@@@@@@@            
+           @#######@            
+           .XXXXXo..            
+          ..XXXXXXo..           
+          .XXXXXXXXo.           
+         .XXXX+++XXoo.          
+        .XXXXX+++XXXoo.         
+        .XXXXXXXXXXXXo.         
+       .XXXXXXX+XXXXXXo.        
+       .XXXXXX+++XXXXXo.        
+      .XXXXXXX+++XXXXXoo.       
+      .XXXXXXX+++XXXXXXo.       
+      .XXXXXXX+++XXXXXXX.       
+      .XOOXXXX+++XXXXXXo.       
+      .XOOOXXX+++XXXXXXo.       
+       .XOOXXX+++XXXXXo.        
+       .XOOOXX+++XXXXoo.        
+        .XOOXXX+XXXXXo.         
+        .XXXOXXXXXXXoo.         
+         ..XXXXXXXXo..          
+           ..XXXXX..            
+             .....              
+                                
+. c #ABAD01
+# c #C0C0C0
+X c #FFFF40
+o c #E8EB01
++ c #000080
+@ c #808080
+O c #FFFFFF
+$ c Black
+32 32 9 1
++++++++++++++++++++XX+++++++++++
+++++++++++++++++++XXX+++++++++++
++++++++++++++++++  XX+++++++++++
+++++++++++++++++ O XX+++++++++++
++++++++++++++++ OO XX+++++++++++
++++++++++++++X OOO XX+++++++++++
+++++++++++XXXX OOO XXXXX++++++++
+++++++++XXX   oOOO XXXXXXX++++++
++++++++X   oOOOOOOo   XXXXX+++++
+++++++  oOOOOOOOOOOOOo  XXXX++++
++++++ oOOOOOOOOOOOOOOOOo XXXX+++
+++++ OOOOOOOOOOOOOOOOOOOO XXXX++
++++ OOOOOOOOOo..oOOOOOOOOO XXXX+
+++XOOOOOOOOOO....OOOOOOOOOO XXX+
++XoOOOOOOOOOO....OOOOOOOOOOo XXX
++XOOOOOOOOOOOo..oOOOOOOOOOOO XXX
+XoOOOOOOOOOOOOOOOOOOOOOOOOOOo XX
+XOOOOOOOOOOOOO..OOOOOOOOOOOOO XX
+XOOOOOOOOOOOOO..oOOOOOOOOOOOO XX
+XOOOOOOOOOOOOO...OOOOOOOOOOOO XX
+XOOOOOOOOOOOOOo...OOOOOOOOOOO XX
+XOOOOOOOOOo..oO....OOOOOOOOOO X+
+XoOOOOOOOO....Oo....OOOOOOOOo X+
++XOOOOOOOO....OO....OOOOOOOO X++
++XoOOOOOOO..OOOO....OOOOOOOo +++
+++XOOOOOOOo.oOO....oOOOOOOO ++++
++++XOOOOOOOo......oOOOOOOO +++++
+++++XOOOOOOOOOOOOOOOOOOOO ++++++
++++++XoOOOOOOOOOOOOOOOOoX+++++++
+++++++XXoOOOOOOOOOOOOoXX++++++++
+++++++++XXXoOOOOOOoXXX++++++++++
++++++++++++XXXXXXXX+++++++++++++
++ c None
+O c Gray100
+o c #c0c0c0c0c0c0
+X c #808080808080
+. c Blue
+  c Gray0
+32 32 6 1
+   $XXXXXXX#    
+   6iiiiiii%    
+XXX*iiiiiii%XXX 
+633paiiiiii%336 
+6qq6iiiiiii%qq6 
+rtt9ryyyyyyuttr 
+900qwwwwwwwe009 
+7,,,,,,,,,,,,,7 
+.44.5678.96$44. 
+$=-;:>,<123$-=$ 
+@##$%&&&&&%*##@ 
+   .+++++++X    
+   .OOOOOOOX    
+   .oooooooX    
+   .XXXXXXXX    
+6 c #5D7C93
+X c #8FB0C3
+8 c #829EB5
+> c #9FA0A0
+= c #D6DEE6
+- c #E7E7E7
+2 c #ABABAC
+q c #979BA0
+p c #57778E
+, c #BCBDBE
+u c #4F7592
+1 c #D2D3D4
+0 c #AAADB2
+y c #6A89A2
+7 c #6F90A6
+4 c #CFCFD0
+* c #407598
+. c #7897AD
+& c #467291
+; c #84A5BB
+o c #F3F3F3
+O c #DFE0E2
+$ c #4B7F9E
+5 c #4A7291
+9 c #65839E
+w c #5F666D
+3 c #939495
+t c #9FA2A6
+% c #3F6F93
+e c #7A92A4
+@ c #BDCCD9
+r c #5A809C
+a c #F1F4F7
+# c #5A89A6
+: c #74879B
+i c #FFFFFF
++ c #C3C3C4
+< c #E3E4E6
+16 15 39 1
+uXXXXXXXXXXXX;  
+X&y2O963:>,er;  
+Xw2O963:>>er0t; 
+XXO963:>>.X0q7; 
+XX563:>>.<oX78; 
+X2X3:>,.<<<oX4=;
+XOX:>,.<<<<<oX1;
+XOXXXX...-oXXXX;
+XOOOOOOO.*oX=X  
+XOOOO$%&.*oXXX  
+XOOOO+@.#o.     
+XXXXX .oo.      
+> c #BBC4D6
+o c #DFF0D0
+e c #CAD6E1
+* c #B6D791
+- c #ADD668
+, c #C2CBDB
+y c #7A90AC
+: c #B3BFD1
+2 c #7F97B0
+X c #215579
+8 c #EEF1F3
+q c #E4E9ED
+3 c #A8B6CA
+1 c #FAFCFE
+# c #CAE2AA
+= c #B4C4D3
+u c #305F81
++ c #467291
+O c #8DA0B9
+w c #597B9A
+4 c #F5F6F7
+0 c #DCE2EA
+& c #65839D
+t c #BECAD9
+% c #718BA7
+@ c #CAD2DC
+7 c #EAEDF3
+r c #D1D9E5
+$ c #7F99B4
+. c #376485
+; c #4D7492
+5 c #839CB5
+9 c #94A5BD
+< c #9AEA53
+6 c #9BACC2
+16 15 36 1
+    ..........  
+    .XXXXXXXX.  
+    .XXXX.....  
+ ....XXXX....   
+  .XXXXXXXX.    
+   .XXXXXX.     
+    .XXXX.      
+     .XX.       
+     ......     
+  ....XXXX....  
+   .XXXXXXXX.   
+    .XXXXXX.    
+     .XXXX.     
+      .XX.      
+  .XXXXXXXXXXX. 
+  ........XX.   
+         .X.    
+         ..     
+         .      
+ .XXXXXXXXXXX.  
+  .XXXXXXXXXX.  
+   .XX........  
+    .X.         
+     ..         
+      .         
+    .   .XXXXX. 
+   ...  .XXXXX. 
+  .. .. .XXXXX. 
+  .   . .XXXXX. 
+X c #FF4040
+        ..   .. 
+        .X. .X. 
+        .XX.XX. 
+ ...... .XXXXX. 
+   ..   .XXXXX. 
+        .XXXXX. 
+        ....... 
+X c #00C000
+16 15 3 1
+ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ .ooOOOOOOOOOOOOOOOOOO......... 
+ .ooOOOOOOOOOOOOOOOO..          
+ .ooOOOOOOOOOOOOOO..            
+ .ooOOOO..........              
+ .ooO...                    XXX 
+ .o..                      XooX 
+ ..                      XXOooX 
+ .                      XOOOooX 
+                       XOOOOooX 
+               XXX   XXOOOOOooX 
+              XOOOXXXOOOOOOOooX 
+    XXXXX    XOOOOOOOOOOOOOOooX 
+ XXXOOOOOXX XOOOOOOOOOOOOOOOooX 
+ .ooOOOOOOOXOOOOOOOOOOOOOOOOooX 
+ .ooOOOOOOOOOOOOOOOOOOOOOOOOooX 
+ .ooooooooooooooooooooooooooooX 
+ .............................X 
+O c #E0E0E0
+. c #C0C0C0
+o c #FFFFFF
+X c Black
+32 32 5 1
+  oooooooooooo  
+  .X........Xo  
+  .XXXXXXXXXXo  
+  .X......XXXo  
+  .XXXXXXXXooo  
+  .XXXXXXXX..   
+  ..........    
+o	c Black
+X	c Gray100
+.	c #808080
+16 16 4 1
+     .X.o..     
+    .XX.o+o..   
+   .XXX.O+++o.. 
+  .XXXXo..O++o..
+ .XXXXoXXX..O+O 
+.XXXXoXXXXXX..O 
+.XXXoXXXXXXXXX..
+.XXoXXXXXXXXXX. 
+.XoXXXXXXXXXX.  
+.oXXXXXXXXXX.   
+ ..XXXXXXXX.    
+   ..XXXXX.     
+     ..XX.      
+       ..       
++	c Gray100
+O	c #808080
+o	c #c0c0c0
+X	c #000080
+.	c Black
+16 16 6 1
+ ....   ....... 
+ ..       ...   
+  .       ...   
+  ..     ...    
+   .........    
+   .     ..     
+   ..   ...     
+    .   ..      
+    .. ...      
+     . ...      
+     ....       
+      ...       
+      ..        
+.	c #000000
+ 	c None
+16 15 2 1
+ .XOXX.o.+...o. 
+ .OOOO.ooooooo. 
+ .XOXX.o...+.o. 
+ .XXXX.o..+ooo. 
+ .XOXX.ooooooo. 
+ .OOOO.o...+.o. 
+ .XXOX.ooooooo. 
+ .XOXX.oo...oo. 
+ .XXXX.ooooooo. 
+ .............. 
+                
+o c #C0C0C0
+O c #0000C0
++ c #808080
+X c #FFFFFF
+. c Black
+16 15 6 1
+wxART_NEW
+wxART_FIND_AND_REPLACE
+wxART_FIND
+wxART_QUIT
+wxART_REDO
+wxART_UNDO
+wxART_DELETE
+wxART_PASTE
+wxART_CUT
+wxART_COPY
+wxART_FILE_SAVE_AS
+wxART_FILE_SAVE
+wxART_CROSS_MARK
+wxART_TICK_MARK
+wxART_NORMAL_FILE
+wxART_EXECUTABLE_FILE
+wxART_GO_DIR_UP
+wxART_FOLDER_OPEN
+wxART_FOLDER
+wxART_REMOVABLE
+wxART_CDROM
+wxART_FLOPPY
+wxART_HARDDISK
+wxART_NEW_DIR
+wxART_LIST_VIEW
+wxART_REPORT_VIEW
+wxART_TIP
+wxART_HELP
+wxART_PRINT
+wxART_FILE_OPEN
+wxART_GO_HOME
+wxART_GO_TO_PARENT
+wxART_GO_DOWN
+wxART_GO_UP
+wxART_GO_FORWARD
+wxART_GO_BACK
+wxART_DEL_BOOKMARK
+wxART_ADD_BOOKMARK
+wxART_MISSING_IMAGE
+wxART_HELP_PAGE
+wxART_HELP_FOLDER
+wxART_HELP_BOOK
+wxART_HELP_SETTINGS
+wxART_HELP_SIDE_PANEL
+wxART_QUESTION
+wxCheckListBox
+wxPopupWindow
+wxPopupTransientWindow
+wxHelpControllerBase
+Failed to load metafile from file "%s".
+wxEnhMetaFile
+wxEnhMetaFileDC
+wxScrolledWindow
+Could not start printing.
+wxWindowsPrinter
+wxWindowsPrintPreview
+wxWindowsPrintNativeData
+wxWindowsPrintDialog
+wxWindowsPageSetupDialog
+wxPrinterDC
+wxClipboardModule
+wxObject
+generate verbose log messages
+verbose
+help
+show this help message
+Mismatch between the program and library build versions detected.
+The library used %s,
+and %s used %s.
+wxEvtHandler
+wxEvent
+_wxExecute_Internal_Class
+Failed to create an anonymous pipe
+Failed to send DDE request to the process "%s".
+Timeout too small in WaitForInputIdle
+Failed to redirect the child process IO
+Execution of command '%s' failed
+WX_DDE#
+?456789:;<=
+ !"#$%&'()*+,-./0123
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+Cannot convert from the charset '%s'!
+strconv
+creating conversion for %s
+Failed to copy the file '%s' to '%s'
+Failed to get the working directory
+Failed to rename the file '%s' to '%s' because the destination file already exists.
+Files (%s)
+Couldn't find symbol '%s' in a dynamic library
+Failed to load shared library '%s'
+.dll
+kernel32.dll
+open
+application
+WWW_OpenURL
+topic
+DDEExec
+http\shell\open
+\shell\open
+unknown error %lx
+Fatal Error
+ (error %ld: %s)
+The previous message repeated once.
+The previous message repeated %lu times.
+Warning: 
+Error: 
+Program aborted.
+Fatal error: 
+windows-%u
+Zulu
+Zhuang
+Yoruba
+Yiddish
+Xhosa
+Wolof
+Welsh
+Volapuk
+Vietnamese
+vi_VN
+Valencian
+ca_ES@valencia
+Uzbek (Latin)
+Uzbek (Cyrillic)
+Uzbek
+Urdu (Pakistan)
+ur_PK
+Urdu (India)
+ur_IN
+Urdu
+Ukrainian
+uk_UA
+Uighur
+Turkmen
+Turkish
+tr_TR
+Tsonga
+Tonga
+Tigrinya
+Tibetan
+Thai
+th_TH
+Telugu
+Tatar
+Tamil
+Tajik
+Tagalog
+tl_PH
+Swedish (Finland)
+sv_FI
+Swedish
+sv_SE
+Swahili
+sw_KE
+Sundanese
+Spanish (Venezuela)
+es_VE
+Spanish (U.S.)
+es_US
+Spanish (Uruguay)
+es_UY
+Spanish (Puerto Rico)
+es_PR
+Spanish (Peru)
+es_PE
+Spanish (Paraguay)
+es_PY
+Spanish (Panama)
+es_PA
+Spanish (Nicaragua)
+es_NI
+Spanish (Modern)
+Spanish (Mexican)
+es_MX
+Spanish (Honduras)
+es_HN
+Spanish (Guatemala)
+es_GT
+Spanish (El Salvador)
+es_SV
+Spanish (Ecuador)
+es_EC
+Spanish (Dominican republic)
+es_DO
+Spanish (Costa Rica)
+es_CR
+Spanish (Colombia)
+es_CO
+Spanish (Chile)
+es_CL
+Spanish (Bolivia)
+es_BO
+Spanish (Argentina)
+es_AR
+Spanish
+es_ES
+Somali
+Slovenian
+sl_SI
+Slovak
+sk_SK
+Siswati
+Sinhalese
+Sindhi
+Shona
+Setswana
+Sesotho
+Serbo-Croatian
+sr_YU@latin
+sr_YU
+Serbian (Latin)
+sr_SR@latin
+Serbian (Cyrillic)
+Serbian
+sr_SR
+Northern Sami
+se_NO
+Scots Gaelic
+Sanskrit
+Sangho
+Samoan
+Russian (Ukraine)
+ru_UA
+Russian
+ru_RU
+Romanian
+ro_RO
+Rhaeto-Romance
+Quechua
+Punjabi
+Portuguese (Brazilian)
+pt_BR
+Portuguese
+pt_PT
+Polish
+pl_PL
+Pashto, Pushto
+(Afan) Oromo
+Oriya
+Occitan
+Norwegian (Nynorsk)
+nn_NO
+Norwegian (Bokmal)
+nb_NO
+Nepali (India)
+ne_IN
+Nepali
+ne_NP
+Nauru
+Mongolian
+Moldavian
+Marathi
+mr_IN
+Maori
+Manipuri
+Maltese
+mt_MT
+Malay (Malaysia)
+Malay (Brunei Darussalam)
+ms_BN
+Malayalam
+Malay
+ms_MY
+Malagasy
+Macedonian
+mk_MK
+Lithuanian
+lt_LT
+Lingala
+Latvian
+lv_LV
+Latin
+Laothian
+Kurdish
+ku_TR
+Korean
+ko_KR
+Konkani
+Kirundi
+Kirghiz
+Kinyarwanda
+Kernewek
+kw_GB
+Kazakh
+Kashmiri (India)
+ks_IN
+Kashmiri
+Kannada
+Javanese
+Japanese
+ja_JP
+Italian (Swiss)
+it_CH
+Italian
+it_IT
+Irish
+ga_IE
+Inupiak
+Inuktitut
+Interlingue
+Interlingua
+Indonesian
+id_ID
+Icelandic
+is_IS
+Hungarian
+hu_HU
+Hindi
+hi_IN
+Hebrew
+he_IL
+Hausa
+Gujarati
+Guarani
+Greenlandic
+kl_GL
+Greek
+el_GR
+German (Swiss)
+de_CH
+German (Luxembourg)
+de_LU
+German (Liechtenstein)
+de_LI
+German (Belgium)
+de_BE
+German (Austrian)
+de_AT
+German
+de_DE
+Georgian
+ka_GE
+Galician
+gl_ES
+Frisian
+French (Swiss)
+fr_CH
+French (Monaco)
+fr_MC
+French (Luxembourg)
+fr_LU
+French (Canadian)
+fr_CA
+French (Belgian)
+fr_BE
+French
+fr_FR
+Finnish
+fi_FI
+Fiji
+Farsi
+fa_IR
+Faeroese
+fo_FO
+Estonian
+et_EE
+Esperanto
+English (Zimbabwe)
+en_ZW
+English (Trinidad)
+en_TT
+English (South Africa)
+en_ZA
+English (Philippines)
+en_PH
+English (New Zealand)
+en_NZ
+English (Jamaica)
+en_JM
+English (Eire)
+en_IE
+English (Denmark)
+en_DK
+English (Caribbean)
+en_CB
+English (Canada)
+en_CA
+English (Botswana)
+en_BW
+English (Belize)
+en_BZ
+English (Australia)
+en_AU
+English (U.S.)
+en_US
+English (U.K.)
+English
+en_GB
+Dutch (Belgian)
+nl_BE
+Dutch
+nl_NL
+Danish
+da_DK
+Czech
+cs_CZ
+Croatian
+hr_HR
+Corsican
+Chinese (Taiwan)
+Chinese (Singapore)
+zh_SG
+Chinese (Macau)
+zh_MO
+Chinese (Hongkong)
+zh_HK
+Chinese (Traditional)
+Chinese (Simplified)
+zh_CN
+Chinese
+zh_TW
+Catalan
+ca_ES
+Cambodian
+Burmese
+Bulgarian
+bg_BG
+Breton
+Bislama
+Bihari
+Bhutani
+Bengali
+Belarusian
+be_BY
+Basque
+eu_ES
+Bashkir
+Azeri (Latin)
+Azeri (Cyrillic)
+Azeri
+Aymara
+Assamese
+Armenian
+Arabic (Yemen)
+ar_YE
+Arabic (Uae)
+ar_AE
+Arabic (Tunisia)
+ar_TN
+Arabic (Syria)
+ar_SY
+Arabic (Sudan)
+ar_SD
+Arabic (Saudi Arabia)
+ar_SA
+Arabic (Qatar)
+ar_QA
+Arabic (Oman)
+ar_OM
+Arabic (Morocco)
+ar_MA
+Arabic (Libya)
+ar_LY
+Arabic (Lebanon)
+ar_LB
+Arabic (Kuwait)
+ar_KW
+Arabic (Jordan)
+ar_JO
+Arabic (Iraq)
+ar_IQ
+Arabic (Egypt)
+ar_EG
+Arabic (Bahrain)
+ar_BH
+Arabic (Algeria)
+ar_DZ
+Arabic
+Amharic
+Albanian
+sq_AL
+Afrikaans
+af_ZA
+Afar
+Abkhazian
+wxLocaleModule
+Thread module initialization failed: can not store value in thread local storage
+Thread module initialization failed: impossible to allocate index in thread local storage
+kernel32
+wxThreadModule
+date
+Usage: %s
+%s%s
+The required parameter '%s' was not specified.
+The value for the option '%s' must be specified.
+%s (or %s)
+Unexpected parameter '%s'
+'%s' is not a correct numeric value for option '%s'.
+Option '%s': '%s' cannot be converted to a date.
+Option '%s' requires a value.
+Separator expected after the option '%s'.
+Option '%s' requires a value, '=' expected.
+Unexpected characters following option '%s'.
+Unknown option '%s'
+Unknown long option '%s'
+PATH
+wxList
+wxStringList
+%.14g
+long
+double
+bool
+char
+string
+%s(%p)
+void*
+datetime
+arrstring
+list
+wxVariantData
+wxVariant
+wxVariantDataLong
+wxVariantDoubleData
+wxVariantDataBool
+wxVariantDataChar
+wxVariantDataString
+wxVariantDataWxObjectPtr
+wxVariantDataVoidPtr
+wxVariantDataDateTime
+wxVariantDataArrayString
+wxVariantDataList
+module
+Registering module %s
+Module "%s" initialized
+Module "%s" initialization failed
+Dependency "%s" of module "%s" doesn't exist.
+Circular dependency involving module "%s" detected.
+Cleanup module %s
+wxModule
+wxFilterClassFactoryBase
+wxFilterClassFactory
+PDP endian
+Little endian
+Big endian
+64 bit
+32 bit
+wxDFB
+wxPalmOS
+wxWinCE
+wxCocoa
+wxMac
+wxOS2
+wxX11
+wxMGL
+wxGTK
+wxMotif
+wxMSW
+wxBase
+OS/2
+Other Unix
+HPUX
+SunOS
+NetBSD
+OpenBSD
+FreeBSD
+Linux
+Microsoft Windows CE
+Microsoft Windows Micro
+Microsoft Windows NT
+Microsoft Windows 9X
+Apple Mac OS X
+Apple Mac OS
+/wxUniversal
+wxPowerEvent
+wxWindows
+UserName
+IsWow64Process
+USERPROFILE
+HOMEPATH
+HOMEDRIVE
+can't close file descriptor %d
+can't read from file descriptor %d
+can't write to file descriptor %d
+can't seek on file descriptor %d
+can't get seek position on file descriptor %d
+can't commit changes to file '%s'
+can't remove file '%s'
+can't remove temporary file '%s'
+can't create file '%s'
+can't open file '%s'
+can't find length of file on file descriptor %d
+%H:%M:%S
+CEST
+WEST
+%02d
+%03d
+%04d
+%d/%m/%y
+%m/%d/%y
+%H:%M
+%I:%M:%S %p
+%X %x
+%x %X
+%a %b %d %H:%M:%S %Y
+today
+yesterday
+tomorrow
+.,/-	
+first
+second
+third
+fourth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+eleventh
+twelfth
+thirteenth
+fourteenth
+fifteenth
+sixteenth
+seventeenth
+eighteenth
+nineteenth
+twentieth
+%I %p
+%I:%M %p
+noon
+midnight
+wxDateTimeHolidaysModule
+GB2312
+SHIFT_JIS
+SJIS
+big5
+roman8
+ANSI_X3.4-1968
+POSIX
+ASCII
+IBM-eucJP
+euc_jp
+eucJP
+EUC-JP
+UCS4
+UCS-4
+UTF-32
+UCS-4LE
+UTF-32LE
+UCS-4BE
+UTF-32BE
+UCS2
+UCS-2
+UTF-16
+UCS-2LE
+UTF-16LE
+UCS-2BE
+UTF-16BE
+utf8
+UTF-8
+utf7
+UTF-7
+CP-437
+WINDOWS-437
+CP-1257
+WINDOWS-1257
+CP-1256
+WINDOWS-1256
+CP-1255
+WINDOWS-1255
+CP-1254
+WINDOWS-1254
+CP-1253
+WINDOWS-1253
+IBM-1252
+CP-1252
+WINDOWS-1252
+CP-1251
+WINDOWS-1251
+CP-1250
+WINDOWS-1250
+CP-950
+WINDOWS-950
+euc_kr
+eucKR
+EUC-KR
+CP-949
+WINDOWS-949
+CP-936
+WINDOWS-936
+CP-932
+WINDOWS-932
+CP-874
+WINDOWS-874
+KOI8-RU
+8859-15
+iso885915
+ISO8859-15
+ISO-8859-15
+8859-14
+iso885914
+ISO8859-14
+ISO-8859-14
+8859-13
+iso885913
+ISO8859-13
+ISO-8859-13
+8859-12
+iso885912
+ISO8859-12
+ISO-8859-12
+8859-11
+iso885911
+ISO8859-11
+ISO-8859-11
+8859-10
+iso885910
+ISO8859-10
+ISO-8859-10
+8859-9
+iso88599
+ISO8859-9
+ISO-8859-9
+8859-8
+iso88598
+ISO8859-8
+ISO-8859-8
+8859-7
+iso88597
+ISO8859-7
+ISO-8859-7
+8859-6
+iso88596
+ISO8859-6
+ISO-8859-6
+8859-5
+iso88595
+ISO8859-5
+ISO-8859-5
+8859-4
+iso88594
+ISO8859-4
+ISO-8859-4
+8859-3
+iso88593
+ISO8859-3
+ISO-8859-3
+8859-2
+iso88592
+ISO8859-2
+ISO-8859-2
+iso_8859_1
+8859-1
+iso88591
+ISO8859-1
+ISO-8859-1
+GB-2312
+SHIFT-JIS
+BIG5
+US-ASCII
+Extended Unix Codepage for Japanese (EUC-JP)
+Unicode 32 bit (UTF-32)
+Unicode 32 bit Big Endian (UTF-32BE)
+Unicode 16 bit (UTF-16)
+Unicode 16 bit Big Endian (UTF-16BE)
+Unicode 8 bit (UTF-8)
+Unicode 7 bit (UTF-7)
+Windows/DOS OEM (CP 437)
+Windows Baltic (CP 1257)
+Windows Arabic (CP 1256)
+Windows Hebrew (CP 1255)
+Windows Turkish (CP 1254)
+Windows Greek (CP 1253)
+Windows Western European (CP 1252)
+Windows Cyrillic (CP 1251)
+Windows Central European (CP 1250)
+Windows Chinese Traditional (CP 950)
+Windows Korean (CP 949)
+Windows Chinese Simplified (CP 936)
+Windows Japanese (CP 932)
+Windows Thai (CP 874)
+KOI8-U
+KOI8-R
+Western European with Euro (ISO-8859-15)
+Celtic (ISO-8859-14)
+Baltic (ISO-8859-13)
+Indian (ISO-8859-12)
+Thai (ISO-8859-11)
+Nordic (ISO-8859-10)
+Turkish (ISO-8859-9)
+Hebrew (ISO-8859-8)
+Greek (ISO-8859-7)
+Arabic (ISO-8859-6)
+Cyrillic (ISO-8859-5)
+Baltic (old) (ISO-8859-4)
+Esperanto (ISO-8859-3)
+Central European (ISO-8859-2)
+Western European (ISO-8859-1)
+/wxWindows/FontMapper
+Unknown encoding (%d)
+Default encoding
+unknown-%d
+default
+WINDOWS
+8859
+8859-%u
+Aliases
+corrupted config data: invalid encoding %ld for charset '%s' ignored
+wxFontMapperModule
+'%s' has extra '..', ignored.
+ &   ! 
+ &   ! 
+ 0 	
+ &   ! 
+ &   ! 
+ &   ! 
+ &   ! 
+ &   ! 
+ &   ! 
+%$%,%4%<%
+"H"d"e"
+P%Q%R%Q
+S%T%U%V%W%X%Y%Z%[%\%]%^%_%`%a%
+b%c%d%e%f%g%h%i%j%k%l%
+%$%,%4%<%
+"H"d"e"
+P%Q%R%Q
+W%X%Y%Z%[%
+]%^%_%`%a%
+f%g%h%i%j%
+can't close file '%s'
+Read error on file '%s'
+Write error on file '%s'
+failed to flush the file '%s'
+Seek error on file '%s'
+Seek error on file '%s' (large files not supported by stdio)
+Can't find current position in file '%s'
+TEMP
+TMPDIR
+GetLongPathNameA
+Failed to open temporary file.
+Failed to create a temporary file name
+The path '%s' contains too many ".."!
+wxWidgets
+        
+Unknown DDE error %08x
+an invalid transaction identifier was passed to a DDEML function.
+Once the application has returned from an XTYP_XACT_COMPLETE callback,
+the transaction identifier for that callback is no longer valid.
+a request to end an advise transaction has timed out.
+an internal error has occurred in the DDEML.
+a server-side transaction was attempted on a conversation
+that was terminated by the client, or the server
+terminated before completing a transaction.
+reentrancy problem.
+an internal call to the PostMessage function has failed. 
+a request for a synchronous poke transaction has timed out.
+a transaction failed.
+a client's attempt to establish a conversation has failed.
+a memory allocation failed.
+a DDEML application has created a prolonged race condition.
+a parameter failed to be validated by the DDEML.
+a request for a synchronous execute transaction has timed out.
+an application initialized as APPCLASS_MONITOR has
+attempted to perform a DDE transaction,
+or an application initialized as APPCMD_CLIENTONLY has 
+attempted to perform server transactions.
+a DDEML function was called without first calling the DdeInitialize function,
+or an invalid instance identifier
+was passed to a DDEML function.
+a request for a synchronous data transaction has timed out.
+the response to the transaction caused the DDE_FBUSY bit to be set.
+a request for a synchronous advise transaction has timed out.
+no DDE error.
+Failed to initialize DDE
+Failed to disconnect from DDE server gracefully
+DDE execute request failed
+Failed to create DDE string
+Failed to register DDE server '%s'
+Failed to unregister DDE server '%s'
+Failed to create connection to server '%s' on topic '%s'
+DDE data request failed
+DDE poke request failed
+Failed to establish an advise loop with DDE server
+Failed to terminate the advise loop with DDE server
+Failed to send DDE advise notification
+wxDDEServer
+wxDDEClient
+wxDDEConnection
+wxDDEModule
+wxProcess
+wxProcessEvent
+HKDD
+HKEY_DYN_DATA
+HKCC
+HKEY_CURRENT_CONFIG
+HKPD
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+HKLM
+HKEY_LOCAL_MACHINE
+HKCU
+HKEY_CURRENT_USER
+HKCR
+HKEY_CLASSES_ROOT
+Can't close registry key '%s'
+Can't open registry key '%s'
+Can't read value of '%s'
+0123456789abcdef
+file
+wxURI
+Initialization failed in post init, aborting.
+SHGetSpecialFolderPath
+SHGetFolderPath
+stdpaths
+Failed to load %s.dll
+shell32
+.ini
+Error saving user configuration data.
+        tail: %s
+        head: %s
+fileconf
+    ** Adding Line '%s'
+    ** Inserting Line '%s' after '%s'
+entry '%s' appears more than once in group '%s'
+unexpected " at position %d in '%s'.
+@_/-!.*%
+Failed to update user configuration file.
+can't write user configuration file.
+can't open user configuration file.
+    checking parent '%s'
+    Getting Line item pointer
+  GetGroupLine() for Group '%s'
+  GetLastEntryLine() for Group '%s'
+[%s]
+attempt to change immutable key '%s' ignored.
+file '%s', line %d: key '%s' was first found at line %d.
+file '%s', line %d: value for immutable key '%s' ignored.
+file '%s', line %d: '=' expected.
+file '%s', line %d: '%s' ignored after group header.
+file '%s': unexpected character %c at line %d.
+  Setting value %s
+  Adding Entry %s
+Config entry name cannot start with '%c'.
+  Creating group %s
+  Writing String '%s' = '%s' to Group '%s'
+    ** Removing Line '%s'
+  No line entry for Group '%s'?
+  Removing last group
+  Removing from group '%s' : '%s'
+  Removing line for group '%s' : '%s'
+Removing %lu subgroups
+    '%s'
+Removing %lu entries
+  text: '%s'
+  (m_pLine) = prev: %p, this %p, next %p
+Deleting group '%s' from '%s'
+can't open user configuration file '%s'.
+can't open global configuration file '%s'.
+can't delete user configuration file '%s'
+wxServerBase
+wxClientBase
+wxConnectionBase
+can't write buffer '%s' to disk.
+1.2.7
+IHDR
+IDAT
+IEND
+PLTE
+bKGD
+cHRM
+gAMA
+hIST
+iCCP
+iTXt
+oFFs
+pCAL
+sCAL
+pHYs
+sBIT
+sPLT
+sRGB
+tEXt
+tIME
+tRNS
+zTXt
+Potential overflow in png_zalloc()
+MNG features are not allowed in a PNG datastream
+Unable to write international text
+Valid palette required for paletted images
+No IDATs written into file
+png_write_info was never called before png_write_row.
+zlib error
+p@Unknown filter heuristic method
+Incompatible libpng version in application and library
+Application  is  running with png.c from libpng-%.20s
+Application was compiled with png.h from libpng-%.20s
+Ignoring attempt to set negative chromaticity value
+Ignoring attempt to set chromaticity value exceeding 21474.83
+ASetting gamma=0
+Limiting gamma to 21474.83
+Setting negative gamma to zero
+Insufficient memory for hIST chunk data.
+Palette size 0, hIST allocation skipped.
+Invalid filter method in IHDR
+Unknown filter method in IHDR
+Unknown compression method in IHDR
+Unknown interlace method in IHDR
+Invalid color type/bit depth combination in IHDR
+Invalid color type in IHDR
+Invalid bit depth in IHDR
+Width is too large for libpng to process pixels
+Invalid image size in IHDR
+image size exceeds user limits in IHDR
+Image width or height is zero in IHDR
+Insufficient memory for pCAL parameter.
+Insufficient memory for pCAL params.
+Insufficient memory for pCAL units.
+Insufficient memory for pCAL purpose.
+?Insufficient memory to process iCCP profile.
+Insufficient memory to process iCCP chunk.
+iTXt chunk not supported.
+No memory for sPLT palettes.
+Out of memory processing unknown chunk.
+Out of memory while processing unknown chunk.
+Call to NULL write function
+Write Error
+the same structure.  Resetting read_data_fn to NULL.
+Attempted to set both read_data_fn and write_data_fn in
+Unknown zlib error
+zlib version error
+zlib memory error
+1.2.3
+Missing PLTE before IDAT
+Missing IHDR before IDAT
+PNG file corrupted by ASCII conversion
+Not a PNG file
+Extra compressed data
+Decompression error
+Not enough image data
+Invalid attempt to read row data
+Too many IDAT's found
+Width too large for libpng to process image data.
+Invalid image height
+Invalid image width
+Invalid color type
+Invalid bit depth
+>png_do_dither returned rowbytes=0
+png_do_rgb_to_gray found nongray pixel
+NULL row buffer for row %ld, pass %d
+Call to NULL read function
+Read Error
+same structure.  Resetting write_data_fn to NULL.
+It's an error to set both read_data_fn and write_data_fn in the 
+0123456789ABCDEFlibpng error: %s
+libpng error: %s, offset=%d
+libpng error no. %s: %s
+libpng warning: %s
+libpng warning no. %s: %s
+Out of Memory!
+Unknown compression type %d
+Ignoring request to write a PLTE chunk in grayscale PNG
+Invalid number of colors in palette
+Invalid number of histogram entries specified
+zero length keyword
+keyword length must be 1 - 79 characters
+Zero length keyword
+extra interior spaces removed from keyword
+leading spaces removed from keyword
+trailing spaces removed from keyword
+invalid keyword character 0x%02X
+Out of memory while procesing keyword
+Empty keyword in tEXt chunk
+Empty keyword in zTXt chunk
+Unrecognized equation type for pCAL chunk
+%12.12e
+Invalid interlace type specified
+Invalid filter type specified
+Invalid compression type specified
+Invalid image color type specified
+Invalid bit depth for RGBA image
+Invalid bit depth for grayscale+alpha image
+Invalid bit depth for paletted image
+Invalid bit depth for RGB image
+Invalid bit depth for grayscale image
+Invalid zlib compression method or flags in IDAT
+Invalid sRGB rendering intent specified
+Empty keyword in iCCP chunk
+Unknown compression type in iCCP chunk
+Empty keyword in sPLT chunk
+Invalid sBIT depth specified
+white_x=%f, white_y=%f
+Invalid cHRM white point specified
+Invalid cHRM red point specified
+Invalid cHRM green point specified
+Invalid cHRM blue point specified
+?Can't write tRNS with an alpha channel
+Ignoring attempt to write 16-bit tRNS chunk when bit_depth is 8
+Ignoring attempt to write tRNS chunk out-of-range for bit_depth
+Invalid number of transparent colors specified
+Ignoring attempt to write bKGD chunk out-of-range for bit_depth
+Ignoring attempt to write 16-bit bKGD chunk when bit_depth is 8
+Invalid background palette index
+Unrecognized unit type for oFFs chunk
+Unrecognized unit type for pHYs chunk
+Invalid time specified for tIME chunk
+Unknown zTXt compression type %d
+Not enough memory for text.
+Incomplete compressed datastream in %s chunk
+Data error in compressed datastream in %s chunk
+Buffer error in compressed datastream in %s chunk
+Not enough memory to decompress chunk
+Not enough memory to decompress chunk..
+Not enough memory to decompress chunk.
+invalid chunk type
+Ignoring bad adaptive filter type
+Row has too many bytes to allocate in memory.
+PNG unsigned integer out of range.
+CRC error
+Invalid IHDR chunk
+Out of place IHDR
+Truncating incorrect info tRNS chunk length
+Truncating incorrect tRNS chunk length
+Invalid palette chunk
+Ignoring PLTE chunk in grayscale PNG
+Duplicate PLTE chunk
+Invalid PLTE after IDAT
+Missing IHDR before PLTE
+Incorrect IEND chunk length
+No image in file
+gamma = (%d/100000)
+Ignoring incorrect gAMA value when sRGB is also present
+Ignoring gAMA chunk with gamma=0
+Incorrect gAMA chunk length
+Duplicate gAMA chunk
+Out of place gAMA chunk
+Invalid gAMA after IDAT
+Missing IHDR before gAMA
+Incorrect sBIT chunk length
+Duplicate sBIT chunk
+Out of place sBIT chunk
+Invalid sBIT after IDAT
+Missing IHDR before sBIT
+Invalid cHRM white point
+Invalid cHRM red point
+Invalid cHRM green point
+Invalid cHRM blue point
+gx=%f, gy=%f, bx=%f, by=%f
+wx=%f, wy=%f, rx=%f, ry=%f
+Ignoring incorrect cHRM value when sRGB is also present
+Incorrect cHRM chunk length
+Duplicate cHRM chunk
+Missing PLTE before cHRM
+Invalid cHRM after IDAT
+Missing IHDR before cHRM
+incorrect gamma=(%d/100000)
+Unknown sRGB intent
+Incorrect sRGB chunk length
+Duplicate sRGB chunk
+Out of place sRGB chunk
+Invalid sRGB after IDAT
+Missing IHDR before sRGB
+Profile size field missing from iCCP chunk
+Ignoring truncated iCCP profile.
+Ignoring nonzero compression type in iCCP chunk
+Malformed iCCP chunk
+Duplicate iCCP chunk
+Out of place iCCP chunk
+Invalid iCCP after IDAT
+Missing IHDR before iCCP
+sPLT chunk requires too much memory
+sPLT chunk too long
+sPLT chunk has bad length
+malformed sPLT chunk
+Invalid sPLT after IDAT
+Missing IHDR before sPLT
+tRNS chunk not allowed with alpha channel
+Zero length tRNS chunk
+Missing PLTE before tRNS
+Duplicate tRNS chunk
+Invalid tRNS after IDAT
+Incorrect tRNS chunk length
+Missing IHDR before tRNS
+Incorrect bKGD chunk index value
+Incorrect bKGD chunk length
+Duplicate bKGD chunk
+Missing PLTE before bKGD
+Invalid bKGD after IDAT
+Missing IHDR before bKGD
+Incorrect hIST chunk length
+Duplicate hIST chunk
+Missing PLTE before hIST
+Invalid hIST after IDAT
+Missing IHDR before hIST
+Duplicate pHYs chunk
+Invalid pHYs after IDAT
+Incorrect pHYs chunk length
+Missing IHDR before pHYs
+Duplicate oFFs chunk
+Invalid oFFs after IDAT
+Incorrect oFFs chunk length
+Missing IHDR before oFFs
+No memory for pCAL params.
+Invalid pCAL parameters for equation type
+Invalid pCAL data
+Duplicate pCAL chunk
+Invalid pCAL after IDAT
+No memory for pCAL purpose.
+Missing IHDR before pCAL
+Invalid sCAL data
+malformed height string in sCAL chunk
+malformed width string in sCAL chunk
+Duplicate sCAL chunk
+Invalid sCAL after IDAT
+Out of memory while processing sCAL chunk
+Missing IHDR before sCAL
+Duplicate tIME chunk
+Incorrect tIME chunk length
+Out of place tIME chunk
+Insufficient memory to process text chunk.
+Not enough memory to process text chunk.
+No memory to process text chunk.
+Missing IHDR before tEXt
+Insufficient memory to store zTXt chunk.
+Not enough memory to process zTXt chunk.
+Unknown compression type in zTXt chunk
+Zero length zTXt chunk
+Out of memory processing zTXt chunk.
+Missing IHDR before zTXt
+unknown critical chunk
+Extra compression data
+Extra compressed data.
+Decompression Error
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+Z* ,	
+H$6t
+52F*
+	#jT$
+^6o}
+[-&LMb#{'
+w+OQvr
+R1h58
+SKyu
+)\ZEo^m/
+ru&o
+i8P/
+?(3w
+H*0"ZOW
+{kHw
+)T`D
+!AxU
+l!;b	F
+:1X:
+y9*O
+kM`~
+Vc0a
+dQy/
+lDa>
+7~8A
+C-Yn
+gqr<
+$/o|
+f-=v
+mj>zjZ
+l6qnk
+IiGM>nw
+1A26b
+i91k
+ewh/?y
+*5KS
+6~_'
+F*.f
+1wsHp
+M8MF
+Pe6^
+#bML"
+`F(>
+vQO+t
+[h1R
+XsBI
+hPU3
+^oEZ_
+2%k_
+w3Xc
+/P8i
+OZw3(?
+Z"0*
+fP~V
+^GP~
+b;!l
+V_:X1:
+NJ2"v
+O*9y]
+fu`z
+/yQA
+&]|v
+incorrect length check
+incorrect data check
+invalid distance too far back
+invalid distance code
+invalid literal/length code
+invalid distances set
+invalid bit length repeat
+invalid literal/lengths set
+too many length or distance symbols
+invalid code lengths set
+invalid stored block lengths
+invalid block type
+header crc mismatch
+unknown header flags set
+incorrect header check
+invalid window size
+unknown compression method
+ deflate 1.2.3 Copyright 1995-2005 Jean-loup Gailly 
+1.2.3
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+ inflate 1.2.3 Copyright 1995-2005 Mark Adler 
+								
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+FxoR
+PNG file
+image/png
+your program
+2.8 (no debug,ANSI,Visual C++,wx containers,compatible with 2.6)
++connect_lobby
+Awesomenauts.exe
+Awesomenauts.exe 
+AwesomenautsSteam.exe 
+invalid string position
+string too long
+Awesomenauts.ico
+%d%s%d
+bad cast
+close
+resolutionChoice
+screenMode
+vSync
+graphicsQualityHigh
+graphicsQualityLow
+screenModeFullScreen
+screenModeWindowed
+screenModeBorderless
+renderApiOpenGL
+renderApiDirectX
+saveAndPlay
+saveAndExit
+vector<T> too long
+MEDIUM
+HIGH
+ERROR in toBackgroundsQuality: unrecognised name "
+DIRECTX
+OPENGL
+ERROR in toString: unrecognised RenderApi
+UNKNOWN_RENDERAPI
+WARNING - toRenderApi: unrecognised name "
+ERROR in toTextureQuality: unrecognised name "
+InputManager constructor starts
+InputManager constructor ends
+InputManager destructor starts
+InputManager destructor ends
+InputManager::scheduleQuit()
+BACK
+LEFT
+RIGHT
+DOWN
+JoystickManager constructor starts
+JoystickManager constructor ends
+JoystickManager destructor starts
+JoystickManager destructor ends
+ERROR: JoystickManager::addJoystick found a previousDeviceTypeIdentifiersForNullSlot that is out of range
+ERROR: JoystickManager::addJoystick found a previousDeviceTypeIdentifiersForNullSlot that is not NULL
+ERROR: deleteJoystick called for a joystick slot that is already set to NULL
+ERROR: deleteJoystickAndMakeNull was called with an index that is out of range
+invalid map/set<T> iterator
+map/set<T> too long
+GetDeviceState 
+Successfully acquired joystick
+ERROR: DIERR_INVALIDPARAM
+ERROR: DIERR_NOTINITIALIZED
+Got DIERR_UNPLUGGED
+ERROR: 
+ while acquiring DirectInput Joystick
+ERROR: JoystickPCDirectInput::getButtonIndex called with an unrecognised JoystickButton:
+Xbox360_
+Xbox 360 controller
+Xbox360Controller
+got this error code from XInputGetState:
+ERROR: XInput joystick
+Xbox 360 controller disconnected
+Xbox 360 controller connected
+XBOX
+XInput joystick (by name):
+XInput joystick (by dwVidPid):
+K.$windowed
+borderless
+exclusive
+unknown
+WARNING - toWindowMode: unrecognised name "
+multiThreadOff
+WARNING - Failed to open
+[Config]
+fullscreen
+high
+opengl
+vsyncoff
+WARNING - Ill-formatted launcher config line:
+Input:
+version
+WARNING - Unrecognized version:
+resolutionx
+resolutiony
+windowmode
+texturequality
+backgroundquality
+vsync
+advancedEffects
+sharpen
+multithreading
+supersampling
+skipstartupintro
+savedbysuccessfulgamerun
+renderapi
+WARNING - Unrecognized key
+[Config] Going to write...
+#################################################
+### Awesomenauts Launch & Local Configuration ###
+# Versions of Awesomenauts before 3.1.4 will
+# only use the legacy values listed above.
+# Newer versions will only use the values listed below.
+# If you're experiencing problems, please visit our Tech Support forum:
+#  https://www.awesomenauts.com/forum/viewforum.php?f=13
+# The version of the format used in this file.
+version = 2
+# Screen resolution:
+resolutionX = 
+resolutionY = 
+# Window mode:
+## windowed:   Window with border, controls, etc.
+## borderless: Fullscreen borderless window.
+## exclusive:  Exclusive fullscreen mode (has issues, use only if required).
+windowMode = 
+# Texture quality: low, high
+textureQuality = 
+# VSync: off, on
+vSync = 
+# Rendering API: directx, opengl
+renderApi = 
+# Background quality: low, medium, high
+backgroundQuality = 
+# Advanced effects: off, on
+advancedEffects = 
+# Sharpen: off, on
+sharpen = 
+# Multithreading:
+## off: Less input lag
+## on:  Higher frame rate
+multithreading = 
+# Texture supersampling: off, on
+supersampling = 
+# Skip Intro on startup: off, on
+skipStartupIntro = 
+# If this is "on" then the launcher is skipped
+savedBySuccessfulGameRun = off
+# Written on 
+Launcher.
+# by 
+[Config] ...to:
+WARNING - Failed to open for writing
+WARNING - Unrecognized input:
+Config.txt
+Borderless
+Fullscreen
+Windowed
+textureQuality:
+yRes:
+[Config] xRes:
+advancedEffects: 
+vSyncEnabled:
+[Config] windowMode:
+[Config] renderApi:
+backgroundQuality
+savedBySuccessfulGameRun:
+skipStartupIntro:
+supersampling:
+[Config] sharpen:
+.log
+Application
+Logger
+%Y-%m-%d %a %H:%M:%S
+Other
+Count
+PCInputManager constructor starts
+PCInputManager constructor ends
+PCInputManager destructor starts
+PCInputManager destructor ends
+WARNING: PCInputManager trying to activateBestCandidateControllerIfNoPrimaryController
+WARNING: PCInputManager trying to activateFirstUnmappedController
+WARNING: PCInputManager trying to activateController
+WARNING: PCInputManager trying to activateControllerWhenWasPressed
+WARNING: PCInputManager trying to deactivateController
+WARNING: PCInputManager trying to deactivateAllControllers
+WARNING: PCInputManager trying to deactivateAllControllersButPrimary
+PCJoystickManager constructor starts
+PCJoystickManager constructor ends
+PCJoystickManager destructor starts
+PCJoystickManager destructor ends
+Successfully called
+DIERR_ACQUIRED
+DIERR_BETADIRECTINPUTVERSION
+DIERR_DEVICENOTREG
+DIERR_INPUTLOST
+DIERR_INVALIDPARAM
+DIERR_NOTACQUIRED
+DIERR_NOINTERFACE
+DIERR_NOTINITIALIZED
+DIERR_OLDDIRECTINPUTVERSION
+DIERR_OUTOFMEMORY
+E_HANDLE
+E_PENDING
+E_POINTER
+unknown code: 
+ with error 
+ERROR: failed at 
+EnumDevices
+Joystick disconnected:
+DirectInput8Create
+DirectInput8 reported a new device
+  tszInstanceName:
+  tszProductName:
+  guidInstance:
+  guidProduct:
+  guidFFDriver:
+ wUsagePage:
+ wUsage:
+  dwDevType:
+CreateDevice
+SetDataFormat
+GetCapabilities
+ POVs:
+ Axes:
+  Buttons:
+ ForceFeedback:
+ Flags:
+ HardwareRevision:
+ FirmwareRevision:
+  DriverVersion:
+ StartDelay:
+ Saturation:
+ PosNegSatu:
+ PosNegCoefs:
+ Attack:
+  Fade:
+ERROR: getInsertionIndexForNewJoystick returned a different index than addJoystick
+Awesomenauts Launcher
+Save and Play
+Save and Exit
+Resolution:
+Mode:
+OpenGL
+DirectX (recommended)
+Texture quality:
+High
+Screen mode:
+Full screen
+Borderless window (recommended)
+VSync
+ &   ! 
+MbP?
+RSDSA
+F:\SVNSeparateFolders\AwesomenautsSteam\Code\PlatformerNewMatchmaking\release result\AwesomenautsLauncher.pdb
+ImageList_GetIconSize
+ImageList_Draw
+ImageList_GetImageCount
+ImageList_Create
+ImageList_Destroy
+ImageList_ReplaceIcon
+ImageList_Add
+ImageList_EndDrag
+ImageList_DragMove
+ImageList_DragEnter
+ImageList_DragLeave
+ImageList_SetDragCursorImage
+ImageList_BeginDrag
+COMCTL32.dll
+SDL_Quit
+SDL_PollEvent
+SDL_EnableUNICODE
+SDL_EventState
+SDL_GetKeyRepeat
+SDL_EnableKeyRepeat
+SDL_Init
+SDL_ListModes
+SDL.dll
+XINPUT1_3.dll
+DirectInput8Create
+DINPUT8.dll
+pthread_mutex_init
+pthread_mutex_destroy
+pthread_mutexattr_settype
+pthread_mutexattr_init
+pthread_mutex_unlock
+pthread_mutex_lock
+pthreadVSE2.dll
+GetFileAttributesA
+GetModuleHandleA
+GetProcAddress
+QueryPerformanceCounter
+Sleep
+GetVersionExA
+SetErrorMode
+GetCommandLineA
+SetLastError
+MultiByteToWideChar
+GetCurrentThreadId
+DeleteCriticalSection
+FreeLibrary
+LeaveCriticalSection
+EnterCriticalSection
+LoadLibraryA
+InitializeCriticalSection
+LocalFree
+LocalAlloc
+GlobalLock
+GlobalUnlock
+GlobalAlloc
+WideCharToMultiByte
+GetLastError
+GlobalFree
+CloseHandle
+ReadFile
+WriteFile
+CreatePipe
+PeekNamedPipe
+SetNamedPipeHandleState
+GetExitCodeProcess
+WaitForSingleObject
+ResumeThread
+CreateThread
+CreateProcessA
+DuplicateHandle
+GetCurrentProcess
+GetFileType
+CopyFileA
+SetCurrentDirectoryA
+GetWindowsDirectoryA
+CreateFileA
+GetModuleFileNameA
+FormatMessageA
+GetACP
+GetUserDefaultLCID
+GetLocaleInfoA
+ExitProcess
+GetCurrentProcessId
+GetTempPathA
+TlsFree
+TlsSetValue
+TlsAlloc
+GetEnvironmentVariableA
+GetCPInfo
+IsValidCodePage
+TerminateProcess
+GetThreadLocale
+FindClose
+FindFirstFileA
+GetTempFileNameA
+GetStdHandle
+OutputDebugStringA
+ExpandEnvironmentStringsA
+KERNEL32.dll
+GetKeyState
+MessageBoxA
+RegisterClassA
+LoadCursorA
+UnregisterClassA
+PostMessageA
+PeekMessageA
+GetDC
+ReleaseDC
+GetIconInfo
+CreateIconIndirect
+GetWindowRect
+GetSystemMetrics
+CreateWindowExA
+GetSysColor
+SendMessageA
+PostQuitMessage
+TranslateMessage
+DispatchMessageA
+VkKeyScanA
+GetAsyncKeyState
+GetClientRect
+FillRect
+GetWindowLongA
+SetWindowLongA
+SetWindowPos
+SetFocus
+EnableWindow
+ShowWindow
+SetCapture
+ReleaseCapture
+SetCursorPos
+GetScrollInfo
+SetScrollInfo
+ScrollWindow
+GetParent
+WindowFromPoint
+GetCursorPos
+SetParent
+RedrawWindow
+UpdateWindow
+ScreenToClient
+ClientToScreen
+MoveWindow
+DeferWindowPos
+DefWindowProcA
+CallWindowProcA
+IsWindowVisible
+IsWindowEnabled
+GetFocus
+SetWindowTextA
+InvalidateRect
+EndDeferWindowPos
+BeginDeferWindowPos
+GetWindow
+GetMessageTime
+SystemParametersInfoA
+GetMenuItemInfoA
+GetMenuItemCount
+GetActiveWindow
+CallNextHookEx
+RegisterHotKey
+UnregisterHotKey
+UnhookWindowsHookEx
+DestroyWindow
+GetCapture
+SetCursor
+PtInRect
+IsWindow
+TrackPopupMenu
+IsDialogMessageA
+SetWindowsHookExA
+GetUpdateRgn
+InflateRect
+CreateDialogParamA
+GetDlgItem
+LoadIconA
+LoadBitmapA
+DestroyIcon
+LoadImageA
+DrawTextA
+CopyRect
+DrawFocusRect
+OffsetRect
+BringWindowToTop
+IsZoomed
+IsIconic
+GetDesktopWindow
+DrawMenuBar
+EnableMenuItem
+GetSystemMenu
+AdjustWindowRectEx
+SetWindowRgn
+FlashWindow
+CreateDialogIndirectParamA
+SetForegroundWindow
+SetMenu
+EndPaint
+DrawIcon
+BeginPaint
+GetUpdateRect
+KillTimer
+SetTimer
+GetMessageA
+ValidateRect
+GetClassNameA
+GetWindowTextA
+GetWindowTextLengthA
+DrawFrameControl
+DrawIconEx
+DestroyCursor
+MapWindowPoints
+GetMessagePos
+DestroyAcceleratorTable
+CreateAcceleratorTableA
+TranslateAcceleratorA
+GetWindowDC
+keybd_event
+CloseClipboard
+IsClipboardFormatAvailable
+OpenClipboard
+HideCaret
+GetMenuState
+CheckMenuItem
+CheckMenuRadioItem
+ModifyMenuA
+UnionRect
+SetMenuItemInfoA
+CreatePopupMenu
+DestroyMenu
+RemoveMenu
+InsertMenuA
+AppendMenuA
+CreateMenu
+GetSubMenu
+InsertMenuItemA
+ChildWindowFromPoint
+DefFrameProcA
+TranslateMDISysAccel
+DefMDIChildProcA
+GetMenuStringA
+GetForegroundWindow
+ShowCursor
+DrawEdge
+DrawStateA
+RegisterClipboardFormatA
+SetClipboardData
+ChangeDisplaySettingsA
+EnumDisplaySettingsA
+WaitForInputIdle
+PostThreadMessageA
+MessageBeep
+DdeFreeStringHandle
+DdeQueryStringA
+DdeUninitialize
+DdeFreeDataHandle
+DdeGetData
+DdeCreateDataHandle
+DdeGetLastError
+DdeInitializeA
+DdeDisconnect
+DdeClientTransaction
+DdeCreateStringHandleA
+DdeNameService
+DdeConnect
+DdePostAdvise
+USER32.dll
+GetObjectA
+GetPaletteEntries
+CreateCompatibleDC
+DeleteDC
+SelectObject
+DeleteObject
+BitBlt
+CreateCompatibleBitmap
+CreateBitmap
+SetBkColor
+SetTextColor
+SetBkMode
+GetTextMetricsA
+GdiFlush
+RealizePalette
+SelectPalette
+GetTextExtentPoint32A
+CreateRectRgn
+ExcludeClipRect
+CreateFontIndirectA
+GetDeviceCaps
+CreatePen
+CreateSolidBrush
+CreateHatchBrush
+CreatePatternBrush
+GetStockObject
+PatBlt
+OffsetRgn
+ExtCreateRegion
+GetRegionData
+LineTo
+MoveToEx
+SetStretchBltMode
+GetClipBox
+ExtSelectClipRgn
+ExtFloodFill
+GetPixel
+SetPixel
+Polyline
+PolyBezier
+TextOutA
+SetROP2
+GetCharABCWidthsA
+GetTextExtentExPointA
+SetWindowOrgEx
+SetViewportOrgEx
+SetWindowExtEx
+SetViewportExtEx
+SetMapMode
+GetBkColor
+GetTextColor
+SelectClipRgn
+Polygon
+SetPolyFillMode
+PolyPolygon
+Rectangle
+RoundRect
+Ellipse
+SetBrushOrgEx
+MaskBlt
+StretchBlt
+StretchDIBits
+GetNearestPaletteIndex
+CreatePalette
+CreateDIBSection
+GetDIBits
+CreateDIBitmap
+GetDIBColorTable
+ExtCreatePen
+GetRgnBox
+EqualRgn
+PtInRegion
+RectInRegion
+CombineRgn
+RestoreDC
+SaveDC
+CreateRectRgnIndirect
+SetTextAlign
+CreateICA
+GetSystemPaletteEntries
+EnumFontFamiliesExA
+GetEnhMetaFileA
+CopyEnhMetaFileA
+DeleteEnhMetaFile
+SetAbortProc
+EndDoc
+StartPage
+EndPage
+StartDocA
+CreateDCA
+GDI32.dll
+ChooseColorA
+ChooseFontA
+CommDlgExtendedError
+GetOpenFileNameA
+GetSaveFileNameA
+PrintDlgA
+PageSetupDlgA
+COMDLG32.dll
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+ADVAPI32.dll
+DragAcceptFiles
+DragQueryPoint
+DragFinish
+DragQueryFileA
+ExtractIconA
+ExtractIconExA
+ShellExecuteExA
+SHGetMalloc
+SHGetPathFromIDListA
+SHGetSpecialFolderLocation
+SHELL32.dll
+CoCreateInstance
+CoSetProxyBlanket
+CoUninitialize
+CoInitialize
+StringFromCLSID
+CoTaskMemFree
+OleUninitialize
+OleInitialize
+RegisterDragDrop
+CoLockObjectExternal
+RevokeDragDrop
+OleSetClipboard
+OleIsCurrentClipboard
+OleFlushClipboard
+ReleaseStgMedium
+OleGetClipboard
+ole32.dll
+OLEAUT32.dll
+??_7?$basic_ostream@DU?$char_traits@D@std@@@std@@6B@
+?_BADOFF@std@@3_JB
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+?uncaught_exception@std@@YA_NXZ
+??_7?$basic_istream@DU?$char_traits@D@std@@@std@@6B@
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ
+?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UAE@XZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ
+?id@?$ctype@_W@std@@2V0locale@2@A
+??1_Lockit@std@@QAE@XZ
+??0_Lockit@std@@QAE@H@Z
+?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ
+?_Osfx@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QAEXXZ
+??0?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAE@XZ
+??0?$basic_iostream@_WU?$char_traits@_W@std@@@std@@QAE@PAV?$basic_streambuf@_WU?$char_traits@_W@std@@@1@@Z
+??0?$basic_ios@_WU?$char_traits@_W@std@@@std@@IAE@XZ
+?_Pninc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEPA_WXZ
+?setp@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXPA_W0@Z
+?setg@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IAEXPA_W00@Z
+?sputc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@QAEG_W@Z
+??1?$basic_iostream@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+?flush@?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QAEAAV12@XZ
+??6?$basic_ostream@_WU?$char_traits@_W@std@@@std@@QAEAAV01@H@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z
+?setstate@?$basic_ios@_WU?$char_traits@_W@std@@@std@@QAEXH_N@Z
+??1?$basic_ios@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+?imbue@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEXABVlocale@2@@Z
+?sync@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEHXZ
+?setbuf@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEPAV12@PA_W_J@Z
+?xsputn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JPB_W_J@Z
+?xsgetn@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JPA_W_J@Z
+?uflow@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAEGXZ
+?showmanyc@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@MAE_JXZ
+?_Unlock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAEXXZ
+?_Lock@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAEXXZ
+??1?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@UAE@XZ
+?getloc@ios_base@std@@QBE?AVlocale@2@XZ
+?_Getcat@?$ctype@_W@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?widen@?$ctype@_W@std@@QBE_WD@Z
+?_Decref@facet@locale@std@@QAEPAV123@XZ
+?_Incref@facet@locale@std@@QAEXXZ
+??Bid@locale@std@@QAEIXZ
+?_Orphan_all@_Container_base0@std@@QAEXXZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@I@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@J@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@K@Z
+?_Fiopen@std@@YAPAU_iobuf@@PBDHH@Z
+?id@?$codecvt@DDH@std@@2V0locale@2@A
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAH@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@_N@Z
+?_Getcat@?$codecvt@DDH@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDD@Z
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXXZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QBE?AVlocale@2@XZ
+?unshift@?$codecvt@DDH@std@@QBEHAAHPAD1AAPAD@Z
+?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE_N_N@Z
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ
+?out@?$codecvt@DDH@std@@QBEHAAHPBD1AAPBDPAD3AAPAD@Z
+?in@?$codecvt@DDH@std@@QBEHAAHPBD1AAPBDPAD3AAPAD@Z
+?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ
+?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ
+?always_noconv@codecvt_base@std@@QBE_NXZ
+?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?write@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@PBD_J@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@G@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z
+?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z
+MSVCP100.dll
+?what@exception@std@@UBEPBDXZ
+??1exception@std@@UAE@XZ
+??0exception@std@@QAE@ABQBD@Z
+??0exception@std@@QAE@ABV01@@Z
+memmove
+free
+??_V@YAXPAX@Z
+_purecall
+??3@YAXPAX@Z
+??2@YAPAXI@Z
+??1bad_cast@std@@UAE@XZ
+??0bad_cast@std@@QAE@PBD@Z
+??0bad_cast@std@@QAE@ABV01@@Z
+sscanf
+memchr
+wcsstr
+swscanf_s
+fputc
+_unlock_file
+ungetc
+fgetpos
+_fseeki64
+fflush
+fgetc
+fsetpos
+setvbuf
+_lock_file
+memcpy_s
+_ctime64_s
+fwrite
+fclose
+_time64
+_localtime64_s
+strftime
+__CxxFrameHandler3
+memset
+_CxxThrowException
+_strdup
+calloc
+longjmp
+malloc
+_setjmp3
+__CxxLongjmpUnwind
+memcpy
+atoi
+_CIsin
+_CIcos
+strncpy
+toupper
+strchr
+strncmp
+_CIsqrt
+_wassert
+strstr
+isspace
+tolower
+_strnicmp
+atol
+isalnum
+sprintf
+isalpha
+isdigit
+qsort
+_errno
+realloc
+strtol
+strtoul
+strtod
+_vsprintf_p
+exit
+_get_osfhandle
+_fileno
+getenv
+remove
+_getcwd
+rename
+abort
+__iob_func
+fputs
+_stricmp
+setlocale
+?_set_se_translator@@YAP6AXIPAU_EXCEPTION_POINTERS@@@ZP6AXI0@Z@Z
+feof
+ferror
+_ftime64
+_mktime64
+_close
+_read
+_write
+_lseeki64
+_telli64
+?_open@@YAHPBDHH@Z
+_gmtime64
+_localtime64
+bsearch
+fopen
+fread
+fseek
+ftell
+clearerr
+_open_osfhandle
+_fdopen
+fprintf
+atof
+_CIpow
+MSVCR100.dll
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_amsg_exit
+__getmainargs
+_cexit
+_exit
+_XcptFilter
+_ismbblead
+_acmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+__set_app_type
+_except_handler4_common
+_crt_debugger_hook
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+_invoke_watson
+_controlfp_s
+EncodePointer
+DecodePointer
+InterlockedExchange
+InterlockedCompareExchange
+HeapSetInformation
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetTickCount
+GetSystemTimeAsFileTime
+IsProcessorFeaturePresent
+_timezone
+.?AVwxWinHashTable@@
+.?AVwxHashTableBase@@
+.?AVwxAppTraitsBase@@
+.?AVGSocketGUIFunctionsTable@@
+.?AVwxMessageOutput@@
+.?AVwxMessageOutputMessageBox@@
+.?AVwxList@@
+.?AVwxObjectList@@
+.?AVwxListBase@@
+.?AVwxObjectListNode@@
+.?AVwxNodeBase@@
+.?AVwxActivateEvent@@
+.?AVwxEvent@@
+.?AVwxIdleEvent@@
+.?AVwxAppTraits@@
+.?AVGSocketGUIFunctionsTableConcrete@@
+.?AVwxGUIAppTraitsBase@@
+.?AVwxGUIAppTraits@@
+.?AVwxVariantData@@
+.?AVwxHashTable@@
+.?AVwxModule@@
+.?AVwxImage@@
+.?AVwxBMPHandler@@
+.?AVwxImageRefData@@
+.?AVwxImageModule@@
+.?AVwxGDIImageHandler@@
+.?AVwxMask@@
+.?AVwxBitmapHandler@@
+.?AVwxBitmapRefData@@
+.?AVwxStockGDI@@
+.?AVwxFontBase@@
+.?AVwxBrushBase@@
+.?AVwxPen@@
+.?AVwxFont@@
+.?AVwxBrush@@
+.?AVwxInitDialogEvent@@
+.?AVwxCloseEvent@@
+.?AVwxUpdateUIEvent@@
+.?AVwxCommandEvent@@
+.?AVwxSysColourChangedEvent@@
+.?AVwxMouseCaptureLostEvent@@
+.?AVwxNavigationKeyEvent@@
+.?AVwxAcceleratorTable@@
+.?AVwxWindowList@@
+.?AVwxWindowListNode@@
+.?AVwxRegionBase@@
+.?AVwxRegionWithCombine@@
+.?AVwxRegion@@
+.?AVwxSetCursorEvent@@
+.?AVwxSizeEvent@@
+.?AVwxMoveEvent@@
+.?AVwxPaintEvent@@
+.?AVwxNcPaintEvent@@
+.?AVwxEraseEvent@@
+.?AVwxFocusEvent@@
+.?AVwxShowEvent@@
+.?AVwxIconizeEvent@@
+.?AVwxMaximizeEvent@@
+.?AVwxJoystickEvent@@
+.?AVwxDropFilesEvent@@
+.?AVwxMouseCaptureChangedEvent@@
+.?AVwxDisplayChangedEvent@@
+.?AVwxPaletteChangedEvent@@
+.?AVwxQueryNewPaletteEvent@@
+.?AVwxHelpEvent@@
+.?AVwxClipboardTextEvent@@
+.?AVwxContextMenuEvent@@
+.?AVwxDCBase@@
+.?AVwxDCTemp@@
+.?AVwxDC@@
+.?AVwxMemoryDCBase@@
+.?AVwxPowerEvent@@
+.?AVwxIdleWakeUpModule@@
+.?AVwxCursor@@
+.?AVwxMemoryDC@@
+.?AVwxScrollBarBase@@
+.?AVwxScrollBar@@
+.?AVwxStaticBoxBase@@
+.?AVwxStaticBox@@
+.?AVwxTextCtrlBase@@
+.?AVwxSliderBase@@
+.?AVwxSlider@@
+.?AVwxSpinButtonBase@@
+.?AVwxSpinButton@@
+.?AVwxTextCtrl@@
+.?AVwxComboBox@@
+.?AVwxFontRefData@@
+.?AVwxGDIImageHandlerList@@
+.?AVwxwxGDIImageHandlerListNode@@
+.?AVwxBMPFileHandler@@
+.?AVwxBMPResourceHandler@@
+.?AVwxIconHandler@@
+.?AVwxICOFileHandler@@
+.?AVwxICOResourceHandler@@
+.?AVwxValidator@@
+.?AVwxMenuEvent@@
+.?AVwxScrollEvent@@
+.?AVwxScrollWinEvent@@
+.?AVwxMouseEvent@@
+.?AVwxKeyEvent@@
+.?AVwxWindowCreateEvent@@
+.?AVwxWindowDestroyEvent@@
+.?AVwxChildFocusEvent@@
+.?AVwxNotifyEvent@@
+.?AVwxBrushRefData@@
+.?AVwxToolBar@@
+.?AVwxToolBarBase@@
+.?AVwxStatusBar@@
+.?AVwxStatusBarBase@@
+.?AVwxTLWHiddenParentModule@@
+.?AVwxStatusBarGeneric@@
+.?AVwxTimerEvent@@
+.?AVwxEventLoopBase@@
+.?AVwxEventLoopManual@@
+.?AVwxDialogBase@@
+.?AVwxDialog@@
+.?AVwxFontDialogBase@@
+.?AVwxFontDialog@@
+.?AVwxEventLoop@@
+.?AVwxMsgList@@
+.?AVwxwxMsgListNode@@
+.?AVwxPaletteBase@@
+.?AVwxDCCacheEntry@@
+.?AVwxDCModule@@
+.?AVwxPalette@@
+.?AVwxLog@@
+.?AVwxMenuItemList@@
+.?AVwxwxMenuItemListNode@@
+.?AVwxMenuBase@@
+.?AVwxMenu@@
+.?AVwxImageList@@
+.?AVwxStaticLineBase@@
+.?AVwxStaticLine@@
+.?AVwxListCtrl@@
+.?AVwxLogDialog@@
+.?AVwxLogGui@@
+.?AVwxFontMapper@@
+.?AVwxFontMapperBase@@
+.?AVwxFontData@@
+.?AVwxPaletteRefData@@
+.?AVwxICOHandler@@
+.?AVwxCURHandler@@
+.?AVwxANIHandler@@
+.?AVwxCursorRefData@@
+.?AVwxPenRefData@@
+.?AVwxSystemSettingsModule@@
+.?AVwxTreeItemParam@@
+.?AVwxTreeTraversal@@
+.?AVwxTreeCtrlBase@@
+.?AVwxDragImage@@
+.?AVwxTreeCtrl@@
+.?AVTraverseSelections@@
+.?AVTraverseCounter@@
+.?AVwxListItem@@
+.?AVwxListEvent@@
+.?AVwxListView@@
+.?AVwxContextHelpEvtHandler@@
+.?AVwxContextHelp@@
+.?AVwxHelpProviderModule@@
+.?AVwxRegionRefData@@
+.?AVwxRegionIterator@@
+.?AVwxAcceleratorRefData@@
+.?AVwxToolTip@@
+.?AVwxIndividualLayoutConstraint@@
+.?AVwxLayoutConstraints@@
+.?AVwxSizerItemList@@
+.?AVwxwxSizerItemListNode@@
+.?AVwxSizer@@
+.?AVwxClientDataContainer@@
+.?AVwxSizerItem@@
+.?AVwxBoxSizer@@
+.?AVwxStdDialogButtonSizer@@
+.?AVwxClientDC@@
+.?AVwxWindowDC@@
+.?AVwxPaintDC@@
+.?AVwxPaintDCEx@@
+.?AVwxUxThemeModule@@
+.?AVwxBufferedDC@@
+.?AVwxTextUrlEvent@@
+.?AVwxRichEditModule@@
+.?AVwxMenuItem@@
+.?AVwxMenuItemBase@@
+.?AVwxOwnerDrawn@@
+.?AVwxSpinCtrl@@
+.?AVwxMenuInfo@@
+.?AVwxMenuInfoList@@
+.?AVwxwxMenuInfoListNode@@
+.?AVwxMenuBar@@
+.?AVwxMenuBarBase@@
+.?AVwxMenuList@@
+.?AVwxwxMenuListNode@@
+.?AVwxConvAuto@@
+.?AVwxMBConv@@
+.?AVwxSpinEvent@@
+.?AVwxListBoxBase@@
+.?AVwxListBoxItem@@
+.?AVwxListBox@@
+.?AVwxScreenDC@@
+.?AVwxToolBarToolsList@@
+.?AVwxwxToolBarToolsListNode@@
+.?AVwxToolBarToolBase@@
+.?AVwxToolBarTool@@
+.?AVwxDisplayImpl@@
+.?AVwxDisplayImplSingle@@
+.?AVwxDisplayModule@@
+.?AVwxMDIChildFrame@@
+.?AVwxMDIParentFrame@@
+.?AVwxMDIClientWindow@@
+.?AVwxColourData@@
+.?AVwxPrintData@@
+.?AVwxPrintDialogData@@
+.?AVwxPageSetupDialogData@@
+.?AVwxTextWrapper@@
+.?AVwxTextSizerWrapper@@
+.?AVwxModalEventLoop@@
+.?AVwxNotebook@@
+.?AVwxNotebookBase@@
+.?AVwxBookCtrlBase@@
+.?AVwxBookCtrlBaseEvent@@
+.?AVwxNotebookEvent@@
+.?AVwxNotebookPageInfo@@
+.?AVwxNotebookPageInfoList@@
+.?AVwxwxNotebookPageInfoListNode@@
+.?AVwxMessageDialog@@
+.?AVwxMessageDialogBase@@
+.?AVwxTextValidator@@
+.?AVwxTextEntryDialog@@
+.?AVwxColourDialog@@
+.?AVwxFileDialogBase@@
+.?AVwxArtProvidersList@@
+.?AVwxwxArtProvidersListNode@@
+.?AVwxArtProviderModule@@
+.?AVwxArtProvider@@
+.?AVwxAnyChoiceDialog@@
+.?AVwxSingleChoiceDialog@@
+.?AVwxMultiChoiceDialog@@
+.?AVwxAnimationDecoder@@
+.?AVwxANIDecoder@@
+.?AVwxQuantize@@
+.?AVwxFontEnumerator@@
+.?AVwxSimpleFontEnumerator@@
+.?AVwxTreeEvent@@
+.?AVwxPopupTransientWindow@@
+.?AVwxPopupWindow@@
+.?AVwxPopupWindowBase@@
+.?AVwxHelpControllerBase@@
+.?AVwxCHMHelpController@@
+.?AVwxMSWSystemMenuFontModule@@
+.?AVwxClipboardBase@@
+.?AVwxEnhMetaFile@@
+.?AVwxClipboard@@
+.?AVwxDisplayFactory@@
+.?AVwxDisplayImplWin32Base@@
+.?AVwxDisplayImplMultimon@@
+.?AVwxDisplayFactorySingle@@
+.?AUwxDisplayInfo@@
+.?AVwxDisplayFactoryWin32Base@@
+.?AVwxDisplayFactoryMultimon@@
+.?AVwxPrintFactory@@
+.?AVwxNativePrintFactory@@
+.?AVwxScrolledWindow@@
+.?AVwxScrollHelper@@
+.?AVwxPrintAbortDialog@@
+.?AVwxPrintNativeDataBase@@
+.?AVwxPrintFactoryModule@@
+.?AVwxPrinterBase@@
+.?AVwxPrintDialogBase@@
+.?AVwxPageSetupDialogBase@@
+.?AVwxPrintPreviewBase@@
+.?AVwxPrintPaperType@@
+.?AVwxPrintPaperTypeList@@
+.?AVwxwxPrintPaperTypeListNode@@
+.?AVwxPrintPaperModule@@
+.?AVwxFileDialog@@
+.?AVwxDefaultArtProvider@@
+.?AVwxCheckListBoxBase@@
+.?AVwxCheckListBox@@
+.?AVwxCheckListBoxItem@@
+.?AVwxPopupWindowHandler@@
+.?AVwxPopupFocusHandler@@
+.?AVwxScrollHelperEvtHandler@@
+.?AVwxAutoScrollTimer@@
+.?AVwxWindowsPrinter@@
+.?AVwxWindowsPrintPreview@@
+.?AVwxWindowsPrintDialog@@
+.?AVwxWindowsPageSetupDialog@@
+.?AVwxWindowsPrintNativeData@@
+.?AVwxPrinterDC@@
+.?AVwxClipboardModule@@
+.?AVwxMessageOutputStderr@@
+.?AVwxConsoleAppTraitsBase@@
+.?AVwxConsoleAppTraits@@
+.?AVwxPipeInputStream@@
+.?AVwxInputStream@@
+.?AVwxStreamBase@@
+.?AVwxPipeOutputStream@@
+.?AVwxOutputStream@@
+.?AVwxMBConv_win32@@
+.?AVwxMBConvUTF7@@
+.?AVwxMBConvUTF8@@
+.?AVwxMBConvUTF16Base@@
+.?AVwxMBConvUTF16BE@@
+.?AVwxMBConvUTF32Base@@
+.?AVwxMBConvUTF32BE@@
+.?AVwxCSConv@@
+.?AVwxEncodingConverter@@
+.?AVwxMBConvUTF16LE@@
+.?AVwxMBConvUTF32LE@@
+.?AVwxMBConv_wxwin@@
+0123456789ABCDEF
+.?AVwxProcess@@
+.?AVwxMessageOutputDebug@@
+.?AVwxLogStderr@@
+.?AVwxMessageOutputBest@@
+.?AVwxStringTokenizer@@
+.?AVwxLocaleModule@@
+.?AVwxThreadModule@@
+.?AVwxStandardPathsBase@@
+.?AVwxStandardPaths@@
+.?AVwxStringListBase@@
+.?AVwxStringList@@
+.?AVwxStringListNode@@
+.?AVwxVariant@@
+.?AVwxVariantDataLong@@
+.?AVwxVariantDoubleData@@
+.?AVwxVariantDataBool@@
+.?AVwxVariantDataChar@@
+.?AVwxVariantDataString@@
+.?AVwxVariantDataWxObjectPtr@@
+.?AVwxVariantDataVoidPtr@@
+.?AVwxVariantDataDateTime@@
+.?AVwxVariantDataArrayString@@
+.?AVwxVariantDataList@@
+.?AVwxModuleList@@
+.?AVwxwxModuleListNode@@
+.?AVwxFFileInputStream@@
+.?AVwxFFileOutputStream@@
+.?AVwxStreamBuffer@@
+.?AVwxCountingOutputStream@@
+.?AVwxFilterInputStream@@
+.?AVwxFilterOutputStream@@
+.?AVwxBufferedInputStream@@
+.?AVwxBufferedOutputStream@@
+.?AVwxDateTimeHolidayAuthority@@
+.?AVwxDateTimeHolidaysModule@@
+.?AVwxDateTimeWorkDays@@
+.?AVwxTextBuffer@@
+.?AVwxMemoryConfig@@
+.?AVwxFileConfig@@
+.?AVwxConfigBase@@
+.?AVwxFontMapperModule@@
+.?AVwxDDEClientList@@
+.?AVwxwxDDEClientListNode@@
+.?AVwxDDEServerList@@
+.?AVwxwxDDEServerListNode@@
+.?AVwxDDEConnectionList@@
+.?AVwxwxDDEConnectionListNode@@
+.?AVwxServerBase@@
+.?AVwxClientBase@@
+.?AVwxDDEModule@@
+.?AVwxDDEClient@@
+.?AVwxDDEConnection@@
+.?AVwxConnectionBase@@
+.?AVwxDDEServer@@
+.?AVwxProcessEvent@@
+.?AVwxTextOutputStream@@
+.?AVwxURI@@
+.?AVwxDummyConsoleApp@@
+.?AVwxLogBuffer@@
+.?AVwxTextFile@@
+ 0@P`p
+!1AQaq
+"2BRbr
+#3CScs
+$4DTdt
+%5EUeu
+&6FVfv
+'7GWgw
+(8HXhx
+)9IYiy
+*:JZjz
++;K[k{
+,<L\l|
+-=M]m}
+.>N^n~
+/?O_o
+Error decoding compressed text
+.?AVtype_info@@
+.?AVwxEvtHandler@@
+.?AVwxAppConsole@@
+.?AVwxAppBase@@
+.?AVwxApp@@
+.?AVawlApplication@@
+.?AVwxPNGHandler@@
+.?AVwxImageHandler@@
+.?AVwxObject@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$_Iosb@H@std@@
+.?AVios_base@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVexception@std@@
+.?AVbad_alloc@std@@
+.?AVawlBitmapButton@@
+.?AVwxBitmapButton@@
+.?AVwxBitmapButtonBase@@
+.?AVwxButton@@
+.?AVwxButtonBase@@
+.?AVwxControlBase@@
+.?AVwxControl@@
+.?AVwxWindowBase@@
+.?AVwxWindow@@
+.?AVwxGDIObject@@
+.?AVwxGDIImage@@
+.?AVwxBitmap@@
+.?AVawlRadioButtonSelector@@
+.?AVawlGraphicsQuality@@
+.?AVwxIconRefData@@
+.?AVawlMainWindow@@
+.?AVwxTopLevelWindowBase@@
+.?AVwxTopLevelWindowMSW@@
+.?AVwxTopLevelWindow@@
+.?AVwxFrameBase@@
+.?AVwxFrame@@
+.?AVwxGDIImageRefData@@
+.?AVwxGDIRefData@@
+.?AVwxColourBase@@
+.?AVwxColour@@
+.?AVwxObjectRefData@@
+.?AVwxStaticBitmapBase@@
+.?AVwxStaticBitmap@@
+.?AVwxIcon@@
+.?AVwxRadioButton@@
+.?AVwxStaticText@@
+.?AVwxStaticTextBase@@
+.?AVawlRenderApi@@
+.?AVawlResolutionChoice@@
+.?AVwxChoice@@
+.?AVwxChoiceBase@@
+.?AVwxControlWithItems@@
+.?AVwxItemContainer@@
+.?AVwxItemContainerImmutable@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVbad_cast@std@@
+.?AVawlScreenMode@@
+.?AVawlVSync@@
+.?AVwxCheckBox@@
+.?AVwxCheckBoxBase@@
+.?AVControllerHighlightsPanel@@
+.?AVInputManager@@
+.?AVRumbleableController@@
+.?AVJoystick@@
+.?AVJoystickManager@@
+.?AVJoystickPCDirectInput@@
+.?AVJoystickPCXInput@@
+.?AVLauncherConfig@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVLauncherPanel@@
+.?AVwxPanel@@
+.?AVLauncherSelectionInterface@@
+.?AVMainUpdateLoop@@
+.?AVwxTimer@@
+.?AVwxTimerBase@@
+.?AVMutex@@
+.?AVPCInputManager@@
+.?AVPCJoystickManager@@
+.?AVPCMacMutex@@
+xppw
+wH30@
+wd1!
+===GGGGGGGGGGGC=====;
+=CFGGGGGGGGGGGGGGG===
+>III
+CGGGGGGRRRRLGG????>;=FLK>>IIIII
+FLRRSSSSSSTTSSRL>;;FG[
+L=IIIIII;
+%($PSSSSSSTTQOC#C`z
+NL=IIIIII
+vb`a`bvz
+pNL=;IIII>
+pMKIIIIII
+\LKIIIII>
+NKII>=
+pK>B
+UH`r
+Z!11
+&&&*!
+z.1`
+y3vkd^
+V!U/
+#$$#
+##$$#
+###$$
+@KRSTTSRK>
+GRRVVVVVVVUD@===BYA
+UW`cccdcbZC?C[z|QABYY<
+aHLLLJJau
+_OBYYY
+^PBBYA	
+\BBBB
+_PF 
+'xx&	
+hmy"if
+		!$
+--1	
+	%%%
+%%%"
+/	#	
+o ?APQRRRPA>@B
++PR]_``WFCEXZODUU
+[NDU={
+YDDD
+VH "
+bG~K
+o,2281+06)4'
+`uclmw
+a7*4/
+gy5)
+sRewfb9
+Zdh$
+ApqQ
+]i<"Y
+[H-P
+TxCj
+^}y\
+hojJ
+ermM
+duqR
+hrmM
+sfa?
+_zuW
+duqR
+kmiH
+xb]9
+cwrT
+iplL
+ud_<
+bvqS
+qlgC
+l}yS
+{toF
+vwsJ
+xtpG
+q|xS
+da]H
+W^YC
+DtpY
+"52'
+51- 
+'`]@
+FPM0
+\US2
+^~|K
+~rpA
+_vqF
+xJD)
+>rnG
+b?9!
+2C=)
+lyuX
+@~z_
+dmjZ
+Q|xg
+zD@4
+dFB5
+6WSD
+	TPC
+M,)!
+'|zY
+nOM3
+^d`7
+s^Y6
+krmQ
+EkgD
+(?8(
+~~KE5
+qdgdY
+t`[XN
+}ov.+)
+$#!!
+K103
+?MK7
+sA<#
+V\W9
+xzuZ
+h4- 
+o}]WL
+~?upe
+Gb_V
+vsgs
+$he\
+--,1
+zRklp
+@@?6
+whe=
+uHC)
+AZU=
+UUUV
+dWRM
+*gbX
+tqhtJCJ
+urio
+w`~}
+~	rsr
+@STS
+q~~X
+2snd
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+"0(080>0K0u0
+0X1j1
+2"2.242B2
+3$3F3O3Y3f3
+364C4j4
+7$8R8
+8%9+9<9s9
+91:S:]:z:
+:6;E;d;
+</<F<T<n<x<
+=	=(=V=q=
+=&>8>U>\>b>y>
+5!5.5d5
+6$6/6F6U6h7
+7X8^8
+:K;Q;
+;:<Z<_<j<
+=6=H=
+=E>r>
+>9?d?p?
+555g5
+6G6R6
+6(737>7
+8&848
+969D9
+:P:b:
+:>;G;X;a;s;|;
+< <m<
+=>>V?g?}?
+)0;0e0l0r0y0
+2#282a2p2
+263D3z3
+646_6
+8!8(8T8n8
+8&9<9C9
+9@:G:Y:l:
+;,;<;C;U;
+<<<d<j<
+=:>'?Y?k?
+0V0a0
+0&111_1
+3"4c4n4
+435>5l5
+6%707;7i7
+7F8T8}8
+8&949U9
+:G:[:r:x:
+;(;>;E;{;
+=G>P>[>
+-060A0r0x0
+1/2[2a2
+7^8f8l8{8
+959<9B9I9g9r9x9
+;&;H;f;x;
+;D<t<
+>(>L>S>
+?)?3???c?w?
+0?0Z0f0r0
+021D1o1y1
+1C2P2a2
+3+4]4u4
+4.555
+6/7L7
+9#9+9F9T9k9u9
+:':2:9:
+<9<H<m<
+=8=]=}=
+? ?/?D?
+0K2Z2
+5\5v6
+7?7k7
+9&:3:O:[:
+;)</<v<
+=!=C=
+> >,>2>;>Z>
+0(141N1[1g1
+252g2
+373>3D3K3l3w3}3
+5.5:5Q5`5u5f6t6
+647V7h7
+8,8<8L8[8q8x8
+9F9U9j9
+:2:j:
+;=;p;
+;-<J<
+=8?v?
+090P0W0p0u0
+1&1=1P1
+3)3/3
+4)4F4U4|4
+819i9
+;>;K;Z;
+<I<P<W<
+<)=;=K=y=
+>L>u>
+>6?D?c?
+1&121=1F1U1y1
+2-242_2q2y2
+3X4t5
+6.6`6l6
+9'9=9
+<S=a=
+=$>F>X>o>t>
+&0L1W1
+4 4$4(4,4044484<4@4D4
+7 7$7(737p7t7x7|7
+;d;h;l;p;t;x;|;
+0f0l0
+142O2T2_2y2
+2*3J3}3
+4;4A4K4e4v4
+4%5N5X5
+666B6r6
+6&757
+8!8+8E8V8v8
+9.989i9{9
+:":R:r:
+:A;E<m<s<f>x>
+f2t2
+:`:f:o:
+;P;V;_;
+;@<F<O<
+?+?;?^?o?y?
+0!0T0}0
+1C1e1n1
+1%2Y2k2{2
+3?3`3
+4+4Y4c4}4
+4,5U5_5
+6X7j7
+7P8T8X8\8`8d8h8l8p8t8
+8P9T9X9\9`9d9h9l9p9t9
+9P:T:X:\:`:d:h:l:p:t:
+<,=0=4=8=<=@=D=H=L=P=w=
+L0\1K2d2
+4$555c5
+6'6A6d6
+7<7F7y7
+8I8i8
+9+9Y9c9}9
+9,:U:_:
+:B;s;
+<$<6<L<
+<B=W=p=w=
+?5?y?
+0H0h0
+1+1N1X1
+1+2T2^2
+3\3j3
+3D4f4}4
+595K5\5
+7b7f8p8
+8#9^9
+292g2
+3A3d3]4
+585<5@5D5H5V5e5
+5_6s6
+7U7\7c7
+8-8W8u8
+9A9b9s9
+:?:F:M:T:b:
+;I;g;
+<6=y=
+>">0>c>
+?#?*?8?k?
+0<0Q0k0u0
+1"2R2{2
+3$464M4
+5$5V5e5
+858v8
+8-9>9D9\9
+9&:::
+;f<u<
+=Z>w>}>
+>g?}?
+E0`0v0
+171Y1
+262<2Z2m2x2
+3-333S3f3v3
+464E4g4
+40565L5R5
+737v7
+788F9X9y9
+98:b:
+:/;T;
+;3<f<u<
+=)>;>K>n>t>z>
+?6?i?
+050Z0c0
+0:1F1v1
+192K2[2~2
+2"3.3^3~3
+4+4;4^4d4j4t4
+5&5Y5
+6$6z6
+6	727<7y7
+7,8L8
+9):Q:]:
+;.;x;
+<0<:<y<
+<*=6=f=
+=)>;>K>n>t>z>
+?6?i?
+/070=0C0I0O0U0_0y0
+1;1s1
+11292?2E2K2Q2Y2c2
+3?3w3
+494z4
+4	525<5y5
+6(61676=6C6I6O6U6b6|6
+6,7L7X7
+8F8Y8
+9	9&979P9\9b9k9
+:&:8:W:^:d:|:
+:6;H;
+;#<<<H<h<
+>6>W>
+?$?;?
+0J1V1
+2#3q3
+4.4Z4v4
+<;=[=b=w=
+?$?3?A?K?Q?
+161E1i1
+3D4f4u4
+4!5V5d5{5
+6$666`6
+7&747T7v7
+8&838H8M8^8y879C9
+;)<;<K<n<
+</=X=b=
+>L>l>
+?+?N?
+080B0y0
+0,1L1
+2.2`2l2
+3"3Y3k3{3
+4,4_4
+5@5L5|5
+666H6o6u6"7|7
+848V8e8
+929^9
+93:F:Y:l:
+;\;m;
+;%<@<[<m<
+=i>{>
+020.1T1
+1$2L2l2u2
+6%7+7
+=@>F>
+1i2{2
+3<3o3
+4P4\4
+5F5Y5
+5i6{6
+637?7m7
+7i8{8
+989X9
+:>:H:
+;D;N;
+<(<X<x<
+=)=j=p=|=
+>&>9>x>~>
+?6?I?
+040V0_0
+1"131D1U1f1w1
+2K2Q2[2u2
+353^3h3
+9\:x:}:
+:9;U;Z;e;
+<2<F<X<|<
+=5>;>
+>D?`?
+060G0
+5	5U5[5
+5+6d6
+7Z7u7z7
+8f8s8
+9&9.979@9H9Q9Z9b9k9t9|9
+:+:8:E:R:_:l:y:
+;9;B;K;^;c;i;p;
+;M<R<Y<
+</=5=<=
+?e?k?r?
+1	2 2&2-2N2[2a2m2
+4O5Z5l5x5
+6D7N7X7
+8A8G8w8
+:W:a:k:
+;$;D;O;j;p;
+<6<n<
+=K=w=
+0S0a0
+1N2V2d2v2|2
+2	363
+3/4>4H4N4T4x4
+51565F5L5[5a5q5v5
+616b6
+7J7v7}7
+8R8Y8
+9 9C9O9~9
+:Y:d:
+;&;l;
+<)<B<
+30@0
+1#121}1
+2C2R2
+3 3S3d3
+4.4C4U4p4
+6:6w6
+7'7/747:7>7K7Z7
+939@9
+<C<Z<
+=K=Y={=
+	1S1f1
+6.6Z6`6B7
+8"9+9f9x9
+;!;:;W;
+<*<J<s<
+>G>S>c>
+(0<0
+6'6f6
+8E9M9
+:6:>:
+<#=1=e=
+>!>T>
+?(?S?e?
+1C3Y3
+637F7g7
+939c9u9
+<U<w<
+<\=e=
+=c>{>
+1B1U1f1
+4@4N4
+8	9A9O9
+1S1h1
+132H2
+3A4e4_5y5H6b6
+?%?A?]?
+070R0[0d0p0
+2<2H2z2
+2I3W3l3
+3X4q4
+5I5O5
+5'6c6q6
+6S7f7
+:2:P:
+:3;F;\=}=
+=>>C>W>
+0%0S0c0
+0C1V1
+2*2S2c2
+374=4e4
+505<5`5
+537A7r7
+7S8\8
+939s9
+:S;a;
+=C=V=
+=>>R>u>
+?)?R?X?i?
+0"0@0t0
+042B2U2h2
+5[5C6Q6s6
+7!7e7n7
+9@:X:\:`:d:h:l:p:
+?4?8?<?@?D?H?L?P?T?X?c?v?
+@0Y0
+3 3$3(3,3034383<3@3S3a3
+474S4c4
+5]5t5
+6C6T6
+6>7V768?8E8w8
+9c:q:
+:c;u;
+;.<=<
+31F1
+1p2}2
+616D6e6q6
+678>8
+9!9H9C:R:
+;";Y;
+;/<C<R<
+<.>6>
+?#?C?T?i?
+(5J547G8P8_8
+S0e0
+0#131`1
+3%3;3j3
+334@4
+4C506>6
+797p7
+8 9+9B9
+9A:M:
+#030
+2"2:2B2L2Z2f2k2
+3'4;4
+<^<q<
+0K0W0b0n0
+161=1z182B2
+3)393A3y3
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5f6
+7(7,7074787<7@7D7H7L7P7H8L8P8T8X8\8`8d8h8l8
+9!9d9
+9#:1:d:
+;#;Z;
+<"<Y<
+=9=c=r=
+>'>{>
+?%?G?s?
+0I0s0
+0)1S1a1
+2N2z2
+7S7b7
+8#939|9
+;-;B;
+0?0c0p0
+2L2s2
+8+898r8
+=3>L>
+1)121B1H1R1]1
+1L2s2
+434D4
+5"686
+7)7C7x7
+838F8j8
+939[9
+:#;4;H;\;
+;C<V<
+=3=u=
+?/?V?d?|?
+3$393O3
+3/4S4e4y4
+5C5V5q5
+6W6y6
+7)7[7c7
+;.;6;;;A;G;L;Q;W;];c;i;n;s;y;
+<3<E<
+=C=U=j=
+=3>z>
+>#?4?T?a?i?
+0=1d1h1l1p1t1x1|1
+1'2i2o2}2
+3:3j3
+4!4S4e4
+5(5P5
+526<6H6P6}6
+71787W7h7r7
+8"8Y8
+999p9
+;3<B<y<
+=;>G>|>
+232F2
+5F5W5`5p5
+6#737R7Y7^7e7l7s7y7
+9K9s9z9
+;#;(;
+<C<U<
+<3=E=t=
+>N>y>}>
+%0H0\0s0
+0B1_1u1
+1J2G3O3_3|3
+3C4c4q4
+5M5a5
+6)6.6F6O6
+7h7n7
+7 8)8Y8
+:(:2:;:B:
+<&<-<2<S<i<
+=3>B>{>
+0%0F0^0
+0?1F1
+4q4c5
+6 7B7
+7b8i8
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<
+= =$=`=d=h=l=H>L>P>T>X>\>`>d>
+>c?q?
+030A0
+131A1i1
+2!2:2l2
+5Q5b5
+6S6d6
+7#717j7
+8!8I8
+839D9
+>A>b?
+0 1K1V1c1z1
+2%2r2
+2)3M3T3
+3X4_4
+5H5O5
+6T6[6
+6 7D7K7
+7E8L8
+859<9
+96:=:
+<G=S=d=
+>3>A>d>s>
+?S?a?
+#030Q0
+1#111N1
+1c2q2
+233B3
+7o8x8~8
+8#939
+;3;D;
+=?=M=u=
+=%>.>d>
+?	???
+#040H0P0_0g0
+1 1/171e1n1
+132@2
+7.7S7s7
+7#8C8
+8I9q9
+9A:Q:a:q:
+;!;1;A;Q;a;q;
+<!<1<A<Q<a<q<
+="=Y=
+>>>M>
+?>?M?s?
+0.0=0
+1?1W1
+2!2N2]2
+3/3?3
+4"4N4]4
+5!5N5]5
+6.6=6c6q6
+7c7q7
+8/8c8q8
+9-9f9l9
+:':5:;:O:U:j:
+;9;a;
+;,<Q<z<
+=!=6=<=Q=f=
+>C>Q>
+>#?1?^?l?
+0 0M0
+1-1c1p1
+2#2s2
+2S3`3
+4"4+4S4a4
+4-5S5b5
+5	636B6y6
+7!8'818q8
+;$;+;5;A;
+<#=4=L=
+>#>6>N>
+2)3l3{3
+6/6S6
+6>708>8S8s8
+9#:3:L:s:
+;D;H;L;P;T;X;c;q;
+;G<N<V<i<x<
+<O=]=d=y=
+C0T0#111R1h1
+3!313H3S3
+4^5m5
+5r6z6
+6K7R7
+8+9=:D:c:y:
+0#151_1f1{1
+1u2|2
+3C3T3t3
+8c8q8
+:!:]:
+<A<c<u<
+=">C>Q>
+1!1`1e1Q2m2
+4)525T5q5
+63686C6Q6
+8 969b9
+;C;V;
+=#=l=
+?8?U?_?s?
+0(0/0]0}0
+1#2C2K2n2
+293K3q3|3
+4 4+414L4Q4c4q4
+585U5
+6!7N7c7p7
+;3;H;
+=>>[>
+0I0a0
+1#1P1p1
+1(212
+3<4S4a4
+4S5a5
+5I8n8
+9{9`;s;
+S0a0v0
+2<2]2f2l2
+3N3s3
+5\6c6>7
+9#:3:
+;:;B;U;#=6=
+0$090S0
+121s1
+3!3Z3
+435A5V5
+9c:w:P;!<2<r<:=@=
+=.>R>\>
+0 0C1V1
+2B3b3
+3,4p4
+636F6
+6C7U7
+8\8k8
+9.989
+=8=S=h=
+0:0z0
+2(292B2T2]2o2x2
+3(313M3s3
+3q4e5m5
+5a6q6
+9S:a:v:
+;S<f<
+S0e0
+1]1l1
+1!2O2T2
+3K3P3}3
+4!4O4_4e4
+4%5C5R5
+637?7W7_7v7|7
+7C8Q8j8
+8	9O9X9l9
+:F:X:q:
+;6;F;M;
+;2<E<s<
+<N=c=q=
+>#?1?
+2#272[2
+234B4p4
+4%5r5
+7 7(7:7@7D7b7
+8o8u8
+;);7;C;P;Y;w;};
+< <=<S<
+0>1D1
+3K3|3
+6&8-8k8
+91:G:S:
+;/;E;[;q;
+< <$<@<`<
+<*=y=
+>:>D>
+?,?M?
+%0U0
+2#21272V2f2t2{2
+3&3=3F3L3Q3c3
+5%6H6\6
+9/9C9V9n:
+>#?6?
+0&0r0
+0	1r1
+5B5I5w5
+6"72797
+8;9D9y9
+:E:c:q:
+<3<C<
+=8=c=
+>F>u?
+0(01070<0N0]0
+0T1{1
+122:2
+263M3Y3`3
+464G4t4
+5,575I5[5
+717H748<8
+:@:O:a:
+:.;z;
+=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=c>r>
+?7?s?
+0#111Y1
+1C2Q2
+2a3g3
+4S4a4
+5@5E5
+7"7,7E7
+9 9$9(9,939A9Z9
+:T:|:
+;C;c;
+<	=c=q=
+0+040j0
+0)1;1h1y1~1
+22272
+3(474>4C4a4
+4)515?5H5
+6P7X7f7n7
+;&;<;B;Y;`;e;
+<(<-<t<
+=$=o=w=
+>*>0>
+?!?E?
+1<1E1
+3%4/4W4r4
+4"5+5T5s5
+607<7B7c7
+9#:1:J:
+;K;`;s;
+<$=v=
+=@>E>]>
+>S?f?
+0P0Y0~0
+061T1
+2\2o2
+2	313G3M3
+3O4X4i4o4
+5R6c6
+7=7h7s7
+70898m8
+=2=R=c=j=
+?$?H?_?s?y?
+0 0'0P0W0
+0/141:1\1e1
+2&212Q2w2
+3:3C3I3
+4!515
+6C7S7
+8&8c8q8
+9)969c9p9
+708`8~8
+=#>9>
+/050b0
+3=4n5B6O6U6[6
+122;2C2
+2:3B3i3q3
+484@4
+576@6q6
+6#767]7
+7g8m8
+9-9n9
+;K<y<
+=+=4=S=b=
+141D1f1}1
+2(2A2[2
+243U3^3n3t3
+4!4>4D4a4~4
+5&5/5;5A5Z5c5
+7]7s7
+:S:u:
+? ?X?_?
+0&070
+1Q2a2u2
+4#4@4F4Z4
+6#6A6
+:0:\:~:
+;D;M;
+=!=w=
+>@>D>H>L>P>T>c>q>
+?4?B?
+1!1/1
+2:3|3
+6c6q6
+6T7x7
+8-8s8y8
+9,9@9
+9@:Y:t:
+;k<q<w<|<
+0)121t1~2
+454c4
+5/6>6G6M6
+<8=k=
+>	?a?
+1!1'1C1V1k1
+2C2R2g2
+4	5G5
+878S8b8
+839B9h9#:1:c:
+:3;F;`;
+;'<J<
+=0>L>}>
+?"?S?b?
+1"2	3'3
+849n9
+9@;D;H;L;P;T;X;\;`;d;
+<==O=Y=
+>6?@?
+0,1O1
+2t2.3
+5x5|5
+586<6@6D6H6L6P6T6X6\6`6d6h6
+6#737#838#939
+:C:W:
+<a<q<
+?C?Q?
+263b3
+6:6s6
+868b8
+989W9
+9K:Y:a:y:
+?V?i?
+0A0V0
+081C1l1
+2^2g2m2
+4c4s4
+435D5\5q5
+5C6S6f6t6N7 8C8S8h8v8`9
+;W;a;t;
+2S3a334A4Z4
+8	9$9;9Z9~9
+:':o:
+;F=s=
+=5>T>z>
+Y0k0
+2h3l3p3t3x3|3
+595U5]5e5m5u5}5
+5c6q6
+7:7y738A8g8
+8!919T9
+:3:D:j:~:
+:';C;P;
+=C=R=v=
+???P?T?X?\?`?d?h?l?p?t?
+0&0J0
+2$2H2
+2^3~3
+4&4C4V4
+4&505I5O5X5
+5$6M6m6
+6K7Y7r7
+9(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<
+<#=1=J=^=t=
+2{3.4
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+9-:S:c:~:
+;]<#=1=J=
+31F1b1i1
+7S;b;
+< <$<#=4=^=#>5>x>
+S1a1
+3!434@4
+<B<Z<
+=[=b=n=y=
+>(>3>;>E>
+>*?C?Q?}?
+0=0v0}0
+2c2p2
+2A3S3f3
+4&4-4u4|4
+545m5
+536l6
+748m8
+95:n:
+<>=}=
+=:>y>
+>6?u?
+%0B0k0w0
+0:1H1q1
+232K2s2
+4)4C4V4j4
+6-6c6v6
+7r:x:
+>%>;>J>c>
+>'?<?
+2#363W3m3
+9@9H9_9
+;3=A=Z=d=
+>#>q>
+?@?H?
+0c1v1
+3'3G3`3s3
+4)464A4f4r4
+535:5\5c5
+5?6N6r6
+6W7e7
+8"969E9b9
+=c>q>
+?>?I?s?
+%0,0
+6C6s6
+7X7s7
+8!939A9U9^9d9
+:":B:e:z:/;
+=L=`=
+?!?L?P?
+0(101o1
+3n3}3
+6Q7a7g7
+8%8-868<8l8w8}8
+9L9W9]9
+9!:,:2:
+;6<Y<l<u<{<
+=9=B=H=d=n=x=
+:0T0
+0S2a2
+6'7S7f7
+;";#<4<g<
+=O=W=o=
+152r2{2
+355=5
+787N7
+7m8'9s9
+:#:5:
+:S;f;
+0%010;0E0M0W0a0
+2/2S2d2
+5	6C6Q6
+7#848h8
+889W9k9
+99:S:a:z:
+;I;b;
+<3<F<
+2C2R2
+353;3S3c3
+3#434L4l4\5
+5%6C6R6
+6C7Q7j7
+828|8
+:%:u:~:
+1;2`2
+6#727K7o7
+939E9^9
+<R=a=S>b>
+5A5J5e5
+6&6l6
+;8<W<`<f<
+="=Q=n=
+=5>D>n>x>
+>=?s?
+1;1B1
+2c2q2
+2#323i3
+3'4Q4^4d4
+5-5<5J5f5
+:':-:
+='=C=
+=)>2>
+?A?X?
+3)3C3
+697m7
+9#:1:j:
+;2;8;@;H;P;X;`;h;
+1"2?2X2
+4B4b4
+5!515B5
+6#616~6
+7a8o8
+9%:4:s:
+:A;P;q;
+>B?O?X?
+0G0b0i0
+1"1B1b1
+2"2Y2
+3!3v3
+3c5q5
+506A6c7p7w7
+728S8b8
+9#9z9
+9]:s:
+:4;S;d;
+=U=@>d>
+>1?S?f?
+n0w0}0
+001c1
+2:2U2
+2a334F4c4s4
+6c6q6
+7!8-868<8
+:':j:
+<!<d<
+>P>k>'?.?
+444d4r4
+6a6|6
+6C7J7T7X7
+9 9$9(9,9094989s9
+:6:F:V:f:v:
+;<;@;D;H;L;P;T;X;\;`;d;h;l;
+<'<3<?<K<W<c<o<{<
+=#=/=;=G=S=_=k=w=
+>">+>4>=>F>O>X>a>|>T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0
+6%6+6=6N6T6f6t6z6
+9V:d:y:
+<D=S=
+>3>F>^>
+>,?c?r?
+0(000
+0#141U1b1o1
+3c3u3
+484=4i465U5^5d5
+9!919s9
+<8<q<
+=#>3>L>k>y>
+5;6c6
+8+8D8f8
+8,9X9k9
+9#:z:
+?%?7?
+1T1T2
+4+4<4r4{4
+8>8|8_9
+:-:A:
+;I;w;
+0J1S1
+2C3V3~3c4s4
+4;5w5
+6T6j6#767
+7$8~8
+9C:S:
+;#;,;2;c;t;
+;S<a<
+= >4>z?
+3!3U3q3
+5[6c6
+6C7V7
+;c<t<
+/0N0W0]0
+1a2q2
+253K3
+4^4s4
+787X7c7u7
+<$=X=
+=(>{>
+0$121
+1G2a2j2
+3/3Y3r3{3
+334@4S5a5
+7#858
+:(:S:e:U;`;
+?!?:?^?
+#020P0U0j0
+2C3Q3j3
+334A4Z4z4P5
+536@6
+6c7s7
+;#<1<O<
+<#=1=
+>(>U>"?C?Q?
+.050M0R0
+1M2}2
+4 4%4u4
+5.555:5
+656;6R6Y6^6
+8F8T8m8
+8#:4:x:
+;3;F;
+=J=t=
+=C>Q>
+0L1Z1
+4a4q4
+435A5Z5s596G6
+8u8{8
+9"9R9_9
+;4<^<
+<!=Q=
+=d>j?
+#161g1
+4%4=4_4
+5'5S5b5
+6c7u7
+8&8W8a8j8p8
+9 9@9R9{9
+:c:u:
+232<2v3
+40454K4
+606?6r6
+7!7:7
+8&8G8N8{8
+=.=S=a=
+J0q0
+0(1C1U1g1
+2Q3i3
+4 4S4e4
+435,6J6S6c6q6
+8A8j8o8{8
+9C:P:
+:U;};
+<:=z=
+.0~0
+0	1$171k1r1
+1+2V2]2~2
+3B435E5g5
+737B7
+7)8Q8t8
+8S9b9
+:G:d:z:
+;I;b;z;
+<.<D<j<
+=c=v=
+=Q>\>
+?K?n?t?
+0>0U0[0
+1A1`1m1
+2%2;2E2
+333A3
+6&6E6R6
+8I9W9l9
+:%:?:E:
+;C<V<
+<S=a=z=
+=C?S?u?
+%090
+0c1q1
+2!3*3
+6.6c6p6
+6x7~7
+7&8A8H8
+8q9H:
+;0=^=g=
+?7?S?a?
+#030
+1!181q1
+1#434b4h4
+575D5J5v536A6
+637B7[7f7
+8'9C9P9
+:+:K:]:s:
+>K?V?
+030M0Z0t0
+111<1s2
+4A5c5s5
+6C6R6
+738E8
+8!929E9S9b9{9
+9':K:V:_:
+;E;c;s;
+<!<)</<I<Q<
+=C=Y=
+=+>;>z>
+?*?j?
+1A1V1f1
+4(4B4g4s4
+5c6h6
+7!7?7H7
+7)8s8
+9=9N9s9
+9 :':-:M:s:
+:5;`;
+<_<h<
+=(=V=a=v={=
+>0>4>8><>@>D>H>s>
+?&?D?
+1b1l1
+2D3k3
+6#6+656h6
+617N7V7
+7#818J8j8
+8+9I9
+===F=O=S=
+?%?.?5?i?
+0c0p0
+1"171B1S1`1
+1C2P2
+2C3P3
+3C4P4
+4!515A5a5q5
+5c6s6
+8a<y<~<
+=8=K=s=
+>#>)>;>c>q>
+?&?R?]?c?
+2)20252
+3 3H3S3Y3
+6:6^6i6o6
+7#828_8
+8S9a9z9
+=,>0>4>8><>
+0C0Y0M1X1^1
+1(222-383>3l3w3}3
+4R4s4}4
+5$5Z5c5
+5A6Q6
+7S7a7
+7=8c8q8
+8K9V9
+< <(<
+=#>5>I>Q>
+?	?X?`?
+0_0g0
+1f1n1
+2m2u2
+3%3t3|3
+3$4,4{4
+4+535
+526:6
+697A7
+7@8H8
+8G9O9
+9N:V:
+;U;];
+<\<d<
+=c=k=
+>j>r>
+?!?q?y?
+ 0(0x0
+0'1/1
+1.262
+253=3
+3<4D4
+4C5K5
+5J6R6
+7Q7Y7
+8X8`8
+9_9g9
+:f:n:
+;m;u;
+<$<t<|<
+<#=+={=
+=*>2>
+>1?9?
+80@0
+0?1G1
+1F2N2
+2M3U3
+4T4\4
+5[5c5
+5#606q6%7G7^7
+738A8Z8
+; <$<(<,<0<
+#242L2l2
+3+3R3
+4!4L4
+6C6U6
+6#757
+;1;q;
+<A<o<
+=O=Z=`=!>1>j>z>
+?!???D?X?d?o?{?
+	0#0,0c0r0
+041:1O1V1j1v1
+2-232s2
+4F4Z4p4
+6L6t6
+6^7d7w7
+728D8
+9c9s9
+:9:@:[:
+:!;m;r;
+;P<V<t<z<
+=#=4=
+010I0x0
+1 141;1
+1 2/2m2
+3?3T3t3
+4(4H4]4}4
+515Q5f5
+6%6:6Z6o6
+7.7C7c7x7
+878L8l8
+9 9@9U9u9
+:):I:^:~:
+;2;R;i;
+<*<Q<Y<
+>C>S>n>
+?!?v?
+0S1e1}1
+2@3\3s3
+414P4[4n4
+4B5P5
+8)828
+:l:r:
+:>;D;
+<"<^<
+=%=C=R=
+=Q>a>q>
+0!0X0s0
+1S2b2
+6'666;6
+8R8z8
+9D9M9S9
+:Z:S<f<
+2'242C2i2
+2)3?3V3e3j3
+<C=V=
+C0R0
+031F1
+2c2p2
+3.3G3S3_3k3w3
+3Q4a4r4
+5	5R5c5q5
+636?6
+8)838:8A8H8e8
+;B;r;
+;,<V<j<v<
+<#=1=j=
+2&2K2Q2g2
+6<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+637C7r7X9
+:[;u;
+>O?b?u?
+0A0e0p0
+2 2&272H2N2
+3#333o3
+4=5]5}5
+5$6t6
+6O7h7
+8!878]8
+8^9g9
+;$;Q;w;
+; <6<C<
+<c=q=
+?A?R?e?s?
+0-1N1V1
+6,666r6
+6D7v7
+8c8/9
+><?a?
+7#737
+8A9J9h9
+?3?A?i?
+C0S0q0
+1.2V2
+2c3s3
+4N4c5
+6S7c7D8
+:(:1:A:S:b:{:
+; ;X;^;
+<&<3<A<S<[<
+=S=e={=
+?"?-?
+0&1:1S1d1
+3#313
+3#434
+5A5V5@6
+7S8a8
+9u:3;
+<L<V<
+>i>z>
+?P?`?j?
+030g0
+1_2i2
+3&4.454d4
+5P5^5
+6`7e7k7
+60]2i2c7q7
+979E9p9
+9*:^:z:
+:;;f;x;
+<I=Y=e=
+=&>9>L>c>t>
+?S?d?
+0(0p0
+0A1|1
+1#2N2
+3 333C3i3
+5#535Y5
+5C6R6{6
+:L:x:
+:S;a;
+>!>[>s>
+?D?L?
+0S0w0
+1,151;1
+1 2>2V2y2
+2J3s3
+4+444=4C4
+7#7A7
+9O:X:
+;1<f<
+a0;3S3s3
+4d4m4
+5.5Y5
+6/7p7
+8k8s8
+8!9,9
+<"<2<><R<a<
+=6=?=D=L=R=b=
+?"?.?5?;?L?W?]?k?q?
+00090
+2:2p2t2x2|2
+3!353=3V3
+4,4A4R4
+6#6E6S6~6
+7+7:7Q7W7
+8-8Y8
+9c9q9
+9#:5:H:
+<S<a<t<
+>7>s>
+0&080R0q0
+111C1n1
+1%2;2k2}2
+2&3<3g3}3
+3*4@4s4
+4&5<5c5y5
+5&6<6g6}6
+6&7<7g7}7
+7&8<8g8}8
+8"989_9u9
+:,:S:i:
+;,;W;m;
+;#<9<d<z<
+<#=9=d=z=
+='>=>h>~>
+?/?E?l?
+	000F0u0
+1D1Z1
+2)2P2f2
+3)3P3f3
+4)4X4n4
+4'5=5d5z5
+5#696h6~6
+7/7E7x7
+8+8A8l8
+9+9A9l9
+:+:A:h:~:
+;5;`;v;
+<5<`<v<
+<#===`=v=
+>->X>n>
+?)?P?f?
+0%0P0f0
+1%1P1f1
+2%2L2b2
+3D3Z3
+4H4^4
+5@5V5
+6D6Z6
+7@7V7}7
+888N8u8
+8	989N9y9
+:<:R:y:
+:	;4;J;y;
+<0<F<m<
+=,=B=m=
+>0>F>q>
+>	?4?J?q?
+	040J0u0
+0	141N1q1
+202F2r2
+3)3?3j3
+4-4C4j4
+4!575b5x5
+6/6Z6p6
+7,7X7n7
+8%8X8f8
+9D9Z9
+:B;];i=
+3#333C3R3X3q3
+404\4z4
+5!5;5Q5^5s5
+6"656B6O6
+8#919#:4:c:
+:;;X;\;`;d;
+;#<2<
+<3=A=_=
+>%>E>c>v>
+50;0\0b0
+10161T1Z1
+2&2D2b2
+5*5Y5
+8C9Q9i9q9
+9S:b:
+;>;i;
+=!>:>
+2c3l3
+3-4x4
+7T7t7
+8a8r8
+:,:2:l:
+;*<3<9<s<
+<c=f>
+>1?M?
+4u5q6!797S7c7
+8Q9j9
+;!;Q;i;o;
+<L<c<r<
+<<=R=_=
+?#?2???Q?_?
+"0/0l0
+2!2/2\2.343^3s3
+4N4b4o4
+5#5e5
+6C6Q6
+7$787@7s748c8q8
+93:A:h:
+=.=_=n=
+=1>C>R>
+?+?<?A?e?
+1]1b1
+2	2C2R2
+4c5s5
+6"6;6
+8$999?9v9
+=C=Q=j=
+7	8C8Q8
+9S9a9
+;#;1;_;h;n;
+<3<F<b<x<
+<C=W=
+>&?A?T?g?
+0X1\1`1d1h1l1p1t1x1|1
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+7C8T8f8z8
+</<8<A<
+> >a>
+?6?{?
+050>0j0
+1%1.141o2
+2!3B3U3
+3*4d4
+4P5Y5
+:':S:d:v:
+;?;F;x;|;
+<:<}<
+?3?A?u?
+0X1_1|1
+2"2(2S2c2u2
+333G3W3g3w3
+4"5*5<5D538B8Q8q8
+8+929C9H9O9V9g9l9s9z9
+: :$:(:,:0:4:C:U:
+;c;u;
+>,?[?
+T1\1p1x1
+122P2X2
+6k7r7
+9"9E9
+3c4q4
+4054585<5`5d5h5l5p5t5x5|5
+54686<6@6]7e7
+8#898v8
+=o>w>
+111W1
+6 6$6(6,6064686<6@6D6H6L6P6T6X6
+6/7S7t7z7
+7!858k8q8
+93:U:
+<W='>/>a>
+0#0(090>0O0T0j0
+435A5Z5
+9M9c9t9
+:%:o:
+:c;q;
+<=<a<k<
+?<?G?W?z?
+(0S0a0
+1!1'1N1q1
+2&2k2
+3C3Q3V3_3e3h4
+5=5h5
+7%8+8+979s9
+:,:8:2;\;
+;C<R<
+=C=Y=
+>(>6>^>
+>c?v?
+1#212O2
+354c4q4
+5$525D5Q5
+6Z7}7
+:`;p;};
+;&<F<
+=	=t=x=|=
+>7>K>w>
+0<0]0r0
+0>1a1z1
+1W2p2
+2'303S3a3y334F4
+5,5U5
+5'636\6s6
+7C7U7f7
+7O8X8^8v8
+;);C;L;
+;'<A<n<
+<#=1=N=x=
+=Y>s>
+1!2W2_2
+2$3J3
+4D4c4u4
+8&8@8U8
+:":H:
+;N<_<r<
+=7=X=\=`=d=h=l=p=t=
+>3>E>W>|>
+?+?1?8?
+>0k0
+0]1k1
+9C:Q:e:n:t:
+:@;c;v;
+;3<U<j<
+<8=A=M=w=
+=#>6>V>
+1R2s2
+2"3Z3c3
+5&52585B5b5
+5#606B6h6m6}6
+6!717A7Q7c7r7
+7=8c8r8
+8%9I9
+:*:0:z:Z;_;
+<3<@<
+<3=A=^=
+=->O>
+? ?)?2?;?D?M?V?_?k?w?
+0 0$01070<0H0S0e0
+5+5i5
+6%6-6i6
+7#727Z7e7u7
+8C8s8
+8(9S9`9y9
+:#:0:
+<T<}<
+<D=W=
+=->6>{>
+>+?l?
+90@0x0
+2Y2d2j2
+293D3J3
+3/4U4`4f4
+6C6Q6
+7S7c7x7
+8I8W8
+9S9c9
+9C:R:
+;";B;~;
+<!<'<,<J<|<
+>F>O>z>
+?0J0
+2#242
+2C3Q3e3w3
+4D4c4q4
+536F6`6
+808n8
+9N:a:
+=S?b?{?
+;3<A<_<e<r<{<
+=!>4>S>e>
+020[0
+1K1W1
+1%2S2b2
+273<3I3S3]3e3
+434X4
+495r5
+5%6;6
+7C8Q8
+8S;a;s;
+<#<1<N<
+= >c>u>
+?"???
+0C0R0
+3Z3_3y3
+3$4*4/4G4M4R4
+4G5M5R5k5q5v5
+5C6T6t6
+6S7b7
+9S9e9
+9/:D:
+;7;W;
+;5<n<
+0B1c1u1
+2#353
+5C5T5
+6S6f6~6
+6&7K7_7
+8C8U8
+93:C:z:
+;j;c<v<
+=I>P>w>
+>R?a?
+-0M0
+0L1z1
+132E2|2
+2!3*3R3
+4%5+505I5O5T5w5
+676<6`6e6
+6L7Q7[8
+:E;N;^;
+=(>V>
+5+5Y5z5
+9#969l9u9{9
+:(:1:
+:4;~<
+; ;$;(;,;0;4;};O=
+=1>A>
+W0&1V1e1y1
+4u97:?:
+;.;L;j;
+>(>6>B>J>i>
+>"?V?
+0)0?0j0
+1?1R1h2
+;2<X<d<
+>@>O>c>n>
+?W?p?t?x?|?
+2^3r3
+/0]0
+112g2
+4 4$4(4
+162	7'7k7
+H9L9P9T9X9\9`9d9h9l9p9t9x9
+9(=,=0=4=8=<=@=
+K5{5
+626W6
+7U8c8i8
+:);{;
+;O=V=6>>>
+,0F0|0
+101h1w1G3
+9@9G9::Q:
+=,>7>I>
+0)0/090I0T0
+1)131O1U1_1{1
+7#8*8
+8<:W;p;
+=K=v=
+='>Y>
+040b0"1
+2'2a2
+4#4)4
+7)787?7P7d7
+7/8N8
+9A9K9
+94:8:<:@:D:H:L:P:T:h:l:e;z;
+; <5<
+=$=}=
+>[?n?
+2.3f3
+4+4G4
+5@5h5
+646e6
+7.7a7
+2#3;3N3Y3
+=)>3>
+001G1t1
+393V3
+3I4d4
+545[5
+6a6r6
+;U;&<C<`<}<
+<#=f=
+0,0P0
+0 1A1n1g2
+415m5
+7.8a8
+;0;_;
+;(<H<
+=P=w=
+>,>[>l>
+?D?x?
+.0`0
+0$1N1
+5T5Z5
+7@7|7
+8$8.8@8J8e8l8}8
+9)9C9J9[9e9|9
+6,7<7
+:T:R<
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2/6U6d6
+93;l;
+W0L2T2_2m2
+586M6::J:T:
+:C=U=g=y=
+?2D2p2v2|2
+2!323;3K3\3m3~3
+5$5*5=5R5]5s5
+60666C6W6`6{6
+7 7%7`7j7p7y7
+8%808<8B8K8Q8V8[8`8g8m8
+?$?+?2?9?@?G?N?V?^?f?r?{?
+0\0b0h0
+2n2t2
+3-353B3G3P3V3\3b3h3
+3"4J4
+5*6p6
+8#9c9
+:3;];
+<#=R=
+0*0p0
+0*1s1
+1*2j2
+2*3j3
+596j6
+7*8b8
+9J9z9
+:::j:
+;J;z;
+>0j0<1;2r2
+3J3z3
+3.4]4
+4>5r5
+5)6Z6
+757Z7
+9:9j9
+:*:j:
+;*;Z;
+<B<r<
+<8=j=
+>B>j>
+?*?Z?
+0R0z0
+2J2a2i2
+303A3I3_3q3y3
+4J4z4
+<J<z<
+<=>z>
+?:?r?
+V0z0
+1*1u1
+142Z2
+3@3Q3Y3p3
+334Z4
+5J5z5
+637e7
+96:Z:
+<+=Z=
+>J>z>
+*0]0
+0"1R1z1
+1"2Z2
+536z6
+8:8u8
+9:9j9
+:0;Z;
+;8<z<
+< =R=
+*0e0
+2:2z2
+6e6q6y6
+6"7U7
+9J9z9
+:	;:;j;
+=:=r=
+= >U>t>
+>%?J?
+1%2R2z2
+3R3z3
+5=6j6
+8M8z8
+96:h:
+;5;Z;
+<!<)<@<
+<@=Q=Y=
+>*>Z>
+&0i0
+4B4u4
+*0h0
+131b1
+2J2}2
+2%3J3
+3"4X4
+5B5x5
+6B6j6
+757Z7
+7-8j859Z9
+;+<s<
+=J>z>
+>*?b?
+0-0~0
+1#2J2
+5:5u5
+576j6
+7:7Q7k7
+7*8Z8
+(0b0
+0*1Z1
+1C2{2
+6c6r7
+8J9z9
+90:e:
+;:;j;
+;*<]<
+<+=k=
+222b2
+5.6z6
+7B8u8
+9L9z9
+:%:;:X:n:
+:*;l;
+<J<f<~<
+=D=X=n=
+>K>w>
+?7?S?l?
+0:0b0
+1*1l1
+1"2T2e2{2
+3L3h3~3
+4@4n4
+5:5z5
+6"6>6Z6v6
+6+7i7
+:.:X:e:n:
+;:;z;
+;*<b<
+=(=H=^=v=
+?7?l?
+1&2h2
+4	5C5P5W6
+;);r;
+<P=f=~=
+>B>V>n>
+?D?P?\?
+0'0H0M0W0x0}0
+181=1G1h1m1w1
+2(2-272Q2V2`2x2}2
+3#3)3F3Y3_3i3
+4 41464S4]4q4v4{4
+51565;5A5K5a5f5k5q5{5
+6!6&6+616;6Q6a6k6
+717;7Q7[7q7v7{7
+81868@8Q8V8[8a8k8
+91969;9A9K9a9f9k9q9{9
+9!:+:A:F:K:Q:[:q:v:{:
+;1;6;;;A;K;a;f;k;q;{;
+<!<&<+<1<;<Q<V<[<a<k<
+=!=+=A=F=K=Q=[=q=v={=
+>1>6>;>A>K>a>f>k>q>{>
+?!?&?+?1?;?Q?V?[?a?k?
+0!0+0A0F0K0Q0[0q0v0{0
+11161;1A1K1f1v1
+2&262F2V2f2v2
+3&363F3V3f3v3
+4&464F4V4f4v4
+5&565F5V5f5v5
+6&666F6V6f6v6
+7&767F7V7f7v7
+8&868F8V8f8v8
+91969;9A9K9a9f9k9q9{9
+:!:&:0:A:F:K:Q:[:q:v:{:
+;!;+;A;F;P;a;f;k;q;{;
+<!<&<+<1<;<Q<V<[<a<k<
+=1=6=;=A=K=a=q=
+> >1>6>;>Q>V>[>a>k>
+?!?+?A?F?K?Q?[?q?v?{?
+01060;0A0K0a0f0k0q0{0
+1!1+1A1F1P1a1f1k1q1{1
+2!2&2+212;2Q2V2[2a2k2
+3!3+3A3F3K3Q3[3q3v3{3
+41464;4A4K4a4f4k4q4{4
+5!5+5A5F5K5Q5[5q5v5{5
+61666;6A6K6a6f6k6q6{6
+7 717;7Q7V7[7a7k7
+8!8+8A8F8K8Q8[8v8
+9!9+9A9F9K9Q9[9q9v9{9
+:!:&:0:A:F:K:Q:[:q:v:{:
+;!;&;+;1;;;Q;V;[;a;k;
+<1<6<@<Q<V<`<q<v<
+=!=&=+=1=;=Q=V=[=a=k=
+>!>+>A>F>K>Q>[>q>v>{>
+?!?&?+?1?;?Q?V?[?a?k?
+0!0+0A0F0K0Q0[0q0v0{0
+1&161F1V1f1v1
+21262;2A2K2a2k2
+3&363F3V3f3v3
+41464;4A4K4a4f4p4
+51565;5A5K5a5f5k5q5{5
+6!6&6+616;6Q6V6[6a6k6
+71767@7Q7V7[7a7k7
+8!8&8+818;8Q8V8[8a8k8
+91969@9Q9V9[9a9k9
+:1:6:@:Q:V:`:q:v:
+;!;&;+;1;;;Q;V;`;q;v;{;
+<1<6<;<A<K<a<f<k<q<{<
+=!=+=A=F=K=Q=[=q=v=
+>!>3>=>S>]>q>
+?#?-?A?F?K?Q?[?q?v?{?
+0!0&0+010;0Q0[0q0v0{0
+11161;1A1K1a1f1k1q1{1
+2!2&2+212;2Q2V2[2a2k2
+3!3+3A3F3K3Q3[3
+4!4+4A4F4K4Q4[4q4{4
+5#5/5C5U5[5_5
+6!6+6A6F6K6Q6[6q6v6{6
+71767;7A7K7a7k7q7
+8"8*818<8E8J8R8Z8a8l8u8z8
+9!9,959:9B9J9Q9\9e9j9r9z9
+:%:*:2:::A:L:U:Z:b:j:q:|:
+;!;2;6;;;R;V;a;q;
+<!<1<A<Q<a<q<
+=!=1=A=Q=a=q=
+>!>1>A>Q>a>q>
+?!?1?A?Q?a?q?
+0!02060;0Q0a0q0
+1!111A1Q1a1q1
+2$22262;2R2V2[2q2
+3!313A3Q3a3q3
+4!414A4Q4a4q4
+5!515A5Q5a5o5
+6!616A6Q6a6q6
+7!717A7Q7a7q7
+8!818A8R8V8[8q8
+9!919A9Q9a9q9
+:!:4:A:Q:a:q:
+;!;1;A;Q;a;q;
+<!<1<A<Q<a<q<
+=$=1=A=Q=a=q=
+>!>:>A>Q>a>z>
+?!?1?A?Q?a?q?
+0!010A0Z0a0q0
+1)101:1Q1a1q1
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2l2p2t2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+< <$<(<,<0<4<8<<<@<D<H<\<`<d<h<l<p<t<x<|<
+= =@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+9(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4
+5 5$5(5,5054585<5@5D5X5\5@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :d;l;t;|; <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=
+0P1T1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;X<\<`<d<h<l<p<t<x<|<
+=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:
+; ;$;t;x;|;
+< <$<(<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5
+7p:t:
+;(;,;0;4;8;<;@;D;H;L;
+@9D9H9t9|9
+:4:0;4;
+;4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8
+9 9$9(9,9094989<9@9D9
+:4:8:<:@:D:H:L:P:T:X:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585l5p5t5x5|5
+5`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:@;D;l;p;t;x;|;
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=l=p=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<
+=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+8 8$8(8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8L8P8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,30383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=
+=P>T>X>\>`>d>h>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+8 8$8(8,8084888
+: :$:(:d:h:l:p:t:x:
+; ;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2,202
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6
+$5(5,5054585<5$8(8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4
+5 5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>t?x?|?
+0x0|0
+1 1X1\1`1d1h1l1p1t1x1|1
+1h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+7 7$7(7,7074787<7@7D7
+7p8t8x8|8
+> >$>(>,>0>4>8><>@>
+? ?$?(?4?8?<?@?D?H?L?P?T?X?\?`?l?p?t?x?|?
+0 0$0(0,0004080<0H0L0P0T0X0\0`0d0h0l0p0|0
+2 2$2(2,2024282<2 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+<T<X<\<`<d<h<l<
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+2$2,242<2D2L2T2\2d2l2t2|2
+5 5$5
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+8 8$8(8,8084888<8@8D8x8|8
+6 6,686D6
+4d5h5l5p5
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8P;T;X;\;p<t<x<|<
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;
+> >$>(>,>0>4>8><>
+D2H2L2P2T2X2\2`2d2h2l2p2
+9,9<9@9D9X9\9l9p9x9
+:4:D:H:X:\:`:h:
+;,;<;@;D;X;\;l;p;t;|;
+<4<D<H<L<`<d<t<x<|<
+=$=4=8=<=@=H=`=p=t=
+>$><>L>P>`>d>h>p>
+?$?4?8?H?L?P?X?p?
+0 0004080@0X0h0l0|0
+1 1$1,1D1T1X1\1`1h1
+2 2024282<2@2H2`2p2t2
+3(3,3<3@3D3H3P3h3x3|3
+4 4$4(404H4X4\4l4p4t4x4
+545D5H5X5\5`5d5l5
+6 60646D6H6L6P6T6\6t6
+7,707@7D7H7L7T7l7|7
+8 8084888<8D8\8l8p8
+9 9$9(9,949L9\9`9p9t9x9|9
+:$:<:L:P:`:d:h:l:t:
+;,;<;@;P;T;X;\;d;|;
+< <0<4<D<H<L<P<T<\<t<
+=$=(=8=<=@=D=H=P=h=l=
+>$><>L>P>`>d>h>l>t>
+? ?$?(?,?4?L?P?h?x?|?
+0,0<0@0D0H0L0P0T0X0`0x0
+1$1<1L1P1T1X1\1`1d1h1p1
+2 282H2L2\2`2d2h2l2p2t2x2|2
+3$3(3,3034383<3@3D3H3L3P3T3\3t3
+4(484<4L4P4T4\4t4
+5,505@5D5H5L5T5l5|5
+6$6(686<6@6D6L6d6t6x6
+7,7074787@7X7h7l7|7
+8 8$8(8,848L8\8`8p8t8x8|8
+9 9$9(909H9X9\9l9p9t9x9
+:$:(:@:P:T:X:\:`:d:h:l:
+; ;$;4;8;H;L;P;T;\;t;
+<4<D<H<X<\<d<|<
+=,=<=@=P=T=X=\=`=d=h=l=p=t=|=
+>$>(>,>0>4>8><>@>D>H>L>P>X>p>
+? ?$?4?8?<?D?\?l?p?t?x?
+040D0H0X0\0`0d0h0p0
+1 10141D1H1L1T1l1|1
+2 2$24282<2D2\2l2p2t2x2|2
+3 3034383<3@3D3H3L3T3l3|3
+4$44484H4L4P4X4p4t4
+5 5(5@5P5T5d5h5l5p5t5|5
+6 6$6(606H6X6\6l6p6t6x6|6
+7$7<7L7P7`7d7l7
+8,8<8@8P8T8X8`8x8
+9(989<9L9P9T9\9t9
+:(:,:<:@:D:H:L:P:T:X:\:d:|:
+;(;,;<;@;D;H;P;h;x;|;
+<(<,<0<8<P<`<d<t<x<|<
+=4=D=H=X=\=`=d=l=
+> >$><>L>P>X>p>
+?$?4?8?H?L?\?`?d?h?l?p?x?
+0,0<0@0D0H0L0`0d0t0x0|0
+1 10141D1H1L1P1X1p1
+242D2H2X2\2`2d2l2
+3,3<3@3H3`3p3t3
+4(484<4L4P4T4X4`4x4
+5 5$5<5L5P5T5X5\5`5t5x5
+6$6(686<6L6P6T6\6t6x6
+7$7(787<7@7D7H7L7P7T7X7\7`7h7
+8 8$8(8,80888P8`8d8t8x8
+9,90949<9T9d9h9x9|9
+:(:,:4:L:\:`:p:t:x:
+; ;$;(;,;0;4;<;T;d;h;x;|;
+<(<,<<<@<D<L<d<t<x<
+= =$=(=0=H=X=\=l=p=x=
+>0>@>D>T>X>\>`>d>h>l>p>t>x>
+? ?$?(?,?0?D?H?X?\?l?p?t?x?|?
+0 0$0(000H0X0\0l0p0t0x0
+1 1$1(1,10141<1T1X1p1
+2 2$2(2,2024282<2@2D2L2d2t2x2
+3$3<3L3P3`3d3h3l3t3
+4(484<4L4P4T4\4t4
+5$5<5L5P5`5d5h5l5p5t5x5|5
+6 6$6(606H6X6\6l6p6t6|6
+7(787<7L7P7T7X7\7`7h7
+808@8D8H8L8P8T8h8l8p8x8
+909@9D9T9X9\9d9|9
+:(:,:<:@:H:`:p:t:x:
+;4;D;H;X;\;d;|;
+<(<,<<<@<H<`<p<t<
+=$=(=0=H=X=\=l=p=
+>(>8><>L>P>T>X>`>x>
+?,?0?4?8?<?@?D?H?L?P?T?\?t?
+0 0004080<0D0\0l0p0
+1 1$1(1,1014181<1@1D1H1P1h1x1|1
+2(2,2<2@2D2H2L2P2T2X2\2`2d2h2l2p2x2
+3 3(3@3P3T3d3h3l3p3x3
+4,404@4D4T4X4\4`4d4h4p4
+5(585<5L5P5T5X5\5`5d5h5l5p5t5x5
+6,6064686@6X6h6l6|6
+7 7$7(707H7X7\7l7p7t7x7
+8$8(888<8@8D8L8d8h8
+9 9$9<9L9P9T9h9l9|9
+:$:<:L:P:T:\:t:
+; ;$;(;,;4;L;\;`;p;t;x;
+<4<D<H<X<\<`<d<l<
+= =0=4=D=H=L=T=l=|=
+>(>,>0>8>P>`>d>t>x>|>
+?(?,?4?L?\?`?p?t?x?
+0$0<0L0P0`0d0h0p0
+1$14181H1L1P1T1\1t1
+2$2(282<2@2D2L2d2t2x2
+3(3,30343<3T3d3h3x3|3
+4 4$4,4D4T4X4h4l4p4x4
+505@5D5T5X5`5x5
+6(6,60646<6T6d6h6x6|6
+7 7$7(7,747L7\7`7p7t7|7
+808@8D8T8X8`8x8
+9,909D9H9X9\9`9d9l9
+: :$:4:8:<:D:\:l:p:
+; ;$;(;0;H;X;\;l;p;t;|;
+<(<,<0<4<<<T<d<h<x<|<
+= =$=(=<=@=P=T=X=\=d=|=
+>$>(>8><>@>H>`>p>t>
+?$?(?8?<?L?P?T?\?t?
+0(0,0004080<0D0\0l0p0t0x0|0
+1 1$14181<1@1H1`1p1t1
+2 2$2(2,2024282<2@2H2`2p2t2x2|2
+3 3$3(3,30383P3T3l3p3
+40444L4P4h4x4|4
+545D5H5P5h5x5|5
+6 6$6,6D6T6X6h6l6p6t6x6|6
+7 7$7(7,7074787<7D7\7l7p7
+8 8$84888<8@8D8L8d8t8x8|8
+9 9$9,9D9T9X9\9d9|9
+: :0:4:D:H:L:P:T:\:t:
+; ;$;(;,;0;4;8;<;D;\;l;p;t;x;|;
+< <(<@<P<T<X<\<`<d<l<
+= =0=4=8=<=@=H=`=p=t=x=|=
+> >$>(>0>H>X>\>`>d>h>l>p>t>|>
+? ?$?(?,?0?4?8?<?D?\?l?p?
+0 0004080<0@0H0`0p0t0
+1 1$1(1,1014181<1@1D1H1L1T1l1|1
+2$2(2,2024282<2@2D2H2P2h2l2
+343D3H3X3\3`3d3h3l3p3t3x3|3
+44484P4`4d4h4l4p4x4
+545D5H5P5h5x5|5
+6$64686H6L6P6T6X6\6`6d6h6p6
+7,707@7D7L7d7t7x7
+8,8<8@8P8T8X8\8d8|8
+9$9(989<9@9D9H9L9T9l9|9
+: :$:4:8:<:@:D:H:L:T:l:|:
+; ;0;4;8;<;@;D;L;d;t;x;
+<,<0<8<P<`<d<t<x<|<
+=4=D=H=
+; ;(;0;8;@;H;T;t;|;
+<8<D<L<d<l<t<
+=$=D=P=p=|=
+>0><>\>d>p>
+?,?8?X?`?h?t?
+0$0,040<0D0L0T0\0d0l0t0
+1$1D1P1p1x1
+2$202P2\2|2
+343@3`3h3t3
+4$4,484X4`4h4t4
+5 5@5H5P5X5`5h5p5x5
+6$606P6X6`6l6
+7(747T7`7
+8$8,848@8`8h8p8|8
+909<9\9h9
+9 :@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;\;|;
+<(<4<T<\<h<
+=(=H=P=X=`=h=p=x=
+>8>D>d>l>x>
+?(?H?T?t?
+0$000P0\0|0
+141<1D1L1T1\1d1p1
+2 2,2L2T2`2
+343<3D3P3t3
+4<4D4P4p4|4
+5<5\5d5l5t5|5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7@7H7T7t7|7
+8,888X8`8h8p8|8
+909<9\9d9p9
+:<:D:L:X:x:
+; ;@;H;T;t;
+< <(<0<8<D<d<l<x<
+=(=H=T=t=
+>,>4><>D>P>p>x>
+?$?0?T?t?|?
+0(0H0T0t0
+1,141<1D1P1p1x1
+2(2H2T2t2|2
+343<3H3h3t3
+4$4,444\4h4
+585D5d5l5t5
+6,686X6`6h6t6
+7$7D7P7p7|7
+8 8,8L8T8`8
+9<9H9h9p9x9
+:4:T:\:d:l:t:|:
+; ;@;H;P;\;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=0=8=@=H=P=X=`=h=p=x=
+>8>@>H>P>X>`>h>p>x>
+> ?@?H?P?X?`?h?p?x?
+0$0,040<0D0L0T0\0d0l0t0|0
+1 1,1L1X1x1
+2$2,242<2D2L2T2\2h2
+3 3,3L3T3`3
+4$4,484X4`4l4
+5(505<5\5h5
+6$606P6\6|6
+7,747@7`7l7
+8$8,848@8`8h8t8
+9(949T9\9h9
+:(:H:P:X:`:h:p:x:
+;$;0;P;X;`;l;
+< <(<0<<<\<d<l<t<|<
+=8=D=d=p=
+>(>H>T>t>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+101<1\1d1l1x1
+202P2X2`2h2p2x2
+3$3D3L3T3\3h3
+4 4(404<4\4d4l4x4
+5,545<5D5L5T5\5d5l5t5|5
+6$6,646@6d6
+7$7,787\7|7
+8$808T8t8|8
+989D9d9p9
+:4:@:d:
+;$;0;P;\;|;
+< <,<L<T<`<
+=$=0=P=\=|=
+> >,>L>T>\>d>p>
+? ?(?4?T?\?h?
+080@0H0P0X0`0h0p0|0
+1 1,1L1T1\1d1p1
+2,282\2|2
+3$303P3X3d3
+4 4(40484@4L4p4
+5(5H5P5\5|5
+6 6(646T6\6d6l6x6
+7(7H7T7t7
+8$8,848@8`8h8p8x8
+9(9H9T9t9|9
+: :,:L:X:x:
+; ;@;H;T;t;|;
+< <(<0<<<`<
+=$=H=h=p=x=
+> >(>0>8>@>L>l>t>|>
+? ?,?L?T?`?
+080@0H0T0t0
+141<1D1L1T1`1
+2 2(20282@2H2P2X2d2
+303<3\3d3l3t3
+4$4,444<4D4L4T4`4
+50585@5H5P5X5`5h5t5
+6(60686D6d6l6x6
+7$7,787X7d7
+8$8D8L8T8`8
+9 9(909<9`9
+:,:L:T:\:d:l:t:|:
+;8;@;H;P;X;`;h;p;x;
+<$<0<T<t<|<
+=(=H=P=X=`=h=t=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?0?P?X?d?
+0$0,080X0`0l0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+545@5`5h5t5
+686@6H6P6X6`6h6t6
+7 7(70787@7H7P7X7`7h7p7x7
+8$8,848<8D8L8X8x8
+9$9D9L9T9`9
+:,:8:X:`:l:
+;$;D;L;X;x;
+<0<<<\<h<
+=(=H=T=t=|=
+><>D>L>X>x>
+?(?H?T?t?
+0,040<0D0P0p0x0
+1(1H1T1t1
+2,242<2D2L2T2\2d2l2t2|2
+3 3,3L3X3x3
+404P4X4`4h4p4x4
+5$5,545<5D5L5T5`5
+6 6(646T6\6h6
+7$7,747<7D7L7T7`7
+8,848@8`8l8
+9<9@9\9`9h9p9x9
+:<:\:d:l:t:|:
+;$;H;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+=0=8=@=H=P=X=`=h=p=|=
+>(>0>8>D>d>l>t>
+?(?4?T?\?h?
+0(0H0P0\0|0
+1,181X1d1
+2$2,282X2`2l2
+30383@3H3T3t3|3
+4 4(404<4\4h4
+5 5D5d5l5t5|5
+6$6,646<6D6L6T6\6d6p6
+7$7,747<7D7P7p7x7
+8$8,848<8D8L8X8x8
+9$909P9X9`9l9
+: :(:4:X:x:
+;<;H;h;p;x;
+<0<P<X<`<h<p<x<
+=$=H=h=p=x=
+>4>@>`>h>p>x>
+?8?X?`?h?p?x?
+00080@0L0l0t0|0
+1 1,1L1T1`1
+202<2\2h2
+383D3d3p3
+4 4,4L4T4\4d4l4t4|4
+545T5\5d5l5t5|5
+6(6H6T6t6
+7$7D7L7X7x7
+8 8@8H8P8\8|8
+9<9\9d9l9t9|9
+:(:H:P:X:`:h:p:x:
+;0;8;@;L;p;
+<$<,<4<<<H<|<
+= =(=<=D=X=`=d=l=t=|=
+>,>4><>D>L>X>x>
+?$?0?P?\?
+0,080X0`0x0
+1$181D1L1|1
+2 2@2L2l2x2
+3 343@3H3`3l3
+4<4H4h4t4
+585@5P5`5p5
+6(6<6H6P6h6t6
+7P7d7p7x7
+8$80888X8l8
+9$9D9P9x9
+9$:4:H:\:h:p:
+;$;0;P;X;`;l;
+<0<<<D<l<x<
+=<=D=P=p=|=
+> >@>H>P>\>|>
+?$?D?L?T?\?d?l?t?|?
+0$0,080X0d0
+1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3 383D3d3p3
+4<4D4L4X4x4
+5$5,585X5`5l5
+686X6d6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+: :@:H:P:X:d:
+;0;<;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>(>H>P>\>|>
+?$?,?4?@?`?h?t?
+0 0(040T0\0d0l0x0
+1,141L1T1l1t1|1
+282@2L2l2x2
+3 3,3L3T3\3d3l3t3|3
+4$4,444<4D4P4p4x4
+5$5,545<5D5L5T5\5d5l5t5|5
+0$0(0@0H0T0\0h0p0
+1,1L1t1
+2 282T2p2
+343L3d3
+4$4D4\4|4
+5$5<5X5t5
+60686D6L6X6`6l6t6
+707X7|7
+848T8p8
+9<9\9|9
+:8:T:x:
+;$;H;`;|;
+<$<D<`<
+=(=D=L=P=\=
+>,>P>X>\>h>p>t>
+?8?X?t?
+0 0,04080D0L0P0\0d0h0t0|0
+1$1(141<1@1L1T1X1d1l1p1|1
+2$2,202<2D2H2T2\2`2l2t2x2
+3 3,34383D3L3P3\3d3h3t3|3
+4 4(444<4H4P4d4h4t4
+5 5(5<5@5H5L5`5
+6(6T6\6h6p6
+7 7$787@7L7T7`7h7t7|7
+8$8@8X8x8
+909L9d9p9
+:0:L:l:
+; ;,;4;H;X;`;l;t;
+<4<<<@<L<h<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4d4h4l4p4t4x4
+5 5$505P5p5
+6$6@6\6x6
+7 7$7(7,7074787@7D7P7\7p7x7
+808P8X8\8h8p8t8
+9<9D9H9T9\9`9l9
+:$:L:X:d:p:|:
+;(;D;\;x;
+<8<D<P<X<\<h<t<
+= =$=8=@=L=T=`=h=t=|=
+>(>0><>D>P>X>d>l>x>
+? ?$?0?P?X?\?p?x?
+0,0D0`0h0l0x0
+141L1T1X1d1p1|1
+2(202<2D2P2X2d2l2x2
+3 3$3@3\3t3|3
+4<4@4H4L4X4t4x4
+5$5,585@5L5T5`5h5t5|5
+6@6`6h6l6x6
+747X7`7d7p7x7|7
+8 8(848<8H8P8\8d8p8x8
+989\9d9h9t9|9
+9 :(:4:<:H:P:\:d:p:x:
+;8;\;|;
+<(<0<<<D<P<X<l<p<x<|<
+=4=\=d=x=|=
+> >,>L>T>X>d>
+? ?@?d?
+040P0X0\0h0
+0$1@1h1p1|1
+2$2(2L2p2x2|2
+30383<3L3l3
+3$4L4l4
+5<5X5x5
+6 6,686D6P6\6h6t6
+7$787<7H7`7h7t7|7
+8 8,8@8H8\8`8l8x8
+9$9,909<9D9H9T9`9t9|9
+:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+444<4@4T4\4h4p4
+5$50585D5L5`5l5t5
+6,64686L6T6h6l6
+7,7T7`7l7x7
+8X8|8
+949P9l9
+:(:D:`:
+;$;D;d;
+<(<H<h<p<t<
+=(=D=d=l=p=|=
+>0>T>|>
+?$?,?0?<?D?H?T?\?`?l?t?x?
+0 0,0H0l0x0
+101T1x1
+2 2$282d2
+3 3$3(3,3034383<3D3L3T3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5,5054585P5T5X5\5t5x5|5
+6(6,60646L6P6T6X6p6t6x6|6
+7$7(7H7L7l7p7
+8 8$8(8D8H8h8l8
+9 9@9D9d9h9
+: :$:(:,:0:4:<:@:`:d:h:
+;H;h;
+<8<T<p<
+= =(=,=8=@=D=P=\=h=p=t=
+> >$>H>\>h>t>
+X2\2l2p2
+3(383H3X;h;x;
+<(<8<H<X<h<x<
+=,=H=`=t=
+=$>@>\>
+0(0H0h0
+1(1D1`1x1
+1 2D2d2
+3(3L3l3
+444P4t4
+405l5
+7$7L7h7
+8(8d8
+: ;@;X;t;

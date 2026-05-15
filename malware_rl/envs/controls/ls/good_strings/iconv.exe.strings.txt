@@ -1,0 +1,539 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+t$pE8
+UWVSH
+\$@H
+D$8H
+D$@H
+T$0L
+D$8H
+t$ I
+t$ I
+H+D$HH
+X[^_]
+UWVSH
+\$@H
+D$8H
+D$@H
+T$0L
+D$8H
+t$ I
+t$ I
+H+D$HH
+X[^_]
+AWAVAUATUWVSH
+l$@L
+|$8L
+t$0H
+|$ I
+D$8H
+D$@H
+|$ I
+X[^_]A\A]A^A_
+AWAVAUATUWVSH
+l$@L
+|$8L
+t$0H
+|$ I
+D$8H
+D$@H
+|$ I
+X[^_]A\A]A^A_
+AWAVAUATUWVSH
+d$ M
+H[^_]A\A]A^A_
+	vJE1
+.wTI
+uTD9
+<uuNA
+D$ M
+T$8<o
+UWVSH
+([^_]
+WVSH
+WVSH
+0[^_
+AWAV
+AUATUWVS
+D$hH
+|$HH
+D$`H
+D$xH
+D$8H
+D$pH
+T$`H
+D$xH)
+D$8H
+T$@M
+t$ L
+8*uY
+H;\$ht
+T$8L
+H;\$ht
+D$TH
+[^_]A\A]A^A_
+t$xH
+D$`H
+D$pH
+D$pD
+T$xD
+D$@E1
+l$ M
+D$`L
+l$ M
+l$ M
+H;\$ht
+t$HE8
+t=D:I
+t2D:Y
+WVSH
+ [^_
+AUATUWVSH
+([^_]A\A]
+\$PE8
+t$pE8
+ATUWVSH
+ [^_]A\
+ATUWVSH
+L$xL
+L$xI
+0[^_]A\
+AUATUWVSH
+8[^_]A\A]
+WVSH
+ [^_
+ [^_
+\$XH
+T$XL
+D$`L
+L$hH
+D$PL
+D$PL
+L$XL
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ u H
+AVAUATUWVSH
+[^_]A\A]A^
+[^_]A\A]A^
+t$ H
+t$ C
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+AWAVAUATUWVSH
+D$HHc
+9\$Ht6J
+9\$Ht
+D$XH
+	vSH
+9\$H
+9\$H
+t$PH
+L$PL
+D$HH
+L$PH
+L$PH
+L$PH
+L$HH
+ttHc
+L$HI
+L$HL
+|$PH
+9\$H
+D$0P
+D$(J
+D$ -
+D$0W
+D$(T
+D$ -
+D$0R
+D$(K
+D$ -
+L$PH
+D$PL
+D$ 5
+D$(9
+D$ 4
+D$(B
+D$ A
+L$PL
+cannot convert widechar substitution to target encoding: %s
+cannot convert unicode substitution to target encoding: %s
+cannot convert byte substitution to wide string: %s
+cannot convert byte substitution to Unicode: %s
+%s argument: A format directive with a variable width is not allowed here.
+%s argument: A format directive with a variable precision is not allowed here.
+%s argument: A format directive with a size is not allowed here.
+%s argument: The string ends in the middle of a directive.
+%s argument: The character '%c' is not a valid conversion specifier.
+%s argument: The character that terminates the format directive is not a valid conversion specifier.
+%s argument: The format string consumes more than one argument: %u arguments.
+or:    iconv -l
+Usage: iconv [-c] [-s] [-f fromcode] [-t tocode] [file ...]
+Try `%s --help' for more information.
+Usage: %s [OPTION...] [-f ENCODING] [-t ENCODING] [INPUTFILE...]
+or:    %s -l
+Converts text from one encoding to another encoding.
+Options controlling the input and output format:
+  -f ENCODING, --from-code=ENCODING
+                              the encoding of the input
+  -t ENCODING, --to-code=ENCODING
+                              the encoding of the output
+Options controlling conversion problems:
+  -c                          discard unconvertible characters
+  --unicode-subst=FORMATSTRING
+                              substitution for unconvertible Unicode characters
+  --byte-subst=FORMATSTRING   substitution for unconvertible bytes
+  --widechar-subst=FORMATSTRING
+                              substitution for unconvertible wide characters
+Options controlling error output:
+  -s, --silent                suppress error messages about conversion problems
+Informative output:
+  -l, --list                  list the supported encodings
+  --help                      display this help and exit
+  --version                   output version information and exit
+Report bugs to <bug-gnu-libiconv@gnu.org>.
+%s:%u:%u: cannot convert
+%s:%u:%u: incomplete character or shift sequence
+%s:%u:%u
+cannot convert byte substitution to target encoding: %s
+%s: I/O error
+char
+--from-code
+--from-code=
+--to-code
+--to-code=
+--list
+--byte-subst
+--byte-subst=
+--widechar-subst
+--widechar-subst=
+--unicode-subst
+--unicode-subst=
+--silent
+--help
+--version
+iconv (GNU libiconv %d.%d)
+2000-2011
+Copyright (C) %s Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Bruno Haible
+Written by %s.
+--binary
+UCS-4
+conversion from %s unsupported
+conversion to %s unsupported
+conversion from %s to %s unsupported
+try '%s -l' to get the list of supported encodings
+EUC-JP
+GB2312
+EUC-TW
+BIG5
+EUC-KR
+CP949
+JOHAB
+UCS-4-INTERNAL
+wchar_t
+(stdin)
+I/O error
+A NULL argv[0] was passed through an exec system call.
+/.libs/
+EUC-JP
+GB2312
+EUC-TW
+BIG5
+EUC-KR
+CP949
+memory exhausted
+Unknown system error
+: %s
+%s: 
+%s:%d: 
+Unknown error %d
+Success
+Text file busy
+Operation now in progress
+Operation already in progress
+Socket operation on non-socket
+Destination address required
+Message too long
+Protocol wrong type for socket
+Protocol not available
+Protocol not supported
+Socket type not supported
+Operation not supported
+Protocol family not supported
+Address family not supported by protocol
+Address already in use
+Cannot assign requested address
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+No buffer space available
+Transport endpoint is already connected
+Transport endpoint is not connected
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Connection timed out
+Connection refused
+Too many levels of symbolic links
+Host is down
+No route to host
+Too many processes
+Too many users
+Disk quota exceeded
+Stale NFS file handle
+Object is remote
+Overlapped operation aborted
+Overlapped I/O event object not in signaled state
+Overlapped operations will complete later
+Network subsystem is unavailable
+Winsock.dll version out of range
+Successful WSAStartup not yet performed
+Graceful shutdown in progress
+No more results
+Call was canceled
+Procedure call table is invalid
+Service provider is invalid
+Service provider failed to initialize
+System call failure
+Service not found
+Class type not found
+Database query was refused
+Host not found
+Nonauthoritative host not found
+Nonrecoverable error
+Valid name, no data record of requested type
+No message of desired type
+Identifier removed
+Link has been severed
+Multihop attempted
+Bad message
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+_libiconv_version
+iconv_canonicalize
+libiconv
+libiconv_close
+libiconv_open
+libiconvctl
+libiconvlist
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileType
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetLastError
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fileno
+_fmode
+_get_osfhandle
+_initterm
+_lock
+_onexit
+_setmode
+_unlock
+abort
+calloc
+exit
+fclose
+ferror
+fflush
+fopen
+fprintf
+fputc
+fputs
+free
+fwrite
+malloc
+memcpy
+memset
+puts
+raise
+realloc
+setlocale
+signal
+sprintf
+strcmp
+strerror
+strlen
+strncmp
+strrchr
+vfprintf
+_read
+_fileno
+libiconv-2.dll
+KERNEL32.dll
+msvcrt.dll

@@ -1,0 +1,1392 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+4zD|.d
+*F~3
+-$sc
+*.rW
+*.ra
+*.r'
+*.rW
+*.r'
+*.rU
+*.rA
+*.r]
+*.r%
+*.ru
+*.r1
+*.ru
+*.rU
+*.r)
+*.rm
+*.r=
+*.rW
+*.r7
+*.r-
+*.rk
+*.r=
+*.r}
+*.r=
+*.r' 
+*2r+!
+*2rc!
+,Zsc
+*.r;"
+*.rg"
+*.r3#
+*.r?#
+*.rm#
+*.r}
+*6rK$
+*6rg$
+*2r	%
+*2r'%
+*F~E
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPH
+&Z.v
+8#U\7
+ggR'h
+"2~p
+,ASP.Net is not registered on the computer.
++The report server is already initialized.
+NThe application pool already exists. Specify a unique application pool name.
+XThe application pool does not exist. Specify the name of an existing application pool.
+The application pool specified is not valid. Make sure the specified name is not too long and doesn't contain illegal characters. (example: /)
+<The report server has encountered a configuration problem.
+#The credential type is not valid.
+,The locale identifier (LCID) is not valid.
+1The version does not match a supported version.
+nThe application pool is not valid. Specify one of the available application pools and retry the operation.
+A connection to the report server database cannot be established. Verify that the SQL Server database is accessible on the network.
+5The report server configuration file was not found.
+0There was an error enumerating WMI instances.   
+GThe resources required to complete this operation could not be found.
+.A password for the user account is required.
+GInternet Information Services (IIS) is not installed on the computer.
+MThe account name is not valid. Specify an account in the form domain\alias.
+You do not have the correct permissions to perform this task. Specify a user account with administrative privileges, and then retry the operation.
+=An ADSI path specified when working with IIS was not valid.
+\At least one parameter was invalid. Please specify all parameters and retry the operation.
+tThe port number is not valid. The report server virtual directory must use the port number of the parent Web site.
+\The secure connection level is not valid. Specify one of the following values: 0, 1, 2, 3.
+=The URL passed when calling the WMI Provider was not valid.
+IThe specified user account is not valid or the password is not correct.
+0The format of the version string is not valid.
+UYou cannot specify LocalSystem when you are connecting to a remote database server.
+MA virtual directory must first be created before performing this operation.
+You do not have the correct permissions to perform this task. The specified user account does not have administrator privileges on the computer "{0}". Specify a user account with administrative privileges, and then retry the operation.
+Key information for the report server is missing in the report server database. To add a key, verify that the Report Server Windows service is running and then connect to the Report Server Web service.
+This operation is only supported on a report server that is configured for SharePoint integrated mode. You cannot perform this operation on a native mode report server.
+This operation is not supported in SharePoint integrated mode.  For more information about supported operations, see the product documentation.
+(The operating system is not supported.
+An error occurred when attempting to connect to the report server remote procedure call (RPC) end point. Verify that the Report Server Windows service is running, and then retry the operation.
+-The extended protection level is not valid.
+0The extended protection scenario is not valid.
+HThe e-mail delivery extension was not found in the configuration file.
+jThe application is not valid.  The only valid applications are ReportServerWebService and ReportManager.
+%The SSL certificate is not trusted.
+-The ip address is not found in the machine.
+7The Local Service account is not valid on Windows XP.
+The application is not found.
+ Authentication is not defined.
+An SSL binding already exists for the specified IP address and port combination.  The existing binding uses a different certificate from the current request. Only one certificate can be used for each IP address and port combination. To correct the problem, either use the same certificate as the existing binding, or remove the existing SSL binding and create a new binding using the certificate of the current request.
+(The SSL certificate is not registered.
+|The report server cannot start.
+One or more
+configuration files are not valid. Check the log files for more information.
+oThe operation failed because an error occurred when calling Windows SharePoint Services object model methods.
+The operation failed because the Windows SharePoint Services object model is not installed on the report server.  Install and configure Windows SharePoint Services and try your request again.
+$The Url has already been reserved.
+The Report Server WMI provider cannot create the virtual directory. This error occurs when you call SetVirtualDirectory and the UrlString is already reserved. To continue, clear all URL reservations by calling RemoveURL and then try again.
+LThe Url is listed in the config file, but it is not reserved with httpsys.
+<The URL is already reserved with a different user account.
+pThe database role RSExec does not exist in the database. Verify that the database is a report server database.
+;The Reporting Services Windows Service has been disabled.
+@The Reporting Services Windows Service has not been activated.
+Windows SharePoint Services is not installed. You must have an instance of Windows SharePoint Services to perform the current operation.
+You do not have the correct permissions to perform this task on the SQL Server database. Specify a SQL Server user account with administrative privileges, and then retry the operation.
+MA Secure Sockets Layer (SSL) certificate is not configured on the Web site.
+'The operation completed successfully.
+LAn error occurred when running a script on the SQL Server database engine.
+3The database query produced an unexpected result.
+EAn unknown error has occurred in the WMI Provider. Error Code {0:X}
+KThe virtual directory specified already exists. Specify a different name.
+The virtual directory specified is not valid. Make sure the specified name is not too long and doesn't contain illegal characters. (example: ;)
+CThe service account for the Report Server web service is not set.
+GThe service account for the Report Server Windows service is not set.
+/An unexpected error has occurred. Details:
+JA WMI error has occurred and no additional error information is available.
+8A WMI error has occurred. The returned error is:
+{0}.
+3A connection to the computer cannot be established.
+&Report Server WMI Provider error:
++Unable to connect to the Report Server {0}.
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPO
+^d/X
+"SECURE THE FILE IN A SAFE LOCATION
+8Argument -{0} is not used with this management operation
+UAre you sure you want to extract the key from the report server? Yes ({0})/ No ({1}):
+To create a back-up copy of the report server encryption key:
+RSKeyMgmt -e [-i <instance name>] -f <file> -p <password>
+To restore a back-up copy of the report server encryption key:
+RSKeyMgmt -a [-i <instance name>] -f <file> -p <password>
+To reencrypt secure information using a new key:
+RSKeyMgmt -s [-i <instance name>]
+To reset the report server encryption key and delete all encrypted content:
+RSKeyMgmt -d [-i <instance name>]
+To list the announced report servers in the report server database:
+RSKeyMgmt -l [-i <instance name>]
+To remove a specific installation from a scale-out deployment:
+RSKeyMgmt -r <installation ID> [-i <instance name>]
+To join a remote machine to the same scale-out deployment as the local machine:
+RSKeyMgmt -j [-i <local instance name>] -m <remote machine name>
+          [-n <remote instance name>] [-u <user name> -v <password>]
+Microsoft (R) Reporting Services Key Manager
+Version {0} x86 {1}
+Performs key management operations on a local report server.
+  -e  extract		Extracts a key from a report server instance
+  -a  apply		Applies a key to a report server instance
+  -s  reencrypt		Generates a new key and reencrypts all encrypted
+			content
+  -d  delete content	Deletes all encrypted content from a report server
+			database
+  -l  list		Lists the report servers announced in the report server
+			database
+  -r  installation ID	Remove the key for the specified installation ID
+  -j  join		Join a remote instance of report server to the
+			scale-out deployment of the local instance
+  -i  instance		Server instance to which operation is applied;
+			default is MSSQLSERVER
+  -f  file		Full path and file name to read/write key.
+  -p  password		Password used to encrypt or decrypt key.
+  -m  machine name	Name of the remote machine to join to the
+			scale-out deployment
+  -n  instance name	Name of the remote machine instance to join to the
+			scale-out deployment
+  -u  user name		User name of an administrator on the machine to join to
+			the scale-out deployment.  If not supplied, the current
+			user is used.
+  -v  password		Password of an administrator on the machine to join to
+			the scale-out deployment
+  -t  trace		Include trace information in error message
+debug
+uAll data will be lost.  Are you sure you want to delete all encrypted data from the report server database ({0}/{1})?
+Installation ID
+DUnable to locate the Report Server Windows service for instance {0}.
++The specified installation ID is not valid.
+Missing required argument -{0}
+KMultiple key operations selected.  Choose one of extract, apply, or delete.
+,Reporting Services instance not found on {0}
+ANo key operation was selected.  Choose extract, apply, or delete.
+Unable to find the Reporting Services WMI namespace on {0}. Reporting Services may not be installed or you may not have administrator access.
+\Both the user name and password must be specified for the WMI provider, or neither should be
+bDo you want to grant these report servers access to the newly generated key?  Yes ({0})/ No ({1}):
+>Are you sure you want to delete this key? Yes ({0})/ No ({1}):
+eThe Report Server Windows service is not responding to RPC requests.  The service may not be running.
+0Unexpected or invalid WMI property value for {0}
+(Unspecified)
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPkF
+Duplicate argument {0}
+Unrecognized argument {0}
+Value expected for argument {0}
+"The command completed successfully
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+d;D;
+p>n6
+PA>A
+qA>A
+{2[)
+K3[)V
+S3[)V
+Y3[)V
+`3[)V
+g3[)V
+p3[)V
+z3[)V
+/2H)
+S2N)
+b2V)
+}4x)
+;!-	
+;3-)
+<y	1
+<8-)
+<=-)
+$<C-
+@<J-)
+<Q-9
+N<V-A
+<q-Q
+=h	1
+<>y	
+k>$/
+x>'/
+>8/I
+>B/I
+>h	I
+3?c/<
+>?k/
+h?h		
+&@c/)
+`3=-Y
+E@<0a
+@I0Y
+A;2q
+>@2)
+$<J2y
+Ap2Y
+Cy	i
+V0'-/-[-e-{-
+/=/G/U/q/
+050C0P2v2
+X2 A
+<Module>
+RSKeyMgmt.exe
+AssemblyVersionInfo
+PublicKeyConstants
+Microsoft.ReportingServices
+BaseCmdLine
+OptionSupportType
+BaseCmdLineStrings
+Keys
+RSWmiAdmin
+Microsoft.ReportingServices.WmiProvider
+RSWmiInstanceBase
+RSWmiInstance
+WmiProviders
+RSWmiNamespaces
+ErrorCodes
+WMIProviderException
+WMIProviderExceptionStrings
+RSKeyMgmt
+Microsoft.ReportingServices.RSKeyMgmt
+KeyOperation
+Strings
+mscorlib
+System
+Object
+Enum
+Exception
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+SQLTestKey
+SQLTestKeyToken
+SQLPublicKey
+SQLPublicKeyToken
+PublicKey
+PublicKeyToken
+AssemblyVersion
+AssemblyQualifier
+CommandLineMain
+.ctor
+ParseCommandLine
+AddCommandLineParameter
+PostParseValidation
+InstanceMain
+OptionHandler
+get_Usage
+m_printTrace
+get_PrintTraceOnError
+set_PrintTraceOnError
+m_optionsSupported
+OptionContains
+Usage
+PrintTraceOnError
+value__
+None
+Single
+Multi
+Valueless
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+InvalidCommandLineOption
+DuplicateCommandLineOption
+MissingOptionValue
+get_SuccessfulExecution
+Culture
+SuccessfulExecution
+System.Resources
+ResourceManager
+resourceManager
+culture
+GetString
+PropertyName_PathName
+PropertyName_SecureConnectionLevel
+PropertyName_SendUsingSmtpServer
+PropertyName_SmtpServer
+PropertyName_SenderEmailAddress
+PropertyName_UnattendedExecutionAccount
+PropertyName_WindowsServiceIdentityActual
+PropertyName_WindowsServiceIdentityConfigured
+PropertyName_DatabaseServerName
+PropertyName_DatabaseName
+PropertyName_DatabaseLogonType
+PropertyName_DatabaseLogonAccount
+PropertyName_ServiceName
+PropertyName_IsInitialized
+PropertyName_IsSharePointIntegrated
+PropertyName_RSVirtualDirectory
+PropertyName_RMVirtualDirectory
+PropertyName_MachineAccountIdentity
+PropertyName_InstallationID
+MethodName_BackupEncryptionKey
+MethodName_DeleteEncryptedInformation
+MethodName_DeleteEncryptionKey
+MethodName_ListReservedUrls
+MethodName_SetVirtualDirectory
+MethodName_ReserveURL
+MethodName_RemoveURL
+MethodName_ListSSLCertificates
+MethodName_ListIPAddresses
+MethodName_ListSSLCertificateBindings
+MethodName_CreateSSLCertificateBinding
+MethodName_RemoveSSLCertificateBindings
+MethodName_GenerateDatabaseCreationScript
+MethodName_GenerateDatabaseRightsScript
+MethodName_GenerateDatabaseUpgradeScript
+MethodName_InitializeReportServer
+MethodName_ListReportServersInDatabase
+MethodName_ReencryptSecureInformation
+MethodName_RemoveUnattendedExecutionAccount
+MethodName_RestoreEncryptionKey
+MethodName_SetDatabaseConnection
+MethodName_SetDatabaseLogonTimeout
+MethodName_SetDatabaseQueryTimeout
+MethodName_SetEmailConfiguration
+MethodName_SetSecureConnectionLevel
+MethodName_SetUnattendedExecutionAccount
+MethodName_SetWindowsServiceIdentity
+MethodName_ListInstalledSharePointVersions
+System.Management
+ManagementObject
+m_internalObject
+InvokeMethodOptions
+m_invokeMethodOptions
+ManagementBaseObject
+ThrowOnError
+System.Security
+SecureString
+BackupEncryptionKey
+DeleteEncryptedInformation
+DeleteEncryptionKey
+ListReservedUrls
+SetVirtualDirectory
+ReserveURL
+RemoveURL
+ListSSLCertificates
+ListIPAddresses
+ListSSLCertificateBindings
+CreateSSLCertificateBinding
+RemoveSSLCertificateBindings
+GenerateDatabaseScript
+GenerateGrantRightsScript
+GenerateDatabaseUpgradeScript
+InitializeReportServer
+ListReportServersInDatabase
+ReencryptSecureInformation
+RemoveUnattendedExecutionAccount
+RestoreEncryptionKey
+SetDatabaseConnection
+SetDatabaseLogonTimeout
+SetDatabaseQueryTimeout
+SetEmailConfiguration
+SetSecureConnectionLevel
+SetUnattendedExecutionAccount
+SetWindowsServiceIdentity
+ListInstalledSharePointVersions
+get_MachineAccountIdentity
+get_ReportServerVirtualDirectory
+get_ReportManagerVirtualDirectory
+get_ConfigFilePath
+Nullable`1
+get_SecureConnectionLevel
+get_SendUsingSmtpServer
+get_SmtpServer
+get_SenderEmailAddress
+get_WindowsServiceIdentityActual
+get_WindowsServiceIdentityConfigured
+get_UnattendedExecutionAccount
+get_DatabaseServerName
+get_DatabaseName
+get_DatabaseCredentialsType
+get_DatabaseLogonAccount
+get_ServiceName
+get_IsSharePointIntegrated
+get_IsInitialized
+get_InstallationID
+ConvertToString
+ConvertToSecureString
+MachineAccountIdentity
+ReportServerVirtualDirectory
+ReportManagerVirtualDirectory
+ConfigFilePath
+SecureConnectionLevel
+SendUsingSmtpServer
+SmtpServer
+SenderEmailAddress
+WindowsServiceIdentityActual
+WindowsServiceIdentityConfigured
+UnattendedExecutionAccount
+DatabaseServerName
+DatabaseName
+DatabaseCredentialsType
+DatabaseLogonAccount
+ServiceName
+IsSharePointIntegrated
+IsInitialized
+InstallationID
+get_Name
+Name
+PropertyName_InstanceName
+PropertyName_InstanceID
+PropertyName_EditionID
+PropertyName_EditionName
+PropertyName_Version
+MethodName_GetReportServerUrls
+machineName
+get_MachineName
+get_ID
+get_EditionID
+get_EditionName
+get_Version
+get_ReportServerUrls
+MachineName
+EditionID
+EditionName
+Version
+ReportServerUrls
+MachinePattern
+ReportServerManagementClass
+ReportServerInstanceClass
+PropertyName_Key_InstanceName
+ReportServerPattern
+ReportServiceInstancePattern
+ReportAdminPattern
+ReportServiceInstanceV9Pattern
+ReportAdminV9Pattern
+ConnectionOptions
+ObjectGetOptions
+GetInstance
+GetReportServerAdmin
+GetReportServerInstance
+TestMachineConnection
+System.Collections.Generic
+IList`1
+GetInstanceNames
+EscapeInstanceName
+UnEscapeInstanceName
+m_connOptions
+get_WmiConnectionOptions
+m_getOptions
+get_WmiGetOptions
+TimeSpan
+m_wmiTimeout
+get_WMITimeout
+WmiConnectionOptions
+WmiGetOptions
+WMITimeout
+Admin
+Instance
+Success
+CantConnectCatalog
+ServiceNotActivated
+ServiceDisabled
+UnexpectedDatabaseError
+UnexpectedDatabaseResult
+AlreadyActivated
+NotAnnounced
+NotAdmin
+VirtualDirectoryAlreadyExists
+VirtualDirectoryInvalid
+InvalidIISPath
+IISNotInstalled
+AspNetNotRegistered
+InvalidUser
+InsufficientUserPrivilege
+SqlAdminUserInsufficientPrivilege
+GrantLoginToPasswordRequired
+RsexecRoleDoesNotExist
+WindowsServiceAccountNotSet
+WebServiceAccountNotSet
+SslCertificateNotFound
+ConfigurationFileNotFound
+InvalidPortNumber
+InvalidUrlParameterSet
+InvalidSecureConnectionLevel
+IllformedAccountString
+BadCredentialsType
+BadApplicationPool
+BadVersion
+IllformedVersionString
+BadLcid
+ApplicationPoolAlreadyExists
+OsNotSupported
+BadWebsiteConfigruation
+BadConfigurationFile
+SharePointNotInstalled
+MustCreateVirtualDirectory
+FailedToLoadResources
+LocalServiceIsLocalOnly
+FailedToEnumerateInstances
+InvalidParameter
+BadApplicationPoolName
+MustUseDefaultPort
+WebsiteNotListeningOnSpecifiedPort
+NotSupportedInSharePointMode
+NotSupportedInNativeMode
+RsSharePointObjectModelNotInstalled
+RsSharePointError
+RsServerConfigurationError
+RsUrlAlreadyReservedDifferentName
+RsMustDefineApplicationFirst
+RsIpAddressNotFound
+RsSSLBindingConflict
+RsSSLCertificateNotRegistered
+RsInvalidApplication
+RsURLAlreadyReserved
+RsURLNotReserved
+RsURLMustNotExist
+RsDeliveryExtensionNotFound
+RsLocalServiceNotAllowedXP
+RsInvalidSSLCertificate
+RsBadExtendedProtectionLevelType
+RsBadExtendedProtectionScenarioType
+RsMustDefineAuthenticationFirst
+RPCServerNotListening
+UnknownError
+m_errorCode
+get_ErrorCode
+ExceptionToMessage
+ErrorCodeToMessage
+GetWMIProviderExceptionForHR
+ErrorCode
+get_GenericWMIError
+get_ManagementException_AccessDenied
+get_ErrorCodes_Success
+get_ErrorCodes_ServiceNotActivated
+get_ErrorCodes_ServiceDisabled
+get_ErrorCodes_UnexpectedDatabaseError
+get_ErrorCodes_UnexpectedDatabaseResult
+get_ErrorCodes_VirtualDirectoryInvalid
+get_ErrorCodes_VirtualDirectoryAlreadyExists
+get_ErrorCodes_CantConnectCatalog
+get_ErrorCodes_AlreadyActivated
+get_ErrorCodes_NotAnnounced
+get_ErrorCodes_NotAdmin
+get_ErrorCodes_InvalidIISPath
+get_ErrorCodes_IISNotInstalled
+get_ErrorCodes_ASPNetNotRegistered
+get_ErrorCodes_InvalidUser
+get_ErrorCodes_InsufficientPrivilege
+get_ErrorCodes_SqlAdminUserInsufficientPrivilege
+get_ErrorCodes_GrantLoginToPasswordRequired
+get_ErrorCodes_RsexecRoleDoesNotExist
+get_ErrorCodes_WindowsServiceAccountNotSet
+get_ErrorCodes_WebServiceAccountNotSet
+get_ErrorCodes_SslCertificateNotFound
+get_ErrorCodes_ConfigurationFileNotFound
+get_ErrorCodes_InvalidPortNumber
+get_ErrorCodes_InvalidUrlParameterSet
+get_ErrorCodes_InvalidSecureConnectionLevel
+get_ErrorCodes_IllformedAccountString
+get_ErrorCodes_BadCredentialsType
+get_ErrorCodes_BadApplicationPool
+get_ErrorCodes_BadApplicationPoolName
+get_ErrorCodes_BadVerson
+get_ErrorCodes_InvalidVersionString
+get_ErrorCodes_BadLcid
+get_ErrorCodes_ApplicationPoolAlreadyExists
+get_ErrorCodes_OperatingSystemNotSupported
+get_ErrorCodes_BadWebsiteConfiguration
+get_ErrorCodes_BadConfigurationFile
+get_ErrorCodes_SharePointNotInstalled
+get_ErrorCodes_MustCreateVirtualDirectory
+get_ErrorCodes_FailedToLoadResources
+get_ErrorCodes_RPCServerNotListening
+get_ErrorCodes_FailedToEnumerateInstances
+get_ErrorCodes_InvalidParameter
+get_ErrorCodes_LocalServiceIsLocalOnly
+get_ErrorCodes_NotSupportedInSharePointMode
+get_ErrorCodes_NotSupportedInNativeMode
+get_ErrorCodes_RsSharePointObjectModelNotInstalled
+get_ErrorCodes_RsSharePointError
+get_ErrorCodes_RsServerConfigurationError
+get_ErrorCodes_RsUrlAlreadyReservedDifferentName
+get_ErrorCodes_RsMustDefineApplicationFirst
+get_ErrorCodes_RsIpAddressNotFound
+get_ErrorCodes_RsSSLBindingConflict
+get_ErrorCodes_RsSSLCertificateNotRegistered
+get_ErrorCodes_RsInvalidApplication
+get_ErrorCodes_RsURLAlreadyReserved
+get_ErrorCodes_RsURLNotReserved
+get_ErrorCodes_RsURLMustNotExist
+get_ErrorCodes_RsDeliveryExtensionNotFound
+get_ErrorCodes_RsLocalServiceNotAllowedXP
+get_ErrorCodes_RsInvalidSSLCertificate
+get_ErrorCodes_RsBadExtendedProtectionLevelType
+get_ErrorCodes_RsBadExtendedProtectionScenarioType
+get_ErrorCodes_RsMustDefineAuthenticationFirst
+GenericWMIErrorWithCode
+UnableToConnect
+ManagementException_Generic
+Exception_Generic
+ErrorCodes_UnknownOrUnmappedException
+GenericWMIError
+ManagementException_AccessDenied
+ErrorCodes_Success
+ErrorCodes_ServiceNotActivated
+ErrorCodes_ServiceDisabled
+ErrorCodes_UnexpectedDatabaseError
+ErrorCodes_UnexpectedDatabaseResult
+ErrorCodes_VirtualDirectoryInvalid
+ErrorCodes_VirtualDirectoryAlreadyExists
+ErrorCodes_CantConnectCatalog
+ErrorCodes_AlreadyActivated
+ErrorCodes_NotAnnounced
+ErrorCodes_NotAdmin
+ErrorCodes_InvalidIISPath
+ErrorCodes_IISNotInstalled
+ErrorCodes_ASPNetNotRegistered
+ErrorCodes_InvalidUser
+ErrorCodes_InsufficientPrivilege
+ErrorCodes_SqlAdminUserInsufficientPrivilege
+ErrorCodes_GrantLoginToPasswordRequired
+ErrorCodes_RsexecRoleDoesNotExist
+ErrorCodes_WindowsServiceAccountNotSet
+ErrorCodes_WebServiceAccountNotSet
+ErrorCodes_SslCertificateNotFound
+ErrorCodes_ConfigurationFileNotFound
+ErrorCodes_InvalidPortNumber
+ErrorCodes_InvalidUrlParameterSet
+ErrorCodes_InvalidSecureConnectionLevel
+ErrorCodes_IllformedAccountString
+ErrorCodes_BadCredentialsType
+ErrorCodes_BadApplicationPool
+ErrorCodes_BadApplicationPoolName
+ErrorCodes_BadVerson
+ErrorCodes_InvalidVersionString
+ErrorCodes_BadLcid
+ErrorCodes_ApplicationPoolAlreadyExists
+ErrorCodes_OperatingSystemNotSupported
+ErrorCodes_BadWebsiteConfiguration
+ErrorCodes_BadConfigurationFile
+ErrorCodes_SharePointNotInstalled
+ErrorCodes_MustCreateVirtualDirectory
+ErrorCodes_FailedToLoadResources
+ErrorCodes_RPCServerNotListening
+ErrorCodes_FailedToEnumerateInstances
+ErrorCodes_InvalidParameter
+ErrorCodes_LocalServiceIsLocalOnly
+ErrorCodes_NotSupportedInSharePointMode
+ErrorCodes_NotSupportedInNativeMode
+ErrorCodes_RsSharePointObjectModelNotInstalled
+ErrorCodes_RsSharePointError
+ErrorCodes_RsServerConfigurationError
+ErrorCodes_RsUrlAlreadyReservedDifferentName
+ErrorCodes_RsMustDefineApplicationFirst
+ErrorCodes_RsIpAddressNotFound
+ErrorCodes_RsSSLBindingConflict
+ErrorCodes_RsSSLCertificateNotRegistered
+ErrorCodes_RsInvalidApplication
+ErrorCodes_RsURLAlreadyReserved
+ErrorCodes_RsURLNotReserved
+ErrorCodes_RsURLMustNotExist
+ErrorCodes_RsDeliveryExtensionNotFound
+ErrorCodes_RsLocalServiceNotAllowedXP
+ErrorCodes_RsInvalidSSLCertificate
+ErrorCodes_RsBadExtendedProtectionLevelType
+ErrorCodes_RsBadExtendedProtectionScenarioType
+ErrorCodes_RsMustDefineAuthenticationFirst
+_culture
+ExtractOption
+ApplyOption
+DeleteContentOption
+RemoveInstanceOption
+ReencryptOption
+KeyFileOption
+PasswordOption
+TraceOption
+InstanceOption
+JoinFarmOption
+ListServersOption
+WMIAdminUserOption
+WMIAdminPasswordOption
+WMIRemoteMachineOption
+WMIRemoteInstanceNameOption
+Main
+ListReportServersInDB
+JoinRemoteMachineToWebFarm
+GetRemoteInstallationIDFromWMI
+get_KeyFileBytes
+WriteKeyFile
+get_WindowsServiceName
+ExecuteProcess
+AskYesNo
+get_RpcEndpoint
+m_keyOperation
+m_keyFileLocation
+m_keyFilePassword
+m_installationIDToRemove
+m_instanceName
+m_wmiAdminUser
+m_wmiAdminPassword
+m_wmiRemoteMachine
+m_wmiRemoteInstance
+KeyFileBytes
+WindowsServiceName
+RpcEndpoint
+Extract
+Apply
+Delete
+Remove
+JoinFarm
+Reencrypt
+ListServers
+get_MultipleKeyOperations
+get_NoKeyOperation
+get_InvalidInstallationID
+get_PartialWmiAuth
+get_CommandLineHelpExamples
+get_CommandLineHelpOptionList
+get_Debug
+get_UnspecifiedMachineName
+get_YesEntry
+get_NoEntry
+get_AfterExtract
+get_RpcNotListening
+MissingRequiredArgument
+ArgumentNotAllowed
+CommandLineHelpHeader
+BeforeExtract
+DeletePrompt
+RemovePrompt
+ReencryptPrompt
+InstanceNotFound
+UnexpectedWMIProperty
+NoWMINamespace
+NoInstanceFound
+MultipleKeyOperations
+NoKeyOperation
+InvalidInstallationID
+PartialWmiAuth
+CommandLineHelpExamples
+CommandLineHelpOptionList
+Debug
+UnspecifiedMachineName
+YesEntry
+NoEntry
+AfterExtract
+RpcNotListening
+args
+instance
+alpha
+optionType
+optionValue
+value
+contains
+option
+ParamArrayAttribute
+encryptedBytes
+System.Runtime.InteropServices
+OutAttribute
+password
+installationId
+applications
+urlStrings
+accounts
+accountSIDs
+application
+virtualDirectory
+errorCode
+certificateHashes
+certNames
+hostnames
+ipAddresses
+ipVersions
+isDhcpEnableds
+port
+certificateHash
+ipAddress
+databaseName
+lcid
+isSharePointIntegrated
+script
+userName
+database
+isDatabaseRemote
+windowsUser
+serverVersion
+installationIDs
+instanceNames
+machineNames
+isInitialized
+length
+server
+credsType
+timeout
+senderEmail
+useSmtpServer
+smtpServer
+connectionLevel
+accountName
+useBuiltinAccount
+versionTokens
+secStr
+instanceName
+rsNamespace
+connOptions
+getOptions
+version
+checkName
+escapedInstanceName
+message
+innerException
+hresult
+serverName
+wmiError
+genericError
+arg0
+keyBytes
+processName
+stdErr
+prompt
+debug
+yesKey
+noKey
+propertyName
+machine
+arg1
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyTrademarkAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+Console
+WriteLine
+System.IO
+TextWriter
+get_Error
+ToString
+get_Message
+Boolean
+String
+get_Chars
+get_Length
+Char
+IsLetter
+Substring
+Concat
+get_InvariantCulture
+ToUpper
+Array
+GetLength
+FlagsAttribute
+get_CurrentCulture
+IFormatProvider
+Format
+.cctor
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Module
+get_Module
+Assembly
+get_Assembly
+ArgumentNullException
+get_Options
+ManagementOptions
+set_Timeout
+get_Item
+Int32
+PropertyDataCollection
+get_Properties
+PropertyDataEnumerator
+GetEnumerator
+PropertyData
+get_Current
+op_Equality
+get_Value
+MoveNext
+IDisposable
+Dispose
+GetMethodParameters
+set_Item
+InvokeMethod
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+get_LCID
+ObsoleteAttribute
+Trace
+Assert
+IntPtr
+Zero
+Marshal
+SecureStringToGlobalAllocUnicode
+PtrToStringUni
+op_Inequality
+ZeroFreeGlobalAllocUnicode
+AppendChar
+MakeReadOnly
+Clear
+ManagementException
+ManagementStatus
+UInt32
+List`1
+StringComparison
+Equals
+ToArray
+ArgumentException
+ManagementScope
+Connect
+ManagementPath
+ManagementClass
+ManagementObjectCollection
+GetInstances
+ManagementObjectEnumerator
+Compare
+ExternalException
+COMException
+System.Text.RegularExpressions
+Regex
+Replace
+StartsWith
+AuthenticationLevel
+set_Authentication
+SerializableAttribute
+UnauthorizedAccessException
+GetExceptionForHR
+CompilerGeneratedAttribute
+get_FullName
+System.Security.Permissions
+StrongNameIdentityPermissionAttribute
+SecurityAction
+Guid
+Empty
+ReportingServicesNativeClient
+RSRemoteRpcClient
+Utilities
+GetDefaultInstanceName
+RemoteLogon
+DeleteEncryptedContent
+ApplyKey
+ExtractKey
+DeleteKey
+IsNullOrEmpty
+Write
+ActivateService
+set_Username
+set_Password
+File
+FileStream
+OpenRead
+Stream
+Byte
+Read
+Close
+Create
+ServiceNameFromInstanceName
+Process
+ProcessStartInfo
+get_StartInfo
+set_FileName
+set_Arguments
+set_UseShellExecute
+set_CreateNoWindow
+set_RedirectStandardError
+Start
+WaitForExit
+StreamReader
+get_StandardError
+TextReader
+ReadToEnd
+get_ExitCode
+GetExecutingAssembly
+GetCustomAttributes
+get_InformationalVersion
+ToCharArray
+Convert
+ToChar
+RPCEndpointFromInstanceName
+FileNotFoundException
+Microsoft.ReportingServices.WmiProvider.WMIProviderExceptionStrings.resources
+Microsoft.ReportingServices.RSKeyMgmt.Strings.resources
+Microsoft.ReportingServices.BaseCmdLineStrings.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+}Use void SetDatabaseConnection(string server, string database, int credsType, string userName, SecureString password) instead
+VUse void SetUnattendedExecutionAccount(string userName, SecureString password) instead
+System.Security.Permissions.StrongNameIdentityPermissionAttribute, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	PublicKey
+@0024000004800000940000000602000000240000525341310004000001000100272736ad6e5f9586bac2d531eabc3acc666c2f8ec879fa94f8f7b0327d2ff2ed523448f83c3d5c5dd2dfc7bc99c5286b2c125117bf5cbe242b9d41750732b2bdffe649c6efb8e5526d526fdd130095ecdb7bf210809c6cdad8824faa9ac0310ac3cba2aa0523567b2dfa7fe250b30facbd62d4ec99b94ac47c7d3b28f1f6e4c8
+Microsoft SQL Server
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1846 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+Report Server Key Manager
+en-US
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+WrapNonExceptionThrows
+RSDS
+RSKeyMgmt.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"
+ manifestVersion="1.0"> 
+  <assemblyIdentity version="1.0.0.0"
+     processorArchitecture="X86"
+     name="rskeymgmt"
+     type="win32"/> 
+  <description>Description of your application</description> 
+  <!-- Identify the application security requirements. -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"/>
+        </requestedPrivileges>
+       </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1D0B
+http://www.microsoft.com/sql0
+y//y
+MNKc
+aBu	
+<w\zm
+Zko>
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181220Z0#
+g+\I
+Gf>V
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+g;0R
+1D0B
+http://www.microsoft.com/sql0
+ vy8
+3T5p
+gM&908
+b=_f
+0!0	
+O1&"W
+20120211181222.602Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+vv?%>k
+:$xo

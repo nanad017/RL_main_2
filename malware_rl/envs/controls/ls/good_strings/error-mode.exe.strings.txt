@@ -1,0 +1,296 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.eh_fram
+0@.bss
+.idata
+.CRT
+.tls
+WVSQ
+Y[^_]
+[^_]
+u	9}
+[^_]
+D$$t
+[^_]
+[^_]
+ [^_
+*tL1
+UWVS
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+<.t2
+[^_]
+[^_]
+<\t5</t1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+f;D?
+f9T?
+UWVS
+<\tP</tL
+[^_]
+T$(1
+T$(1
+L[^_]
+UWVS
+[^_]
+[^_]
+tq;}
+[^_]
+[^_]
+gfff
+gfff
+[^_]
+@[^_
+@[^_
+@[^_
+@[^_
+gfff
+gfff
+[^_]
+UWVS
+D$01
+\[^_]
+D$p9D$0
+L$0@
+\$@f
+UWVS
+t$T1
+[^_]
+l$.1
+9l$X
+[^_]
+[^_]
+ [^_
+UWV1
+9l$Xv,
+<[^_]
+[^_]
+9|$Xv7
+[^_]
+UWVS
+l[^_]
+l[^_]
+l[^_]
+D$,t
+D$8z
+|$H1
+9D$0
+|$0)
+)D$()
+D$0)
+l$\~
+D$$1
+l[^_]
++D$,
+)D$(
+D$\9D$
+D$\9
+9D$\
+D$D~
+;l$\
++T$0
+D$\9
+t$()
+t$(1
+9l$ 
+UWVS
+[^_]
+[^_]
+UWVS
+\$$1
+9|$(
+L[^_]
+[^_]
+D$@	
+,[^_]
+UWVS
+L$(s
+<[^_]
+[^_]
+[^_]
+UWVS
+,[^_]
+UWVS
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+[^_]
+libgcc_s_dw2-1.dll
+__register_frame_info
+libgcj-13.dll
+_Jv_RegisterClasses
+__deregister_frame_info
+Usage: error-mode [options] [program]
+   or: error-mode [options] -- program [program options]
+  -c, --no-critical-fail       No critical failure error box
+  -g, --no-general-protection  No general fault error box
+  -f, --no-file-open           No open file error box
+  -m MODE, --mode=MODE         Desired SetErrorMode argument (a number)
+  -d, --debug                  Debug output
+  -h, --help                   Print this message and exit
+  -v, --version                Print the version number and exit
+Example:
+  %s -cgf C:/mingw/msys/1.0/msys.bat
+error-mode 0.3
+:cgfm:dhv
+error mode: 0x%x
+old error mode: 0x%x
+new error mode: 0x%x
+Failed to spawn inferior
+no-critical-fail
+no-general-protection
+no-file-open
+mode
+debug
+help
+version
+Mingw runtime failure:
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+glob-1.0-mingw32
+%s: option requires an argument -- %c
+%s: unrecognised option `-%s'
+%s: invalid option -- %c
+%s: 
+option `%s%s' doesn't accept an argument
+option `%s%s' requires an argument
+%s: option `%s' is ambiguous
+%s: unrecognised option `%s'
+POSIXLY_CORRECT
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.9.3
+GCC: (GNU) 4.9.3
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.9.3
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.8.2
+GCC: (GNU) 4.9.3
+GCC: (GNU) 4.9.3
+GCC: (GNU) 4.9.3
+DeleteCriticalSection
+EnterCriticalSection
+ExitProcess
+FindClose
+FindFirstFileA
+FindNextFileA
+FreeLibrary
+GetCommandLineA
+GetLastError
+GetModuleHandleA
+GetProcAddress
+InitializeCriticalSection
+InterlockedExchange
+IsDBCSLeadByteEx
+LeaveCriticalSection
+LoadLibraryA
+MultiByteToWideChar
+SetErrorMode
+SetUnhandledExceptionFilter
+Sleep
+TlsGetValue
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+_spawnvp
+_strdup
+_stricoll
+__getmainargs
+__mb_cur_max
+__p__environ
+__p__fmode
+__set_app_type
+_cexit
+_errno
+_fullpath
+_iob
+_onexit
+_setmode
+abort
+atexit
+atoi
+calloc
+fflush
+fprintf
+fputc
+free
+fwrite
+getenv
+isspace
+localeconv
+malloc
+mbstowcs
+memcpy
+printf
+puts
+realloc
+setlocale
+signal
+strchr
+strcoll
+strlen
+strtoul
+tolower
+vfprintf
+wcslen
+wcstombs
+KERNEL32.dll
+msvcrt.dll
+msvcrt.dll

@@ -1,0 +1,345 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+P@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+UAUATWVSH
+l$ E
+h[^_A\A]]
+D$0H
+D$(H
+Qhull %s.
+Except for 'F.' and 'PG', upper-case options take an argument.
+ incidences     mathematica    OFF_format     points_lifted  summary
+ facet_dump
+ Farea          FArea_total    Fcoincident    Fd_cdd_in      FD_cdd_out
+ FF_dump_xridge FIDs           Fmerges        Fneighbors     FNeigh_vertex
+ FOptions       FPoint_near    FQdelaun       Fsummary       FSize
+ Fvertices      Fxtremes       FMaple
+ Gvertices      Gpoints        Gall_points    Gno_planes     Ginner
+ Gcentrums      Ghyperplanes   Gridges        Gouter         GDrop_dim
+ Gtransparent
+ PArea_keep     Pdrop d0:0D0   Pgood          PFacet_area_keep
+ PGood_neighbors PMerge_keep   Poutput_forced Pprecision_not
+ QGood_point    QJoggle        Qsearch_1st    Qtriangulate   QupperDelaunay
+ QVertex_good   Qzinfinite
+ T4_trace       Tcheck_often   Tstatistics    Tverify        Tz_stdout
+ TFacet_log     TInput_file    TPoint_trace   TMerge_trace   TOutput_file
+ TWide_trace    TVertex_stop   TCone_stop
+ Angle_max      Centrum_size   Random_dist    Wide_outside
+qdelaunay- compute the Delaunay triangulation.  Qhull %s
+    input (stdin): dimension, number of points, point coordinates
+    comments start with a non-numeric character
+options (qdelaun.htm):
+    Qu   - furthest-site Delaunay triangulation
+    Qt   - triangulated output
+    QJ   - joggled input instead of merged facets
+    Tv   - verify result: structure, convexity, and in-circle test
+    .    - concise list of all options
+    -    - one-line description of all options
+output options (subset):
+    s    - summary of results (default)
+    i    - vertices incident to each Delaunay region
+    Fx   - extreme points (vertices of the convex hull)
+    o    - OFF format (shows the points lifted to a paraboloid)
+    G    - Geomview output (2-d and 3-d points lifted to a paraboloid)
+    m    - Mathematica output (2-d inputs lifted to a paraboloid)
+    QVn  - print Delaunay regions that include point n, -n if not
+    TO file- output results to file, may be enclosed in single quotes
+examples:
+    rbox c P0 D2 | qdelaunay s o          rbox c P0 D2 | qdelaunay i
+    rbox c P0 D2 | qdelaunay Fv           rbox c P0 D2 | qdelaunay s Qu Fv
+    rbox c G1 d D2 | qdelaunay s i        rbox c G1 d D2 | qdelaunay Qt
+    rbox M3,4 z 100 D2 | qdelaunay s      rbox M3,4 z 100 D2 | qdelaunay s Qt
+Geomview options (2-d and 3-d)
+    Ga   - all points as dots
+     Gp  -  coplanar points and vertices as radii
+     Gv  -  vertices as spheres
+    Gi   - inner planes only
+     Gn  -  no planes
+     Go  -  outer planes only
+    Gc	   - centrums
+    Gh   - hyperplane intersections
+    Gr   - ridges
+    GDn  - drop dimension n in 3-d and 4-d output
+    Gt   - transparent outer ridges to view 3-d Delaunay
+Print options:
+    PAn  - keep n largest Delaunay regions by area
+    Pdk:n - drop facet if normal[k] <= n (default 0.0)
+    PDk:n - drop facet if normal[k] >= n
+    Pg   - print good Delaunay regions (needs 'QGn' or 'QVn')
+    PFn  - keep Delaunay regions whose area is at least n
+    PG   - print neighbors of good regions (needs 'QGn' or 'QVn')
+    PMn  - keep n Delaunay regions with most merges
+    Po   - force output.  If error, output neighborhood of facet
+    Pp   - do not report precision problems
+    .    - list of all options
+    -    - one line descriptions of all options
+More formats:
+    Fa   - area for each Delaunay region
+    FA   - compute total area for option 's'
+    Fc   - count plus coincident points for each Delaunay region
+    Fd   - use cdd format for input (homogeneous with offset first)
+    FD   - use cdd format for numeric output (offset first)
+    FF   - facet dump without ridges
+    FI   - ID of each Delaunay region
+    Fm   - merge count for each Delaunay region (511 max)
+    FM   - Maple output (2-d only, lifted to a paraboloid)
+    Fn   - count plus neighboring region for each Delaunay region
+    FN   - count plus neighboring region for each point
+    FO   - options and precision constants
+    FP   - nearest point and distance for each coincident point
+    FQ   - command used for qdelaunay
+    Fs   - summary: #int (8), dimension, #points, tot vertices, tot facets,
+                    for output: #vertices, #Delaunay regions,
+                                #coincident points, #non-simplicial regions
+                    #real (2), max outer plane, min vertex
+    FS   - sizes:   #int (0)
+                    #real(2) tot area, 0
+    Fv   - count plus vertices for each Delaunay region
+    Fx   - extreme points of Delaunay triangulation (on convex hull)
+Trace options:
+    T4   - trace at level n, 4=all, 5=mem/gauss, -1= events
+    Tc   - check frequently during execution
+    Ts   - print statistics
+    Tv   - verify result: structure, convexity, and in-circle test
+    Tz   - send all output to stdout
+    TFn  - report summary when n or more facets created
+    TI file - input data from file, no spaces or single quotes
+    TO file - output results to file, may be enclosed in single quotes
+    TPn  - turn on tracing when point n added to hull
+     TMn - turn on tracing at merge n
+     TWn - trace merge facets when width > n
+    TVn  - stop qhull after adding point n, -n for before (see TCn)
+     TCn - stop qhull after building cone for point n (see TVn)
+Precision options:
+    Cn   - radius of centrum (roundoff added).  Merge facets if non-convex
+     An  - cosine of maximum angle.  Merge facets if cosine > n or non-convex
+           C-0 roundoff, A-0.99/C-0.01 pre-merge, A0.99/C0.01 post-merge
+    Rn   - randomly perturb computations by a factor of [1-n,1+n]
+    Wn   - min facet width for outside point (before roundoff)
+Output formats (may be combined; if none, produces a summary to stdout):
+    f    - facet dump
+    G    - Geomview output (see below)
+    i    - vertices incident to each Delaunay region
+    m    - Mathematica output (2-d only, lifted to a paraboloid)
+    o    - OFF format (dim, points, and facets as a paraboloid)
+    p    - point coordinates (lifted to a paraboloid)
+    s    - summary (stderr)
+    Qs   - search all points for the initial simplex
+    Qz   - add point-at-infinity to Delaunay triangulation
+    QGn  - print Delaunay region if visible from point n, -n if not
+    QVn  - print Delaunay regions that include point n, -n if not
+qdelaunay- compute the Delaunay triangulation
+    http://www.qhull.org  %s
+input (stdin):
+    first lines: dimension and number of points (or vice-versa).
+    other lines: point coordinates, best if one point per line
+    comments:    start with a non-numeric character
+options:
+    Qu   - compute furthest-site Delaunay triangulation
+    Qt   - triangulated output
+    QJ   - joggled input instead of merged facets
+Qhull control options:
+    QJn  - randomly joggle input in range [-n,n]
+%s%s%s%s
+ d n v H U Qb QB Qc Qf Qg Qi Qm Qr QR Qv Qx TR E V FC Fi Fo Ft Fp FV Q0 Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 
+delaunay  Qbbound-last
+Qxact_merge
+qhull internal warning (main): did not free %d bytes of long memory (%d pieces)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+qh_check_output
+qh_check_points
+qh_checkflags
+qh_freeqhull
+qh_init_A
+qh_init_B
+qh_initflags
+qh_memfreeshort
+qh_option
+qh_produce_output
+qh_qh
+qh_qhull
+qh_readpoints
+qh_version
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_setjmp
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+vfprintf
+_isatty
+libqhull-5.dll
+KERNEL32.dll
+msvcrt.dll

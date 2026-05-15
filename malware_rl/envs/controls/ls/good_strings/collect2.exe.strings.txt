@@ -1,0 +1,4672 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+ATUWVSH
+ [^_]A\
+'tLH
+UWVSH
+t];B
+([^_]
+UWVSH
+([^_]
+([^_]
+WVSH
+0[^_
+\$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+u'H;
+\$XH
+T$XL
+D$`L
+L$hH
+ATUWVSH
+ [^_]A\
+ [^_]A\
+WVSH
+D$<H
+@[^_
+\$ A
+AWAVAUATUWVSH
+D$XH
+D$|L
+D$0H
+T$|H
+L$X1
+_t'H
+T$XH
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+t$PH
+D$XH
+D$LL
+l$(L
+D$0L
+T$LH
+x[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$@L
+D$<I
+t L;
+tjIc
+L;	t
+X[^_]A\A]A^A_
+UWVSH
+1H9S 
+H9S 
+HcK0A
+([^_]
+WVSH
+ [^_
+WVSH
+ [^_
+L;C v
+D$,L
+H;S wxH
+HcK0A
+C H!
+t&H9
+AUATUWVSH
+d$/H
+D$/D
+v5H;S s/H
+8[^_]A\A]
+8[^_]A\A]
+WVSH
+ [^_
+ [^_
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+v(H;P s"H
+AWAVAUATUWVSH
+l$@L
+<Ot'H
+|$ H
+H9S 
+L$XH)
+!H9D$`
+d$XL
+d$XA
+'u}A
+d$XL
+L$XL)
+!H9D$`s
+H;D$`
+D$XA
+H9C 
+L$PH
+D$XL9
+HcT$p
+L$HH!
+T$`I
+D$XI)
+T$XH
+D$PM
+H9S 
+H9C H
+HcK0H
+[^_]A\A]A^A_
+H;S 
+H9S 
+L$PH
+D$XL
+d$XI
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+t1H;
+v	H;
+\$;D
+T$4D
+D$0H
+\$;I
+T$0I
+D$0I
+L9	u
+AVAUATUWVSH
+D$(D
+L$0L
+d$ H
+T$ A
+C(H9
+P[^_]A\A]A^
+AVAUATUWVSH
+l$ H
+.exe
+D$&f%
+D$&f%
+`[^_]A\A]A^
+.exe
+WVSH
+ [^_
+AUATUWVSH
+<\t5</t1
+([^_]A\A]
+T$HL
+D$PH
+D$HH
+L$ L
+L$XL
+D$ H
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+T$8I
+;<(tV
+t$(H
+l$ I
+t$(H
+l$ E
+WVSH
+t$ I
+0[^_
+WVSH
+ [^_
+WVSH
+ [^_
+UWVSH
+([^_]
+UWVSH
+([^_]
+UAVAUATWVSH
+t$@H
+D$(^
+d$ L
+[^_A\A]A^]
+WVSH
+L$HA
+D$HH
+D$HHc@
+P[^_
+AVAUATUWVSH
+AHLc
+xCLc
+tgM9
+ [^_]A\A]A^
+ [^_]A\A]A^
+HcShH
+UWVSH
+([^_]
+D$xL
+T$xH
+T$0H
+\$0H
+D$@H
+D$(H
+D$8H
+D$PL
+D$PL
+L$XL
+AWAVAUATUWVSH
+HcB8H
+L$`H
+D$`D
+L$hH
+DT$l
+|$8L
+l$0L
+t$(H
+D$ L
+[^_]A\A]A^A_
+T$ L
+|$@L
+l$8L
+t$0L
+|$0L
+l$(L
+t$ I
+|$0L
+l$(L
+t$ I
+WVSH
+D$@H
+D$8u\H
+t$0H
+p[^_
+T$<L
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+SPIc
+D$ H
+T$0H
+D$ H
+HcV<H
+UWVSH
+D$(t\
+D$@H
+D$(H
+D$8u
+l$lH
+x[^_]
+D$@H
+D$(H
+T$0H
+D$@H
+T$0H
+D$@H
+WVSH
+D$(H
+T$0H
+D$@H
+\$lH
+p[^_
+WVSH
+T$0H
+D$@H
+\$lH
+p[^_
+WVSH
+T$0H
+D$@H
+\$lH
+p[^_
+WVSH
+D$(H
+D$@H
+\$hH
+p[^_
+D$(H
+T$0H
+D$@H
+T$0H
+D$@H
+T$0H
+D$@H
+D$(H
+T$0H
+D$@H
+D$(H
+T$0H
+D$@H
+D$(H
+T$0H
+D$@H
+WVSH
+ [^_
+ [^_
+WVSH
+|$ E1
+0[^_
+H;P r H
+UWVSH
+([^_]
+H;S v
+UWVSH
+<tI~
+{tA~3A
+|uI@
+([^_]
+H;S v
+WVSH
+H;N w
+ [^_
+WVSH
+ [^_
+ATUWVSH
+)H9G s
+ [^_]A\
+ [^_]A\
+ATUWVSH
+!H9G s
+0[^_]A\
+ATUWVSH
+T$(H
+~YH9
+ [^_]A\
+ [^_]A\
+AWAVAUATUWVSH
+EpH9
+U`L!
+EpI)
+D$H1
+D$xH
+<%t)
+I;Uxv
+I;Ux
+L$HM
+EpL9
+EpI)
+T$@H
+L$HL
+I;Uxv
+MpLc
+1I9Ux
+T$@K
+>I9Mx
+I;Ux
+D$HM
+EpL9
+EpH)
+|$HI
+D$xL
+\$`H
+D$hI
+MpLc
+1I9Ux
+I;Ux
+I;Ux
+EpL9
+EpI)
+d$XL
+MpLc
+1I9Ux
+I;Ux
+EpL9
+EpI)
+D$@M
+[^_]A\A]A^A_
+T$`A
+I;Ux
+I;Ux
+I;Uxv
+T$XD
+\$WD
+L$VH
+T$XD
+\$WD
+I;Ux
+L$(D
+\$0A
+t$ I
+T$`A
+T$xA9
+T$hH
+ATUWVSH
+L;e`I
+L;exr
+ [^_]A\
+ [^_]A\
+WVSH
+ [^_
+T$0H
+t$0H
+D$@H
+D$(H
+T$0H
+t$0H
+D$@H
+D$(H
+WVSH
+ [^_
+AWAVAUATUWVSH
+d$,E1
+ v*H
+8[^_]A\A]A^A_
+D$,H
+t!H;A t
+H9A0s
+S(I9
+UWVSH
+vPE1
+L$8thH
+D$8H
+H[^_]
+H[^_]
+AWAVAUATUWVSH
+C(I)
+s0I)
+L;s(s
+s0I)
+L;s(
+H[^_]A\A]A^A_
+T$8D
+L$0D
+D$(H
+T$8H
+L$(L
+L$(L
+T$<H
+D$8L
+L$0D
+T$(D
+D$8H
+L$(H
+L$(L
+L$(A
+H95:
+AVAUATUWVSH
+F8Hc
+l$(L
+F8H9
+D$0L9
+D$0H
+P[^_]A\A]A^
+P[^_]A\A]A^
+D$0H
+D$(A
+d$0A
+HcD$8I
+vPL9
+D$0H
+AUATUWVSH
+T$ H
+|$(D
+d$0H
+D$$A
+D$,A
+D$ A
+D$(A
+D$8A
+D$@A
+D$DA
+D$HA
+X[^_]A\A]
+UWVSH
+A$;A 
+([^_]
+9^`w
+WVSH
+@[^_
+T$0H
+T$0L
+D$8A
+ChH)
+@[^_
+ChH)
+T$(wN
+L$0L
+D$(H
+UWVSH
+([^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+E+/M
+AVAUATUWVSH
+D$(H
+ [^_]A\A]A^
+9i<s
+ [^_]A\A]A^
+AWAVAUATUWVSH
+u	E9
+d$ H
+8[^_]A\A]A^A_
+(9Q@
+;C8r
+;P(E
+WVSH
+ [^_
+T$(+
+D$(H
+D9A8
+WVSH
+ [^_
+ [^_
+ [^_
+AUATUWVSH
+9W8r
+([^_]A\A]
+t)H9
+([^_]A\A]
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+ATUWVSH
+D$ t
+0[^_]A\
+l$(A
+T$ H
+0[^_]A\
+	9J8rLE+
+UWVSH
+D$PH
+D$XH
+D$`H
+D$hH
+L$0H
+D$(H
+D$(H
+[^_]
+L$LD
+L$LH
+UWVSH
+x[^_]
+T$hH
+uWHcJ
+T$8H
+\$HH
+l$0D
+T$(D
+x[^_]
+AUATUWVSH
+xsHc
+([^_]A\A]
+([^_]A\A]
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+ATUWVSH
+ [^_]A\
+9s$v
+ [^_]A\
+D$(D
+D$pH
+D$(H
+L$(A
+D$(H
+WVSH
+ [^_
+UWVSH
+L$xH
+([^_]
+ATUWVSH
+|$pH
+D$xH
+ [^_]A\
+AWAVAUATUWVSH
+D$8H
+u"<$u
+|$ H
+\$(D
+|$01
+|$0L
+|$ H
+\$(L
+L$8H
+D$8H
+H[^_]A\A]A^A_
+|$ H
+\$(L
+WVSH
+0[^_
+D$(H
+ATUWVSH
+@[^_]A\
+@[^_]A\
+T$ H
+T$ H
+D$(D
+WVSH
+ [^_
+UATWVSH
+T$ L
+x H98t
+[^_A\]
+[^_A\]
+WVSH
+ [^_
+UWVSH
+@(ttH9
+([^_]
+UAWAVAUATWVSH
+t$@M
+P H9
+D$0H
+t$(E1
+D$ H
+[^_A\A]A^A_]
+AWAVAUATUWVSH
+\$X1
+|$HH
+t$0L
+l$(L
+l$(I
+[^_]A\A]A^A_
+|$HH
+D$Hf
+Qu H
+D$Hf
+D$HH
+D$xH
+L$ I
+9D$h
+D$(D
+D$`L
+9D$h
+9D$hJ
+L$0L
+T$pI
+|$pL
+PtDL
+D$ I
+|$h<
+|$`D
+L$hH
+9T$hH
+D$Hf
+D$xH
+D$pH
+D$pM
+l$HI9
+\$hL
+|$`H
+T$`A
+D$XL9p
+\$hL
+L$HI
+D$XL
+L;l$p
+t$HH
+D$0A
+|$(D
+L;l$p
+D$XL;h
+L$hM
+D$0H
+D;|$P
+D$0H
+|$(H
+L$XL
+L$HE1
+\$XL
+d$Pu
+D$HH
+D$hH
+D$`H
+t$HE
+D$XL;h
+D$hH
+D$HH
+T$0H
+|$(D
+D$XL
+L;l$pH
+D$(H
+D$ H
+T$`H+i
+D$XL
+T$xH
+O E1
+D$(I
+T$(H
+D$H1
+\$p1
+AWAVAUATUWVSH
+|$`H
+D$OH
+D$hH
+D$PH
+x[^_]A\A]A^A_
+t$`M
+D$`A
+D$PH
+D$`H
+T$hE
+T$XI
+L$hI
+T$ H
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+8[^_]A\A]
+%t]D
+D$(H
+D$ D
+E E1
+F8E1
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+&taH
+UWVSA
+1[^_]
+WVSH
+ [^_
+WVSH
+0[^_
+L$(H
+L$(I
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ATUWVSH
+@[^_]A\
+@[^_]A\
+@[^_]A\
+D$<E1
+@[^_]A\
+UWVSH
+([^_]
+H;P(u
+AWAVAUATUWVSH
+D$PI
+T${H)
+T${H
+D$@f
+wzIc
+Q0H;
+T${H
+T${H
+T${D
+L$@D
+T${w
+T$@A
+\$8H
+\$`I
+L$8L
+D$XH
+H;D$P
+T$@H
+D$pH
+[^_]A\A]A^A_
+T$@t
+T$@<
+\$8H
+\$`H
+D$hH
+T$XH
+D$hH
+T$`A
+T${L
+D$@D
+T$@E1
+D$hH
+D$XI
+\$`H
+T$LD
+|$@I
+|$`E1
+T$XH
+|$@E1
+T${L
+T${M
+D$XD
+D$|E1
+D$(H
+D$pA
+D$@D
+T$8L
+D$@Ic
+D$8H
+T$@A
+D$pH
+D$8D
+D$`H
+D$XH
+\$hH
+D$|H
+WVSH
+ [^_
+ [^_
+ATUWVSH
+ [^_]A\
+AVAUATUWVSH
+l$.L
+0[^_]A\A]A^
+L$.H
+L$/H
+tEH9
+5u+H
+UAWAVAUATWVSH
+D$0#I
+L$1H
+t$0H
+[^_A\A]A^A_]
+D$ E
+UWVSH
+([^_]
+ATUWVSH
+ [^_]A\
+ATUWVSH
+|$(u
+0[^_]A\
+ATUWVSH
+T$,H
+D$0H
+T$@H
+D$8t:H
+P[^_]A\
+D$0A
+D$8fA
+D$@I
+AVWVSH
+8[^_A^
+L$(D
+L$(D
+UWVSH
+([^_]
+WVSH
+ [^_
+=u-L
+T$(H
+T$(H
+UWVSH
+T$(H
+t$(H
+8[^_]
+t$(H
+AWAVAUATUWVSH
+<=te<Ctj<
+([^_]A\A]A^A_
+8RtE
+Mt'H
+T$(L
+L$,H
+D$(H
+xYt?L
+WVSH
+ [^_
+WVSH
+ [^_
+t f.
+WVSH
+L$4H
+T$0L
+D$8H
+L$8I
+L$ H
+D$0A
+L$8H
+@[^_
+D$4E1
+D$(H
+UAUATWVSH
+[^_A\A]]
+[^_A\A]]
+=t:H
+D$ =
+L$8L
+WVSH
+tVH;
+v	H;
+ [^_
+ [^_
+ [^_
+AUATUWVSH
+tHI;r
+d$ I
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+ATUWVSH
+ [^_]A\
+L$ M
+8[^H
+ATUWVSH
+7t.H
+@[^_]A\
+@[^_]A\
+@[^_]A\
+L$0H
+D$ =
+El$81
+AUATUWVSH
+H[^_]A\A]
+|$ A
+H[^_]A\A]
+H[^_]A\A]
+H[^_]A\A]
+L$0H
+D$ =
+El$8
+t$`M
+t$`D
+WVSH
+T$(H
+0[^_
+WVSH
+0[^_
+L$,L
+L$,L
+ATUWVSH
+t:HcC
+D$(H
+v	H;
+0[^_]A\
+UAUATWVSH
+[^_A\A]]
+[^_A\A]]
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+UATWVSH
+t$ H
+t*H)
+[^_A\]
+D$PH
+L$ L
+D$PL
+L$XH
+T$ H
+UWVSH
+T$ L
+[^_]
+UWVSH
+T$ L
+[^_]
+UAUATWVSH
+L$ I
+T$ L
+t9I)
+[^_A\A]]
+WVSH
+ [^_
+\$pL
+L$(E
+T$PL
+\$XH
+\$`H
+\$`L
+\$XD
+T$PH
+D$hL
+L$hM
+D$8H
+D$8H
+D$hL
+L$hM
+D$8H
+D$8H
+D$hL
+L$hM
+D$8H
+D$8H
+D$hL
+L$hM
+D$8H
+D$8H
+L$ E
+D$HH
+D$HH
+D$0H
+L$ E
+D$HH
+D$HH
+D$0H
+L$ E
+D$HH
+D$HH
+D$0H
+L$ E
+D$HH
+D$HH
+D$0H
+WVSH
+D$ I
+0[^_
+WVSH
+D$ I
+0[^_
+UWVSH
+L$@H
+D$ H
+T$(H
+T$ H
+T$@H
+L$HL
+D$PH9
+h[^_]
+AVAUATUWVSH
+tO<=tK<
+ [^_]A\A]A^
+UWVSI
+ u#H
+[^_]
+AUATUWVS1
+[^_]A\A]
+UWVSH
+L$(L
+D$ L
+L$PH
+T$0H
+t$0L
+T$8H
+D$XH
+L$`H
+T$PH
+x[^_]
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+D$0H
+L$PH
+T$8H
+T$0L
+L$ H
+L$(H
+T$`H
+l$P1
+|$XL
+T$(H
+L$pM
+L9|$x
+L9t$p
+AWAVAUATUWVSH
+T$,L
+L$ D
+d$PA
+t$0M
+L$ H
+D$0I
+T$,H
+D$8I
+l$PL
+L$ D
+T$,I
+t$XI
+D$`I
+L$PH
+D$0H
+T$0D
+D$8M
+D$`H
+\$PH
+\$pH
+T$xA
+D$pD
+D$xH
+[^_]A\A]A^A_
+L$PM9
+D$8M
+D$0H
+T$0D
+D$`H
+\$PH
+\$pH
+T$xA
+d$PL
+t$0H
+D$0H
+D$8H
+l$PH
+t$XH
+t$`L
+WVSH
+D$pH
+0[^_
+H;|$p
+L$(H
+'t:H
+AWAVAUATUWVSH
+D$HA
+l$HI
+T$PH)
+H9t$Ht
+l$(H
+D$ E1
+h[^_]A\A]A^A_
+D$ E1
+D$HI
+T$XD
+L$PM)
+L$PL
+Bu.A
+;|$Dr8
+|$(H
+D$ E1
+u(<'u
+<'t+H
+'u"A
+d$HI
+T$PI)
+\$HH
+\$HA
+t$0D
+d$(E1
+D$ E1
+D$ t
+t$0D
+d$(H
+l$(E1
+D$ L
+T$PH
+l$(H
+AWAVAUATUWVSH
+|$0?H
++L$0H
+t$(H
+L$HH
+L$`H
+L$PH
+'uZA
+T$(H
+|$0@H
+[^_]A\A]A^A_
+T$PH
+L$HL
+D$0L
+L$`L
+L$8H
+D$pL
+L$8H
+L$XHc
+WVSH
+ [^_
+AWAVAUATUWVSH
+D$xH
+D$hH
+D$pH
+T$xL
+HcL$`L
+T$PH
+|$@Ic
+G9T$P
+T$`A
+T$TA
+L$hH
+L$H1
+D$pH
+L$hI
+t$ H
+D$0A
+T$HL
+|$H@
+T$HL
+T$pH
+|$H@H
+[^_]A\A]A^A_
+D$XI
+D$dA
+T$XL
+D$(H
+D$HH
+D$HL
+D$HH
+T$hH
+D$H@
+l$(M
+\$ E
+D$pH
+T$XL
+D$(H
+D$(H
+T$`A
+T$XL
+D$(H
+D$dH
+D$ E1
+D$(H
+D$ E1
+D$(H
+D$(H
+D$(H
+T$pM
+L$hH
+T$pM
+T$XL
+L$dH
+T$XE1
+D$dE1
+D$XH
+T$p1
+L$hH
+T$pL
+D$HH
+L$hL
+T$pH
+L$hH
+|$H@
+L$HH
+D$HH
+T$pH
+L$hH
+D$dE1
+T$HH
+D$HH
+T$pH
+L$hH
+t$ D
+L$hL
+T$pH
+T$pM
+L$hL
+ ttH
+D$dE1
+D$dE1
+D$XH
+D$dE1
+D$(H
+D$dE1
+T$pH
+L$hH
+D$dE1
+@vJI
+?w"A
+ATUWVSH
+ [^_]A\
+ [^_]A\
+AVAUATUWVSH
+ [^_]A\A]A^
+CNf%
+CNf%
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+ [^_]A\
+UAWAVAUATWVSH
+L$ L
+</t	A
+header.gH
+[^_A\A]A^A_]
+WVSH
+ [^_
+AVAUATUWVSH
+FNf%
+\$ I
+D$0I
+P[^_]A\A]A^
+UWVSH
+<\tD</t@
+:t6H
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+F(D9x0w
+AWAVAUATUWVSH
+D$HH
+[^_]A\A]A^A_
+D$ H
+t4H9
+|$ H
+|$ H
+7.gchA
+D$ff%
+D$ H
+D$ H
+D$@A
+D$PH
+D$@L
+H;D$Pw4H
+D$@H
+D$PL
+D$XJ
+D$XI
+D$ L
+AWAVAUATUWVSH
+x[^_]A\A]A^A_
+D$<t
+L$@A
+\$`H
+|$ L
+T$@H
+L$@A
+\$`H
+|$ L
+T$@H
+CpH9Gpu
+C`H9G`u
+E`L;C`
+ATUWVSH
+d$ H
+T$(H
+tOE1
+0[^_]A\
+0[^_]A\
+0[^_]A\
+WVSH
+ [^_
+ [^_
+WVSH
+t$(H
+t$(H
+t$ E1
+0[^_
+D$ H
+L$ H
+T$(L
+D$ H
+H9\$(w
+WVSH
+t`E1
+|$ H
+@pH9Cp
+0[^_
+tDL9B0t
+WVSH
+ [^_
+AVAUATUWVSH
+0[^_]A\A]A^
+L$ I
+D$ H
+T$(L
+D$ H
+H;D$ 
+WVSH
+|$ H
+0[^_
+(4$Hc
+Q<D;Q@H
+uFI9
+$t*A
+AUATUWVSH
+uJH9
+8[^_]A\A]
+AWAVAUATUWVSH
+\tzA
+V H9
+8[^_]A\A]A^A_
+H9F t
+V H9
+B L9
+uML;B
+D$/H
+AVAUATUWVSH
+\tyA
+T$(E
+F H9F
+@[^_]A\A]A^
+UWVSH
+G H9G
+8[^_]
+8[^_]
+ATUWVSH
+t1H9
+ [^_]A\
+UWVSH
+([^_]
+([^_]
+([^_]
+UWVSH
+D$(tdH
+D$ D
+H[^_]
+H[^_]
+u(Hc
+ATUWVSH
+0[^_]A\
+0[^_]A\
+0[^_]A\
+=u2A
+WVSH
+ [^_
+AVAUATUWVSH
+ [^_]A\A]A^
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+WVSH
+ [^_
+AUATUWVSH
+<PuAA
+([^_]A\A]
+UWVSH
+([^_]
+AWAVAUATUWVSH
+D$\>
+D$\@
+D$\=
+D$hH
+D$HH
+D$`I
+D$PE
+L$TI9
+[^_]A\A]A^A_
+D$ H
+d$ H
+d$ M
+d$ M
+d$ M
+d$ M
+D$HA
+d$ M
+D$HB
+ teH
+d$ M
+D$HH
+T$8B
+d$ M
+d$ M
+\$@H
+T$8H
+D$HI
+L$TH
+d$ M
+D$HH
+\$@B
+T$`H
+d$ M
+H;t$`t
+D$XD
+T$TD
+rQI9
+|$\I
+H H9H
+d$ M
+H H9
+D$XI9
+d$ M
+D$ H
+D$hH+
+D$ <
+D$ H
+D$ H
+D$\<
+D$ H
+d$ M
+d$ M
+D$\H
+L$\L
+D$\A
+AWAVAUATUWVSH
+G0H;
+l$@H
+X[^_]A\A]A^A_
+@<fD
+|$@H
+T$?L
+\$0D
+D$(H
+T$?L
+D$0D;@<t
+G H9
+D$ <
+=u)I
+UWVSH
+8[^_]
+D$(H
+8[^_]
+WVSH
+ [^_
+tW~D
+UWVSH
+9w0vOH
+<.u,
+</u 
+([^_]
+<#tM<$
+tF< t
+#t]A
+9s0H
+WVSH
+ [^_
+UATWVSH
+|$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+;W4t-H
+ [^_]A\
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+WVSH
+ [^_
+ATUWVSH
+T$(I
+0[^_]A\
+0[^_]A\
+AVAUATUWVSH
+L$$I
+H;D$(uyH
+9t$$vmI
+D$(I
+D$(H
+0[^_]A\A]A^
+AWAVAUATUWVSH
+tXD9~
+\$<D
+L$0L
+T$(D
+L$0D
+\$<u
+H[^_]A\A]A^A_
+T$0H
+T$(H
+T$(H
+T$0H
+T$(H
+T$(B
+H9E 
+HcU0
+\$0L
+\$0L
+T$(E
+L$ F
+ATUWVSH
+ [^_]A\
+ATUWVSH
+ [^_]A\
+WVSH
+t$pH
+L$,D
+L$,D
+D$(H
+0[^_
+AWAVAUATUWVSH
+)t$@
+)|$PD
+)D$`D
+)L$pD
+}pLc
+T$8A
+T$8H
+D$8A
+D$8H
+|$(D
+t$ A
+H`fE
+H`fA
+(t$@
+(|$PD
+(D$`D
+(L$pD
+[^_]A\A]A^A_
+AUATUWVSH
+l$@H
+l$0H
+|$@L
+d$0H
+|$8H
+l$HH
+L$HH
+T$8H
+l$ I
+uaE1
+l$ I
+H+D$HH
+X[^_]A\A]
+X[^_]A\A]
+H+D$HH
+H+D$H1
+l$ I
+WVSH
+ [^_
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+|$0H
+l$ M
+ATUWVSH
+0[^_]A\
+0[^_]A\
+D$,I
+L$ D
+D$,I
+D$,L
+L$ I
+L$ D
+D$,I
+AVAUATUWVSH
+D$(L
+L$ H
+L$ L
+D$(I
+0[^_]A\A]A^
+AVAUATUWVSH
+0[^_]A\A]A^
+D$(L
+L$ H
+L$ L
+D$(I
+AUATUWVSH
+l$0H
+H[^_]A\A]
+D$5H
+D$(L
+L$ H
+L$ L
+D$(I
+AVAUATUWVSH
+l$0H
+@[^_]A\A]A^
+@[^_]A\A]A^
+T$5L
+D$(L
+L$ H
+L$ L
+D$(I
+ATUWVSH
+t$ M
+D$ I
+D$(H
+D$0H
+D$ E
+D$(H
+D$0H
+D$ L
+D$(H
+D$0H
+D$ L
+D$(H
+D$0H
+D$ H
+D$(H
+D$0H
+@[^_]A\
+D$ L
+D$(H
+D$0H
+tGH9
+tNH9
+tUH9
+t\H9
+T$/H
+D$0H
+T$/H
+L$0A
+AVAUATUWVSH
+<ut!<UA
+0[^_]A\A]A^
+@tOA
+l$ A)
+0[^_]A\A]A^
+l$ A)
+l$ A)
+0[^_]A\A]A^
+l$ A)
+@tmH
+w}=/
+wN=.
+w^=6
+wI-Z
+wD=(
+w+=`
+w`-(
+uvc=
+wS=Z
+w9=L
+wn=j
+wV=>
+v6=C
+wl=d
+wG=X
+wY=x
+wG=&
+wU=(
+wg=T
+wB=G
+wV=*
+wV=h
+w1=G
+wV=j
+wG=*
+wG=9
+wb=D
+v7='
+AWAVAUATUWVSH
+\$@H
+t$|H
+D$PH
+t$xH
+D$pH
+D$@H
+D$@I
+D$HH;
+D$\I
+D$hH!
+D$\I
+D$PH
+T$pH
+D$8H!
+#\$xL
+T$`A
+D$\I
+D$@D
+[^_]A\A]A^A_
+L$PH
+L$PL
+#\$|L
+UWVSH
+D$ =
+8[^_]
+AWAVAUATUWVSH
+D$ A
+L$`H
+\$PL
+HcD$pL
+t$@H
+D$LH
+D$01
+t$8I
+L9L$8v
+#\$@
+[^_]A\A]A^A_
+D$PL
+t$XA
+L$0I
+t$XH
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+AVAUATUWVSH
+L$0L
+d$0H
+t$8I9
+D$PL
+L$PI
+T$`L
+L$XH
+L$PI
+rmL9
+D$`H
+T$PH
+L$`H
+T$PH
+p[^_]A\A]A^
+T$`H
+D$PH
+t$PH
+l$XH
+\$`I
+UWVSH
+[^_]
+[^_]
+</uhA
+/uUH
+T$ L
+[^_]
+AUATUWVSH
+8[^_]A\A]
+UWVSH
+([^_]
+WVSH
+ [^_
+UWVSH
+([^_]
+WVSH
+0[^_
+0[^_
+T$ H
+T$(L
+T$ H
+T$(H
+T$0H
+T$8H
+T$@H
+T$HH
+T$PH
+T$XH
+T$`H
+T$ H
+L$(H
+T$ H
+T$ L
+D$0L
+L$8H
+D$HH
+WVSH
+ [^_
+ [^_
+ATUWVSH
+t$pH
+ [^_]A\
+WVSH
+ [^_
+ATUWVSH
+T$8t:H
+@[^_]A\
+@[^_]A\
+d$41
+T$8I
+D$8H
+D$8H
+ATUWVSH
+|$pH
+ [^_]A\
+|$pH
+ [^_]A\H
+UWVSH
+8[^_]
+8[^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+L$(E1
+D$(H
+<_t!D
+	wLH
+HcS H
+HcS$H
+S,Hc
+S$Hc
+WVSH
+A(9A H
+HcS I
+ [^_
+WVSH
+ [^_
+WVSH
+9sXH
+ [^_
+UWVSH
+([^_]
+WVSH
+}5H)
+ [^_
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+\$ A
+WVSH
+<-ty<+A
+ [^_
+WVSH
+ [^_
+AUATUWVSH
+FhHcC4
+D9c0
+HcC(
+~Vf.
+D9c 
+HcC,
+D9c$
+HcCX
+([^_]A\A]
+([^_]A\A]
+WVSH
+A49A0Ic
+HcS0I
+ [^_
+AVAUATUWVSH
+OtRH
+ [^_]A\A]A^
+ [^_]A\A]A^
+WVSH
+ [^_
+AWAVAUATUWVSH
+D$(A
+<$<H
+8[^_]A\A]A^A_
+.u1A
+UWVSH
+t$ 1
+[^_]
+[^_]
+[^_]
+AUATUWVSH
+h[^_]A\A]
+T$@A
+h[^_]A\A]
+t	;oX
+l$@H
+L$8Hc
+L$8A
+AWAVAUATUWVSH
+D$,t
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+T$LH
+D$P1
+D$ H
+L$PA
+t$pH
+9t$L~JH
+[^_]A\A]A^A_
+HcD$LH
+T$LH
+HcD$LH
+T$LH
+D$(H
+T$0Hc
+T$0L
+D$(H
+EPMc
+L$(H
+L$(L
+D$ H
+L$PH
+D$XH
+T$ L
+L$PH
+t	;uX
+D$LH
+HcL$LH
+T$LH
+L$XL+L$PH
+T$(Mc
+T$(M
+T$PH
+T$(M
+AWAVAUATUWVSH
+D$`L
+L$8L
+L$hH
+T$`A
+L$hH
+T$`A
+l$`H
+T$`L
+D$hL9
+L$`H
+[^_]A\A]A^A_
+L$8H
+D$@H
+D$@H
+|$@L
+D$@t
+L$8H
+D$hH
+;F }
+l$`H
+AWAVAUATUWVSH
+|$pH
+D$8H
+D$XH
+D$`H
+D$@A
+D$xH9D$pE
+D$Ht
+D$pH;D$xM
+L$p1
+[^_]A\A]A^A_
+T$@I
+HcD$`A9D$0
+t$hH
+D$pH;D$xM
+D$xH9D$pt
+L$HD
+D$HH
+T$PA9
+D$XL
+D$XE1
+A;\$X
+D$PH
+T$`L
+HcD$`A9D$$
+L$xH9L$pt&H
+D$xH
+T$pL
+L$pH
+<2wT
+D$`I
+D$dH
+D$dH
+AWAVAUATUWVSH
+D$,t7H
+t$8H
+D$,t|H
+T$8H
+D$,H
+t$8H
+D$8H
+D$,t
+T$8H
+t$ I
+[^_]A\A]A^A_
+{	Nu
+H;D$ 
+D$ A
+t$@A
+L$@H
+Uu0A
+L$@H
+D$ ~
+|$ A
+D$HH
+T$8I
+H;|$8
+\$@L
+D$hH
+L$`H
+D$8H
+D$HH
+H;|$8
+L$@H
+t$8A
+<LtN<X
+tDL;t$8
+D$,A
+L$@H
+H;|$8w
+D$,I
+L$@H
+D$ I
+UWVSH
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+t$`H
+d$`<_
+~`<o
+T$8L
+D$@H
+[^_]A\A]A^A_
+operator
+\$@L
+D$HH
+D$(I
+operatorH
+T$(I
+D$(H
+operatorA
+T$(I
+D$(I
+operatorA
+T$8L
+D$@H
+operatorL
+D$(H
+AUATUWVSH
+T$,H
+D$,1
+<zt|M
+L$0H
+X[^_]A\A]
+9\$,~
+D$8H
+L$0H
+ATUWVSH
+Eh~9
+?_u,H
+ [^_]A\
+ [^_]A\
+ [^_]A\
+AWAVAUATUWVSH
+|$0A
+t$$L
+|$ A
+HcT$$H
+D$(t	
+D$8L
+L$0H
+D$$~L
+X[^_]A\A]A^A_
+D$8H
+ATUWVSH
+ [^_]A\
+AWAVAUATUWVSH
+;t.H
+t$@H
+T$8L
+L$8I
+h[^_]A\A]A^A_
+D$(I
+t$(H
+D$HH
+L$@H
+D$(I
+D$ H
+t$(K
+D$(I
+D$ H
+t$(K
+D$(H
+D$(H
+AWAVAUATUWVSH
+D$8H
+D$@H
+D$0H
+D$`H
+D$PH
+L$PL
+D$XH
+L$`H
+[^_]A\A]A^A_
+ED$LH
+	CHH
+D$0H
+D$0H
+T$8H
+tCHcKD
+T$8H
+D$hH
+T$PL
+|$PH
+D$hH
+t$0M
+D$XH
+AWAVAUATUWVSH
+t$0L
+d$PH
+D$8H
+t8<_
+D$,H
+D$,H
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+;_tlH
+[^_]A\A]A^A_
+D$8H
+AWAVAUATUWVSH
+|$ @88
+G	<D
+D$@H
+H;t$ 
+H;t$ 
+D$@I
+L$@H
+h[^_]A\A]A^A_
+L$@H
+L$@H
+|$ tjH
+t$ H
+|$ H
+D$@H
+L$@H
+H;t$ 
+L$@H
+L$@H
+L$@L
+L$@A
+D$ H
+L$ H
+D$@H
+L$@L
+L$@H
+t$ H
+|$ H
+D$8H
+t$@H
+uPLc
+LwjH
+D;Y,}*Mc
+I(D;I,}FIc
+UWVSH
+([^_]
+FuGH9
+([^_]
+WVSH
+<_t_1
+<_tGD
+D;A8
+r0E9
+},Ic
+QPE9
+UWVSH
+([^_]
+ntOD
+	w1L
+A(;A,}5Hc
+<_t-<nt-H
+K(;K,}
+WVSH
+ [^_
+8/u0
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+UWVSH
+([^_]
+AWAVAUATUWVSH
+8'u3H
+[^_]A\A]A^A_
+9l$,
+t$@E
+D$HD
+D$@H
+D$@H
+T$PE
+D$@H
+t$@L
+L$@H
+D$XM
+\$PL
+D$@H
+T$@H
+D$XL
+t$@L
+D$8H
+T$0H
+T$0H
+D$@H
+D$HH
+D$@H
+D$HH
+D$0H
+t$@H
+t8H=
+t7H=
+t$@H
+t8H=
+t_H=
+t7H=
+t7H=
+t$@H
+t8H=
+t`Hc
+t$@D
+D$HL
+D$HH
+D$0H
+D$HL
+D$HH
+D$HH
+D$@L
+D$@H
+D$HH
+t8H=
+D$@H
+D$@H
+|$PH
+D$@E
+D$@H
+D$@M
+D4PE
+D4HD
+D$0L
+L$0H
+|$8H
+D$0H
+D$ H
+D$(H
+D$ H
+D$(H
+AUATUWVSH
+D$ H
+D$(H
+D$ H
+D$(H
+8[^_]A\A]
+8[^_]A\A]
+(t)H
+D$(H
+D$ L
+D$ H
+D$(H
+|$ I
+D$(H
+D$ H
+D$(H
+D$ L
+D$ H
+D$(H
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+tVH=
+t8H=
+|$ H
+t9H=
+AVAUATUWVSH
+ [^_]A\A]A^
+t:H=
+ATUWVSH
+D$ H
+D$(H
+D$ H
+D$(H
+0[^_]A\
+ATUWVSH
+D$ H
+D$(H
+D$ H
+D$(H
+0[^_]A\
+WVSH
+t$ H
+D$(H
+D$ H
+D$(H
+0[^_
+t$ H
+D$(H
+D$ H
+D$(H
+0[^_
+AUATUWVSH
+u{<Ktw
+Jw`L
+D$(t
+8[^_]A\A]
+T$(E1
+8FtL
+T$(H
+C8;C<}
+K0Lc
+D$(H
+8[^_]A\A]
+L$(L
+T$(L
+S8;S<
+K0Lc
+8[^_]A\A]
+0<	v
+D$(I
+D;C,
+S8;S<
+K0Lc
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+S(;S,
+C(;C,
+t$(H
+D$(H
+D$(f
+:ItNH
+L$(H
+S8;S<
+C0Lc
+WVSH
+<	w\
+O(;O,
+tzA8
+ [^_
+OXE1
+ [^_
+Q(;Q,}
+ [^_
+uc<.t_H
+u+<.t'<Ot
+D$(H
+)SPH
+UWVSH
+tuoI
+S(;S,}0Hc
+C8;C<
+([^_]
+S(;S,
+C8;C<
+S0Hc
+([^_]
+C(;C,I
+}`Hc
+C(;C,I
+8Jt.1
+AWAVAUATUWVSH
+l$88
+<otv<t
+cTE1
+D$8H
+S(;S,}CHc
+H[^_]A\A]A^A_
+D$ I
+T$(H
+D$ H
+D$ I
+T$(H
+H[^_]A\A]A^A_
+AUATUWVSH
+	w2H
+([^_]A\A]
+S(;S,
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+$<mt
+A:D$
+UWVSH
+tWE1
+<Etn<LtZ~
+<XuDH
+8[^_]
+D$(H
+8[^_]
+8[^_]
+ATUWVSH
+@[^_]A\
+@[^_]A\
+T$8A
+F8;F<
+V0Hc
+tt=1
+F8;F<
+V0Hc
+St/H
+:Et_H
+V8;V<
+F0Hc
+<Tu2
+<dtGH
+@[^_]A\
+V(E1
+;V,}
+D$8L
+d$8I
+\$8H
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+<_tr<$
+F(;F,}lHc
+WVSH
+ [^_
+0<	wyD
+	w,E
+ [^_
+ [^_
+WVSH
+ [^_
+ntxA
+ [^_
+UWVSH
+L$ H
+D$ H
+[^_]
+[^_]
+UATWVSH
+T$ H
+[^_A\]
+UAWAVAUATWVSH
+L$ H
+D$ H
+[^_A\A]A^A_]
+B	<IA
+L$ L
+DD$0H
+D$ H
+UWVSH
+L$ L
+DD$0H
+D$ H
+H[^_]
+D$ H
+T$(L
+ET$(
+T$(L
+ET$,
+AWAVAUATUWVSH
+D$8A
+D$0A
+D$(A
+|$(D
+p $D
+\$$D
+	QZ^&
+ogD1
+L$4A
+L$4A
+l$ 	
+Y[eD
+t$$E
+D$0	
+T$,	
+L$(A	
+H9t$8
+H[^_]A\A]A^A_
+UWVSH
+([^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+@wcI
+\$ L
+D$,vT2
+AUAT
+UWVS
+d$ H
+D$,vT2
+l$ u$L
+[^_]A\A]
+WVSH
+ [^_
+AWAVAUATUWVSH
+D$ E1
+L$ A
+\$(I
+8[^_]A\A]A^A_
+ATUWVSH
+<"t7<\
+ [^_]A\
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+T$<L
+L$0L
+D$(I
+D$(H
+L$0L
+T$<L
+T$(H
+tDE1
+\$XH
+T$XL
+D$`L
+L$hH
+\$(t
+ATUWVSH
+|$pH
+D$pL
+L$xH
+|$(H
+0[^_]A\
+UWVSH
+|$hH
+T$hL
+D$pL
+L$xH
+|$(t(H
+8[^_]
+ATUWVSH
+|$hH
+T$hL
+D$pL
+L$xH
+|$(H
+|$(I
+0[^_]A\
+|$(I
+AUATUWVSH
+l$(H
+l$(I
+8[^_]A\A]
+l$(I
+/tHD9
+'$\H
+AWAVAUATUWVSH
+Q(H+Q0H
+D$XH
+L$PA
+l$hH
+D$0I
+\$ I)D$(I
+T$hH
+L$ I
+D$HH
+8[^_]A\A]A^A_
+D$,I
+L$PH
+T$@H
+A(H+A0
+AWAVAUATUWVSH
+l$ A
+|$hM
+D$`I
+\$PL
+t$XH
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+D$pL
+T$xH
+D$(L
+T$0H
+D$(H
+D$0H
+D$8H
+D$0H
+D$(H
+D$0H
+D$(H
+UWVSH
+x5Hc
+([^_]H
+([^_]H
+([^_]
+ATUWVSH
+x1Hc
+ [^_]A\
+AWAVAUATUWVSH
+G<H9
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(L
+T$ H
+L$(1
+T$ L
+F<D)
+F<L9
+8[^_]A\A]A^A_
+WVSH
+ [^_
+UWVSH
+([^_]
+C(H+C0H
+D$(H
+D$(H
+T$ H
+\$0H
+L$(I
+ATUWVSH
+ccXXXXXXH
+ [^_]A\
+L$hA
+ATUWVSH
+0[^_]A\
+x.Ic
+WVSH
+H;:v&
+ [^_
+ [^_
+WVSH
+H;:v&
+ [^_
+ [^_
+AWAVAUATUWVSH
+Q0D9QP
+{P;{0
+l$0L
+;{0|
+H[^_]A\A]A^A_
+HcS0H
+WVSH
+twE1
+ [^_
+ [^_
+ [^_
+UWVSH
+([^_]
+AWAVAUATUWVSH
+D$h1
+D$hH
+x[^_]A\A]A^A_
+D$hE1
+C(E1
+T$`A
+l$dE1
+HcKpH
+D$@M
+l$0H
+T$PH
+|$(H
+D$ H
+HcS0H
+T$`A
+D$`D
+D$8H
+D$xH
+D$0H
+D$pH
+UWVSH
+([^_]
+([^_]
+WVSH
+0[^_
+T$ H
+T$$H
+0[^_
+T$$H
+L$$L
+D$(1
+WVSH
+tJHcF09
+V@Lc
+0[^_
+L$$L
+D$(1
+WVSH
+tEHcF09
+0[^_
+L$$L
+D$(1
+WVSH
+0[^_
+L$$L
+t7E1
+t7E1
+T$,H
+D$xH
+ATUWVSH
+<=t,8
+ [^_]A\
+UAWAVAUATWVSH
+\$PH
+8\u&H
+\u1H
+9\u-O
+UXE1
+t$HH
+T$@H
+T$(H
+[^_A\A]A^A_]
+AWAVAUATUWVSH
+L$DI
+tLE1
+l$(D
+d$ L
+|$0L
+L$PA
+L$@A
+L$DA
+L$@A
+L$DA
+[^_]A\A]A^A_
+L$DI
+D$HH
+|$0H
+l$(D
+t$HH
+WVSH
+ [^_
+UWVSH
+([^_]
+T$&f
+WVSH
+|$ I
+AUATUWVSH
+L$ 1
+HcL$$HcD$ H
+8[^_]A\A]
+8[^_]A\A]
+WVSH
+ [^_
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+WVSH
+|$ H
+UWVSH
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+|`t.H
+*!Nb
+D$ H
+D$ D
+D$ D
+D$ H
+WVSH
+ [^_
+D$(t-I
+D$(u
+ATUWVSH
+ [^_]A\
+AWAVAUATUWVSH
+D$@H
+D$@H
+D$PH
+D$0D
+D$0H
+D$`f.
+D$`E
+u(D9
+D$0H
+D$0 tJD
+<(u>
+L$LH
+[^_]A\A]A^A_
+D$0H
+D$0H
+t$PH
+t$PH
+l$0A
+D$PH
+D$PH
+|$(H
+|$(H
+|$(H
+D$Xd
+L$0H
+A8D(
+L$pM
+L$@A
+D$0L
+D$0L
+l$@H
+D$`f
+;D$H
+t$0D
+D$HH
+t$PH
+t$PH
+D$PH
+D$PH
+|$(H
+|$(H
+D$xH
+|$(H
+t$0H
+D$(H
+D$XH
+D$xH
+\$`H
+|$XH
+D$(H
+\$(H
+|$XH
+\$xH
+D$PH
+D$PH
+|$(H
+|$(H
+D$xH
+|$(H
+D$Xd
+D$0H
+\$`L
+t$xH
+D$@H
+|$pL
+D$LL
+D$0H
+D$LL
+D$(H
+D$PH
+D$PH
+|$(H
+|$(H
+|$(H
+D$Xd
+D$0H
+l$(%
+|$XI
+T$`H
+D$PH
+D$PH
+|$(H
+D$(H
+L$(H
+\$XH
+l$(A
+|$`L
+T$0H
+D$PH
+D$PH
+|$(H
+|$(H
+D$xH
+DL$LL
+D$PH
+D$PH
+D$PH
+D$PH
+|$xH
+D$PH
+D$PH
+|$xH
+D$PH
+D$PH
+l$HA
+T$`L
+L9l$@A
+H9t$@s0H
+H;l$@u
+D$@L)
+D$XH
+L$(H
+D$0@
+t$PH
+D$XH
+|$XI
+\$XH
+l$0H
+\$xA
+D$(1
+D$XH
+D$`H
+\$XH
+|$`H
+D$(H
+\$(H
+|$X1
+\$`H
+D$0H
+\$(H
+\$XH
+T$`H
+\$xH
+D$XH
+T$xH
+L$(L
+D$(H
+D$XL
+D$xt
+\$xH
+\$`E1
+D$x1
+D$XH
+L$(H
+t$xH
+L$(L
+\$XE
+d$0H
+D$(H
+D$0H
+D$0H
+D$0H
+\$xH
+D$PH
+T$PE1
+t$PH
+D$(H
+L$LH
+t$(L
+\$XL
+l$XH
+t$PH
+l$`t
+t$PH
+\$xH
+t$PH
+t$PH
+t$PH
+\$`A
+\$`A
+t$XE1
+D$PH
+D$PH
+|$xH
+D$PH
+D$PH
+t$PH
+t$PH
+t$PH
+D$(H
+t$`E1
+L$LH
+|$0H
+\$xH
+\$XL
+D$(H
+D$Xt
+\$(H
+|$XH
+D$@1
+D$0L
+D$0L
+L$LH
+L$`L
+DL$LL
+L$LE1
+L$ I
+L$ I
+t$ I
+L$ H
+L$ H
+D$ H
+ATUWVSH
+$t1H
+ [^_]A\
+D$@L
+L$LH
+D$<H
+L$<H
+T$@f
+T$Df
+l$PH
+\$Xf
+T$Vf
+L$PfD
+D$RfD
+T$Pf
+L$RfD
+D$TfD
+L$VfD
+\$Xf
+T$Vf
+L$TfD
+D$RfD
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtH
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtR
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+UWVSH
+[^_]
+[^_]
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+(HcA
+AWAVAUATUWVSH
+T$<L
+T$<A)
+T$8H
+T$8H
+D$<A)
+H[^_]A\A]A^A_
+T$8H
+D$<H
+T$8H
+T$<H
+T$<H
+AWAVAUATUWVSH
+D$@H
+[^_]A\A]A^A_
+0u%H
+D$PL
+T$HI
+	w:M
+\$\G
+\$HD
+\$\L
+D$HL+D$PI
+T$DE
+L$XE)
+|$lt
+|$lt
+D$lf
+|$@5
+HcL$h
+	w4E
++D$@
+9D$P
+t$ A
+D$pH
+T$Hu
+9D$@
+L$DH
+L$P9
+t$`E
+9D$Hu1
+Y5	:
+d$DE
+t$pA
+T$xL
+D$\D
++\$@)
+9\$P~
++\$P
+D$`H
+L$DE
+9D$@
+t$\)
+T$P9
+D$@~:E
+D$@1
+~"Hc
+|$@H
+D$XL
+l$@)
+L$h)
+9T$P
+D$@H
+T$XE
+\$XE
+\$DE
+T$PA
+D$PA
+T$DE
+T$@9T$H
+9T$P
+AUATUWVSH
+([^_]A\A]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B:T 
+AWAVAUATUWVSH
+D$<H
+T$0H
+D$(M
+D$(M9
+H[^_]A\A]A^A_
+D$0H
+D$0H
++L$<H
+AUATUWVSH
+([^_]A\A]
+WVSH
+)t$@H
+T$8H
+T$<H
+D$8+D$<fH
+~>fH
+(t$@H
+P[^_
+uFI9
+D$PL
+D$PL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+D$PL
+D$PL
+L$XL
+L$XL
+L$XL
+AWAVAUATUWVSH
+<\t*</t&H
+D$@H
+D$HH
+t$`H
+|$XL
+|$hH
+?-tJH
+l$pH
+D$|H
+D$@H
+D$8L
+D$PL
+<lt]<otYH
+-<Iw$H
+D$8H
+l$pH
+D$8H
+D$XH
+T$@H
+[^_]A\A]A^A_
+T$XL
+L$PL
+D$8L
+L$PL
+T$Xu_A
+D$PL
+D$8L
+L$PL
+D$8H
+T$@E1
+T$@H
+T$hH
+D$8H
+T$@A
+D$PL
+T$`H
+D$8H
+T$@E1
+%sx%d __asm__ ("%s");
+typedef void entry_pt();
+extern entry_pt 
+extern void *
+	static void *frame_table[] = {
+struct object {
+  void *pc_begin;
+  void *pc_end;
+  void *fde_begin;
+  void *fde_array;
+  __SIZE_TYPE__ count;
+  struct object *next;
+extern void __register_frame_info_table (void *, struct object *);
+extern void *__deregister_frame_info (void *);
+static void reg_frame () {
+	static struct object ob;
+	__register_frame_info_table (frame_table, &ob);
+static void dereg_frame () {
+	__deregister_frame_info (frame_table);
+entry_pt * __CTOR_LIST__[] = {
+	(entry_pt *) %d,
+%sx%d,
+	reg_frame,
+entry_pt * __DTOR_LIST__[] = {
+	dereg_frame,
+__main
+extern entry_pt %s;
+entry_pt *__main_reference = %s;
+write_c_file - output name is %s, prefix is %s
+_GLOBAL__FI_
+_GLOBAL__FD_
+static int count;
+typedef void entry_pt();
+void %s() {
+	static entry_pt *ctors[] = {
+	entry_pt **p;
+	if (count++ != 0) return;
+	p = ctors + %d;
+	while (p > ctors) (*--p)();
+	++count;
+	static entry_pt *dtors[] = {
+	if (--count != 0) return;
+	p = dtors;
+	while (p < dtors + %d) (*p++)();
+void _GLOBAL__DI() {
+	%s();
+void _GLOBAL__DD() {
+	%s();
+[Leaving %s]
+, core dumped
+can't get program status: %m
+%s terminated with signal %d [%s]%s
+%s returned %d exit status
+cannot find 'nm'
+collect2
+%s: %m
+can't open nm output: %m
+nm output with LTO info marker symbol.
+nm output with constructors/destructors.
+init function found in object %s
+fini function found in object %s
+__gnu_lto_v1
+could not open response file %s
+could not write to response file %s
+could not close response file %s
+[cannot find %s]
+cannot find '%s'
+COLLECT_LTO_WRAPPER
+COLLECT_LTO_WRAPPER must be set
+lto-wrapper
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/collect2.c
+not found
+ld.gold
+ld.bfd
+atexit failed
+-debug
+-flto-partition=none
+-fno-lto
+-plugin
+-fuse-ld=bfd
+-fuse-ld=gold
+a.out
+COLLECT_GCC_OPTIONS
+no arguments
+COMPILER_PATH
+PATH
+real-ld
+collect-ld
+gstrip
+strip
+COLLECT_GCC
+-shared
+-fno-profile-arcs
+-fno-test-coverage
+-fno-branch-probabilities
+-fno-exceptions
+-fno-whole-program
+-dynamic-linker
+-flto
+-fuse-ld=
+--no-demangle
+--demangle
+--sysroot=
+--version
+--help
+.obj
+collect2 version %s
+Usage: collect2 [options]
+ Wrap linker and generate constructor code if needed.
+ Options:
+  -debug          Enable debug output
+  --help          Display this information
+  -v, --version   Display this program's version number
+Overview: http://gcc.gnu.org/onlinedocs/gccint/Collect2.html
+Report bugs: %s
+ld_file_name        = %s
+c_file_name         = %s
+nm_file_name        = %s
+strip_file_name     = %s
+c_file              = %s
+o_file              = %s
+COLLECT_GCC_OPTIONS = %s
+COLLECT_GCC         = %s
+COMPILER_PATH       = %s
+LIBRARY_PATH
+%-20s= %s
+%d constructors found
+%d constructor found
+%d destructors found
+%d destructor found
+%d frame tables found
+%d frame table found
+fopen %s: %m
+fclose %s: %m
+========== output_file = %s, c_file = %s
+========== end of c_file
+GLOBAL__I$
+GLOBAL__D$
+GLOBAL__I_
+GLOBAL__D_
+GLOBAL__F_
+GLOBAL__FI_
+GLOBAL__FD_
+maybe_run_lto_and_relink
+collect: reading %s
+COLLECT_GCC_OPTIONS
+'%s' was assigned to '%s', but was not defined during recompilation, or vice versa
+collect: tweaking %s in %s
+ in 
+Undefined symbol: 
+referenced from:
+ndefined
+nresolved
+nsatisfied
+ultiple
+COMPILER_PATH=
+LIBRARY_PATH=
+removing .rpo file: %m
+renaming .rpo file: %m
+repository file '%s' does not contain command-line arguments
+collect: recompiling %s
+.rnw
+TLINK_VERBOSE
+.rpo
+collect: relinking
+ld returned %d exit status
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/vec.c
+calculate_allocation_1
+register_overhead
+Looking for '%s'
+  - found: absolute path
+  - failed to locate using absolute path
+  - failed: no entries in prefix list
+Convert string '%s' into prefixes, separator = '%c'
+  - add prefix: %s
+diagnostic.c
+0x%lx %s
+	%s:%d
+%s%s%s
+locus
+%s%s:%s 
+COLUMNS
+%s: all warnings being treated as errors
+%s: some warnings being treated as errors
+caret
+%s %*c%s
+In file included from %r%s:%d:%d%R
+In file included from %r%s:%d%R
+                 from %r%s:%d%R
+in %s, at %s:%d
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/diagnostic.c
+%s%s:%s %s%s%s
+<built-in>
+%s%s:%d:%d:%s %s%s%s
+%s%s:%d:%s %s%s%s
+compilation terminated due to -Wfatal-errors.
+compilation terminated due to -fmax-errors=%u.
+Please submit a full bug report,
+with preprocessed source if appropriate.
+Please include the complete backtrace with any bug report.
+See %s for instructions.
+compilation terminated.
+Internal compiler error: Error reporting routines re-entered.
+%s:%d: confused by earlier errors, bailing out
+internal_error
+fatal_error
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/diagnostic.c
+diagnostic_action_after_output
+diagnostic_build_prefix
+error
+warning
+note
+fatal error: 
+internal compiler error: 
+error: 
+sorry, unimplemented: 
+warning: 
+anachronism: 
+note: 
+debug: 
+pedwarn: 
+permerror: 
+must-not-happen
+main
+toplev_main
+execute_one_pass
+compile_file
+error
+[01;31m
+warning
+[01;35m
+note
+[01;36m
+caret
+[01;32m
+locus
+[01m
+quote
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/pretty-print.c
+quote
+qwl+#
+%lld
+%llo
+%llu
+%#llx
+%llx
+\%03o
+\U%08x
+decode_utf8_char
+pp_output_formatted_text
+pp_format
+<built-in>
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-native-gcc/gcc-4.9.4/gcc/input.c
+Number of expanded macros:                     %5ld
+Average number of tokens per macro expansion:  %5ld
+Line Table allocations during the compilation process
+Number of ordinary maps used:        %5ld%c
+Ordinary map used size:              %5ld%c
+Number of ordinary maps allocated:   %5ld%c
+Ordinary maps allocated size:        %5ld%c
+Number of macro maps used:           %5ld%c
+Macro maps used size:                %5ld%c
+Macro maps locations size:           %5ld%c
+Macro maps size:                     %5ld%c
+Duplicated maps locations size:      %5ld%c
+Total allocated maps size:           %5ld%c
+Total used maps size:                %5ld%c
+get_next_line
+read_line_num
+total_lines_num
+(GCC) 
+4.9.4
+<http://gcc.gnu.org/bugs.html>
+line-map.c: file "%s" entered but not left
+<stdin>
+line-map.c: file "%s" left but not entered
+None
+LC_ENTER
+LC_LEAVE
+LC_RENAME
+LC_RENAME_VERBATIM
+LC_ENTER_MACRO
+File: %s:%d
+Included from: [%d] %s
+Map #%u [%p] - LOC: %u - REASON: %s - SYSP: %s
+Macro: %s (%u tokens)
+<NULL>
+{P:%s;F:%s;L:%d;C:%d;S:%d;M:%p;E:%d,LOC:%d,R:%d}
+# of ordinary maps:  %d
+# of macro maps:     %d
+Include stack depth: %d
+Highest location:    %u
+Ordinary line maps
+Macro line maps
+macro argument "%s" would be stringified in traditional C
+macro "%s" is not used
+"??? ??? ?? ??:??:?? ????"
+invalid built-in macro "%s"
+macro "%s" might prevent reproducible builds
+could not determine file timestamp
+"%s %2d %4d"
+"%02d:%02d:%02d"
+could not determine date and time
+"??? ?? ????"
+"??:??:??"
+__COUNTER__ expanded inside directive with -fdirectives-only
+ISO C99 requires rest arguments to be used
+macro "%s" requires %u arguments, but only %u given
+macro "%s" passed %u arguments, but takes just %u
+pasting "%s" and "%s" does not give a valid preprocessing token
+unterminated argument list invoking macro "%s"
+function-like macro "%s" must be used with arguments in traditional C
+invalid string literal, ignoring final '\'
+invoking macro %s argument %d: empty macro arguments are undefined in ISO C90 and ISO C++98
+duplicate macro parameter "%s"
+"%s" may not appear in macro parameter list
+macro parameters must be comma-separated
+parameter name missing
+anonymous variadic macros were introduced in C99
+ISO C does not permit named variadic macros
+missing ')' in macro parameter list
+ISO C99 requires whitespace after the macro name
+!"#%&'()*+,-./:;<=>?[\]^{|}~
+missing whitespace after the macro name
+'#' is not followed by a macro parameter
+'##' cannot appear at either end of a macro expansion
+"%s" redefined
+this is the location of the previous definition
+__STDC_
+__STDC_FORMAT_MACROS
+__STDC_LIMIT_MACROS
+__STDC_CONSTANT_MACROS
+invalid hash type %d in cpp_macro_definition
+unterminated comment
+detected recursion whilst expanding macro "%s"
+unterminated argument list invoking macro "%s"
+syntax error in macro parameter list
+"defined" cannot be used as a macro name
+"__has_include__" cannot be used as a macro name
+"%s" cannot be used as a macro name as it is an operator in C++
+no macro name given in #%s directive
+macro names must be identifiers
+invalid flag "%s" in line directive
+invalid #pragma GCC poison directive
+poisoning existing macro "%s"
+assertion without predicate
+predicate must be an identifier
+missing '(' after predicate
+missing ')' to complete answer
+predicate's answer is empty
+missing terminating > character
+extra tokens at end of #%s directive
+invalid #%s directive
+"%s" re-asserted
+pragma dependency
+#%s expects "FILENAME" or <FILENAME>
+cannot find source file %s
+current file is older than %s
+undefining "%s"
+#pragma once in main file
+empty filename in #%s
+#include nested too deeply
+#include_next in primary source file
+invalid #pragma push_macro directive
+#else without #if
+#else after #else
+the conditional began here
+error
+warning
+invalid "#pragma GCC %s" directive
+#elif without #if
+#elif after #else
+#endif without #if
+#pragma system_header ignored outside include file
+registering pragmas in namespace "%s" with mismatched name expansion
+registering pragma "%s" with name expansion and no namespace
+registering "%s" as both a pragma and a pragma namespace
+#pragma %s %s is already registered
+#pragma %s is already registered
+embedding a directive within macro arguments is not portable
+style of line directive is a GCC extension
+#%s is a GCC extension
+#%s is a deprecated GCC extension
+suggest not using #elif in traditional C
+traditional C ignores #%s with the # indented
+suggest hiding #%s from traditional C with an indented #
+invalid preprocessing directive #%s
+"%s" after # is not a positive integer
+"%s" is not a valid filename
+unexpected end of file after #line
+"%s" after #line is not a positive integer
+line number out of range
+registering pragma with NULL handler
+once
+push_macro
+pop_macro
+poison
+system_header
+dependency
+unterminated #%s
+invalid #pragma pop_macro directive
+_Pragma takes a parenthesized string literal
+define
+include
+endif
+ifdef
+else
+ifndef
+undef
+line
+elif
+pragma
+include_next
+ident
+import
+assert
+unassert
+sccs
+%s: %s
+stdout
+operator "__has_include__" requires a header string
+missing ')' after "__has_include__"
+comma operator in operand of #if
+use of C++11 long long integer constant
+use of C99 long long integer constant
+binary constants are a C++1y feature or GCC extension
+binary constants are a GCC extension
+digit separator after base indicator
+adjacent digit separators
+digit separator adjacent to decimal point
+too many decimal points in number
+digit separator adjacent to exponent
+digit separator outside digit sequence
+fixed-point constants are a GCC extension
+invalid digit "%c" in binary constant
+invalid digit "%c" in octal constant
+invalid prefix "0b" for floating constant
+no digits in hexadecimal floating constant
+use of C99 hexadecimal floating constant
+exponent has no digits
+hexadecimal floating constants require an exponent
+invalid suffix "%.*s" on floating constant
+suffix for double constant is a GCC extension
+invalid suffix "%.*s" with hexadecimal floating constant
+decimal float constants are a GCC extension
+invalid suffix "%.*s" on integer constant
+traditional C rejects the "%.*s" suffix
+imaginary constants are a GCC extension
+integer constant is too large for its type
+integer constant is so large that it is unsigned
+#elif
+missing binary operator before token "%s"
+user-defined literal in preprocessor expression
+floating constant in preprocessor expression
+imaginary number in preprocessor expression
+operator "defined" requires an identifier
+("%s" is an alternative token for "%s" in C++)
+this use of "defined" may not be portable
+"%s" is not defined
+assertions are a GCC extension
+assertions are a deprecated extension
+token "%s" is not valid in preprocessor expressions
+missing expression between '(' and ')'
+%s with no expression
+operator '%s' has no right operand
+operator '%s' has no left operand
+impossible operator '%u'
+the left operand of "%s" changes sign when promoted
+the right operand of "%s" changes sign when promoted
+traditional C rejects the unary plus operator
+division by zero in #if
+missing ')' in expression
+'?' without following ':'
+integer overflow in preprocessor expression
+missing '(' in expression
+ ':' without preceding '?'
+unbalanced stack in %s
+missing ')' after "defined"
+%s is a block device
+%s is shorter than expected
+no include path in which to search for %s
+%c %s
+NULL directory in find_file
+one or more PCH files were found, but they were invalid
+use -Winvalid-pch for more information
+Multiple include guards may be useful for:
+defined
+true
+false
+__VA_ARGS__
+__has_include__
+__has_include_next__
+0123456789abcdef
+'$' in identifier or number
+attempt to use poisoned "%s"
+__VA_ARGS__ can only appear in the expansion of a C99 variadic macro
+identifier "%s" is a special operator name in C++
+backslash and newline separated by space
+backslash-newline at end of file
+trigraph ??%c converted to %c
+trigraph ??%c ignored, use -trigraphs to enable
+"/*" within comment
+unspellable token %s
+`%.*s' is not in NFKC
+`%.*s' is not in NFC
+#%s 
+raw string delimiter longer than 16 characters
+invalid new-line in raw string delimiter
+invalid character '%c' in raw string delimiter
+unterminated raw string
+invalid suffix on literal; C++11 requires a space between literal and string macro
+null character(s) preserved in literal
+missing terminating %c character
+form feed
+vertical tab
+%s in preprocessing directive
+null character(s) ignored
+unterminated comment
+C++ style comments are not allowed in ISO C90
+(this will be reported only once per input file)
+multi-line comment
+\\\\\\\\\\\\\\\\????????????????=
+NAME
+AT_NAME
+NUMBER
+CHAR
+WCHAR
+CHAR16
+CHAR32
+OTHER
+STRING
+WSTRING
+STRING16
+STRING32
+UTF8STRING
+OBJC_STRING
+HEADER_NAME
+CHAR_USERDEF
+WCHAR_USERDEF
+CHAR16_USERDEF
+CHAR32_USERDEF
+STRING_USERDEF
+WSTRING_USERDEF
+STRING16_USERDEF
+STRING32_USERDEF
+UTF8STRING_USERDEF
+COMMENT
+MACRO_ARG
+PRAGMA
+PRAGMA_EOL
+PADDING
+%:%:
+String pool
+entries		%lu
+identifiers	%lu (%.2f%%)
+slots		%lu
+deleted		%lu
+bytes		%lu%c (%lu%c overhead)
+table size	%lu%c
+coll/search	%.4f
+ins/search	%.4f
+avg. entry	%.2f bytes (+/- %.2f)
+longest entry	%lu
+Y@-C
+conversion from %s to %s not supported by iconv
+iconv_open
+UTF-32LE
+UTF-16LE
+UTF-8
+UTF-16BE
+UTF-32BE
+character 0x%lx is not in the basic source character set
+converting to execution character set
+character 0x%lx is not unibyte in execution character set
+universal character names are only valid in C++ and C99
+the meaning of '\%c' is different in traditional C
+In _cpp_valid_ucn but not a UCN
+incomplete universal character name %.*s
+%.*s is not a valid universal character
+'$' in identifier or number
+Character %x might not be NFKC
+universal character %.*s is not valid at the start of an identifier
+universal character %.*s is not valid in an identifier
+converting UCN to execution character set
+the meaning of '\x' is different in traditional C
+hex escape sequence out of range
+octal escape sequence out of range
+the meaning of '\a' is different in traditional C
+non-ISO-standard escape sequence, '\%c'
+unknown escape sequence: '\%c'
+%03o
+unknown escape sequence: '\%s'
+converting escape sequence to execution character set
+converting UCN to source character set
+\x used with no following hex digits
+empty character constant
+character constant too long for its type
+multi-character character constant
+failure to convert %s to %s
+UTF-8/UTF-32LE
+UTF-8/UTF-32BE
+UTF-8/UTF-16LE
+UTF-8/UTF-16BE
+UTF-32LE/UTF-8
+UTF-32BE/UTF-8
+UTF-16LE/UTF-8
+UTF-16BE/UTF-8
+__STDC__ 1
+__cplusplus 201300L
+__cplusplus 201103L
+__cplusplus 199711L
+__ASSEMBLER__ 1
+__STDC_VERSION__ 199409L
+__STDC_VERSION__ 201112L
+__STDC_VERSION__ 199901L
+__STDC_UTF_16__ 1
+__STDC_UTF_32__ 1
+__STDC_HOSTED__ 1
+__STDC_HOSTED__ 0
+__OBJC__ 1
+and_eq
+bitand
+bitor
+compl
+not_eq
+or_eq
+xor_eq
+__TIMESTAMP__
+__TIME__
+__DATE__
+__FILE__
+__BASE_FILE__
+__LINE__
+__INCLUDE_LEVEL__
+__COUNTER__
+_Pragma
+__STDC__
+malloc
+realloc
+/proc/curproc/file
+/proc/self/exe
+failed to read executable information
+libbacktrace could not find executable to open
+close
+const
+volatile
+__restrict
+const volatile
+const __restrict
+volatile __restrict
+const volatile __restrict
+Oabs
+'Read
+'Write
+'Input
+'Output
+.Finalize
+.Adjust
+_elabb
+_ada_
+<%s>
+false
+true
+JArray1Z
+unsigned
+signed
+__complex
+void
+long long
+long
+short
+bool
+char
+wchar_t
+long double
+double
+float
+int%u_t
+-2147483648
+__pt__
+__tm__
+__ps__
+_GLOBAL_
+{anonymous}
+assign_
+type
+template <
+class
+> class
+__ct
+__dt
+operator
+operator 
+ static
+ type_info node
+ type_info function
+0123456789Qt
+__thunk_
+virtual function thunk (delta:%d) for 
+ virtual table
+_imp__
+__imp_
+__std__
+__sti__
+__vtbl__
+global constructors keyed to 
+global destructors keyed to 
+import stub for 
+'Elab_Body
+_elabs
+'Elab_Spec
+_size
+'Size
+_alignment
+'Alignment
+_assign
+.":="
+Oand
+Omod
+Onot
+Orem
+Oxor
+Oadd
+Osubtract
+Oconcat
+Omultiply
+Odivide
+Oexpon
+none
+Demangling disabled
+auto
+Automatic selection based on executable
+GNU (g++) style demangling
+lucid
+Lucid (lcc) style demangling
+ARM style demangling
+HP (aCC) style demangling
+EDG style demangling
+gnu-v3
+GNU (g++) V3 ABI-style demangling
+java
+Java style demangling
+gnat
+GNAT style demangling
+ new
+ delete
+delete
+ new []
+ delete []
+plus
+minus
+mult
+convert
+negate
+trunc_mod
+trunc_div
+truth_andif
+truth_orif
+truth_not
+postincrement
+postdecrement
+bit_ior
+bit_xor
+bit_and
+bit_not
+call
+alshift
+arshift
+component
+indirect
+method_call
+->()
+addr
+array
+compound
+cond
+sizeof 
+_GLOBAL_
+(anonymous namespace)
+[abi:
+{default arg#
+JArray
+vtable for 
+VTT for 
+construction vtable for 
+-in-
+typeinfo for 
+typeinfo name for 
+typeinfo fn for 
+non-virtual thunk to 
+virtual thunk to 
+covariant return thunk to 
+java Class for 
+guard variable for 
+TLS init function for 
+TLS wrapper function for 
+reference temporary #
+ for 
+hidden alias for 
+transaction clone for 
+non-transaction clone for 
+_Sat 
+_Accum
+_Fract
+operator
+operator 
+new 
+false
+true
+java resource 
+decltype (
+this
+{parm#
+global constructors keyed to 
+global destructors keyed to 
+{lambda(
+{unnamed type#
+ [clone 
+ restrict
+ volatile
+ const
+complex 
+imaginary 
+ __vector(
+auto
+string literal
+std::allocator
+allocator
+std::basic_string
+basic_string
+std::string
+std::basic_string<char, std::char_traits<char>, std::allocator<char> >
+std::istream
+std::basic_istream<char, std::char_traits<char> >
+basic_istream
+std::ostream
+std::basic_ostream<char, std::char_traits<char> >
+basic_ostream
+std::iostream
+std::basic_iostream<char, std::char_traits<char> >
+basic_iostream
+signed char
+bool
+boolean
+char
+byte
+double
+long double
+float
+__float128
+unsigned char
+unsigned int
+unsigned
+long
+unsigned long
+__int128
+unsigned __int128
+short
+unsigned short
+void
+wchar_t
+long long
+unsigned long long
+decimal32
+decimal64
+decimal128
+half
+char16_t
+char32_t
+decltype(nullptr)
+alignof 
+const_cast
+delete[] 
+dynamic_cast
+delete 
+operator"" 
+new[]
+reinterpret_cast
+static_cast
+sizeof 
+throw
+throw 
+%s: error: too many @-files encountered
+Cannot find prime bigger than %lu
+cccccccccccccccccccccccccccccccccccccccccccccccc
+	ccccccc
+cccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.\
+Cannot create temporary file in %s: %s
+memory exhausted
+XXXXXX
+closing pipeline input file
+open temporary file
+pipeline already complete
+could not create temporary file
+pipe
+open temporary output file
+both ERRNAME and PEX_STDERR_TO_PIPE specified.
+PEX_STDERR_TO_PIPE used in the middle of pipeline
+open error file
+WaitForSingleObject
+.com
+PATH
+CONOUT$
+CreateProcess
+.exe
+.bat
+.cmd
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+SIGINT
+Signal %d
+%s: unknown signal
+%s: %s
+Interrupt
+SIGILL
+Illegal instruction
+SIGABRT
+Aborted
+SIGFPE
+Arithmetic exception
+SIGSEGV
+Segmentation fault
+SIGTERM
+Terminated
+%s%sout of memory allocating %lu bytes
+undocumented error #%d
+XXXXXX
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+(nil)
+inity
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+inity
+ABCDEF
+abcdef
+0123456789
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+libiconv
+libiconv_close
+libiconv_open
+CloseHandle
+CreateFileA
+CreateProcessA
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeProcess
+GetFileAttributesA
+GetFullPathNameA
+GetLastError
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTempPathA
+GetTickCount
+GetTimeZoneInformation
+GetVersionExA
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetHandleInformation
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WaitForSingleObject
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_close
+_dup
+_errno
+_findclose
+_findfirst64
+_fmode
+_fstat64
+_fullpath
+_get_osfhandle
+_initterm
+_localtime64
+_lock
+_onexit
+_open
+_pipe
+_read
+_stricmp
+_time64
+_unlock
+abort
+asctime
+atoi
+bsearch
+calloc
+exit
+fclose
+feof
+ferror
+fflush
+fgets
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+freopen
+fseek
+ftell
+fwrite
+getc
+getenv
+islower
+isspace
+isupper
+isxdigit
+localeconv
+malloc
+memchr
+memcmp
+memcpy
+memmove
+memset
+putc
+qsort
+raise
+realloc
+remove
+rename
+signal
+sprintf
+sscanf
+strcat
+strchr
+strcmp
+strcpy
+strcspn
+strerror
+strlen
+strncat
+strncmp
+strncpy
+strpbrk
+strrchr
+strspn
+strstr
+strtol
+strtoul
+tolower
+ungetc
+vfprintf
+wcslen
+_stat64
+_findnext64
+_unlink
+_strdup
+_read
+_putenv
+_open
+_isatty
+_getpid
+_getcwd
+_fileno
+_fdopen
+_close
+_chdir
+_access
+CharLowerBuffA
+_Unwind_Backtrace
+_Unwind_GetIPInfo
+_ZdaPv
+_ZdlPv
+_Znay
+libiconv-2.dll
+KERNEL32.dll
+msvcrt.dll
+USER32.dll
+libgcc_s_seh-1.dll
+libstdc++-6.dll

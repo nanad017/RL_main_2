@@ -1,0 +1,988 @@
+!This program cannot be run in DOS mode.
+s/=g
+y/8g
+z/(g
+{/9g
+f/>g
+~/:g
+}/:g
+x/:g
+/Rich;g
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+D$DPj
+D$(P
+D$<P
+D$Dh
+D$$P
+[_^]
+D$8Pj
+xSUV
+D$0SP
+D$(j
+D$`SP
+_^][
+t	Sj
+t	Sj
+t	Sj
+_^][
+ExPh
+ExPh
+ExPh
+Ml9M@~S
+E8WP
+U@+Ul
+9u@~0
++MdQj
+;u@|
+}hWj
+}`Wj
+5<	A
+ELVS
+E8WP
+]phl
+EPjD
+EPVP
+SVWj
+j=Q+
+<"ty<'tu
+FpPQ
+CnSP
+PPPPPPPh
+t$,j
+D$@SU
+l$LV
+t-jOj
+uvh\
+HTTP
+OC;^
+gfff
+|$CuX+
+\$T@
+D$C+
+HG;~
+gfff
+|$CuX+
+\$T@
+D$C+
+HG;~
+gfff
+|$CuX+
+\$T@
+D$C+
+HG;~
+D$$j/
+\$T@
+_^][3
+QSUVW
+BthD
+t-jOj
+ulh\
+Host
+_^][Y
+_^]3
+_^][
+t$,h
+D$ PV
+D$$P
+D$,PV
+D$,j
+D$<PV
+D$DP
+D$LPV
+_][^
+G< t
+h C@
+D$$3
+\$,j
+\$,j
+\$$+
++L$0
+VjOV
+D$0N
+SUVP
+D$8j
+D$4P
+t$4S
+D$4P
+t$4V
+^][3
+\$\UVW
+D$ P
+t$ h
+D$ P
+D$4P
+D$ WP
+D$ WP
+RPhH
+D$$j
+FtWP
+_^][3
+D$@V
+SVWh
+VPh 
+D$,h$
+t.Vh0
+_^][
+D$ h8
+_^][
+t$(UhP
+_^][
+t$,3
+l$(3
+D$(W
+D$$3
+9+u-
+t$(VW
+D$8SUV
+t$LW
+T$$j
+t$ W
+I<.t
+D$$PW
+D$0P
+_^][
+L$83
+<(\u
+/A;K
+~D$$
+D$Df
+~D$,f
+~D$4f
+~D$<f
+L$H_^][3
+SWVU
+?.u2
+.u,;
+?/t	;
+>/u!F;
+?.u$;
+wp_3
+wP_3
+D$0PAQ
+EtWP
+D$LP
+E8@P
+_^[t
+u+hp
+[_^3
+D$ Q
+T$ PR
+D$LSUV
+t$dW
+|$lh
+D$,Wj
+D$4+
+u h\
+D$[+
+_^][
+L$L3
+T$ P
+_^][3
+;r`t!Wh
+D$DS
+\$PU
+;u`t
+u(Sj
+_^][
+L$D3
+uPh\
+u<+\$
+D$S+D$
+_^][
+L$D3
+_^][
+L$D3
+_^][3
+EpSVW
+E$PSj
+:phu
+9K\u	
+_^][
+_^][
+5@	A
+SUV3
+:uuj
+t$,V
+WVhp
+-@	A
+hpz@
+t$$h
+_^][
+D$ P
+t$0V
+_^][
+_^][
+_^]3
+SUVW
+hD	A
+D$ @	A
+D$( 
+_^][
+VWh 
+_^][
+SUVWj
+D$(PV
+t#Vh
+D$.%
+D$ P
+D$Tj4P
+D$Ph
+D$TPh,
+_^][3
+,SVW
+D$43
+9D$@u
+l$,3
+l$(3
+l$$3
+\$4;
+D$8@
+D$8=
+<	w%f
+ <a|
+ <a|
+\$$3
+\$$3
+\$$3
+F;t$4
+L$8]
+\$(3
+\$(3
+\$(3
+\$,3
+\$,3
+\$,3
+T$ J
+<nt 3
+D$ 	
+\$4+
+5$	A
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+Y__^[
+_SERVER
+title
+interactive
+process-begin
+no-chdir
+php-ini
+define
+process-end
+profile-info
+process-file
+file
+help
+info
+syntax-check
+modules
+no-php-ini
+no-header
+process-code
+hide-args
+syntax-highlight
+syntax-highlighting
+server
+docroot
+strip
+usage
+version
+zend-extension
+rfunction
+rclass
+rextension
+rzendextension
+rextinfo
+PHP_SELF
+SCRIPT_NAME
+SCRIPT_FILENAME
+PATH_TRANSLATED
+DOCUMENT_ROOT
+report_zend_debug
+display_errors
+Command Line Interface
+extension_filename
+cli_set_process_title
+cli_get_process_title
+Usage: %s [options] [-f] <file> [--] [args...]
+   %s [options] -r <code> [--] [args...]
+   %s [options] [-B <begin_code>] -R <code> [-E <end_code>] [--] [args...]
+   %s [options] [-B <begin_code>] -F <file> [-E <end_code>] [--] [args...]
+   %s [options] -S <addr>:<port> [-t docroot]
+   %s [options] -- [args...]
+   %s [options] -a
+  -a               Run interactively
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No php.ini file will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse and execute <file>.
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -r <code>        Run PHP <code> without using script tags <?..?>
+  -B <begin_code>  Run PHP <begin_code> before processing input lines
+  -R <code>        Run PHP <code> for every input line
+  -F <file>        Parse and execute <file> for every input line
+  -E <end_code>    Run PHP <end_code> after processing all input lines
+  -H               Hide any passed arguments from external tools.
+  -S <addr>:<port> Run with built-in web server.
+  -t <docroot>     Specify document root <docroot> for built-in web server.
+  -s               Output HTML syntax highlighted source.
+  -v               Version number
+  -w               Output source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+  args...          Arguments passed to script. Use -- args when first argument
+                   starts with - or script is read from stdin
+  --ini            Show configuration file names
+  --rf <name>      Show information about function <name>.
+  --rc <name>      Show information about class <name>.
+  --re <name>      Show information about extension <name>.
+  --rz <name>      Show information about Zend extension <name>.
+  --ri <name>      Show configuration for extension <name>.
+php://stdin
+php://stdout
+php://stderr
+STDIN
+STDOUT
+STDERR
+Either execute direct code, process stdin or use a file.
+Could not open input file: %s
+19:48:22
+Jan 18 2017
+5.6.30
+PHP %s (%s) (built: %s %s) %s
+Copyright (c) 1997-2016 The PHP Group
+[PHP Modules]
+[Zend Modules]
+You can use -R or -F only once.
+You can use -f only once.
+You can use -r only once.
+You can use -B only once.
+You can use -E only once.
+Source highlighting only works for files.
+Source stripping only works for files.
+Interactive mode enabled
+Could not startup.
+No syntax errors detected in %s
+Errors parsing %s
+Command line code
+Command line begin code
+argi
+argn
+Command line run code
+Command line end code
+String size overflow
+__construct
+message
+Exception: %s
+export
+main
+Extension '%s' not present.
+SystemRoot
+Configuration File (php.ini) Path: %s
+(none)
+Loaded Configuration File:         %s
+Scan for additional .ini files in: %s
+Additional .ini files parsed:      %s
+2147483648
+html_errors=0
+register_argc_argv=1
+implicit_flush=1
+output_buffering=0
+max_execution_time=0
+max_input_time=-1
+2147483648
+</head><body>
+2147483648
+</body></html>
+<!doctype html><html><head><title>%d %s</title>
+<style>
+body { background-color: #fcfcfc; color: #333333; margin: 0; padding:0; }
+h1 { font-size: 1.5em; font-weight: normal; background-color: #9999cc; min-height:2em; line-height:2em; border-bottom: 1px inset black; margin: 0; }
+h1, p { padding-left: 10px; }
+code.url { background-color: #eeeeee; font-family:monospace; padding:0 2px;}
+</style>
+ !"#$%&'
+-./0123456789
+abcdefghijklmnopqrstuvwxyz
+^_`abcdefghijklmnopqrstuvwxyz
+cli_set_process_title had an error: %s
+cli_get_process_title had an error: %s
+Out of memory
+Continue
+Switching Protocols
+Created
+Accepted
+Non-Authoritative Information
+No Content
+Reset Content
+Partial Content
+Multiple Choices
+Moved Permanently
+Found
+See Other
+Not Modified
+Use Proxy
+Temporary Redirect
+Permanent Redirect
+Bad Request
+Unauthorized
+Payment Required
+Forbidden
+Not Found
+Method Not Allowed
+Not Acceptable
+Proxy Authentication Required
+Request Timeout
+Conflict
+Gone
+Length Required
+Precondition Failed
+Request Entity Too Large
+Request-URI Too Long
+Unsupported Media Type
+Requested Range Not Satisfiable
+Expectation Failed
+Upgrade Required
+Precondition Required
+Too Many Requests
+Request Header Fields Too Large
+Unavailable For Legal Reasons
+Internal Server Error
+Not Implemented
+Bad Gateway
+Service Unavailable
+Gateway Timeout
+HTTP Version Not Supported
+Network Authentication Required
+<h1>%s</h1><p>Your browser sent a request that this server could not understand.</p>
+<h1>%s</h1><p>The requested resource <code class="url">%s</code> was not found on this server.</p>
+<h1>%s</h1><p>The server is temporarily unavailable.</p>
+<h1>%s</h1><p>Request method not supported.</p>
+html
+text/html
+text/javascript
+text/css
+image/gif
+image/jpeg
+jpeg
+application/pdf
+image/png
+image/svg+xml
+text/plain
+webm
+video/webm
+video/ogg
+audio/ogg
+video/3gpp
+application/vnd.android.package-archive
+video/x-msvideo
+image/x-ms-bmp
+text/comma-separated-values
+application/msword
+docx
+flac
+audio/flac
+application/x-gzip
+gzip
+text/calendar
+application/vnd.google-earth.kml+xml
+application/vnd.google-earth.kmz
+audio/mp4
+audio/mpeg
+video/mp4
+video/mpeg
+mpeg
+video/quicktime
+application/vnd.oasis.opendocument.presentation
+application/vnd.oasis.opendocument.spreadsheet
+application/vnd.oasis.opendocument.text
+pptx
+application/vnd.ms-powerpoint
+application/x-shockwave-flash
+application/x-tar
+text
+image/tiff
+audio/wav
+video/x-ms-wmv
+application/vnd.ms-excel
+xlsx
+application/x-zip-compressed
+application/xml
+Unknown Status Code
+HTTP
+host
+Connection: close
+cli_server.color
+cli_server
+API20131226,TS,VC11
+apache_request_headers
+apache_response_headers
+getallheaders
+cookie
+%s_%s
+CONTENT_TYPE
+CONTENT_LENGTH
+REMOTE_ADDR
+REMOTE_PORT
+PHP %s Development Server
+SERVER_SOFTWARE
+HTTP/%d.%d
+SERVER_PROTOCOL
+SERVER_NAME
+SERVER_PORT
+REQUEST_URI
+REQUEST_METHOD
+%s/%s
+PATH_INFO
+%s%s
+QUERY_STRING
+unknown time, can't be fetched
+unknown
+[%s] %s
+cli-server
+Built-in HTTP server
+%s [%d]: %s
+ - %s
+ - %s in %s on line %d
+%s%s%s
+index.php
+index.html
+Unexpected EOF
+Unsupported SSL request
+Malformed HTTP request
+content-type
+Content-Type: text/html; charset=UTF-8
+Content-Length: 
+application/octet-stream
+Content-Type: 
+text/
+; charset=UTF-8
+authorization
+Invalid address: %s
+Failed to listen on %s:%d (reason: %s)
+%s Invalid request (%s)
+Failed to create a new request object
+Directory %s does not exist.
+%s is not a directory.
+PHP %s Development Server started at %sListening on http://%s
+Document root is %s
+Press Ctrl-C to quit.
+DELETE
+HEAD
+POST
+PATCH
+CONNECT
+OPTIONS
+TRACE
+COPY
+LOCK
+MKCOL
+MOVE
+MKCALENDAR
+PROPFIND
+PROPPATCH
+UNLOCK
+REPORT
+MKACTIVITY
+CHECKOUT
+MERGE
+M-SEARCH
+NOTIFY
+SUBSCRIBE
+UNSUBSCRIBE
+NOTIMPLEMENTED
+connection
+proxy-connection
+content-length
+transfer-encoding
+upgrade
+chunked
+keep-alive
+close
+Success
+Not available on this OS
+Not initialized correctly
+Buffer not contiguous
+Windows error code: %d
+Unknown error code
+RSDS
+C:\php-sdk\php56\vc11\x86\obj\Release_TS\php.pdb
+zend_llist_apply
+zend_llist_sort
+sapi_deactivate
+reflection_class_ptr
+php_request_shutdown
+tsrm_startup
+zend_llist_destroy
+_estrndup
+zend_hash_sort
+zend_qsort
+virtual_realpath
+open_file_for_scanning
+_object_init_ex
+_php_stream_get_line
+php_info_print_module
+zend_hash_find
+zend_highlight
+sapi_startup
+php_import_environment_variables
+_zend_hash_init
+zend_extensions
+ts_resource_ex
+php_request_startup
+sapi_globals_id
+php_print_info
+zif_dl
+tsrm_shutdown
+_php_stream_open_wrapper_ex
+php_module_startup
+zend_error
+php_printf
+zend_str_tolower_dup
+zend_call_method
+module_registry
+reflection_function_ptr
+php_lint_script
+php_ini_opened_path
+php_register_variable
+zend_hash_apply
+zend_load_extension
+zend_llist_copy
+zend_exception_get_default
+reflection_method_ptr
+php_output_end_all
+zend_hash_destroy
+sapi_module
+_emalloc
+executor_globals_id
+reflection_zend_extension_ptr
+reflection_ptr
+php_ini_scanned_path
+php_get_highlight_struct
+display_ini_entries
+zend_strip
+_efree
+php_handle_aborted_connection
+_zval_ptr_dtor
+php_execute_script
+core_globals_id
+zend_hash_copy
+_zend_hash_add_or_update
+zend_is_auto_global
+php_module_shutdown
+php_output_write
+compiler_globals_id
+get_zend_version
+sapi_shutdown
+virtual_fopen
+_php_stream_free
+zend_ini_deactivate
+php_getopt
+zend_register_constant
+php_module_shutdown_wrapper
+zend_strndup
+gc_remove_zval_from_buffer
+zend_eval_string_ex
+reflection_extension_ptr
+zend_printf
+zend_read_property
+php_ini_scanned_files
+zend_parse_parameters
+php_error_docref0
+_safe_malloc
+zend_unregister_ini_entries
+ap_php_snprintf
+sapi_send_headers
+php_poll2
+zend_hash_get_current_data_ex
+php_network_populate_name_from_sockaddr
+virtual_chdir
+_erealloc
+php_escape_html_entities_ex
+php_socket_strerror
+zend_hash_internal_pointer_reset_ex
+zend_llist_get_first_ex
+zend_hash_move_forward_ex
+zend_hash_index_find
+add_assoc_string_ex
+add_assoc_stringl_ex
+_estrdup
+php_handle_auth_data
+vspprintf
+ts_allocate_id
+zend_execute_scripts
+_zend_hash_index_update_or_next_insert
+virtual_getcwd
+zend_hash_del_key_or_index
+php_set_sock_blocking
+spprintf
+zend_llist_apply_with_argument
+php_raw_url_decode
+OnUpdateBool
+php_network_getaddresses
+zend_hash_apply_with_arguments
+zend_llist_get_next_ex
+zend_hash_get_current_key_ex
+zend_ini_boolean_displayer_cb
+php_select
+_array_init
+zend_hash_num_elements
+zend_register_ini_entries
+php_network_freeaddresses
+php_register_variable_safe
+php5ts.dll
+WS2_32.dll
+feof
+memmove
+free
+_open
+malloc
+rewind
+strstr
+__iob_func
+strchr
+fflush
+_errno
+fgetc
+isalnum
+fgets
+printf
+_read
+fopen
+fread
+fprintf
+_fileno
+ferror
+_fmode
+fwrite
+strrchr
+_setmode
+ftell
+_lseek
+realloc
+_write
+fseek
+getenv
+fclose
+clearerr
+exit
+_close
+strncmp
+strerror
+signal
+_ftime32
+strtol
+strncpy
+bsearch
+toupper
+_ctime32_s
+_stat32
+sprintf
+MSVCR110.dll
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+__initenv
+_commode
+?terminate@@YAXXZ
+__crtSetUnhandledExceptionFilter
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+_invoke_watson
+_controlfp_s
+_except_handler4_common
+GetConsoleTitleA
+SetConsoleTitleA
+GetLastError
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DecodePointer
+KERNEL32.dll
+_strdup
+_stricmp
+_setjmp3
+memcpy
+memset
+php.exe
+OPENSSL_Applink
+php_cli_get_shell_callbacks
+sapi_cli_single_write
+wwwwwwwwwwwwwwww
+wwwx
+wwwwwwx
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"> 
+       <application> 
+           <!-- Windows Vista -->
+           <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS> 
+           <!-- Windows 7 -->
+           <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS>
+           <!-- Windows 8 -->
+           <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>
+           <!-- Windows 8.1 -->
+           <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"></supportedOS>
+           <!-- Windows 10 -->
+           <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"></supportedOS>
+       </application> 
+   </compatibility>
+</assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+0"020B0R0b0
+1!1&1+10161:1@1D1J1N1T1X1^1b1h1l1r1v1|1
+2+262>2D2O2Y2`2n2
+3(3A3c3~3
+4"4,4:4E4T4k4s4
+5'565I5N5b5g5r5
+717N7
+838P8f8
+8>9G9b9|9
+9@:^:n:t:
+<#<G<
+= =%=+=2=A=S=_=m={=
+>->?>j>
+> ?\?
+A0M0
+1,2E2M2S2]2d2
+3W3w3|3
+4(434J4U4
+5,525m5
+566R6W6t6{6
+7F7N7^7o7
+8!8+82878@8U8
+8$909=9E9]9o9{9
+:8:I:Z:
+:T;X;\;`;d;h;l;p;t;x;|;
+;#<)</<3<9<C<I<Q<g<p<
+=D=]=
+>%>R>Z>d>t>}>
+>.?8?S?b?n?t?
+0O0~0
+2F2Q2_2s2y2~2
+2"3?3T3z3
+4-4_4
+526a6i6}6
+627I7q7y7
+7!8)8=8T8
+90989P9g9
+: :%:E:j:
+;.;J;];n;
+<1<p<y<
+=)>f>n>
+?'?;?Q?c?r?x?
+0%0.0E0O0
+1#141B1I1P1
+2h2x2
+333:3@3M3S3j3
+444p4
+5c6k6{6
+6.767F7n7
+989I9
+:D:O:
+:&;=;M;R;W;d;
+<;<K<{<
+= =K=P=p=z=
+>!>+>f>k>
+?$?.???j?o?
+0F0K0k0
+1,1:1a1l1z1
+4<4B4L4W4j4
+5	6-6\6o6
+7j7p7z7
+898M8q8
+9+9G9w9
+9/:G:u:
+;.;J;`;j;w;
+;/<?<
+='=P=
+>6>F>h>w>
+2#212:2p2
+383K3Q3[3f3k3q3{3
+4b4n4
+5;5A5t5
+7+7:7]7n7
+829[9
+:':4:B:P:^:
+;/<W<_<m<
+='>I>
+$0v0~0
+0?1G1U1
+2 2*242>2a2
+3'343
+344d4l4z4
+666=6Q6Y6o6
+7F7[7
+8*8T8
+8<9w9
+:":(:1:7:<:B:Q:`:~:%;;;
+<#<F<]<s<
+=#=)=/=5=;=O=V=\=a=g=
+=A>M>i>r?
+00J0V0d0n0
+1'1{1
+262R2^2m2
+343A3G3Q3t3
+4+424A4F4L4Q4Y4
+5J6n8
+=<=x=
+>$?J?p?
+1.1j1
+2L2x2
+2=3Z3a3k3
+3B4n4
+5>6[6
+687l7
+809j9
+92:o:
+:);e;
+=5>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,000l0p0t0x0|0
+1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,22282>2D2J2P2b2i2|2
+3'30353;3E3O3_3o3
+4 4+40464@4J4]4b4u4
+5'51585>5C5H5M5R5X5`5t5
+6"6*626F6L6Q6Y6_6e6r6x6
+647D7J7
+9#909A9L9Q9V9m9x9~9
+9':,:G:L:
+;$;*;0;6;<;B;H;N;
+3$303<3H3T3`3l3x3
+4 4,484D4P4\4h4t4
+5$5(5,585<5@5t5
+6 6$6(64686<6H6L6P6
+6p8x8
+;<<@<\<`<
+t0x0|0
+1 1(1,10141@1D1P1X1`1d1h1l1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5p5t5x5|5

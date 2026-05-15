@@ -1,0 +1,6538 @@
+!This program cannot be run in DOS mode.
+G~)l
+Rich~)l
+.text
+`.rdata
+@.data
+.gfids
+@.tls
+.rsrc
+@.reloc
+&*hl
+WPRQ
+N _^
+ s8Qj
+_^[d
+qLSj
+_^[d
+s*QW
+_^][
+t$ W
+t$(SU
+\D$$
+XD$ ^][Y
+t2ff
+D$$V
+\@;F
+PSV3
+t;Vj;S
+_^[d
+s`+3
+_]^[
+_^][Y
+_^][
+XJXJ
+XJXJ+
+lZkV
+lZkV
+lZkV
+|XJ(
+XJ1	
+lXN(
+hXN(
+xXNl	ZkV
+lXN(
+hXN(
+xXNl
+hXN(
+xXNl
+pXN(
+tXN(
+`XJ,
+TXJ(m
+HX	R
+xXNl#
+pXNlXkV
+xXNl#
+tXNlXkV
+hXNlXkV
+lXNl
+lYkV
+xXNl
+Y@[Yk
+xXNl#
+LXJ-Y
+j	/F
+%JJ)
+%JJ)
+XJ(X
+XJ	X
+8XJ9
+=XG9
+LXJ(
+=XG,&
+LXJ-
+LXJ(
+LXJ,
+HXG-
+%JJ)
+`XJ,(
+dY(7
+`Y([
+hX(c
+hX(+
+hX(+
+`Y(7
+XY(]
+pX(c
+pX(+
+pX(+
+pX(5
+pX(_
+XN(Z
+XN(Z
+XN(Z
+`XJ,
+`XJ(
+hX(3
+hX(_
+X"333?V
+X"ff
+X"q=
+J	J(
+XJ(}
+XG-9(
+@ZkV
+@ZkV
+dXJ(
+%J 4
+	JT	
+T*AL
+JXJT
+XT+$
+XJ	Y
+XJ	Y
++M((
+@Yi(0
+@Yi(2
+ @Xi
+ @Xi(.
+ @Xi
+ @Xi(.
+ @Yi
+ @Yi(.
+4@Yi
+F@Yi(.
+$@Xi(0
+lZYi(2
+4@Yi
+F@Yi(.
+$@Xi(0
+lZYi(2
+ AYl
+AYl[
+l	ZkV
+0BYl[
+ZYkV*
+ A[k
+$@YB
+6@Yi(.
+6@Yi(.
+$@Y>A
+$@Yi
+F@Y#
+6@Xi(.
+F@Y#
+6@Xi(.
+$@Yi
+F@Y#
+6@Xi(.
+F@Y#
+6@Xi(.
+$@Yi
+F@Y#
+6@Xi(.
+F@Y#
+6@Xi(.
+$@Yi
+6@Yi(.
+$@Yi
+6@Yi(.
+$@Yi
+$@Yi
+6@Yi(.
+6@Yi(.
+$@Yi
+F@Y#
+6@Xi(.
+F@Y#
+6@Xi(.
+$@Yi
+6@Yi(.
+6@Yi(.
+lZXi
+lZXi
+vl	l
+lZXi
+XN(K
+XN(K
+XN(K
+XN(K
+@As,
+XN(K
+?ZYk
+Y@[k
+o@Zi
+o@Zi
+o@Zi
+],'((
++%(!
++M((
+@[[i
+?	lYk
+?	lYk
+?	lYk
+o@Zi
+o@Zi
+o@Zi( 
+l[k*
+lZXi
+lZXi
+vl	l
+lZXi
+o@[k
+o@[k
+o@[k
+],7((
++5(!
+l[k([
+l[k([
+[k([
+],>(!
++:((
+lYk}
+\XJ*
+\XJ(
+l[ZkV
+\XJ(
+l[ZkV*
+\XJ(
+XJT+Z	J
+XF-"
+T+,	
+%ZXk
+lYkl(n
+4XNl#
+XF-R	
+T+&	
+	,		
+XF- 
+XF-!
+XJXJ
+XJXJ*
+\XJ(
+l	l6
+\XJ(
+\XJ(
+l	l6
+\XJ(
+XJXJ
+\XJ(
+NlYkV
+XNlYkV
+@XJJX
+@XJJ
+\XJ(
+@XJJ
+\XJ(
+@XJJ
+\XJ(
+@XJJ
+\XJ(
+\XJ(
+J	39
+XJT	
+XFR	
+XJ;G
+XJ@H
+XJXJ
+XJXJ
+XJNl
+NlYk(
+XNlYk(
+XJNl
+NlYk(
+XNlYk(
+#<2	
+T*AL
+XF-!
+XJ3	
+XF9 
+@XJJX
+XF-/
+XJXJ
+JXJT
+XT+$
+JT8@
+JXT8
+XJ	Y
+XJ	Y
+!JXT
+lYkl(n
+0XNl#
+?Z5*
+lYkl(n
+4XNl#
+(XJ:
+lYkl(n
+0XNl#
+?Z5(
+lYkl(n
+4XNl#
+l	l4
+XNl0
+l	l6M
+XNl4C
+XNl0
+XNl4
+XT8f
+@XJ(
+lYkl(n
+0XNl#
+?Z4>
+lYkl(n
+4XNl#
+XT8L
+\XJ(
+<XN(
+\XJ(
+JNl2
+MbP?YkV
+XJ(`
+XJXJ
+\XJ(
+\XJ(
+MbP?Y6
+\XJ(
+\XJ(
+MbP?Y6
+\XJ(
+-XG9
+XJ	JY
+@XJJ
+XJ%Nl
+lYkV
+X%Nl
+lYkV
+\XJ(
+@XJ(
+PX(+
+DX(+
+$X(+
+DX(+
+$X(+
+T*AL
+ UUU
+ UUU
+XT+9
+@XJ(
+	JJ(
+	JJ(
+Z	JXJ
+T*AL
+bXT*
+vklZ#
+X@[k
+Z	JX
+-=	-
++M((
+o@[kV
+o@[kV
+o@[kV
+X	V~
+XNV*
+XJ54
+	JJ)
+	*AL
+	,-	(p
+	4D	
+[0)	
+XJ)M
+XJ)P
+XJ)N
+t9Wh
+t=Wh
+t7Wh
+tB+}
+8csm
+h$xA
+SVWj
+Y_^3
+j Y+
+u&hX
+j Y+
+h[wA
+Y__^[
+hC}A
+h(zA
+8csm
+ineI
+5ntel
+5Genu
+t#=`
+XG(5
+4XJ)
+ XJ)
+, (1
+JJ csm
+3/& 
+XJ%J
+FullyProtected
+Unprotected
+Head
+Default
+Chest
+Arms
+Tight
+Legs
+TightBaseline
+Feet
+Waist
+Shoulders
+Unknown Region
+pseditor.cfg
+void
+char
+int16
+\My Games\Grim Dawn\
+BGColor
+MeshInsert
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+Artifact
+Attempt to CreateObjectFromFile '%s', requested class %s, object was class %s
+float64
+Unknown
+Armor
+Weapon1
+Weapon2
+bool
+Misc
+Mace
+Spear
+Staff
+Sword
+Dagger
+Scepter
+UsedWeapon1
+string
+UsedWeapon2
+Hands
+Chest
+Legs
+Feet
+Head
+Shield
+UsedArmor
+None
+Ring
+RightHand
+UsedMisc
+wstring
+LeftHand
+Waist
+Chest
+Shoulders
+Legs
+Medal
+Invalid
+Feet
+Head
+Neck
+Finger
+Hands
+Clothing
+Artifact
+luaobject
+Waist
+\My Games\Grim Dawn\
+BGColor 
+Shoulders
+Medal
+Invalid
+MeshInsert 
+luatable
+string
+Generic
+Mage
+Melee
+Faction
+wstring
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+Undo: %d
+[%.2f,%.2f]
+%.2f
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+map/set<T> too long
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+original
+noise
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+ShutdownObjects
+.pfx
+.PFX
+.tex
+.TEX
+Direct3D
+\My Games\Grim Dawn
+\Tools.ini
+Login
+builddir
+additionalbuilddirs
+localdir
+source
+additionalsourcedirs
+Database
+Resources
+XPack
+Audio
+Videos
+Text
+main.dmp
+./settings/defaults.txt
+settings/options.txt
+settings/keybindings.txt
+GAME.DLL
+InitializeObjects
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+Would you like your changes saved first?
+Warning
+Would you like to save your changes?
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+Cylinder
+Sphere
+Capsule
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+string
+wstring
+\My Games\Grim Dawn
+\Tools.ini
+localdir
+Login
+source
+Resources/
+Database/
+InitializeConditionVariable
+SleepConditionVariableCS
+WakeAllConditionVariable
+bad allocation
+bad array new length
+>#g/
+void
+char
+int16
+int32
+int64
+uint8
+uint16
+uint32
+uint64
+float32
+float64
+bool
+string
+wstring
+luaobject
+luatable
+lua51.dll
+lua52.dll
+lua5.1.dll
+8Assert Failed: %s
+Application: %s
+Filename: %s (%s)
+Expression: %s
+Message: %s
+%s(%i) : [Assert] (%s) %s
+Tahoma
+Assert Failed!
+Filename:
+Line:
+Expression:
+Message:
+Edit
+Edit
+Edit
+Edit
+Debug
+Ignore
+Ignore Always
+Exit
+ ( %f , %f , %f ) 
+\\?\UNC\
+%.1fkb
+%.1fmb
+\*.*
+\*.*
+vector<T> too long
+bad cast
+Unknown exception
+invalid string position
+string too long
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089jSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADPADP
+QX#1Q
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ajSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADPADP
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089jSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP
+&&(T'
+F!7g
+PX#1Q	F@Q:
+mR33
+q]wH
+ne?z
+izm%i
+`qqo
+uY3EvjO
+]|}<
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ajSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADPADP
+3t>\
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089jSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP
+3t>;e;DX#1Q
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3amSystem.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089jSystem.CodeDom.MemberAttributes, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImageListStreamer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP
+JL6HT
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ System.Globalization.CultureInfo
+m_isReadOnly
+compareInfo
+textInfo
+numInfo
+dateTimeInfo
+calendar
+m_dataItem	cultureID
+m_name
+m_useUserOverride
+ System.Globalization.CompareInfo
+System.Globalization.TextInfo%System.Globalization.NumberFormatInfo'System.Globalization.DateTimeFormatInfo
+System.Globalization.Calendar
+ System.Globalization.CompareInfo
+m_name	win32LCID
+culture
+m_SortVersion
+ System.Globalization.SortVersion	
+System.Globalization.TextInfo
+m_listSeparator
+m_isReadOnly
+m_cultureName
+customCultureName
+m_nDataItem
+m_useUserOverride
+m_win32LangID
+%System.Globalization.NumberFormatInfo"
+numberGroupSizes
+currencyGroupSizes
+percentGroupSizes
+positiveSign
+negativeSign
+numberDecimalSeparator
+numberGroupSeparator
+currencyGroupSeparator
+currencyDecimalSeparator
+currencySymbol
+ansiCurrencySymbol	nanSymbol
+positiveInfinitySymbol
+negativeInfinitySymbol
+percentDecimalSeparator
+percentGroupSeparator
+percentSymbol
+perMilleSymbol
+nativeDigits
+m_dataItem
+numberDecimalDigits
+currencyDecimalDigits
+currencyPositivePattern
+currencyNegativePattern
+numberNegativePattern
+percentPositivePattern
+percentNegativePattern
+percentDecimalDigits
+digitSubstitution
+isReadOnly
+m_useUserOverride
+m_isInvariant
+validForParseAsNumber
+validForParseAsCurrency
+Infinity
+	-Infinity	
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.ImageListStreamer
+Data
+MSFt
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.CodeDom.MemberAttributes
+value__
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+k!u!
+7#f#
+x$u!
+b%i%
+z%i%
+"&<&
+R&<&
+R'i%
+^'i%
+TI4	
+@^wi
+`C~g
+`v~x
+tIc	
+I@!3
+I`!3
+I #K
+I #3
+I@#K
+I@#+
+I`#K
+I`#+
+I $;
+I $+
+I $S
+I@$+
+I@$K
+I@$S
+I`$+
+I %+
+I %K
+I@%K
+I@%3
+I`%S
+I`%+
+I &+
+I &S
+I@&+
+I@&K
+I`&+
+I`&K
+I '+
+I 'K
+I@'+
+I@'K
+I`'+
+I`'K
+I (+
+I@(+
+I@(K
+I`(+
+I )K
+I )+
+I@)K
+I`)+
+I`)K
+Ia7[
+I!8[
+I!9[
+IA9[
+I!<[
+IA<[
+I \+
+I@\3
+I`\+
+&)0)| <)
+G)Q)W)^)
+ c)h)v)})
+*)*/*6*@*J*T*Z*_*c*j*
++'+1+E+H+R+Y+
+,2,<,I,U,_,i,p,{,
+,*-0-7-A-K-U-a-j-
+.L.Q.{"u"o.
+/"/'/
+0!0,01070<0i0
+1.161@1F1f1p1
+"w1	#
+273>3G3
+!Y3d3i3q3
+4?4K4U4_4g4q4x4
+5$5)535=5G5w5
+6)6.6N6v6
+7$7_7j7o7
+768U8i8
+:@:G:O:e:
+:!;A;F;K;
+;(<C<N<o<
+="=-=4=:=A=G=]=k=
+> >*><>e>k>y>H"
+???E?m?r?~?
+@,@5@?@{@
+A.AUAZAiA{A
+A1B6BR"`BeB
+C*C.C4C8C0E5E:E
+"+G0G5G<GCGMG
+"TGXG]GjGtGzG
+H%H6H>HFHKHQH_HeHmHsH
+I6I<ICILIUI^IhI
+<Module>
+$ArrayType$$$BY0N@$$CBD
+<CppImplementationDetails>
+$ArrayType$$$BY0BC@$$CBD
+$ArrayType$$$BY0O@$$CBD
+$ArrayType$$$BY0P@$$CBD
+$ArrayType$$$BY0BF@$$CBD
+$ArrayType$$$BY08$$CBD
+$ArrayType$$$BY0L@$$CBD
+$ArrayType$$$BY0BA@$$CBD
+$ArrayType$$$BY05$$CBD
+$ArrayType$$$BY04$$CBD
+$ArrayType$$$BY01$$CBD
+$ArrayType$$$BY00$$CBD
+$ArrayType$$$BY07$$CBD
+$ArrayType$$$BY06$$CBD
+$ArrayType$$$BY0BI@$$CBD
+$ArrayType$$$BY03$$CBD
+_String_iterator<std::_String_val<std::_Simple_types<char> > >
+$ArrayType$$$BY0BD@$$CBD
+LogPriority
+GAME
+$ArrayType$$$BY0BE@$$CBD
+PSColor
+FileMode
+$ArrayType$$$BY09$$CBD
+EntityListType
+$ArrayType$$$BY0M@$$CBD
+$ArrayType$$$BY0CF@$$CBD
+_Nil
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::pair<float,float> > > >
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<float> > >
+_Mbstatet
+_Zero_then_variadic_args_t
+integral_constant<bool,1>
+$ArrayType$$$BY0EO@$$CBD
+integral_constant<bool,0>
+random_access_iterator_tag
+_Any_tag
+_General_ptr_iterator_tag
+_Really_trivial_ptr_iterator_tag
+_iobuf
+exception
+basic_string<char,std::char_traits<char>,std::allocator<char> >
+bad_cast
+_Facet_base
+locale
+_Locimp
+facet
+codecvt_base
+ctype<char>
+ios_base
+Vec2
+Vec3
+Frustum
+Object
+RTTI_ClassInfo
+_GUID
+Color
+ABBox
+vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >
+PSBackend
+PSEditor
+Effect
+EffectData
+DisplayWidget
+basic_ifstream<char,std::char_traits<char> >
+basic_ofstream<char,std::char_traits<char> >
+Region
+GraphicsCanvas
+BackendScene
+GraphicsNormalRenderer
+BackgroundMode
+GraphicsLight
+Type
+GraphicsSceneRenderer
+vector<GAME::GraphicsSceneRenderer::RenderableEntry>
+vector<GAME::GraphicsLight>
+hash_map<GAME::Region *,GAME::Coords,std::hash<GAME::Region *> >
+_Hash<std::_Umap_traits<GAME::Region *,GAME::Coords,std::_Uhash_compare<GAME::Region *,std::hash<GAME::Region *>,std::equal_to<GAME::Region *> >,std::allocator<std::pair<GAME::Region * const,GAME::Coords> >,0> >
+vector<GAME::GraphicsLight,std::allocator<GAME::GraphicsLight> >
+vector<GAME::GraphicsSceneRenderer::RenderableEntry,std::allocator<GAME::GraphicsSceneRenderer::RenderableEntry> >
+lgString
+LUAGLUE
+vector<GAME::Entity *,std::allocator<GAME::Entity *> >
+vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+codecvt<char,char,_Mbstatet>
+basic_filebuf<char,std::char_traits<char> >
+_Initfl
+basic_streambuf<char,std::char_traits<char> >
+basic_ostream<char,std::char_traits<char> >
+_Sentry_base
+sentry
+basic_istream<char,std::char_traits<char> >
+basic_ios<char,std::char_traits<char> >
+_String_alloc<std::_String_base_types<char,std::allocator<char> > >
+_String_val<std::_Simple_types<char> >
+_Bxty
+vector<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > >,std::_Wrap_alloc<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > > > > >
+list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >
+_List_buy<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >
+_Wrap_alloc<std::allocator<GAME::Entity *> >
+Entity
+_List_node<std::pair<GAME::Region * const,GAME::Coords>,void *>
+GraphicsTexture
+ObjectManager
+_s__RTTIClassHierarchyDescriptor
+_s__RTTIBaseClassDescriptor2
+Engine
+$_TypeDescriptor$_extraBytes_27
+$_TypeDescriptor$_extraBytes_50
+$ArrayType$$$BY08Q6AXXZ
+$_s__RTTIBaseClassArray$_extraBytes_4
+_s__RTTICompleteObjectLocator
+$_TypeDescriptor$_extraBytes_24
+$ArrayType$$$BY03Q6AXXZ
+$_TypeDescriptor$_extraBytes_20
+$ArrayType$$$BY0BA@Q6AXXZ
+$_s__RTTIBaseClassArray$_extraBytes_12
+Sphere
+$ArrayType$$$BY01Q6AXXZ
+$_s__RTTIBaseClassArray$_extraBytes_16
+HWND__
+$_TypeDescriptor$_extraBytes_51
+$_s__RTTIBaseClassArray$_extraBytes_8
+$ArrayType$$$BY02Q6AXXZ
+$_TypeDescriptor$_extraBytes_19
+$_TypeDescriptor$_extraBytes_22
+$_s__RTTIBaseClassArray$_extraBytes_20
+$_TypeDescriptor$_extraBytes_25
+$ArrayType$$$BY01$$CBH
+_s__ThrowInfo
+World
+WorldCoords
+Level
+IntVec3
+Viewport
+GraphicsEngine
+Camera
+DecalSet
+DebugRenderManager
+WorldFrustum
+vector<GAME::Region *,std::allocator<GAME::Region *> >
+RenderTexture
+Coords
+Timer
+GameTimer
+$_TypeDescriptor$_extraBytes_52
+$ArrayType$$$BY0BPE@D
+$_s__CatchableTypeArray$_extraBytes_8
+__std_exception_data
+$_TypeDescriptor$_extraBytes_46
+$_TypeDescriptor$_extraBytes_28
+$ArrayType$$$BY07Q6AXXZ
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<GAME::Entity *> > >
+forward_iterator_tag
+_Vector_iterator<std::_Vector_val<std::_Simple_types<GAME::Entity *> > >
+CurveDisplay
+ColorPicker
+CurveData
+CurveHolder
+$ArrayType$$$BY0BAA@D
+PointManager
+$ArrayType$$$BY0CAA@D
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<GAME::Vec2> > >
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > > >
+_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<GAME::Vec2 *> > >
+set<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *> >
+_Vector_const_iterator<std::_Vector_val<std::_Simple_types<PSEditor::PointManager *> > >
+_Vector_iterator<std::_Vector_val<std::_Simple_types<PSEditor::PointManager *> > >
+vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >
+_Vector_iterator<std::_Vector_val<std::_Simple_types<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > > >
+vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >
+vector<GAME::Vec2,std::allocator<GAME::Vec2> >
+_Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >
+_Vector_iterator<std::_Vector_val<std::_Simple_types<GAME::Vec2> > >
+_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<GAME::Vec2 *> >,std::_Iterator_base0>
+_Tree_node<GAME::Vec2 *,void *>
+_Wrap_alloc<std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >
+rebind<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > >
+_Tree_comp_alloc<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >
+_Redbl
+_Wrap_alloc<std::allocator<GAME::Vec2> >
+rebind<GAME::Vec2>
+pair<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<GAME::Vec2 *> > >,bool>
+$ArrayType$$$BY03PAM
+vector<GAME::Vec2>
+GenerateCurveForm
+CurveForm
+Expression
+$ArrayType$$$BY00P6AMM@Z
+$ArrayType$$$BY01PBD
+$ArrayType$$$BY01M
+$ArrayType$$$BY00PBD
+ResourceDialog
+EditorForm
+FileSystem
+Partition
+_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >
+HINSTANCE__
+$ArrayType$$$BY0BJ@$$CBD
+less<void>
+GraphicsEngineSettings
+pair<std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,std::basic_string<char,std::char_traits<char>,std::allocator<char> > *>
+File
+$_TypeDescriptor$_extraBytes_18
+EmitterData
+IUnknown
+$ArrayType$$$BY0BAE@D
+__s_GUID
+$ArrayType$$$BY05Q6AXXZ
+$ArrayType$$$BY0EAA@D
+Form1
+$ArrayType$$$BY0CJ@$$CBD
+ModuleLoadException
+<CrtImplementationDetails>
+ModuleLoadExceptionHandlerException
+ModuleUninitializer
+__scrt_native_startup_state
+TriBool
+Progress
+LanguageSupport
+gcroot<System::String ^>
+$ArrayType$$$BY0A@P6AHXZ
+ICLRRuntimeHost
+ICorRuntimeHost
+$ArrayType$$$BY00Q6MPBXXZ
+$ArrayType$$$BY0A@P6AXXZ
+_EXCEPTION_POINTERS
+_Fac_node
+_Fac_tidy_reg_t
+ThisModule
+KERNEL32.dll
+mscorlib
+System.Data
+System
+System.Drawing
+System.Windows.Forms
+System.Xml
+NativeCppClassAttribute
+System.Runtime.CompilerServices
+ValueType
+AssemblyTitleAttribute
+System.Reflection
+AssemblyAttributesGoHere
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+AssemblyCultureAttribute
+AssemblyVersionAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblyKeyNameAttribute
+SecurityAction
+System.Security.Permissions
+SecurityPermissionAttribute
+AssemblyAttributesGoHereSM
+CallConvStdcall
+CallConvCdecl
+CallConvThiscall
+IsConst
+IsSignUnspecifiedByte
+Enum
+DecoratedNameAttribute
+IsImplicitlyDereferenced
+IsUdtReturn
+IsCopyConstructed
+CLSCompliantAttribute
+RuntimeHelpers
+Math
+Marshal
+System.Runtime.InteropServices
+Control
+TextBox
+Button
+EventArgs
+MouseEventArgs
+Brush
+PaintEventArgs
+Point
+Form
+Label
+PictureBox
+Container
+System.ComponentModel
+Double
+Size
+IFormatProvider
+Font
+SolidBrush
+Graphics
+StringFormat
+String
+EventHandler
+BorderStyle
+FormBorderStyle
+ControlStyles
+ControlCollection
+PaintEventHandler
+MouseEventHandler
+MouseButtons
+ButtonBase
+Convert
+Panel
+ContextMenu
+MenuItem
+MainMenu
+IContainer
+IntPtr
+DialogResult
+IButtonControl
+FormStartPosition
+DockStyle
+Menu
+MenuItemCollection
+FlatStyle
+TreeView
+ImageList
+Hashtable
+System.Collections
+TreeViewEventArgs
+HandleProcessCorruptedStateExceptionsAttribute
+System.Runtime.ExceptionServices
+ImageListStreamer
+TreeNode
+ListView
+ListViewItem
+GroupBox
+SaveFileDialog
+ComboBox
+CheckBox
+ColorDialog
+NumericUpDown
+NotifyIcon
+Int32
+IsLong
+ResourceManager
+System.Resources
+IDisposable
+CompilerMarshalOverride
+FontStyle
+GraphicsUnit
+Decimal
+ISupportInitialize
+CheckState
+TreeViewEventHandler
+IWin32Window
+ObjectCollection
+TreeNodeCollection
+CommonDialog
+ColorDepth
+SelectedListViewItemCollection
+ListViewItemCollection
+ColumnHeaderStyle
+View
+RuntimeTypeHandle
+OpenFileDialog
+Thread
+System.Threading
+ApartmentState
+FormWindowState
+Application
+TargetFrameworkAttribute
+System.Runtime.Versioning
+Exception
+SerializationInfo
+System.Runtime.Serialization
+StreamingContext
+SecurityCriticalAttribute
+System.Security
+Stack
+SecuritySafeCriticalAttribute
+PrePrepareMethodAttribute
+System.Runtime.ConstrainedExecution
+AppDomain
+UnsafeValueTypeAttribute
+Guid
+DebuggerStepThroughAttribute
+System.Diagnostics
+ReliabilityContractAttribute
+Consistency
+FixedAddressValueTypeAttribute
+Interlocked
+Monitor
+RuntimeEnvironment
+GCHandle
+Delegate
+IEnumerator
+SecurityRulesAttribute
+SecurityRuleSet
+OutOfMemoryException
+IsBoxed
+SuppressUnmanagedCodeSecurityAttribute
+ModuleHandle
+RuntimeMethodHandle
+Module
+std.exception.{dtor}
+std.exception.__vecDelDtor
+delete
+std._Allocate
+_Count
+_Try_aligned_allocation
+std._Deallocate
+_Ptr
+std.bad_cast.__vecDelDtor
+std.bad_cast.{dtor}
+std.locale.{dtor}
+std.locale._Getfacet
+GAME.*
+PSEditor.PSBackend.{ctor}
+_effect
+_effectData
+PSEditor.PSBackend.__vecDelDtor
+PSEditor.PSBackend.{dtor}
+PSEditor.PSBackend.ResetMaxParticles
+PSEditor.PSBackend.GetNumParticles
+PSEditor.PSBackend.GetMaxParticles
+PSEditor.PSBackend.SetPause
+PSEditor.PSBackend.SetSimFlight
+PSEditor.PSBackend.AdjustUp
+PSEditor.PSBackend.AdjustSide
+PSEditor.PSBackend.AdjustPitch
+PSEditor.PSBackend.AdjustYaw
+PSEditor.PSBackend.AdjustZoom
+PSEditor.PSBackend.LoadSettings
+std.basic_ifstream<char,std::char_traits<char> >.__vbaseDtor
+PSEditor.PSBackend.SaveSettings
+std.basic_ofstream<char,std::char_traits<char> >.__vbaseDtor
+PSEditor.PSBackend.SetBackColor
+backColor
+PSEditor.PSBackend.RemoveEntity
+PSEditor.PSBackend.LoadBackground
+textureFileName
+PSEditor.PSBackend.LoadDBR
+dbrFileName
+PSEditor.PSBackend.GetRegion
+PSEditor.PSBackend.Render
+canvas
+GAME.BackendScene.{dtor}
+GAME.GraphicsNormalRenderer.{dtor}
+GAME.GraphicsSceneRenderer.{dtor}
+mem.vector<GAME::GraphicsSceneRenderer::RenderableEntry>.{dtor}
+mem.vector<GAME::GraphicsLight>.{dtor}
+PSEditor.PSBackend.ResetCamera
+PSEditor.PSBackend.UpdateCamera
+PSEditor.PSBackend.Update
+PSEditor.PSBackend.ClearDecals
+std._Hash<std::_Umap_traits<GAME::Region *,GAME::Coords,std::_Uhash_compare<GAME::Region *,std::hash<GAME::Region *>,std::equal_to<GAME::Region *> >,std::allocator<std::pair<GAME::Region * const,GAME::Coords> >,0> >.{dtor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.begin
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.assign
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.+=
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.{dtor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.{ctor}
+std.basic_ofstream<char,std::char_traits<char> >.{dtor}
+std.basic_ofstream<char,std::char_traits<char> >.{ctor}
+_Str
+_Mode
+_Prot
+std.basic_ifstream<char,std::char_traits<char> >.{dtor}
+std.basic_ifstream<char,std::char_traits<char> >.{ctor}
+std.basic_filebuf<char,std::char_traits<char> >.{dtor}
+std._String_alloc<std::_String_base_types<char,std::allocator<char> > >.{dtor}
+std.basic_ofstream<char,std::char_traits<char> >.__vecDelDtor
+std.basic_ifstream<char,std::char_traits<char> >.__vecDelDtor
+std.basic_filebuf<char,std::char_traits<char> >.__vecDelDtor
+std.basic_istream<char,std::char_traits<char> >.sentry.{dtor}
+std.list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.{dtor}
+std.vector<GAME::GraphicsLight,std::allocator<GAME::GraphicsLight> >._Tidy
+std.vector<GAME::GraphicsSceneRenderer::RenderableEntry,std::allocator<GAME::GraphicsSceneRenderer::RenderableEntry> >._Tidy
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Tidy
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >._Tidy
+std.basic_istream<char,std::char_traits<char> >._Sentry_base.{dtor}
+std.basic_ostream<char,std::char_traits<char> >.sentry.{dtor}
+std.basic_ostream<char,std::char_traits<char> >.sentry.{ctor}
+_Ostr
+std._String_val<std::_Simple_types<char> >._Bxty.{dtor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Tidy
+_Built
+_Newsize
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Grow
+value
+_Trim
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.erase
+_Off
+_Right
+_Roff
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.append
+std.basic_filebuf<char,std::char_traits<char> >._Reset_back
+std.basic_filebuf<char,std::char_traits<char> >._Endwrite
+std.basic_filebuf<char,std::char_traits<char> >._Init
+_File
+_Which
+std.basic_filebuf<char,std::char_traits<char> >.close
+std.basic_filebuf<char,std::char_traits<char> >.open
+_Filename
+std._List_buy<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.{dtor}
+std.vector<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > >,std::_Wrap_alloc<std::allocator<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<GAME::Region * const,GAME::Coords> > > > > > >._Tidy
+std.basic_istream<char,std::char_traits<char> >._Sentry_base.{ctor}
+_Istr
+std.basic_ostream<char,std::char_traits<char> >._Sentry_base.{dtor}
+std.basic_ostream<char,std::char_traits<char> >._Sentry_base.{ctor}
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Copy
+_Oldlen
+std.list<std::pair<GAME::Region * const,GAME::Coords>,std::allocator<std::pair<GAME::Region * const,GAME::Coords> > >.clear
+std.use_facet<class std::ctype<char> >
+_Loc
+std.operator>><char,struct std::char_traits<char> >
+std.operator<<<struct std::char_traits<char> >
+_Val
+GAME.ObjectManager.CreateObjectFromFile<class GAME::Object>
+fileName
+objectID
+load
+std.use_facet<class std::codecvt<char,char,struct _Mbstatet> >
+??_E?$basic_ifstream@DU?$char_traits@D@std@@@std@@$$F$4PPPPPPPM@A@AEPAXI@Z
+GAME.BackendScene.AddEntity
+entity
+GAME.BackendScene.GetEntitiesInFrustum
+entities
+frustum
+listType
+GAME.BackendScene.GetEntitiesInSphere
+startRegion
+sphere
+GAME.BackendScene.GetRegionsInFrustum
+regions
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.push_back
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.end
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.begin
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Reserve
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Reallocate
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >.insert<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > > >
+_Where
+_First
+_Last
+std.vector<GAME::Entity *,std::allocator<GAME::Entity *> >._Insert<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > > >
+__unnamed003
+std.rotate<class GAME::Entity * *>
+_Mid
+std._Uninitialized_move_al_unchecked<class GAME::Entity * *,class GAME::Entity * *,class std::allocator<class GAME::Entity *> >
+_Dest
+std._Uninitialized_copy<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Entity *> > >,class GAME::Entity * *,class std::allocator<class GAME::Entity *> >
+std._Rotate_unchecked1<class GAME::Entity * *>
+std._Copy_memmove<class GAME::Entity * *,class GAME::Entity * *>
+std._Copy_memmove<class GAME::Entity * const *,class GAME::Entity * *>
+GAME.Vec2.Length
+PSEditor.CurveHolder.{ctor}
+PSEditor.CurveHolder.__vecDelDtor
+PSEditor.CurveHolder.{dtor}
+PSEditor.CurveHolder.SnapShot
+PSEditor.CurveHolder.GetUndoStackSize
+PSEditor.CurveHolder.FinalizeLoad
+PSEditor.CurveHolder.UnDo
+PSEditor.CurveHolder.GetY
+PSEditor.CurveHolder.IsTileActive
+manager
+index
+PSEditor.CurveHolder.SetDomainRange
+domain
+range
+PSEditor.CurveHolder.AddPointManager
+curveData
+PSEditor.CurveHolder.GetPointManager
+PSEditor.CurveHolder.GetDomain
+PSEditor.CurveHolder.GetRange
+PSEditor.CurveHolder.GetNumTiles
+PSEditor.CurveHolder.GetNumManagers
+PSEditor.CurveHolder.GetTile
+PSEditor.CurveHolder.LeftMouseDown
+PSEditor.CurveHolder.GetManager
+PSEditor.CurveHolder.MiddleMouseDown
+cDisplay
+PSEditor.CurveHolder.SetGrabbedY
+PSEditor.CurveHolder.LeftMouseUp
+PSEditor.CurveHolder.RightMouseDown
+PSEditor.CurveHolder.RightMouseUp
+PSEditor.CurveHolder.MouseMove
+PSEditor.CurveHolder.GetColor
+mangerIndex
+PSEditor.CurveHolder.CalcSizeTranslators
+Width
+Height
+PSEditor.PointManager.{ctor}
+PSEditor.PointManager.__vecDelDtor
+std.set<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *> >.{dtor}
+PSEditor.PointManager.{dtor}
+PSEditor.PointManager.GetCurveData
+PSEditor.PointManager.CalcSizeTranslators
+PSEditor.PointManager.GetPoint
+PSEditor.PointManager.GetRange
+PSEditor.PointManager.CreateOrDestroyPoint
+PSEditor.PointManager.IsOnLine
+PSEditor.PointManager.NeedsSnapShot
+PSEditor.PointManager.SnapShot
+PSEditor.PointManager.UnDo
+PSEditor.PointManager.LeftMouseDown
+PSEditor.PointManager.IsTileActive
+PSEditor.PointManager.GetNeedsDrawBox
+start
+PSEditor.PointManager.AddPointsInBoxToSelection
+PSEditor.PointManager.FixOutOfBoundsPoints
+PSEditor.PointManager.LeftMouseUp
+PSEditor.PointManager.MiddleMouseDown
+PSEditor.PointManager.MouseMove
+PSEditor.PointManager.SetGrabbedY
+PSEditor.PointManager.IsInGrabbed
+PSEditor.PointManager.FindGrabbed
+PSEditor.PointManager.EnsureOrder
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >.push_back
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >.end
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >.begin
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >.erase
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >.push_back
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >.end
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >.{dtor}
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.find
+_Keyval
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.clear
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.end
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.begin
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.end
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.begin
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.=
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.{dtor}
+std._Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<GAME::Vec2 *> >,std::_Iterator_base0>.++
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >._Tidy
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >._Reserve
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >._Tidy
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >._Reserve
+std._Tree_comp_alloc<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.{dtor}
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Tidy
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Erase
+_Rootnode
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >._Insert_n
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >._Tidy
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >._Buy
+_Capacity
+std.vector<PSEditor::PointManager *,std::allocator<PSEditor::PointManager *> >._Reallocate
+std.vector<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> >,std::allocator<std::vector<GAME::Vec2,std::allocator<GAME::Vec2> > > >._Reallocate
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >.erase
+std._Tree_comp_alloc<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Buyheadnode
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Rrotate
+_Wherenode
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Lrotate
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Lbound<class GAME::Vec2 *>
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Insert_nohint<class GAME::Vec2 *,struct std::_Nil>
+_Leftish
+_Newnode
+std._Uninit_alloc_fill_n1<class GAME::Vec2 *,unsigned int,class std::allocator<class GAME::Vec2> >
+_Pval
+__unnamed004
+std._Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<GAME::Vec2 *> >,std::_Iterator_base0>.--
+std._Tree<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Insert_at<class GAME::Vec2 *,struct std::_Nil>
+_Addleft
+_Node
+std._Copy_memmove<class GAME::Vec2 *,class GAME::Vec2 *>
+std._Uninitialized_copy_al_unchecked<class GAME::Vec2 *,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+std._Uninitialized_move_al_unchecked<class GAME::Vec2 *,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+std._Uninitialized_move_al_unchecked<class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > *,class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > *,class std::allocator<class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > > >
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.{ctor}
+std._Uninitialized_copy_al_unchecked1<class GAME::Vec2 *,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+__unnamed005
+std._Uninitialized_move_al_unchecked1<class GAME::Vec2 *,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+std._Uninitialized_move_al_unchecked1<class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > *,class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > *,class std::allocator<class std::vector<class GAME::Vec2,class std::allocator<class GAME::Vec2> > > >
+std._Tree_comp_alloc<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Buynode<class GAME::Vec2 *>
+<_Val_0>
+std._Copy_memmove<class PSEditor::PointManager * *,class PSEditor::PointManager * *>
+std._Uninitialized_copy<class std::_Vector_const_iterator<class std::_Vector_val<struct std::_Simple_types<class GAME::Vec2> > >,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+std._Tree_comp_alloc<std::_Tset_traits<GAME::Vec2 *,std::less<GAME::Vec2 *>,std::allocator<GAME::Vec2 *>,0> >._Buynode0
+std._Uninitialized_copy_al_unchecked1<class GAME::Vec2 const *,class GAME::Vec2 *,class std::allocator<class GAME::Vec2> >
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >.resize
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >._Reserve
+std.vector<GAME::Vec2,std::allocator<GAME::Vec2> >._Reallocate
+std._Uninitialized_default_fill_n1<class GAME::Vec2 *,unsigned int,class std::allocator<class GAME::Vec2> >
+mem.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >.{dtor}
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.end
+std.vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >.begin
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.compare
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.=
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Traits_compare
+_Left
+_Left_size
+_Right_size
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.find
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.swap
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Assign_rv
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >._Swap_bx
+std.operator+<char,struct std::char_traits<char>,class std::allocator<char> >
+std.basic_string<char,std::char_traits<char>,std::allocator<char> >.reserve
+_Newcap
+std._Sort_unchecked1<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,struct std::less<void> >
+_Ideal
+_Pred
+std._Partition_by_median_guess_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Make_heap_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Insertion_sort_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Guess_median_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Pop_heap_hole_by_index<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<void> >
+_Hole
+_Bottom
+std._Pop_heap_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Med3_unchecked<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,struct std::less<void> >
+std._Push_heap_by_index<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<void> >
+_Top
+WinMain
+hInstance
+hPrevInstance
+lpCmdLine
+nCmdShow
+PSEditor.GetDirectoryFromFileName
+path
+<CrtImplementationDetails>.ThrowNestedModuleLoadException
+innerException
+nestedException
+<CrtImplementationDetails>.ThrowModuleLoadException
+errorMessage
+<CrtImplementationDetails>.RegisterModuleUninitializer
+handler
+<CrtImplementationDetails>.FromGUID
+guid
+__get_default_appdomain
+ppUnk
+__release_appdomain
+<CrtImplementationDetails>.GetDefaultDomain
+<CrtImplementationDetails>.DoCallBackInDefaultDomain
+function
+cookie
+__scrt_is_safe_for_managed_code
+<CrtImplementationDetails>.DefaultDomain.DoNothing
+<CrtImplementationDetails>.DefaultDomain.HasPerProcess
+<CrtImplementationDetails>.DefaultDomain.HasNative
+<CrtImplementationDetails>.DefaultDomain.NeedsInitialization
+<CrtImplementationDetails>.DefaultDomain.NeedsUninitialization
+<CrtImplementationDetails>.DefaultDomain.Initialize
+?A0x13efd873.??__E?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0x13efd873.??__E?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA@@YMXXZ
+?A0x13efd873.??__E?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA@@YMXXZ
+?A0x13efd873.??__E?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+?A0x13efd873.??__E?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A@@YMXXZ
+<CrtImplementationDetails>.LanguageSupport.InitializeVtables
+<CrtImplementationDetails>.LanguageSupport.InitializeDefaultAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeNative
+<CrtImplementationDetails>.LanguageSupport.InitializePerProcess
+<CrtImplementationDetails>.LanguageSupport.InitializePerAppDomain
+<CrtImplementationDetails>.LanguageSupport.InitializeUninitializer
+<CrtImplementationDetails>.LanguageSupport._Initialize
+<CrtImplementationDetails>.LanguageSupport.UninitializeAppDomain
+<CrtImplementationDetails>.LanguageSupport._UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.UninitializeDefaultDomain
+<CrtImplementationDetails>.LanguageSupport.DomainUnload
+<CrtImplementationDetails>.LanguageSupport.Cleanup
+<CrtImplementationDetails>.LanguageSupport.{ctor}
+<CrtImplementationDetails>.LanguageSupport.{dtor}
+<CrtImplementationDetails>.LanguageSupport.Initialize
+.cctor
+gcroot<System::String ^>..P$AAVString@System@@
+gcroot<System::String ^>.=
+gcroot<System::String ^>.{dtor}
+gcroot<System::String ^>.{ctor}
+___CxxCallUnwindDtor
+pDtor
+pThis
+?A0x61b33503.??__E?A0x61b33503@_Fac_tidy_reg@std@@YMXXZ
+?A0x61b33503.??__F?A0x61b33503@_Fac_tidy_reg@std@@YMXXZ
+std._Facet_Register_m
+_This
+__ehvec_dtor
+size
+count
+destructor
+?A0xf45b0832.ArrayUnwindFilter
+pExPtrs
+__ArrayUnwind
+<CrtImplementationDetails>.AtExitLock._handle
+<CrtImplementationDetails>.AtExitLock._lock_Construct
+<CrtImplementationDetails>.AtExitLock._lock_Set
+<CrtImplementationDetails>.AtExitLock._lock_Get
+<CrtImplementationDetails>.AtExitLock._lock_Destruct
+<CrtImplementationDetails>.AtExitLock.IsInitialized
+<CrtImplementationDetails>.AtExitLock.AddRef
+<CrtImplementationDetails>.AtExitLock.RemoveRef
+<CrtImplementationDetails>.AtExitLock.Enter
+<CrtImplementationDetails>.AtExitLock.Exit
+?A0x27925454.__global_lock
+?A0x27925454.__global_unlock
+?A0x27925454.__alloc_global_lock
+?A0x27925454.__dealloc_global_lock
+_atexit_helper
+func
+__pexit_list_size
+__ponexitend_e
+__ponexitbegin_e
+_exit_callback
+_initatexit_m
+_atexit_m
+_initatexit_app_domain
+_app_exit_callback
+DecodePointer
+EncodePointer
+_initterm_e
+pfbegin
+pfend
+_initterm
+<CrtImplementationDetails>.ThisModule.Handle
+_initterm_m
+<CrtImplementationDetails>.ThisModule.ResolveMethod<void const * __clrcall(void)>
+methodToken
+_WinMainCRTStartup
+std.locale.id..I
+std.codecvt_base.always_noconv
+std.ctype<char>.is
+std.ctype<char>._Getcat
+std.ios_base.._N
+std.ios_base.good
+std.ios_base.flags
+std.ios_base.width
+std.ios_base.getloc
+GAME.DisplayWidget.{ctor}
+GAME.GraphicsLight.{dtor}
+std.basic_ostream<char,std::char_traits<char> >.<<
+std.basic_ostream<char,std::char_traits<char> >.{dtor}
+std.basic_istream<char,std::char_traits<char> >.>>
+std.basic_istream<char,std::char_traits<char> >.{dtor}
+std.basic_streambuf<char,std::char_traits<char> >.{dtor}
+std.basic_ios<char,std::char_traits<char> >.{dtor}
+std.basic_ostream<char,std::char_traits<char> >.{ctor}
+std.basic_istream<char,std::char_traits<char> >.{ctor}
+std.basic_streambuf<char,std::char_traits<char> >.eback
+std.basic_ios<char,std::char_traits<char> >.{ctor}
+std.basic_ios<char,std::char_traits<char> >.fill
+std.basic_ios<char,std::char_traits<char> >.rdbuf
+std.basic_ios<char,std::char_traits<char> >.setstate
+std.codecvt<char,char,_Mbstatet>.unshift
+std.basic_ostream<char,std::char_traits<char> >.flush
+std.basic_ostream<char,std::char_traits<char> >._Osfx
+std.basic_istream<char,std::char_traits<char> >._Ipfx
+std.basic_streambuf<char,std::char_traits<char> >._Init
+std.basic_streambuf<char,std::char_traits<char> >.setg
+std.basic_streambuf<char,std::char_traits<char> >.getloc
+std.basic_streambuf<char,std::char_traits<char> >.{ctor}
+std.basic_ios<char,std::char_traits<char> >.tie
+std.basic_streambuf<char,std::char_traits<char> >.sputc
+std.basic_streambuf<char,std::char_traits<char> >.snextc
+std.basic_streambuf<char,std::char_traits<char> >.sgetc
+std.codecvt<char,char,_Mbstatet>._Getcat
+std.basic_streambuf<char,std::char_traits<char> >.sputn
+_get_stream_buffer_pointers
+_invalid_parameter_noinfo_noreturn
+__CxxQueryExceptionSize
+_CxxThrowException
+GAME.World.AddEntity
+GAME.World.RemoveEntity
+GAME.World.AddRegion
+GAME.World.RemoveRegion
+GAME.World.GetRegion
+GAME.Viewport.{ctor}
+GAME.Engine.GetGraphicsEngine
+GAME.GraphicsSceneRenderer.AddLight
+GAME.GraphicsSceneRenderer.AddRegionToScene
+GAME.GraphicsSceneRenderer.SetViewer
+GAME.Object.GetObjectName
+GAME.Level.{ctor}
+GAME.Level.NewSpace
+GAME.Level.PostLoad
+GAME.Level.GetDecalSet
+GAME.Singleton<GAME::DebugRenderManager>.Get
+GAME.RTTI_ClassInfo.GetName
+GAME.RTTI_ClassInfo.IsA
+GAME.Singleton<GAME::ObjectManager>.Get
+GAME.GraphicsCanvas.SetViewport
+GAME.IntVec3.{ctor}
+GAME.GraphicsEngine.LoadTexture
+GAME.GraphicsEngine.UnloadTexture
+GAME.Region.SetLevel
+GAME.GraphicsNormalRenderer.{ctor}
+GAME.GraphicsNormalRenderer.SetBackgroundMode
+GAME.GraphicsNormalRenderer.SetBackgroundTexture
+GAME.GraphicsNormalRenderer.EnableWireframe
+GAME.GraphicsNormalRenderer.Render
+GAME.GraphicsNormalRenderer.SetSkyAmbientColor
+GAME.GraphicsNormalRenderer.SetGroundAmbientColor
+GAME.Vec3.+=
+GAME.GraphicsLight.{ctor}
+GAME.GraphicsLight.SetType
+GAME.GraphicsLight.SetColor
+GAME.GraphicsLight.SetShadowPriority
+GAME.GraphicsLight.SetObjectToWorldCoords
+GAME.Coords.Identity
+GAME.Coords.LookAt
+GAME.Coords.LookIn
+GAME.Camera.{ctor}
+GAME.Camera.SetFOV
+GAME.Camera.SetCoords
+GAME.Camera.GetCoords
+GAME.Camera.SetNearPlane
+GAME.Camera.SetFarPlane
+GAME.Camera.GetFrustum
+GAME.DebugRenderManager.Flush
+GAME.Radians
+GAME.Timer.Reset
+GAME.Timer.Update
+GAME.Timer.GetElapsedTime
+GAME.Effect.SetPause
+GAME.Effect.AddToScene
+GAME.Effect.Update
+GAME.Effect.GetNumParticles
+GAME.Effect.SetEditorRegion
+GAME.Cos
+GAME.Entity.Update
+GAME.WorldCoords.{ctor}
+GAME.Sin
+GAME.GameTimer.{ctor}
+GAME.ObjectManager.CreateObjectFromFile
+GAME.ObjectManager.DestroyObjectEx
+GAME.DecalSet.RemoveAllDecals
+GetMyDocumentsFolder
+__CxxDetectRethrow
+__CxxUnregisterExceptionObject
+__CxxExceptionFilter
+fwrite
+std._Xlength_error
+std._Fiopen
+std._Xout_of_range
+std._Xbad_alloc
+std.uncaught_exception
+std.locale._Getgloballocale
+std._Lockit._Lockit_ctor
+std._Lockit._Lockit_dtor
+fclose
+__CxxRegisterExceptionObject
+memmove
+delete[]
+__std_exception_destroy
+sprintf
+GAME.CurveData.GetDomain
+GAME.CurveData.GetRange
+GAME.Abs
+GAME.Sqrt
+GAME.CurveData.GetY
+GAME.CurveData.SetDomain
+GAME.CurveData.SetRange
+GAME.CurveData.GetColor
+GAME.CurveData.GetPointList
+GAME.CurveData.UpdateSegmentList
+GAME.Expression.{ctor}
+GAME.Expression.{dtor}
+GAME.Expression.Initialize
+GAME.Expression.Evaluate
+GAME.IsFinite
+GAME.CurveData.{ctor}
+GAME.CurveData.SetColor
+GAME.CurveData.Copy
+GAME.CurveData.Simplify
+GAME.Engine.SetBaseUserPath
+GAME.Engine.SetLogPath
+GAME.Engine.SetDumpPath
+GAME.Engine.SetDefaultSettingsPath
+GAME.Engine.SetNormalSettingsPath
+GAME.Engine.SetKeymapPath
+GAME.Engine.GetBaseUserPath
+GAME.Engine.GetLogPath
+GAME.GraphicsEngineSettings.{dtor}
+GetPrivateProfileStringA
+_itoa
+memchr
+GetProcAddress
+GAME.Engine.{ctor}
+GAME.Engine.SetFileSystem
+GAME.Engine.Update
+GAME.Engine.Render
+GAME.Engine.PresentSurface
+GAME.Engine.AddWidget
+GAME.Engine.SetPSEditorMode
+GAME.Engine.LoadAdditionalDatabases
+GAME.FileSystem.{ctor}
+GAME.FileSystem.AddSource
+GAME.FileSystem.GetMatchingFiles
+GAME.AssertHandler.Disable
+GAME.GraphicsEngine.UnloadAllResources
+GAME.Camera.GetFarPlane
+GAME.GraphicsEngineSettings.{ctor}
+GAME.EffectData.{ctor}
+GAME.EffectData.{dtor}
+GAME.EffectData.AddEmitterData
+GAME.EffectData.RemoveEmitterData
+GAME.EffectData.GetEmitterData
+GAME.EffectData.GetNumEmitters
+GAME.EffectData.Save
+GAME.EffectData.Load
+GAME.EffectData.ImageLoad
+GAME.EffectData.ShaderLoad
+GAME.EffectData.DropDecalLoad
+GAME.EffectData.GetBoolean
+GAME.EffectData.SetBoolean
+GAME.EffectData.SetFloat
+GAME.EffectData.SetName
+GAME.EffectData.GetName
+GAME.EffectData.SetLoop
+GAME.Effect.{ctor}
+GAME.Effect.Reset
+GAME.Effect.RemoveEmitter
+GAME.Effect.AddEmitter
+GAME.Effect.StartEmitting
+GAME.WorldFrustum.{ctor}
+GAME.EmitterData.{ctor}
+GAME.EmitterData.GetCurve
+GAME.EmitterData.GetString
+GAME.EmitterData.GetBoolean
+GAME.EmitterData.GetInteger
+GAME.EmitterData.GetFloat
+GAME.EmitterData.SetBoolean
+GAME.EmitterData.SetInteger
+GAME.EmitterData.SetFloat
+GAME.EmitterData.SetDebugLines
+GAME.EmitterData.GetDebugLines
+GAME.EmitterData.SetEnabled
+GAME.EmitterData.GetEnabled
+LoadLibraryA
+BreakUpDirectoryList
+GetModuleHandleA
+GetFixedPath
+SHGetSpecialFolderPathA
+GetModuleFileNameA
+MessageBoxA
+GAME.FileSystem.{dtor}
+strrchr
+strncpy
+_getFiberPtrId
+_cexit
+Sleep
+abort
+__security_init_cookie
+__FrameUnwindFilter
+terminate
+?A0x0d091402.unnamed-global-0
+??_C@_0BC@EOODALEL@Unknown?5exception?$AA@
+??_C@_08EPJLHIJG@bad?5cast?$AA@
+?A0x0d091402.unnamed-global-1
+?A0x0d091402.unnamed-global-2
+?A0x0d091402.unnamed-global-3
+?A0x0d091402.unnamed-global-4
+?A0x0d091402.unnamed-global-5
+?A0x0d091402.unnamed-global-6
+?A0x0d091402.unnamed-global-7
+?A0x0d091402.unnamed-global-8
+?A0x0d091402.unnamed-global-9
+?A0x0d091402.unnamed-global-10
+?A0x0d091402.unnamed-global-11
+?A0x0d091402.unnamed-global-12
+?A0x0d091402.unnamed-global-13
+?A0x0d091402.unnamed-global-14
+?A0x0d091402.unnamed-global-15
+?A0x0d091402.unnamed-global-16
+?A0x0d091402.unnamed-global-17
+?A0x0d091402.unnamed-global-18
+?A0x0d091402.unnamed-global-19
+?A0x0d091402.unnamed-global-20
+?A0x0d091402.unnamed-global-21
+?A0x0d091402.unnamed-global-22
+?A0x0d091402.unnamed-global-23
+?A0x0d091402.unnamed-global-24
+?A0x0d091402.unnamed-global-25
+?A0x0d091402.unnamed-global-26
+?A0x0d091402.unnamed-global-27
+?A0x0d091402.unnamed-global-28
+?A0x0d091402.unnamed-global-29
+?A0x0d091402.unnamed-global-30
+?A0x0d091402.unnamed-global-31
+?A0x0d091402.unnamed-global-32
+?A0x0d091402.unnamed-global-33
+?A0x0d091402.unnamed-global-34
+?A0x0d091402.unnamed-global-35
+?A0x0d091402.unnamed-global-36
+?A0x0d091402.unnamed-global-37
+?A0x0d091402.unnamed-global-38
+?A0x0d091402.unnamed-global-39
+?A0x0d091402.unnamed-global-40
+?A0x0d091402.unnamed-global-41
+?A0x0d091402.unnamed-global-42
+?A0x0d091402.unnamed-global-43
+?A0x0d091402.unnamed-global-44
+?A0x0d091402.unnamed-global-45
+?A0x0d091402.unnamed-global-46
+?A0x0d091402.unnamed-global-47
+?A0x0d091402.unnamed-global-48
+?A0x0d091402.unnamed-global-49
+?A0x0d091402.unnamed-global-50
+?A0x0d091402.unnamed-global-51
+?A0x0d091402.unnamed-global-52
+?A0x0d091402.unnamed-global-53
+?A0x0d091402.unnamed-global-54
+?A0x0d091402.unnamed-global-55
+?A0x0d091402.unnamed-global-56
+?A0x0d091402.unnamed-global-57
+?A0x0d091402.unnamed-global-58
+?A0x0d091402.unnamed-global-59
+?A0x0d091402.unnamed-global-60
+?A0x0d091402.unnamed-global-61
+?A0x0d091402.unnamed-global-62
+?A0x0d091402.unnamed-global-63
+?A0x0d091402.unnamed-global-64
+?A0x0d091402.unnamed-global-65
+?A0x0d091402.unnamed-global-66
+?A0x0d091402.unnamed-global-67
+?A0x0d091402.unnamed-global-68
+?A0x0d091402.unnamed-global-69
+?A0x0d091402.unnamed-global-70
+?A0x0d091402.unnamed-global-71
+?A0x0d091402.unnamed-global-72
+?A0x0d091402.unnamed-global-73
+?A0x0d091402.unnamed-global-74
+?A0x0d091402.unnamed-global-75
+?A0x0d091402.unnamed-global-76
+?A0x0d091402.unnamed-global-77
+?A0x0d091402.unnamed-global-78
+?A0x0d091402.unnamed-global-79
+?A0x0d091402.unnamed-global-80
+?A0x0d091402.unnamed-global-81
+?A0x0d091402.unnamed-global-82
+?A0x0d091402.unnamed-global-83
+?A0x0d091402.unnamed-global-84
+?A0x0d091402.unnamed-global-85
+?A0x0d091402.unnamed-global-86
+?A0x0d091402.unnamed-global-87
+?A0x0d091402.unnamed-global-88
+?A0x0d091402.unnamed-global-89
+?A0x0d091402.unnamed-global-90
+?A0x0d091402.unnamed-global-91
+?A0x0d091402.unnamed-global-92
+?A0x0d091402.unnamed-global-93
+??_C@_0BD@OLBABOEK@vector?$DMT?$DO?5too?5long?$AA@
+??_C@_0BA@JFNIOLAK@string?5too?5long?$AA@
+??_C@_0BI@CFPLBAOH@invalid?5string?5position?$AA@
+?A0x0d091402.unnamed-global-94
+??_R3?$basic_istream@DU?$char_traits@D@std@@@std@@8
+??_R0?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@@8
+??_R2BackendScene@GAME@@8
+??_R4exception@std@@6B@
+?name@?$basic_type_name@_K@internal@LUAGLUE@@2VlgString@3@B
+??_R3DisplayWidget@GAME@@8
+??_R4?$basic_ofstream@DU?$char_traits@D@std@@@std@@6B@
+?name@?$basic_type_name@G@internal@LUAGLUE@@2VlgString@3@B
+??_R3BackendScene@GAME@@8
+?name@?$basic_type_name@VLuaTable@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+??_R3?$basic_ofstream@DU?$char_traits@D@std@@@std@@8
+??_R1A@?0A@EA@?$basic_istream@DU?$char_traits@D@std@@@std@@8
+?A0x0d091402.?simFlightAngle@?1??Render@PSBackend@PSEditor@@UBEXAAVGraphicsCanvas@GAME@@@Z@4MA
+?name@?$basic_type_name@VLuaObject@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+??_R0?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@@8
+??_7BackendScene@GAME@@6B@
+?name@?$basic_type_name@VVarArgs@LUAGLUE@@@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@bad_cast@std@@8
+??_R3?$basic_ifstream@DU?$char_traits@D@std@@@std@@8
+?name@?$basic_type_name@_J@internal@LUAGLUE@@2VlgString@3@B
+??_R0?AVios_base@std@@@8
+??_R0?AVDisplayWidget@GAME@@@8
+?name@?$basic_type_name@_N@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@?$basic_ifstream@DU?$char_traits@D@std@@@std@@8
+?name@?$basic_type_name@I@internal@LUAGLUE@@2VlgString@3@B
+??_R17A@3EA@?$_Iosb@H@std@@8
+??_R1A@?0A@EA@exception@std@@8
+??_R2?$basic_ofstream@DU?$char_traits@D@std@@@std@@8
+??_R1A@?0A@EA@?$basic_streambuf@DU?$char_traits@D@std@@@std@@8
+??_7?$basic_filebuf@DU?$char_traits@D@std@@@std@@6B@
+?name@?$basic_type_name@H@internal@LUAGLUE@@2VlgString@3@B
+??_R4BackendScene@GAME@@6B@
+??_R0?AVPSBackend@PSEditor@@@8
+??_R1A@?0A@EA@DisplayWidget@GAME@@8
+??_R2?$basic_istream@DU?$char_traits@D@std@@@std@@8
+??_R0?AV?$_Iosb@H@std@@@8
+??_7?$basic_ofstream@DU?$char_traits@D@std@@@std@@6B@
+??_R0?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@@8
+??_R4PSBackend@PSEditor@@6B@
+??_R0?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@@8
+?name@?$basic_type_name@X@internal@LUAGLUE@@2VlgString@3@B
+?kConfigFileName@PSBackend@PSEditor@@0PBDB
+??_R2bad_cast@std@@8
+??_R2exception@std@@8
+??_R2?$basic_ostream@DU?$char_traits@D@std@@@std@@8
+??_7bad_cast@std@@6B@
+??_R3?$basic_ios@DU?$char_traits@D@std@@@std@@8
+?name@?$basic_type_name@PBG@internal@LUAGLUE@@2VlgString@3@B
+??_8?$basic_ofstream@DU?$char_traits@D@std@@@std@@7B@
+??_R0?AVbad_cast@std@@@8
+_CTA2?AVbad_cast@std@@
+?name@?$basic_type_name@N@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@PSBackend@PSEditor@@8
+??_R0?AVBackendScene@GAME@@@8
+??_7exception@std@@6B@
+?name@?$basic_type_name@E@internal@LUAGLUE@@2VlgString@3@B
+_TI2?AVbad_cast@std@@
+??_R0?AV?$basic_istream@DU?$char_traits@D@std@@@std@@@8
+??_R4?$basic_ifstream@DU?$char_traits@D@std@@@std@@6B@
+??_R1A@?0A@EA@ios_base@std@@8
+??_R3exception@std@@8
+??_R1A@?0A@EA@?$basic_ostream@DU?$char_traits@D@std@@@std@@8
+??_R2PSBackend@PSEditor@@8
+??_R4?$basic_filebuf@DU?$char_traits@D@std@@@std@@6B@
+??_R1A@?0A@EA@BackendScene@GAME@@8
+??_R0?AV?$basic_ios@DU?$char_traits@D@std@@@std@@@8
+??_R2?$basic_streambuf@DU?$char_traits@D@std@@@std@@8
+?name@?$basic_type_name@F@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@?$_Iosb@H@std@@8
+??_8?$basic_ifstream@DU?$char_traits@D@std@@@std@@7B@
+?_Psave@?$_Facetptr@V?$ctype@D@std@@@std@@2PBVfacet@locale@2@B
+?_Psave@?$_Facetptr@V?$codecvt@DDU_Mbstatet@@@std@@@std@@2PBVfacet@locale@2@B
+??_R3bad_cast@std@@8
+??_R4bad_cast@std@@6B@
+?name@?$basic_type_name@D@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@PBD@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@?$basic_ofstream@DU?$char_traits@D@std@@@std@@8
+?name@?$basic_type_name@M@internal@LUAGLUE@@2VlgString@3@B
+??_R1A@?0A@EA@?$basic_filebuf@DU?$char_traits@D@std@@@std@@8
+??_R2DisplayWidget@GAME@@8
+??_7PSBackend@PSEditor@@6B@
+??_R1A@A@3FA@?$basic_ios@DU?$char_traits@D@std@@@std@@8
+??_R3?$basic_filebuf@DU?$char_traits@D@std@@@std@@8
+??_R0?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@@8
+??_R2ios_base@std@@8
+??_R3?$basic_ostream@DU?$char_traits@D@std@@@std@@8
+??_R3ios_base@std@@8
+?name@?$basic_type_name@V?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@internal@LUAGLUE@@2VlgString@3@B
+?name@?$basic_type_name@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@internal@LUAGLUE@@2VlgString@3@B
+??_R2?$basic_filebuf@DU?$char_traits@D@std@@@std@@8
+??_R3?$basic_streambuf@DU?$char_traits@D@std@@@std@@8
+??_7?$basic_ifstream@DU?$char_traits@D@std@@@std@@6B@
+??_R2?$_Iosb@H@std@@8
+??_R3PSBackend@PSEditor@@8
+??_R1A@A@3EA@ios_base@std@@8
+??_R1A@?0A@EA@?$basic_ios@DU?$char_traits@D@std@@@std@@8
+??_R2?$basic_ifstream@DU?$char_traits@D@std@@@std@@8
+??_R3?$_Iosb@H@std@@8
+??_R0?AVexception@std@@@8
+??_R17?0A@EA@?$_Iosb@H@std@@8
+?_Stinit@?1??_Init@?$basic_filebuf@DU?$char_traits@D@std@@@std@@IAEXPAU_iobuf@@W4_Initfl@23@@Z@4U_Mbstatet@@A
+??_R2?$basic_ios@DU?$char_traits@D@std@@@std@@8
+?A0x24014589.unnamed-global-0
+?A0x24014589.unnamed-global-1
+?A0x24014589.unnamed-global-2
+?A0x24014589.unnamed-global-3
+?A0x24014589.unnamed-global-4
+?A0x24014589.unnamed-global-5
+?A0x24014589.unnamed-global-6
+?A0x24014589.unnamed-global-7
+?A0x24014589.unnamed-global-8
+?A0x24014589.unnamed-global-9
+?A0x24014589.unnamed-global-10
+?A0x24014589.unnamed-global-11
+?A0x24014589.unnamed-global-12
+?A0x24014589.unnamed-global-13
+?A0x24014589.unnamed-global-14
+?A0x24014589.unnamed-global-15
+?A0x24014589.unnamed-global-16
+?A0x24014589.unnamed-global-17
+?A0x24014589.unnamed-global-18
+?A0x24014589.unnamed-global-19
+?A0x24014589.unnamed-global-20
+?A0x24014589.unnamed-global-21
+?A0x24014589.unnamed-global-22
+?A0x122706f0.unnamed-global-0
+?A0x122706f0.unnamed-global-1
+?A0x122706f0.unnamed-global-2
+?A0x122706f0.unnamed-global-3
+?A0x122706f0.unnamed-global-4
+?A0x122706f0.unnamed-global-5
+?A0x122706f0.unnamed-global-6
+?A0x122706f0.unnamed-global-7
+?A0x122706f0.unnamed-global-8
+?A0x122706f0.unnamed-global-9
+?A0x122706f0.unnamed-global-10
+?A0x122706f0.unnamed-global-11
+?A0x122706f0.unnamed-global-12
+?A0x122706f0.unnamed-global-13
+?A0x122706f0.unnamed-global-14
+?A0x122706f0.unnamed-global-15
+?A0x122706f0.unnamed-global-16
+?A0x122706f0.unnamed-global-17
+?A0x122706f0.unnamed-global-18
+?A0x122706f0.unnamed-global-19
+?A0x122706f0.unnamed-global-20
+?A0x122706f0.unnamed-global-21
+?A0x122706f0.unnamed-global-22
+??_C@_08BGLNKNCJ@Undo?3?5?$CFd?$AA@
+??_C@_0M@EBDPGEKF@?$FL?$CF?42f?0?$CF?42f?$FN?$AA@
+??_C@_04GEFJINEE@?$CF?42f?$AA@
+?A0x949d86b3.unnamed-global-0
+?A0x949d86b3.unnamed-global-1
+?A0x949d86b3.unnamed-global-2
+?A0x949d86b3.unnamed-global-3
+?A0x949d86b3.unnamed-global-4
+?A0x949d86b3.unnamed-global-5
+?A0x949d86b3.unnamed-global-6
+?A0x949d86b3.unnamed-global-7
+?A0x949d86b3.unnamed-global-8
+?A0x949d86b3.unnamed-global-9
+?A0x949d86b3.unnamed-global-10
+?A0x949d86b3.unnamed-global-11
+?A0x949d86b3.unnamed-global-12
+?A0x949d86b3.unnamed-global-13
+?A0x949d86b3.unnamed-global-14
+?A0x949d86b3.unnamed-global-15
+?A0x949d86b3.unnamed-global-16
+?A0x949d86b3.unnamed-global-17
+?A0x949d86b3.unnamed-global-18
+?A0x949d86b3.unnamed-global-19
+?A0x949d86b3.unnamed-global-20
+?A0x949d86b3.unnamed-global-21
+?A0x949d86b3.unnamed-global-22
+??_C@_0BE@JONHPENG@map?1set?$DMT?$DO?5too?5long?$AA@
+??_R4PointManager@PSEditor@@6B@
+??_7CurveHolder@PSEditor@@6B@
+??_R3PointManager@PSEditor@@8
+??_R1A@?0A@EA@PointManager@PSEditor@@8
+??_R1A@?0A@EA@CurveHolder@PSEditor@@8
+??_R3CurveHolder@PSEditor@@8
+??_7PointManager@PSEditor@@6B@
+??_R4CurveHolder@PSEditor@@6B@
+??_R0?AVPointManager@PSEditor@@@8
+??_R2CurveHolder@PSEditor@@8
+??_R0?AVCurveHolder@PSEditor@@@8
+??_R2PointManager@PSEditor@@8
+?A0xb50e7a13.unnamed-global-0
+?A0xb50e7a13.unnamed-global-1
+?A0xb50e7a13.unnamed-global-2
+?A0xb50e7a13.unnamed-global-3
+?A0xb50e7a13.unnamed-global-4
+?A0xb50e7a13.unnamed-global-5
+?A0xb50e7a13.unnamed-global-6
+?A0xb50e7a13.unnamed-global-7
+?A0xb50e7a13.unnamed-global-8
+?A0xb50e7a13.unnamed-global-9
+?A0xb50e7a13.unnamed-global-10
+?A0xb50e7a13.unnamed-global-11
+?A0xb50e7a13.unnamed-global-12
+?A0xb50e7a13.unnamed-global-13
+?A0xb50e7a13.unnamed-global-14
+?A0xb50e7a13.unnamed-global-15
+?A0xb50e7a13.unnamed-global-16
+?A0xb50e7a13.unnamed-global-17
+?A0xb50e7a13.unnamed-global-18
+?A0xb50e7a13.unnamed-global-19
+?A0xb50e7a13.unnamed-global-20
+?A0xb50e7a13.unnamed-global-21
+?A0xb50e7a13.unnamed-global-22
+??_C@_01PFHFFBPC@t?$AA@
+??_C@_08LAAABFKN@original?$AA@
+??_C@_05GPLCCBII@noise?$AA@
+__unep@?Noise@GAME@@$$FYAMM@Z
+??_C@_01NBENCBCI@?$CK?$AA@
+??_C@_00CNPNBAHC@?$AA@
+??_C@_0BE@LGHDLIKE@?2My?5Games?2Grim?5Dawn?$AA@
+?A0xb0e4a387.unnamed-global-0
+?A0xb0e4a387.unnamed-global-1
+?A0xb0e4a387.unnamed-global-2
+?A0xb0e4a387.unnamed-global-3
+?A0xb0e4a387.unnamed-global-4
+?A0xb0e4a387.unnamed-global-5
+?A0xb0e4a387.unnamed-global-6
+?A0xb0e4a387.unnamed-global-7
+?A0xb0e4a387.unnamed-global-8
+?A0xb0e4a387.unnamed-global-9
+?A0xb0e4a387.unnamed-global-10
+?A0xb0e4a387.unnamed-global-11
+?A0xb0e4a387.unnamed-global-12
+?A0xb0e4a387.unnamed-global-13
+?A0xb0e4a387.unnamed-global-14
+?A0xb0e4a387.unnamed-global-15
+?A0xb0e4a387.unnamed-global-16
+?A0xb0e4a387.unnamed-global-17
+?A0xb0e4a387.unnamed-global-18
+?A0xb0e4a387.unnamed-global-19
+?A0xb0e4a387.unnamed-global-20
+?A0xb0e4a387.unnamed-global-21
+?A0xb0e4a387.unnamed-global-22
+??_C@_04IHKPHNHH@?4pfx?$AA@
+??_C@_04IKFELAAL@?4PFX?$AA@
+??_C@_04KILFEHJ@?4tex?$AA@
+??_C@_04HHAJJAF@?4TEX?$AA@
+??_C@_08POBFLGLP@Direct3D?$AA@
+??_C@_0L@NDDLJNHG@?2Tools?4ini?$AA@
+??_C@_08GMDCEBJC@builddir?$AA@
+??_C@_05DHEMANOL@Login?$AA@
+??_C@_0BE@DIOJONFM@additionalbuilddirs?$AA@
+??_C@_08GBBFLALC@localdir?$AA@
+??_C@_06OEKOLKIL@source?$AA@
+??_C@_0BF@GKHHNFGC@additionalsourcedirs?$AA@
+??_C@_08HDBDMMBI@Database?$AA@
+??_C@_09FDCBPLKG@Resources?$AA@
+??_C@_05NJPBEMHO@XPack?$AA@
+??_C@_05KKCMAPLJ@Audio?$AA@
+??_C@_06CKLONCAK@Videos?$AA@
+??_C@_04OJAHODMC@Text?$AA@
+??_C@_03MGHMBJCF@log?$AA@
+??_C@_08CBMOJKCP@main?4dmp?$AA@
+??_C@_0BI@CGIDKCKD@?4?1settings?1defaults?4txt?$AA@
+??_C@_0BF@BFAAINHB@settings?1options?4txt?$AA@
+??_C@_0BJ@NOBNIKAN@settings?1keybindings?4txt?$AA@
+??_C@_08HDLAOCCI@GAME?4DLL?$AA@
+??_C@_0BC@OKFBALNF@InitializeObjects?$AA@
+??_C@_0BA@GJPPJAOE@ShutdownObjects?$AA@
+??_R3Engine@GAME@@8
+??_SFileSystem@GAME@@6B@
+??_R4FileSystem@GAME@@6B@
+??_R0?AVEngine@GAME@@@8
+??_R4Engine@GAME@@6B@
+??_R4Effect@GAME@@6B@
+??_R2Effect@GAME@@8
+??_R2Engine@GAME@@8
+??_SEffect@GAME@@6B@
+??_R1A@?0A@EA@Engine@GAME@@8
+??_R1A@?0A@EA@FileSystem@GAME@@8
+??_R0?AVFileSystem@GAME@@@8
+??_R2FileSystem@GAME@@8
+??_R0?AVEffect@GAME@@@8
+??_SEngine@GAME@@6B@
+??_R1A@?0A@EA@Effect@GAME@@8
+??_R3Effect@GAME@@8
+??_R3FileSystem@GAME@@8
+?A0x028f2c0b.unnamed-global-0
+?A0x028f2c0b.unnamed-global-1
+?A0x028f2c0b.unnamed-global-2
+?A0x028f2c0b.unnamed-global-3
+?A0x028f2c0b.unnamed-global-4
+?A0x028f2c0b.unnamed-global-5
+?A0x028f2c0b.unnamed-global-6
+?A0x028f2c0b.unnamed-global-7
+?A0x028f2c0b.unnamed-global-8
+?A0x028f2c0b.unnamed-global-9
+?A0x028f2c0b.unnamed-global-10
+?A0x028f2c0b.unnamed-global-11
+?A0x028f2c0b.unnamed-global-12
+?A0x028f2c0b.unnamed-global-13
+?A0x028f2c0b.unnamed-global-14
+?A0x028f2c0b.unnamed-global-15
+?A0x028f2c0b.unnamed-global-16
+?A0x028f2c0b.unnamed-global-17
+?A0x028f2c0b.unnamed-global-18
+?A0x028f2c0b.unnamed-global-19
+?A0x028f2c0b.unnamed-global-20
+?A0x028f2c0b.unnamed-global-21
+?A0x028f2c0b.unnamed-global-22
+??_C@_07KGMMFLDN@Warning?$AA@
+??_C@_0CJ@CNPLEAFG@Would?5you?5like?5your?5changes?5save@
+??_C@_0CF@NJBFKNAL@Would?5you?5like?5to?5save?5your?5chan@
+?A0x1ef4e9c6.unnamed-global-0
+?A0x1ef4e9c6.unnamed-global-1
+?A0x1ef4e9c6.unnamed-global-2
+?A0x1ef4e9c6.unnamed-global-3
+?A0x1ef4e9c6.unnamed-global-4
+?A0x1ef4e9c6.unnamed-global-5
+?A0x1ef4e9c6.unnamed-global-6
+?A0x1ef4e9c6.unnamed-global-7
+?A0x1ef4e9c6.unnamed-global-8
+?A0x1ef4e9c6.unnamed-global-9
+?A0x1ef4e9c6.unnamed-global-10
+?A0x1ef4e9c6.unnamed-global-11
+?A0x1ef4e9c6.unnamed-global-12
+?A0x1ef4e9c6.unnamed-global-13
+?A0x1ef4e9c6.unnamed-global-14
+?A0x1ef4e9c6.unnamed-global-15
+?A0x1ef4e9c6.unnamed-global-16
+?A0x1ef4e9c6.unnamed-global-17
+?A0x1ef4e9c6.unnamed-global-18
+?A0x1ef4e9c6.unnamed-global-19
+?A0x1ef4e9c6.unnamed-global-20
+?A0x1ef4e9c6.unnamed-global-21
+?A0x1ef4e9c6.unnamed-global-22
+?A0x0ebf3ab0.unnamed-global-0
+?A0x0ebf3ab0.unnamed-global-1
+?A0x0ebf3ab0.unnamed-global-2
+?A0x0ebf3ab0.unnamed-global-3
+?A0x0ebf3ab0.unnamed-global-4
+?A0x0ebf3ab0.unnamed-global-5
+?A0x0ebf3ab0.unnamed-global-6
+?A0x955372f1.unnamed-global-0
+_GUID_cb2f6723_ab3a_11d2_9c40_00c04fa30a3e
+?InitializedPerProcess@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?A0x13efd873.?InitializedPerProcess$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+_GUID_cb2f6722_ab3a_11d2_9c40_00c04fa30a3e
+_GUID_90f1a06c_7712_4762_86b5_7a5eba6bdb02
+_GUID_90f1a06e_7712_4762_86b5_7a5eba6bdb02
+?Uninitialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedPerAppDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?Entered@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasNative@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+?InitializedPerProcess@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?Count@AllDomains@<CrtImplementationDetails>@@2HA
+?Initialized@CurrentDomain@<CrtImplementationDetails>@@$$Q2HA
+?InitializedNative@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNativeFromCCTOR@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?IsDefaultDomain@CurrentDomain@<CrtImplementationDetails>@@$$Q2_NA
+?InitializedVtables@CurrentDomain@<CrtImplementationDetails>@@$$Q2W4Progress@2@A
+?InitializedNative@DefaultDomain@<CrtImplementationDetails>@@2_NA
+?hasPerProcess@DefaultDomain@<CrtImplementationDetails>@@0W4TriBool@2@A
+__xc_mp_z
+__xi_vt_z
+?A0x13efd873.?IsDefaultDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xc_ma_a
+__xc_ma_z
+?A0x13efd873.?Initialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+?A0x13efd873.?InitializedPerAppDomain$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xi_vt_a
+?A0x13efd873.?InitializedNative$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__xc_mp_a
+?A0x13efd873.?InitializedVtables$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+?A0x13efd873.?Uninitialized$initializer$@CurrentDomain@<CrtImplementationDetails>@@$$Q2P6MXXZA
+__unep@?DoNothing@DefaultDomain@<CrtImplementationDetails>@@$$FCGJPAX@Z
+__unep@?_UninitializeDefaultDomain@LanguageSupport@<CrtImplementationDetails>@@$$FCGJPAX@Z
+std.?A0x61b33503._Fac_tidy_reg
+std.?A0x61b33503._Fac_tidy_reg$initializer$
+std.?A0x61b33503._Fac_head
+?A0x27925454.__onexitbegin_m
+?A0x27925454.__exit_list_size
+__onexitend_app_domain
+?_lock@AtExitLock@<CrtImplementationDetails>@@$$Q0PAXA
+?_ref_count@AtExitLock@<CrtImplementationDetails>@@$$Q0HA
+?A0x27925454.__onexitend_m
+__exit_list_size_app_domain
+__onexitbegin_app_domain
+??_7type_info@@6B@
+__imp_?classInfo@Actor@GAME@@1VRTTI_ClassInfo@2@B
+__imp_GAME.gEngine
+__imp_?classInfo@Object@GAME@@1VRTTI_ClassInfo@2@B
+__imp_?id@?$ctype@D@std@@2V0locale@2@A
+__imp_?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+__imp_std._BADOFF
+?epsilon@Math@GAME@@2MB
+?logPath@AssertHandler@GAME@@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A
+__xi_z
+__scrt_current_native_startup_state
+__scrt_native_startup_lock
+__xc_a
+__xi_a
+__scrt_native_dllmain_reason
+__xc_z
+value__
+<MarshalCopy>
+<MarshalDestroy>
+.ctor
+_editable
+FinalizeLoad
+SetHasAlpha
+ActivateColorPicking
+AddCurveData
+GetCurveData
+UndoButtonClick
+sender
+YSetButtonClick
+SetButtonClick
+InitializeControl
+MouseDownHandler
+MouseUpHandler
+MouseMoveHandler
+GetBrush
+DrawLine
+width
+BoxFill
+DrawTile
+fillColor
+ScaleToViewport
+ScaleToViewportNoBoundsCheck
+ScaleFromViewport
+DrawGrid
+ColorLerp
+UpdateDomain
+PaintHandler
+title
+negativeGraph
+rangeBox
+setButton
+yValBox
+ySetButton
+undoButton
+colorPicking
+hasAlpha
+editable
+curveHolder
+InitializeComponent
+PickColorRange
+height
+PickAlphaRange
+colorRangeBox_Paint
+alphaRangeBox_Paint
+GetExactColor
+exactColorBox_Paint
+displayBox_Paint
+colorRangeBox_MouseDown
+alphaRangeBox_MouseDown
+exactColorBox_MouseDown
+InitializeExternalValues
+_cDisplay
+SetExternalValues
+okButton_Click
+label1
+label2
+label3
+exactColorBox
+displayBox
+colorRangeBox
+alphaRangeBox
+okButton
+color
+exactBase
+alpha
+redLabel
+greenLabel
+blueLabel
+externalRed
+externalGreen
+externalBlue
+externalAlpha
+exactPickPoint
+components
+_originalCurveData
+SetCurveColor
+SetCurveDomain
+SetCurveRange
+GetCurve
+equationTextBox_TextChanged
+UpdateCurve
+GenerateCurveForm_Load
+presetButton_Click
+menuItemFlicker_Click
+menuItem1_Click
+menuItem2_Click
+curvePanel
+curveDisplay
+originalCurveData
+equationTextBox
+cancelButton
+presetButton
+presetMenu
+menuItemFlicker
+menuItem1
+menuItem2
+SetNegativeGraph
+Refresh
+CurveForm_Load
+cData
+timer1_Tick_1
+menuItemGenerate_Click
+next
+mainMenu
+menuItemCurve
+_fileSystem
+~ResourceDialog
+GetFilename
+fName
+AddFileNameToTreeView
+treeView
+hashtable
+ResourceDialog_Load
+fileTreeView_AfterSelect
+button1_Click
+button2_Click
+fileTreeView_DoubleClick
+Dispose
+button1
+fileTextBox
+fileTreeView
+treeImageList
+button2
+fileSystem
+GetConfigFolder
+~EditorForm
+Save
+SaveAs
+Load
+renderBox_MouseDown
+renderBox_MouseUp
+renderBox_MouseMove
+renderBox_MouseWheel
+particleSizeButton_Click
+velocityStretchButton_Click
+frictionButton_Click
+twirlSpeedButton_Click
+rotationSpeedButton_Click
+particleColorButton_Click
+DisableButtons
+gravityButton_Click
+forceButton_Click
+xOffsetButton_Click
+yOffsetButton_Click
+zOffsetButton_Click
+emissionSpeedButton_Click
+zRotButton_Click
+yRotButton_Click
+xRotButton_Click
+angleButton_Click
+emitterSizeButton_Click
+emitterTypeBox_SelectedIndexChanged
+cloneButton_Click
+createButton_Click_1
+emitterList_SelectedIndexChanged
+emitterNameSetButton_Click
+runSystemButton_Click
+moveUpButton_Click
+deleteEmittorButton_Click
+texturePickButton_Click
+emitterLifeSpanUpDown_ValueChanged
+FPSUpDown_ValueChanged
+particleLifeSpanUpDown_ValueChanged
+debugLinesBox_CheckedChanged
+renderCheckBox_CheckedChanged
+loopingBox_CheckedChanged
+checkBox1_CheckedChanged
+emitterNameBox_TextChanged
+emitLocallyBox_CheckedChanged
+motionOrientBox_CheckedChanged
+menuItem3_Click
+menuItem5_Click
+simFlightBox_CheckedChanged
+menuItem4_Click
+pauseCheckBox_CheckedChanged
+randomOrientationBox_CheckedChanged
+flattenMotionBox_CheckedChanged
+initialZRotUpDown_ValueChanged
+initialYRotUpDown_ValueChanged
+initialXRotUpDown_ValueChanged
+shaderPickButton_Click
+dropDecalPickButton_Click
+dropDecalClearButton_Click
+lightColorButton_Click
+lightRadiusButton_Click
+lightEnabledCheckBox_CheckedChanged
+lightShadowsCheckBox_CheckedChanged
+renderBox_Click
+removeEntityItem_Click
+offDuringDayCheckBox_CheckedChanged
+resetCameraButton_Click
+orientVerticallyBox_CheckedChanged
+lightSimpleCheckBox_CheckedChanged
+gameModule
+particleColorButton
+rotationSpeedButton
+particleSizeButton
+texturePickButton
+renderBox
+runSystemButton
+createButton
+emitterList
+emitterNameBox
+emissionSpeedButton
+renderTimer
+deleteEmittorButton
+effectData
+effect
+backend
+selectedEmitterItem
+oldMouseX
+oldMouseY
+gravityButton
+forceButton
+xOffsetButton
+yOffsetButton
+zOffsetButton
+groupBox1
+groupBox2
+saveFileDialog1
+saveEffectDialog
+groupBox3
+emitterTypeBox
+label4
+sourceFileSystem
+databaseFileSystem
+angleButton
+emitterSizeButton
+label5
+loopingBox
+currentFile
+cFormList
+renderCheckBox
+debugLinesBox
+cloneButton
+textureLabel
+emitLocallyBox
+twirlSpeedButton
+mainMenu1
+menuItem3
+velocityStretchButton
+timer1
+label7
+motionOrientBox
+simFlightBox
+xRotButton
+yRotButton
+zRotButton
+colorDialog1
+emitterLifeSpanUpDown
+particleLifeSpanUpDown
+GlobalOptions
+checkBox1
+menuItem4
+pauseCheckBox
+randomOrientationBox
+FPSUpDown
+flattenMotionBox
+frictionButton
+label6
+initialXRotUpDown
+initialYRotUpDown
+initialZRotUpDown
+lightOptionsBox
+lightEnabledCheckBox
+lightColorButton
+lightRadiusButton
+lightShadowsCheckBox
+shaderPickButton
+shaderLabel
+dropDecalPickButton
+dropDecalClearButton
+dropDecalLabel
+numParticlesLabel
+removeEntityItem
+offDuringDayCheckbox
+label9
+maxParticlesLabel
+rotatingCamera
+resetCameraButton
+orientVerticallyBox
+notifyIcon1
+lightSimpleCheckBox
+menuItem5
+notifyIcon2
+movingCamera
+menuItem6_Click
+pickTextureDialog
+eForm
+menuItem6
+info
+context
+message
+Nested
+get_NestedException
+set_NestedException
+__set_formal
+ToString
+GetObjectData
+formatString
+<backing_store>NestedException
+NestedException
+AddHandler
+SingletonDomainUnload
+source
+arguments
+lock
+_ModuleUninitializer
+PrepareConstrainedRegions
+GetExceptionPointers
+GetExceptionCode
+Parse
+get_Width
+set_Width
+get_Height
+set_Height
+FromArgb
+get_Black
+get_Blue
+get_Cyan
+get_Gray
+get_Green
+get_LightGray
+get_Red
+get_White
+get_R
+get_G
+get_B
+get_X
+set_X
+get_Y
+set_Y
+DrawRectangle
+FillRectangle
+DrawString
+set_BorderStyle
+set_TabStop
+set_TabIndex
+Close
+set_AutoScaleBaseSize
+set_FormBorderStyle
+set_ClientSize
+set_Text
+get_Graphics
+Invalidate
+ResumeLayout
+SetStyle
+SuspendLayout
+set_Capture
+get_Controls
+set_Location
+set_Name
+get_Size
+set_Size
+set_Visible
+add_Click
+add_Paint
+add_MouseDown
+add_MouseMove
+add_MouseUp
+get_Text
+get_Button
+ToDouble
+Show
+set_Enabled
+FreeHGlobal
+StringToHGlobalAnsi
+op_Explicit
+ShowDialog
+set_AcceptButton
+set_CancelButton
+set_Menu
+set_MaximizeBox
+set_MinimizeBox
+set_StartPosition
+add_Load
+set_ContextMenu
+set_Dock
+get_Left
+get_Right
+add_TextChanged
+get_MenuItems
+set_DialogResult
+set_FlatStyle
+get_Index
+set_Index
+get_Parent
+get_Magenta
+Substring
+EndsWith
+IndexOf
+ToLower
+Copy
+Concat
+ToInt32
+op_Implicit
+BeginInit
+EndInit
+get_Checked
+set_Checked
+set_CheckState
+add_CheckedChanged
+get_Color
+set_ControlBox
+get_MdiParent
+set_MdiParent
+AddRange
+get_Items
+get_SelectedIndex
+set_SelectedIndex
+add_SelectedIndexChanged
+set_DecimalPlaces
+set_Increment
+set_Maximum
+set_Minimum
+get_Value
+set_Value
+add_ValueChanged
+Focus
+set_Font
+get_Handle
+add_DoubleClick
+add_MouseWheel
+set_ImageIndex
+set_ImageList
+get_Nodes
+set_SelectedImageIndex
+get_SelectedNode
+add_AfterSelect
+set_Interval
+add_Tick
+remove_Tick
+set_ColorDepth
+set_ImageSize
+set_ImageStream
+set_TransparentColor
+get_Count
+get_Item
+RemoveAt
+set_AutoArrange
+set_FullRowSelect
+set_GridLines
+set_HeaderStyle
+set_HideSelection
+set_MultiSelect
+get_SelectedItems
+set_View
+get_Delta
+get_FullPath
+set_Tag
+GetTypeFromHandle
+GetObject
+get_CurrentThread
+set_ApartmentState
+set_AutoScale
+set_IsMdiContainer
+set_MaximumSize
+set_WindowState
+Exit
+Increment
+Decrement
+Exchange
+CompareExchange
+Enter
+Empty
+GetRuntimeInterfaceAsIntPtr
+Alloc
+Free
+get_Target
+set_Target
+ThrowExceptionForHR
+GetHRForException
+GetObjectForIUnknown
+PrepareDelegate
+AddValue
+GetValue
+KeepAlive
+Format
+ToPointer
+Invoke
+GetType
+get_Message
+get_InnerException
+IsDefaultAppDomain
+get_CurrentDomain
+get_Id
+add_ProcessExit
+add_DomainUnload
+GetEnumerator
+Push
+MoveNext
+get_Current
+FromIntPtr
+ToIntPtr
+AllocHGlobal
+ReAllocHGlobal
+ResolveMethodHandle
+GetFunctionPointer
+get_Module
+get_ModuleHandle
+PSEditor.ColorPicker.resources
+PSEditor.CurveForm.resources
+PSEditor.EditorForm.resources
+ParticleSystemEditor.Form1.resources
+PSEditor.GenerateCurveForm.resources
+PSEditor.ResourceDialog.resources
+PSEditor.exe
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+H Y Y
+ U i
+ Y Y
+ Y ]
+ U i
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+l Y Y
+ Y Y
+ Y Y
+ Y Y
+ U i
+ Y Y
+ U i
+ Y Y
+ U i
+ Y Y
+ Y Y
+ Y Y
+X Y Y
+X Y Y
+ Y ]
+ Y Y
+ Y Y
+t Y Y
+ Y Y
+h Y Y
+ Y Y
+ U i
+ Y Y
+ Q i
+ Q i
+ Q i
+ Y ]
+ Y Y
+ Q i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+l Y Y
+t Y Y
+ Y Y
+t Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+X Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ U i
+ Y Y
+ Y Y
+ U i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ i i
+ U i
+ Y Y
+ i i
+ Y Y
+ i i
+ Y Y
+ Y Y
+ Y Y
+ i i
+ Y Y
+ i i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ U i
+ Y Y
+ Y Y
+ i i
+ Y Y
+ Y ]
+ Y	 Y Y
+ Y ]
+ U	 Y Y
+ Y ]
+ Y Y
+ Y Y
+ i i
+ Y ]
+ i i
+ Y ]
+ Y Y
+ U i
+ Y Y
+ i i
+ i i
+ Y ]
+ Y Y
+ Y Y
+t Y Y
+ Y Y
+x Y Y
+ Y Y
+x Y Y
+ U	 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ U i
+d Y Y
+ Y Y
+ U i
+p Y Y
+ Y Y
+ Y Y
+ Y Y
+d Y Y
+p Y Y
+ Y Y
+| Y Y
+ U ]
+ Y Y
+` Y Y
+ Y Y
+ Y Y
+ U i
+d Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+` Y Y
+d Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+$ Y Y
+( Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+0 Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+  Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+@ Y Y
+ Y Y
+ U i
+ Y Y
+$ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Q i
+, Y Y
+ Y Y
+ Y Y
+ U i
+D Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+L Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+X Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ U i
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+, Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+< Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+8 Y Y
+< Y Y
+< Y Y
+ Y Y
+ U i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ U i
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y ]
+ Y	 Y	 Y	
+ Y			
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y		
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+				
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y		
+ Y Y
+ Y			
+ Y ]
+	 Y			
+ Y Y
+ Y		
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+X Y Y
+ Y ]
+ Y Y
+	 Y Y
+X Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+0 Y Y
+4 Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+						
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ i i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ i i
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y Y
+ i i
+ i i
+ Y Y
+		 Y	
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+| Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+	 Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ i i
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+	 Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y ]
+ Y Y
+ Y Y
+ Y Y
+ Y Y
+1.0.*
+SkipVerification
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+UnmanagedCode
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SkipVerification
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.CRTMA$XCA
+.CRTMA$XCC
+.CRTMA$XCZ
+.CRTMP$XCA
+.CRTMP$XCL
+.CRTMP$XCZ
+.CRTVT$XCA
+.CRTVT$XCZ
+.rdata
+.rdata$T
+.rdata$ilfixup
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.gfids$y
+.tls
+.tls$
+.tls$ZZZ
+.rsrc$01
+.rsrc$02
+QueryPerformanceCounter
+GetModuleHandleA
+GetProcAddress
+LoadLibraryA
+KERNEL32.dll
+?gEngine@GAME@@3PAVEngine@1@A
+?classInfo@Actor@GAME@@1VRTTI_ClassInfo@2@B
+?classInfo@Object@GAME@@1VRTTI_ClassInfo@2@B
+?HandleKeyEvent@DisplayWidget@GAME@@UAE_NABVButtonEvent@InputDevice@2@@Z
+?HandleMouseEvent@DisplayWidget@GAME@@UAE_NABUMouseEvent@InputDevice@2@@Z
+?HandleJoystickEvent@DisplayWidget@GAME@@UAE_NABUJoystickEvent@InputDevice@2@@Z
+?HandleControllerEvent@DisplayWidget@GAME@@UAE_NABUControllerEvent@InputDevice@2@@Z
+?IsFileWriteable@FileSystem@GAME@@UBE_NPBD@Z
+?OpenFile@FileSystem@GAME@@UAEPAVFile@2@PBDW4FileMode@2@@Z
+?OpenFileWithCheck@FileSystem@GAME@@UAEPAVFile@2@PBD0W4FileMode@2@@Z
+?CloseFile@FileSystem@GAME@@UAEXAAPAVFile@2@@Z
+?OpenFileStream@FileSystem@GAME@@UAEPAVFileStream@2@PBD@Z
+?CloseFileStream@FileSystem@GAME@@UAEXAAPAVFileStream@2@@Z
+?GetFileTime@FileSystem@GAME@@UBEXPBDAAUFileTime@2@@Z
+?Initialize@Engine@GAME@@UAEXPAXABVGraphicsEngineSettings@2@_NPAVFileSystem@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N5@Z
+?Log@Engine@GAME@@UBAXW4LogPriority@2@IPBDZZ
+?Log@Engine@GAME@@UBAXW4LogPriority@2@PBDZZ
+?LogSeparator@Engine@GAME@@UBEXW4LogPriority@2@D@Z
+??1Effect@GAME@@UAE@XZ
+??1FileSystem@GAME@@UAE@XZ
+??1Engine@GAME@@UAE@XZ
+Engine.dll
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z
+?id@?$ctype@D@std@@2V0locale@2@A
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?_BADOFF@std@@3_JB
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPBD@Z
+?_Xout_of_range@std@@YAXPBD@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ
+?uncaught_exception@std@@YA_NXZ
+?good@ios_base@std@@QBE_NXZ
+?always_noconv@codecvt_base@std@@QBE_NXZ
+?_Fiopen@std@@YAPAU_iobuf@@PBDHH@Z
+?flags@ios_base@std@@QBEHXZ
+??1_Lockit@std@@QAE@XZ
+??0_Lockit@std@@QAE@H@Z
+?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ
+??Bid@locale@std@@QAEIXZ
+?width@ios_base@std@@QBE_JXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+?width@ios_base@std@@QAE_J_J@Z
+?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QBE?AVlocale@2@XZ
+?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXXZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAPAD0PAH001@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PAD1AAPAD@Z
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ
+?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+?in@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z
+MSVCP140.dll
+strrchr
+memmove
+__std_exception_copy
+__std_exception_destroy
+__vcrt_InitializeCriticalSectionEx
+_except_handler4_common
+memset
+_CxxThrowException
+__CxxFrameHandler3
+VCRUNTIME140.dll
+__stdio_common_vsprintf
+_invalid_parameter_noinfo_noreturn
+fflush
+setvbuf
+fsetpos
+_fseeki64
+fgetpos
+fgetc
+ungetc
+_invalid_parameter_noinfo
+_errno
+fputc
+fwrite
+_unlock_file
+_lock_file
+_get_stream_buffer_pointers
+fclose
+_finite
+rand
+malloc
+free
+exit
+terminate
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_narrow_winmain_command_line
+_initterm
+_initterm_e
+_exit
+_set_fmode
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_callnewh
+_controlfp_s
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+GetModuleFileNameA
+CloseHandle
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+SetEvent
+ResetEvent
+WaitForSingleObjectEx
+CreateEventW
+GetModuleHandleW
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetCurrentProcess
+TerminateProcess
+USER32.dll
+GetPrivateProfileStringA
+Sleep
+MessageBoxA
+SHGetSpecialFolderPathA
+SHELL32.dll
+?GetNumParticles@Effect@GAME@@QAEHXZ
+?SetPause@Effect@GAME@@QAEX_N@Z
+?RemoveEntity@World@GAME@@QAEXPAVEntity@2@_N@Z
+?Get@?$Singleton@VObjectManager@GAME@@@GAME@@SAPAVObjectManager@2@XZ
+?DestroyObjectEx@ObjectManager@GAME@@QAEXPAVObject@2@PBDH@Z
+?SetCoords@Camera@GAME@@QAEXABVCoords@2@@Z
+?Update@Timer@GAME@@QAEX_N@Z
+	?GetElapsedTime@Timer@GAME@@QBEHXZ
+?Update@Entity@GAME@@QAEXH@Z
+	?GetDecalSet@Level@GAME@@QAEPAVDecalSet@2@XZ
+?RemoveAllDecals@DecalSet@GAME@@QAEXXZ
+??1GraphicsLight@GAME@@QAE@XZ
+?CreateObjectFromFile@ObjectManager@GAME@@QAEPAVObject@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I_N@Z
+?GetGraphicsEngine@Engine@GAME@@QAEPAVGraphicsEngine@2@XZ
+?UnloadTexture@GraphicsEngine@GAME@@QAEXPBVGraphicsTexture@2@@Z
+?LoadTexture@GraphicsEngine@GAME@@QAEPBVGraphicsTexture@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+??0WorldCoords@GAME@@QAE@PAVRegion@1@ABVCoords@1@@Z
+?AddEntity@World@GAME@@QAE_NPAVEntity@2@ABVWorldCoords@2@_N@Z
+?GetObjectName@Object@GAME@@QBEPBDXZ
+??0DisplayWidget@GAME@@QAE@XZ
+??0GameTimer@GAME@@QAE@XZ
+??0Camera@GAME@@QAE@XZ
+?SetFOV@Camera@GAME@@QAEXM@Z
+?SetNearPlane@Camera@GAME@@QAEXM@Z
+?SetFarPlane@Camera@GAME@@QAEXM@Z
+?Reset@Timer@GAME@@QAEXXZ
+?AddRegion@World@GAME@@QAEHPAVLevel@2@ABVIntVec3@2@@Z
+?GetRegion@World@GAME@@QAEPAVRegion@2@H@Z
+??0Level@GAME@@QAE@PAVRegion@1@@Z
+?NewSpace@Level@GAME@@QAEXABVVec2@2@@Z
+?PostLoad@Level@GAME@@QAE_N_N@Z
+?SetLevel@Region@GAME@@QAEXPAVLevel@2@@Z
+?RemoveRegion@World@GAME@@QAEXH@Z
+?Update@Effect@GAME@@QAEXABVWorldCoords@2@PBVEffectData@2@AAVABBox@2@@Z
+??0Viewport@GAME@@QAE@HHHH@Z
+??0GraphicsNormalRenderer@GAME@@QAE@XZ
+?EnableWireframe@GraphicsNormalRenderer@GAME@@QAEX_N@Z
+k	?GetCoords@Camera@GAME@@QBEABVCoords@2@XZ
+?GetFrustum@Camera@GAME@@QBE?AVFrustum@2@ABVViewport@2@@Z
+?SetViewer@GraphicsSceneRenderer@GAME@@QAEXPAVRegion@2@ABVCamera@2@ABVViewport@2@ABVFrustum@2@@Z
+?SetBackgroundMode@GraphicsNormalRenderer@GAME@@QAEXW4BackgroundMode@12@ABVColor@2@1@Z
+??0GraphicsLight@GAME@@QAE@XZ
+?SetType@GraphicsLight@GAME@@QAEXW4Type@12@@Z
+?SetColor@GraphicsLight@GAME@@QAEXABVColor@2@@Z
+?SetShadowPriority@GraphicsLight@GAME@@QAEXH@Z
+?SetObjectToWorldCoords@GraphicsLight@GAME@@QAEXABVWorldCoords@2@@Z
+?AddLight@GraphicsSceneRenderer@GAME@@QAEXABVGraphicsLight@2@@Z
+?SetSkyAmbientColor@GraphicsNormalRenderer@GAME@@QAEXABVColor@2@@Z
+?SetGroundAmbientColor@GraphicsNormalRenderer@GAME@@QAEXABVColor@2@@Z
+?AddRegionToScene@GraphicsSceneRenderer@GAME@@QAEXPAVRegion@2@@Z
+?SetEditorRegion@Effect@GAME@@QAEXPAVRegion@2@@Z
+?AddToScene@Effect@GAME@@QAEXAAVGraphicsSceneRenderer@2@PBVFrustum@2@@Z
+?SetBackgroundTexture@GraphicsNormalRenderer@GAME@@QAEXPBVGraphicsTexture@2@@Z
+?Render@GraphicsNormalRenderer@GAME@@QAEPAVRenderTexture@2@AAVGraphicsCanvas@2@_N1@Z
+?Get@?$Singleton@VDebugRenderManager@GAME@@@GAME@@SAPAVDebugRenderManager@2@XZ
+?Flush@DebugRenderManager@GAME@@QAEXAAVGraphicsCanvas@2@PAVRegion@2@ABVCamera@2@ABVViewport@2@@Z
+?SetViewport@GraphicsCanvas@GAME@@QAEXABVViewport@2@@Z
+	?GetDomain@CurveData@GAME@@QBEMXZ
+?GetRange@CurveData@GAME@@QBEMXZ
+]	?GetColor@CurveData@GAME@@QBE?AW4PSColor@2@XZ
+?SetDomain@CurveData@GAME@@QAEXM@Z
+?SetRange@CurveData@GAME@@QAEXM@Z
+?GetY@CurveData@GAME@@QBEMM@Z
+?UpdateSegmentList@CurveData@GAME@@QAEXXZ
+?GetPointList@CurveData@GAME@@QAEPAV?$vector@VVec2@GAME@@@mem@@XZ
+?SetColor@CurveData@GAME@@QAEXW4PSColor@2@@Z
+??0Expression@GAME@@QAE@XZ
+?Initialize@Expression@GAME@@QAE_NPBDQAPBDHQAP6AMM@Z1H@Z
+?Evaluate@Expression@GAME@@QBEMQBM@Z
+?Simplify@CurveData@GAME@@QAEXM@Z
+??1Expression@GAME@@UAE@XZ
+??0CurveData@GAME@@QAE@XZ
+?Copy@CurveData@GAME@@QAEXPAV12@@Z
+	?GetEmitterData@EffectData@GAME@@QAEPAVEmitterData@2@H@Z
+?SetInteger@EmitterData@GAME@@QAEXHH@Z
+??0EmitterData@GAME@@QAE@PAV01@@Z
+?AddEmitterData@EffectData@GAME@@QAEXPAVEmitterData@2@@Z
+?AddEmitter@Effect@GAME@@QAEXPBVEmitterData@2@@Z
+?StartEmitting@Effect@GAME@@QAEXXZ
+?Reset@Effect@GAME@@QAEXPBVEffectData@2@@Z
+??0EmitterData@GAME@@QAE@XZ
+?RemoveEmitterData@EffectData@GAME@@QAEXH@Z
+?RemoveEmitter@Effect@GAME@@QAEXH@Z
+}	?GetCurve@EmitterData@GAME@@QAEPAVCurveData@2@H@Z
+?SetFloat@EffectData@GAME@@QAEXHHM@Z
+?GetNumEmitters@EffectData@GAME@@QBEHXZ
+?SetDebugLines@EmitterData@GAME@@QAEX_N@Z
+?SetEnabled@EmitterData@GAME@@QAEX_N@Z
+?SetLoop@EffectData@GAME@@QAEXH_N@Z
+?SetBoolean@EffectData@GAME@@QAEXHH_N@Z
+?SetBoolean@EmitterData@GAME@@QAEXH_N@Z
+??0WorldFrustum@GAME@@QAE@PAVRegion@1@ABVFrustum@1@@Z
+	?GetFarPlane@Camera@GAME@@QBEMXZ
+?Update@Engine@GAME@@QAEXPBVSphere@2@PBVWorldFrustum@2@_N1@Z
+?PresentSurface@Engine@GAME@@QAEXXZ
+?Render@Engine@GAME@@QAEXXZ
+?UnloadAllResources@GraphicsEngine@GAME@@QAEXXZ
+?SetFloat@EmitterData@GAME@@QAEXHM@Z
+??1EffectData@GAME@@QAE@XZ
+??0EffectData@GAME@@QAE@XZ
+??0Effect@GAME@@QAE@PBVEffectData@1@@Z
+?AddWidget@Engine@GAME@@QAEXPAVDisplayWidget@2@@Z
+	?GetBoolean@EffectData@GAME@@QBE_NHH@Z
+	?GetBoolean@EmitterData@GAME@@QBE_NH@Z
+	?GetEnabled@EmitterData@GAME@@QBE_NXZ
+	?GetDebugLines@EmitterData@GAME@@QBE_NXZ
+?GetInteger@EmitterData@GAME@@QBEHH@Z
+?GetFloat@EmitterData@GAME@@QBEMH@Z
+?GetString@EmitterData@GAME@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z
+?SetName@EffectData@GAME@@QAEXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetMatchingFiles@FileSystem@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0_NAAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@mem@@@Z
+?Save@EffectData@GAME@@QAEXPBDPAVFileSystem@2@@Z
+?Load@EffectData@GAME@@QAEXPBDPAVFileSystem@2@@Z
+?GetName@EffectData@GAME@@QAEXHAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?ImageLoad@EffectData@GAME@@QAEXHPBD@Z
+?ShaderLoad@EffectData@GAME@@QAEXHPBD@Z
+?DropDecalLoad@EffectData@GAME@@QAEXHPBD@Z
+??0GraphicsEngineSettings@GAME@@QAE@XZ
+??0FileSystem@GAME@@QAE@XZ
+?AddSource@FileSystem@GAME@@QAE_NW4Partition@12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBD_N33@Z
+??0Engine@GAME@@QAE@XZ
+?SetBaseUserPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetBaseUserPath@Engine@GAME@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?SetLogPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetDumpPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetDefaultSettingsPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetNormalSettingsPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?SetKeymapPath@Engine@GAME@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetLogPath@Engine@GAME@@QBEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+?SetFileSystem@Engine@GAME@@QAEXPAVFileSystem@2@@Z
+?LoadAdditionalDatabases@Engine@GAME@@QAEXABV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@mem@@@Z
+?SetPSEditorMode@Engine@GAME@@QAEXXZ
+??1GraphicsEngineSettings@GAME@@QAE@XZ
+?_Lockit_ctor@_Lockit@std@@SAXH@Z
+?_Getcat@?$ctype@D@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?_Lockit_dtor@_Lockit@std@@SAXH@Z
+?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE_N_N@Z
+?getloc@ios_base@std@@QBE?AVlocale@2@XZ
+?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ
+?is@?$ctype@D@std@@QBE_NFD@Z
+?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ
+??1?$basic_istream@DU?$char_traits@D@std@@@std@@UAE@XZ
+??0?$basic_istream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+??Bios_base@std@@QBE_NXZ
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAM@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@M@Z
+__CxxQueryExceptionSize
+__CxxExceptionFilter
+__CxxRegisterExceptionObject
+__CxxDetectRethrow
+__CxxUnregisterExceptionObject
+memchr
+__FrameUnwindFilter
+_itoa
+strncpy
+abort
+api-ms-win-crt-string-l1-1-0.dll
+memcpy
+__libm_sse2_cosf
+__libm_sse2_sinf
+_except1
+_CorExeMain
+mscoree.dll
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AVBackendScene@GAME@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AVPSBackend@PSEditor@@
+.?AVDisplayWidget@GAME@@
+.?AVCurveHolder@PSEditor@@
+.?AVPointManager@PSEditor@@
+.?AVEffect@GAME@@
+.?AVFileSystem@GAME@@
+.?AVEngine@GAME@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+IHDR
+IDATx
+%gu&x2
+Dwt{
+ODdr#\
+e*a8
+mro]
+Y&0x&L 
+.Lau
+svOV
+QWoz
+`edp
+e/Y{
+	3xqdrR
+'[&B
+tV!d
+>O2Z
+j@+<H4w;
++;M%
+A#2J_
+x`BzE
+<VwA
+o|!	
+E9]Kq#~mf
+R,NA
+0G>:
+g)I}
+<Vo_
+(>l~/
+:*W)
+HZ&'
+f`X@
+y=jS
+L*e7C
+	!La
+ ]\4a
+E//^
+>l(S
+$AIs
+2aF(
+VL},
+x?]v
+Bd9H;
+%'`%2a
+a`o8
+g)8=
+0`3L
+6<U 0 
+KI'^2
+^ /l) 
+vh.?+|
+AM~7
+d}LR
+M$}B
+MK~)
+cXm&`
+OGT|
+|YGb
+\I?.'
+tJY!PX
+\)?l
+[g_v
+ol=tqwL
+XFPN~
+f#Wn
+:!6;
+hd_/
+I%>I
+yC93
+[FWx_
+rUn_
+aj?YF
+oU|0
+1I=P|
+G<bvY
+*<lu
+=+Y:
+0IDR
+Q9h*
+:v4	
+=`e-&
+(dVB
+dFb'
+XmQ\nP
++T\0
+"y` 
+9@>A
+ECm%
+RNZ1a
+KS4]7?
+|g%D
+uQ'!
+&_-h]
+a24'fA
+=c."ux
+GO~L
+1!C(
+T}s( 
+ <yz+
+uwRT
+^3E:
+t_W}o
+;+x^
+;r2l
+p P/
+S&Mb6M
+Bk51	
+PZHb
+<+y 
+ YVp!
+Z|+E
+V|mh<
+GV_b
+n;8?
+dA@%
+v=)&9
+P~8/U
+, OT
+cgeF
+K?o\
+@x[h
+f@ 3
+ 1T4
+fA@R
+ K0\F
+eKu{a
++GO%n
++dukH3
+`3DO
+:*	b
+(L<mhUa
+:xPn
+.?@L
+h\e:6
+jyH;v
+X2~&
+@Cm>
+;4U^sJ
+6n,(
+.Qgm
+47i6F]
+U|}^~G
+7wS0
+,Am).
+[Y	P
+)5P.y
+7SzO|
+vY3`
+(opUh@
+7a*n
+5lY_
+#EQ~
+/DA`z
+ASI[z
+0w=u
+@K_[
+t_;t
+GA {
+EW1(,
+&2O(
+)lBC
+_V)8
+6eNX
+v?vW
+Iu#-
+!Xe{
+>,wR
+qMU(8
+_%;!
+(EO0
+,`:yO
+|3AM
+V6m#
+0a'1	R
+*?V.
+)Dp~fS
+m_gS
+g2@VG
+RaA4a
+5n0o
+=4|g
+/Q~g
+;)+0Q
+tR)Q
+<MT@%
+: IAU/
+ZS~u
+~F}	
+Vaefh
+c}|//Qje
+4Mwa
+ca)f
+/Nf-
+J-'c
+, ;i
+^J~R
+gLxp
+Q27.~"
+!)3@
+g@@M
+E?^]
+e7?4Q
+BBs]
+`C/6
+7dMgk
+Kzbe
+x3u?y
+xNEI
+[|#5
+vQo&
+4|W-
+@H=L~w
+*mw&
+G}-e
+\s-I
+C9>2CP?
+7(\|
+DKU*
+No2+
+>@:s
+3`92!
+Z~b4?
+UU*_
+0l+f
+AY$Z
+u ~$ ?
+BNz&
+F:p83m
+4U7%
+z6!H
+N,Cjt
+H'}(
+OG.r
+,C-m
+bs!z
+)jl_
+>q `
+ QkZ
+6U	H
+zSU2
+.N=I
+Y&`y
+9[C?M
+q@`C
+:V,p
+wi.~
+n<Fk
+_0+y
+~#An
+Y|>(
+fmS|\
+t\O|9
+pQw3[
+38D[
+#49l
+9IYF
+	 wb
+`sUR
+c!;#
+i\ES
+?VQs@W2L
+l@U<e
+nA~$
+Bs#i
+!!lZ
+J1+}
+T`q_@
+K@NK
+%7[W
+@Y-,6
+xL5h
+l9&a(
+~<O]
+2K/@
+Q[("
+%Hg,
+6.pSFpP
+W/p5
+[Xl?
+!@ ]|<	
+}$";nK
+`VJX
+T5`,
+*VW=
+9o'%
+-XOx
+u	2_
+#o|7D
+j_oL
+.CAR= 
+;|?u
+_indc
+!WhSV
+d'Ci
+xBod
+G,@&
+y:.B?
+"Z330f
+ H@5
+O83C
+A@$%8
+%ZyH
+kx&~d=I
+4r"HR}
+s& o
+^+$4`
+)7Uvc
+R~|g
+O`Q8
+;x& 
+oU&maR8j
+}!J,
+C@3L
+":QvX
+;]Z2;
+N	/v
+Pn@O.X
+PJl,
+Yx:J
+^L~H
+*EM5
+s;vP
+>s!^
+Xji2P\w
+\L$gS
+?E4y
+dW{a
+mGK-=	X
+Q~Lr
+g)0D
+,@JJ06
+0W.R
+vVg 
+m=m"
+iYFc
+ @TtEC
+9g|LE
+[c;h|
+"Kf&s
+I{0D
+CKPb
+WM6P|
+MZ6+%
+UD;_cn
+fqUpBy
+,+?_
+uwX+ 
+(**Q
+~"`+@Vs
+dV=4?
+O"*|
+R~m)
+@?Ie
+$%(]
+j7jG
+gi4J
+S~J~WL
+R"<a
+lb_@
+8e$ P
+?H>t
+`Boa
+%6vYR
+`e2+
+?	Jn$
+_K>)
+@?6p
+xh	G
+!`8v
+Y `Y{
+ \Pt
+q-4 
+5RGq
+E?PD
+?=K=
+{l/0
+|,2C	
+_H>6
+9^F@
+H:_6k
+rPnF
+\+>>
+)sl'
+LC)?
+ckY'=
+tF j$
+foZ{m
+Am	h7@8
+A K4
+[l P
+|u>7
+UxwB
+n#.6
+^Ol`
+W2Rur
+>aP~
+sf?k
+Iv ngVq
+S_V|
+sso|
+R|Va*b
+3Q|W
+~P~1
+*PGe
+F*n9
+b!  (V
+x]WQ
+.aq(
+0G@m
+eZxl
+[42d
+MJ{W
+C9F\w\
+z!ML]K
+H+9K"R
+bsS\k
+phV,
+}3q%Z
+tzOE
+2EKO
+m8`{
+bK]a^r
+M}(=
+b$dB
+;`H*
+s`0j
+R*]s9u/
+t_jl
+@dyq
+Tl<J
+<=YH
+.L]Xg
+CE >
+)[@@wa
+'(X^
+^3RVPo
+C(Ws
+.&Pt
+\mWr
+J-*O\D
+g'(pe
+CjO:F
+~1bP
+I*Vt
+"m%@|Ka$
+]O'V
+(nRz
+A<:5
+adM^(
+(r_/
+p<e#
+!,>(
+AY'*
+]1)J
+(}2e
+s'QopP*
+E7",
+5TAN
+IG"D7!A48@
+Nu1R
+ez)E
+Z<)H
+3M8kh
+C0V@
+K3RO
+,VC? 
+]PX{
+epQ^
+K{Fz
+M&i:4
+,3dp
+IEND
+)$$$%*4@G9%
+%A\``UUTUaajj`E2
+$)34AHIITaoooopoptptu
+p`I%
+*AI\`bjjjikptppt
+vp\0
+)IT`ajlppu
+vvp`E#
+4`olljlq
+vlliYI42$
+m``aT4
+_[800#0008;88D[{
+ptwwjG%
+%A`tv
+_B0"#:BNOOQQQQQQOONB::I~
+vvoTA9AG4
+&*4GIU`atx
+z<"!1J_
+QN;W
+tojjooj`T@
+*IU`juwslr
+0E]eeecWUSRRRRRRRSS]g
+QNF{
+qmmb9
+G\al
+CSXUSRCC88101100###188CCFFW
+ojo\%
+CSSE80#
+%21111DD842249GSX{\CCEW
+oomG%
+CSR8%
+'248DCDERSRCEDETYk
+SI18Rg
+ppjUT>
+0FE1
+$$3EDDEEERRRSSSRRSZs
+qproI
+9ETUICEFFRRFRSXYYYks
+wiI2
+1Scg]:F
+qpp`2
+$$%3DDShXRRRRSSSXXXXYZks
+shUG)
+0RYYC8
+%9DEEERZZSSSXXZhZhXSXhrs
+siXTE3
+0RZR:|
+pjI2
+3DRRRRSXXXXZhhhhhhZYhrtx
+shYSRE1
+8XR0|
+po\4
+29DERRSSXYYhhhhhZYZhkrtxs
+vkiXRRED$
+0SR+|
+qo`9
+1Tar
+2DDRFRRSXhhhZhkhZZZhkrv
+wkZXSRRE9
+qoaA
+$Tlw
+4DRSRRSXhrrkhZhhhikkrv
+shYXSRRRC3
+$4CRSXXYZZhhkkiZillkrt
+xkZXSRRRED$
+)DEEShiYXYYYYllZiaZlptvs
+rZYSSRRFD3$%
+$4DERYkZXXYYXYaiZZYZptts
+xkYXSSRRR9))$
+$$3AEESaZYXXYYZZYYYYYipuw
+rYYYXXSRE4)*'
+'=AGITXaZYYYZ`YYXYYXZjpr
+rhiZYYXXSE332
+uua4
+$$'=@ITTajiiaYaaaYYYZZZaopk
+vrkiiYXXS9=2$
+vtU$
+24>>ASYixtotriZZZYZaiaioqus
+rkkiZXUSD$%%
+AUIR\mrs
+wvvtiZaijjjiov
+vrkkkZYXYI%&)$
+uljoulhklwxx
+vrlkkZYYYU4)2%
+vtkllZYYZXG92)
+uurliZYaYUIG=))
+qppliaZYUTIA4342
+$$$%
+qppoljiaYUT[AAA93&
+-$$$
+qllijlaa`UITI93$
+)@Yw
+urkkoj`\UT4)&
+'3Ek
+kijj`I3%$
+uu\$
+$$Grx
+rup`G=)'
+9Uaau
+wm`G=)%
+$$$'$
+)IT>It
+xo`I>)$
+$&%'
+GT**T
+xvjT9%
+nnb9
+4auv
+$$$'%%'2IG&>a
+qqaA
+$&$'%%*4G9'T
+jG$&)$
+$&$&
+)*4GI\pt
+xuaU9)'
+$&%&
+$)G``UX
+xm`TI9
+=IZw
+%&$**$
+'>Uj`Z
+wo`IA92
+$$'-
+Uoov
+&$%=2$$
+'=@Tpx
+vo`I499$
+$%&')
+%*)==Gjs
+rmbTA99'
+&$&%$
+&34)'G\U`
+hojjmk
+jmaTA34)
+&$&%$
+$$=**GHHb
+qjmr
+tobT3%)$
+%*?,:
+&%%$
+$3>@G[`mtrx
+xq`A)&$
+vpjI
+[!&('
+ATAHHIUap
+vmT>**)
+$).?
+uoaA
+Gipv
+XY==>@@b
+vo`\\b
+mTA33)
+%*.?(]
+po`4
+4Ylt
+m\\[H[bq
+t`I@3*%
+)*.?
+plU%
+$Tlv
+4A**'
+'GobH[[[[\b
+vaTA=*)
+$)*?/+
+pjT$
+=[[HH[H[\^bn
+h`[A='
+%*.?,:
+pjI$
+=HGH[HH[[[\m
+h\[@)
+'*.?
+ojT$
+=H@@@@GHH[\m
+nnnqt
+qaUG=
+%*=?
+C$&')
+=G@*=>H[[H`qq
+nmmmnnmmjopol`[H>*
+'*?,1
+$==*.>G[\\`u
+nbbmmb\`mmma\IH@4'
+ql`9
+&**'.=@[mpu
+vqnbnnnmmnnmbbb\[\bb\[H@@>=$
+qo\2
+$&&&&&'*=[q
+uobbbbbbbmnnm`b\[[\[[HG@>>='
+uoU$
+4auuv
+'&'*'**>==U
+kmb[\\\\`bmmm`\\[HHHGG@@@='
+'>>*==@@[
+vqnb[[[\\[\boqm`\[H@@G@@>=&
+nm\9
+4apuv
+'''&*@L^
+n^^^^^^[\pum^^^^HHA>>=$
+mmUA
+*=@KLL^|
+n^^^b^^^n
+}^{{{^[H>*$
+mZT4
+9atu
+)@KKKLMPz|
+n^{m{{{|
+n{{{{{^^H>
+uoaS)
+$Uouvx
+4K@LKKMMMPPz~
+n|||{||
+|~|{{PMMKK.
+Gjuvx
+8*$$
+1_MLMMMPPPzzz
+|~~~~~~~~~zzPMMLKLO?
+3auv
+c0$$&
+AzPPPPyyzzz~
+zzzyPMMMMy/
+qqU$
+V2%&-
+qoT$
+F='$-'
+uoI$
+$'*#1y
+$Ihwxvw
+E*$$'*08y
+nua4
+AUkwrt
+F3$$--#8y
+L#02$.AF
+qmopT$
+=Tairw
+F4'&--%0L
+L84*->GF
+pji`I)
+AUasx
+F8*&--$!3O
+yG4=/.@EF
+pjaT9
+&@Ilx
+W;=&,--
+yH9=//>AF]
+j`I)
+|C3'&--&
+yG83-/.@GF|
+qaI%
+V8=--//'!#3Ky
+[D82.//>ACW
+F12--//-%%2>KOO
+_G80)-//=@DR
+Grxxvwu
+}J1=-/.//-'%%)2>K_yyzyPLHA40)-,,-.>DF}
+nmm`9
+IZwxwwv
+|F8>>>?.///-''%*>@@>>*'--,,,--38F}
+nbYT4
+2R`orrtuvutquut
+WFGA@@>>??.////,,,,,,&
+#1CW
+mYI2
+4U`atvojjjpquv
+|WREDGA@@>>7==.*'%##6F]|
+qaI%
+3GToo`UX`jqvv
+|eWVRFFFCFFFRWe
+qtpjS2
+%G`bTGGI`oqu
+qprkZXR3
+=GID229Taot
+qpooprhS9%
+)AUju
+uloprkYE
+=Iav
+qopliX9
+&9Yw
+piYR3
+4Tlu
+4IZu
+utpu
+=GTlrlikt
+4I\aUSYkv
+qoopooq
+poooiYD
+*9@23Trxv
+qllaTIUa
+qoojZXSSI1
+$Tajlrttu
+uuupl`A!
+qjXE2$
+39AGT`lt
+qqoloiU4
+qoY9
+$9UiotpoppiYE)
+3`qoaS3
+4ETaloooZE
+%\aTD!
+)2G`jjZI!
+%GTTG%
+&/C\\Z\ppS
+AR\or
+zWCA
+|f3()
+'Eafh
+K>.;<JJJ<<;0
+ito^
+7AD87166$%6P^</
+#37ACPCEU
+xpl#
+"9XRCCPTTWj
+5CCTWTfffWfj
+ 3CCPZ\gifZnvz
+eRP8
+9PRWknk\kmv|
+ePPC&!	
+  (7RkVVYk[[rj
+iRPP9##
+'8EY[XYYXV[n
+uZYVR8+
+'"'#%Pfno\[Y[[ki
+|ym\WC'#
+umlgehu
+vnkYS+'
+wp\[YD)#
+vso\[S@85""
+sneZ^Q5""#
+nS)#"'
+uH)#"'
+)(+E
+l)"''
+(#38Ht
+nD""#
+zy|z
+++('Dt
+\E8##
+)#3).P
+kE(##'0
+3F@Sn|
+\3#"(*;
+FrqQ^
+R3)"+
++5'!^^FF^
+mE+"
+##""+=F?FF]s
+#"'=)?]ap
+dqd[mpVF. 
+ ')'=l|
+gbdqsdb]]^H?=)
+#).)"H
+x[H]]brb]@??=)
+(+?L
+``^]
+d``F5
+4=@LL}
+~~`@'
+?}NN}}
+}NL_K
+9y|t
+)\u|
+(>KO
+3ayl[rt
+~`IB:2:<L
+)^D5bx
+sxtV9
+otnA
+S|vr
+3HAk
+p\Z9
+Haly
+rvm9
+QkvyZ
+&a[(
+.>OWh
+~rc.
+uA:(
+(((Ew
+}=51
+H927666//3-
+233=3=
+$@N=NRR[
+4=NU\^\]_
+=NUedaak
+mQM4
+0N]RUXTdo
+QN=1
+=]XTTSU^
+e]T>!
+i`]\_
+oe]P$
+ldUS;!
+~hg\R@; 
+A	! ;T
+!22X
+pssssss
+$!1]
+}P2 
+@#OjWZ~
+$0"OD?W~
+188DWn
+nffh
+#"8`
+cXffZWOR<8
+TDOZcV?81
+!8AV
+{ZVY{YY?
+9EEHu
+vvvvuEE:
+Fzyy
+zyzK
+Wrsn
+*CFC*
+;cl]e
+uD6,,-BJ
+1>0T~q
+loT4
+$gsmq
+nPS}
+$;Xqnj>
+#(0(&b
+*NJRS
+	-Jjlkt
+IYVVi
+dOT/
+goswwuucg
+'M\Wuu
+qq?_\'
+XZ333
+,7ms_*
+(rx'
+!lr3
+<	-AAu
+.Gdk
+eb[SHH"
+y{U~
+RISVWTg
+IHDR
+IDATx
+7PT!PPH/
+=UEQ
+?&[J
+3rQE@]
+J6nw5%[y
+az6|
+!evI
+caB?
+%V-x/v
+^|Oe
+	v2kBOk
+_Q@@d
+4pE t
+n?&O
+?fVzx
+iE|W
+x}55
+<Pt 
+{@ep
+D(<~
+jx~*
+z<Bc
+M|]S
+]D.tY
+5wc%
+1|i8
+KIjF
+r\.S
+S5SL
+D R`
+8!}e
+, ha
+0wEIM
+;@$U
+	mjZ!zuV
+2b8:
+j9ZX_
+1BOa
+EDJ8*
+SsW*~
+]+\"
+6P	|
+pNsti
+XC0<
+	9j1
+kjWH
+	--;;
+a=:b)TQ
+cMLe
+iwm0!StO
+gjS]
+Jhy"1
+CS1L{
+l{,7`
+Ijra
+/Gl%
+J"cZz
+ctQ)
+,Cwa
+r<u%V)
+MYO?
+]|6G/
+2;P*
+6|Iy
+=@zo
+zF}V
+@O)`
+oad*
+fihM
+IX>*
+>1<C
+O,Zt
+MY`0$
+Yj;*
+5)q;
+,/+	
+XoOB
+L%au
+Q')IAX
+9x}pe
++$>k
+0pK0p]
+6w1M
+U	RA
+n|`AENH
+Wb{*(
+Vzov
+3PX'
+8?M~
+XUH4!
+7HWQ
+@PU*
+E?/H
+'d0\
+/m	F
+eFetk
+4C e
+}8bPV^
+L8srS
+NN:t
+n\{e8,l
+klXG
+$?yN
+RE0a=
+O+S}
+W$t<
+%GB-
+&T)A
+)!$3U	
+RdcQ
+y;9!
+6Pl9
+o!Z.L
+6d$/g
+%63d
+Y{Qd
+obI}
+O=)-
+|4,#8
+[yF)
+ui5k2
+! ]s
+jl`B3
+'HEK
+-8Ot
+\FSqS
+N8_}
+l?]W
+O7ef
+v	_{
+rV$c
+hCbH<
+eI~Qr
+G$^{@
+UFeP
+<.`_ao
+:,4Se{q
+LLJc
+v)^v
+[F4l
+!}b]
+JSZs
+6)^P5o
+t}4:G6
+P_Em5
+S,!q
+U=E?
+E]{,
+gVCN
+c37N>
+08H"
+*/xg
+D9G@
+9~fM
+}VKw
+bUzTh
+YpXs`eD
+J6^ryalDC@
+:eTR
+Vf_*
+K,J$
+wCZe^
+n\hez
+"X~d
+m)Vb
+2PDp
+JE0R
+JI5i
+;QO!
+4XX8
+kz$$
+0?~;>
+e6W(
+}_U&+)
+q1PEU
+JaJ@
+<gJ s
+lZ2G
+67 Y3W`
+rZXv
+4`AN
+T/E]k
+Kv]S
+#EanC
+i{o&b
+(H>z
+]t%@w
+`,_x
+3wj~
+I-eW
+[jrd"
+N'&n
+R&QYI:b
+6@vk
+*9,l
+Swif
+Y|@V
+8`TwA
+pup.
+>,XF
+MKpG
+TRuQ
+@| W
+AaLk
+@!YM
+Vp]O=
+p#a6c
+sR{}S
+=re>
+j 0T
+j*]V
+e:4:m
+NKZQ(
+H3oz
+a`2|
+Ttd4!Ek1
+zioI
+}7.e
+Y^7<f 
+sZlR8;
++3W6d
+E8Z[@8
+SZ*s
+rl`s
+xU K
+2quCv6SY
+(!+R
+ZL`@,
++]/>
+(+4S
+/1;$
+Y_x@
+Ns 2
+:qh\
+xE v<
+Shit8
+j%e{U*3X
+0U4b
+/#F\-
+U	h<a
+@G&6
+$,?,
+v	&:R,j
+Kw5i7
+^L4ZN:tD
+z,`b
+7Z]Y
+y<Sjss2q`V
+ ZWb5;
+CPF$!
+0E-Q,}
+l"-(
+gZRG
+{_#sE
+::SY`
+Ssu,v
+<`h,n
+F&Z,
+!	G?"K'
+a`|C
+r}J;
+em]IO
+A0u!
+*,`9*#
+MFeQ
+J*/@b
+'a=x
+Gxh?
+trq4+
+@}Vy
+uD[:,e
+SBVr
+[q|W
+I r4
+V/[N<
+2gK!
+_/r-
+$J`F$.l
+PnOB
+NK&#
+X!W%o~	
+$;`Q&
+_%r5
+>N	<^
+~\g&
+|~FQ
+u %E
+pS!p
+^ U3
+Mm67
+W_(a
+Ffv<&
+qwn;&
+oZ?,
+kZ'#
+|.w8
+-1)N
+FBRO
+FOU5
+k2;7-
+GWYLLio
+xI_8
+*~}*>
+Hbo{QQ
+r.~B
+si>7Q
+m:[~
+p/A]
+g	^b
+U3~_,
+%,>P
+IQkxV9
+@.6~
+@xNz/
+J'	h
+XJ~a
+UJ=L
+kt|a
+GCe^
+l]6T
+[qSw!
+yp*g
+%NQ\
+l#fg
+bU g
+)(@iJ
+[iaMP
+Bvy~
+,9byy
+N+>1
+UrQLRf
+]'sT5
+T*Im/
+3.eV
+;afF
+fv`&
+bwas
+eBlD
+@3tY
+/27[^
+$:TTEBbR
+Xk[ZZ
+M54pRP
+5iLF
+IxQC
+AIAuz
+	8H5
+7~^fw_+a
+w<`z
+7?/c+_"
+HaIf
+6Ye	=f
+>"6j7x>
+_W	/
+ h!w7
+UQf`Rw
+q.C]
+&'^P
+bIM]C-
+&I7?
+Q#w%
+pOj#
+n_j7
+z]Lf
+1Csx
+67Q 
+R2ef=
+qk^"
++<j*
+V#cxAJ
+`*H5
+d_8X"
+~fd 
+P8p0y
+Mu6O
+)#k/
+!Ov-
+\f+W
+Yh=&
+^@q;>
+T4GS
+>Vkx
+mGUk:
+c(@}
++_4bd
+)>4s
+L>?`%
+Cdu#ZR
+	,=j%
+[q|wU*Z
+59O,
+~,%&
+k9(1G
+>.dr
++f~$
+l1Oy
+(/%4y
+=	M#Kd
+K2KN
+n7wHFY
+QdpA
+P9G<
+SX616
+Y7LRA
+V1Q#b<>%
+-e{0o
+Ltqf
+2e*{
+RkCW
+/KNx
+l?wa_
+<8ZK
+*|Lg^
+/EN 
+pmvv
+-Wu#&
+Flg#
+F}8W
+OZrb/
+Xpco
+Sq`eG`g
+vgw"
+"udx
+ypWf
+Kg7|
+`)0e
+uM3/8
+'soL
+"?/`\s
+6J ^
+am4b
+w(5	
+Xr;Z
+1}1N
+k20I
+q8h2)E
+T/aP
+1 ;&5
+45\*
+@!dN
+	z2S
+0l P_
+7ox&O
+8p&r
+G"eW`
+KL D
+{B"&
+ZBP`
+,H?i
+A^^3
+}vF$
+1L9In
+Wg@!
+>q|x
+_ab	#n
+J47q
+-9wWWQ
+GU? 
+<cF3$
+IKGDx
+.rcn
+Wi{0
+2t8b
+pMcg
+P-[d
+ph~v
+>e7\m
+]fdOF
+mVVc
+&)HB
+$)&O
+'q]C/2
+JRop'
+_3V$
+Ms$R
+uR,>M
+M95-
+H7{'
++owjrq
+nr9lWC
+3CV+
+m0~9
+ v0.~
+jbnS
+%BV	X!`rp
+Jz5~
+Y[-u
+~dR+
+?pc]F
+=jWb
+l6@q
+8^W*=
+1% q
+Ld,_
+?}7"
+<W,/
+o2y}
+jn6A`
+X	cu
+]r!V)
+GyJ\
+F2 Vv
+E`?}
+1f]c
+o%-{U
+V*d8tPa
+1_Xz
+(Hc`
+W03m
+2ay7
+>|%<
+`/G7
+vDM1
+L37a
+I_$d
+3Z!3l
+/b61
+zT{g
+%}MM
+apcR_
+.d%L
+W!6x
+R{NC
+`P?N
+2	Hcei
+E9TTk
+OSlIg
+I}hDjg
+dy%6
+jR<V
+X6Vg
+|ooZ
+X_mCCG
+FJrM,)
+E&rD
+t\vK
+*}"R+
+1x	l2
+~GCrf
+<i9kU
+Im?|0
+A.LL
+Gl8S
+*61f
+aq=<
+,<xV=
+Jr8.cE
+{TH;
+|vCg
+(U^t
+SS	NV
+'@<QX
+/XLNO,
+>3X7[$
+*}(Z
+3	x*
+[{}0
+p''m?6
+OZ[0
+X|2V
+-241
+"CpW
+/!2#
+@uJ0
+R?bXjp
+64!#
+rq6#
+:u12M
+@ l7	
+Lr3	s
+:Gg?
+]]U]
+3t<Q
+?t-n
+cU)&
+7Bwz
+N	%c
+kO1v
+6L/(8
+1N?h
+/rtv
+3zi	
+*hLB
+s/~S
+HgV,
+ WD">|
+!j'x
+Ypahy
+On1/
+_UX,OC}g
+#ai]
+{M@	t;
+f;.g
+eV0s
+J?ftc
+qpHe
+oz	.
+M=\Un>
+>*S;
+kMa)
+Rjng
+<&!N
+DC	%
+*EX]
+Z'g=
+` LN
+BEc&
+G!\#V
+L\.a
+Ff^*
+~*(B
+uWz1I
+	:@D
+2/@*
+{~@s
+3	HK
+,zx#
+L"Z9
+   qk
+scsNd
+e;Rz
+A6R>
+{FD#
+x]<7
+y)f!
+7[Ypt
+\r/$s
+L&?:
+$xF:n
+hZ0E
+M+<OJ
+Q_m<r>
+D`O)
+&&&x
+8V.r'
+z5(J6
+9OPq
+>*JJ
+vk'i
+-Ys%
+^8q_
+/r]/~
+~*~8
+=Dj2
+ARo Jbu
+]6b{KPs
+7s/Q
+?o<Be(
+]76:g
+{Qz-
+N,DH"
+eQqR(?
+E&.}
+!N`%
+-F6J
+*?F/
+(je	
+Y8@O
+`0[z
+"as*
+Izp(WA
+WV$9
+|Hfw
+GP5l
+oI?W
+H,)_	
+3	{{s
+f"W5
+eR]V
+.46(H
+S-!O
+/9IS
+P1wzj
+Ep4f5O
+|<yi
+j?$ o@
+WU%?
+F{&S
+dw}T=
+0&q81
+&\9"
+]|hI
+q%Be@
+UR61
+<Ke=U
+;?aTG'
+8U(R
+nDV+*
+8,~5
+b70=A
+JkzO
+e(}[K*w}J
+T=6/
+IzJ"x'
+|gjH
+@ Lx
+OtMT%p
+$D%S
+b*7U
+F~L*
+\v1n
+qumC
+[UkW4
+Ji=/
+Wf6dd
+KhnQ
+jinj
+G8El
+$'a^b
+IDATXM
+T8-W
+A>w 
+oXW1/
+%igK
+I^Mu
+uM"C
+),#Y}
+:5m$*
+=z+n,{
+E&6_
+;LqXg
+YAIF
+WF!t7_'
+wy!d
+Bhp'
+|l7!
+Mx"R
+?:)S{
+di0!I&\
+uf('
+B6n9	
+M%@ww
+VtxH
+E0 \
+DHO`eMV
+/>"2
+wbJ 
+m&lC!u 
+k%{A]
+WKgV
+}F-7
++pHFk
+"tN n
+{^g(<
+;@a$D
+C	T 
+X@l?
+aqpe
+Di	(p
+Ut:r
+ctd'B
+jl3h
+f;2y
+Wgu8
+:\:<
+,^gW
+7kuq
+Qr>*
+(bPKu
+Q1}e
+_e1i
+8ZHe(
+m]S#
+:f+g
+*F3^*g
+)h;)
+X>r,D*
+;BnBl0
+!Oa1
+0S<x8uKD
+<oPP
+M> T
+^R,-
+i3^.aCU
+!'QL
+2{	R
+@HF`
+MWRl
+		7f
+pxrP
+kHmn@
+IozPo
+glb*
+H}_:V
+|]*2J
+TGz]
+<=+6
+~,o+
+0j!C
+6:5<G
+P+?kB
+A>_%6&
+mJyS
+;z_.
+7-p'
+Hg2Huy!
+J'Id
+pV.W
+@7Oq_
+IEND
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0 090>0C0J0P0i0n0s0z0
+1)1.131:1A1i1n1s1z1
+2+20252[2`2e2
+3+30353>3E3k3p3u3~3
+4 4%4I4N4S4q4w4
+=/>k>
+0&1G1S1Y1b1
+1%2,2L2^2g2
+2&323e3q3
+667C7P7[7
+898?8
+;/;6;x;
+;(<V<
+=!=(=/=:=Y=`=x=
+>G>U>\>c>n>s>
+?"?'?
+3y4F5&6p6
+7?8H9N9
+:Q;n;
+<$<*<
+=J>P>c>
+=6><>B>H>N>T>Z>`>f>l>r>x>~>
+2 2&252<2A2J2O2X2l2t2
+3#3+3h3p3
+4)4/4
+5*5=5I5Y5j5
+5,696`6h6
+7k7p7
+8(8.8v8
+:#:l:q:
+;$<-<:<E<N<]<u<
+=5=E=[=d=o=v=
+>'>1>A>Q>a>j>
+3 3s3
+4"4(4.444:4@4F4L4R4X4^4d4j4p4v4|4
+5$5*545:5@5F5L5R5X5^5d5j5p5v5|5
+6$6*60666<6B6H6N6T6Z6`6f6l6r6x6~6
+7 7&7,72787>7D7J7P7V7\7b7h7n7t7z7
+8"8(8.848:8@8F8L8R8X8^8d8j8p8v8|8
+899H9W9|9
+;);8;t;
+;+<O<f<n<
+=5=:=Q=z=
+>">2>B>R>b>r>
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5
+81<1
+182<2
+<T=l=p=
+>4>8><>P>`>d>h>
+?4?8?<?P?T?l?p?t?x?
+0 0$0(0,00040H0X0\0`0x0|0
+1(1,1D1H1L1`1p1t1x1
+2 2$282H2L2P2h2l2
+3$34383H3L3P3X3p3
+388X8d8
+849H9X9h9t9
+:,:0:L:P:X:`:h:l:t:
+; ;(;<;
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1d1h1l1
+383t3
+4 4\4
+5(5D5d5

@@ -1,0 +1,2612 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.idata
+.rsrc
+@.reloc
+(SVW
+h0@E
+ SVW
+SVWje
+SVWf
+SVWf
+SVWf
+SVW3
+SVW3
+,SVW3
+@SVW
+@SVW
+,SVW
+dSVW
+Phl@E
+,SVW
+=4BF
+SVW_^[
+SVW_^[
+SVW_^[
+SVWf
+SVWf
+SVWf
+dSVW
+dSVW
+SVWj
+ SVW
+4SVW
+SVWj
+(SVW
+SVWf
+SVW3
+Ph$BE
+DSVW
+SVWf
+SVWf
+LSVW
+SVW3
+0SVW
+SVW_^[
+SVWh
+XSVW
+SVWf
+$SVW
+(SVWf
+hXBE
+hlBE
+HSVW
+SVWf
+SVWf
+SVWf
+SVW3
+=TBE
+=PBE
+=PBE
+$SVWf
+=8BF
+SVWj
+(SVW
+$SVW
+h@DE
+hDDE
+SVWj?
+SVWj?
+SVWf
+A#_^[
+SVWj
+SVWf
+	_^[
+,SVWf
+PhOC
+SVWf
+PhCB
+PhCL
+PhCR
+PhCR
+PhCL
+SVWj
+SVWj
+SVWf
+PhCF
+PhCV
+SVWj
+8SVW
+PhOD
+PhPU
+SVWj
+SVWj
+SVWj
+SVWf
+A%_^[
+SVWf
+SVWf
+4SVWf
+SVWf
+=4BF
+ SVW
+SVWj
+=4GE
+=<GE
+=<GE
+						
+							
+SVWj
+$SVW
+SVWf
+$SVWj
+SVWf
+$SVW
+Ph0EE
+Ph8EE
+h@EE
+PhPEE
+hXEE
+Ph`EE
+hhEE
+PhtEE
+h|EE
+$SVW
+SVWf
+h SE
+SVWj
+lSVW
+Ph$FE
+h4FE
+Ph<FE
+PhDFE
+PhPFE
+PhXFE
+)PhdFE
+PhtFE
+Ph SE
+Ph IE
+SVWh
+SVWf
+$SVWf
+SVWhP
+SVWhP
+hxWE
+SVWhxWE
+SVW_^[
+SVWf
+SVWf
+h$HE
+h(HE
+h4HE
+h<HE
+h@HE
+PhDHE
+hHHE
+hPHE
+hpHE
+SVWj
+SVWf
+SVWj
+h KE
+Ph(KE
+Ph8KE
+PhHKE
+PhXKE
+SVWj
+hhKE
+PhpKE
+PhxKE
+SVWj
+SVWj
+SVWf
+TSVW
+SVWf
+,SVW
+SVWj
+SVWj
+SVWj
+SVWh
+SVWj
+(SVW
+SVWj=
+SVWf
+<SVW
+=TLE
+hHLE
+Ph|LE
+hHLE
+SVWh
+SVWh
+SVWh
+SVWh
+SVWj
+SVWf
+SVWf
+SVWf
+SVWf
+SVWf
+SVWf
+SVWj
+hDME
+SVWf
+SVWf
+SVWf
+SVWf
+SVWj
+SVWj
+SVWf
+SVWf
+SVWf
+<SVW
+ SVW
+=$QE
+h0QE
+j)jF
+h`QE
+j)jE
+SVWh
+=4GE
+SVWf
+SVWj
+,SVWj
+$SVW
+4SVW
+\SVWf
+SVWf
+TSVW
+SVWj
+SVWf
+SVWf
+$SVWf
+SVWf
+															
+															
+															
+															
+															
+															
+															
+															
+8SVW
+SVWj
+SVWf
+|SVW
+h(RE
+h(RE
+ SVW
+(SVW
+8SVW
+@SVW
+SVWh SE
+SVWh
+SVWf
+SVWf
+$SVW
+ SVW
+SVWh%
+SVWf
+`SVW
+$SVW
+hSVW
+,SVW
+ SVW
+SVWj
+SVWh
+(SVWf
+tSVW
+xSVW
+(SVW
+SVWj
+DSVW
+SVWf
+SVWf
+SVWf
+SVWf
+SVWf
+A#_^[
+@SVW
+SVWf
+SVWf
+SVWf
+SVWf
+(SVW
+h(EE
+@SVW
+j#j[
+SVWf
+SVWf
+j#j[
+TSVW
+h TE
+hdTE
+hpTE
+h(EE
+A-_^[
+SVWj
+SVWf
+8XZE
+SVWf
+SVWj
+,SVW
+SVWj
+SVWj
+SVWj
+SVWj
+SVWh
+SVWh
+SVWj\
+(SVW
+@SVW
+$SVW
+Ph[OD
+ SVW
+SVWj
+SVWj
+SVWf
+SVWj
+dSVW
+@SVW
+<SVW
+SVWf
+SVWf
+$SVWf
+SVWj
+SVW_^[
+SVWj
+(SVW
+(SVW
+h VE
+SVWj
+SVWj
+Ph$VE
+SVWh
+SVW_^[
+SVWh
+SVWj
+Ph,VE
+h0VE
+SVWj
+4SVWj
+ SVW
+E Pj
+$SVW
+SVWj
+Pht'
+PhP-
+Phus
+HPhxWE
+,SVW
+ENVE
+dSVW
+=pVE
+pSVW
+PhxVE
+=lVE
+SVWj
+SVWf
+SVWf
+dSVW
+0SVW
+8hOE
+8hOE
+ SVW
+4SVW
+(SVW
+8 ZE
+8 ZE
+8hOE
+8 ZE
+8hOE
+8 ZE
+8hOE
+ SVW
+SVWf
+SVWf
+A>_^[
+A6_^[
+AB_^[
+A&_^[
+A*_^[
+SVWj
+A _^[
+SVWf
+SVWf
+SVWj
+SVWj
+SVW_^[
+@SVWj
+0SVW
+0SVW
+SVWf
+A _^[
+SVWj
+A _^[
+SVWj
+SVWj
+8SVWj
+LSVWj
+SVWj
+SVWjX
+<SVW
+SVWf
+E XE
+Pj<j
+SVWf
+SVWf
+SVWf
+SVWf
+A._^[
+A2_^[
+AH_^[
+SVWf
+PSVW
+`SVW
+@SVWj
+=$YE
+SVW_^[
+SVWj
+SVWf
+SVWj
+h@YE
+h@YE
+Ph@YE
+(SVWf
+SVWj
+SVWhLYE
+hTYE
+h`YE
+htYE
+SVWhP
+8 ZE
+8 ZE
+j@j@
+8SVW
+PSVW
+4SVW
+PSVW
+<SVW
+SVW_^[
+SVWf
+SVW_^[
+SVWj
+SVWf
+SVWf
+SVWh\
+SVWj
+SVW3
+SVWj
+SVWj
+8hOE
+8 ZE
+8hOE
+80OE
+8(yE
+8 ZE
+H,_^[
+8XZE
+,SVW
+SVWf
+ SVW
+=8GE
+=@GE
+=DGE
+8XZE
+=DGE
+$SVW
+8XZE
+8XZE
+@8Pj
+@8Pj
+8hOE
+8XZE
+@8Pj
+@8Pj
+8hOE
+8hOE
+SVWj
+LSVW
+8XZE
+0SVW
+8XZE
+8XZE
+8XZE
+8XZE
+$SVW
+8XZE
+8SVW
+8XZE
+SVWf
+Ph ZE
+Ph ZE
+ SVW
+PhXZE
+=DGE
+8 ZE
+<SVW
+8XZE
+$SVW
+SVWj
+0SVW
+H,_^[
+SVWh
+8 ZE
+8 ZE
+,SVW
+8 ZE
+SVWf
+SVW_^[
+SVWj
+SVWj
+SVWf
+Ph8gE
+EAgE
+Ph8gE
+M@gE
+SVW_^[
+SVW_^[
+SVWf3
+SVWf
+SVW3
+SVWj
+h(yE
+h`yE
+SVWjD
+$SVW
+$SVW
+8hOE
+8hOE
+HSVW
+8hOE
+SVWf
+8 ZE
+PhhOE
+XSVW
+HSVW
+SVWh
+8 ZE
+8 ZE
+`SVW
+8 ZE
+,SVW
+8 ZE
+SVWf
+@SVW
+8hOE
+8XZE
+(SVW
+=8GE
+=@GE
+=8GE
+=@GE
+8hOE
+8hOE
+8 ZE
+8hOE
+SVWj
+SVWj
+8 ZE
+SVW3
+SVW3
+SVWh
+SVWj
+SVW_^[
+ SVW
+$SVW
+8 ZE
+8hOE
+ SVW
+(SVW
+8hOE
+8 ZE
+8hOE
+8 ZE
+SVWf
+I2+A
+$SVW
+,SVW
+@(Pj
+8 ZE
+80OE
+8hOE
+@SVW
+@(Pj
+@SVW
+lSVW
+SVWj
+@(Pj
+ SVWj
+@(Pj
+SVWf
+A&_^[
+SVW3
+SVWj
+$SVW
+(SVW
+@(Pj
+A _^[
+@(Pj
+SVWf
+H6If
+8hOE
+80OE
+SVWj
+8hOE
+8hOE
+8 ZE
+I.9H
+8hOE
+8 ZE
+SVWj
+SVWj
+8XZE
+$SVW
+8XZE
+8 ZE
+H,_^[
+SVWj
+8XZE
+SVWj
+8XZE
+SVWf
+SVWj
+SVWf
+SVWf
+8 ZE
+8XZE
+8 ZE
+8 ZE
+8hOE
+h(}E
+SVWj
+8 ZE
+0SVW
+Pj	j
+HSVW
+@(Pj
+SVWf
+8PNE
+DSVW
+8XZE
+h@}E
+h0}E
+<SVW
+8XZE
+h`}E
+hP}E
+$SVWh
+Pj	j
+,SVW
+(SVWj
+,SVW
+,SVW
+4SVW
+HSVW
+8XZE
+8hOE
+@(Pj
+TSVW
+@(Pj
+LSVW
+Pj)j
+Ph0OE
+SVWj
+0SVW
+(SVW
+HSVWf
+@(Pj
+@(Pj
+@(Pj
+8hOE
+SVW3
+SVW3
+0SVW
+`SVW
+$SVW
+SVWj
+SVW_^[
+SVW_^[
+SVW_^[
+SVW_^[
+SVW_^[
+SVW_^[
+hxWE
+SVWf
+0SVW
+(SVW
+								
+									
+																																			
+								
+																											
+							
+SVWj
+SVWf
+SVWf
+SVWf
+,SVW
+SVW_^[
+SVWj
+(SVW
+SVWf
+|SVW
+SVWj
+SVWj
+HSVW
+x"xWE
+4SVW
+SVWh
+SVWh
+SVWh
+SVWj
+(SVW
+,SVWj
+|SVW
+SVWh
+$SVW
+SVWj
+Ph[OD
+,SVW
+LSVW
+ SVW
+<SVW
+SVWj
+ SVW
+Ph[OD
+Ph[OD
+ SVWf
+4SVW
+SVWj
+<SVW
+XSVW
+SVWh<
+SVWf
+SVWf
+SVW3
+SVW3
+ SVW
+ SVW
+@SVWj
+tzVS
+GIt%
+t/Ku
+^_[3
+f9L$
+f9D$
+f9D$
+f9D$
+f9D$
+D$$P
+D$ R%
+D$&P
+D$(%
+D$*P3
+D$*P
+D$,%
+B 02CV
+B$Iu
+C =02CVu
+^[_3
+]_^[
+]_^[
+SVWU3
+\$$f
+]_^[
+]_^[
+SVWU
+PVQW
+]_^[
+W;t$
+WVU+
+]_^[
+`SVW
+< v5F
+>"t&
+$SVWU
+]_^[
+]_^[
+SVWUj
+]_^[
+t.;t$$t(
+h 3E
+WUuOj
+h03E
+h,3E
+]_^[
+WRQP
+]_^[
+9t$,u	
+L$0j
+WPh 
+]_^[
+]_^[
+L$0j
+USWPh 
+USPQ
+VUSPQ
+L$(t
+D$$|
+D$,j
+-8hF
+]_^[
+D$$Q
+L$0PW
+-8hF
+]_^[
+WUuOj
+h,3E
+h03E
+]_^[
+VRPQ
+]_^[
+9|$,u	
+L$0j
+VPj	Q
+]_^[
+]_^[
+L$0SVPj
+USPQ
+PUSQR
+]_^[
+WUSPQ
+D$(j
+D$4j
+-,hF
+VWh 
+L$4P
+-,hF
+PVWh 
+]_^[
+J#D$
+SVWUul
+]_^[
+]_^[
+]_^[
+]_^[
+v"SP
+v"SP
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWU
+]_^[
+~*SP
+SVW3
+]_^[
+]_^[
+D$ h
+]_^[
+D$$3
+																								
+													
+													
+										
+					
+h$@E
+h @E
+SVW3
+=t=Q
+]_^[
+SVW3
+]_^[
+]_^[
+USVWj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUP
+]_^[
+]_^[
+]_^[
+]_^[
+%lgF
+DSVWUh
+]_^[
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+VWU9
+-dhF
+]_^[
+IQRV
+]_^[
+hh6E
+j@h(
+H?^[
+:uUEU
+:u#EU
+]_^[
+]_^[
+SVWU
+D$(9T$,~
+|$$u	
+D$@]_
+SVWUuV
+5xgF
+h03E
+h,3E
+]_^[
+5xgF
+]_^[
+D$ j
+L$ j
+PQh 
+]_^[
+]_^[
+D$ j
+L$ j
+SVPQh 
+D$ W
+,GVf
+]_^[
+SVWUuL
+5XgF
+h,3E
+h03E
+]_^[
+5XgF
+PSQR
+]_^[
+\$(;
+D$ j
+L$ j
+PQj	S
+t>Uj
+D$ U
+L$ VPQj
+L$$QP
+D$ VP
+]_^[
+]_^[
+]_^[
+SVWU
+t$ ;
+]_^[
+L$$+
+D$$j
+D$ ;
+]_^[
+]_^[
+D$ ]+
+SVWU
+]_^[
+]_^[
+.;|$(u
+D$$j
+G;t$
++|$(
+]_^[
+]_^[
+t$0U
+#D$<
+L$$U
+D$$Q
+L$@RP
+]_^[
+]_^[
+]_^[
+u%SW
+]_^[
+]_^[
+]_^[
+SVW3
+hl6E
+PQRV
+l$$;
+]_^[
+|$ UW
+VUWh 
+H]_^[
+|$ Pj
+]_^[
+t!BC;
+]_^[
+]_^[
+]_^[
+|$ f
+]_^[
+|$ W
+]_^[
+|$ Pj
+u	H]_^[
+]_^[
+SVWU
+]_^[
+]_^[
+w?95
+SVW3
+]_^[
+SVW3
+=};j
+]_^[
+]_^[
+=,hF
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUu&j
+h,3E
+h,3E
+\$<US
+h03E
+h03E
+]_^[
+|$DVW
+D$8V
+L$8WUSPQ
+]_^[
+9D$Lu	
+]_^[
+]_^[
+]_^[
+L$LPQ
+]_^[
+]_^[
+D$"t
+]_^[
+]_^[
+]_^[
+D$"t
+]_^[
+]_^[
+D$Lj
+USj	P
+]_^[
+]_^[
+T$LPQUSj
+D$Lj
+VWj	P
+L$LSPVWj
+L$ P
+D$DR
+L$DPQ
+]_^[
+SVWU
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+D$ P
+]_^[
+T$ PQR
+VUPQ
+D$ SP
+]_^[
+]_^[
+SVWu
+t	WP
+t6f;
+SVWU3
+]_^[
+]_^[
+SVWU3
+]_^[
+]_^[
+u	Iu
+FGQPS
+u	Iu
+]_^[
+f#L$
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+Equation Editor 2.0 Windows Application
+EqnEdt32.EXE
+AboutMathType
+EqnFrameWinProc
+FMDFontListEnum
+FMDFontProtoEnum
+FltToolbarWinProc
+MFEnumFunc
+MainWinProc
+MtInsituWndProc
+ParamDlgProc
+PopupMenuWinProc
+SizeDlgProc
+StyleDefDlogProc
+StyleOtherDlgProc
+ZoomDlgProc
+Equation
+Equation Native
+Equation3
+MtInsituFilterClass
+regedit /s 
+eqnedt32.reg
+Equation.3\protocol\StdFileEditing\server
+CLSID\{0002CE02-0000-0000-C000-000000000046}\LocalServer32
+CLSID\{0002CE02-0000-0000-C000-000000000046}\DefaultIcon
+RegisterInsituClass Failed
+CreateInsitu Failed
+OleObjSetExtent called; x = %d, y = %d
+line
+field
+fldinst
+fldrslt
+fonttbl
+colortbl
+stylesheet
+object
+pict
+header
+headerl
+headerr
+headerf
+footer
+footerl
+footerr
+footerf
+loch
+hich
+dbch
+symbol
+ABDFILORSX
+MainMTWin
+StatBarFrame
+In-situ Equation
+Symbol
+MT Symbol
+MT Symbol Italic
+MT Extra
+Fences
+ITAL
+ITAL
+Times New Roman
+ITAL
+Times
+ITAL
+MS Serif
+ITAL
+Courier
+MT-Symbol
+none
+none
+ITAL
+Courier
+Windows
+EquationWindow
+SpacingWindow
+OLEStartupAsServer
+TextLanguage
+MathLanguage
+General
+Zoom
+CustomZoom
+ShowAll
+ForceOpen
+ToolbarWinPos
+ToolbarDocked
+ToolbarShown
+ToolbarDockPos
+MTUpgradeDialog
+Spacing
+Sizes
+Fonts
+zyxwvutsrqponmlkjihg
+ZYXWVUTSRQPONMLKJIHG
+Software\Microsoft\Shared
+OfficeUILanguage
+{71358FC1-E43B-11D1-A17F-00A0C90AB50F}
+sDecimal
+intl
+sList
+intl
+embedding
+server
+msi.dll
+MsiProvideQualifiedComponentA
+eeintl.dll
+LineSpacing
+MatrixRowSpacing
+MatrixColSpacing
+SuperscriptHeight
+SubscriptDepth
+LimHeight
+LimDepth
+LimLineSpacing
+NumerHeight
+DenomDepth
+FractBarOver
+FractBarThick
+SubFractBarThick
+FenceOver
+SpacingFactor
+MinGap
+RadicalGap
+EmbellGap
+PrimeHeight
+Full
+Script
+ScriptScript
+Symbol
+SubSymbol
+User1
+User2
+SmallLargeIncr
+Text
+Function
+Variable
+LCGreek
+UCGreek
+Symbol
+Vector
+Number
+User1
+User2
+TextFE
+Windows
+EquationWindow
+SpacingWindow
+TextLanguage
+MathLanguage
+General
+Zoom
+CustomZoom
+ShowAll
+Version
+ForceOpen
+ToolbarWinPos
+ToolbarDocked
+ToolbarShown
+ToolbarDockPos
+MTUpgradeDialog
+Spacing
+Sizes
+Fonts
+%s,%s
+Software\Microsoft\Equation Editor\3.0\Options
+0123456789ABCDEF
+[%s]
+%s=%s
+[%s]
+%d,%d
+%d,%d,%d,%d
+0123456789ABCDEF
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+-
+Equation Editor
+Equation Editor
+Fatal Exit
+Missing Resource: type='%d', ID=%d'.
+%d%%
+%d%%
+DISPLAY
+CG Times
+Tms Rmn
+Times-Roman
+Times-Italic
+Times-Bold
+Times-BoldItalic
+CG Universe
+Helv
+Helvetica
+Helvetica-Oblique
+Helvetica-Bold
+Helvetica-BoldOblique
+-BoldItalic
+-Italic
+-Bold
+.PRE
+.EPS
+.EPS
+.EPS
+.MFM
+.TXT
+.WMF
+.TIF
+.WMF
+.EQN
+.EQP
+MT%s.TMP
+EQNWINCLASS
+EQNINSITUCLASS
+%s - %s
+SCROLLBAR
+system\currentcontrolset\control\keyboard layout
+keyboard layout
+Active
+\layout.inf
+[OptionsTextENG]
+%08lX
+nstrtr
+Software\Microsoft\Office\Common\8.0\Command Bars\ButtonSize
+Arial
+Small Fonts
+Times New Roman
+MathType
+Native
+OwnerLink
+Rich Text Format
+WordPerfect Text
+WordPerfect Document
+DS Equation
+Mac PICT
+Embed Source
+Object Descriptor
+Embedded Object
+MATH
+&%d %s
+%ld%c%0*ld %s
+%ld %s
+  " 3
+& & 6
+0 0 7
+2 6 8
+9 : =
+> > ?
+@ @ @
+C D A
+"!"!]
+$!(!^
++!-!c
+/!8!f
+Y"Y"+
+)#*#
+S#S#
+p#p#
+#$#$
+>&>&
+=&=&
+`&g&
+m&o&
+ ' '"
+6'6'#
+='='$
+can't find chunk to free
++" #
+tooltips_class32
+EqnMenu
+EqnFltToolbar
+CTL3D32.DLL
+Ctl3dRegister
+Ctl3dAutoSubclass
+Ctl3dUnregister
+Ctl3dColorChange
+2 d"D 
+c&f&e&`&
+3 e"
+`"a"H"& 
+")"*"
+"	" "
+'"("
+*#+" #
+" " ^
+& & _
+2 3 `
+D D b
+"!"!f
+5!5!g
+"	"w
+ " "
+'"+"
+4"4"
+<"<"
+E"E"
+H"H"
+`"a"
+d"e"
+ #!#
+)#*#
+`&`&
+c&c&
+e&f&
+ !#%&()+,./0123456789:;<=>?[]_{|}
+ABGDEZHQIKLMNXOPRSTUFCYWabgdezhqiklmnxoprVstufcywJ
+##"#
+<"C"
+"k"\"Y"P"
+)"'!& 
+"%"5"!"""
+& & 
+5 5 
+D D 
+$!$!)
+'!'!*
+!"""9
+%"%";
+)"*"<
+5"5">
+<"<"?
+C"C"@
+P"P"A
+Y"Y"B
+\"\"C
+j"k"D
+z"{"F
+"###O
+#$%&K`
+wvsrt
+Jb^Z][a
+cCmoRSPIUQ:;BA@=?pfe<>MLNO)(WXYVdu
+\_12346785|~EFGH
+9 : 
+   ! 
+  " 
+0 0 
+9 : 
+ !"#$%&
+()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+abcdefghijklmnopqrstuvwxyz{|}~
+d"e"
+9 : 
+  " 
+& & 
+0 0 
+9 : 
+D D 
+"!"!
+&!&!
++"+"
+H"H"
+`"`"
+d"e"
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ &   ! 
+  " 
+& & 
+0 0 
+9 : 
+"!"!
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+e*#f)#
+imm32.dll
+ImmGetContext
+ImmReleaseContext
+ImmAssociateContext
+ImmGetConversionStatus
+ImmGetOpenStatus
+ImmSetOpenStatus
+ImmSetCompositionFontA
+ImmSetCompositionWindow
+ImmGetCompositionStringA
+ImmNotifyIME
+GlobalFree
+GlobalUnlock
+GlobalLock
+GlobalAlloc
+GlobalReAlloc
+GlobalSize
+lstrcmpiA
+OutputDebugStringA
+LocalAlloc
+MulDiv
+lstrcpyA
+lstrlenA
+IsBadReadPtr
+IsDBCSLeadByte
+RaiseException
+GlobalHandle
+lstrcmpA
+GetProfileStringA
+GetVersion
+LoadLibraryA
+FreeLibrary
+GetProcAddress
+GetACP
+LocalFree
+LocalLock
+LocalUnlock
+LocalReAlloc
+GlobalFlags
+FatalAppExitA
+GetTickCount
+GetModuleFileNameA
+GetWindowsDirectoryA
+_llseek
+_lclose
+OpenFile
+_lwrite
+_lread
+SetFilePointer
+SetEndOfFile
+LoadResource
+FindResourceA
+FreeResource
+LockResource
+SizeofResource
+MultiByteToWideChar
+GetLocaleInfoA
+GetSystemDirectoryA
+WideCharToMultiByte
+WinExec
+GetCPInfo
+GetSystemDefaultLangID
+SetErrorMode
+GetTimeZoneInformation
+GetSystemTime
+GetLocalTime
+GetLastError
+MoveFileA
+HeapFree
+HeapAlloc
+GetModuleHandleA
+GetStartupInfoA
+GetCommandLineA
+RtlUnwind
+LCMapStringA
+LCMapStringW
+HeapDestroy
+HeapCreate
+VirtualFree
+VirtualAlloc
+CloseHandle
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+GetOEMCP
+SetHandleCount
+GetFileType
+GetStdHandle
+WriteFile
+GetStringTypeA
+GetStringTypeW
+SetStdHandle
+FlushFileBuffers
+ReadFile
+CreateFileA
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+HeapReAlloc
+KERNEL32.dll
+EndDialog
+ReleaseDC
+GetWindowDC
+GetSystemMetrics
+wsprintfA
+DrawTextA
+GetClientRect
+GetDlgItem
+GetSysColor
+LoadBitmapA
+ShowWindow
+IsWindow
+IsRectEmpty
+DestroyMenu
+GetClassNameA
+GetWindowRect
+ClientToScreen
+GetWindowLongA
+IsIconic
+LoadMenuA
+GetDC
+RegisterClassA
+CreateWindowExA
+PostMessageA
+PostQuitMessage
+SetFocus
+SetForegroundWindow
+TranslateMessage
+GetParent
+InsertMenuA
+ModifyMenuA
+GetMenuStringA
+EnableMenuItem
+CreateMenu
+GetSubMenu
+RemoveMenu
+SetRectEmpty
+CheckMenuItem
+DestroyWindow
+MoveWindow
+SetWindowLongA
+CopyRect
+IntersectRect
+FillRect
+SetRect
+ScreenToClient
+EndPaint
+BeginPaint
+GetFocus
+IsDialogMessageA
+LoadCursorA
+LoadIconA
+DefWindowProcA
+KillTimer
+PeekMessageA
+GetKeyState
+FindWindowA
+GetMenu
+UpdateWindow
+IsWindowUnicode
+LoadStringA
+GetMenuItemCount
+IsWindowVisible
+ShowCursor
+PtInRect
+InflateRect
+GetCursorPos
+SetCursor
+SetScrollPos
+GetScrollRange
+GetScrollPos
+InvalidateRect
+GetAsyncKeyState
+SendMessageA
+CreateDialogParamA
+WinHelpA
+MessageBeep
+SetTimer
+GetCaretBlinkTime
+GetActiveWindow
+OffsetRect
+BringWindowToTop
+DialogBoxParamA
+MessageBoxA
+SetWindowPos
+EnableWindow
+SendDlgItemMessageA
+GetDialogBaseUnits
+IsDlgButtonChecked
+CheckDlgButton
+GetNextDlgTabItem
+SetScrollRange
+SetDlgItemTextA
+GetDlgItemTextA
+MapWindowPoints
+CheckRadioButton
+GetDoubleClickTime
+ReleaseCapture
+SetCapture
+RegisterClassW
+SetMenu
+SetWindowTextA
+GetWindowTextA
+InvalidateRgn
+ScrollDC
+IsZoomed
+AppendMenuA
+GetSystemMenu
+GetClassLongA
+GetClassLongW
+DispatchMessageA
+DispatchMessageW
+GetMessageW
+GetMessageA
+DefWindowProcW
+VkKeyScanA
+GetKeyboardLayout
+LoadKeyboardLayoutA
+ActivateKeyboardLayout
+GetKeyboardLayoutList
+InvertRect
+GetMenuCheckMarkDimensions
+RegisterClipboardFormatA
+CloseClipboard
+EmptyClipboard
+OpenClipboard
+IsClipboardFormatAvailable
+GetClipboardData
+SetClipboardData
+HiliteMenuItem
+GetMenuState
+GetMenuItemID
+DeleteMenu
+DrawMenuBar
+EqualRect
+UnionRect
+GetDesktopWindow
+GetMessagePos
+GetMessageTime
+SetParent
+GetClassInfoA
+USER32.dll
+DeleteObject
+DeleteDC
+SelectObject
+CreateCompatibleBitmap
+CreateCompatibleDC
+SetBkMode
+CreateFontIndirectA
+LineTo
+MoveToEx
+GetStockObject
+CreatePen
+GetObjectA
+BitBlt
+DeleteMetaFile
+CopyMetaFileA
+GetDeviceCaps
+SetBkColor
+SetTextColor
+PatBlt
+CreatePatternBrush
+CreateBitmap
+PtVisible
+GetTextFaceA
+CreateFontA
+ExtTextOutA
+SetMapMode
+GetMapMode
+GetCharWidthA
+GetCharWidth32A
+GetCharWidthW
+GetCharWidth32W
+GetBitmapBits
+TextOutA
+TextOutW
+SetTextAlign
+GetTextMetricsA
+Escape
+CreateICA
+EnumFontsA
+EnumFontFamiliesExA
+CreateSolidBrush
+CreateRectRgn
+SelectClipRgn
+SetRectRgn
+CreateRectRgnIndirect
+GetClipBox
+RectVisible
+SetROP2
+Ellipse
+Polygon
+SetMapperFlags
+ExtTextOutW
+GetTextExtentPoint32A
+SetWindowExtEx
+SetWindowOrgEx
+CreateMetaFileA
+CloseMetaFile
+RestoreDC
+EnumMetaFile
+SaveDC
+StretchBlt
+SetStretchBltMode
+PlayMetaFile
+SetViewportExtEx
+GetMetaFileBitsEx
+FillRgn
+CombineRgn
+Rectangle
+GDI32.dll
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+RegCreateKeyExA
+RegEnumKeyExA
+RegEnumValueA
+RegSetValueExA
+RegDeleteKeyA
+RegOpenKeyA
+RegQueryInfoKeyA
+ADVAPI32.dll
+OleSetClipboard
+OleFlushClipboard
+WriteClassStg
+OleGetClipboard
+ReleaseStgMedium
+StgCreateDocfileOnILockBytes
+CreateILockBytesOnHGlobal
+GetHGlobalFromILockBytes
+CoDisconnectObject
+CoLockObjectExternal
+OleUninitialize
+CoRegisterMessageFilter
+CoRevokeClassObject
+CoRegisterClassObject
+OleInitialize
+CreateOleAdviseHolder
+OleRegEnumFormatEtc
+CreateDataAdviseHolder
+WriteFmtUserTypeStg
+OleTranslateAccelerator
+OleCreateMenuDescriptor
+OleDestroyMenuDescriptor
+GetRunningObjectTable
+CoGetMalloc
+OleDuplicateData
+ole32.dll
+DragAcceptFiles
+SHELL32.dll
+COMCTL32.dll
+AppVIsvSubsystems32.dll
+wwwwwwwwww
+wwww
+wwwwww
+wwwp
+	wp	
+wwwwwwwwwwwwwwwwwwwwp
+wwwwwwwwwwwwwwwwwwwwp
+5UT/
+1N1[1d1
+2!2S2a2u284L4
+5%525C5I5X5c5n5
+6U6\6
+8&878=8B8L8`8u8{8
+9C9T9c9i9o9z9
+:,:<:T:n:u:
+;);0;=;z;
+;!<,<3<@<^<v<
+>%>:>H>u>z>
+50>0
+131:1@1K1l1
+2,2B2p2v2
+373M3i3o3
+444<4Y4g4
+525}5
+60666N6[6a6y6
+7'777D7J7k7q7
+81878
+8[9t9~9
+9&:L:
+:4;c;y;
+=&=w=
+1E1a1~1
+2.2t2+3
+979k9
+:B:P:W:
+=)=u=
+= >x>
+>%?[?v?
+g1o1
+2!2&222C2v2|2
+3?3i3
+3 4-4:4G4T4a4n4{4
+5*575D5Q5^5k5x5
+6!6.6;6H6
+7e7r7
+7!8.8;8H8U8b8o8|8
+9+989E9
+9?:I:W:a:~:
+;);a;
+<.=r=
+172e2
+6)7<7
+7$8(8,8084888<8@8G8
+9%:c:
+;%<^<
+= >R>
+2;3Z3
+5)535X5_5
+9	:x:G;a;k;u;
+<!<~<
+<y=Y>r>
+?)?<?a?z?
+1L1]1n1
+1"2]2
+4&5W5
+6,6O6V6
+7'7Y7
+:%:J:g:l:w:
+;/;<;I;V;c;p;};
+<:=L=
+>[?`?
+080C0S0m0w0
+1?1I1P1v1
+2+303y3(565
+7.898J8P8f8
+9`9x9
+9-:D:J:U:
+;@;p;
+><>i>
+?T?b?m?
+2K3m3
+4(444|4
+5&5=5
+5,6q6
+7'7\7w7
+8L8g8
+9<9W9h9D;
+<9<G<U<c<m<w<
+=)=R=h=
+=*>V>
+1B1s1
+8-8>8h8u8
+> >n>
+>J?a?
+0:0`0
+1J1W1x1}1
+1G2L2g2u2
+3'3V3j3{3
+5T5`5y5
+6)6R6_6v6
+7#727?7b7y7
+7C8T8y8
+9&989C9P9b9m9
+: :.:A:V:b:
+>*>0>C>o>
+0)0|0
+1'161x1
+1>2N2l2v2
+=-=A=[=
+=*>I>`>q>
+>'?.?2?6?:?>?B?F?
+7$7?7I7S7
+7(8H8f8
+8S9[9v9
+9,:2:p:
+;!;2;^;e;i;m;q;u;y;};
+:031:1>1B1F1J1N1R1V1Z1^1
+3.3G3Z3
+3<5L5S5a5q5x5
+6(6/6?6]6g6
+7'7?7K7R7
+8;8M8Z8g8
+9 9@9q9u9y9}9
+9G:M:
+;6;@;M;V;];e;n;
+<-<<<N<]<w<
+?-?s?
+090G0S0l0
+1C1S1u1
+3,3N3
+4.4N4U4b4i4t4
+7'737E7W7l7
+7M8^8
+9$9K9e9
+9$:5:D:
+=!=%=)=-=1=5=9===A=E=I=
+>=?X?
+0k1x1
+2(252A2Q2f2o2t2y2~2
+333O3]3q3
+4.52565:5>5B5F5J5N5R5
+6#6_6
+7<7T7k7$8/8
+;m;q;u;y;};
+=G=U=]=c=j=s=|=
+1B2A3c3h3
+4%4@4
+5 5{5
+829>9U9\9e9l9v9
+: :0:7:>:N:U:\:l:s:z:
+:';/;5;;;D;I;P;
+< =+=7=B=M=r=}=
+=0>9>
+?(?O?^?k?
+3S4~4
+5"5/5a6i6p6
+7#7P7W7q7z7
+8l8q8v8|8
+949C9w9
+;#;*;k;
+<(<;<^<
+=(=<=K=Q=c=m=
+2+2<2K2i2
+3+313B3H3Z3`3r3x3
+434B4g4
+5~5&6?6
+6d879t9O:=>
+9c;p;
+<C<I<P<i<|<
+=(=V=
+=E>s>}>
+5*6^6
+8 9X9`9
+<H=|=
+>4?w?
+3-363E3\3g3s3
+4m7f9|9
+:W:r:
+=!=&=2=8=_=
+3U5l5
+6;6f6p6
+7A7Z7z7
+1*1G1R1g1w1
+2'232<2@2E2R2[2a2
+3+303=3
+40494=4[4
+5a5l5
+616H6_6v6
+8 8'868=8C8
+9*9E9P9]9s9~9
+: :D:h:
+;3;:;_;
+<$<+<D<\<c<j<
+<D>_>
+>B?v?
+565_5
+848\8g8
+9-9:9S9$:D:e:
+<`=~>
+>??\?t?
+0!0>0N0
+0)1C1y1
+2+222E2L2Z2
+2&343L3i3
+4 4,4=4
+7V8a8
+;-;<;Q;e;
+<,<<<F<b<
+=#=/=J=k=p=
+=+>2>6>:>>>K>X>}>
+>L?P?T?X?\?`?d?h?l?
+1$1:1Q1c1
+2'212F2_2t2
+3(353^3e3i3m3q3u3y3}3
+4"4f4~4
+4m5t5x5|5
+7H7V7o7v7
+8-8_8i8
+949N9S9x9
+:+:D:]:j:
+;D;R;\;e;r;|;
+<+<B<p<
+='=;=\=m=~=
+?Q?b?
+0:0D0c0h0
+1*181H1W1s1
+23282H2M2c2|2
+3B384K4
+4]5y5
+:7;<;A;f;r;w;|;
+ 040>0S0
+2+212B2G2P2Z2_2j2~2
+3:3?3[3`3
+4*464=4R4g4l4y4
+535<5V5`5s5|5
+6'7F7a7w7
+8 8:8R8r8
+9&9k9u9
+9':.:2:6:::>:B:F:J:N:
+<8<M<v<
+<4=\=
+=3>M>_>q>z>
+?Z?p?
+0d0k0o0s0w0{0
+0`1e1
+2\2c2m2x2
+3m3t3x3|3
+4	525
+5F6R6c6t6
+7"7(7-7J7Q7f7{7
+8-939
+:7:X:y:
+=?=N=o=
+e0{0
+0)1\1t1
+2*242;2D2L2
+;!<?<
+=#=-=8=I=j=r=
+=.>5><>C>a>{>
+0H0U0b0
+3'363=3N3m3|3
+5b6i6m6q6u6y6}6
+;7;z;
+=1=G=h=i>~>
+?,?8???E?Q?a?i?o?u?~?
+:0x0
+0>1O1
+1=2`2s2z2
+4O5}5
+8!8*818
+=s>|>
+>c?|?
+.0G0q0}0
+2	3*3T4
+4$5@5\5
+;#<'<+</<3<M<c=
+051n1z1
+425C5
+6-7?7
+7<8w8!9t9z9
+92:D:Z:
+=4=v=
+>0>F>_>z>
+020C0c0r0x0
+0<1N1a1s1~1
+1*292J2R2
+2#3:3f3p3
+535E5W5n5
+606`6
+657D7Z7a7m7
+8)8Q8[8e8j8u8
+9%949E9i9v9
+:/;m<
+>+>m>u>
+3*363p3}3
+464H4\4
+5*5E5a5y5
+7&707W7a7
+8C8J8
+959<9W9
+:6:?:X:y:
+;3;S;_;
+<:<C<^<g<q<z<
+=<=P=e=
+>">+>?>I>x>
+?G?S?e?n?{?
+G0v0
+1?1^1r1
+242R2r2
+303l3}3
+414^4
+515=5y5
+6D6P6
+7%7I7Y7}7
+8$888Q8a8m8{8
+9:9]9
+:,:8:G:S:
+;#;G;};
+<"<.<g<
+=;=G=S=_=k=
+>)>|?
+0,0K0W0w0
+1B2i2
+243F3e3
+3"4p4
+5<5O5{5
+8E8_8u8
+<"<&<D<H<L<P<T<X<\<`<d<
+<"=G=
+>">&>
+10H0N0T0
+2O3V3
+3K4R4\4c4
+4K5S5
+7-7@7Z7d7x7
+7;8k8
+9,929M9|9
+97:L:
+;#;V;k;x;
+=)>>>V>_>n>
+?[?o?
+Z1c1
+363v3
+364S4
+6&636A6O6b6{6
+:+;g;x;
+<I<N<
+>=>N>W>b>w>
+?!?%?)?m?v?
+P0\0r0}0
+1%1D1X1R2
+5'5.54585@5H5m5x5
+6-868;8K8U8a8f8k8t8
+<$<7<@<`<
+=)=<=[=l=
+=+>5>f>p>
+>/?;?d?p?
+0-090K0d0p0
+101>1G1Q1[1e1
+1	2 2,2q2}2
+3e3q3
+8:8r8
+: ;,;G;S;y;
+1)1x1^3n3
+4#4C4O4p4|4
+5-5S5
+646>6
+9F9X9j9
+:	:):2:;:M:R:f:r:y:
+;-;4;9;@;F;c;
+<!<4<C<Y<}<
+=.=m=
+>)>0>o>
+?F?`?
+0(0>0h0r0y0
+151<1X1a1h1
+4$4.474W4e4
+7-878
+839M9x:
+;,;A;
+<D<R<x<
+=	>N>
+!0(01080Y0`0
+1W2o2v2
+2%3/373A3T3g3
+3!4A4
+6<6b6
+7'7^7
+778y8~8
+:;:E:S:]:g:
+: ;7;=;C;H;N;T;Y;_;e;j;p;v;{;
+<	<><M<\<
+<.=N=[=n=
+> >L>k>t>
+?Z?^?b?f?j?n?
+1/161
+3.3O3g3t3
+4*4>4v4
+5-5V5x5
+7o8E9l9
+;";Q;
+2#3<3u3
+4:4C4w4
+5,5A5P5k5y5~5
+<W<f<p<
+=N=d=v=
+^0e0i0m0q0u0y0}0
+2%3f3
+9G:/<`<"=k=u=
+>A>J>O>T>Y>^>c>s>
+?#?(?-?2?7?R?q?w?
+0/1Q1^1z1
+212v2n3]4h4
+7!7%7*737;7
+868@8D8I8U8[8j:
+>#>'>+>/>3>%?.?6?>?C?U?
+A0G0}0
+2!3-393H3R4
+7 7$7(7,707v7}7
+7-868K8
+8&9/9J9T9
+9%:j:
+;,;;;J;
+<.<==
+1)1>1S1o1x1
+4Q5}5
+>'?O?
+31585<5@5D5H5L5
+6@6W6g6
+;%;,;r<
+>7>G>j>t>
+u0*1G1
+4"484
+4$5p5
+6#7;7P7
+7O8p8;:
+<7=W=
+>,>H>
+?&?0?
+3&3D3}4
+5(5B5f5
+5H6j6
+9a9r9{9
+9&:5:>:G:]:f:1=x=
+707<7G7U7
+8,8D8
+:K;g;o;
+<3<K<e<
+<%=)=-=1=5=?=
+=	>^>
+? ???L?a?z?
+090E0Q0]0i0q0
+0I1p1V2
+3&313B3\3i3
+4!4S4
+545@5x5
+506F6@7
+8 8$8(8,8A8d8
+9,9=9J9V9\9
+:b:q:
+<;<D<N<
+> >+>@>I>
+000|0
+1V1j1
+242}2
+374I4R4]4q4
+5"525@5F5g5
+6U6f6y6
+8#8'8+8/83878
+8q9y9
+9!:):6:;:h:~:
+:==S=p=
+1,1C1S1d1t1
+1Q3^3j3t4
+4$567
+;I;S;<<K<
+2,2D2
+5 5g5
+556W6
+6E7d7
+9D9T9y9
+|0g1e3z3
+3*4a5
+5 6A6
+7.9:9
+99:n:
+M0n0
+1I2_2e2G4X4h4n4
+5U5g5~5
+888A8L8]8{8
+=2>D>h>
+2 292l2
+2m3q3u3y3}3
+8G8L8Q8
+90999N9\9l9v9
+;5<:<?<h<
+=!><>p>|>
+0S0d0
+4&595J5
+566;6v6
+7@8O8
+9!:*:
+;_<h<r<~<
+151U1_1
+?8?I?
+5.535?5X5
+7%858
+:9;C;
+{00161U1
+1 2&2G2w2}2
+3'3^3d3
+3J518=839w9$:$<[<
+<)?>?
+1:1H1T1b1p1
+2!2,2I2\2c2
+3#3'3+313A3b3
+4;4I4\4p4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5f5
+6,6K6Z6q6
+8%8*828O8\8j8q8
+9&9G9{9
+9+:R:z:
+:%;8=
+1*161B1H1b1h1
+21272Q2W2
+6)6F6O6^6w6
+7*757@7[7l7v7
+8(868P8e8s8
+;.<5<9<=<A<E<I<M<Q<U<Y<]<1=e=l=q=x=
+>&>8>L>
+?%?,?3?=?F?K?Q?d?j?
+0&090B0K0b0p0|0
+1#121@1P1]1
+232:2a2h2
+3 4/5j5
+5V6t6~6
+7)737p8t8x8|8
+8(:7:P:k:u:
+:c;d< ='=+=/=3=7=;=?=U>j>
+>P?Z?c?
+0<0M0
+1*1D1[1t1
+2&2M2
+3A3M3R3c3o3x3~3
+;2<v<
+=7=O=W=]=f=
+=M>b>
+?`?i?
+c0l0P1Y1H2N2]2v2
+383I3
+4'4:4N4X4b4
+5E5O5X5r5}5
+5+6<6o6
+7)9094989<9@9D9H9L9P9
+:=:F:R:|:
+?6?H?Q?d?
+0L0_0v0
+0*121e1y1
+1-222H2c2
+4A4H4
+637<7J7
+8'919l9v9
+9?:b:
+;3;};
+<Y<c<
+="=8=Y=d=}=
+=8>M>c>w>
+>E?^?r?
+90D0^0
+1,161D1R1^1
+2$2T2p2
+5	6P6
+8!838<8T8`8e8l8~8
+:;:O:
+:+;f;m;q;u;y;};o=
+>3>}>
+1%141>1K1Q1Y1j1t1{1
+202R2a2g2q2
+2k3S4
+525:5@5E5K5W5\5c5h5m5r5y5~5
+6"6)6.646H6V6g6q6{6
+;[;l;
+<)<<<S<]<
+='=D=Y=v=
+>!>>>S>p>
+>C?H?L?P?T?
+O0>2I2P2]2j2w2
+8=9F9Q9
+9L=Q=h=m=t=y=~=
+1 262X2
+4'4@4E4p4
+4/5z5
+546N6
+7-797>7U7`7{7
+8#8/888O8T8]8
+959;9E9K9e9l9t9
+9>:a:
+<-<S<e<
+0.0w0
+5 5$5(5,505
+6#6r6
+808C8V8_8m8
+959l9
+9-:3:C:O:[:q:
+; ;-;m;
+<$<\<z<
+=!=(=F=K=R=h=
+> >$>(>D>Q>V>\>a>
+> ?'?G?u?
+0E0L0A1P1e1
+2R2`2
+2	3)313A3I3g3
+4#4,444:4C4S4\4a4h4m4{4
+5?5Q5b5
+6-6;6R6g6o6{6
+7 7+747=7F7Q7Z7f7r7{7
+8,848<8D8j8
+8:9C9\9e9z9
+:):0:E:V:^:l:~:
+;U;};
+<;<C<^<c<v<
+=	>#>C>R>a>~>
+?&?6?I?[?e?
+171Z1i1
+1	2"2,282A2L2Z2d2y2
+4Z5d5
+6;6E6
+6"7,7y7
+8(8E8P8V8
+:&:.:3:;:@:R:\:t:
+;1;N;^;
+<-<y<
+<F=P=i=
+>C>T>
+>'?1?M?^?
+1<1H1u1
+2f2w2
+2&3=3K3g3
+6G6Y6o6{6
+718?8X9
+90:9:J:
+= >O>
+0!1U1
+1Q3g3
+3$3(3
+1 1$1(1
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3
+9 9$9(9,9094989<9@9D9H9L9P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>P>X>\>
+?0?8?<?@?D?L?P?h?t?x?|?
+0,000H0T0
+5 5(505
+7 :(:,:0:4:8:<:@:X:`:d:h:l:t:x:
+3 3<7
+4"4)4-41484<4@4G4K4O4V4Z4^4e4i4m4t4x4|4
+5!5(5,50575;5?5F5J5N5U5Y5]5d5h5l5s5w5{5
+6'6+666:6E6I6T6X6c6g6k6r6v6
+9(94989<9D9
+> >$>(>,>0>4>d>p>x>
+> ?$?,?0?4?8?<?`?d?l?p?t?
+4 5$5
+4$4,444<4D4L4T4\4d4
+Z0X03
+>0!0	
+/VOU
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+120726205041Z
+131026205041Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+@w7!0t[
+L4l>G
+g}W>5
+&[>[]
+^ESX
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+jmtRd
+*\ik
+![k;
+% #0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222559Z
+130409222559Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service0
++g,d
+Vi7:*
+|pEa~
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+o<	N
+7_{i
+x\+x
+\jW(
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+eT0f
+1X0V
+http://office.microsoft.com 0
+\H*_dI
+m+%BB
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120815164215Z0#
+(L0'
+!]+L
+1'u:s
+y?j=f
+l5?%

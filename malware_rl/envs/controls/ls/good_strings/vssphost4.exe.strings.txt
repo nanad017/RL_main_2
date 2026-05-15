@@ -1,0 +1,518 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+8+uS|j
+iF'5
+9_L0
+	jo%
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+vssphost4.exe
+Program
+Microsoft.VisualStudio.SharePoint.Commands
+InstanceProvider
+LocalizationBehavior
+SomaServiceAuthorizationManager
+mscorlib
+System
+Object
+System.ServiceModel
+System.ServiceModel.Dispatcher
+IInstanceProvider
+System.ServiceModel.Description
+IEndpointBehavior
+IDispatchMessageInspector
+ServiceAuthorizationManager
+ServiceHost
+_commandServiceHost
+System.Threading
+AutoResetEvent
+_processExitEvent
+Main
+ConfigureThreadPool
+NetNamedPipeBinding
+CreateCommandServiceHost
+.ctor
+EventWaitHandle
+InstanceContext
+System.ServiceModel.Channels
+Message
+GetInstance
+ReleaseInstance
+ServiceEndpoint
+BindingParameterCollection
+AddBindingParameters
+ClientRuntime
+ApplyClientBehavior
+EndpointDispatcher
+ApplyDispatchBehavior
+Validate
+CurrentCultureHeader
+CurrentUICultureHeader
+LocalizationNamespace
+IClientChannel
+AfterReceiveRequest
+BeforeSendReply
+System.Security.Principal
+SecurityIdentifier
+_sid
+Guid
+_clientId
+OperationContext
+CheckAccessCore
+args
+baseUri
+authorizationManager
+binding
+processExitEvent
+instanceContext
+message
+instance
+endpoint
+bindingParameters
+clientRuntime
+endpointDispatcher
+request
+channel
+reply
+correlationState
+clientId
+operationContext
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+System.Resources
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+vssphost4
+LoaderOptimizationAttribute
+LoaderOptimization
+EventArgs
+<Main>b__0
+sender
+eventArgs
+EventHandler
+CS$<>9__CachedAnonymousMethodDelegate1
+CompilerGeneratedAttribute
+String
+StringComparison
+StartsWith
+StringComparer
+get_OrdinalIgnoreCase
+Boolean
+TrueString
+Concat
+Equals
+Debugger
+Break
+get_Length
+Remove
+System.Globalization
+CultureInfo
+get_InvariantCulture
+Convert
+IFormatProvider
+ToInt32
+NetNamedPipeSecurityMode
+get_MaxReceivedMessageSize
+set_MaxReceivedMessageSize
+System.Runtime.Serialization
+System.Xml
+XmlDictionaryReaderQuotas
+get_Max
+set_ReaderQuotas
+TimeSpan
+MaxValue
+Binding
+set_ReceiveTimeout
+NetNamedPipeSecurity
+get_Security
+NamedPipeTransportSecurity
+get_Transport
+System.Net.Security
+ProtectionLevel
+set_ProtectionLevel
+EventResetMode
+WaitHandle
+Close
+Process
+GetProcessById
+set_EnableRaisingEvents
+add_Exited
+WaitOne
+CommunicationObject
+Environment
+Exit
+Exception
+ThreadPool
+GetMinThreads
+SetMinThreads
+Microsoft.VisualStudio.SharePoint.Commands.Implementation.v4
+SharePointCommandService
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+ServiceHostBase
+ServiceAuthorizationBehavior
+get_Authorization
+set_ServiceAuthorizationManager
+ServiceDescription
+get_Description
+System.Collections.Generic
+KeyedByTypeCollection`1
+IServiceBehavior
+get_Behaviors
+ServiceThrottlingBehavior
+set_MaxConcurrentSessions
+System.Collections.ObjectModel
+Collection`1
+ISharePointCommandService
+get_FullName
+AddServiceEndpoint
+Open
+get_ShutdownHostProcess
+Dispose
+DispatchRuntime
+get_DispatchRuntime
+set_InstanceProvider
+SynchronizedCollection`1
+get_MessageInspectors
+MessageHeaders
+get_Headers
+FindHeader
+GetHeader
+Thread
+get_CurrentThread
+GetCultureInfo
+set_CurrentCulture
+set_CurrentUICulture
+ServiceSecurityContext
+get_ServiceSecurityContext
+get_IsAnonymous
+WindowsIdentity
+get_WindowsIdentity
+get_User
+op_Inequality
+get_IncomingMessageHeaders
+ClientIdHeader
+ReadHeader
+RSA1
+(]b,
+=t]o-
+vssphost4.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\BizAppsServer\vssphost4.csproj__1365677205\objr\x86\vssphost4.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        -->
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</asmv1:assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+[_[0F
+1806
+http://microsoft.com0
+@[U<*
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014748Z0#
+(T~:
+c%cM
+RE`	w
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1806
+http://microsoft.com0
+46$m.
+ 5AQ
+20120727014750.721Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+xR%'
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+<05w,
+|Ohz

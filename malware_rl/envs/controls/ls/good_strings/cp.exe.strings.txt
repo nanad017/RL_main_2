@@ -1,0 +1,628 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+U i~
+}$f;G
+:f9>u
+[^_]
+8/tE
+[^_]
+.exe
+.exe
+T$ 1
+[^_]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+,[^_]
+[^_]
+ [^]
+,[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+3.~1~
+<[^_]
+[^_]
+[^_]
+ [^]
+ [^]
+8/tO
+8\t=
+[^_]
+ueI9
+9[^_]
+[^_]
+[^_]
+[^_]
+Y iV$
+u9iF
+gfff
+gfff
+.lnk
+[^_]
+,[^_]
+[^_]
+90t 
+Y[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+f9<Bt
+[^_]
+[^_]
+[^_]
+SwE9P tE
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+OD!M
+[^_]
+[^_]
+K4@F
+,[^_]
+,[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+[^_]
+9ZDr4
+9ZDs
+[^_]
+[^_]
+[^_]
+S8t=
+[^_]
+[^_]
+[^_]
+=UUU
+=UUU
+[^_]
+[^_]
+!CP1
+	CP1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t+F9
+<[^_]
+[^_]
+9V(w
+@;F t,
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	CP1
+,[^_]
+,[^_]
+,[^_]
+[^_]
+B;S 
+[^_]
+;{ s
+B;V 
+B;Q 
+;G s
+;^ s
+;s s
+B;Q 
+;^ s
+9^(w
+;F s
+;F s
+v::U
+9K(w
+Z[^_]
+Z[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+u`9]
+[^_]
+B$;B(t
+;B,t
+;B0t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u`C9]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+=TUU
+[^_]
+9_Pu
+[^_]
+[^_]
+9Fh|Z
+[^_]
+9Fh}
+[^_]
+[^_]
+uQCtN
+[^_]
+[^_]
+[^_]
+u8Ct5
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+wd9S tO
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u$C;]
+Kl;M
+[^_]
+wX9W
+rh;u
+~Xvw
+;F s
+[^_]
+[^_]
+B4@t1
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+3w71
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+=eff
+Sdv!
+9Chs
+[^_]
+pl;pp
+[^_]
+[^_]
+[^_]
+never
+auto
+always
+query
+archive
+backup
+copy-contents
+dereference
+force
+interactive
+link
+no-dereference
+no-preserve
+no-target-directory
+one-file-system
+parents
+path
+preserve
+recursive
+remove-destination
+reply
+sparse
+strip-trailing-slashes
+suffix
+symbolic-link
+target-directory
+update
+verbose
+help
+version
+Try `%s --help' for more information.
+Usage: %s [OPTION]... [-T] SOURCE DEST
+  or:  %s [OPTION]... SOURCE... DIRECTORY
+  or:  %s [OPTION]... -t DIRECTORY SOURCE...
+Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --archive                same as -dpR
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+      --copy-contents          copy contents of special files when recursive
+  -d                           same as --no-dereference --preserve=link
+  -f, --force                  if an existing destination file cannot be
+                                 opened, remove it and try again
+  -i, --interactive            prompt before overwrite
+  -H                           follow command-line symbolic links
+  -l, --link                   link files instead of copying
+  -L, --dereference            always follow symbolic links
+  -P, --no-dereference         never follow symbolic links
+  -p                           same as --preserve=mode,ownership,timestamps
+      --preserve[=ATTR_LIST]   preserve the specified attributes (default:
+                                 mode,ownership,timestamps), if possible
+                                 additional attributes: links, all
+      --no-preserve=ATTR_LIST  don't preserve the specified attributes
+      --parents                use full source file name under DIRECTORY
+  -R, -r, --recursive          copy directories recursively
+      --remove-destination     remove each existing destination file before
+                                 attempting to open it (contrast with --force)
+      --sparse=WHEN            control creation of sparse files
+      --strip-trailing-slashes remove any trailing slashes from each SOURCE
+                                 argument
+  -s, --symbolic-link          make symbolic links instead of copying
+  -S, --suffix=SUFFIX          override the usual backup suffix
+  -t, --target-directory=DIRECTORY  copy all SOURCE arguments into DIRECTORY
+  -T, --no-target-directory    treat DEST as a normal file
+  -u, --update                 copy only when the SOURCE file is newer
+                                 than the destination file or when the
+                                 destination file is missing
+  -v, --verbose                explain what is being done
+  -x, --one-file-system        stay on this file system
+      --help     display this help and exit
+      --version  output version information and exit
+By default, sparse SOURCE files are detected by a crude heuristic and the
+corresponding DEST file is made sparse as well.  That is the behavior
+selected by --sparse=auto.  Specify --sparse=always to create a sparse DEST
+file whenever the SOURCE file contains a long enough sequence of zero bytes.
+Use --sparse=never to inhibit creation of sparse files.
+The backup suffix is `~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.
+The version control method may be selected via the --backup option or through
+the VERSION_CONTROL environment variable.  Here are the values:
+  none, off       never make backups (even if --backup is given)
+  numbered, t     make numbered backups
+  existing, nil   numbered if numbered backups exist, simple otherwise
+  simple, never   always make simple backups
+As a special case, cp makes a backup of SOURCE when the force and backup
+options are given and SOURCE and DEST are the same name for an existing,
+regular file.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+failed to preserve times for %s
+failed to preserve ownership for %s
+failed to preserve permissions for %s
+failed to get attributes of %s
+%s exists but is not a directory
+cannot make directory %s
+accessing %s
+target %s is not a directory
+missing destination file operand after %s
+Cannot combine --target-directory (-t) and --no-target-directory (-T)
+%s -> %s
+missing file operand
+extra operand %s
+with --parents, the destination must be a directory
+mode
+timestamps
+ownership
+links
+coreutils
+/usr/share/locale
+SIMPLE_BACKUP_SUFFIX
+abdfHilLprst:uvxPRS:T
+--preserve
+multiple target directories specified
+--sparse
+--reply
+the --reply option is deprecated; use -i or -f instead
+Jim Meyering
+David MacKenzie
+Torbjorn Granlund
+5.97
+GNU coreutils
+cannot make both hard and symbolic links
+backup type
+cannot access %s
+skipping file %s, as it was replaced while being copied
+cannot open %s for reading
+reading %s
+closing %s
+cannot fstat %s
+cannot create regular file %s
+setting permissions for %s
+writing %s
+preserving times for %s
+cannot lseek %s
+cannot remove %s
+failed to preserve ownership for %s
+%s: overwrite %s, overriding mode %04lo? 
+/usr/src/coreutils/coreutils-5.97/src/copy.c
+x->move_mode
+%s: overwrite %s? 
+cannot stat %s
+%s -> %s
+omitting directory %s
+%s -> %s (unbackup)
+cannot create hard link %s to %s
+cannot move %s to a subdirectory of itself, %s
+cannot create link %s
+will not create hard link %s to directory %s
+warning: source file %s specified more than once
+ (backup: %s)
+cannot un-backup %s
+backing up %s would destroy source;  %s not moved
+cannot create directory %s
+%s and %s are the same file
+cannot create special file %s
+cannot create symbolic link %s to %s
+cannot copy cyclic symbolic link %s
+%s: can make relative symbolic links only in current directory
+cannot copy a directory, %s, into itself, %s
+cannot create fifo %s
+%s -> %s
+cannot move %s to %s
+cannot move directory onto non-directory: %s -> %s
+%s has unknown file type
+cannot overwrite non-directory %s with directory %s
+cannot overwrite directory %s with non-directory
+will not overwrite just-created %s with %s
+cannot create symbolic link %s
+backing up %s would destroy source;  %s not copied
+inter-device move failed: %s to %s; unable to remove target
+cannot read symbolic link %s
+cannot backup %s
+.exe
+VALID_SPARSE_MODE (co->sparse_mode)
+VALID_BACKUP_TYPE (co->backup_type)
+!(co->hard_link && co->symbolic_link)
+co != NULL
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+ambiguous argument %s for %s
+invalid argument %s for %s
+Valid arguments are:
+  - `%s'
+, `%s'
+none
+simple
+never
+existing
+numbered
+VERSION_CONTROL
+$VERSION_CONTROL
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+write error
+%s: %s
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+memory exhausted
+# entries:         %lu
+# buckets:         %lu
+# buckets used:    %lu (%.2f%%)
+max bucket length: %lu
+Offf?
+Offf?
+=fff?
+literal
+shell
+shell-always
+escape
+locale
+clocale
+Copyright %s %d Free Software Foundation, Inc.
+^[yY]
+^[nN]
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+LC_ALL
+LC_CTYPE
+LANG
+UTF-8
+UTF8
+/usr/src/coreutils/coreutils-5.97/lib/regcomp.c
+!IS_EPSILON_NODE (node->token.type)
+node->next == NULL
+REG_VALID_INDEX (right)
+REG_VALID_INDEX (left)
+alnum
+space
+upper
+lower
+cntrl
+alpha
+digit
+print
+blank
+graph
+punct
+xdigit
+/usr/src/coreutils/coreutils-5.97/lib/regexec.c
+pmatch[0].rm_so == start
+regs_allocated == REG_FIXED
+regs->rm_num_regs >= nregs
+mctx.input.offsets_needed == 0
+err == REG_ESPACE
+REG_VALID_INDEX (num)
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+__mb_cur_max
+_ctype_
+_write
+abort
+access
+atexit
+calloc
+chmod
+close
+closedir
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fchmod
+fchown
+fclose
+fcntl
+fflush
+fprintf
+fputs
+free
+fstat
+fsync
+ftruncate
+getc
+getegid
+getenv
+geteuid
+getgid
+getgroups
+getpagesize
+getuid
+lchown
+link
+lseek
+lstat
+malloc
+memcpy
+memmove
+memset
+mkdir
+mkfifo
+mknod
+open
+opendir
+pathconf
+putc
+read
+readdir
+readlink
+realloc
+rename
+setlocale
+stat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+symlink
+umask
+unlink
+utime
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

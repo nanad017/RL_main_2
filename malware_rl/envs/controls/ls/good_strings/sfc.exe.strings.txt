@@ -1,0 +1,384 @@
+!This program cannot be run in DOS mode.
+1,yW
+1/yG
+1.yW
+12y\
+1*y^
+10yR
+1-yR
+yRichS
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+SqmIsWindowsOptedIn
+SqmGetSession
+SqmSetAppId
+SqmEndSession
+SqmStartUpload
+SqmWaitForUploadComplete
+SqmSet
+SqmCreateNewId
+SqmWriteSharedMachineId
+SqmSetMachineId
+SqmReadSharedMachineId
+SqmAddToStreamString
+SqmAddToStreamDWord
+SqmSetUserId
+SqmWriteSharedUserId
+SqmReadSharedUserId
+SqmSetAppVersion
+Info
+ in the store
+hash mismatch
+file is missing
+file cannot be checked
+, manifest is damaged
+TRUE
+FALSE
+repair
+member file
+verify
+component files for
+corrupted file
+Cannot
+Could
+not reproject corrupted file
+Recovered
+manifest from backup for
+Repaired
+file
+Repairing
+This
+component was referenced by
+Unable
+to repair
+Component
+not found:
+[SR]
+FSssBindServicingStack
+SssPreloadDownlevelDependencies
+SssReleaseServicingStack
+SssGetServicingStackFilePathLength
+SssGetServicingStackFilePath
+SfpInitialize
+SfpFinalize
+pscz
+base\cbs\util\cbsstr.cpp
+pcch
+psczPath
+Assertion failed in %s(%i)
+Assertion failed in %s(%i)
+ASSERT: %s
+Assert failed to build string.
+RSDSvz
+sfc.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+ua95d
+FY;5`
+FPPVP
+PQQQQQQh 
+j=Xf9G
+j=Xf9G
+j=Xf9G
+*j	hP
+u{j=Xf9G
+t-f9:t(
+f99t
+f98t
+f98t	
+f99u
+SVWhd
+YY9w
+0_^[]
+SVW3
+QSVW
+j.Zf;
+t`j.Zf;
+t7j.Zf;
+W95t
+C4!7
+C8_^3
+QSVW3
+WWWW
+Whp9@
+9G0uZ
+tkSj\
+lVj@3
+D$4VP
+;C0r
+;N0s
+SVWj	
+SVW3
+SVW3
+x|Wj
+xfWj
+xPWj;j
+x:Wj;j
+QQSV
+t;WS
+SVWj
+QQSV3
+QQSV3
+p892t
+Zj	X
+SVWj
+SVW3
+SVW3
+QQPQ
+QQPQ
+SVWh
+9C4t7=
+^j"W
+SVW3
+@Ph_
+tqPW
+SVW3
+SVWj
+QQSVW
+xH9]
+QQSVW
+\_[t	
+t"PRh
+h0r@
+F95p
+t#ht
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+WVS3
+AllocateAndInitializeSid
+FreeSid
+CheckTokenMembership
+RegQueryValueExW
+RegEnumValueW
+RegOpenKeyExW
+RegCloseKey
+ADVAPI32.dll
+FormatMessageW
+HeapSetInformation
+CloseHandle
+LocalFree
+MapViewOfFile
+UnmapViewOfFile
+FreeLibrary
+HeapAlloc
+SystemTimeToFileTime
+CompareFileTime
+HeapFree
+WaitForSingleObject
+SetEvent
+GetProcessHeap
+LoadLibraryW
+GetVersionExW
+FileTimeToSystemTime
+GetModuleFileNameW
+CreateFileW
+GetFileSizeEx
+GetLastError
+GetProcAddress
+GetLocalTime
+CreateFileMappingW
+LocaleNameToLCID
+CreateEventW
+GetProductInfo
+GetSystemInfo
+QueueUserWorkItem
+GetFileTime
+GetUserDefaultUILanguage
+GetDiskFreeSpaceExW
+KERNEL32.dll
+_wcsicmp
+_wcsnicmp
+wprintf
+_fileno
+_setmode
+_getmbcp
+_wtof
+wcschr
+_strnicmp
+swscanf
+wcstoul
+strstr
+atoi
+strtok
+wcsrchr
+wcsstr
+_vsnwprintf
+strtoul
+wcstok
+free
+malloc
+_callnewh
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+RtlExpandEnvironmentStrings_U
+RtlAnsiStringToUnicodeString
+RtlInitUnicodeString
+RtlInitAnsiString
+RtlFreeUnicodeString
+ntdll.dll
+OLEAUT32.dll
+GetFileVersionInfoW
+VerQueryValueW
+GetFileVersionInfoSizeW
+VERSION.dll
+PowerDeterminePlatformRole
+POWRPROF.dll
+CoCreateInstance
+CoUninitialize
+CoInitializeEx
+CoGetMalloc
+api-ms-win-core-com-l1-1-1.dll
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+LoadLibraryExW
+GetWindowsDirectoryW
+lstrcmpiW
+__iob_func
+GetErrorMode
+SetErrorMode
+OutputDebugStringA
+DebugBreak
+_vsnprintf
+_ftol2
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="1.0.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.WindowsResourceProtection.SFC"
+    type="win32"
+<description>System integrity check and repair</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+1$;(;0;8;g=
+=*>V>^>e>k>s>}>
+?"?K?f?v?
+0!0U0\0
+2.373=3
+4S4]4n4
+5%505]5o5
+516<6Q6h6
+7$7*7Q9
+:E:n:
+:;;B;|;
+< <:<A<q<
+=(=7=?=S=Z=f=u={=
+?"?'?,?1?6?;?@?E?J?O?Y?~?
+0,02080=0J0P0V0[0h0n0t0y0
+1"1(1-161<1B1G1P1V1\1a1j1p1v1{1
+2&21272j2r2z2
+3&3-33393A3L3R3f3l3r3z3
+4	4:4y4
+5M5]5
+7R8\8
+9;9C9N9
+90:<:C:I:N:Z:a:g:l:x:
+;@;T;[;j;
+=*===D=x=
+>A?K?
+000:0C0K0R0h0t0
+0K1\1m1
+2#2*222>2D2X2u2
+273>3t3
+3]4d4
+5m6t6
+7=8]8
+9'9.9g9}9
+:Q:j:
+:,;[;h;o;};
+<^<c<u<{<
+>/>r>
+?(?R?b?p?w?|?
+0-0Y0
+0A1w1
+3 373M3]3s3
+4%484D4
+465P5\5
+6P6v6
+7 747N7X7
+7-8A8L8Z8e8t8
+9!9/9A9O9`9
+9/:K:]:d:
+;%;5;=;L;X;g;s;
+<$<2<:<@<N<V<\<j<r<z<
+<!=6=D=T=x=
+=.>`>k>
+>??E?K?P?Y?_?e?j?p?u?{?
+0$0/090G0P0Y0a0
+2+2;2G2N2S2X2]2b2g2p2}2
+2)343A3P3Y3d3v3~3
+6)6=6U6c6o6u6{6
+6,737
+8?9q9
+9":r:}:
+<&<0<9<C<O<U<\<e<k<s<y<
+='=2=D=L=Q=V=x=~=
+>">(>2>8>A>F>c>
+>9?Q?W?f?r?
+2 2D2R2]2z2
+3%3+31373=3C3J3Q3X3_3f3m3t3|3
+414N4
+4r5~5
+6$6(6

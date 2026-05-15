@@ -1,0 +1,305 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+,[^_]
+[^_]
+ [^]
+,[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<W~3
+K Z[]
+K Y[]
+[^_]
+time
+no-create
+date
+file
+reference
+help
+version
+atime
+access
+mtime
+modify
+failed to get attributes of %s
+setting times of %s
+cannot touch %s
+closing %s
+creating %s
+Try `%s --help' for more information.
+Usage: %s [OPTION]... FILE...
+Update the access and modification times of each FILE to the current time.
+Mandatory arguments to long options are mandatory for short options too.
+  -a                     change only the access time
+  -c, --no-create        do not create any files
+  -d, --date=STRING      parse STRING and use it instead of current time
+  -f                     (ignored)
+  -m                     change only the modification time
+  -r, --reference=FILE   use this file's times instead of current time
+  -t STAMP               use [[CC]YY]MMDDhhmm[.ss] instead of current time
+  --time=WORD            change the specified time:
+                           WORD is access, atime, or use: equivalent to -a
+                           WORD is modify or mtime: equivalent to -m
+      --help     display this help and exit
+      --version  output version information and exit
+Note that the -d and -t options accept different time-date formats.
+If a FILE is -, touch standard output.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+coreutils
+/usr/share/locale
+acd:fmr:t:
+--time
+cannot specify times from more than one source
+invalid date format %s
+missing file operand
+Randy Smith
+Arnold Robbins, Jim Kingdon, David MacKenzie
+Paul Rubin
+5.97
+GNU coreutils
+touch
+POSIXLY_CORRECT
+warning: `touch %s' is obsolete; use `touch -t %04ld%02d%02d%02d%02d.%02d'
+ambiguous argument %s for %s
+invalid argument %s for %s
+Valid arguments are:
+  - `%s'
+, `%s'
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+_POSIX2_VERSION
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+write error
+%s: %s
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+  !!!!!""""#########$$%%%%%%%%%%%%%%%%%%%%%&&&&&&''(())*++,,
+GIFH
++.47<1
+#),258/
+>?ABC@*-3690
+:;'"
+!& M
+$LNK
+ !"#$%	
+39:<
+;<=>?@AUZBCV
+D2_W
+F56789:
++,-./0156789:U)*(]
+NOGHIJPKQYRS[^T
+ !"#$%&*
+,+syntax error
+memory exhausted
+A.M.
+P.M.
+JANUARY
+FEBRUARY
+MARCH
+APRIL
+JUNE
+JULY
+AUGUST
+SEPTEMBER
+SEPT
+OCTOBER
+NOVEMBER
+DECEMBER
+SUNDAY
+MONDAY
+TUESDAY
+TUES
+WEDNESDAY
+WEDNES
+THURSDAY
+THUR
+THURS
+FRIDAY
+SATURDAY
+YEAR
+MONTH
+FORTNIGHT
+WEEK
+HOUR
+MINUTE
+SECOND
+TOMORROW
+YESTERDAY
+TODAY
+LAST
+THIS
+NEXT
+FIRST
+THIRD
+FOURTH
+FIFTH
+SIXTH
+SEVENTH
+EIGHTH
+NINTH
+TENTH
+ELEVENTH
+TWELFTH
+WEST
+BRST
+CLST
+AKST
+AKDT
+HAST
+HADT
+CEST
+MEST
+MESZ
+EEST
+SAST
+NZST
+NZDT
+TZ="
+XXX%s%ld:%02d
+literal
+shell
+shell-always
+escape
+locale
+clocale
+Copyright %s %d Free Software Foundation, Inc.
+memory exhausted
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+_ctype_
+_tzname
+abort
+asctime
+atexit
+calloc
+close
+ctime
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fcntl
+fflush
+fputs
+free
+fstat
+fsync
+getenv
+gettimeofday
+gmtime
+localtime
+malloc
+memcpy
+memset
+open
+putc
+realloc
+setenv
+setlocale
+sprintf
+stat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strtol
+time
+unsetenv
+utime
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

@@ -1,0 +1,564 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+*.r/
+*2ra
++/	(
+*.(K
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+Could not fix registry key {0}.
+#Could not open sub key key {0}\{1}.
+3Error: direct launching this tool is not supported.
+	{0} - OK.
+!{0} - Reorder non-canonical ACEs.
+!{0} - Set SE_DACL_AUTO_INHERITED.
+Unknown error '{0}'.
+#{0} is not supported as a base key.
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+FixSqlRegistryKey.exe
+AssemblyVersionInfo
+Microsoft.SqlServer.Configuration.FixSqlRegistryKey
+Keys
+Program
+NativeConstants
+SE_OBJECT_TYPE
+ACL_SIZE_INFORMATION
+ACL_INFORMATION_CLASS
+NativeMethods
+SafeRegistryHandle
+Win32Error
+mscorlib
+System
+Object
+Enum
+ValueType
+Microsoft.Win32.SafeHandles
+SafeHandleZeroOrMinusOneIsInvalid
+VersionString
+MajorVersion
+BuildVersion
+ProductVersionString
+ProductNameString
+ProductNameBrandingString
+VersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+evalTimeBombValue
+currentReleaseTimeBombValue
+VersionBIDSHelpNamespace
+get_VersionHelpNamespace
+VersionHelpNamespace
+.ctor
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+get_DirectLaunchNotSupported
+CouldNotFixKey
+CouldNotOpenSubKey
+ReorderACL
+SetInheritedFlag
+KeyOK
+UnsupportedRootKeyType
+UnknownHResult
+Culture
+DirectLaunchNotSupported
+System.Resources
+ResourceManager
+resourceManager
+_culture
+GetString
+SUCCESS
+KEY_CHECK_OR_FIX_FAILURE
+DIRECT_LAUNCH_NOT_SUPPORTED
+LaunchArgument
+HKLM
+HKCU
+Main
+Microsoft.Win32
+RegistryKey
+FixRegistryKeyAndSubKeys
+FixRegistryKey
+SecurityDescriptorToByteArray
+HasAutoInheritFlagSet
+SetAutoInheritFlag
+ReorderNonInheritedAcesInDacl
+GetSecurityDescriptorControl
+ContainsInheritedAce
+IsCanonical
+OpenKey
+GetBaseKey
+GetSubKey
+ExecuteNative
+ERROR_SUCCESS
+ERROR_ACCESS_DENIED
+FORMAT_MESSAGE_ALLOCATE_BUFFER
+FORMAT_MESSAGE_IGNORE_INSERTS
+FORMAT_MESSAGE_FROM_SYSTEM
+FORMAT_MESSAGE_ARGUMENT_ARRAY
+INHERIT_ONLY_ACE
+INHERITED_ACE
+ACCESS_MIN_MS_ACE_TYPE
+ACCESS_ALLOWED_ACE_TYPE
+ACCESS_DENIED_ACE_TYPE
+SYSTEM_AUDIT_ACE_TYPE
+SYSTEM_ALARM_ACE_TYPE
+ACCESS_MAX_MS_V2_ACE_TYPE
+ACCESS_ALLOWED_COMPOUND_ACE_TYPE
+ACCESS_MAX_MS_V3_ACE_TYPE
+ACCESS_MIN_MS_OBJECT_ACE_TYPE
+ACCESS_ALLOWED_OBJECT_ACE_TYPE
+ACCESS_DENIED_OBJECT_ACE_TYPE
+SYSTEM_AUDIT_OBJECT_ACE_TYPE
+SYSTEM_ALARM_OBJECT_ACE_TYPE
+ACCESS_MAX_MS_OBJECT_ACE_TYPE
+ACCESS_MAX_MS_V4_ACE_TYPE
+ACCESS_MAX_MS_ACE_TYPE
+ACCESS_ALLOWED_CALLBACK_ACE_TYPE
+ACCESS_DENIED_CALLBACK_ACE_TYPE
+ACCESS_ALLOWED_CALLBACK_OBJECT_ACE_TYPE
+ACCESS_DENIED_CALLBACK_OBJECT_ACE_TYPE
+SYSTEM_AUDIT_CALLBACK_ACE_TYPE
+SYSTEM_ALARM_CALLBACK_ACE_TYPE
+SYSTEM_AUDIT_CALLBACK_OBJECT_ACE_TYPE
+SYSTEM_ALARM_CALLBACK_OBJECT_ACE_TYPE
+ACCESS_MAX_MS_V5_ACE_TYPE
+OWNER_SECURITY_INFORMATION
+GROUP_SECURITY_INFORMATION
+DACL_SECURITY_INFORMATION
+SACL_SECURITY_INFORMATION
+KEY_QUERY_VALUE
+KEY_SET_VALUE
+KEY_CREATE_SUB_KEY
+KEY_ENUMERATE_SUB_KEYS
+KEY_NOTIFY
+KEY_CREATE_LINK
+KEY_WOW64_32KEY
+KEY_WOW64_64KEY
+KEY_WOW64_RES
+KEY_READ
+KEY_WRITE
+KEY_ALL_ACCESS
+DELETE
+READ_CONTROL
+WRITE_DAC
+WRITE_OWNER
+SYNCHRONIZE
+STANDARD_RIGHTS_READ
+STANDARD_RIGHTS_WRITE
+STANDARD_RIGHTS_EXECUTE
+STANDARD_RIGHTS_ALL
+SPECIFIC_RIGHTS_ALL
+REG_OPTION_BACKUP_RESTORE
+REG_OPTION_NON_VOLATILE
+REG_OPTION_CREATE_LINK
+REG_OPTION_VOLATILE
+REG_OPTION_RESERVED
+SE_OWNER_DEFAULTED
+SE_GROUP_DEFAULTED
+SE_DACL_PRESENT
+SE_DACL_DEFAULTED
+SE_SACL_PRESENT
+SE_SACL_DEFAULTED
+SE_DACL_AUTO_INHERIT_REQ
+SE_SACL_AUTO_INHERIT_REQ
+SE_DACL_AUTO_INHERITED
+SE_SACL_AUTO_INHERITED
+SE_DACL_PROTECTED
+SE_SACL_PROTECTED
+SE_RM_CONTROL_VALID
+SE_SELF_RELATIVE
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+value__
+SE_UNKNOWN_OBJECT_TYPE
+SE_FILE_OBJECT
+SE_SERVICE
+SE_PRINTER
+SE_REGISTRY_KEY
+SE_LMSHARE
+SE_KERNEL_OBJECT
+SE_WINDOW_OBJECT
+SE_DS_OBJECT
+SE_DS_OBJECT_ALL
+SE_PROVIDER_DEFINED_OBJECT
+SE_WMIGUID_OBJECT
+SE_REGISTRY_WOW64_32KEY
+AclRevision
+Sbz1
+AclSize
+AceCount
+Sbz2
+AclBytesInUse
+AclBytesFree
+AclRevisionInformation
+AclSizeInformation
+RegOpenKeyEx
+RegCreateKeyEx
+RegSetKeySecurity
+RegCloseKey
+System.Runtime.InteropServices
+SafeHandle
+GetSecurityInfo
+GetSecurityDescriptorLength
+LocalFree
+SetSecurityInfo
+SetSecurityDescriptorControl
+DeleteAce
+GetAclInformation
+FormatMessage
+ReleaseHandle
+Exception
+ExceptionFromLastError
+ExceptionFromWin32Error
+GetMessage
+ComVisibleAttribute
+System.Reflection
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+AssemblyInformationalVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyVersionAttribute
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+FixSqlRegistryKey
+CompilerGeneratedAttribute
+value
+keyName
+subKeyName
+error
+Int32
+arg0
+get_CurrentCulture
+String
+IFormatProvider
+Format
+arg1
+.cctor
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+get_FullName
+Module
+get_Module
+Assembly
+get_Assembly
+args
+StringComparison
+Compare
+Console
+WriteLine
+Registry
+LocalMachine
+OpenSubKey
+IDisposable
+Dispose
+get_Name
+ToString
+GetSubKeyNames
+System.Security
+SecurityException
+IntPtr
+Zero
+pSecurityDescriptor
+Byte
+Marshal
+Copy
+handle
+securityDescriptor
+System.Security.AccessControl
+CommonSecurityDescriptor
+DiscretionaryAcl
+get_DiscretionaryAcl
+GenericAcl
+get_Count
+GenericAce
+get_Item
+CommonAce
+AceType
+get_AceType
+AceFlags
+get_AceFlags
+KnownAce
+System.Security.Principal
+SecurityIdentifier
+get_SecurityIdentifier
+get_AccessMask
+InheritanceFlags
+get_InheritanceFlags
+PropagationFlags
+get_PropagationFlags
+AccessControlType
+AddAccess
+ApplicationException
+get_BinaryLength
+GetBinaryForm
+AllocHGlobal
+FreeHGlobal
+RawSecurityDescriptor
+RawAcl
+get_IsDiscretionaryAclCanonical
+IsNullOrEmpty
+ArgumentNullException
+IndexOf
+Substring
+ToUpperInvariant
+op_Equality
+ArgumentException
+Empty
+get_Length
+result
+StructLayoutAttribute
+LayoutKind
+DllImportAttribute
+advapi32.dll
+RegOpenKeyExW
+hKey
+lpSubKey
+InAttribute
+MarshalAsAttribute
+UnmanagedType
+ulOptions
+samDesired
+phkResult
+OutAttribute
+RegCreateKeyExW
+Reserved
+lpClass
+dwOptions
+lpSecurityAttributes
+lpdwDisposition
+SecurityInformation
+objectType
+securityInformation
+sidOwner
+sidGroup
+pDacl
+sacl
+kernel32.dll
+hMem
+owner
+group
+dacl
+ControlBitsOfInterest
+ControlBitsToSet
+pControl
+lpdwRevision
+pAcl
+dwAceIndex
+pAclInformation
+nAclInformationLength
+dwAclInformationClass
+dwFlags
+lpSource
+dwMessageId
+dwLanguageId
+lpBuffer
+nSize
+va_list_arguments
+ownsHandle
+SetHandle
+GetLastWin32Error
+errorCode
+UnauthorizedAccessException
+System.ComponentModel
+Win32Exception
+PtrToStringAuto
+Microsoft.SqlServer.Configuration.FixSqlRegistryKey.SR.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+FixSqlRegistryKey
+10.0.2531.0
+,10.0.2531.0 ((Katmai_PCU_Main).090329-1015 )
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+$Microsoft Corp. All rights reserved.
+Microsoft SQL Server
+Microsoft Corporation
+WrapNonExceptionThrows
+RSDS
+FixSqlRegistryKey.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright 
+ 1981-2001 Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"
+ manifestVersion="1.0"> 
+  <assemblyIdentity version="1.0.0.0"
+     processorArchitecture="x86"
+     name="FixSqlRegistryKey"
+     type="win32"/> 
+  <description>SQL Setup</description> 
+  <!-- Identify the application security requirements. -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"/>
+        </requestedPrivileges>
+       </security>
+  </trustInfo>
+</assembly>
+'"r6#cb6
+'sscbr6#
+xw&w3''6
+(zx#v:rc
+1ssss5
+373s9s
+7w117
+yy3{x
+ys77
+sys8
+wy79w
+ssb60
+zzzp
+{yq7
+@v}X
+Ne_X
+qtpnmo 
+~[!!!!!!!
+B]`K%
+-QC,
+E]S<'
+$62@[Q;
+D=0#
+%LI8./1;
+^a9*
+*J3356>
+|cH+(2GWdwuQ
+Nfzz^^
+Z0X03
+>0!0	
+~4m4h
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+081022212455Z
+100122213455Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+LwGp
+Z>c=
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+Hsz%
+e-mME)Vr
+MC@u
+gT!E
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+060916015300Z
+110916020300Z0
+Washington1
+Redmond1
+Microsoft Corporation1'0%
+nCipher DSE ESN:D8A9-CFCC-579C1'0%
+Microsoft Timestamping Service0
+2;7:
+'H~C
+O6kS
+n:."C
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+e&>d
+3|._
+P{a1
+2t+z
+73:r
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+u[{3z
+1L0J
+http://www.microsoft.com/ 0
+=}?4
+H@lM<P;
+F #H1
+SMKC
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+090330061146Z0#
+P.9u(
+6FPXD^
+`r"}
+	R;fb5w`
+	!q*~q

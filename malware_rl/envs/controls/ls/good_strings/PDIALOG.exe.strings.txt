@@ -1,0 +1,425 @@
+!This program cannot be run in DOS mode.
+RichHM]
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$(H
+\$0H
+t$8H
+\$0H
+UWAVH
+D$@L
+t$HL
+D$8L
+t$0L
+t$(H
+D$@H
+D$ A
+t$PH
+D$XH
+D$pL
+t$@H
+D$HH9
+D$pH
+A^_]
+H95G\
+\$PH
+t$XH
+H95/[
+\$P3
+t$XH
+\$0H
+D$(H
+D$(H
+UATAUAVAWH
+H95wX
+D$0@
+|$ E
+fE9(t
+M'H3
+A_A^A]A\]
+VWATAVAWH
+d$ H
+D$(H
+L$@A
+D$@L
+A_A^A\_^
+D$xH
+\$`H
+t$hH
+|$pH
+\$PH
+|$XI
+\$PH
+|$XH
+x UAVAWH
+\$0L
+D$8H
+\$@D
+L$B3
+T$@I
+t$(D
+|$ M
+A_A^]
+VWATAVAWH
+|$ I
+D$(M
+|$0A
+L$0D
+D$0H
+A_A^A\_^
+UVWATAUAVAWH
+|$@H
+D$HH
+f9=(Y
+D$ E3
+|$0H
+|$8H
+D$ E3
+t$0M
+D$8H
+D$ L
+H9|$8
+t$0I
+L$`E3
+t$8M
+|$8L
+t$0M
+y	f;=
+A_A^A]A\_^]
+D$(L
+D$0L
+T$(H
+D$ A
+\$@H
+L$HH
+\$@H
+L$HH
+\$@H
+H95CG
+L$HH
+\$@H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L9=LM
+L$ f
+: wxfD9:t
+D$ H
+A_A^A\
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+CProgressDlgApp::CProgressDlgApp
+CProgressDlgApp::InitInstance
+CProgressDlgApp::ExitInstance
+ListenThread
+CProgressDlgDlg
+CProgressDlgDlg::CProgressDlgDlg
+CProgressDlgDlg::~CProgressDlgDlg
+CProgressDlgDlg::DoDataExchange
+CProgressDlgDlg::OnInitDialog
+CProgressDlgDlg::OnClose
+CProgressDlgDlg::OnCopyData
+CProgressDlgDlg::OnProcessID
+CProgressDlgDlg::OnPageNumber
+G_IsFileInFolder
+G_SubstituteFolderPathWithDisplayName
+G_ReplaceMyDocsPath
+FNULL
+Helpers::GetClientRect
+Helpers::PostMessageW
+Helpers::CloseHandle
+Helpers::WaitForSingleObject
+Helpers::SetWindowPos
+1";&
+RSDS
+PDIALOG.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$r
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+RegisterTraceGuidsW
+UnregisterTraceGuids
+TraceMessage
+ADVAPI32.dll
+HeapSetInformation
+OpenProcess
+GetLastError
+lstrlenW
+GetLongPathNameW
+CompareStringW
+KERNEL32.dll
+SetWindowLongPtrW
+GetDesktopWindow
+EnableWindow
+CharNextW
+USER32.dll
+MFC42u.dll
+free
+malloc
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UEAA@XZ
+msvcrt.dll
+?terminate@@YAXXZ
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+SHGetFolderPathW
+SHGetMalloc
+SHGetDesktopFolder
+SHGetFolderLocation
+SHELL32.dll
+StrChrW
+PathAddBackslashW
+PathCompactPathExW
+StrRetToBufW
+SHLWAPI.dll
+Sleep
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+WaitForSingleObject
+CloseHandle
+SetWindowPos
+GetClientRect
+PostMessageW
+EtwTraceMessage
+__CxxFrameHandler3
+memset
+.?AVCCmdTarget@@
+.?AVCObject@@
+.?AVCWinApp@@
+.?AVCWinThread@@
+.?AVCProgressDlgApp@@
+.?AVCDialog@@
+.?AVCWnd@@
+.?AVCProgressDlgDlg@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.TabletPC.PDialog"
+    type="win32"
+<description>Pickle driver PDialog component</description>
+<dependency>
+    <dependentAssembly>
+         <assemblyIdentity
+             type="win32"
+             name="Microsoft.Windows.Common-Controls"
+             version="6.0.0.0"
+             processorArchitecture="amd64"
+             publicKeyToken="6595b64144ccf1df"
+             language="*"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+  <security>
+    <requestedPrivileges>
+      <requestedExecutionLevel
+        level="asInvoker"
+        uiAccess="false"/>
+    </requestedPrivileges>
+   </security>
+</trustInfo>
+</assembly>
+	989
+99989999
+99989999999
+99989999999999
+999999999999
+	9999999
+	9999
+9999
+9999
+9999D
+9999
+999999D
+9999
+99999999N
+999999999D
+989993399999D
+99989998
+3399DL
+99989998
+99989998
+999899999333
+99989999999999999
+33399999999
+33999
+339998
+339998
+3333
+339991
+9990
+9999990
+99999999
+	999
+9999
+999999
+9339999
+99993399
+9999999
+999?
+333990
+39980
+}]ny
+z|}}
+SHHNT]ny
+z|}qrr
+HEHNf
+z|}qrttj
+z|}qrtjji
+z|}qrtjj
+z|}qrtj
+z|}qrt
+%#%&
+z|}qr
+-0."
+z}rq
+02)%"
+-.)&# 
+(.*'#!
+$0,'%" 
+$.,'%" 
+-'&%"!
+0,)'&#!
+$00.*'&#"
+!%# 
+/2.*'&%)*'& 
++1.,*020*&
+%1374.
+cZYccr
+253(
+^DHHNT]
+cC66;JY\\i
+XBEHNT}
+cC766554;JZPci
+XBET
+cC77665544338Y}
+77766554433U}
+cY_QC76555443Y|
+scccY_F9544Y|
+pcccYIl|
+BNi~~
+BDBB_Q@@@CQ__
+@@@@CCC?Q_Y
+?????<<>MYP~
+UI<<>>>>>DLW`u
+K=>=O
+s4&&
+y|s;
+&_zy
+&_;dyyyy
+wj_iwww
+wp(/3Okiwww
+w=$0<F>4DDiw
+w-^Ur
+1#)w
+w6\VM{
+w+]TY[a
+w*ZcfgWIQ
+w%9Ho:5CAb
+!Gn&
+XSt? 
+NJusmdP;Lx
+2"'8@`heKw
+wwwqlR7
+wwwyvw

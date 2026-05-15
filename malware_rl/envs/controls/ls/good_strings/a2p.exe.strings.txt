@@ -1,0 +1,816 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+t:9s
+[^_]
+[^_]
+[^_]
+|-PV
+|&PSV
+[^_]
+[^_]
+QWSP
+[^_]
+ t!P
+[^_]
+SPQW
+[^_]
+[^_]
+:Nx.
+[^_]
+WRQS
+|pPWV
+[^_]
+PWQS
+[^_]
+VRBP
+[^_]
+Z[^]
+WVSV
+[[^_]
+[[^_]
+tCPPWV
+[^_]
+SQAP
+trPW
+[^_]
+VRBP
+[^_]
+[^_]
+Y[hQ
+XZhS
+Y[VP
+VVhu
+^Xhx
+XZhS
+Y[VP
+XZWj
+ZYhQ
+_XhS
+[_h&
+ZYh)
+0<	w
+0<	w
+0<	w
+WPh3
+XZhY
+WWhc
+ZYho
+PPj{V
+ZYSP
+SWhw
+[_hQ
+[^RP
+t#<;
+XFZV
+XZh&
+[Xh8
+XZhQ
+PWQh
+ZYh%
+Y[h)
+[^h3
+ZYh>
+QQj'
+VVhP
+[^hY
+^_hQ
+PPhT
+XZhY
+Y[hW
+PPh[
+[^hd
+PPhl
+XZSV
+Y_h{
+RRPS
+XZh)
+XZh)
+XCZS
+XZh&
+^_hQ
+ZYh>
+t4PPh
+ SSV
+XAZQ
+SShA
+XZh)
+PPh	
+XZh&
+QQh)
+PPh<
+_Xhh
+RRhx
+QQj_h
+SShY
+PPj_h
+u/SShA
+PPhY
+SShE
+WWShG
+PPha
+PPho
+XZhu
+PPhQ
+PPh|
+RRVh
+VVh"
+QRh$
+[^h(
+QQhQ
+<&t><$tB
+RRhV
+WWhS
+PPh\
+SSh^
+XZhe
+PPhS
+PPhY
+PPhA
+RPh8
+PPh?
+PPhA
+SShB
+PPj[V
+WWVhI
+PPhY
+PPh^
+PPhd
+RPSh
+PPhd
+PPSh
+PPhQ
+PPhA
+PPj"
+PPj'
+PPj"
+QPh8
+PPhQ
+PPh"
+PPj_h
+PPh0
+QPh3
+QQWV
+PPh3
+PPh9
+WWh=
+PPhQ
+XZhS
+XFZV
+SShk
+[BXR
+PPhq
+PPSh
+PPhk
+7XFZV
+PPhl
+tuK9
+PPhl
+[^_]
+[^_]
+tGK9
+[^_]
+tpPPhs
+SShx
+QQhl
+[^_]
+PPhQ
+[^_]
+[^_]
+[^_]
+[XhQ
+XZhQ
+PPh\
+8-uS
+XZhP
+WWVS
+Sj@j
+QVSP@hA
+KQhP
+SSWh
+RRPS
+t*PPj
+tYPSh
+VRPh
+QQRS
+[^_]
+PPQS
+0<	v
+PPWS
+8/t&
+-t>C
+QQPh
+RRPh
+[^_]
+0<	w
+[^_]
+[^_]
+PPSh2
+PPSh2
+PPSh2
+PPSh2
+RRSh2
+QQSh2
+$tmV
+RWhC
+[^_]
+SWhQ
+[^_]
+<;tK<
+[^_]
+PPRS
+{t"PPV
+QQVR
+RRQW
+[^_]
+	#??f
+<#uA
+[^_]
+*tOQ
+QRPh
+@QPRh
+[^_]
+WPVQ
+PPhB
+[^_]
+[^_]
+CSh$
+?`	A
+	`PA
+RPh`
+:Whm
+[^_]
+t2=2
+RPWhm
+VPWhm
+?`PA
+PRWhm
+VQhm
+?WjV
+ZYPj9
+^_Pj9
+ZYPj9
+^_Pj>
+?Wj@
+7Vj(
+PWhm
+RQh%
+<?tT
+[^_]
+w	9X
+[^_]
+w	9X
+w	9X
+w	9X
+0x%lx ptr(%s)
+%.20g
+Out of memory!
+0x%lx: (%05d) malloc %ld bytes
+0x%lx: (%05d) rfree
+0x%lx: (%05d) realloc %ld bytes
+0x%lx: (%05d) free
+%3d %5d %15s %d %4d 
+Garbage length in walk
+, -1)
+ = split(
+index(
+$ARGV[0
+$Fld
+print
+$%s, 
+$Fld%d, 
+last
+next line
+last line
+next
+if (
+else 
+sprintf(
+substr(
+length(
+join(%s,@Fld)
+log(
+exp(
+sqrt(
+int(
+$/ = ''
+$/ = "\n\n"
+while (
+foreach %s (keys %%%s) 
+$Fld[
+for (
+ =~ 
+ && ($RLENGTH = length($&), $RSTART = length($`)+1)
+return 
+sub 
+close(
+atan2(
+sin(
+cos(
+rand(1)
+srand(
+delete $
+system(
+defined $
+ || 
+ while (
+ ** 
+($s_ = '"'.(
+).'"') =~ s/&/\$&/g, 
+eval $s_
+ && 
+ .. 
+join(%s, 
+$%s,
+$Fld%d,
+$%s)
+(length(
+) - 1
+$Fld%d)
+$FNR
+$ARGC
+($#ARGV+1)
+while (<>) {
+sub Getline%d {
+    &Pick('',@_);
+    if ($getline_ok = (($_ = <$fh>) ne ''))
+    $_;
+sub Pick {
+    local($mode,$name,$pipe) = @_;
+    $fh = $name;
+    open($name,$mode.$name.$pipe) unless $opened{$name}++;
+$ARGV0
+close 
+ = &Getline%d(%s)
+while (<>) { }		# (no line actions)
+Internal error: OCLOSE %s
+($.-$FNRbase)
+$s = 
+/$s/
+$ARGV0 = $0;		# remember what we ran as
+,$getline_ok)
+$\ = "\n";		# set output record separator
+$, = ' ';		# set output field separator
+$FS = '
+*+?.[]()|^$\
+';		# field separator from -F switch
+ if 
+ =~ s
+local(
+) = @_;
+delete $opened{%s} && close(%s)
+$[ = 1;			# set array base to 1
+printf
+exit
+    if ($getline_ok = (($_ = <>) ne ''))
+    $FNRbase = $. if eof;
+exit $ExitValue;
+/[%c\n]/
+foreach %s ($[ .. $#%s) 
+$Fld%d
+return
+Illegal for loop: %s
+chomp;	# strip record separator
+$#Fld
+    local($_);
+    ($fh) = @_;
+continue {
+    $FNRbase = $. if eof;
+line: 
+Internal error: OGETLINE %s
+$FS = ' ';		# set field separator
+$ExitValue = 
+, '|'
+&Pick('%s', %s) &&
+Internal error: OPRINT
+open(
+) || die 'Cannot open file "
+".';
+/\%c/
+) || die 'Cannot create file "
+) || die 'Cannot pipe to "
+) || die 'Cannot pipe from "
+/%c/
+    
+@Fld
+ = split(' ', $_, -1);
+ = split($FS, $_, -1);
+ = split(/[%c\n]/, $_, -1);
+Garbage length in prewalk
+@(#)yaccpar	1.9 (Berkeley) 02/21/93
+PROG
+JUNK
+HUNKS
+RANGE
+HUNK
+PPAREN
+PANDAND
+POROR
+PNOT
+CPAREN
+CANDAND
+COROR
+CNOT
+RELOP
+RPAREN
+MATCHOP
+MPAREN
+CONCAT
+ASSIGN
+SUBTRACT
+MULT
+POSTINCR
+POSTDECR
+PREINCR
+PREDECR
+UMINUS
+UPLUS
+PAREN
+GETLINE
+SPRINTF
+SUBSTR
+STRING
+SPLIT
+SNEWLINE
+INDEX
+NEWLINE
+COMMENT
+COMMA
+SEMICOLON
+SCOMMENT
+STATES
+STATE
+PRINT
+PRINTF
+BREAK
+NEXT
+EXIT
+CONTINUE
+REDIR
+WHILE
+FORIN
+VFLD
+BLOCK
+REGEX
+LENGTH
+SQRT
+GSUB
+MATCH
+USERFUN
+USERDEF
+CLOSE
+ATAN2
+RAND
+SRAND
+DELETE
+SYSTEM
+COND
+RETURN
+DEFINED
+STAR
+=;5/+)%
+=;5/+)%
+=;5/+)%
+=;5/+)%
+=;5/+)%
+=;5/+)%
+=;5/+)%
+=;5/+)%
+end-of-file
+BEGIN
+SEMINEW
+FUN1
+FUNN
+GRGR
+SPRINTF_OLD
+SPRINTF_NEW
+ELSE
+FUNCTION
+ASGNOP
+OROR
+ANDAND
+NUMBER
+INCR
+DECR
+FIELD
+VFIELD
+SVFIELD
+$accept : program
+program : junk hunks
+begin : BEGIN '{' maybe states '}' junk
+end : END '{' maybe states '}'
+end : end NEWLINE
+hunks : hunks hunk junk
+hunks :
+hunk : patpat
+hunk : patpat '{' maybe states '}'
+hunk : FUNCTION USERFUN '(' arg_list ')' maybe '{' maybe states '}'
+hunk : '{' maybe states '}'
+hunk : begin
+hunk : end
+arg_list : expr_list
+patpat : cond
+patpat : cond ',' cond
+cond : expr
+cond : match
+cond : rel
+cond : compound_cond
+cond : cond '?' expr ':' expr
+compound_cond : '(' compound_cond ')'
+compound_cond : cond ANDAND maybe cond
+compound_cond : cond OROR maybe cond
+compound_cond : NOT cond
+rel : expr RELOP expr
+rel : expr '>' expr
+rel : expr '<' expr
+rel : '(' rel ')'
+match : expr MATCHOP expr
+match : expr MATCHOP REGEX
+match : REGEX
+match : '(' match ')'
+expr : term
+expr : expr term
+expr : expr '?' expr ':' expr
+expr : variable ASGNOP cond
+sprintf : SPRINTF_NEW
+sprintf : SPRINTF_OLD
+term : variable
+term : NUMBER
+term : STRING
+term : term '+' term
+term : term '-' term
+term : term '*' term
+term : term '/' term
+term : term '%' term
+term : term '^' term
+term : term IN VAR
+term : variable INCR
+term : variable DECR
+term : INCR variable
+term : DECR variable
+term : '-' term
+term : '+' term
+term : '(' cond ')'
+term : GETLINE
+term : GETLINE variable
+term : GETLINE '<' expr
+term : GETLINE variable '<' expr
+term : term 'p' GETLINE
+term : term 'p' GETLINE variable
+term : FUN1
+term : FUN1 '(' ')'
+term : FUN1 '(' expr ')'
+term : FUNN '(' expr_list ')'
+term : USERFUN '(' expr_list ')'
+term : SPRINTF_NEW '(' expr_list ')'
+term : sprintf expr_list
+term : SUBSTR '(' expr ',' expr ',' expr ')'
+term : SUBSTR '(' expr ',' expr ')'
+term : SPLIT '(' expr ',' VAR ',' expr ')'
+term : SPLIT '(' expr ',' VAR ',' REGEX ')'
+term : SPLIT '(' expr ',' VAR ')'
+term : INDEX '(' expr ',' expr ')'
+term : MATCH '(' expr ',' REGEX ')'
+term : MATCH '(' expr ',' expr ')'
+term : SUB '(' expr ',' expr ')'
+term : SUB '(' REGEX ',' expr ')'
+term : GSUB '(' expr ',' expr ')'
+term : GSUB '(' REGEX ',' expr ')'
+term : SUB '(' expr ',' expr ',' expr ')'
+term : SUB '(' REGEX ',' expr ',' expr ')'
+term : GSUB '(' expr ',' expr ',' expr ')'
+term : GSUB '(' REGEX ',' expr ',' expr ')'
+variable : VAR
+variable : VAR '[' expr_list ']'
+variable : FIELD
+variable : SVFIELD
+variable : VFIELD term
+expr_list : expr
+expr_list : clist
+expr_list :
+clist : expr ',' maybe expr
+clist : clist ',' maybe expr
+clist : '(' clist ')'
+junk : junk hunksep
+junk :
+hunksep : ';'
+hunksep : SEMINEW
+hunksep : NEWLINE
+hunksep : COMMENT
+maybe : maybe nlstuff
+maybe :
+nlstuff : NEWLINE
+nlstuff : COMMENT
+separator : ';' maybe
+separator : SEMINEW maybe
+separator : NEWLINE maybe
+separator : COMMENT maybe
+states : states statement
+states :
+statement : simple separator maybe
+statement : ';' maybe
+statement : SEMINEW maybe
+statement : compound
+simpnull : simple
+simpnull :
+simple : expr
+simple : PRINT expr_list redir expr
+simple : PRINT expr_list
+simple : PRINTF expr_list redir expr
+simple : PRINTF expr_list
+simple : BREAK
+simple : NEXT
+simple : EXIT
+simple : EXIT expr
+simple : CONTINUE
+simple : RET
+simple : RET expr
+simple : DELETE VAR '[' expr_list ']'
+redir : '>'
+redir : GRGR
+redir : '|'
+compound : IF '(' cond ')' maybe statement
+compound : IF '(' cond ')' maybe statement ELSE maybe statement
+compound : WHILE '(' cond ')' maybe statement
+compound : DO maybe statement WHILE '(' cond ')'
+compound : FOR '(' simpnull ';' cond ';' simpnull ')' maybe statement
+compound : FOR '(' simpnull ';' ';' simpnull ')' maybe statement
+compound : FOR '(' expr ')' maybe statement
+compound : '{' maybe states '}' maybe
+Unrecognized switch: %s
+#!/usr/bin/perl
+eval 'exec 
+/usr/bin
+/perl -S $0 ${1+"$@"}'
+    if $running_under_some_shell;
+			# this emulates #! processing on NIH machines.
+			# (remove #! line above if indigestible)
+eval '$'.$1.'$2;' while $ARGV[0] =~ /^([A-Za-z_0-9]+=)(.*)/ && shift;
+			# process any FOO=bar switches
+Please check my work on the %d line%s I've marked with "#???".
+The operation I've selected may be wrong for the operand types.
+%d	%d	%d	%-10s
+Translation aborted due to syntax errors.
+Awk script "%s" doesn't seem to exist.
+	"%s"
+Tokener at %s
+Unrecognized character %c in file %s line %d--ignoring.
+Tokener at %s
+OFMT
+open
+next
+break
+match
+else
+exit
+elsif
+eval
+each
+exec
+delete
+continue
+close
+chdir
+crypt
+chop
+chmod
+chown
+Ignoring spurious backslash
+join
+index
+while
+write
+wait
+length
+last
+local
+locatime
+link
+keys
+kill
+values
+until
+unless
+umask
+unshift
+unlink
+utime
+tell
+time
+times
+split
+substr
+sprintf
+rand
+return
+reset
+redo
+rename
+print
+printf
+push
+getline
+gsub
+goto
+gmtime
+String not terminated:
+ARGC
+ARGV
+atan2
+function
+FILENAME
+foreach
+format
+fork
+sqrt
+SUBSEP
+srand
+system
+shift
+select
+seek
+stat
+study
+sleep
+symlink
+sort
+Search pattern not found:
+Search pattern not terminated:
+%s in file %s at line %d
++-0123456789
+Recompile a2p with larger OPSMAX
+type > 255 (%d)
+(%-5d%s %d
+%-5d"%s"
+#!/bin/awk
+#! /bin/awk
+#!/usr/bin/awk
+#! /usr/bin/awk
+panic: unknown argument type %d, line %d
+panic: aryrefarg %d, line %d
+panic: unknown argument type %d, arg %d, line %d
+%s:%d
+Adding %s
+Can't pass expression by reference as arg %d of %s
+YYDEBUG
+syntax error
+%sdebug: error recovery discarding state %d
+%sdebug: state %d, error recovery discards token %d (%s)
+%sdebug: state %d, reducing by rule %d (%s)
+illegal-symbol
+%sdebug: state %d, reading %d (%s)
+%sdebug: after reduction, shifting from state %d to state %d
+%sdebug: after reduction, shifting from state 0 to state %d
+%sdebug: state %d, error recovery shifting to state %d
+%sdebug: state %d, shifting to state %d
+yacc stack overflow
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__main
+abort
+atoi
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fopen
+fprintf
+fputs
+free
+fwrite
+getc
+getenv
+malloc
+memcpy
+printf
+putc
+putchar
+puts
+realloc
+sprintf
+strchr
+strcmp
+strcpy
+strlen
+strncmp
+strncpy
+vfprintf
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

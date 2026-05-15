@@ -1,0 +1,458 @@
+!This program cannot be run in DOS mode.
+m W_
+n G_
+o Q_
+s \_
+k P_
+q T_
+l T_
+ RichU_
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+USVWATAUAVAWH
+ePE3
+D$ E3
+tAD8c
+t%L9#u
+L9#u
+tAD8c
+t%L9#u
+hA_A^A]A\_^[]
+UVWAVAWH
+t$0H
+D$@D
+|$(E3
+D$ 3
+D$@A
+D$0L
+|$(I
+A_A^_^]
+t$0H
+D$@D
+|$(E3
+D$ H
+|$(L
+|$ I
+T$(H
+wXtN
+\$@H
+t$HH
+x UATAUAVAWH
+9{Lv H
+;{Lr
+T$ H
+dsUL
+M'H3
+A_A^A]A\]
+UVWATAUAVAWH
+D$0E
+D$@L
+D$(A
+D$HH
+PA_A^A]A\_^]
+@USVWAVH
+D$0H
+D$(H
+D$(A
+L$ H
+pA^_^[]
+@USVWAVH
+D$0H
+D$(H
+D$(H
+pA^_^[]
+\$ UVWATAUAVAWH
+D$0H
+D$(H
+D$(E
+L$ A
+pA_A^A]A\_^]
+T$hH
+D$hH
+|$@I
+T$8M
+L$0L
+T$(H
+D$@I
+L$8M
+T$0H
+L$(A
+L$hH
+\$`H
+\$ UVWATAUAVAWH
+D$0H
+D$(H
+D$ fD
+D$(H
+L$ H
+t$(L
+D$ L
+d$(H
+A_A^A]A\_^]
+UATAUAVAWH
+D$0H
+D$(H
+A_A^A]A\]
+@USVWATAUAVAWH
+D$ZI
+D$bf
+D$fD
+D$jL
+D$rE3
+D$vE3
+D$xL
+l$xH
+D$(H
+l$XfD
+l$hL
+l$HD
+L$jD
+D$ZH
+D$Xf
+D$Zf
+D$ZD
+D$jH
+T$pH
+D$h3
+D$jf
+L$@f
+\$@L
+L$@H
+D$xE
+D$DH
+D$0H
+D$PH
+D$(H
+L$HH
+t$HH
+D$0E
+D$PL
+D$(A
+D$HI
+L$HH
+L$xH
+A_A^A]A\_^[]
+\$0H
+t$8H
+UWATAVAWH
+\$(A
+\$(A
+\$(A
+A_A^A\_]
+D$hI
+L$HH
+L$hH3
+x UATAUAVAWH
+D$\@
+l$HL
+l$`D
+l$XH
+l$TE
+d$hL
+l$xD
+D$LA+
+D$XA+
+u0A;
+D$`A
+L$xH
+D$ L
+L$LA
+L$ A
+L$@E
+L$@E
+u	A;
+D$TH
+t$TL
+D$\L
+D$(M
+D$0L
+D$\H
+D$`I
+L$`H
+T$`H
+9|$Tv
+D$`H
+;|$Tr
+L$xH
+tAD8
+t%L9?u
+A_A^A]A\]
+UVWAVAWH
+D$ H!
+D$ A
+D$ I
+M'H3
+A_A^_^]
+USVWAVH
+M0E3
+0A^_^[]
+L$ H
+MOH3
+UWATAVAWH
+!}wE3
+zuYH
+D$(A
+A_A^A\_]
+x AVH
+\$0H
+t$@H
+|$HH
+WAVAWH
+\$@H
+t$PH
+ A_A^_
+WAVAWH
+\$@H
+t$PH
+ A_A^_
+\$0H
+t$@H
+\$0H
+t$@H
+\$0H
+t$@H
+x ATAVAWH
+D$0M
+D$(I
+\$`H
+t$pH
+|$xH
+@A_A^A\
+L$ SUVWH
+(_^][
+L$"3
+|$ D
+T$ 3
+VWAVH
+L$hD
+D$h3
+L$hH
+\$`H
+l$pH
+@A^_^
+H SUVWAVH
+0A^_^][
+x ATAVAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+L$ H
+\$0H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+0123456789abcdef
+%4.4x  
+reserved
+forwardable
+forwarded
+proxiable
+proxy
+may_postdate
+postdated
+invalid
+renewable
+initial
+pre_authent
+hw_authent
+ok_as_delegate
+name_canonicalize
+reserved1
+Kerberos
+Winlogon
+LsaGetLogonSessionData
+LsaRegisterLogonProcess
+LsaLookupAuthenticationPackage
+LsaFreeReturnBuffer
+LsaConnectUntrusted
+LsaDeregisterLogonProcess
+LsaCallAuthenticationPackage
+RSDS
+klist.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+CreateWellKnownSid
+LsaNtStatusToWinError
+OpenThreadToken
+OpenProcessToken
+GetTokenInformation
+BuildTrusteeWithSidW
+SetEntriesInAclW
+GetLengthSid
+CopySid
+IsValidSid
+GetSidSubAuthorityCount
+GetSidLengthRequired
+GetKernelObjectSecurity
+GetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+SetKernelObjectSecurity
+DuplicateTokenEx
+EqualSid
+ADVAPI32.dll
+LocalAlloc
+GetLastError
+LocalFree
+K32EnumProcesses
+CloseHandle
+LoadLibraryW
+FormatMessageW
+FreeLibrary
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+GetModuleHandleW
+GetCurrentThread
+GetCurrentProcess
+OpenProcess
+SetLastError
+GetProcAddress
+KERNEL32.dll
+exit
+_snwprintf_s
+sprintf_s
+fwprintf
+_wcsicmp
+wcstol
+wcstoul
+malloc
+_callnewh
+free
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+LsaEnumerateLogonSessions
+DsGetDcNameW
+NetApiBufferFree
+Sleep
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+HeapAlloc
+HeapFree
+GetProcessHeap
+SetThreadUILanguage
+LoadStringW
+WriteFile
+WideCharToMultiByte
+GetConsoleOutputCP
+GetStdHandle
+SspiCli.dll
+logoncli.dll
+netutils.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+NtSetInformationThread
+NtClose
+NtOpenThreadToken
+RtlInitUnicodeStringEx
+RtlIpv4StringToAddressExW
+RtlIpv6StringToAddressExW
+RtlInitUnicodeString
+RtlAdjustPrivilege
+RtlInitString
+NtQueryInformationToken
+NtDuplicateToken
+ntdll.dll
+__iob_func
+_vsnwprintf
+_wsetlocale
+memcpy
+memset
+yF^5

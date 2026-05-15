@@ -1,0 +1,380 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$HH
+D$`H
+\$HH
+\$HH
+\$HH
+\$HH
+\$HH
+D$`H
+\$HH
+\$HH
+\$HH
+H SVW
+|$@u
+|$8H
+D$PH
+|$0L
+L$@H
+T$PH
+|$ D
+L$@A
+|$ H
+UVWATAUAVAWH
+D$(D
+D$ H
+tzH9=
+tqH9=
+D$(H
+@A_A^A]A\_^]
+x AVH
+H9{ s
+l$8H
+\$0H
+t$@H
+|$HH
+H9Q r H
+t$8H
+\$0H
+\$0H
+l$8H
+t$@H
+T$(H
+VWAVH
+t$ H
+`A^_^
+H9w s
+\$0H
+l$8H
+t$@H
+t+L+
+L$ SUVWH
+(_^][
+\$0H
+t$8H
+|$0D
+f9|$@t
+T$@H
+tIfD9
+l$8H
+T$03
+D$0D
+\$8H
+x AVH
+T$PH
+D$PH
+l$(D
+\$`3
+A H;
+A H;
+L$03
+|$0H
+L$0H
+D$ H
+L$ E3
+L$ H
+t$8H
+\$0H
+VWAVH
+L$xH
+\$ A
+T$pH
+\$8M
+\$03
+L$xH
+\$ H
+\$`H
+@A^_^
+L$XA
+\$@H
+tqH9L$XtjH9L$PtcH
+D$XH+D$PH
+l$0H
+t$8H
+x AVH
+D$`L
+D$ I
+L$ I
+\$@H
+l$HH
+t$PH
+|$XH
+t$ WATAUAVAWH
+D$0H
+\$(H
+|$0H
+\$(H
+\$(H
+|$(H
+D$pI
+D$pH
+H8H+
+@@H+
+uoH9^ tiH
+D$pI
+HXH+
+@`H+
+\$@I
+A_A^A]A\_
+UVWATAUAVAWH
+D$ E3
+~,fD9(t
+fE9,Ou
+fE9,Gu
+,GE3
+fE9M
+EHE3
+EHE3
+EHE3
+P(E3
+H0H+
+@8H+
+fE9LM
+fE9LE
+CfD9
+L9n t
+L9h 
+fE9,
+D$ L
+D$ E3
+t;A+
+t,A+
+t@A;
+fD9/H
+L9n 
+D$ E3
+L9n 
+D$ M
+L$ M
+@A_A^A]A\_^]
+WAVAWH
+D92u
+D$PH
+x(fD
+D$(L
+\$PH
+L$PH
+\$XH
+l$`H
+t$hH
+0A_A^_
+SUVWATAUAVAWH
+l$ A
+L9k(t2H
+	u	L
+t<fD9m
+fD9lE
+fD9m
+L9iHL
+EIHH
+L9jhu
+BpH+BhH
+RhE3
+L9iH
+D8)H
+@8H+
+L9jPu
+BXH+BPH
+D$(H
+G0I+G(H
+F8I+F0H
+D$(A
+FhI+F`H
+D$(A
+D$(A
+D$(A
+D$(H
+D$(H
+HA_A^A]A\_^][
+WATAUAVAWH
+D$ L
+|$(H
+D$ I
+|$(L
+L$0H
+T$8H
+L$0H
+\$`I
+A_A^A]A\_
+\$HH
+\$HH
+\$HH
+t$PH
+\$0H
+D$`H
+T$(H
+T$(H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+string too long
+invalid string position
+vector<T> too long
+RSDS
+sxstrace.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+ProcessTrace
+EnableTraceEx
+ControlTraceW
+CloseTrace
+StartTraceW
+OpenTraceW
+ADVAPI32.dll
+GetModuleHandleW
+WriteFile
+WideCharToMultiByte
+RaiseException
+GetConsoleOutputCP
+GetStdHandle
+SetThreadPreferredUILanguages
+HeapSetInformation
+GetUserDefaultLangID
+FormatMessageW
+CreateFileW
+lstrlenW
+GetLastError
+SetConsoleCtrlHandler
+CloseHandle
+KERNEL32.dll
+memmove_s
+_wcsicmp
+_wcsnicmp
+printf
+_vsnwprintf
+?what@exception@@UEBAPEBDXZ
+??1exception@@UEAA@XZ
+??0exception@@QEAA@XZ
+??0exception@@QEAA@AEBQEBD@Z
+??0exception@@QEAA@AEBV0@@Z
+memcpy_s
+wcsrchr
+wcsstr
+getchar
+_CxxThrowException
+__CxxFrameHandler3
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+??1type_info@@UEAA@XZ
+?terminate@@YAXXZ
+RtlFreeHeap
+RtlAllocateHeap
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+LoadStringW
+USER32.dll
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+memcpy
+memset
+.?AVout_of_range@std@@
+.?AVexception@@
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.Fusion.SxSTrace"
+    type="win32"
+<description>Sxs Tracing Tool</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>

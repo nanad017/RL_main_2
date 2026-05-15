@@ -1,0 +1,589 @@
+!This program cannot be run in DOS mode.
+Rich{
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+|$ AVH
+\$0H
+l$8H
+t$@H
+|$HH
+|$ ATAVAWH
+l$`H
+t$hH
+\$pH
+|$xH
+@A_A^A\
+UWATAVAWH
+D$pE3
+D$pH
+D$03
+|$PH
+d$0L
+D$0H
+A_A^A\_]
+@UVWATAUAVAWH
+t$XH
+|$PL
+l$HL
+l$@D
+l$`L
+D$`3
+D9l$`t
+D$pH
+D$hH
+D$pH
+D$hL
+w L9&
+D$pL;
+D$pL;
+l$8D
+l$0L
+l$(L
+|$ L
+D$pL;
+A_A^A]A\_^]
+\$`H
+t$pH
+|$xM
+\$`H
+t$pH
+|$xH
+|$0H
+D$hL
+\$@I
+l$HH
+t$hH
+|$0H
+|$`H
+t$ H
+t$PH
+l$HH
+|$0H
+\$@3
+\$0H
+t$8H
+t$ WH
+\$8H
+l$@H
+t$HH
+D$8H
+u2SH
+VWAVH
+D$0H
+D$`H
+D$T'
+A^_^
+l$(H
+D$ L
+\$@H
+@USVWATAVAWH
+4$Ic
+fD94Au
+fD94Au
+fD94Au
+fD94Au
+A_A^A\_^[]
+D$8H
+|$(H
+D$ L
+T$XI
+D$8H
+@SUVWATAVAW
+w[tYH
+D$PL
+D$@L
+D$8H
+|$(L
+A_A^A\_^][
+L$ VWH
+\$ L
+L$XH
+D$pH
+D$`H
+D$PH
+|$HH
+\$0L
+\$(L
+UVWATAUAVAWH
+te@2
+t&@85
+@A_A^A]A\_^]
+D$HD
+T$@wE
+D$@H
+D$pH
+T$HH
+D$PH
+D$(H
+D$HD
+D$ H
+L$ H
+T$0A
+L$0H
+L$0H
+L$0H;
+L$0H;
+D$ H
+D$@H
+D$(H
+D$0A
+D$4A
+D$8A
+D$<H
+T$0H
+D$xL
+D$8H
+T$(H
+D$0H
+D$(H
+\$0H
+t$8H
+D$0I;
+D$0H
+; ws
+\$(H
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+D$ L
+D$ L
+D$ L
+D$ L
+D$8H
+D$8H
+D$8H
+D$8H
+D$0D
+D$(I
+D$ L
+D$ L
+D$(H
+D$ L
+D$(H
+D$ L
+D$(H
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+D$ L
+d$(H
+D$ L
+D$0H
+D$0H
+D$ L
+\$0H
+D$hH
+D$ E3
+\$0H
+L$XH
+D$ L
+D$ H
+L$8H
+D$(W
+T$ L
+t$8M
+D$(H
+L$xH
+D$ L
+D$8H
+L$0H
+D$(H
+T$ L
+D$@H
+D$(H
+\$0H
+|$8H
+\$0H
+l$@H
+\$HH
+|$@H
+\$HH
+\$ H
+\$ H
+\$ H
+\$0H
+SVWAVH
+\$`H
+t$pH
+|$hL
+t$xH
+8A^_^[
+|$03
+|$0H
+t$0H
+t$0H
+\$8H
+l$8H
+\$0H
+t$@H
+\$0H
+t$8H
+\$0H
+T$ H
+\$@H
+t$HH
+|$PH
+\$0H
+|$ AVH
+L$0M
+t$@H
+\$8H
+|$HH
+t$ WAVAWH
+t$@H
+L$@M
+l$PH
+\$HH
+t$XH
+ A_A^_
+\$0H
+\$0H
+@SUVWAVH
+D$0A
+D$@3
+D$0L
+L$@L
+L$8L
+L$0H
+L$ L
+A^_^][
+\$0H
+l$8H
+t$@H
+L$ SWH
+L$XH+
+|$ ATAVAWH
+L$0I
+|$(L
+A_A^A\
+D$(H
+D$pH
+D$xL
+D$8H
+T$(H
+|$ AVH
+u	I9
+\$0H
+l$8H
+t$@H
+|$HH
+|$0H
+\$8H
+D$(H
+D$pH
+\$0H
+t$8H
+L$0H
+D$HL
+D$(H
+D$pH
+L$ H
+D$8H
+fE9DI
+T$8H
+L$0D
+D$<H
+T$@H
+L$HD
+D$LH
+L$XH
+T$PD
+D$\H
+D$hL
+L$ H
+L$`D
+D$lH
+D$p3
+drivers\mobilepc\locationconvergence\winnotification\notificationmanager.cpp
+CNotificationManager::UpdateStateMachine
+E_UNEXPECTED
+Did not expect state: %ws
+CNotificationManager::ShowNotifyIconHelper
+!(wil::verify_bool(Shell_NotifyIconW((DWORD)dwMessage, &nidSystrayIcon)))
+Showing the icon
+generic
+iostream
+system
+ASUCCEEDED(failure->hr) && (type != FailureType::FailFast)
+wil::details::LogFailure
+internal\sdk\inc\wil\Result.h
+nullptr == (_hMenu = LoadMenu(_hInst, MAKEINTRESOURCE(IDR_CONTEXTMENU)))
+CNotificationManager::Initialize
+_LocationIconStateSubscription.SubscribeToWnfState( LocWnfCommon::ActualStateNameToLoc(WNF_LFS_STATE), std::bind(&CNotificationManager::LocationIconStateWnfEvent, this, std::placeholders::_1, std::placeholders::_2))
+!(wil::verify_bool(dwMessage == 0x00000000 || dwMessage == 0x00000002))
+CNotificationManager::ShowNotifyIcon
+!(wil::verify_bool(KillTimer(_hWnd, ID_TIMER)))
+CNotificationManager::TimerEvent
+null
+ETW0
+IconTaskbarCreated
+Action
+Current state
+IconUpdatingStateMachine
+Event That Happened
+Original state
+Updated state
+Action to do
+FailureLogReport
+CustomMessage
+Function
+CallingCode
+Filename
+Line
+Microsoft.Geolocation.Service
+LdrFastFailInLoaderCallout
+RtlNtStatusToDosErrorNoTeb
+unknown error
+iostream stream error
+string too long
+invalid string position
+nullptr == hMutex.m_h
+WinMain
+drivers\mobilepc\locationconvergence\winnotification\notification.cpp
+GetLastError() == ERROR_ALREADY_EXISTS
+SetProcessDpiAwareness(PROCESS_SYSTEM_DPI_AWARE)
+InitInstance(hInstance, notificationManger)
+CoInitialize(nullptr)
+0 == LoadString(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING)
+InitInstance
+ExpandEnvironmentStrings( L"%systemroot%\\system32\\taskbarcpl.dll", wszResourceDll, ARRAYSIZE(wszResourceDll)) == 0
+hModule.get()
+nullptr == (wcex.hIcon = LoadIcon(hModule.get(), MAKEINTRESOURCE(IDI_GEOLOCATION_WHITE)))
+nullptr == (wcex.hIconSm = LoadIcon(hModule.get(), MAKEINTRESOURCE(IDI_GEOLOCATION_WHITE)))
+nullptr == (wcex.hCursor = LoadCursor(nullptr, IDC_ARROW))
+0 == RegisterClassEx(&wcex)
+nullptr == (hWnd = CreateWindow( MAINWINDOW_CLASSNAME, szTitle, WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, &notificationManger))
+J=Exception
+ReturnHr
+ReturnHr[PreRelease]
+LogHr
+FailFast
+SetTimer(_hWnd, ID_TIMER, TIMER_MS, nullptr) == 0
+Did not expect event: %ws
+Not showing the icon
+nullptr == (nidSystrayIcon.hIcon = (HICON)LoadImage( hModule.get(), MAKEINTRESOURCE(IDI_GEOLOCATION_WHITE), IMAGE_ICON, GetSystemMetrics(SM_CXSMICON), GetSystemMetrics(SM_CYSMICON), 0))
+0 == LoadString(_hInst, IDS_TOOLTIP, nidSystrayIcon.szTip, sizeof(nidSystrayIcon.szTip) / sizeof(WCHAR))
+!(wil::verify_bool(PostMessageW(_hWnd, 0x0012, 0, 0)))
+NULL
+<RSDS
+LocationNotificationWindows.pdb
+.text$di
+.text$lp01locationnotificationwindows.exe!20_pri7
+.text$lp09locationnotificationwindows.exe!50_coldboot
+.text$mn
+.text$mn$00
+.text$np
+.text$x
+.text$yd
+.text$zs
+.text$zy
+.text$zz
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$00
+.rdata$01
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zzzdbg
+.xdata
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$00
+.data$01
+.data$r
+.data$zz
+.bss
+.bss$00
+.bss$01
+.bss$dk00
+.bss$pr00
+.bss$zz
+.pdata
+.rsrc$01
+.rsrc$02
+EventSetInformation
+EventRegister
+EventUnregister
+EventWriteTransfer
+ADVAPI32.dll
+LoadLibraryExW
+GetModuleHandleExW
+GetModuleHandleW
+GetProcAddress
+GetModuleFileNameA
+CreateMutexW
+CloseHandle
+OutputDebugStringW
+GetCurrentThreadId
+FormatMessageW
+GetLastError
+ExpandEnvironmentStringsW
+FreeLibrary
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+KERNEL32.dll
+GetMessageW
+TranslateMessage
+DispatchMessageW
+LoadStringW
+LoadIconW
+LoadCursorW
+RegisterClassExW
+CreateWindowExW
+SetWindowLongPtrW
+DefWindowProcW
+PostQuitMessage
+GetWindowLongPtrW
+RegisterWindowMessageW
+DestroyMenu
+DestroyIcon
+UnregisterClassW
+LoadMenuW
+SetTimer
+LoadImageW
+GetSystemMetrics
+PostMessageW
+GetCursorPos
+SetForegroundWindow
+GetSubMenu
+TrackPopupMenuEx
+KillTimer
+USER32.dll
+?_Winerror_map@std@@YAPEBDH@Z
+?_Syserror_map@std@@YAPEBDH@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPEBD@Z
+?_Xlength_error@std@@YAXPEBD@Z
+??0id@locale@std@@QEAA@_K@Z
+msvcp110_win.dll
+??3@YAXPEAX@Z
+memmove
+free
+_purecall
+malloc
+_vsnwprintf
+_callnewh
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_ismbblead
+__setusermatherr
+_initterm
+__C_specific_handler
+_acmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UEAA@XZ
+CoUninitialize
+CoCreateInstance
+Sleep
+GetStartupInfoW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+EventWrite
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+Shell_NotifyIconW
+SHELL32.dll
+CoInitialize
+ole32.dll
+SetProcessDpiAwareness
+api-ms-win-shcore-scaling-l1-1-1.dll
+RtlSubscribeWnfStateChangeNotification
+RtlUnsubscribeWnfNotificationWaitForCompletion
+ntdll.dll
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+memset
+.?AVResultException@wil@@
+.?AV?$_Bind@$00XU?$_Pmf_wrap@P8CNotificationManager@@EAAXPEBXK@ZXV1@PEBXKU_Nil@std@@U23@U23@U23@U23@@std@@QEAVCNotificationManager@@AEAV?$_Ph@$00@2@AEAV?$_Ph@$01@2@U_Nil@2@U62@U62@U62@@std@@
+.?AVCAtlException@ATL@@
+X7^\

@@ -1,0 +1,1970 @@
+!This program cannot be run in DOS mode.
+RichM9
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$0H
+|$8H
+|$8H
+L$ L
+SUVWH
+L$0I
+cuwHc
+<z~=<A|
+<Z~5<0|
+<9~-<_t)<$t%
+L$0H
+L$0H
+D$0Hch
+t4<a|
+D$PH
+D$`H
+fffff
+:us@8;unH
+,u]D
+<9~y<_tu<$tqH
+tzH;
+;&u&H
+_^][
+\$ UVWH
+D$pH
+td<a|
+<$u(
+$t	<:u
+<u	A
+\$0I;
+L$pH3
+\$0H
+S 3C
+\$0D
+\$0H
+|$0f
+|$0H
+\$8H
+\$0H
+t$8H
+|$ ATH
+\$0I
+t$8H
+t$8H
+\$0H
+l$@H
+|$HH
+\$0H
+t$8H
+|$ ATH
+\$0I
+t$8H
+t$8H
+\$0H
+l$@H
+|$HH
+\$@H
+t$HH
+t$HH
+\$@H
+\$@H
+t$HH
+t$HH
+\$@H
+\$0H
+t$ ATH
+\$0I
+|$8H
+|$8H
+\$0H
+l$@H
+t$HH
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+\$0H
+t$8H
+\$0H
+t$83
+WATAUH
+|$`H
+l$HH
+\$@H
+ A]A\_
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+\$@H
+t$HH
+t$HH
+\$@H
+@UATAUH
+\$@H
+\$@H
+|$PH
+t$HH
+ A]A\]
+t$HH
+ A]A\]
+ A]A\]
+\$0H
+t$8H
+WATAUAVAWH
+\$PH
+t$`H
+l$XH
+ A_A^A]A\_
+t$ WATAULcI
+t$ E;M
+Hw`H
+t$ H
+\$(H
+l$0H
+t$8A]A\_
+																																																															
+\$0H
+\$0H
+\$0H
+\$0H
+t$8H
+1HcF
+|$ H
+|$ H
+t$8H
+\$0H
+t$ ATH
+t$HH
+\$0H
+l$8H
+|$@H
+l$8H
+t$HH
+9x t
+\$0H9
+WATAUAVAWH
+\$PH
+t$`H
+l$XH
+ A_A^A]A\_
+\$@H
+l$0H
+l$0H
+|$8H
+\$@H
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+u2HcF
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+@SVAVAWH
+l$ Mc
+uTD;k
+l$PM
+|$XL
+t*I;
+d$`H
+|$XD;h
+l$ H;
+(A_A^^[
+(A_A^^[
+\$0H
+\$0H
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+u#HcF
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+|$ ATH
+$IcP
+u#HcF
+\$0H
+l$8H
+t$@H
+|$HH
+HcT$8McJ
+Lc\$8HcJ
+HcD$8H
+\$0HcJ
+l$@H
+t$HH
+\$0H
+t$8H
+\$0H
+\$0H
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+HcT$8McJ
+Lc\$8HcJ
+HcD$8H
+\$0HcJ
+l$@H
+t$HH
+\$0H
+\$@H
+HcT$8McJ
+Lc\$8HcJ
+HcD$8H
+\$0HcJ
+l$@H
+t$HH
+S 3C
+\$0H
+\$0H
+\$0H
+\$0H
+|$ ATH
+$IcP
+\$0H
+l$8H
+t$@H
+|$HH
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+@UVWH
+ Hci
+d$PH
+\$HL
+fffff
+L$@3
+$u <a|
+<z~,<A|
+<Z~$<0|
+T$@H
+d$PH
+\$HH
+ _^]
+SWAUAVH
+L$(H
+\$0H
+T$(H
+wXE3
+D9@ t
+T$ I
+hA^A]_[
+|$HA
+|$(+A
+l$`H
+t$XL
+d$Pffff
+9A t
+T$ H
+$HcH
+D$(D;
+d$PH
+t$XH
+l$`H
+|$HH
+hA^A]_[
+\$@H
+u(IcI
+\$8H
+D$0H
+D$0H;
+\$0H
+\$0H
+\$8H
+t$@H
+t$@H
+ HcB
+\$0H
+t$8H
+|$ ATH
+\$0I
+t$8H
+t$8H
+\$0H
+l$@H
+|$HH
+@SUVWATH
+L$(H
+%t*A;
+ffff
+bt6A;
+T$ A
+L$(H
+cthA;
+dtOA;
+>t6A;
+T$(H
+T$(H
+T$0H
+L$0	G
+PA\_^][
+T$@A
+L$@D
+T$0H
+L$@A
+\$8H
+\$8H
+@SUVWATAUAVAWH
+T$xA
+T$pE
+T$XG
+T$XH
+T$`H
+T$hA
+L$ H
+T$ H
+GtD8
+T$ H
+T$8H
+T$ H
+T$(H
+T$ H
+T$0H
+T$ H
+T$ H
+T$PH
+D8wl
+D8wl
+A_A^A]A\_^][
+T$0A
+L$0D
+T$0H
+T$0H
+L$8H
+WATAUH
+Q 9Q
+\$PH
+l$XH
+t$`H
+0A]A\_
+t$ WATAUAVAWH
+HcD$PH
+\$XH
+t$hH
+l$`H
+ A_A^A]A\_
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+\$0H
+t$8H
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+\$@H
+l$0H
+l$0H
+|$8H
+\$@H
+\$0H
+\$0H
+@SUVH
+T$`M
+T$`H
+T$ H
+ffff
+T$`H
+T$`H
+L$pH
+|$hA;P
+T$`M
+T$`H
+@^][
+@^][
+T$ H
+T$ H
+	uLA
+} Ic
+T$ H
+\$xA
+T$ H
+VWATAUAVH
+}yIc
+T$0H
+T$pL
+\$8D
+\$8D
+\$xH
+@A^A]A\_^
+@SUVWATAUH
+T$pL
+8A]A\_^][
+T$@D
+T$@H
+T$@I
+T$@H
+T$@D
+T$@H
+T$ H
+L$(H
+\$HH
+@SUVWATAUH
+T$pL
+8A]A\_^][
+WATAUH
+\$@9Q
+l$HH
+t$PH
+ A]A\_
+\$0Hc
+tDHcA
+\$0H
+t$@H
+l$8H
+\$0H
+\$0H
+\$ H
+UVWATAUAVAWH
+D$pM
+\$pH
+D$`H
+HcD$hH
+\$xH
+ A_A^A]A\_^]
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+HcT$8McJ
+Lc\$8HcJ
+HcD$8H
+\$0HcJ
+l$@H
+t$HH
+\$0D
+l$8H
+\$0L
+\$0H
+t$8H
+UVWH
+T$(M
+T$0D
+L$8A
+L$hA
+L$HH
+T$XH
+L$@A
+L$ H
+L$xA
+T$ H
+T$`H
+T$pH
+T$ H
+\$0H
+\$0H
+@SUAUH
+	LcY
+|$`L
+tFHc
+pA]][
+t8A;{
+t$hD
+T$0H
+3Lc[
+t:Ic
+T$ H
+\$(D
+T$ H
+\$(D
+t$hI
+;D;G
+t>D;_
+d$XH
+|$`L
+t$PH
+pA]][
+SAUAVH
+L$@D
+l$4D
+L$ H
+T$03
+ffff
+L$@H
+T$xH
+L$ H
+L$ H
+L$@H
+L$@H
+L$HH
+D$ H
+L$ D
+D$ H
+L$ D
+T$ H
+T$pH
+D$@H
+T$pH
+L$XH
+T$ H
+L$0H
+T$@3K
+D$4H
+\$`D
+T$ H
+N@HcB
+A^A][
+T$ H
+|$`D;B
+T$ H
+T$ H
+T$(H
+D$4D
+\$0D3^
+D$8A
+T$ H
+\$ A9k
+F(9h
+T$ H
+T$(H
+D$4D
+\$0D3^
+D$8A
+T$@H
+L$ H
+\$ A9k
+T$ I
+d$0H
+L$(A
+T$ H
+T$ H
+T$(H
+D$4D
+\$0D3^
+D$8A
+t$ht>LcG
+	u	A
+l$pH
+d$xtvH
+|$`H
+|$`H
+@SVWAUAVH
+4u	A
+3u	A
+T$ H
+L$ @
+T$ H
+T$(H
+D$4D
+\$0D3_
+D$8A
+T$ H
+T$ H
+T$(H
+D$4D
+\$0D3_
+D$8A
+T$ H
+D$ 3
+G(9h
+T$ H
+T$(H
+D$4D
+\$0D3_
+D$8A
+T$@H
+L$ H
+T$03
+\$ A9k
+T$ I
+\$0H
+T$ H
+T$ H
+T$(H
+D$4D
+\$0D3_
+D$8A
+}!Hc
+`A^A]_^[
+SUVWATAUAVAWH
+T$`M
+T$`H
+T$0H
+L$8H
+T$hM
+uPIcD$
+IcD$
+T$hH
+uPIcD$
+IcD$
+T$PH
+} Ic
+T$XH
+uMIcE
+T$ H
+T$ H
+T$@M
+uPIcD$
+IcD$
+T$@H
+uWHcF
+t7ff
+T$HH
+L$pH
+uRHcF
+L$xH
+A_A^A]A\_^][
+\$8E
+t$pI
+9A t
+D$xH
+T$PH
+d$xH
+T$PH
+G`E3
+fffffff
+O`HcA
+F0HcH
+T$`H
+L$0A
+T$hH
+L$0E
+L$0H
+D$0;H
+D$0;P
+L$0H
+OHHcA
+F0HcH
+L$0A
+D$pD
+T$@H
+T$@H
+\$8M
+wp+H
+ HcB
+|$0f
+|$0H
+\$8H
+l$@H
+VWAVAWH
+	LcQ
+} Hc
+T$ A
+L$ D
+L$ A
+ffff
+T$0E3
+\$pHcC
+L$pL
+T$0H
+T$0H
+L$pH
+T$pHcJ
+T$pHcB
+L$pH
+T$pHcJ
+T$pHcB
+T$pHcJ
+T$pA
+|IcD$
+IcD$
+T$pHcB
+L$pH
+T$0H
+T$0H
+A_A^_^
+VWAVH
+} Hc
+ffff
+T$0E3
+T$0H
+T$0H
+L$pH
+T$pHcJ
+S 3K
+T$pA
+IcD$
+IcD$
+T$pHcB
+L$pH
+T$pHcJ
+}HcE
+T$pHcB
+T$pHcJ
+T$pA
+|IcD$
+IcD$
+T$pHcB
+\$ H
+L$pH
+T$0H
+T$0H
+A^_^
+UVWH
+T$ A
+T$ H
+T$`HcB
+T$`HcB
+tIHcB
+T$`HcB
+L$`H
+T$ H
+\$`HcC
+L$`L
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+\$0H
+\$0H
+\$0H
+t<Hc
+}#Hc
+>D;_
+}#Hc
+L$xH
+D$ H
+T$ H
+T$ H
+T$`HcB
+T$`HcB
+tIHcB
+T$`HcB
+L$`H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+T$ H
+L$`H
+T$ H
+T$ H
+T$ H
+T$ H
+L$`H
+T$ H
+T$ H
+T$ H
+T$ H
+L$`H
+T$ H
+T$ H
+										
+					
+											
+																																																																												
+													
+l$@H
+\$0H
+|$83
+~7fff
+\$0H
+|$8H
+l$@H
+VWATH
+l$@D
+>\u4
+tzD8n
+D8.t
+l$@I
+\$HH
+l$PI
+ A\_^
+|$0H
+|$0H
+\$8H
+l$@H
+\$0H
+l$0I
+|$83
+|$8H
+l$0H
+\$@H
+L$0H
+l$,;l$<t
+;|$,}
+l$XH
+\$PH
+@UVH
+D$@L
+\$HH
+|$ D;B
+}HHcB
+|$ H
+\$HH
+|$ H+X
+\$HH
+\$0H
+t$8H
+\$0H
+l$8H
+t$@H
+l$8H
+t$@H
+}Yff
+L$0E3
+ow`H
+\$0H
+\$0H
+L$0H
+\$0L;
+D$0H
+\$0H
+\$0H
+l$@H
+|$HH
+|$HH
+l$@H
+\$8H
+\$8H
+p Hcq
+L$`Ic
+Lc ;/tB
+l$(D
+IcD$
+\$XL
+l$(L
+d$0H
+t$hH
+l$PH
+t$ }-
+UVAWH
+t$ H
+unD;v
+D$`D
+D$`D
+|$XMc
+d$hL
+\$PL
+tHI;
+}&IcA
+l$(H
+|$XD;p
+\$P~
+D$`L
+t$ H;
+0A_^]
+0A_^]
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+t$8H
+l$8H
+|$HH
+\$0H
+t$@L
+d$ fff
+IcD$
+d$ H
+t$@H
+\$0H
+|$HH
+l$8H;
+u#IcA
+L$(H
+D$4@
+\$0E
+D$ H
+\$0D
+t$XH
+@VAUH
+(A]^
+l$HI
+\$@H
+|$PL
+t ff
+d$ E)k
+|$PH
+\$@H
+l$HH
+(A]^
+t$ ATH
+l$0H
+|$8H
+|$8H
+l$0D
+\$@H
+t$HH
+L$0H
+\$0L;
+D$0H
+\$0H
+\$0H
+l$@H
+t$HH
+t$HH
+l$@H
+\$8H
+\$8H
+\$0H
+D$PH
+\$0H
+t$@H
+l$8H
+WATAUH
+$HcP
+D9@ t
+ A;h
+\$@H
+l$HH
+t$PH
+ A]A\_
+\$0H
+\$0H
+\$0H
+|$ ATH
+\$`H
+l$HH
+t$PL
+\$@H
+SUVWAUAVAWH
+w!Ic
+L$(H
+l$ D
+T$ +
+T$P3
+D$lE
+T$hI
+,0<	w
+,0<	wWH
+,0<	
+,0<	w
+?(t=H
+T$83
+ud@87t
+t$$H
+L$(H
+T$ I
+D$(3
+L$4I
+L$ H
+L$$H
+\$0D
+t,<'u
+,0<	w
+,0<	wXH
+,0<	
+,0<	w
+T$83
+A_A^A]_^][
+\$0H
+\$0H
+@SUVWATAUH
+t$p3
+|$ H
+t$hA
+T$`A
+T$`I
+IcL$
+L$`H
+|$ L
+t$pH
+(A]A\_^][
+SVWAVH
+L$HH
+|$TH
+fffffff
+T$HH
+d$8D
+\$(D
+d$,D;d$<t
+T$8H
+;|$,}
+|$TD
+L$lH
+|$xf
+A^_^[
+|$0f
+|$0H
+\$8H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0;
+t$8@
+t$ WH
+T$@H
+\$HH
+l$PH
+t$XH
+\$0H
+t$ ATH
+\$0H
+l$8M
+|$@H
+|$@H
+l$8H
+\$0H
+t$HH
+\$@H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0;
+t$8@
+@WATAVAWH
+l$ Mc
+\$PE
+u`D;o
+$D;h
+t$H;
+}%Lc@
+t$`D;h
+l$ H;
+\$PH
+(A_A^A\_
+t$ WH
+\$8f
+T$0H
+\$8H
+l$@H
+t$HH
+\$0H
+\$0H
+\$0A
+\$0A
+D$8@
+T$ H
+D$0H
+L$0H
+|$ H
+t$PH
+t$PH
+\$XH
+@UWH
+t$pL
+t$`D9@ t@
+L$ L
+(D$ f
+d$xL
+l$@L
+*L;m
+t$0H
+t$(H
+t$`L
+t$8L
+l$@L
+d$xH
+|$0H
+\$h+q
+t$pH
+|$ ATAUAVH
+IcL$
+L$03
+(D$0f
+Q 9Q
+IcL$
+L$0H
+(D$0f
+\$`H
+t$pH
+|$xH
+l$hH
+@A^A]A\
+t$0H
+t$0A;P
+\$8H
+\$8H
+\$0H
+\$0H
+\$0Hc
+SATH
+$HcB
+D$8A
+,	IcH
+tKfff
+L$8I
+D$HA
+D$HH
+|$HI
+D$PD
+L$HH
+t$8H
+l$hH
+|$pH
+t$xH
+t$`I
+SATH
+$HcB
+D$8A
+,	IcH
+tJff
+L$8I
+D$HA
+D$HH
+|$HI
+D$PD
+L$HH
+t$8H
+t$`H
+|$pH
+t$xH
+l$hI
+|$0I
+|$0E
+\$8H
+\$8H
+L$ L
+SUVWATAUAVAWH
+D$0M
+l$0E3
+D9p tS
+l$pH
+(D$pf
+t`D;p
+$tdD
+$I;E
+\$xI
+D9p tP
+HcL$x
+l$|D
+uP;h
+~Ufff
+;|$||
+l$|M
+$I;G0u
+$I;_0t3
+D$PH
+\$IH
+T$XH
+L$`E3
+\$`HcC
+T$`H
+\$`H
+|$@H
+fffff
+@8|$It
+$HcJ
+|$X3
+|$XJ
+L$PE3
+L$@H
+L$@H
+L$@E3
+D$@Lc@
+L$@A
+D$@HcH
+L$@E3
+\$@HcC
+L$@E3
+\$@HcC
+L$@A
+D$@HcH
+L$@I
+D;0H
+T$@H
+|$@H
+T$XH
+T$PH
+A_A^A]A\_^][
+t$0H
+t$0A;P
+\$8H
+\$8H
+\$8H
+L$ L
+SUWATAWH
+L$PI
+D$0H
+L$HH
+L$XD
+\$`H
+L$XH
+D$XA
+D$XH
+\$XH
+T$HH
+L$0H
+L$XH
+|$HH
+\$0H
+L$0I
+\$@L
+D$0H
+L$8D
+\$@A9s
+D$0HcH
+L$pH
+\$8L
+\$xH;\$h
+\$8L
+|$hL
+\$8H
+T$@H
+T$hH
+\$8H
+L$xH
+\$8H
+l$hH
+\$8L
+\$8H
+|$0H
+\$8H
+L$0D
+L$0D
+|$0HcG
+|$0H
+L$XH
+|$0H
+t$HH
+|$0H
+L$0I
+A_A\_][
+VAUH
+D$0B
+}(Hc
+L$xH
+T$xH
+v0E3
+l$LD9x tD
+L$`3
+HcD$HL
+(D$Pf
+l$LD
+D$HH
+;|$L|
+L$tH
+l$LM
+\$0H
+\$0H
+\$0H
+t$0H
+\$8H
+t$0H
+\$8H
+\$8H
+T$ H
+T$8H
+L$83
+T$ H
+T$8H
+\$ H
+T$0H
+\$ H
+t$PH
+t$PH
+l$`H
+SUVWH
+L$PL
+|$HH
+L$@E3
+L$@D
+D$XH
+L$@A
+L$PL
+L$PL
+L$PH
+\$HH
+\$H+H
+L$@H
+T$@H
+K(H9
+D$@H
+l$LH
+D$xI
+T$@H
+T$@L
+T$@H
+\$XH
+\$hH
+T$`H
+Hc.H
+L$pD
+D$xH
+L$pA
+L$pI
+\$pL
+D$x;
+L$pD
+\$pLcS
+L$pD
+\$pLcS
+L$pA
+L$pD
+\$pH
+L$pD
+\$pHcC
+L$`L
+\$pH
+L$pH
+T$hH
+D$0B
+|$Xte
+T$xD
+\$XM
+tfD;X
+l$HI
+T$xD
+\$X3
+_^][
+VWATAUAVH
+PxE3
+L$8D
+T$0H
+L$@H
+|$(H
+D$ I
+T$ I
+|$ H
+PA^A]A\_^
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+u2HcF
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+u2HcF
+\$0H
+l$8H
+t$@H
+T$HM
+L$HI
+\$HH
+|$@H
+|$XH
+\$HH
+|$HH
+|$HH
+(D$ H
+L$@H
+T$ f
+L$@H
+L$HH
+L$HA
+\$0H
+VWATAUAVH
+T$ H
+T$ H
+K@HcB
+L$0HcB
+T$8f
+D$(H;
+L$0H
+T$8H
+t$ HcF
+L$pM
+|$pD
+|$pHcG
+\$xH
+@A^A]A\_^
+SUVWATAUAVAWH
+(D$Pf
+T$ H
+T$@H
+\$XH
+L$PH
+(D$Pf
+L$@H
+T$ H
+L$@H
+T$8I
+N@HcB
+L$HH
+D$HH
+T$0I
+T$HH
+t$8HcF
+t$8HcF
+t$8HcF
+D$0A
+T$8HcB
+T$ H
+L$hH
+D$0H
+D$hf
+T$ H
+L$@H
+D$0H
+(D$PH
+T$ H
+L$@H
+D$0A
+t$8HcF
+T$XH
+L$PH
+(D$Pf
+T$@H
+L$pH
+T$pI
+t$8HcF
+A_A^A]A\_^][
+UVWATAUAVAWH
+T$0I
+OxHcB
+\$8HcB
+L$@HcB
+D$8H;
+L$@H
+T$HH
+t$0HcF
+l$0I
+l$0HcE
+(D$ f
+T$(H
+L$ I
+(D$ f
+T$(H
+L$ H
+(D$ f
+T$(I
+L$ H
+(D$ f
+T$(L
+(D$ f
+T$(L
+(D$ f
+T$(L
+(D$ f
+A_A^A]A\_^]
+\$0H
+t$@H
+l$8H
+@SUVWATAUAVH
+t$HH
+L$@H
+(D$@f
+fD9(w
+T$ D
+`A^A]A\_^][
+T$(H
+UVWATAUAVAWH
+WpHcB
+T$0HcB
+L$@HcB
+T$Hf
+l$8H;
+T$ H
+L$@H
+T$HH
+t$0HcF
+WHHcB
+	s4H
+WPHcB
+T$xHcB
+t$xHcF
+WXHcB
+T$XHcB
+L$hHcB
+T$pf
+D$`H;
+L$hH
+T$pH
+|$XA
+|$XIcG
+n@IcE
+A_A^A]A\_^]
+@SUVWATAUAVH
+T$ I
+NxHcB
+L$0HcB
+D$(I;
+L$0L
+D$8H
+t$ HcF
+t$ HcF
+@A^A]A\_^][
+@SATAUAVAWH
+L$03
+(D$ f
+L$ H
+(D$ f
+|$HH
+T$HD
+l$PH
+|$HH
+L$PH
+|$HH
+L$HH
+`A_A^A]A\[
+`A_A^A]A\[
+@SUWH
+t$HL
+\$@H
+\$@H
+D$@H;
+\$@H
+\$@HcC
+t.ffff
+t$HL
+d$PH
+ _][
+ _][
+\$0H
+@SUWAUAVAWH
+D$ 9P
+L$ L
+D$ H
+\$(+H
+L$0H
+L$0A
+T$0H
+L$XH
+L$hH
+T$HD
+T$`H
+D$pH
+D$xH
+L$xH
+L$pH
+|$hHcG
+|$`H
+t$XHcF
+|$HH
+D$ A
+\$(H
+L$8H
+\$(L
+L$xH
+L$pH
+|$hHcG
+|$`H
+t$XHcF
+|$HH
+\$(HcC
+|$ HcG
+T$0H
+\$(HcC
+|$ HcG
+\$(HcC
+|$ HcG
+L$8H
+\$(L
+IcD$
+IcD$
+\$(HcC
+|$ HcG
+A_A^A]_][
+D$8H
+D$8H
+D$@H
+D$@H
+t$0H
+\$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+8csm
+@ = 
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+L$8D
+\$8L3
+\$@H
+bad allocation
+const
+enum 
+struct 
+class 
+uint
+ char
+ short
+ulong
+ long
+ int
+unsigned
+const 
+onst
+ will not work!
+ but does not list it in Q_INTERFACES. qobject_cast to 
+ implements the interface 
+. This is not supported!
+ and 
+ inherits from two QObject subclasses 
+Class 
+void
+Invalid revision
+ is both NOTIFYable and CONSTANT. CONSTANT will be ignored.
+ is both WRITEable and CONSTANT. CONSTANT will be ignored.
+ has no READ accessor function or associated MEMBER variable. The property will be invalid.
+Property declaration 
+USER
+NOTIFY
+EDITABLE
+DESIGNABLE
+WRITE
+STORED
+SCRIPTABLE
+RESET
+READ
+MEMBER
+REVISION
+FINAL
+CONSTANT
+qulonglong
+ULongLong
+qlonglong
+LongLong
+QValueList<QVariant>
+QValueList
+QMap<QString,QVariant>
+QMap
+false
+true
+ does not contain a valid JSON object. Declaration will be ignored
+ does not exist. Declaration will be ignored
+Plugin Metadata file 
+FILE
+Q_DECL_FINAL
+sealed
+final
+QPrivateSignal
+ contains extra qualification. Ignoring as signal or slot.
+Function declaration 
+Not a signal or slot declaration
+Template function as signal or slot
+parsemaybe: Function declaration 
+Q_SLOT
+Q_SIGNAL
+Undefined interface
+' of property '
+' does not exist in class 
+NOTIFY signal '
+const char *
+QByteArray
+The property '
+' is defined multiple times in class 
+'using' directive not supported in 'slots' section
+Not a signal declaration
+Signals cannot be declared virtual
+'using' directive not supported in 'signals' section
+Class declaration lacks Q_OBJECT macro.
+Template classes not supported by Q_GADGET
+Class contains Q_OBJECT macro but does not inherit from QObject
+QObject
+Template classes not supported by Q_OBJECT
+Missing access specifier for slots
+Meta object features not supported for nested classes
+Signals cannot have access specifier
+__VA_ARGS__
+missing ')' in macro argument list
+Duplicate macro parameter.
+Unexpected character in macro argument list.
+'#' or '##' found at the end of a macro argument
+Can't concatenate non identifier tokens
+Macro invoked with too few parameters for a use of '#'
+'#' is not followed by a macro parameter
+missing ')' in macro usage
+QT_NO_KEYWORDS
+'##' cannot appear at either end of a macro expansion
+Moc: internal error
+.framework/Headers/
+method
+signal
+%s(%d): Error: %s
+%s(%d): Parse error at "%s"
+%s(%d): Warning: %s
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN" "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+Usage: qdbuscpp2xml [options...] [files...]
+Parses the C++ source or header file containing a QObject-derived class and
+produces the D-Bus Introspection XML.
+Options:
+  -p|-s|-m       Only parse scriptable Properties, Signals and Methods (slots)
+  -P|-S|-M       Parse all Properties, Signals and Methods (slots)
+  -a             Output all scriptable contents (equivalent to -psm)
+  -A             Output all contents (equivalent to -PSM)
+  -o <filename>  Write the output to file <filename>
+  -h             Show this information
+  -V             Show the program version and quit.
+D-Bus QObject-to-XML converter
+%s version %s
+qdbuscpp2xml
+QDBusMessage
+    </%1>
+      <annotation name="org.freedesktop.DBus.Method.NoReply" value="true"/>
+      <annotation name="org.qtproject.QtDBus.QtTypeName.%1%2" value="%3"/>
+      <arg %1type="%2" direction="%3"/>
+name="%1" 
+      <annotation name="org.qtproject.QtDBus.QtTypeName.Out0" value="%1"/>
+      <arg type="%1" direction="out"/>
+    <%1 name="%2">
+local.
+local.org.qtproject.Qt.
+org.qtproject.QtDBus.
+QDBus
+D-Bus Interface
+unknown option: "%s"
+-o expects a filename
+--help
+      <annotation name="org.qtproject.QtDBus.QtTypeName" value="%3"/>
+    </property>
+    <property name="%1" type="%2" access="%3"
+read
+write
+readwrite
+  <interface name="%1">
+%2  </interface>
+D-Bus Introspection
+</node>
+qdbuscpp2xml: could not open output file '%s': %s
+qdbuscpp2xml: could not open '%s': %s
+<node>
+__cplusplus
+Q_MOC_RUN
+??0QDBusMessage@@QEAA@XZ
+??0QDBusMessage@@QEAA@AEBV0@@Z
+??1QDBusMessage@@QEAA@XZ
+?qDBusParametersForMethod@@YAHAEBV?$QList@VQByteArray@@@@AEAV?$QVector@H@@AEAVQString@@@Z
+?qDBusCheckAsyncTag@@YA_NPEBD@Z
+?signatureToType@QDBusMetaType@@SAHPEBD@Z
+?typeToSignature@QDBusMetaType@@SAPEBDH@Z
+Qt5DBus.dll
+?constData@QByteArray@@QEBAPEBDXZ
+?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
+?qstrcmp@@YAHAEBVQByteArray@@0@Z
+?append@QByteArray@@QEAAAEAV1@AEBV1@@Z
+??0QByteArray@@QEAA@AEBV0@@Z
+?end@QByteArray@@QEBAPEBDXZ
+?mid@QByteArray@@QEBA?AV1@HH@Z
+??0QByteArray@@QEAA@XZ
+??1QByteArray@@QEAA@XZ
+?left@QByteArray@@QEBA?AV1@H@Z
+?endsWith@QByteArray@@QEBA_NPEBD@Z
+?endsWith@QByteArray@@QEBA_ND@Z
+?append@QByteArray@@QEAAAEAV1@D@Z
+?resize@QByteArray@@QEAAXH@Z
+?at@QByteArray@@QEBADH@Z
+?append@QByteArray@@QEAAAEAV1@PEBD@Z
+?reserve@QByteArray@@QEAAXH@Z
+	?data@QByteArray@@QEAAPEADXZ
+?prepend@QByteArray@@QEAAAEAV1@PEBD@Z
+?remove@QByteArray@@QEAAAEAV1@HH@Z
+??4QByteArray@@QEAAAEAV0@AEBV0@@Z
+??0QByteArray@@QEAA@PEBDH@Z
+?shared_null@QListData@@2UData@1@B
+?shared_null@QMapDataBase@@2U1@B
+?shared_null@QHashData@@2U1@B
+?shared_null@QArrayData@@2QBU1@B
+??1QString@@QEAA@XZ
+??1QJsonArray@@QEAA@XZ
+?allocate@QArrayData@@SAPEAU1@_K00V?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+?deallocate@QArrayData@@SAXPEAU1@_K1@Z
++	?createNode@QMapDataBase@@QEAAPEAUQMapNodeBase@@HHPEAU2@_N@Z
+	?createData@QMapDataBase@@SAPEAU1@XZ
+??0QJsonArray@@QEAA@AEBV0@@Z
+??0QString@@QEAA@AEBV0@@Z
+?dispose@QListData@@SAXPEAUData@1@@Z
+?allocateNode@QHashData@@QEAAPEAXH@Z
+??0QByteArray@@QEAA@HW4Initialization@Qt@@@Z
+?qHash@@YAIAEBVQByteArray@@I@Z
+?freeData@QMapDataBase@@SAXPEAU1@@Z
+?freeTree@QMapDataBase@@QEAAXPEAUQMapNodeBase@@H@Z
+?free_helper@QHashData@@QEAAXP6AXPEAUNode@1@@Z@Z
+?detach@QListData@@QEAAPEAUData@1@H@Z
+?detach_grow@QListData@@QEAAPEAUData@1@PEAHH@Z
+?recalcMostLeftNode@QMapDataBase@@QEAAXXZ
+?detach_helper@QHashData@@QEAAPEAU1@P6AXPEAUNode@1@PEAX@ZP6AX0@ZHH@Z
+?append@QListData@@QEAAPEAPEAXXZ
+?realloc@QListData@@QEAAXH@Z
+??0QJsonDocument@@QEAA@AEBV0@@Z
+??0QJsonDocument@@QEAA@XZ
+??1QJsonDocument@@QEAA@XZ
+??4QByteArray@@QEAAAEAV0@PEBD@Z
+?toInt@QByteArray@@QEBAHPEA_NH@Z
+?chop@QByteArray@@QEAAXH@Z
+?isNull@QByteArray@@QEBA_NXZ
+??BQByteRef@@QEBADXZ
+??8QByteRef@@QEBA_ND@Z
+?rehash@QHashData@@QEAAXH@Z
+?erase@QListData@@QEAAPEAPEAXPEAPEAX@Z
+?isObject@QJsonDocument@@QEBA_NXZ
+??4QJsonDocument@@QEAAAEAV0@AEBV0@@Z
+?fromJson@QJsonDocument@@SA?AV1@AEBVQByteArray@@PEAUQJsonParseError@@@Z
+??1QFile@@UEAA@XZ
+?readAll@QIODevice@@QEAA?AVQByteArray@@XZ
+?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+??0QFile@@QEAA@AEBVQString@@@Z
+?canonicalFilePath@QFileInfo@@QEBA?AVQString@@XZ
+??4QFileInfo@@QEAAAEAV0@AEBV0@@Z
+??0QFileInfo@@QEAA@XZ
+?isDir@QFileInfo@@QEBA_NXZ
+?setFile@QFileInfo@@QEAAXAEBVQDir@@AEBVQString@@@Z
+??0QDir@@QEAA@AEBVQString@@@Z
+?exists@QFileInfo@@QEBA_NXZ
+??1QFileInfo@@QEAA@XZ
+??1QDir@@QEAA@XZ
+??0QFileInfo@@QEAA@AEBVQDir@@AEBVQString@@@Z
+?dir@QFileInfo@@QEBA?AVQDir@@XZ
+??0QFileInfo@@QEAA@AEBVQString@@@Z
+?fromLocal8Bit@QString@@SA?AV1@PEBDH@Z
+	?data@QArrayData@@QEAAPEAXXZ
+?begin@QListData@@QEBAPEAPEAXXZ
+?isEmpty@QByteArray@@QEBA_NXZ
+?at@QListData@@QEBAPEAPEAXH@Z
+?size@QListData@@QEBAHXZ
+??YQByteArray@@QEAAAEAV0@AEBV0@@Z
+?end@QListData@@QEBAPEAPEAXXZ
+?willGrow@QHashData@@QEAA_NXZ
+?isEmpty@QListData@@QEBA_NXZ
+?prepend@QByteArray@@QEAAAEAV1@AEBV1@@Z
+?firstNode@QHashData@@QEAAPEAUNode@1@XZ
+?qHash@@YAIVQLatin1String@@I@Z
+?fromRawData@QByteArray@@SA?AV1@PEBDH@Z
+?map@QFileDevice@@QEAAPEAE_J0W4MemoryMapFlags@1@@Z
+?previousNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+?prepend@QByteArray@@QEAAAEAV1@D@Z
+?append@QByteArray@@QEAAAEAV1@PEBDH@Z
+?freeNode@QHashData@@QEAAXPEAX@Z
+?hasShrunk@QHashData@@QEAAXXZ
+?replace@QByteArray@@QEAAAEAV1@DPEBD@Z
+?clear@QByteArray@@QEAAXXZ
+?close@QFileDevice@@UEAAXXZ
+?toLocal8Bit@QString@@QEBA?AVQByteArray@@XZ
+?indexOf@QByteArray@@QEBAHDH@Z
+?startsWith@QByteArray@@QEBA_ND@Z
+?type@QMetaType@@SAHPEBD@Z
+?toHtmlEscaped@QString@@QEBA?AV1@XZ
+??0QString@@QEAA@VQLatin1String@@@Z
+?registerNormalizedType@QMetaType@@SAHAEBVQByteArray@@P6AXPEAX@ZP6APEAX1PEBX@ZHV?$QFlags@W4TypeFlag@QMetaType@@@@PEBUQMetaObject@@@Z
+?normalizedType@QMetaObject@@SA?AVQByteArray@@PEBD@Z
+?append@QString@@QEAAAEAV1@VQLatin1String@@@Z
+?arg@QString@@QEBA?AV1@HHHVQChar@@@Z
+?typeName@QMetaType@@SAPEBDH@Z
+??4QString@@QEAAAEAV0@AEBV0@@Z
+?fromLatin1@QString@@SA?AV1@AEBVQByteArray@@@Z
+??1QDebug@@QEAA@XZ
+??6QDebug@@QEAAAEAV0@PEBD@Z
+?warning@QMessageLogger@@QEBA?AVQDebug@@XZ
+??0QMessageLogger@@QEAA@PEBDH0@Z
+??0QString@@QEAA@XZ
+?append@QString@@QEAAAEAV1@AEBV1@@Z
+?arg@QString@@QEBA?AV1@AEBV1@HVQChar@@@Z
+?fromLatin1@QString@@SA?AV1@PEBDH@Z
+??0QChar@@QEAA@UQLatin1Char@@@Z
+?insert@QString@@QEAAAEAV1@HVQLatin1String@@@Z
+?category@QChar@@SA?AW4Category@1@I@Z
+?at@QString@@QEBA?BVQChar@@H@Z
+?startsWith@QString@@QEBA_NVQChar@@W4CaseSensitivity@Qt@@@Z
+?startsWith@QString@@QEBA_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z
+?replace@QString@@QEAAAEAV1@VQLatin1String@@0W4CaseSensitivity@Qt@@@Z
+??4QString@@QEAAAEAV0@VQLatin1String@@@Z
+?fromUtf8@QString@@SA?AV1@AEBVQByteArray@@@Z
+?remove@QListData@@QEAAXH@Z
+??8QString@@QEBA_NVQLatin1String@@@Z
+?arg@QString@@QEBA?AV1@AEBV1@0@Z
+?write@QIODevice@@QEAA_JAEBVQByteArray@@@Z
+?setFileName@QFile@@QEAAXAEBVQString@@@Z
+?errorString@QIODevice@@QEBA?AVQString@@XZ
+?write@QIODevice@@QEAA_JPEBD@Z
+?open@QFile@@QEAA_NPEAU_iobuf@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@V?$QFlags@W4FileHandleFlag@QFileDevice@@@@@Z
+??0QFile@@QEAA@XZ
+?toLatin1@QString@@QEBA?AVQByteArray@@XZ
+?decodeName@QFile@@SA?AVQString@@PEBD@Z
+Qt5Core.dll
+memcmp
+strncmp
+??_V@YAXPEAX@Z
+??3@YAXPEAX@Z
+??2@YAPEAX_K@Z
+memcpy
+fprintf
+memset
+malloc
+free
+memmove
+exit
+__iob_func
+printf
+MSVCR90.dll
+__C_specific_handler
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_amsg_exit
+__getmainargs
+_XcptFilter
+_exit
+_cexit
+__initenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+__set_app_type
+__crt_debugger_hook
+?terminate@@YAXXZ
+Sleep
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" publicKeyToken="6595b64144ccf1df" language="*" processorArchitecture="*"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD

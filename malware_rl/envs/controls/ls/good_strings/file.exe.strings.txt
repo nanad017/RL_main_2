@@ -1,0 +1,204 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$I4@
+[^_]
+5t`@
+[^_]
+=\`@
+[^_]
+=H`@
+$X<@
+%$q@
+%,q@
+% q@
+%0q@
+%(q@
+%<q@
+CH`.@
+CLP.@
+CP@.@
+CT0.@
+C$``@
+=(0@
+:t#1
+=t`@
+=t`@
+= 0@
+;:tA
+=t`@
+5(0@
+;:tA
+,[^_]
+5$0@
+5$0@
+,[^_]
+8:tD
+[^_]
+5t`@
+?:tD
+5t`@
+=$0@
+5d`@
+5t`@
+[^_]
+$L@@
+[^_]
+%pq@
+%Tq@
+%Xq@
+%\q@
+%`q@
+%dq@
+%8q@
+%hq@
+%tq@
+[^_]
+$<A@
+$pA@
+%Dq@
+%lq@
+%xq@
+%Lq@
+%|q@
+%@q@
+%Hq@
+@(#)$File: file.c,v 1.136 2009/12/06 23:18:04 rrt Exp $
+help
+version
+magic-file
+uncompress
+brief
+checking-printout
+exclude
+files-from
+separator
+mime
+apple
+mime-type
+mime-encoding
+keep-going
+dereference
+no-dereference
+no-buffer
+no-pad
+print0
+preserve-date
+special-files
+compile
+debug
+apptype
+ascii
+compress
+encoding
+soft
+tokens
+POSIXLY_CORRECT
+bcCde:f:F:hikLm:nNprsvz0
+%s-%d.%.2d
+magic file from %s
+%s: %s
+%s: Cannot open `%s' (%s).
+%*s 
+/dev/stdin
+ERROR: %s
+Usage: %s [-bchikLNnprsvz0] [--apple] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       %s -C [-m magicfiles]
+       %s [--help]
+Usage: file [OPTION...] [FILE...]
+Determine type of FILEs.
+      --help                 display this help and exit
+  -%c, --version              output version information and exit
+  -%c, --magic-file LIST      use LIST as a colon-separated list of magic
+                               number files
+  -%c, --uncompress           try to look inside compressed files
+  -%c, --brief                do not prepend filenames to output lines
+  -%c, --checking-printout    print the parsed form of the magic file, use in
+                               conjunction with -m to debug a new magic file
+                               before installing it
+  -%c, --exclude TEST         exclude TEST from the list of test to be
+                               performed for file. Valid tests are:
+                               ascii, apptype, compress, elf, soft, tar, tokens, troff
+  -%c, --files-from FILE      read the filenames to be examined from FILE
+  -%c, --separator STRING     use string as separator instead of `:'
+  -%c, --mime                 output MIME type strings (--mime-type and
+                               --mime-encoding)
+      --apple                output the Apple CREATOR/TYPE
+      --mime-type            output the MIME type
+      --mime-encoding        output the MIME encoding
+  -%c, --keep-going           don't stop at the first match
+  -%c, --dereference          follow symlinks (default)
+  -%c, --no-dereference       don't follow symlinks
+  -%c, --no-buffer            do not buffer output
+  -%c, --no-pad               do not pad output
+  -%c, --print0               terminate filenames with ASCII NUL
+  -%c, --preserve-date        preserve access times on files
+  -%c, --raw                  don't translate unprintable chars to \ooo
+  -%c, --special-files        treat special (block/char devices) files as
+                             ordinary ones
+  -%c, --compile              compile file specified by -m
+  -%c, --debug                print debugging messages
+%s: illegal option -- %c
+%s: option requires an argument -- %c
+%s: illegal option -- %s
+%s: option requires an argument -- %s
+simple
+bogus
+--u option does not have bogus optarg.
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+magic_check
+magic_close
+magic_compile
+magic_error
+magic_file
+magic_getpath
+magic_load
+magic_open
+__errno
+__main
+abort
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fgets
+fopen
+fprintf
+free
+fwrite
+getenv
+malloc
+memcpy
+printf
+putc
+puts
+realloc
+rewind
+setlocale
+strcmp
+strcspn
+strerror
+strlen
+strncmp
+strrchr
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-magic-1.dll
+msys-1.0.dll
+KERNEL32.dll

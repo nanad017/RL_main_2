@@ -1,0 +1,400 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+P@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+WVSH
+ [^_
+WVSH
+D$(H
+0[^_
+WVSH
+ [^_
+WVSH
+|$ H
+@[^_
+<'t+<"t'H
+UWVSH
+L$(L
+D$0H
+t$@H
+T$(H
+L$81
+[^_]
+L$(L
+L$@L
+D$8H
+L$81
+L$@1
+L$8H
+AUATUWVSH
+D$(H
+L$(L
+8[^_]A\A]
+AVAUATUWVSH
+l$0L
+d$ H
+t$8H
+t$ L
+@[^_]A\A]A^
+AUATUWVSH
+8[^_]A\A]
+D$(E1
+D$(H
+D$(H
+ta</t
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-Ay
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;5Wv
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+ATUWVSH
+t$(H
+0[^_]A\
+D$(H
+changed::%s
+changed
+%d.%d.%d
+%s: %s
+true
+false
+settings-schema
+The provided value is outside of the valid range
+The key is not writable
+(&sv)
+type
+type %s
+range
+(**)
+range %s %s %s
+enum
+flags
+%s %s %s
+path
+%-*s   %s
+%-*s   %s:%s
+[COMMAND]
+SCHEMA[:PATH]
+[SCHEMA[:PATH]]
+SCHEMA[:PATH] KEY
+SCHEMA[:PATH] KEY VALUE
+SCHEMA[:PATH] [KEY]
+help
+Print help
+--version
+Print version information and exit
+list-schemas
+List the installed (non-relocatable) schemas
+list-relocatable-schemas
+List the installed relocatable schemas
+list-keys
+List the keys in SCHEMA
+list-children
+List the children of SCHEMA
+list-recursively
+List keys and values, recursively
+If no SCHEMA is given, list all keys
+Get the value of KEY
+Query the range of valid values for KEY
+Set the value of KEY to VALUE
+reset
+Reset KEY to its default value
+reset-recursively
+Reset all keys in SCHEMA to their defaults
+writable
+Check if KEY is writable
+monitor
+Monitor KEY for changes.
+If no KEY is specified, monitor all keys in SCHEMA.
+Use ^C to stop monitoring.
+Unknown command %s
+Usage:
+  gsettings [--schemadir SCHEMADIR] %s %s
+Arguments:
+  SCHEMADIR A directory to search for additional schemas
+  COMMAND   The (optional) command to explain
+SCHEMA
+  SCHEMA    The name of the schema
+  PATH      The path, for relocatable schemas
+[KEY]
+  KEY       The (optional) key within the schema
+  KEY       The key within the schema
+VALUE
+  VALUE     The value to set
+Usage:
+  gsettings --version
+  gsettings [--schemadir SCHEMADIR] COMMAND [ARGS...]
+Commands:
+  help                      Show this information
+  list-schemas              List installed schemas
+  list-relocatable-schemas  List relocatable schemas
+  list-keys                 List keys in a schema
+  list-children             List children of a schema
+  list-recursively          List keys and values, recursively
+  range                     Queries the range of a key
+  get                       Get the value of a key
+  set                       Set the value of a key
+  reset                     Reset the value of a key
+  reset-recursively         Reset all values in a given schema
+  writable                  Check if a key is writable
+  monitor                   Watch for changes
+Use 'gsettings help COMMAND' to get detailed help.
+No such schema '%s'
+Schema '%s' is not relocatable (path must not be specified)
+Empty path given.
+Path must begin with a slash (/)
+Path must end with a slash (/)
+Path must not contain two adjacent slashes (//)
+glib20
+UTF-8
+--schemadir
+Could not load schemas from %s: %s
+No schemas installed
+Empty schema name given
+Schema '%s' is relocatable (path must be specified)
+No such key '%s'
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+g_settings_apply
+g_settings_delay
+g_settings_get_child
+g_settings_get_value
+g_settings_is_writable
+g_settings_list_children
+g_settings_new
+g_settings_new_full
+g_settings_reset
+g_settings_schema_get_id
+g_settings_schema_get_key
+g_settings_schema_get_path
+g_settings_schema_has_key
+g_settings_schema_key_get_range
+g_settings_schema_key_get_value_type
+g_settings_schema_key_range_check
+g_settings_schema_key_unref
+g_settings_schema_list_keys
+g_settings_schema_source_get_default
+g_settings_schema_source_list_schemas
+g_settings_schema_source_lookup
+g_settings_schema_source_new_from_directory
+g_settings_schema_source_ref
+g_settings_schema_source_unref
+g_settings_schema_unref
+g_settings_set_value
+g_settings_sync
+_glib_get_locale_dir
+g_clear_error
+g_free
+g_main_context_iteration
+g_print
+g_printerr
+g_str_equal
+g_str_has_suffix
+g_strdup_printf
+g_strfreev
+g_string_append
+g_string_append_printf
+g_string_free
+g_string_new
+g_string_printf
+g_strsplit
+g_variant_get
+g_variant_get_type_string
+g_variant_iter_init
+g_variant_iter_loop
+g_variant_new_string
+g_variant_parse
+g_variant_parse_error_print_context
+g_variant_print
+g_variant_type_equal
+g_variant_unref
+glib_major_version
+glib_micro_version
+glib_minor_version
+g_object_get
+g_object_unref
+g_signal_connect_data
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_setlocale
+libintl_textdomain
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strcmp
+strlen
+strncmp
+strstr
+vfprintf
+libgio-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libintl-8.dll
+KERNEL32.dll
+msvcrt.dll

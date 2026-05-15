@@ -1,0 +1,1118 @@
+!This program cannot be run in DOS mode.
+iRichl
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$0H
+L$ H
+\$HL
+T$@L
+L$8H
+D$0H
+\$(H
+\$0H
+t$8H
+\$0H
+l$8H
+t$@H
+D$8H
+t$0H
+D$HL
+D$HH
+t$PA
+t$(H
+D$ L
+@85{
+|$@H
+\$0H
+t$8H
+XH9;uxL
+\$ 3
+|$(H
+D$ H
+t$HH
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+WAVAWH
+D$(W
+D$ H
+D$(W
+D$ H
+D$ W
+D$0L
+D$(H
+\$(H
+D$ H
+\$`H
+t$pH
+@A_A^_
+UVWATAUAVAWH
+D$(W
+D$ H
+D$(W
+D$ H
+D$ W
+D$HH
+D$@L
+d$8H
+l$(L
+t$(H
+D$ H
+PA_A^A]A\_^]
+UVWATAUAVAWH
+D$(W
+D$ H
+D$ W
+D$`H
+D$`L
+D$XH
+D$@L
+d$8H
+t$(L
+t$(H
+D$ H
+pA_A^A]A\_^]
+x AVH
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+t$PH
+|$XH
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+t$PH
+D$(W
+D$ H
+\$@H
+x AVH
+\$`H
+D$(W
+D$ H
+\$(H
+D$ H
+\$@H
+t$PH
+|$XH
+D$(W
+D$ H
+L$pD
+D$ph
+D$PE3
+D$XE3
+D$`H
+D$PH
+D$HH
+D$pH
+D$@H
+\$(H
+D$ H
+x AVH
+t$@H
+D$8L
+D$@L
+D$0I
+(t$PL
+\$`I
+UATAUAVAWH
+tO@8p
+D$@A
+D$8A
+D$0A
+uRH;
+D$(W
+D$ H
+u&H;
+D$ W
+t6@8p
+t/@8p
+D$ 3
+t$(H
+D$ H
+\$ H
+D$0M
+D$(H
+A_A^A]A\]
+UWATAVAWH
+|$`3
+|$8L
+|$0D
+|$H3
+D$TH
+D$8H
+D$ L
+t$(H
+D$ L
+L$(H
+D$ L
+L$`A
+D$`H+
+\$(H
+D$`fD98t
+\$8H
+L$0E3
+T$`H
+\$ L
+\$0H
+T$HH
+D$HH
+L$PH;
+\$0H
+\$8H
+A_A^A\_]
+\$0H
+u(8Y`t
+IHE3
+\$0H
+\$0H
+D$(E
+\$0H
+D$(E
+\$0H
+D$(E
+\$0H
+D$(E
+SVWATAUAVAWH
+l$xL
+|$pD
+|$ H
+@8w8t
+0A_A^A]A\_^[
+UVWAVAWH
+fD9;
+tDfD9;t>H
+PA_A^_^]
+x1E3
+VWAVH
+D$ E
+H;5p
+tfE3
+D$(L
+uFE3
+L$0E3
+L$0E3
+`A^_^
+t$8H
+|$@H
+WATAUAVAWH
+d$hI
+\$XH
+t$`H
+ A_A^A]A\_
+SVWATAUAVAWH
+|$pL
+D$(H
+l$xD
+|$pH
+0A_A^A]A\_^[
+t$8H
+t$8H
+\$HH
+t$PH
+t$8H
+|$@H
+\$0H
+\$0H
+KHE3
+SVWAVAWH
+t$hH
+|$`D
+t$hH
+|$pH
+0A_A^_^[
+y@H97u%L
+|$ 3
+\$@H
+t$HH
+t&A9
+\$0H
+l$8H
+t$@H
+\$03
+VWAVH
+L$`H
+D$hH
+\$`H
+T$PH
+T$PH
+\$`H
+\$XH
+0A^_^
+UVWATAUAVAWH
+\$hL
+D9)u%
+D$hA
+D$ L
+t6D9>u
+'D9>u
+D$@I
+t$A;
+t$A;
+t$A;
+D$xH
+l$`E3
+l$xH
+D$ I
+\$xH
+D$`L
+l$XE3
+l$PE3
+l$H3
+l$@H
+l$8L
+l$0L
+l$(H
+D9l$`u
+t$A;
+t$A;
+t$A;
+D$pL
+l$pA
+D$ E3
+l$XH
+D$`L
+l$PE3
+l$HE3
+l$@3
+l$8H
+l$0L
+l$(H
+D9l$`u
+\$hE
+A_A^A]A\_^]
+@SUVWAVH
+T$0A
+D$0H
+L$0H
+D$(H
+D$0H+
+D$ H
+D$ H+
+PuTH
+A^_^][
+UAVAWH
+L$8L
+D$0L
+|$0L
+\$8L
+|$@H
+D$@E3
+D$(E3
+|$ H
+L9|$@
+D$0H
+L$PA
+\$PfD
+t$PfD9|$Pt2H
+fD98u
+D$PH+
+T$0H
+L$@D
+\$8H
+A_A^]
+tWfA;
+ tBf
+	t6H
+\$0H
+l$8H
+t$@H
+H9A(u	
+L$xH
+D$8H
+D$0H
+D$(H
+\$PH
+l$XH
+t$`H
+WATAUAVAWH
+H9Q(u
+D$`3
+x:Hc
+A;>u
+L$xE
+T$`I
+\$PH
+l$XH
+t$hH
+ A_A^A]A\_
+UVWAVAWH
+tO@2
+\$`H
+ A_A^_^]
+D$PI
+D$XH
+|$XH
+\$PH;
+\$PH
+VWAVH
+\$`L
+t$PH
+t$XH
+\$hH
+0A^_^
+\$0H
+t$8H
+SVATAUAVAWH
+M0M!u(
+D$8H
+D$ L
+E9e0
+E;e0
+HA_A^A]A\^[
+UVWAVAWH
+|$PI
+uBf9F
+T$pH
+T$0H
+D$0H
+D$ D
+|$0H
+D$@H
+\$@H
+\$8H
+\$@H
+D$HH
+T$HH
+D$8H
+\$HH
+\$8H
+|$0H
+\$@H
+A_A^_^]
+\$0H
+t$8H
+|$@H
+\$0H
+t$8H
+|$@H
+L$ H
+t$fD9
+\$@H
+L$8I
+D$0H
+D$xD
+D$83
+D$ H
+D$,H
+D$43
+L$ H
+D$(H
+L$8H3
+D$ H
+x ATAVAWH
+1A90u>A9p
+Fu$H
+t$PH
+l$HH
+|$XH
+ A_A^A\
+\$0H
+xu;s
+\$03
+t$8H
+\$@H
+SVWATAUAVAWH
+f94Bu
+L$HH
+D$ H
+D$(H
+D$ H
+D$@H
+fA9tE
+L$8H
+D$0H
+D$(H
+D$ H
+|$@H
+\$0H
+T$HL
+L$8M
+D$ H
+t$@H
+`A_A^A]A\_^[
+x AVH
+D93|\
+\$0H
+l$8H
+t$@H
+|$HH
+UVWATAUAVAWH
+H9>t*H
+A_A^A]A\_^]
+x AWH
+\$0H
+l$8H
+t$@H
+|$HH
+@SVWATAUAVAW
+D$@L
+L$PH
+T$HL
+D$`L
+L$p3
+\$0H
+T$0H
+d$PL
+l$HH
+D$`H
+D$@H
+fD98u
+L$(H
+T$ D
+T$@I
+L$0E3
+D$8A
+|$8@
+t$0H
+|$8D
+t$0H
+d$PL
+l$HH
+t$`H
+t$(H
+D$ A
+D$(H
+D$ E3
+T$pI
+A_A^A]A\_^[
+T$ H
+UVWH
+D$HE3
+D$PH
+D$XH
+D$`H
+D$`H
+L$HH
+L$`H
+T$pH
+L$HH
+D$8L
+L$@H
+D$pH
+L$HH
+L$HH
+\$0H
+t$8H
+x ATAVAWH
+fD;1
+fD;9
+fD;0tlH
+fD;9u
+fD;8uWH
+fD;9u	
+fD;0twH;
+srfD
+fD;0u
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+@USVWH
+L$xL
+L$p3
+D$hH
+\$`H
+9T$x
+9D$`t)H
+L$hH
+9T$xt1H
+ub9T$ht\H
+T$hH
+D$hH
+D$ A
+\$hH
+9T$x
+T$hH
+D$hH
+D$ A
+t$hH
+L$hH
+D$hH
+D$ A
+t$hH
+L$hH
+D$@H
+D$hH
+D$8H
+L$ E3
+t$hH
+?=u$L
+T$ D
+L$xL
+D$ A
+D$`3
+T$`H
+D$`H
+?{uaH
+D$ E3
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+9T$h
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+D$`H
+u|9T$h
+9T$`
+_^[]
+\$ UVWATAUAVAW
+d$0H
+/fD;e
+T$@H
+T$@H
+f;D$@
+d$ L
+T$@H
+y+E3
+d$ H
+T$@H
+fD;!t
+A_A^A]A\_^]
+VWAVH
+\$`H
+L$PH
+\$HH
+\$p3
+D$8H
+D$@H
+D$xH9D$pt
+D$xH
+D$pH
+t$8L
+|$0H
+|$(H
+D$ D
+D$pf
+T$pH
+D$xH9D$pt
+A^_^
+UVWAVAWH
+|$HI
+D$8M
+T$0H
+T$`A
+fD9<Au
+fD9<Xu
+A_A^_^]
+T$`H
+L$0E
+L$8H
+USVWAUAVAWH
+D$(W
+D$ H
+\$(H
+trfE9}
+D$ 3
+\$(H
+D$ H
+|$0E3
+t$(E3
+t$ H
+D$ 3
+\$(H
+D$ H
+t$(H
+D$ H
+`A_A^A]_^[]
+;\$0|gH
+xh;\$H
+EHcD$0H+
+\$8H
+t$@H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L$ f
+: wxfD9:t
+D9=MW
+D$ H
+A_A^A\
+SVWAVH
+\$px
+|$`I
+8A^_^[
+VWAVH
+\$px
+|$`H
+\$hH
+@A^_^
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+WAVAWH
+\$ A;
+\$`H
+t$hH
+0A_A^_
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+T$@H
+L$HH
+T$@L
+L$0L
+L$PH
+L$(H
+L$`H
+L$ 3
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+8csm
+\$0H
+\$0H
+t$8H
+bad allocation
+Invalid parameter passed to C runtime function.
+NULL
+CoCreateInstance for Workspace Runtime failed
+bstrWorkspaceId
+InitializeWorkspaceObject for Workspace Runtime failed
+DisconnectWorkspace failed
+bstrUserName
+bstrPassword
+StartWorkspace failed
+QueryInterface for IWorkspaceScriptable2 failed
+QueryInterface for IWorkspaceScriptable3 failed
+pbCredExist
+IsWorkspaceCredentialSpecified failed
+pbSSOEnabled
+IsWorkspaceSSOEnabled failed
+ClearWorkspaceCredential failed
+OnAuthenticated failed
+pulProcessId
+bstrArguments
+bstrFilePath
+CTscComHelper::StartRemoteApplication failed!
+bstrMstsc
+Invalid MSTSC Location passed in!
+CreateProcess failed!
+bstrHint
+pbstrEncodedToken
+Failed spWorkspace.CoCreateInstance()
+Failed spWorkspace->GetClaimsToken2()
+CoCreateInstance (CLSID_KnownFolderManager) failed in IsValidMstscLocation
+StringCchCopyN (wszFilePath) failed in IsValidMstscLocation
+GetId failed in IsValidMstscLocation
+|Advapi32.dll
+EventActivityIdControl
+Ju9b
+RegDeleteKeyExW
+RegDeleteKeyW
+OG4ow
+=L9o<
+}'wN
+FbstrCommandLine
+bstrRDPFileName
+saParams.Create failed!
+Params.SetAt failed!
+CoCreateInstance failed!
+spWorkspace->GetProcessId failed!
+AllowSetForegroundWindow failed!
+spWorkspace->StartRemoteApplication failed!
+spRemoteDesktopClient->GetProcessId failed!
+spRemoteDesktopClient->StartRemoteApplication failed!
+RSDS)
+TSWbPrxy.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.xdata$x
+ATL$__a
+ATL$__m
+ATL$__z
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+RegCloseKey
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExW
+RegSetValueExW
+RegCreateKeyExW
+RegDeleteValueW
+TraceMessage
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+RegisterTraceGuidsW
+UnregisterTraceGuids
+ADVAPI32.dll
+FreeLibrary
+GetLastError
+GetProcAddress
+LoadLibraryExW
+GetModuleHandleW
+lstrcmpiW
+RaiseException
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceExW
+GetModuleFileNameW
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSection
+GetModuleHandleExA
+GetCurrentProcessId
+CreateProcessW
+CloseHandle
+CompareStringW
+GetCurrentThreadId
+SetEvent
+GetCommandLineW
+Sleep
+CreateEventW
+CreateThread
+WaitForSingleObject
+KERNEL32.dll
+CharNextW
+AllowSetForegroundWindow
+PostThreadMessageW
+CharUpperW
+GetMessageW
+TranslateMessage
+DispatchMessageW
+USER32.dll
+free
+wcsncpy_s
+malloc
+memcpy_s
+wcscpy_s
+wcscat_s
+_purecall
+memset
+??0exception@@QEAA@AEBQEBDH@Z
+??0exception@@QEAA@AEBV0@@Z
+??1exception@@UEAA@XZ
+?what@exception@@UEBAPEBDXZ
+_callnewh
+_CxxThrowException
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+?terminate@@YAXXZ
+??1type_info@@UEAA@XZ
+msvcrt.dll
+_errno
+realloc
+_lock
+_unlock
+__dllonexit
+_onexit
+CoTaskMemFree
+CoTaskMemRealloc
+CoTaskMemAlloc
+CoCreateInstance
+CoInitialize
+CoUninitialize
+StringFromGUID2
+CoRegisterClassObject
+CoRevokeClassObject
+ole32.dll
+OLEAUT32.dll
+PathFindFileNameW
+SHLWAPI.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetTickCount
+OutputDebugStringA
+UnregisterClassA
+__CxxFrameHandler3
+memcmp
+.?AVexception@@
+.?AVbad_alloc@std@@
+.?AVCAtlException@ATL@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.TerminalServices.TSWbPrxy"
+    type="win32"
+<description>Remote Desktop Services Web Proxy</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+HKCR
+    NoRemove AppID
+    {
+        '%APPID%' = s 'TSWbPrxy.exe'
+        {
+            val AuthenticationLevel = d 6
+            val LaunchPermission = b '0100148090000000A0000000140000003000000002001C000100000011001400040000000101000000000010001000000200600004000000000014000B000000010100000000000512000000000018000B00000001020000000000052000000020020000000014000B000000010100000000000504000000000018000B000000010200000000000F02000000010000000102000000000005200000002002000001020000000000052000000020020000'
+            val AccessPermission = b '010014806400000074000000140000003000000002001C000100000011001400040000000101000000000010001000000200340002000000000014000300000001010000000000050A0000000000180003000000010200000000000F02000000010000000102000000000005200000002002000001020000000000052000000020020000'
+            val AppIDFlags = d 56
+            val RunAs = s 'Interactive User'
+        }
+        'TSWbPrxy.exe'
+        {
+            val AppID = s '%APPID%'
+        }
+    }
+HKCR
+    MSTSWebProxy.MSTSWebProxy.1 = s 'MSTSWebProxy Class'
+    {
+        CLSID = s '{B43A0C1E-B63F-4691-B68F-CD807A45DA01}'
+    }
+    MSTSWebProxy.MSTSWebProxy = s 'MSTSWebProxy Class'
+    {
+        CLSID = s '{B43A0C1E-B63F-4691-B68F-CD807A45DA01}'
+        CurVer = s 'MSTSWebProxy.MSTSWebProxy.1'
+    }
+    NoRemove CLSID
+    {
+        ForceRemove {B43A0C1E-B63F-4691-B68F-CD807A45DA01} = s 'MSTSWebProxy Class'
+        {
+            ProgID = s 'MSTSWebProxy.MSTSWebProxy.1'
+            VersionIndependentProgID = s 'MSTSWebProxy.MSTSWebProxy'
+            LocalServer32 = s '%MODULE%'
+            val AppID = s '%APPID%'
+            'TypeLib' = s '{FC5988CF-6D6A-4812-ADD9-2DDE4F47346F}'
+        }
+    }
+    NoRemove Interface
+    {
+        ForceRemove {F3FCCD67-EF87-4914-83B0-D90AF4DD04BB} = s 'IMSTSWebProxy'
+        {
+            NumMethods = s '16'
+            ProxyStubClsid = s '{00020424-0000-0000-C000-000000000046}'
+            ProxyStubClsid32 = s '{00020424-0000-0000-C000-000000000046}'
+            TypeLib = s '{FC5988CF-6D6A-4812-ADD9-2DDE4F47346F}'
+            {
+                Version = s '1.0'
+            }
+        }
+        ForceRemove {F3FCCD68-EF87-4915-83B1-D90AF4DD04BB} = s 'IMSTSWebProxy2'
+        {
+            NumMethods = s '17'
+            ProxyStubClsid = s '{00020424-0000-0000-C000-000000000046}'
+            ProxyStubClsid32 = s '{00020424-0000-0000-C000-000000000046}'
+            TypeLib = s '{FC5988CF-6D6A-4812-ADD9-2DDE4F47346F}'
+            {
+                Version = s '1.0'
+            }
+        }
+        ForceRemove {D3ED7C38-FE93-45C0-8723-A61A3D21EF05} = s 'IMSTSWebProxy3'
+        {
+            NumMethods = s '19'
+            ProxyStubClsid = s '{00020424-0000-0000-C000-000000000046}'
+            ProxyStubClsid32 = s '{00020424-0000-0000-C000-000000000046}'
+            TypeLib = s '{FC5988CF-6D6A-4812-ADD9-2DDE4F47346F}'
+            {
+                Version = s '1.0'
+            }
+        }
+        ForceRemove {A0181877-EF90-4f70-ACA2-6EB74BC537EF} = s 'IMSTSWebProxy4'
+        {
+            NumMethods = s '20'
+            ProxyStubClsid = s '{00020424-0000-0000-C000-000000000046}'
+            ProxyStubClsid32 = s '{00020424-0000-0000-C000-000000000046}'
+            TypeLib = s '{FC5988CF-6D6A-4812-ADD9-2DDE4F47346F}'
+            {
+                Version = s '1.0'
+            }
+        }
+    }
+MSFT
+OG4o
+stdole2.tlbWWW
+P!MSTSWebProxyLibW
+MSTSWebProxyd
+IMSTSWebProxy4WW
+IMSTSWebProxy3WW,
+IMSTSWebProxy2WW
+mIMSTSWebProxyWWW
+qKDisconnectWorkspaceW
+6bstrWorkspaceIdW
+?=StartWorkspaceWW
+bstrUserName
+bstrPassword
+bstrWorkspaceParamsW
+lTimeout
+lFlagsWW
+IsWorkspaceCredentialSpecifiedWW
+ybCountUnauthenticatedCredentials
+jpbCredExistW
+FUIsWorkspaceSSOEnabledWWW
+pbSSOEnabled
+ClearWorkspaceCredential
+iOnAuthenticatedW
+GetProcessId
+pulProcessId
+StartRemoteApplicationWW
+bstrArgumentsWWW
+BbstrFilePath
+bstrRDPDirectory
+StartRemoteDesktopWW
+)bstrMstscWWW,
+9StartWorkspaceEx
+bstrWorkspaceFriendlyNameWWW
+JSbstrRedirectorNameWW
+70StartWorkspaceEx2WWW
+TbstrEventLogUploadAddressWWW
+correlationIdWWW
+GetClaimsTokenWW
+bstrHint
+pbstrEncodedTokenWWW
+tagRECTW
+{left
+topW
+rightWWW
+H{bottomWWd
+SOGetClaimsToken2W
+HclaimCookieW
+hwndCredUiParent
+rectCredUiParent6
+Microsoft Terminal Services Web Proxy 1.0 Type Library
+MSTSWebProxy Class
+IMSTSWebProxy4 InterfaceWW
+IMSTSWebProxy3 InterfaceWW
+IMSTSWebProxy2 InterfaceWW
+IMSTSWebProxy InterfaceWWW
+method DisconnectWorkspace
+method StartWorkspaceW%
+method IsWorkspaceCredentialSpecifiedW
+method IsWorkspaceSSOEnabledWW
+method ClearWorkspaceCredentialWWW
+method OnAuthenticated
+method GetProcessIdWWW
+method StartRemoteApplicationW
+method StartRemoteDesktopW
+method StartWorkspaceExWWW
+method StartWorkspaceEx2WW
+method GetClaimsTokenW
+method GetClaimsToken2

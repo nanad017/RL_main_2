@@ -1,0 +1,518 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+p WAVAWH
+L$PH
+\$@H
+l$HH
+t$XH
+ A_A^_
+UVWH
+\$@H
+ _^]
+D$(D
+x UATAUAVAWH
+D9-`}
+l$1D
+l$9D
+l$5u
+t$@A
+D$@^H
+t$AI
+D8<9u4D
+D8,9
+D8<8t
+<8*u
+~kA;
+D8?tDD
+D8?u
+D8?u
+?*u	I
+l$ H
+l$ E
+?-u(H
+D8(H
+T$4H
+L$4H
+\$0H
+T$8H
+L$0L
+|$ I
+L$0I
+|$ H
+D$@I
+T$@H
+A_A^A]A\]
+x AWH
+\$@H
+l$HH
+t$PH
+|$XH
+UVWH
+E Hc
+M H3
+UVWAVAWH
+L9=q
+MPH3
+A_A^_^]
+L$PL
+T$(H
+T$(H
+u|Hc=
+D$ H
+SVWAVAWH
+L$pL
+\$`H
+D$ L
+t$hH
+\$`L
+t$pH
+0A_A^_^[
+WAVAWH
+H96t6
+H;5D
+\$@H
+l$HH
+t$PH
+ A_A^_H
+UVWATAUAVAWH
+D$hH
+L$XL
+t$@L
+D$8H
+T$PH
+t$0H
+D$(L
+t$@L
+D$8H
+T$PH
+t$0H
+D$(M
+|$XH
+T$pH
+H9;@
+H93uhM
+L$XH
+tBIc
+t4Ic
+L$XIc
+A_A^A]A\_^]
+t?SH
+x AVH
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+VWAVH
+L$X@
+D$X;
+\$@H
+l$HH
+ A^_^
+SUVWATAUAVAWH
+u3M+
+D$pA+
+(A_A^A]A\_^][
+x AWH
+\$0H
+l$8H
+t$@H
+|$HH
+@SUVWAUAVAWH
+t+A+
+L$ H
+<^t0
+A_A^A]_^][
+t3HcS
+D$ H
+\$PH
+@SUVWATAVAWH
+L$@M
+L$0D
+|$ H
+tH9\$0uBI
+A_A^A\_^][
+x AVH
+\$@H
+l$HH
+t$PH
+|$XH
+\$@H
+\$ UVWATAUAVAWH
+D$ L
+t<9-Q
+u	H;5H
+L$@A
+L$(D
+L$(D
+|$ H
+A_A^A]A\_^]
+@SUVWATAUAVAWH
+L$0A
+L$ D
+A_A^A]A\_^][
+WAVAWH
+u	H;=
+\$@H
+l$HH
+t$PH
+ A_A^_
+\$ VWATAVAWH
+D$xI
+\$8H
+T$HH
+L$@H
+T$X3
+|$0H
+T$4H
+9|$4
+9|$4
+|$ E3
+|$ E3
+\$8H9=v
+|$ L
+u)9=
+u!Lc
+HcD$0H
+D$PH
+t$PH
+|$ L
+L$hL
+[9=k
+ 9=P
+|$ L
+Hc\$0H
+L$@H
+D$HI
+t$HI
+B8<&u
+u|9=
+L$XL
+L$xH3
+A_A^A\_^
+UVWATAUAVAWH
+T$PE3
+l$XE3
+t$\D
+t$hA
+t$@3
+t$AD
+t$HH
+L$`L
+:uXH
+D$D/@
+L$DH
+L$DH
+D$@3
+HcD$\
+l$X3
+t$P95i
+t$0E3
+t$(E3
+t$Pu+Ic
+t1E3
+l$X;
+u-95
+|$hH
+t$HA
+u&E;
+}(Ic
+A8<$
+D$`L
+8A8<$
+L$PA
+D$HM
+D$ H
+l$HH
+l$ M
+t$`3
+l$XM
+A_A^A]A\_^]
+tiE;
+L$PE+
+t$ L
+H;t$`
+D$PI
+x%Lc
+<$\u
+T$pI
+H;t$`
+\$0H
+t$@H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+\$0H
+t$8H
+x ATAVAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+UVWATAUAVAWH
+L$pA
+\$hH
+ A_A^A]A\_^]
+u,HcG
+H USH
+D$HD
+D$HE3
+D$03
+D$ L
+D$@L
+D$@H=
+\$0H
+t$@H
+T$ H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+l$8H
+t$@H
+|$HH
+ext-ms-win-ntuser-chartranslation-l1-1-0.dll
+.\[*
+%lu:
+FINDSTR
+OFFLINE
+Failure to convert Unicode to Oem: %d
+Failure to convert MultiByte to Unicode: %d
+FormatMessage failed: %d
+RSDS
+3`Ye
+findstr.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+CharToOemA
+memmove
+_strlwr
+free
+_strupr
+_strncoll
+strcoll
+isalpha
+isupper
+_strnicoll
+strcspn
+islower
+strncpy_s
+exit
+malloc
+strcpy_s
+strcat_s
+_splitpath_s
+_stricmp
+swprintf_s
+sprintf_s
+_itoa_s
+_isatty
+strchr
+isalnum
+tolower
+fgets
+fopen
+fprintf
+clock
+_ultoa
+_fileno
+_setmode
+_wsetlocale
+fclose
+isxdigit
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+RtlUnicodeToOemN
+RtlMultiByteToUnicodeN
+DbgPrint
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+FindFirstFileA
+FindClose
+FindNextFileA
+ExitProcess
+CreateFileA
+GetFileSize
+MapViewOfFile
+UnmapViewOfFile
+SetConsoleTextAttribute
+FormatMessageA
+WriteFile
+InitializeCriticalSection
+GetFileAttributesA
+LeaveCriticalSection
+IsDBCSLeadByte
+ReadFile
+GetConsoleOutputCP
+SetCurrentDirectoryA
+GetStdHandle
+SetThreadPreferredUILanguages
+GetLastError
+EnterCriticalSection
+SetFileApisToOEM
+GetConsoleScreenBufferInfo
+SetConsoleCtrlHandler
+HeapSetInformation
+GetCurrentDirectoryA
+CloseHandle
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-file-l1-2-2.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+CreateFileMappingA
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+lstrlenA
+api-ms-win-core-string-obsolete-l1-1-0.dll
+__iob_func
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+ApiSetQueryApiSetPresence
+api-ms-win-core-apiquery-l1-1-0.dll
+memcpy
+memset
+[^A-Za-z0-9_]
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.Filesystem.Findstr"
+    type="win32"
+<description>Find String (QGREP) Utility</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+CCp.U

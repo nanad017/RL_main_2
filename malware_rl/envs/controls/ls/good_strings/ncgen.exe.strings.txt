@@ -1,0 +1,2386 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+AWAVAUATUWVSH
+D$PI
+D$ A
+|$ H
+S E1
+\$ I
+|$ D
+x[^_]A\A]A^A_
+L$8L
+D$PI
+|$ H
+S E1
+\$ I
+|$ D
+D$LL
+tXE1
+d$ D
+D$LH
+L$P1
+MPE1
+\$ M
+D$PL
+L$PL9N
+d$(H
+D$LH
+D$PH
+d$(D
+L$LI
+H;h 
+L$8I
+L$8I
+L$8I
+d$PH
+T$`Hc
+L$PL
+D$LL
+LcD$XH
+T$`H
+IPE1
+\$ H
+L$8H
+D$PI
+AUATUWVSH
+D$<H
+l$ H
+OPE1
+t$ I
+GHH9X
+l$ I
+V(E1
+H[^_]A\A]
+AWAVAUATUWVSH
+L$DA
+D$\I
+D$\1
+l$ I
+l$ Mc
+D$\1
+h[^_]A\A]A^A_
+C tI
+t$0H
+t$ I
+L$LD
+L$LD
+t$0H
+|$(D
+t$ H
+L$LD
+L$LD
+AWAV
+AUATUWVS
+D$HD
+D$l9
+D$PI
+D$xL
+\$0L
+d$(M
+l$(H
+|$ I
+L$PM
+[^_]A\A]A^A_
+D$xH
+D$XH
+|$`H
+D$pL
+D$`H
+T$XH
+D$pH
+t$ I
+L$HI
+\$ L
+t$ M
+D$`D
+L$lI
+D$(H
+D$XH
+EHE1
+D$pH
+d$ L
+D$xH
+D$(H
+D$ D
+AVAUATUWVSH
+0[^_]A\A]A^
+d$ I
+0[^_]A\A]A^
+AUATUWVSH
+8[^_]A\A]
+D$PM
+UWVSH
+L$xL
+8[^_]
+D$(H
+t?f.
+D$`H
+D$`L
+L$hH
+L$PH
+T$(H
+L$pH
+D$pH
+D$(H
+T$0A
+L$xH
+D$xH
+D$(H
+D$pH
+T$0A
+WVSH
+0[^_
+0[^_
+0[^_
+T$ A
+0[^_
+D$ H
+T$ A
+D$`H
+D$`L
+L$hH
+AWAVAUATUWVSH
+D$HL
+D$@|
+t$E1
+t%H)
+X[^_]A\A]A^A_
+l$8D
+d$0I
+|$(I
+T$LI
+L;|$@
+X[^_]A\A]A^A_
+t$@H
+t$@I)
+AVAUATUWVSH
+tcHc
+T$0D
+l$(L
+d$ I
+L$8H
+@[^_]A\A]A^
+UWVSH
+tOE1
+([^_]
+([^_]
+AWAVAUATUWVSH
+D$ LcL$,t#A9
+D$ I
+D$ I
+t8H9D$ rvL
+|$ 1
+t"I)
+8[^_]A\A]A^A_
+\$ H
+D$ H
+8[^_]A\A]A^A_
+I9\$
+ATUWVSH
+`[^_]A\
+`[^_]A\
+D$PH
+D$PH
+T$XH
+`[^_]A\
+|$(L
+d$ H
+D$PH
+D$PH
+|$PHc
+D$PH
+D$PH
+D$PH
+D$PH
+D$PH
+d$PB
+D$PH
+D$PH
+D$PH
+D$PH
+H1D$P
+D$PH
+H1D$P
+ATUWVSH
+l$ L
+D$$D
+@[^_]A\
+AWAVAUATUWVSH
+|$(H
+|$8H
+[^_]A\A]A^A_
+t$@f
+D$(H
+D$0H
+D$8H
+t4HcA
+t0HcQ
+t$HcA
+(HcA
+ATUWVSH
+D$ H
+D$(H
+D$8t
+|$ H
+l$(H
+D$(H
+D$8H
+@[^_]A\
+AUATUWVSH
+t$ H
+D$ H
+D$(H
+T$0H
+T$8H
+H[^_]A\A]
+WVSH
+ [^_
+D$(M
+WVSH
+ [^_
+AUATUWVSH
+}tHE
+([^_]A\A]
+D$PL
+D$PL
+L$XL
+D$PH
+D$PL
+L$XH
+D$(t
+T$HH
+D$PL
+D$HL
+L$XL
+        H
+T$XL
+D$`L
+t$XH
+WVSH
+T$XL
+D$`L
+L$hH
+|$XH
+t:A9
+ATUWVSH
+t$ H
+0[^_]A\
+WVSH
+ [^_
+WVSH
+ [^_
+AUATUWVSH
+([^_]A\A]
+AWAVAUATUWVSH
+L$0N
+|$0H
+|$8E1
+H[^_]A\A]A^A_
+t$ L
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+\$ L
+WVSH
+.tLH
+ [^_
+_SLASH_
+_DOTf
+WVSH
+ [^_
+AUATUWVSH
+\t*H
+8[^_]A\A]
+L$,xVH
+L$,H
+WVSH
+T$(H
+0[^_
+_dim
+_grp
+_typ
+AWAVAUATUWVSH
+d$0H
+l$(I
+|$ H
+[^_]A\A]A^A_
+l$(H
+d$0H
+t$ I
+l$`H
+9D$\
+\$ H
+9D$\
+L$PD
+d$@H
+|$8H
+l$0I
+t$(L
+l$ L
+L$HH
+l$ I
+|$8H
+l$0H
+t$(L
+l$ I
+d$0H
+l$(H
+|$ I
+l$(L
+d$0H
+t$ H
+T$hI
+d$(H
+t$ H
+AWAVAUATUWVSH
+D$\H
+D$TH
+D$hH
+D$dH
+D$lH
+D$cH
+D$XL
+l$pL
+D$@H
+D$P;D$XttH
+T$PH
+D$@t
+D$P;D$Xu
+\$T1
+L$@I
+D$\E
+|$\H
+l$ I
+L$T1
+|$TH
+l$TH
+|$TH
+d$ I
+l$\H
+d$(H
+l$ H
+l$ I
+\$8H
+l$0H
+l$(L
+|$ I
+\$ I
+\$(H
+l$ I
+\$ I
+l$ I
+;t$T
+t$dH
+D$@H
+l$TE
+d$p1
+[^_]A\A]A^A_
+|$@H
+T$hI
+t$ I
+t$@H
+l$HH
+L$@E1
+D$@L
+t$HH
+L$PH
+t$ H
+t$HH
+D$@H
+t$HH
+t$XH
+l$ I
+D$@H
+t$lD
+|$XH
+AWAVAUATUWVSH
+ftCH
+h[^_]A\A]A^A_
+T$XL
+L$XH
+L$XH
+\$(H
+t$ I
+|$ I
+|$ I
+t$8L
+l$0H
+|$(H
+t$ I
+T$XL
+L$XH
+L$XH
+t$(H
+d$ I
+d$(H
+|$ H
+d$@H
+t$8H
+|$0I
+t$(L
+|$ I
+|$HH
+t$@L
+d$8I
+|$0H
+t$(I
+\$ I
+\$@H
+t$8L
+d$0I
+|$(L
+|$ I
+|$HH
+t$@L
+d$8I
+|$0H
+t$(I
+\$ I
+d$@H
+t$8L
+l$0I
+|$(H
+t$ I
+|$(H
+d$ I
+l$ H
+|$ I
+WVSH
+ [^_
+AVAUATUWVSH
+ftKH
+@[^_]A\A]A^
+D$0I
+D$(L
+l$ E
+D$ D
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+D$(L
+l$ E
+AWAV
+AUATUWVS
+D$`H
+L$HH
+D$PL
+D$_H
+D$TH
+D$XH
+D$|1
+|$hD
+D$P1
+t$PE
+L$H1
+D$(H
+ t=H
+WhE1
+WhE1
+D$0D
+T$(I
+D$X1
+\$T1
+t$TE
+l$HH
+l$`I
+[^_]A\A]A^A_
+D$(H
+T$|I
+WVSH
+ [^_
+T$HH
+T$HL
+D$PL
+L$XH
+\$0H
+D$(H
+netCDF cH
+D$0H
+lassic: L
+D$8H
+not suppH
+D$@H
+orted: 
+T$(H
+UWVSH
+D$8H
+T$8H
+H[^_]
+UWVSH
+D$8H
+T$8H
+L$XL
+L$XH
+WVSH
+\$ A
+\$ A
+ATUWVSH
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+UWVSH
+T$@H
+T$HH
+T$PH
+D$Xt
+L$ H
+D$ H
+T$@H
+D$@H
+D$(H
+D$HH
+D$0H
+D$PH
+D$8H
+h[^_]
+L$ H
+\$@H
+h[^_]
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+D$,I
+ATUWVSH
+ftSH
+`[^_]A\
+`[^_]A\
+`[^_]A\
+T$@H
+T$HH
+T$PH
+D$Xt
+L$ H
+D$ H
+|$@H
+D$@H
+D$(H
+D$HH
+D$0H
+D$PH
+D$8H
+D$XH
+|$@H
+L$ L
+AVAUATUWVSH
+A9>~bM
+ [^_]A\A]A^
+t`E1
+UWVSH
+([^_]
+([^_]
+WVSH
+T$(H
+p[^_
+p[^_
+WVSH
+ [^_
+AVAUATUWVSH
+[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+ATUWVSH
+ [^_]A\
+ [^_]A\
+v5L9
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+AUATUWVSH
+H;x t
+([^_]A\A]
+([^_]A\A]
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+itLH
+ I94$H
+I94$H
+H[^_]A\A]A^A_
+T$ H
+T$0H
+L$ Lc
+D$ B
+L$8J
+D$ f.
+L$ H
+AWAVAUATUWVSH
+L$0H
+L$0H
+L$(L
+L$0H
+D$(1
+9D$ 
+9D$ 
+G\uK
+G\uK
+L$ L
+L$0H
+D$ I
+D$0E1
+T$ I
+D$0I
+D$8I
+D$@I
+D$HI
+L$0H
+X[^_]A\A]A^A_
+ATUWVSH
+ [^_]A\
+ [^_]A\
+UWVSH
+([^_]
+UWVSH
+([^_]
+"t6H
+'tP~.A
+,tHA
+\u2A
+AWAVAUATUWVSH
+t$0D
+r9Ic
+h[^_]A\A]A^A_
+L91s<K
+t2<%
+t$(1
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+UWVSH
+([^_]
+ATUWVSH
+|$pH
+ [^_]A\
+UWVSH
+D$xH
+T$xL
+D$8H
+T$8H
+H[^_]
+AUATUWVSH
+D$ I
+T$8H
+D$(I
+D$0H
+l$$H
+D$(H
+D$8H
+H[^_]A\A]
+WVSH
+|$ A
+0[^_
+WVSH
+ [^_
+ [^_
+T$(H
+8"t$
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+WVSH
+t6Hc
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+tJE1
+ [^_
+AWAVAUATUWVSH
+|$(H
+|$8D
+d$0E
+|$0H
+L$(L
+h[^_]A\A]A^A_
+|$(L
+<:H9
+D$(O
+{8H)
+|$(H
+\$XL
+D$PL
+\$XH
+L$HL
+D$PI
+t@Hc
+S$H)
+D$HI
+L$PL
+LcL$Pu
+|$(HcD$DH
+|$0uB
+D$(H
+L$(D
+D$HH
+txHcT$DL
+|$(H
+D$XD
+L$HD
+L$HD
+T$PD
+D$XI
+T$HI
+AUATUWVSH
+([^_]A\A]
+t{~.
+t ~N
+AVAUATUWVSH
+`[^_]A\A]A^
+d$P1
+`[^_]A\A]A^
+L9uPt
+`[^_]A\A]A^
+HcT$HH
+D$PH
+AWAV
+AUATUWVS
+D$hH
+D$PI
+D$xH
+D$pH
+D$0fA
+T$0H
+T$HL
+L;|$Pt
+|$HM
+D$XH
+t$gH
+D$gH
+t$XL
+D$@H
+g Hc
+D$0H
+|$HM
+D$`E
+tAM9
+L;|$Pt
+H;L$ht
+[^_]A\A]A^A_
+D$`H
+D$8H
+T$@L
+L$8A
+L$8A
+L$8A
+|$XH
+D$gH
+\$XH
+D$gD
+D$8A
+D$8A
+D$8A
+D$8A
+D$8A
+H;L$ht
+L$@H
+T$8A
+D$hH
+ATUWVSH
+l$ H
+`[^_]A\
+UWVSH
+([^_]
+WVSH
+ [^_
+ATUWVSH
+0[^_]A\
+0[^_]A\
+WVSH
+)t$0
+L$(H
+L$(H
+(t$0H
+@[^_
+H`fI
+AWAVAUATUWVSH
+D$(A
+\$(~&f
+8[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+6w:A
+0u	H
+UWVSH
+([^_]
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+UWVSH
+dtWH
+([^_]
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+WVSH
+ [^_
+ [^_
+ [^_
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+UWVSH
+([^_]
+UWVSH
+([^_]
+UWVSH
+([^_]
+WVSH
+tN;Q
+ [^_
+ [^_
+t"9Q
+UWVSH
+([^_]
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+D$ L
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+WVSH
+T$(H
+0[^_
+WVSH
+T$(H
+0[^_
+ATUWVSH
+ [^_]A\
+ [^_]A\
+~A\H
+~A\A
+ATUWVSH
+d$ H
+ u(H
+[^_]A\
+_dim
+AWAVAUATUWVSH
+D$HL
+D$PH
+D$OH
+D$NH
+t$HE
+|$HH
+D;t$DtiI
+D;t$Du
+\$HE
+|$ H
+d$DI
+d$ H
+t$0L
+d$(H
+|$ H
+;l$D
+t$TH
+t$Pf
+l$`1
+L$`H
+L$`H
+[^_]A\A]A^A_
+x;Ic
+T$XI
+T$ H
+t$`H
+l$Tt:
+Hc@\
+l$Pt6H
+Hc@\
+t$ H
+AWAVAUATUWVSH
+ft@H
+[^_]A\A]A^A_
+t$ H
+T$XL
+L$XH
+T$HH
+l$ H
+l$`L
+L$DH
+|$ H
+d$ H
+d$ H
+L$DH
+d$(H
+l$ H
+T$HH
+t$8H
+l$0H
+l$(L
+d$ I
+L$DH
+|$ H
+|$ H
+t$ H
+T$(H
+WVSH
+T$(H
+p[^_
+|$0H
+|$0H
+|$0H
+|$0D
+|$0H
+|$0H
+D$0'\''
+D$`H
+D$`L
+L$hH
+L$PH
+WVSH
+ [^_
+AWAVAUATUWVSH
+L$8I
+D$OH
+D$DH
+D$HH
+t$ H
+L$8H
+t$ H
+|$ H
+;t$8tiI
+|$(H
+l$ H
+l$@f
+|$ H
+t$(L
+l$ H
+D;t$@
+X[^_]A\A]A^A_
+WVSH
+ [^_
+AWAVAUATUWVSH
+ftFH
+X[^_]A\A]A^A_
+|$ H
+\$ H
+l$0L
+l$ H
+\$(L
+t$ H
+\$(H
+l$ I
+l$ H
+|$ H
+\$ H
+T$(H
+UWVSH
+L$hL
+([^_]
+D$`H
+D$`L
+L$hH
+L$PH
+L$PH
+\$ H
+[^_]A\
+Y8D9
+A0[^
+Q@HcY
+t_Lc
+M9QHw
+QHL)
+AHH9
+I(r&H
+t2~c
+?w>I
+?w+I
+tnvL
+UWVSH
+l$HM
+v4M9
+[^_]
+[^_]
+AWAVAUATUWVSH
+l$hI
+v]I9
+([^_]A\A]A^A_
+AUATUWVSH
+l$XM
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+AWAVAUATUWVSH
+L$pH
+|$pH
+([^_]A\A]A^A_
+AUATUWVSH
+d$XI
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+AWAVAUATUWVSH
+D$,H
+8[^_]A\A]A^A_
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+AUATUWVSA
+~PHc
+7~7H
+[^_]A\A]
+WVSH
+T$XL
+D$`H
+t$XL
+L$hH
+t$(H
+0[^_
+AWAVAUATUWVSH
+D$8H
+D$0M
+L$,E
+H[^_]A\A]A^A_
+DD$,
+|$0M
+D$8H
+HcD$<L
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+T$ L
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtH
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtR
+ATUWVSH
+|$@1
+t$0D
+d$(H
+\$ I
+[^_]A\
+UWVSH
+D$,H
+D$,E
+8[^_]
+AWAVAUATUWVSH
+l$(H
+D$(H
+H[^_]A\A]A^A_
+Hc8)
+t$0I
+D$0<
+UWVS
+[^_]
+"&<>
+Expected primitive found {..}
+fill->length == 1
+assertion failure: %s
+prim->nctype != NC_COMPOUND
+Data value is not consistent with the expected type: %s
+Conversion to enum not supported (yet)
+Compound data fill value is not enclosed in {..}
+Compound data must be enclosed in {..}
+Datalist longer than the number of compound fields
+Vlen data fill value is not enclosed in {..}
+Vlen data must be enclosed in {..}
+Dimensioned fields must be enclose in {...}
+generate_basetype: unexpected subclass %d
+generate.c
+panic("generate_basetype: unexpected subclass %d",tsym->subclass)
+dimset->ndims > 0
+rank > 0
+dimindex >= 0 && dimindex < rank
+(dimindex < nextunlimited && (dimset->dimsyms[nextunlimited]->dim.isunlimited))
+Expected {...} representing unlimited list
+Usage: %s [ -b ] [ -c ] [ -f ] [ -k kind ] [ -x ] [-S struct-format] [-M <name> [ -o outfile]  [ file ... ]
+netcdf library version %s
+main
+Please specify only one language
+-c is deprecated: please use -lc
+-f is deprecated: please use -lf77
+.cdf
+%s: out of memory
+hbcfk:l:no:v:xdM:D:B:P
+Main
+%s: only one input file argument permitted
+can't open file %s for reading: 
+Input file contains a BOM indicating a non-UTF8 encoding
+Java or Fortran requires classic model CDL input
+-k or _Format conflicts with enhanced CDL input
+assertion failure: %s
+%s: output language %s not implemented
+Invalid format: %s
+fortran77
+Fortran77
+java
+classic
+64-bit-offset
+64-bit offset
+hdf5
+netCDF-4
+netcdf-4
+netcdf4
+enhanced
+hdf5-nc3
+netCDF-4 classic model
+enhanced-nc3
+static const %s vlen_%u[] = {
+{%u,(void*)vlen_%u}
+'\''
+'%s'
+%hhd
+nanf
+%hhu
+%lldLL
+%lluLLU
+NULL
+ncstype: bad type code: %d
+cdata.c
+panic("ncstype: bad type code: %d",con->nctype)
+bin_constant: unexpected type: %d
+bindata.c
+panic("bin_constant: unexpected type: %d",con->nctype)
+unexpected constant type
+genchar.c
+panic("unexpected constant type")
+islistconst(c)
+assertion failure: %s
+!islistconst(c)
+Encountered non-string and non-char constant in datalist; ignored
+character data list too long
+bbLength(databuf) == 0
+Encountered non-string and non-char constant in datalist
+Conversion to enum not supported (yet)
+%hhd
+%hhu
+%llu
+%lld
+%.8g
+transform: illegal conversion: %s/%d -> %s/%d
+C%hhu
+%llu
+%hhd
+%lld
+((double)%.16g)
+((float)%.8g)
+vbbprintf: unknown specifier: %c
+data.c
+panic("vbbprintf: unknown specifier: %c",(char)c)
+list != NULL
+assertion failure: %s
+con != NULL
+src != NULL && dl != NULL
+src != NULL
+con->nctype == NC_COMPOUND
+srcsetfill: no space
+panic("srcsetfill: no space")
+srcsetfill: not fill
+panic("srcsetfill: not fill")
+dl1 != NULL
+dl != NULL
+index < dl->length
+c != NULL
+panic
+malloc:out of memory
+realloc:out of memory
+Cannot convert UTF8 string to UTF16: %s
+//char(%u)
+char(0)
+_X%2.2X
+DIGIT_%c_
+escapes.c
+0123456789abcdefABCDEF
+01234567
+Bad octal constant: %s
+quot
+0123456789ABCDEF
+_SPACE_
+_EXCLAMATION_
+_QUOTATION_
+_HASH_
+_DOLLAR_
+_PERCENT_
+_AMPERSAND_
+_APOSTROPHE_
+_LEFTPAREN_
+_RIGHTPAREN_
+_ASTERISK_
+_PLUS_
+_COMMA_
+_MINUS_
+_PERIOD_
+_COLON_
+_SEMICOLON_
+_LESSTHAN_
+_EQUALS_
+_GREATERTHAN_
+_QUESTION_
+_ATSIGN_
+_LEFTBRACKET_
+_BACKSLASH_
+_RIGHTBRACKET_
+_CIRCUMFLEX_
+_BACKQUOTE_
+_LEFTCURLY_
+_VERTICALBAR_
+_RIGHTCURLY_
+_TILDE_
+_SLASH_
+NC_CHAR
+NC_BYTE
+NC_SHORT
+NC_INT
+NC_FLOAT
+NC_DOUBLE
+NC_UBYTE
+NC_USHORT
+NC_UINT
+NC_INT64
+NC_UINT64
+NC_STRING
+nctype: bad type code
+genc.c
+panic("nctype: bad type code")
+char
+signed char
+short
+float
+double
+unsigned char
+unsigned short
+unsigned int
+signed long long
+unsigned long long
+char*
+ncctype: bad type code:%d
+panic("ncctype: bad type code:%d",type)
+text
+schar
+ubyte
+ushort
+uint
+longlong
+ulonglong
+string
+ncstype: bad type code: %d
+sym->fqn != NULL && sym->name != NULL
+ncid
+sym->objectclass == NC_GRP
+assertion failure: %s
+%sstat = nc_close(%s);
+check_err(stat,__LINE__,__FILE__);
+return 0;
+tsym->objectclass == NC_TYPE
+%sstat = nc_def_opaque(%s, %lu, "%s", &%s);
+%s%s econst;
+%sstat = nc_def_enum(%s, %s, "%s", &%s);
+econst->subclass == NC_ECONST
+%seconst = %s;
+%sstat = nc_insert_enum(%s, %s, "%s", &econst);
+%sstat = nc_def_vlen(%s, "%s", %s, &%s);
+%sstat = nc_def_compound(%s, sizeof(%s), "%s", &%s);
+efield->subclass == NC_FIELD
+%sstatic int %s_dims[%d] = {
+e->dim.isconstant
+NC_COMPOUND_OFFSET(%s,%s)
+%sstat = nc_insert_array_compound(%s, %s, "%s", %s, %s, %d, %s_dims);
+%sstat = nc_insert_compound(%s, %s, "%s", %s, %s);
+genc_deftype: unexpected type subclass: %d
+NC_CLOBBER
+NC_CLOBBER|NC_64BIT_OFFSET
+NC_CLOBBER|NC_NETCDF4|NC_CLASSIC_MODEL
+NC_CLOBBER|NC_NETCDF4
+NC_CONTIGUOUS
+NC_CHUNKED
+NC_SHUFFLE
+NC_NOSHUFFLE
+NC_ENDIAN_LITTLE
+NC_ENDIAN_BIG
+NC_FILL
+NC_NOFILL
+#include <stdio.h>
+#include <stdlib.h>
+#include <netcdf.h>
+#define nanf (0.0f/0.0f)
+#define nan  (0.0/0.0)
+#define inff (1.0f/0.0f)
+#define inf  (1.0/0.0)
+#define infinityf inff
+#define infinity  inf
+typedef unsigned char %s[%lu];
+#define %s ((%s)%s)
+typedef %s %s;
+typedef nc_vlen_t %s;
+typedef struct %s {
+%s%s %s
+dim->dim.isconstant
+} %s;
+definectype: unexpected type subclass: %d
+%s%ld
+static size_t %s_chunksizes[%d] = {
+void
+check_err(const int stat, const int line, const char *file) {
+if (stat != NC_NOERR) {
+(void)fprintf(stderr,"line %d of %s: %s\n", line, file, nc_strerror(stat));
+fflush(stderr);
+exit(1);
+%s() {/* create %s */
+int  stat;  /* return status */
+int  ncid;  /* netCDF id */
+/* group ids */
+%sint %s;
+/* type ids */
+/* dimension ids */
+/* dimension lengths */
+%ssize_t %s_len = NC_UNLIMITED;
+%ssize_t %s_len = %lu;
+/* enter define mode */
+    int %s;
+/* rank (number of dimensions) for each variable */
+#   define RANK_%s %d
+/* variable shapes */
+    int %s_dims[RANK_%s];
+unknown cmode modifier
+    stat = nc_create("%s", %s, &ncid);
+    %s = ncid;
+%sstat = nc_put_att_text(ncid, NC_GLOBAL, "_Format", 1, "%s");
+null container
+panic("null container")
+    stat = nc_def_grp(%s, "%s", &%s);
+/* define dimensions */
+    stat = nc_def_dim(%s, "%s", %s_len, &%s);
+/* define variables */
+    %s_dims[%d] = %s;
+_dims
+    stat = nc_def_var(%s, "%s", %s, RANK_%s, %s, &%s);
+    stat = nc_def_var_chunking(%s, %s, %s, 
+NULL
+%s_chunksizes
+    stat = nc_def_var_fletcher32(%s, %s, %d);
+    stat = nc_def_var_deflate(%s, %s, %s, %d, %d);
+    stat = nc_def_var_endian(%s, %s, %s);
+    stat = nc_def_var_fill(%s, %s, %s, NULL);
+/* assign global attributes */
+/* assign per-variable attributes */
+/* don't initialize variables with fill values */
+stat = nc_set_fill(%s, NC_NOFILL, 0);
+/* leave define mode */
+    stat = nc_enddef (%s);
+/* assign variable data */
+/* variable ids */
+NC_GLOBAL
+%sstatic const %s %s_att[%ld] = 
+%sstat = nc_put_att_%s(%s, %s, "%s", %s, %lu, %s_att);
+%sstat = nc_put_att_%s(%s, %s, "%s", %lu, %s);
+Non-classic type: %s
+%sstat = nc_put_att_%s(%s, %s, "%s", %s, %lu, %s_att);
+%sstat = nc_put_att_%s(%s, %s, "%s", %lu, %s_att);
+%sstat = nc_put_att(%s, %s, "%s", %s, %lu, %s_att);
+size_t count = 0;
+%sstatic %s %s_data[1] = {%s};
+%sstat = nc_put_var1(%s, %s, &count, %s_data);
+%schar* %s_data = 
+%s%s %s_data[%lu] = 
+%ssize_t %s_startset[%lu] = {
+%s%lu
+%sstat = nc_put_vara(%s, %s, %s_startset, %s_countset, %s_data);
+illegal symbol for genc_write
+panic("illegal symbol for genc_write")
+%ssize_t %s_countset[%lu] = {
+genbin.c
+genbin_defineattr: unexpected basetype: %d
+panic("genbin_defineattr: unexpected basetype: %d",basetype->typ.typecode)
+illegal symbol for genbin_write
+panic("illegal symbol for genbin_write")
+tsym->objectclass == NC_TYPE
+assertion failure: %s
+econst->subclass == NC_ECONST
+efield->subclass == NC_FIELD
+definectype: unexpected type subclass
+%s: %s line %d: 
+snprintf failure
+generr.c
+panic("snprintf failure")
+genlib.c
+sym->grp.is_root
+parent->objectclass == NC_TYPE
+parent->fqn != NULL
+sym->objectclass == NC_ATT
+nc_getfill: unrecognized type: %d
+tsym->objectclass == NC_TYPE
+assertion failure: %s
+fill: unexpected subclass %d
+getfill.c
+panic("fill: unexpected subclass %d",tsym->subclass)
+tvsym->objectclass == NC_VAR || tvsym->objectclass == NC_TYPE
+NC_FILL_BYTE
+NC_FILL_CHAR
+NC_FILL_SHORT
+NC_FILL_INT
+NC_FILL_FLOAT
+NC_FILL_DOUBLE
+NC_FILL_UBYTE
+NC_FILL_USHORT
+NC_FILL_UINT
+NC_FILL_INT64
+NC_FILL_UINT64
+NC_FILL_STRING
+unexpected default fill name
+panic("unexpected default fill name")
+Gdimset != NULL
+assertion failure: %s
+dimset->ndims > 0
+odom->rank <= NC_MAX_VAR_DIMS
+odom->start[i] + odom->count[i] <= odom->declsize[i]
+dimset->ndims > 0 && dimset->ndims >= stop
+stop > start
+[%lu/%lu..%lu:%lu]
+odom->rank > 0
+nctypealignment: bad type code: %d
+offsets.c
+panic("nctypealignment: bad type code: %d",nctype)
+char
+unsigned char
+short
+unsigned short
+unsigned int
+long
+unsigned long
+long long
+unsigned long long
+float
+double
+void*
+nc_vlen_t
+field->subclass == NC_FIELD
+assertion failure: %s
+NIL data can only be assigned to variables or attributes of type string
+thisunlim->dim.isunlimited
+con->nctype == NC_COMPOUND
+Expected character constant, found {...}
+Illegal character constant: %d
+asym->data != NULL
+computesize: unexpected type class: %d
+semantics.c
+panic("computesize: unexpected type class: %d",tsym->subclass)
+Undefined enum or enum constant reference: %s
+Undefined group reference: 
+Undefined enum or enum constant reference: 
+Ambiguous enum constant reference: %s
+parent == NULL || parent->objectclass == NC_GRP
+type re-touched
+panic("type re-touched")
+Circular type dependency for type: %s
+Variable: %s: UNLIMITED must be in first dimension only
+Empty datalist can only be assigned to attributes of type char
+asym->att.var != NULL
+sym->objectclass == NC_TYPE
+esym->subclass == NC_ECONST
+tsym->objectclass == NC_TYPE
+UNLIMITED dimension (other than first) must be enclosed in {}
+rootgroup has a container
+panic("rootgroup has a container")
+symbol with no container: %s
+panic("symbol with no container: %s",sym->name)
+group with reference container: %s
+panic("group with reference container: %s",sym->name)
+group not in container: %s
+panic("group not in container: %s",sym->name)
+group with null subnodes: %s
+panic("group with null subnodes: %s",sym->name)
+type not in container: %s
+panic("type not in container: %s",sym->name)
+dimension not in container: %s
+panic("dimension not in container: %s",sym->name)
+variable not in container: %s
+panic("variable not in container: %s",sym->name)
+variable with undefined type: %s
+panic("variable with undefined type: %s",sym->name)
+NULL
+locate: bad refsym type: %d
+panic("locate: bad refsym type: %d",refsym->objectclass)
+locate: %s: %s -> %s
+nctypesize: bad type code
+panic("nctypesize: bad type code")
+syntax error, unexpected %s, expecting %s or %s or %s or %s
+syntax error
+syntax error, unexpected %s
+syntax error, unexpected %s, expecting %s
+syntax error, unexpected %s, expecting %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s
+Stack now
+unexpected attribute type: %d
+ncgen.y
+panic("unexpected attribute type: %d",kind)
+Attribute data may not contain fill values (i.e. _ ): %s
+%s: %s line %d: 
+Data constant: unexpected NC type: %s
+Token=%d |%s| line=%d
+token
+nterm
+%s %s (
+Deleting
+64 bit integer constant out of range: %s
+out of dynamic memory in ncgensure_buffer_stack()
+out of dynamic memory in ncg_create_buffer()
+out of dynamic memory in ncg_scan_buffer()
+out of dynamic memory in ncg_scan_bytes()
+bad buffer in ncg_scan_bytes()
+Illegal character: %s
+NIL only allowed for netcdf-4 and for -lc or -lb
+Undefined or forward referenced group: %s
+Unknown integer size
+bad byte constant: %s
+bad short constant: %s
+bad int64 constant: %s
+bad numeric constant: %s
+bad unsigned byte constant: %s
+bad unsigned short constant: %s
+%llu
+bad unsigned int64 constant: %s
+bad unsigned int constant: %s
+bad long or double constant: %s
+bad float constant: %s
+bad octal character constant: %s
+bad hex character constant: %s
+unterminated /**/ comment
+fatal flex scanner internal error--end of buffer missed
+fatal error - scanner input buffer overflow
+input in flex scanner failed
+out of dynamic memory in yy_get_next_buffer()
+fatal flex scanner internal error--no action found
+_FillValue
+_Format
+_Storage
+_ChunkSizes
+_Fletcher32
+_DeflateLevel
+_Shuffle
+_Endianness
+_NoFill
+<unknown>
+_Format: must be global attribute
+%s: must have non-NULL vsym
+false
+true
+%s: illegal value
+unexpected special tag: %d
+panic("unexpected special tag: %d",tag)
+_FillValue: must be a single (possibly compound) value
+Attribute data may not contain fill values (i.e. _ )
+_FillValue attribute not associated with variable: %s
+_FillValue attribute type does not match variable type: %s
+contiguous
+chunked
+_Storage: illegal value: %s
+little
+_Endianness: illegal value: %s
+makespecial: illegal token: %d
+panic("makespecial: illegal token: %d",tag)
+_Format: illegal value: %s
+Starting parse
+Stack size increased to %lu
+Entering state %d
+Reading a token: 
+Now at end of input.
+Next token is
+Shifting
+Reducing stack by rule %d (line %lu):
+   $%d = 
+Group specification
+Duplicate group name in same scope: %s
+duplicate group declaration within parent group for %s
+Type specification
+duplicate type declaration for %s
+eid->subclass == NC_ECONST
+duplicate enum declaration for %s
+netCDF4 type: OPAQUE
+netCDF4 type: VLEN
+netCDF4 type: COMPOUND
+duplicate field declaration for %s
+netCDF4 type: UBYTE
+netCDF4 type: USHORT
+netCDF4 type: UINT
+netCDF4 type: INT64
+netCDF4 type: UINT64
+dimension size must be positive
+dimension length must be positive
+dimension too large
+dimension length must be an integer
+Duplicate dimension declaration for %s
+Duplicate variable declaration for %s
+%s has too many dimensions
+Undefined or forward referenced dimension: %s
+const%u
+field dimension must be positive
+const%d
+Undefined or forward referenced variable: %s
+Undefined or forward referenced type: %s
+Undefined name (line %d): %s
+Doubly typed attribute: %s
+Attribute prefix not a variable or type: %s
+Enum type
+-> $$ =
+Error: discarding
+Error: popping
+memory exhausted
+Cleanup: discarding lookahead
+Cleanup: popping
+<=>?@AACDBEEEFFGHHIIIIJJKLLMNOPQQRSSSSSSSSSSSTTTUUVVWWXXXXYZZZ[[\\]^^_``aabccdeeffgghijjkklllllllllllllmmnnnoopqqrssttuuuuuuvwxxyyyyyyyyyyyyzz{{{{|}}~
+&;@Sijklm~*~Aj; E577%4B;)+,-./01~!#FHIKNOPSil
+$'(3mqrstuvwy~~)~777777777G~8H5JJJJ"85UVWXYl~
+Zq68377q|
+z{{{|}|}}q3
+G:V567[\]il
+n4txyCqq6QRij9395X~
+\5^_~hjop69@{4R5cd~GLM~G568`7p5yA568e467_~abmq5Dd
+fgM{69469bkg
+#$%&'()*+,-
+xyzr}[pqsu{|wh
+4h=j
+rr^`
+defb]
+26;:879
+?CDG
+ "LO
+IKon
+$end
+error
+$undefined
+NC_UNLIMITED_K
+CHAR_K
+BYTE_K
+SHORT_K
+INT_K
+FLOAT_K
+DOUBLE_K
+UBYTE_K
+USHORT_K
+UINT_K
+INT64_K
+UINT64_K
+IDENT
+TERMSTRING
+CHAR_CONST
+BYTE_CONST
+SHORT_CONST
+INT_CONST
+INT64_CONST
+UBYTE_CONST
+USHORT_CONST
+UINT_CONST
+UINT64_CONST
+FLOAT_CONST
+DOUBLE_CONST
+DIMENSIONS
+VARIABLES
+NETCDF
+DATA
+TYPES
+COMPOUND
+ENUM
+OPAQUE
+OPAQUESTRING
+GROUP
+PATH
+FILLMARKER
+_FILLVALUE
+_FORMAT
+_STORAGE
+_CHUNKSIZES
+_DEFLATELEVEL
+_SHUFFLE
+_ENDIANNESS
+_NOFILL
+_FLETCHER32
+DATASETID
+$accept
+ncdesc
+datasetid
+rootgroup
+groupbody
+subgrouplist
+namedgroup
+typesection
+typedecls
+typename
+type_or_attr_decl
+typedecl
+optsemicolon
+enumdecl
+enumidlist
+enumid
+opaquedecl
+vlendecl
+compounddecl
+fields
+field
+primtype
+dimsection
+dimdecls
+dim_or_attr_decl
+dimdeclist
+dimdecl
+dimd
+vasection
+vadecls
+vadecl_or_attr
+vardecl
+varlist
+varspec
+dimspec
+dimlist
+dimref
+fieldlist
+fieldspec
+fielddimspec
+fielddimlist
+fielddim
+varref
+typeref
+type_var_ref
+attrdecllist
+attrdecl
+path
+datasection
+datadecls
+datadecl
+datalist
+datalist0
+datalist1
+dataitem
+constdata
+econstref
+function
+arglist
+simpleconstant
+intlist
+constint
+conststring
+constbool
+ident
+ !"#$%&'()*+,-./012nat
+byte
+char
+short
+float
+double
+ubyte
+ushort
+uint
+int64
+uint64
+string
+CNULL
+isprimplus(ci->nctype) || ci->nctype == NC_FILLVALUE
+assertion failure: %s
+%hhd
+%hhu
+%lld
+%llu
+dumpdataprim: bad type code:%d
+dump.c
+panic("dumpdataprim: bad type code:%d",ci->nctype)
+?%d? 
+%s: %s
+group %s {
+    %3d:  %s	%s	%s
+null
+{%s}
+"%s"
+0x%s
+0x--
+'%c'
+<unknown>
+%s:: 
+[%d/%d]
+NC_FILL
+NC_NIL
+NC_<%d>
+(slen%2) == 0
+assertion failure: %s
+blen > 0
+ncgen: %s
+	(%s:%d)
+classic
+64-bit offset
+netCDF-4
+netCDF-4 classic model
+Unknown format index: %d
+NC_GRP
+NC_DIM
+NC_VAR
+NC_ATT
+NC_TYP
+NC_ECONST
+NC_FIELD
+NC_ARRAY
+NC_PRIM
+NC_TYPE
+NC_NAT
+NC_BYTE
+NC_CHAR
+NC_SHORT
+NC_INT
+NC_FLOAT
+NC_DOUBLE
+NC_UBYTE
+NC_USHORT
+NC_UINT
+NC_INT64
+NC_UINT64
+NC_STRING
+NC_VLEN
+NC_OPAQUE
+NC_ENUM
+NC_COMPOUND
+bytebuffer failure
+text
+double
+real
+ncstype: bad type code: %d
+      
+     1
+integer
+double precision
+real 
+nctype: bad type code
+genf77.c
+panic("nctype: bad type code")
+int1
+int2
+ncctype: bad type code:%d
+panic("ncctype: bad type code:%d",type)
+nf_char
+nf_byte
+nf_short
+nf_int
+nf_float
+nf_double
+%sval
+%s(%d) = 
+sym->fqn != NULL
+nf_clobber
+nf_clobber|nf_64bit_offset
+program %s
+* input file %s
+include 'netcdf.inc'
+error status return
+integer stat
+netCDF ncid
+integer  ncid
+dimension lengths
+integer %s_len
+parameter (%s_len = NF_UNLIMITED)
+parameter (%s_len = %lu)
+integer %s_dim
+variable ids
+integer %s;
+rank (number of dimensions) for each variable
+integer %s_rank
+parameter (%s_rank = %d)
+variable shapes
+integer %s_dims(%s_rank)
+variable declarations
+%s %s
+ %lu
+%s %s(%s)
+attribute vectors
+%s %sval(%d)
+enter define mode
+unknown cmode modifier: %d
+stat = nf_create('%s', %s, ncid);
+call check_err(stat)
+define dimensions
+stat = nf_def_dim(ncid, %s, %s_len, %s);
+define variables
+%s_dims(%d) = %s
+_dims
+stat = nf_def_var(ncid, %s, %s, %s_rank, %s, %s);
+assign global attributes
+assign per-variable attributes
+don't initialize variables with fill values
+stat = nf_set_fill(ncid, NC_NOFILL, 0);
+leave define mode
+stat = nf_enddef(ncid);
+assign scalar and fixed dimension variable data
+perform variable data writes
+calllist != NULL
+assertion failure: %s
+stat = nf_close(ncid)
+subroutine check_err(stat)
+if (stat .ne. NF_NOERR) then
+print *, nf_strerror(stat)
+stop
+endif
+dimension ids
+NF_GLOBAL
+* define %s
+stat = nf_put_att_%s(ncid, %s, %s, %s, %lu, %sval)
+stat = nf_put_att_text(ncid, %s, %s, %lu, 
+Non-classic type: %s
+stat = nf_put_var_%s(ncid, %s, %s)
+data %s /%s/
+call write_%s_%d(ncid,%s_id_%d)
+subroutine write_%s_%d(ncid,%s_id)
+integer ncid
+integer %s_id
+integer %s_start(%u)
+integer %s_count(%u)
+%s%lu
+data %s /
+stat = nf_put_vara_%s(ncid, %s, %s_start, %s_count, 
+%s_start(%d) = %lu
+%s_count(%d) = %lu
+illegal symbol for genf77_write
+panic("illegal symbol for genf77_write")
+tsym->objectclass == NC_TYPE
+'%c'
+%hhd
+%.8g
+%.16g
+f77data: bad type code: %d
+f77data.c
+panic("f77data: bad type code: %d",ci->nctype)
+asym->data != NULL
+assertion failure: %s
+genj.c
+sym->fqn != NULL
+char
+byte
+short
+float
+double
+long
+String
+ncctype: bad type code:%d
+panic("ncctype: bad type code:%d",type)
+Char
+Byte
+Short
+Float
+Double
+Long
+false
+true
+CHAR
+BYTE
+SHORT
+FLOAT
+DOUBLE
+LONG
+STRING
+import java.util.*;
+import ucar.ma2.*;
+import ucar.nc2.*;
+import ucar.nc2.NetcdfFile.*;
+public class 
+static public void main(String[] argv) throws Exception
+/* dimension lengths */
+%sfinal int %s_len = 0;
+%sfinal int %s_len = %lu;
+/* enter define mode */
+%sNetcdfFileWriteable ncfile = NetcdfFileWriteable.createNew("%s", %s);
+/* define dimensions */
+%sDimension %s_dim = ncfile.addUnlimitedDimension("%s");
+%sDimension %s_dim = ncfile.addDimension("%s", %s_len);
+/* define variables */
+%sArrayList %s_dimlist = new ArrayList();
+%s%s_dimlist.add(%s_dim);
+%sncfile.addVariable("%s", DataType.%s, %s_dimlist);
+/* assign global attributes */
+/* assign per-variable attributes */
+ncfile.create();
+/* assign variable data */
+ncfile.close();
+%s/* attribute: %s */
+new %s[]
+%sArray data = Array.factory(%s.class, new int[]{%lu}, 
+%sncfile.addGlobalAttribute("%s",data);
+%sncfile.addVariableAttribute("%s","%s",data);
+%sncfile.addGlobalAttribute("%s",%s);
+%sncfile.addVariableAttribute("%s","%s",%s);
+%sArray%s.D0 data = new Array%s.D0();
+%sdata.set((char)%s);
+%sdata.set((%s)%s);
+%sncfile.write("%s",data);
+new int[]{
+%sString contents = 
+%s%s[] contents = new %s[] {
+%sArray%s data = new Array%s(%s);
+IndexIterator iter = data.getIndexIterator();
+int count = 0;
+while(iter.hasNext())
+%siter.setCharNext(contents.charAt(count++));
+%siter.set%sNext(contents[count++]);
+%sint[] origin = new int[]{
+%sncfile.write("%s",origin,data);
+%s%lu
+illegal symbol for genj_write
+panic("illegal symbol for genj_write")
+text
+schar
+ubyte
+ushort
+uint
+longlong
+ulonglong
+string
+opaque
+enum
+ncstype: bad type code: %d
+'\''
+'%c'
+%hhd
+%hhu
+%lldLL
+%lluLLU
+ncstype: bad type code: %d
+jdata.c
+panic("ncstype: bad type code: %d",con->nctype)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+%s: 
+POSIXLY_CORRECT
+unknown option -- %s
+unknown option -- %c
+option doesn't take an argument -- %.*s
+ambiguous option -- %.*s
+option requires an argument -- %s
+option requires an argument -- %c
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+nc_close
+nc_create
+nc_def_compound
+nc_def_dim
+nc_def_enum
+nc_def_grp
+nc_def_opaque
+nc_def_var
+nc_def_var_chunking
+nc_def_var_deflate
+nc_def_var_endian
+nc_def_var_fill
+nc_def_var_fletcher32
+nc_def_vlen
+nc_enddef
+nc_inq_libvers
+nc_insert_array_compound
+nc_insert_compound
+nc_insert_enum
+nc_put_att
+nc_put_att_double
+nc_put_att_float
+nc_put_att_int
+nc_put_att_longlong
+nc_put_att_schar
+nc_put_att_short
+nc_put_att_string
+nc_put_att_text
+nc_put_att_uchar
+nc_put_att_uint
+nc_put_att_ulonglong
+nc_put_att_ushort
+nc_put_var1
+nc_put_vara
+nc_set_fill
+nc_strerror
+H5Eprint1
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleFileNameW
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_exit
+_fmode
+_initterm
+_lock
+_onexit
+_snprintf
+_snwprintf
+_unlock
+_vsnprintf
+abort
+atoi
+calloc
+clearerr
+exit
+ferror
+fflush
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+fwprintf
+fwrite
+getc
+getenv
+islower
+isspace
+isupper
+malloc
+memcpy
+memmove
+memset
+perror
+raise
+realloc
+rewind
+signal
+sprintf
+sscanf
+strcat
+strchr
+strcmp
+strcpy
+strlen
+strncat
+strncmp
+strncpy
+strrchr
+tolower
+vfprintf
+wcscpy
+_strdup
+_isatty
+_fileno
+MessageBoxW
+libnetcdf-7.dll
+libhdf5-9.dll
+KERNEL32.dll
+msvcrt.dll
+USER32.dll

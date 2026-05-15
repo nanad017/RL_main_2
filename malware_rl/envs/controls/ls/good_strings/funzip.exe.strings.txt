@@ -1,0 +1,142 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$Xp@
+$Xp@
+$Xp@
+5`pA
+f=PK
+$Xp@
+$Xp@
+5`pA
+5ppA
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+[^_]
+$'Q@
+=Dp@
+$Xp@
+=ppA
+=`pA
+$Xp@
+5`pA
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+$Xp@
+WVSRQ
+YZ[^_]
+$Tp@
+<[^_]
+=$p@
+=$p@
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+CTpI@
+C$ p@
+C hI@
+CD`I@
+C@4rA
+[^_]
+$HV@
+$|V@
+out of space on stdout
+funzip error: %s
+incorrect password for first entry
+invalid compressed data--length mismatch
+len %ld, siz %ld
+out of memory
+cannot find stdin
+invalid zipfile
+invalid compressed data--crc error
+Enter password: 
+no tty to prompt for password
+first entry not deflated or stored--cannot unpack
+gzip file ended prematurely
+funzip warning: zipfile has more than one entry--rest ignored
+zipfile ended prematurely
+cannot write to stdout
+input not a zip or gzip file
+invalid gzip file
+cannot find input file
+cannot handle multi-part gzip files
+3.95 of 20 January 2009
+fUnZip (filter UnZip), version %s
+usage: ... | funzip%s | ...
+ [-password]
+       funzip%s infile.zip > outfile
+       ... | funzip%s > outfile
+       funzip%s infile.gz > outfile
+Extracts to stdout the gzip file or first zip entry of stdin or the given file.
+gzip file not deflated
+invalid compressed data--format violated
+invalid compressed data--length error
+(incomplete l-tree)  
+(incomplete d-tree)  
+/dev/tty
+(line too long--try again)
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+abort
+calloc
+close
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fdopen
+fflush
+fopen
+fputs
+fread
+free
+fwrite
+getc
+isatty
+malloc
+memcpy
+memset
+open
+putc
+read
+realloc
+sprintf
+tcgetattr
+tcsetattr
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

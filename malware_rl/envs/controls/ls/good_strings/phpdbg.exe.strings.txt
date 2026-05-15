@@ -1,0 +1,2346 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+%8qA
+%PqA
+SVWj
+h@tA
+hHtA
+hXtA
+DSWj
+hdtA
+httA
+HSWj
+5DqA
+t3WP
+D$,V
+t$<W
+L$4_^3
+hQuA
+PhTuA
+PhXuA
+Ph\uA
+h`uA
+=pFB
+u1WW
+_^[Y
+xSUV
+=xrA
+D$0SP
+D$(j
+D$`SP
+_^][
+5trA
+t	Sj
+t	Sj
+t	Sj
+_^][
+ueh@tA
+h$xA
+h\xA
+h$yA
+h4yA
+t$$S
+t$$S
+t$(S
+SVWP
+u+hLyA
+PhP{A
+PhP{A
+PhxyA
+h@tA
+hQuA
+58qA
+tQSW
+=DqA
+=DqA
+h$zA
+h0zA
+Sh8zA
+Sh<hA
+Sh<hA
+t.h@zA
+hHzA
+5DqA
+Sh<hA
+Y_^[
+-XrA
+5drA
+D$(P
+=LrA
+D$ P
+D$ P
+D$,P
+_^][
+D$0P
+D$8P
+D$0P
+D$4P
+D$<P
+D$8P
+D$$P
+D$ P
+D$ P
+D$\Pj
+D$|PV
+D$4j
+D$ Pj(
+D$HP
+50rA
+_^[3
+L$(Q
+D$<SP
+D$0j
+D$4P
+0_^[
+TSVW
+D$@j
+D$ Pj(
+D$TP
+=,sA
+D$4PS
+D$ P
+50rA
+D$@j
+D$DP
+T$$t
+PQWR
+=drA
+D$ P
+D$(P
+D$ P
+5,sA
+uI_^[
+t$ h,
+t$ h
+5TrA
+D$Hj
+D$$Pj(
+D$\P
+D$pj
+D$ Pj(
+t$4hP
+50rA
+D$@j
+D$HP
+D$8PS
+0_^[
+D$ WP
+uA_^[
+t$ h
+t$ h|
+D$Hj
+D$$Pj(
+D$\P
+50rA
+D$ P
+D$<PS
+0_^[
+D$ WP
+uA_^[
+t$ h
+t$ h
+D$Hj
+D$$Pj(
+D$\P
+50rA
+D$ P
+D$<PS
+0_^[
+D$,j
+D$$P
+50rA
+D$Lj
+D$PP
+P_^[
+t$$W
+|$,V
+50rA
+D$dj
+D$hP
+D$tv
+D$4P
+50rA
+D$0P
+@$VW
+D$PP
+D$$@P
+D$$f
+D$|v
+D$<P
+50rA
+EtSV
+DE$^3
+l$(V
+D$0P+
+L$ Q
+:UNKNu
+D$$P+
+^][3
+D$$P
+D$,P
+D$4P
+t$ j
+D$,P
+-LrA
+D$ 98t 
+D$,P
+_^][
+<SVW
+D$4P
+D$<P
+D$<P
+D$TP
+D$\P
+D$<P
+D$4Pj
+D$ P
+D$(P
+D$0P
+D$8P
+D$@P
+D$ P
+D$XP
+D$`P
+D$@P
+D$4P
+D$<P
+D$TP
+D$\P
+D$<P
+D$8P
+D$@P
+D$ P
+D$XP
+D$`P
+D$@P
+D$4P
+D$<P
+D$4P
+D$<P
+D$<P
+D$\P
+5drA
+D$dP
+D$<P
+D$<Pj
+D$(P
+D$(P
+D$4P
+D$@P
+D$HP
+D$ P
+D$<Pj
+D$4P
+D$<P
+D$DP
+D$DP
+D$LP
+D$$P
+D$DP
+D$LP
+D$$P
+D$@P
+D$HP
+D$ P
+D$<P
+D$DP
+D$DP
+D$LP
+D$@P
+D$$Pj
+D$<P
+D$<P
+D$<P
+D$(P
+D$0P
+D$$P
+D$HP
+D$PP
+D$DP
+D$$P
+D$,P
+D$ P
+D$DP
+D$LP
+D$@P
+D$$Pj
+D$<P
+D$<P
+D$<P
+D$(P
+D$0P
+D$$P
+D$HP
+D$PP
+D$DP
+D$$P
+D$,P
+D$ P
+D$4P
+D$<P
+D$DP
+D$$P
+D$4P
+D$<P
+D$DP
+D$$P
+SUVW
+_^]3
+_^][
+_^][
+_^]3
+.PUW
+G ^_
+tH^_
+G ^_
+_^][
+_^][
+_^][
+_^][
+_^][
+SUVW
+O ;K u\
+_^]3
+t	;C
+_^]2
+~@ f
+D$)j
+D,$ E
+D$0Phx
+D,$ E
+D$0Phx
+D,$ E
+D,$ E
+D,$ E
+D,$ E
+D,$ E
+D,$ E
+D$<Ph
+D$8Ph8
+D,$ E
+D$0Ph
+_^][3
+\$ UVW
+L$,u
+_^][
+_^][
+_^][
+5$qA
+_^[3
+SUVW
+_^][
+_^][
+_^][
+-TrA
+D$$P
+D$(P
+D$$P
+D$0P
+D$$V
+D$$P
+D$,P
+D$8P
+_^][
+$SUVW
+D$,j
+-TrA
+D$(Pj
+D$4P
+D$<P
+D$<P
+uVSh
+D$(P
+D$$j
+D$4P
+D$<P
+D$<P
+D$ P
+_^][
+D$PSVW
+L$4%
+D$DP+
+L$R+
+9D$ S
+ED$0PV
+\$8S
+t$4V
+t$(h
+_^[3
+90tc
+97t2S
+D$,P
+=LrA
+D$,P
+u(h`
+D$(j
+D$$Pj
+D$@P
+:_t,
+D$8P
+D$0P
+D$ P
+D$4P
+D$$P
+D$,P
+D$@P
+D$$P
+D$4P
+D$8P
+D$(V
+D$4P
+D$$P
+D$,P
+D$@P
+D$ P
+HP9^
+9^\t
+v\h(
+SVWj
+D$ P
+D$(P
+D$0P
+=0rA
+D$(j
+D$ P
+D$ P
+D$(P
+D$ P
+D$,P
+D$(P
+D$0P
+D$8P
+SVWj
+D$$P
+D$,P
+50rA
+D$(j
+D$ P
+D$(P
+D$ P
+D$(P
+QSUVWj
+G _^]
+<dwO<Qw	<EvW
+<Rw1
+8:u/@
+_(_^]
+G _^]
+G _^]
+G _^]
+_^][Y
+t-VQ
+I\V+
+D$Ej
+WPV3
+D$ Pj
+D$LPQ
+D$@PS
+|%Wj
+D$LP
+_^[3
+tAAK
+I\V+
+l$(V
+D$$h
+C,+F
+D$$P
+C,+F
+Kt9N
+D$,h
+C,+F
+D$$P
+C,+F
+Kt9N
+D$(h
+C,+F
+D$$P
+C,+F
+C,+F
+D$ j
+D$$P
+C,+F
+C,+F
+D$ j
+D$$P
+C,+F
+D$ R
+D$(h
+5DqA
+_^][
+:"SVW
+H_^[
+,SUV
+t$@W
+"u(3
+"u+3
+8L$Dt
+\$ 9
+t$$3
+_^]3
+D$xk
+~D) f
+I,Ju
+~@,f
+~@4f
+~@<f
+D$(f
+~@Df
+D$8f
+D$0f
+D$|j,
+~F f
+~L$(
+~T$8
+~\$0
+~D$L
+~d$T
+~L$\
+~T$d
+~L$\
+~T$d
+~L$(
+~\$l
+~T$8
+^][3
+SVWR
+t$$V
+D$,P
+D$$P
+D$ P
+D$,P
+D$$P
+D$ P
+D$(P
+D$4P
+D$,P
+;D$$
+D$(P
+D$(P
+DSVW
+D$ PQR
+D$4P
+D$,P
+;D$$
+D$(P
+H SV
+t$$S
+D$4P
+D$,P
+;D$$
+D$(P
+D$ @
+D$ V
+D$,P
+D$Xf
+D$X$
+D$8j
+D$<P
+D$XP
+D$(j
+D$8j
+t$ P
+D$<P
+D$XP
+D$Tj
+t+Wj
+t$<h
+<>:u
+L$ Sj
+_^[Y
+D$<P
+D$8P
+t[Qh
+t=VP
+_^[3
+;x(r
+;x(r
+pHNt 
+u`Vh(
+u@VP
+Vh@zA
+D$$V
+t$4W
+|$4V
+L$$3
+D$ P
+h$yA
+t=WP
+QSVW
+t2VW
+Vh0DA
+D$t	
+D$|P
+D$tP
+|$t	
+F @P
+D$Hf
+D$H$
+D$ j
+D$$P
+D$@P
+D$ j
+D$$P
+D$HP
+D$Dj
+t+Wj
+D$0P
+D$tP
+u%VV
+u%VV
+u%VV
+u%VV
+u%VV
+HtlHt.Ht
+QSVW
+t2VW
+t#hx
+>opcou/f
+deu'
+8lineu'
+=DrA
+D$(PVW
+D$ U
+_][Y
+_][Y
+hQuA
+9_^[
+9_^[
+4SVW
+D$<j
+tzRh
+D$8j
+nD$<
+t$Dh@
+D$xW
+D$(jdP
+D$4P
+D$(P
+t$0hh
+t$<W
+5DqA
+L$x3
+L$|_3
+tV;_
+_^]3
+_^][
+_^][
+u$h`
+[_^3
+D$ P
+@ PRA
+\$$U
+_^][
+D$0PU
+D$8P
+D$ PU
+D$0P
+D$8PU
+D$@P
+D$(PU
+ _^]3
+D$0PW
+D$,PW
+L$ Q
+L$ S
+D$0PW
+_^][
+ SUV
+l$8;
+D$$PQ
+D$$P
+D$8V
+_^][
+_^][
+D$(PV
+D$0P
+D$0PV
+D$,QuA
+t$TQ
+t$DR
+D$(PV
+ED$,PQRUh
+D$0W
+D$(PV
+D$0P
+D$0PV
+D$ _^][
+_^][
+$thi;
+_^][Y
+_^][Y
+t2VW
+hPEA
+QSVWj
+D$ P
+_^[]
+5DqA
+~D$8f
+L$,w
+D$0P
+D$4P
+hQuA
+9T$$
+=,rA
+hQuA
+=,rA
+_^][
+$SVWP
+=drA
+D$$P
+D$,P
+D$4P
+SUVWj
+_^][
+=<FB
+$\FB
+5dFB
+hPFB
+hLFB
+hHFB
+hhsA
+hXsA
+5DFB
+hTsA
+hLsA
+5PFB
+5LFB
+5HFB
+=XFB
+=XFB
+=DFB
+8csm
+_^[]
+Y_^[
+Y_^[
+5$pA
+VVVVV
+%tpA
+%ppA
+Y__^[
+%dpA
+%`pA
+%\pA
+%XpA
+%PpA
+%HpA
+%DpA
+%@pA
+%(pA
+%0pA
+%4pA
+%TqA
+%8pA
+array
+create watchpoint on an array
+delete
+delete watchpoint
+recursive
+create recursive watchpoints
+0.4.0
+PHPDBG_VERSION
+PHPDBG_FILE
+PHPDBG_METHOD
+PHPDBG_LINENO
+PHPDBG_FUNC
+PHPDBG_COLOR_PROMPT
+PHPDBG_COLOR_NOTICE
+PHPDBG_COLOR_ERROR
+Failed to set execution context (%s), not a regular file or symlink
+Failed to set execution context (%s) the file does not exist
+phpdbg detected an incorrect color constant
+file
+line
+class
+method
+function
+element
+color
+string
+context
+phpdbg_clear
+phpdbg_break_next
+phpdbg_break_file
+phpdbg_break_method
+phpdbg_break_function
+phpdbg_exec
+phpdbg_color
+phpdbg_prompt
+phpdbg
+API20131226,TS,VC11
+PHP_SELF
+SCRIPT_NAME
+SCRIPT_FILENAME
+PATH_TRANSLATED
+DOCUMENT_ROOT
+php://stdin
+php://stdout
+php://stderr
+STDIN
+STDOUT
+STDERR
+ini path override
+define ini entry on command line
+no php.ini
+load zend_extension
+no banner
+disable quietness
+enable stepping
+boring colours
+specify init
+ignore init
+opline log
+step-through-eval
+sapi-name
+version
+report_zend_debug
+Welcome to phpdbg, the interactive PHP debugger, v%s
+To get help using phpdbg type "help" and press enter
+http://github.com/krakjoe/phpdbg/issues
+Please report bugs to <%s>
+Clean Execution Environment
+Classes			%d
+Functions		%d
+Constants		%d
+Includes		%d
+sapi\phpdbg\phpdbg.c
+Unable to create temporary file
+5.6.30
+19:48:28
+Jan 18 2017
+phpdbg %s (built: %s %s)
+PHP %s, Copyright (c) 1997-2016 The PHP Group
+zend_extension=
+Failed to open oplog %s
+white-bold
+red-bold
+green
+phpdbg>
+Access violation (Segmentation fault) encountered
+trying to abort cleanly...
+html_errors=Off
+register_argc_argv=On
+implicit_flush=On
+display_errors=Off
+log_errors=On
+max_execution_time=0
+max_input_time=-1
+error_log=
+output_buffering=off
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+@@@@@@@@
+@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2147483648
+PPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPP
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+2147483648
+0;64
+1;64
+4;64
+0;31
+1;31
+4;31
+0;32
+1;32
+4;32
+0;33
+1;33
+4;33
+0;34
+1;34
+4;34
+0;35
+1;35
+4;35
+0;36
+1;36
+4;36
+0;30
+1;30
+4;30
+2147483648
+2147483648
+2147483648
+Exporting %d breakpoints
+break %s:%lu
+break %s
+break %s::%s
+break %s::%s#%ld
+break %s#%ld
+break %s:#%ld
+break at %s if %s
+break at %s::%s if %s
+break at %s:%lu if %s
+break if %s
+Breakpoint #%d added at %s:%ld
+Breakpoint at %s:%ld exists
+Cannot set breakpoint in %s, it is not a regular file
+Cannot stat %s, it does not exist
+Breakpoint #%d added at %s
+Breakpoint exists at %s
+Breakpoint #%d added at %s::%s
+Breakpoint exists at %s::%s
+Breakpoint #%d added at %#lx
+Breakpoint exists at %#lx
+There are only %d oplines in function %s (breaking at opline %ld impossible)
+There are only %d oplines in file %s (breaking at opline %ld impossible)
+There are only %d oplines in method %s::%s (breaking at opline %ld impossible)
+Breakpoint #%d resolved at %s%s%s#%ld (opline %#lx)
+Method %s doesn't exist in class %s
+%s is not an user defined function, no oplines exist
+%s::%s is not an user defined method, no oplines exist
+Pending breakpoint #%d at %s::%s#%ld
+Breakpoint #%d added at %s::%s#%ld
+Breakpoint already exists for %s::%s#%ld
+Pending breakpoint #%d at %s#%ld
+Breakpoint #%d added at %s#%ld
+Breakpoint already exists for %s#%ld
+Pending breakpoint #%d at %s:%ld
+Breakpoint already exists for %s:%ld
+Breakpoint exists for %s
+return 
+Conditional Breakpoint Code
+Conditional breakpoint #%d added %s/%p
+Failed to compile code for expression %s
+Conditional break %s exists
+Conditional break %s exists at the specified location
+main
+UNKNOWN
+Deleted breakpoint #%ld
+Failed to find breakpoint #%ld
+Breakpoint #%d at %s:%ld, hits: %lu
+Breakpoint #%d in %s() at %s:%u, hits: %lu
+Breakpoint #%d in %#lx at %s:%u, hits: %lu
+Breakpoint #%d in %s::%s()#%lu at %s:%u, hits: %lu
+Breakpoint #%d in %s()#%lu at %s:%u, hits: %lu
+Breakpoint #%d in %s:%lu at %s:%u, hits: %lu
+Breakpoint #%d in %s at %s:%u, hits: %lu
+Breakpoint #%d in %s::%s() at %s:%u, hits: %lu
+Conditional breakpoint #%d: at %s if %s %s:%u, hits: %lu
+Conditional breakpoint #%d: on %s == true %s:%u, hits: %lu
+Unknown breakpoint at %s:%u
+------------------------------------------------
+Function Breakpoints:
+ [disabled]
+#%d		%s%s
+Method Breakpoints:
+#%d		%s::%s%s
+File Breakpoints:
+#%d		%s:%lu%s
+Opline Breakpoints:
+--- error ---
+#%d		%#lx		(%s breakpoint)%s
+#%d		%#lx
+Method opline Breakpoints:
+#%d		%s::%s opline %ld%s
+Function opline Breakpoints:
+#%d		%s opline %ld%s
+File opline Breakpoints:
+Conditional Breakpoints:
+#%d		at %s if %s%s
+#%d		at %s#%ld if %s%s
+#%d		at %s::%s if %s%s
+#%d		at %s::%s#%ld if %s%s
+#%d		at %s:%lu if %s%s
+#%d		at #%lx if %s%s
+Invalid parameter type for conditional breakpoint
+#%d		if %s%s
+Opcode Breakpoints:
+specify breakpoint by location and condition
+delete breakpoint by identifier number
+stack
+empty
+address
+numeric
+function opline
+method opline
+file or file opline
+unknown
+%#lx
+%s::%s
+%s:%lu#%lu
+%s:%lu
+%s#%lu
+%s::%s#%lu
+%s STR_PARAM(%s=%lu)
+%s ADDR_PARAM(%lu)
+%s NUMERIC_FILE_PARAM(%s:#%lu)
+%s FILE_PARAM(%s:%lu)
+%s METHOD_PARAM(%s::%s)
+%s NUMERIC_METHOD_PARAM(%s::%s)
+%s NUMERIC_FUNCTION_PARAM(%s::%ld)
+%s NUMERIC_PARAM(%ld)
+%s COND_PARAM(%s=%lu)
+%s OP_PARAM(%s=%lu)
+The command "%s" expected no arguments
+raw input
+The command "%s" expected %s and got nothing at parameter %lu
+The command "%s" expected %s and got %s at parameter %lu
+number
+file:line
+condition
+opcode
+boolean
+The command "%s" expected at least %lu arguments (%s) and received %lu
+The command "%s %s" could not be found
+The command "%s" could not be found
+The command "%s" is ambigious, matching %lu commands (%s)
+The passed argument was not a stack !!
+The stack contains nothing !!
+The first parameter makes no sense !!
+Already in frame #%d
+No frame #%d
+Switched to frame #%d
+object
+type
+%s%s%s(
+args
+%s=%s
+Invalid backtrace size %d
+frame #%d: {main} at %s:%ld
+frame #%d: 
+ at %s:%ld
+ => 
+ (internal function)
+aliases
+show alias list
+options
+command line options
+overview
+help overview
+phpdbginit
+phpdbginit file format
+syntax
+syntax overview
+Output overrun of %lu bytes
+Command: **%s**  Alias: **%c**  **%s**
+overview!
+duplicate!
+Internal help error, non-unique alias "%c"
+Below are the aliased, short versions of all supported commands
+ %c     %-20s  %s
+ %c %c   %s %-*s  %s
+ %c     %-20s  %s
+aliases!
+**phpdbg** is a lightweight, powerful and easy to use debugging platform for PHP5.4+
+It supports the following commands:
+**Information**
+  **list**     list PHP source
+  **info**     displays information on the debug session
+  **print**    show opcodes
+  **frame**    select a stack frame and print a stack frame summary
+  **back**     shows the current backtrace
+  **help**     provide help on a topic
+**Starting and Stopping Execution**
+  **exec**     set execution context
+  **run**      attempt execution
+  **step**     continue execution until other line is reached
+  **continue** continue execution
+  **until**    continue execution up to the given location
+  **finish**   continue up to end of the current execution frame
+  **leave**    continue up to end of the current execution frame and halt after the calling instruction
+  **break**    set a breakpoint at the specified target
+  **watch**    set a watchpoint on $variable
+  **clear**    clear one or all breakpoints
+  **clean**    clean the execution environment
+**Miscellaneous**
+  **set**      set the phpdbg configuration
+  **source**   execute a phpdbginit script
+  **register** register a phpdbginit function as a command alias
+  **sh**       shell a command
+  **ev**       evaluate some code
+  **quit**     exit phpdbg
+Type **help <command>** or (**help alias**) to get detailed help on any of the above commands, for example **help list** or **h l**.  Note that help will also match partial commands if unique (and list out options if not unique), so **help clea** will give help on the **clean** command, but **help cl** will list the summary for **clean** and **clear**.
+Type **help aliases** to show a full alias list, including any registered phpdginit functions
+Type **help syntax** for a general introduction to the command syntax.
+Type **help options** for a list of phpdbg command line options.
+Type **help phpdbginit** to show how to customise the debugger environment.
+Below are the command line options supported by phpdbg
+**Command Line Options and Flags**
+  **Option**  **Example Argument**    **Description**
+  **-c**      **-c**/my/php.ini       Set php.ini file to load
+  **-d**      **-d**memory_limit=4G   Set a php.ini directive
+  **-n**                          Disable default php.ini
+  **-q**                          Supress welcome banner
+  **-v**                          Enable oplog output
+  **-s**                          Enable stepping
+  **-b**                          Disable colour
+  **-i**      **-i**my.init           Set .phpdbginit file
+  **-I**                          Ignore default .phpdbginit
+  **-O**      **-O**my.oplog          Sets oplog output file
+  **-r**                          Run execution context
+  **-rr**                         Run execution context and quit after execution
+  **-E**                          Enable step through eval, careful!
+  **-S**      **-S**cli               Override SAPI name, careful!
+  **-l**      **-l**4000              Setup remote console ports
+  **-a**      **-a**192.168.0.3       Setup remote console bind address
+  **-V**                          Print version number
+  **--**      **--** arg1 arg2        Use to delimit phpdbg arguments and php $argv; append any $argv argument after it
+**Remote Console Mode**
+This mode is enabled by specifying the **-a** option.  Phpdbg will bind only to the loopback interface by default, and this can only be overridden by explicitly setting the remote console bind address using the **-a** option. If **-a** is specied without an argument, then phpdbg will bind to all available interfaces.  You should be aware of the security implications of doing this, so measures should be taken to secure this service if bound to a publicly accessible interface/port.
+Specify both stdin and stdout with -lstdin/stdout; by default stdout is stdin * 2.
+Phpdgb uses an debugger script file to initialize the debugger context.  By default, phpdbg looks for the file named **.phpdbginit** in the current working directory.  This location can be overridden on the command line using the **-i** switch (see **help options** for a more details).
+Debugger scripts can also be executed using the **source** command.
+A script file can contain a sequence of valid debugger commands, comments and embedded PHP code. 
+Comment lines are prefixed by the **#** character.  Note that comments are only allowed in script files and not in interactive sessions.
+PHP code is delimited by the start and end escape tags **<:** and **:>**. PHP code can be used to define application context for a debugging session and also to extend the debugger by defining and **register** PHP functions as new commands.
+Also note that executing a **clear** command will cause the current **phpdbginit** to be reparsed / reloaded.
+Commands start with a keyword, and some (**break**, **info**, **set**, **print** and **list**) may include a subcommand keyword.  All keywords are lower case but also have a single letter alias that may be used as an alternative to typing in thekeyword in full.  Note some aliases are uppercase, and that keywords cannot be abbreviated other than by substitution by the alias.
+Some commands take an argument.  Arguments are typed according to their format:
+     *  **omitted**
+     *  **address**      **0x** followed by a hex string
+     *  **number**       an optionally signed number
+     *  **method**       a valid **Class::methodName** expression
+     *  **func#op**      a valid **Function name** follow by # and an integer
+     *  **method#op**    a valid **Class::methodName** follow by # and an integer
+     *  **string**       a general string
+     *  **function**     a valid **Function name**
+     *  **file:line**    a valid **filename** follow by : and an integer
+In some cases the type of the argument enables the second keyword to be omitted.
+Type **help** for an overview of all commands and type **help <command>** to get detailed help on any specific command.
+**Valid Examples**
+     $P quit
+     $P q
+     Quit the debugger
+     $P ev $total[2]
+     Evaluate and print the variable $total[2] in the current stack frame
+    
+     $P break 200
+     $P b my_source.php:200
+     Break at line 200 in the current source and in file **my_source.php**. 
+     $P b @ ClassX::get_args if $arg[0] == "fred"
+     $P b ~ 3
+     Break at ClassX::get_args() if $arg[0] == "fred" and delete breakpoint 3
+**Examples of invalid commands**
+     $P #This is a comment
+     Comments introduced by the **#** character are only allowed in **phpdbginit** script files.
+Note that aliases can be used for either command or sub-command keywords or both, so **info b** is a synomyn for **info break** and **l func** for **list func**, etc.
+Note that help will also accept any alias as a parameter and provide help on that command, for example **h p** will provide help on the print command.
+Parameter is not unique. For detailed help select help on one of the above commands.
+back
+Provide a formatted backtrace using the standard debug_backtrace() functionality.  An optional unsigned integer argument specifying the maximum number of frames to be traced; if omitted then a complete backtrace is given.
+**Examples**
+    $P back 5
+    $P t 
+A backtrace can be executed at any time during execution.
+break
+Breakpoints can be set at a range of targets within the execution environment.  Execution will be paused if the program flow hits a breakpoint.  The break target can be one of the following types:
+  **Target**   **Alias** **Purpose**
+  **at**       **A**     specify breakpoint by location and condition
+  **del**      **d**     delete breakpoint by breakpoint identifier number
+**Break at** takes two arguments. The first is any valid target. The second is a valid PHP expression which will trigger the break in execution, if evaluated as true in a boolean context at the specified target.
+Note that breakpoints can also be disabled and re-enabled by the **set break** command.
+**Examples**
+    $P break test.php:100
+    $P b test.php:100
+    Break execution at line 100 of test.php
+    $P break 200
+    $P b 200
+    Break execution at line 200 of the currently PHP script file
+    $P break \\mynamespace\\my_function
+    $P b \\mynamespace\\my_function
+    Break execution on entry to \\mynamespace\\my_function
+    $P break classX::method
+    $P b classX::method
+    Break execution on entry to classX::method
+    $P break 0x7ff68f570e08
+    $P b 0x7ff68f570e08
+    Break at the opline at the address 0x7ff68f570e08
+    $P break my_function#14
+    $P b my_function#14
+    Break at the opline #14 of the function my_function
+    $P break \\my\\class::method#2
+    $P b \\my\\class::method#2
+    Break at the opline #2 of the method \\my\\class::method
+    $P break test.php:#3
+    $P b test.php:#3
+    Break at opline #3 in test.php
+    $P break if $cnt > 10
+    $P b if $cnt > 10
+    Break when the condition ($cnt > 10) evaluates to true
+    $P break at phpdbg::isGreat if $opt == 'S'
+    $P break @ phpdbg::isGreat if $opt == 'S'
+    Break at any opcode in phpdbg::isGreat when the condition ($opt == 'S') is true
+    $P break at test.php:20 if !isset($x)
+    Break at every opcode on line 20 of test.php when the condition evaluates to true
+    $P break ZEND_ADD
+    $P b ZEND_ADD
+    Break on any occurence of the opcode ZEND_ADD
+    $P break del 2
+    $P b ~ 2
+    Remove breakpoint 2
+Note: Conditional breaks are costly in terms of runtime overhead. Use them only when required as they significantly slow execution.
+Note: An address is only valid for the current compilation.
+clean
+Classes, constants or functions can only be declared once in PHP.  You may experience errors during a debug session if you attempt to recompile a PHP source.  The clean command clears the Zend runtime tables which holds the sets of compiled classes, constants and functions, releasing any associated storage back into the storage pool.  This enables recompilation to take place.
+Note that you cannot selectively trim any of these resource pools. You can only do a complete clean.
+clear
+Clearing breakpoints means you can once again run code without interruption.
+Note: use break delete N to clear a specific breakpoint.
+Note: if all breakpoints are cleared, then the PHP script will run until normal completion.
+The **ev** command takes a string expression which it evaluates and then displays. It evaluates in the context of the lowest (that is the executing) frame, unless this has first been explicitly changed by issuing a **frame** command. 
+**Examples**
+    $P ev $variable
+    Will print_r($variable) on the console, if it is defined
+    $P ev $variable = "Hello phpdbg :)"
+    Will set $variable in the current scope
+Note that **ev** allows any valid PHP expression including assignments, function calls and other write statements.  This enables you to change the environment during execution, so care is needed here.  You can even call PHP functions which have breakpoints defined. 
+Note: **ev** will always show the result, so do not prefix the code with **return**
+exec
+The **exec** command sets the execution context, that is the script to be executed.  The execution context must be defined either by executing the **exec** command or by using the **-e** command line option.
+Note that the **exec** command also can be used to replace a previously defined execution context.
+**Examples**
+    $P exec /tmp/script.php
+    $P e /tmp/script.php
+    Set the execution context to **/tmp/script.php**
+finish
+The **finish** command causes control to be passed back to the vm, continuing execution.  Any breakpoints that are encountered within the current stack frame will be skipped.  Execution will then continue until the next breakpoint after leaving the stack frame or until completion of the script
+Note when **step**ping is enabled, any opcode steps within the current stack frame are also skipped. 
+Note **finish** will trigger a "not executing" error if not executing.
+frame
+The **frame** takes an optional integer argument. If omitted, then the current frame is displayed If specified then the current scope is set to the corresponding frame listed in a **back** trace. This can be used to allowing access to the variables in a higher stack frame than that currently being executed.
+**Examples**
+    $P frame 2
+    $P ev $count
+    Go to frame 2 and print out variable **$count** in that frame
+Note that this frame scope is discarded when execution continues, with the execution frame then reset to the lowest executiong frame.
+info
+**info** commands provide quick access to various types of information about the PHP environment
+Specific info commands are show below:
+  **Target**   **Alias**  **Purpose**
+  **break**    **b**      show current breakpoints
+  **files**    **F**      show included files
+  **classes**  **c**      show loaded classes
+  **funcs**    **f**      show loaded classes
+  **error**    **e**      show last error
+  **vars**     **v**      show active variables
+  **literal**  **l**      show active literal constants
+  **memory**   **m**      show memory manager stats
+leave
+The **leave** command causes control to be passed back to the vm, continuing execution.  Any breakpoints that are encountered within the current stack frame will be skipped.  In effect a temporary breakpoint is associated with any return opcode, so that a break in execution occurs before leaving the current stack frame. This allows inspection / modification of any frame variables including the return value before it is returned
+**Examples**
+    $P leave
+    $P L
+Note when **step**ping is enabled, any opcode steps within the current stack frame are also skipped. 
+Note **leave** will trigger a "not executing" error if not executing.
+list
+The list command displays source code for the given argument.  The target type is specficied by a second subcommand keyword:
+  **Type**     **Alias**  **Purpose**
+  **lines**    **l**      List N lines from the current execution point
+  **func**     **f**      List the complete source for a specified function
+  **method**   **m**      List the complete source for a specified class::method
+  **class**    **c**      List the complete source for a specified class
+Note that the context of **lines**, **func** and **method** can be determined by parsing the argument, so these subcommands are optional.  However, you must specify the **class** keyword to list off a class.
+**Examples**
+    $P list 2
+    $P l l 2
+    List the next 2 lines from the current file
+    $P list my_function
+    $P l f my_function
+    List the source of the function **my_function**
+    $P list func .mine
+    $P l f .mine
+    List the source of the method **mine** from the active class in scope
+    $P list m my::method
+    $P l my::method
+    List the source of **my::method**
+    $P list c myClass
+    $P l c myClass
+    List the source of **myClass**
+Note that functions and classes can only be listed if the corresponding classes and functions table in the Zend executor has a corresponding entry.  You can use the compile command to populate these tables for a given execution context.
+continue
+Continue with execution after hitting a break or watchpoint
+**Examples**
+    $P continue
+    $P c
+    Continue executing until the next break or watchpoint
+Note **continue** will trigger a "not running" error if not executing.
+print
+By default, print will show information about the current execution context.
+Other printing commands give access to instruction information.
+Specific printers loaded are show below:
+  **Type**    **Alias**  **Purpose**
+  **exec**    **e**      print out the instructions in the execution context
+  **opline**  **o**      print out the instruction in the current opline
+  **class**   **c**      print out the instructions in the specified class
+  **method**  **m**      print out the instructions in the specified method
+  **func**    **f**      print out the instructions in the specified function
+  **stack**   **s**      print out the instructions in the current stack
+**Examples**
+    $P print class \\my\\class
+    $P p c \\my\\class
+    Print the instructions for the methods in \\my\\class
+    $P print method \\my\\class::method
+    $P p m \\my\\class::method
+    Print the instructions for \\my\\class::method
+    $P print func .getSomething
+    $P p f .getSomething
+    Print the instructions for ::getSomething in the active scope
+    $P print func my_function
+    $P p f my_function
+    Print the instructions for the global function my_function
+    $P print opline
+    $P p o
+    Print the instruction for the current opline
+    $P print exec
+    $P p e
+    Print the instructions for the execution context
+    $P print stack
+    $P p s
+    Print the instructions for the current stack
+register
+Register any global function for use as a command in phpdbg console
+**Examples**
+    $P register scandir
+    $P R scandir
+    Will register the scandir function for use in phpdbg
+Note: arguments passed as strings, return (if present) print_r'd on console
+Enter the vm, starting execution. Execution will then continue until the next breakpoint or completion of the script. Add parameters you want to use as $argv
+**Examples**
+    $P run
+    $P r
+    Will cause execution of the context, if it is set
+    $P r test
+    Will execute with $argv[1] == "test"
+Note that the execution context must be set. If not previously compiled, then the script will be compiled before execution.
+Note that attempting to run a script that is already executing will result in an "execution in progress" error.
+The **set** command is used to configure how phpdbg looks and behaves.  Specific set commands are as follows:
+   **Type**    **Alias**    **Purpose**
+   **prompt**     **p**     set the prompt
+   **color**      **c**     set color  <element> <color>
+   **colors**     **C**     set colors [<on|off>]
+   **oplog**      **O**     set oplog [output]
+   **break**      **b**     set break **id** <on|off>
+   **breaks**     **B**     set breaks [<on|off>]
+   **quiet**      **q**     set quiet [<on|off>]
+   **stepping**   **s**     set stepping [<opcode|line>]
+   **refcount**   **r**     set refcount [<on|off>] 
+Valid colors are **none**, **white**, **red**, **green**, **yellow**, **blue**, **purple**, **cyan** and **black**.  All colours except **none** can be followed by an optional **-bold** or **-underline** qualifier.
+Color elements can be one of **prompt**, **notice**, or **error**.
+**Examples**
+     $P S C on
+     Set colors on
+     $P set p >
+     $P set color prompt white-bold
+     Set the prompt to a bold >
+     $P S c error red-bold
+     Use red bold for errors
+     $P S refcount on
+     Enable refcount display when hitting watchpoints
+     $P S b 4 off
+     Temporarily disable breakpoint 4.  This can be subsequently reenabled by a **s b 4 on**.
+Direct access to shell commands saves having to switch windows/consoles
+**Examples**
+    $P sh ls /usr/src/php-src
+    Will execute ls /usr/src/php-src, displaying the output in the console
+source
+Sourcing a **phpdbginit** script during your debugging session might save some time.
+**Examples**
+    $P source /my/init
+    $P < /my/init
+    Will execute the phpdbginit file at /my/init
+export
+Exporting breakpoints allows you to share, and or save your current debugging session
+**Examples**
+    $P export /my/exports
+    $P > /my/exports
+    Will export all breakpoints to /my/exports
+step
+Execute opcodes until next line
+**Examples**
+    $P s
+    Will continue and break again in the next encountered line
+until
+The **until** command causes control to be passed back to the vm, continuing execution.  Any breakpoints that are encountered before the next source line will be skipped.  Execution will then continue until the next breakpoint or completion of the script
+Note when **step**ping is enabled, any opcode steps within the current line are also skipped. 
+Note that if the next line is **not** executed then **all** subsequent breakpoints will be skipped. 
+Note **until** will trigger a "not executing" error if not executing.
+watch
+Sets watchpoints on variables as long as they are defined
+Passing no parameter to **watch**, lists all actually active watchpoints
+**Format for $variable**
+   **$var**      Variable $var
+   **$var[]**    All array elements of $var
+   **$var->**    All properties of $var
+   **$var->a**   Property $var->a
+   **$var[b]**   Array element with key b in array $var
+Subcommands of **watch**:
+   **Type**     **Alias**      **Purpose**
+   **array**       **a**       Sets watchpoint on array/object to observe if an entry is added or removed
+   **recursive**   **r**       Watches variable recursively and automatically adds watchpoints if some entry is added to an array/object
+   **delete**      **d**       Removes watchpoint
+Note when **recursive** watchpoints are removed, watchpoints on all the children are removed too
+**Examples**
+     $P watch
+     List currently active watchpoints
+     $P watch $array
+     $P w $array
+     Set watchpoint on $array
+     $P watch recursive $obj->
+     $P w r $obj->
+     Set recursive watchpoint on $obj->
+     $P watch delete $obj->a
+     $P w d $obj->a
+     Remove watchpoint $obj->a
+Technical note: If using this feature with a debugger, you will get many segmentation faults, each time when a memory page containing a watched address is hit.
+                You then you can continue, phpdbg will remove the write protection, so that the program can continue.
+                If phpdbg could not handle that segfault, the same segfault is triggered again and this time phpdbg will abort.
+show breakpoints
+files
+show included files
+classes
+show loaded classes
+funcs
+error
+show last error
+vars
+show active variables
+literal
+show active literal constants
+memory
+show memory manager stats
+Included files: %d
+File: %s
+Last error: %s at %s line %d
+No error found!
+No active op array!
+No active symbol table!
+Variables in %s::%s() (%d)
+Variables in %s() (%d)
+Variables in %s (%d)
+Variables @ %p (%d)
+Address		Refs	Type		Variable
+%p	%d	
+(string)	
+(integer)	
+(float)	
+(resource)	
+(array)	
+(object)	
+(null)	
+%s$%s
+|-------(typeof)------> (%s)
+|-------(typeof)------> (unknown)
+|-----(instanceof)----> (%s)
+n/a	n/a	n/a	$%s
+Literal Constants in %s::%s() (%d)
+Literal Constants in %s() (%d)
+Literal Constants in %s (%d)
+Literal Constants @ %p (%d)
+|-------- C%u -------> [
+Not executing!
+Memory Manager Information
+Current
+|-------> Used:	%.3f kB
+|-------> Real:	%.3f kB
+Peak
+Memory Manager Disabled!
+Interface
+Abstract Class
+Class
+User
+Internal
+%s %s %s (%d)
+User Classes (%d)
+|-------- 
+|---- in %s on line %u
+|---- no source code
+User Functions (%d)
+(no source code)
+{main}
+|-------- %s in %s on line %d
+lines
+lists the specified lines
+lists the specified class
+lists the specified method
+func
+lists the specified function
+Not executing, and execution context not set
+Unsupported parameter type (%s) for command
+Could not find %s::%s
+Could not find the class %s
+The source of the requested class (%s) cannot be found
+The class requested (%s) is not user defined
+The requested class (%s) could not be found
+Failed to stat file %s
+Failed to open file %s to list
+%05ld: %s
+ %05ld: %s
+>%05ld: %s
+The function requested (%s) is not user defined
+No active class
+No function table loaded
+Function %s not found
+@%lu
+<unused>
+J%ld
+J%u or J%lu
+%-20s %-20s %-20s
+L%-5u %16p %-30s %s %s
+$end
+$undefined
+"eval"
+"run"
+"shell"
+"if (condition)"
+"truthy (true, on, yes or enabled)"
+"falsy (false, off, no or disabled)"
+"string (some input, perhaps)"
+": (colon)"
+":: (double colon)"
+"# (pound sign)"
+"protocol (file://)"
+"digits (numbers)"
+"literal (string)"
+"address"
+"opcode"
+"identifier (command or function name)"
+"input (input string or data)"
+"input"
+$accept
+input
+parameters
+parameter
+full_expression
+syntax error
+syntax error, unexpected %s
+syntax error, unexpected %s, expecting %s
+syntax error, unexpected %s, expecting %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s
+syntax error, unexpected %s, expecting %s or %s or %s or %s
+memory exhausted
+Parse Error: %s
+--> 
+print out the instructions in the execution context
+opline
+print out the instruction in the current opline
+print out the instructions in the specified class
+print out the instructions in the specified method
+print out the instructions in the specified function
+print out the instructions in the current stack
+Not Executing!
+	L%d-%d %s::%s() %s
+	L%d-%d %s() %s
+		L%u	%p %-30s %s
+	Failed to decode opline %16p
+	Internal %s::%s()
+	Internal %s()
+Context %s
+No execution context set
+Stack in %s::%s()
+Stack in %s()
+Stack in %s
+Stack @ %p
+%s %s: %s
+Methods (%d):
+The class %s could not be found
+%s Method %s
+The method %s could not be found
+Method
+Function
+%s %s %s
+The function %s could not be found
+set execution context
+step through execution
+continue execution
+attempt execution
+evaluate some code
+continue past the current line
+continue past the end of the stack
+continue until the end of the stack
+print something
+set breakpoint
+show trace
+switch to a frame
+lists some code
+displays some informations
+clean the execution environment
+clear breakpoints
+help
+show help menu
+set phpdbg configuration
+register a function
+execute a phpdbginit
+export breaks to a .phpdbginit script
+shell a command
+quit
+exit phpdbg
+set watchpoint
+%s::%s#%ld
+%s#%ld
+%s:%ld
+%s:#%ld
+phpdbginit code
+Unrecognized command in %s:%d: %s, %s!
+Failed to open %s for initialization
+PHP_INI_SCAN_DIR
+SystemRoot
+/.phpdbginit
+.phpdbginit
+%s/%s
+Unsetting old execution context: %s
+Destroying compiled opcodes
+Set execution context: %s
+Failed to compile %s
+Execution context not changed
+Cannot use %s as execution context, not a valid file or symlink
+Cannot stat %s, ensure the file exists
+No execution context
+Cannot compile while in execution
+Attempting compilation of %s
+Success
+Could not open file %s
+Not executing
+Currently in frame #%d
+Uncaught %s!
+__tostring
+Uncaught %s
+Stacked entered at %p in %s on line %u
+Cannot start another execution while one is in progress
+Failed to compile %s, cannot run
+Caught exit/error from VM
+Nothing to execute!
+eval()'d code
+Execution Context Information
+Readline	no
+Libedit		no
+none
+Exec		%s
+Compiled	%s
+Stepping	%s
+Quietness	%s
+Oplog		%s
+Opcodes		%d
+Variables	%d
+Variables	None
+Executing	%s
+VM Return	%d
+Classes		%d
+Functions	%d
+Constants	%d
+Included	%d
+No information command selected!
+No set command selected!
+Execution context not set!
+Failed to execute %s
+Failed to stat %s, file does not exist
+Failed to open or create %s, check path and permissions
+Registered %s
+The requested function (%s) could not be found
+The requested name (%s) is already in use
+sapi\phpdbg\phpdbg_prompt.c
+Cannot clean environment while executing
+Cleaning Execution Environment
+Clearing Breakpoints
+File			%d
+Methods			%d
+Oplines			%d
+File oplines			%d
+Function oplines			%d
+Method oplines			%d
+Conditionals		%d
+Set watchpoint on %.*s
+Not running
+Breaking for leave at %s:%u
+Program received signal SIGINT
+prompt
+usage: set prompt [<string>]
+oplog
+usage: set oplog  [<output>]
+usage: set break id [<on|off>]
+breaks
+usage: set breaks [<on|off>]
+quiet
+usage: set quiet [<on|off>]
+stepping
+usage: set stepping [<line|op>]
+refcount
+usage: set refcount [<on|off>]
+set break used incorrectly: set break [id] <on|off>
+enabled
+disabled
+Oplog %s
+Failed to open %s for oplog
+Closing previously open oplog
+Successfully opened oplog %s
+Quietness %s
+Stepping %s
+usage set stepping [<opcode|line>]
+Refcount %s
+white
+white-underline
+red-underline
+green-bold
+green-underline
+yellow
+yellow-bold
+yellow-underline
+blue
+blue-bold
+blue-underline
+purple
+purple-bold
+purple-underline
+cyan
+cyan-bold
+cyan-underline
+black
+black-bold
+black-underline
+notice
+[no active file]
+[%sm[%s]
+[%s]
+[%ld %.8F]: %s
+%a %b %d %T.%%04d %Y
+[%s]: %s
+[%sm%s
+[0m 
+%.*s%s%s%s
+%.*s[]
+%.*s%s%li%s
+%.*s%s%s
+%.*s is undefined
+%.*s is nor an array nor an object
+Malformed input
+this
+Nothing was deleted, no corresponding watchpoint found
+Removed watchpoint %.*s
+Set recursive watchpoint on %.*s
+Set array watchpoint on %.*s
+ recursively
+%.*s was removed, removing watchpoint%s
+Breaking on watchpoint %s
+Old value: 
+Value inaccessible, HashTable already destroyed
+Old refcount: %d; Old is_ref: %d
+Watchpoint %s was unset, removing watchpoint
+New value: 
+New refcount: %d; New is_ref: %d
+%d elements were removed from the array
+%d elements were added to the array
+Internal pointer of array was changed
+%.*s
+RSDS
+C:\php-sdk\php56\vc11\x86\obj\Release_TS\phpdbg.pdb
+sapi_deactivate
+php_request_shutdown
+tsrm_startup
+destroy_op_array
+zend_llist_destroy
+_estrndup
+php_hash_environment
+zend_mm_set_heap
+sapi_startup
+php_output_activate
+php_import_environment_variables
+_zend_hash_init
+ts_resource_ex
+zend_parse_parameters
+php_request_startup
+php_output_deactivate
+sapi_globals_id
+_php_stream_open_wrapper_ex
+zend_activate
+php_module_startup
+zend_register_long_constant
+zend_error
+php_register_variable
+_estrdup
+zend_hash_clean
+zend_hash_destroy
+sapi_module
+_emalloc
+executor_globals_id
+ts_allocate_id
+_zend_bailout
+_zend_mm_alloc
+_efree
+zend_execute_ex
+core_globals_id
+_zend_hash_add_or_update
+php_module_shutdown
+zend_register_stringl_constant
+compiler_globals_id
+get_zend_version
+sapi_shutdown
+_php_stream_free
+zend_get_executed_lineno
+php_getopt
+_zend_mm_free
+_zend_mm_realloc
+zend_register_constant
+php_module_shutdown_wrapper
+zend_hash_num_elements
+virtual_stat
+zend_strndup
+gc_remove_zval_from_buffer
+destroy_zend_function
+zend_get_executed_filename
+zend_rebuild_symbol_table
+zend_hash_get_current_data_ex
+zend_hash_func
+virtual_realpath
+zend_hash_internal_pointer_reset_ex
+zend_hash_find
+_php_stream_stat_path
+zend_hash_move_forward_ex
+zend_hash_index_find
+zend_str_tolower_dup
+zend_hash_index_exists
+zend_hash_internal_pointer_end_ex
+zend_is_true
+zval_used_for_init
+_zend_hash_index_update_or_next_insert
+zend_hash_del_key_or_index
+zend_compile_string
+zend_hash_get_current_key_ex
+zend_execute
+zend_hash_exists
+_zval_dtor_func
+ap_php_asprintf
+zend_print_flat_zval_r
+zend_get_object_classname
+zend_fetch_debug_backtrace
+spprintf
+zend_get_class_entry
+zend_print_zval
+is_zend_mm
+zend_memory_peak_usage
+zend_memory_usage
+_zend_list_find
+zend_rsrc_list_get_rsrc_type
+zend_is_executing
+_php_stream_get_line
+zend_lookup_class
+zend_get_opcode_name
+virtual_popen
+php_stream_open_for_zend_ex
+zend_create_execute_data_from_op_array
+zend_timeout
+_erealloc
+zend_eval_stringl
+zend_fcall_info_args
+add_next_index_long
+zend_destroy_file_handle
+add_next_index_stringl
+add_next_index_string
+_zval_copy_ctor_func
+_zval_ptr_dtor
+function_add_ref
+virtual_fopen
+_array_init
+zend_compile_file
+zend_call_function
+zend_print_zval_r
+expand_filepath
+vspprintf
+gettimeofday
+zend_llist_add_element
+zend_llist_clean
+zend_hash_get_current_key_zval_ex
+php_sprintf
+zend_llist_init
+zend_llist_get_last_ex
+zend_llist_get_prev_ex
+zend_is_auto_global
+zend_llist_count
+_convert_to_string
+php5ts.dll
+feof
+tmpnam
+memmove
+free
+_open
+malloc
+__iob_func
+strchr
+signal
+fflush
+isalnum
+fgets
+printf
+_read
+fopen
+fread
+fprintf
+_fileno
+ferror
+_fmode
+fwrite
+_setmode
+ftell
+_lseek
+realloc
+_write
+fseek
+fclose
+clearerr
+_close
+_strnicmp
+isspace
+calloc
+strncmp
+atoi
+strtoul
+strtok
+getenv
+strstr
+_localtime32
+isdigit
+strftime
+vfprintf
+MSVCR110.dll
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+__initenv
+_commode
+?terminate@@YAXXZ
+__crtSetUnhandledExceptionFilter
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+_invoke_watson
+_controlfp_s
+_except_handler4_common
+GetStdHandle
+GetConsoleScreenBufferInfo
+VirtualProtect
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DecodePointer
+KERNEL32.dll
+_strdup
+_seh_longjmp_unwind4
+_setjmp3
+memcpy
+memset
+phpdbg.exe
+OPENSSL_Applink
+phpdbg_clear_breakpoints
+phpdbg_clear_param
+phpdbg_copy_param
+phpdbg_current_file
+phpdbg_delete_breakpoint
+phpdbg_destroy_input
+phpdbg_disable_breakpoint
+phpdbg_disable_breakpoints
+phpdbg_enable_breakpoint
+phpdbg_enable_breakpoints
+phpdbg_export_breakpoints
+phpdbg_find_breakbase
+phpdbg_find_breakbase_ex
+phpdbg_find_breakpoint
+phpdbg_get_color
+phpdbg_get_colors
+phpdbg_get_element
+phpdbg_get_function
+phpdbg_get_param_type
+phpdbg_get_prompt
+phpdbg_get_terminal_width
+phpdbg_hash_param
+phpdbg_hit_breakpoint
+phpdbg_is_addr
+phpdbg_is_class_method
+phpdbg_is_empty
+phpdbg_is_numeric
+phpdbg_match_param
+phpdbg_param_debug
+phpdbg_param_tostring
+phpdbg_print
+phpdbg_print_breakpoint
+phpdbg_print_breakpoints
+phpdbg_read_input
+phpdbg_reset_breakpoints
+phpdbg_resolve_op_array_break
+phpdbg_resolve_op_array_breaks
+phpdbg_resolve_opline_break
+phpdbg_resolve_path
+phpdbg_rlog
+phpdbg_set_breakpoint_at
+phpdbg_set_breakpoint_expression
+phpdbg_set_breakpoint_file
+phpdbg_set_breakpoint_file_opline
+phpdbg_set_breakpoint_function_opline
+phpdbg_set_breakpoint_method
+phpdbg_set_breakpoint_method_opline
+phpdbg_set_breakpoint_opcode
+phpdbg_set_breakpoint_opline
+phpdbg_set_breakpoint_opline_ex
+phpdbg_set_breakpoint_symbol
+phpdbg_set_color
+phpdbg_set_color_ex
+phpdbg_set_prompt
+phpdbg_stack_execute
+phpdbg_stack_free
+phpdbg_stack_push
+phpdbg_stack_resolve
+phpdbg_stack_verify
+phpdbg_trim
+wwwwwwwwwwwwwwww
+wwwx
+wwwwwwx
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"> 
+       <application> 
+           <!-- Windows Vista -->
+           <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS> 
+           <!-- Windows 7 -->
+           <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS>
+           <!-- Windows 8 -->
+           <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>
+           <!-- Windows 8.1 -->
+           <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"></supportedOS>
+           <!-- Windows 10 -->
+           <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"></supportedOS>
+       </application> 
+   </compatibility>
+</assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0"020B0R0b0
+1!1&1+10161:1@1D1J1N1T1X1^1b1h1l1r1v1|1
+1V2`2f2t2
+3"393U3_3h3t3
+4%464M4X4i4t4
+5.5A5T5g5x5
+646K6e6|6
+72797L7t7
+8*8=8E8W8|8
+8S9q9
+:4:a:o:|:
+;9;g;o;
+;2<><N<e<
+=!=4=>=D=a=
+>7><>T>e>q>
+?&?9?O?k?p?
+0$0D0I0[0`0
+2'2-2G2i2
+3*3/3D3P3e3j3s3
+474<4S4q4v4
+5#5-585X5c5m5x5
+6I6s6
+7 757<7
+8%818\8
+8'939V9
+:,:7:F:c:o:
+:9;E;K;P;U;Z;_;e;l;u;
+<3<@<S<e<
+=;=c=t=
+>V>\>
+?#?:?Z?k?
+0+0V0p0
+2(2D2X2
+3*3>3R3W3|3
+3	484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4
+5/5:5V5e5
+6:6G6v6
+7&777
+8/8E8U8l8
+9@9g9
+:A:G:s:
+;W;x;
+<#<P<`<
+=*=6=N=T=
+>!><>W>s>
+?$?\?
+0(1c1
+2'252>2M2]2b2
+434^4i4
+636A6`6m6
+717J7t7
+7!8u8
+9*989P9W9u9
+;,;:;H;`;g;
+< <,<}<
+<!=?=Q=e=
+>(?;?U?t?
+/050W0{0
+1,131E1g1l1
+3P3z3
+4D4O4j4o4
+5/545T5X5\5`5d5h5l5p5
+6`6q6,7?7Y9_9e9
+9+:?:S:\:b:|:
+<"=E=s=
+>:>D>x>
+?,?L?]?j?
+000Q0b0p0z0
+1.1A1T1g1z1
+1&292D2h2s2
+3"3F3Q3_3m3
+4$4/4=4K4u4
+5$5/5:5?5`5d5h5l5p5t5x5|5
+6X6u6
+70757S7a7r7
+868c8h8
+959E9Q9r9
+:(:2:::I:_:n:
+;0;H;];b;
+<5<:<[<i<z<
+=%=5===L=h=
+>5>E>T>x>
+?$?Q?V?t?
+0%050A0b0
+171G1O1^1z1
+2"2E2U2f2
+3#3N3W3c3o3
+4,4O4[4j4
+5%5>5C5g5
+6 6A6^6n6
+: :$:(:,:0:4:]:k:t:
+;-;4;J;Q;j;q;};
+<2<X<w<
+<v=x>k?
+1'2'3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4p7t7x7|7
+8%888>8H8[8a8k8~8
+9 9$9(9,9094989<9@9D9H9L9P9x9
+:T;[;
+;T<^<h<
+2(3,3034383<3@3D3H3L3P3
+5'515C5M5t5~5
+6H6R6`6d6h6l6p6
+7$7<7s7
+838A8k8
+9D:J:b:
+:F;P;d;~;
+;	<$<9<]<j<
+= =+=0=J=\=h=s=
+>	>D>N>p>
+?E?J?f?
+030_0z0
+3S3\3q3
+5:5?5j5
+60656{6
+6-727[7`7q7
+778T8_8d8
+8$9Z9
+9):.:G:Z:d:x:
+;,;A;U;f;l;
+;$<)<K<Q<s<
+=C=H=S=X=~=
+>5>@>E>^>
+?0?4?8?<?@?D?H?L?[?s?
+.0:0Y0a0h0
+1!1&1>1_1d1y1
+2/2^2c2x2
+3,3T3h3w3
+4,424=4B4[4
+5O5W5u5z5
+6&6:6@6O6l6
+757<7T7]7
+7-848C8\8z8
+949j9
+:::S:
+;(;Q;
+;;<Z<
+=7=P=^=z=
+>)>J>|>
+?*?3?W?l?y?
+1B1R1n1
+3;3Z3v3
+4'4F4b4
+5<5X5w5
+626N6m6
+6	7(7D7w7
+7%8I8j8
+8/9J9
+:":A:]:
+;K;j;
+<+<E<_<y<
+=7=Q=k=
+0V0`0
+2 2$2(2,2024282<2@2D2H2L2P2T2
+3<3Z3
+3-4Q4}4
+53585
+5!6f6u6
+6#7\7g7n7s7
+7'8Z8p8
+9C9N9~9
+9-:K:_:{:
+;Q;o;
+<9<@<U<
+="=J=Q=f=
+>&>:>Z>a>v>
+>%?6?K?p?}?
+H0L0P0T0X0l0p0t0x0|0
+2(282@2P2l2
+4A4p4w4
+6P6T6X6\6`6d6{6
+:,;<;};
+<T=^=t=
+@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1%1@1E1U1Z1g1l1y1~1
+2 212J2_2p2
+3$3,3<3X3i3n3
+3$4C4}4
+575E5M5]5u5
+536C6[6j6r6w6
+777W7
+8%818;8o8
+9:9P9U9
+:=:K:c:
+;%;-;=;U;a;k;
+;M<q<
+=	=(=9=>=n=|=
+>G>U>]>m>
+?,?1?
+0T0Y0x0}0
+101d1i1
+2F2R2\2w2
+2'3k3
+4/4C4o5
+536[6n6
+7/7R7g7n7
+8&8:8L8i8s8
+9'939U9~9
+:7:Q:p:
+;4;G;N;f;|;
+< <7<><P<t<
+="=F=i=y=
+>+>g>{>
+?-?V?k?v?
+01070h0l0
+4/4D4
+5C5I5`5w5}5
+6,676x6
+6&7,797Y7^7
+8;8C8_8d8|8
+9.9`9w9
+:7:Z:
+;#;<;A;Z;_;x;
+<%<><S<_<o<
+=!=5=N=]=q=~=
+>%>C>H>a>m>
+?7?T?
+r0w0
+141S1
+2G2l2}2
+3:3W3w3
+4)4G4L4c4
+5(585H5g5q5
+6-6E6J6c6}6
+7%7*7~7
+72878u8
+9;:Q:f:
+:6;R;`;
+<2<E<Y<b<s<
+=H=S=c=
+>:>V>c>x>
+?&?0?O?a?v?
+0!1r1
+2*2C2H2a2y2
+323<3B3a3f3
+474>4
+5$5n5u5
+5B6G6l6q6
+787?7H7X7
+9"9)9M9T9]9p9
+:':::r:
+:8;=;Q;a;
+<1<[<g<
+=9=Y=r=x=
+=I>d>o>
+?!?9?V?g?p?
+0C0Y0c0
+0'1^1v1
+2,2C2J2e2m2
+3I3N3g3
+414m4}4
+6'6.6L6X6c6m6r6
+8)858:8M8T8j8y8~8
+9):7:>:
+<2<C<
+<'=3=_=p=
+>,><>N>g>v>
+?;?B?r?
+0`0e0
+0:1?1g1
+2!2&2`2l2t2
+2-3G3~3
+4F4M4h4v4
+4 5K5[5t5)6v6
+7(848H8M8l8q8
+9Q:V:
+;%;*;D;J;
+<c<k<
+=!=;=K=R=
+>">J>P>
+?*?e?k?q?w?}?
+0 00090j0p0v0|0
+1&12181J1T1]1g1m1v1|1
+2%2?2_2q2y2~2
+3#3)333R3X3b3h3q3v3
+3V4[4m4
+4H5k5w5
+6(6.6A6V6a6w6
+6>7D7Q7n7
+7>8D8J8P8
+P3\3`3d3
+3X;d;p;|;
+<0<D<
+= =H=`=h=t=|=
+>$>,>8>@>H>P>\>d>
+?$?,?4?@?H?P?X?d?l?
+0H0P0\0d0l0t0
+1 1(10181D1L1
+2 2`2h2t2|2
+3(34383@3L3X3\3d3p3|3
+4@4H4T4\4d4l4x4
+8 8(808<8D8p8x8
+80989D9L9T9\9h9p9x9
+: :,:4:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+= =(=0=8=D=L=
+> >(>,>0>8>D>L>P>T>\>h>t>
+?8?@?L?T?\?d?p?
+0$040<0H0X0`0l0p0|0
+1 1$1(10181D1T1\1h1x1
+2$2,242@2H2P2X2d2t2|2
+3$3,3X3`3l3t3x3|3
+4 4(4,40484D4L4P4
+5,5@5T5h5|5
+606D6X6l6
+6 7,787`7h7t7|7
+8$8,888@8H8P8\8d8
+=,>0>L>P>p>
+0 0,00040@0D0H0T0X0\0h0l0p0|0
+1 2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2

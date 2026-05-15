@@ -1,0 +1,973 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+gwD}5
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3azSystem.Windows.Forms.AutoSizeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.ImeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089zSystem.Windows.Forms.AnchorStyles, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.Padding, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089wSystem.Windows.Forms.DockStyle, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.TableLayoutSettings, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADP
+>>(@
+E';-I
+2ImT-N#
+](^"`d^
+?epd
+ot\	ut
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AutoSizeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+width
+height
+IHDR
+IDATx
+ TBh
+l)	&
+o#|O
+H`#$C
+PF0>-
+{{{x
+XvlQw
+Y%R!
+yI@v
+yH@^
+f8<<
+*Lw &
+.]r>
+y8Qk
+~A)u
+SW~u
+Y8 ((
+p8<	c	
+<	$M
+DdR!
+G NK
+#1((
+8zvs,z
+lWAc2
+sL^`
+Mg8{
+`,Zp
+6A (R
+UW]e&
+ 95[
+&k=d
+Cywwwq
+E([PS
+q?|>Mc!
+a5%T
+. qA
+'N`2
+,+`f
++`Lx.
+kHhs
+=c/Qs
+1jZD
+g3E"
+,kAZ
+"N|S
+jWh{
+hQ0P
+eu/d
+2`Gj|
+/K[:
+dt18
+=2gY
+$;5|
+<+qww
+ lR_
+6yg!
+7_'eFbr
+emhS
+,Dt'
+|wMt-
+4w4Q(<
+70}|
+}fm~
+b8yW.cY
+|`!P
+CmPWy
+=E2H
+g-O!Q
+YZ>M
+d+gE
+dZw1*EYf|V
+|aqZU
+IDAT
+{kT_
+y;J5
+*8=e
+X4QiU
+'MY}
+ijpP
+~/\p
+0t/(
+DZL"=.4?
+L4XP
+e2q/
+?e$E
+Tp(\
+HA8+I;C
+ch=s
+rZjGD
+XkJC
+eA`!
+gc3W
+}|J%N
++.>a
+GwaZ
+57,?
+AV=R
+mFv3
+Vl$.u
+&/gU
+8/_V
+xpS=
+|F+	 
+_eU&&
+7Zn|
+9q=R\
+z"p\
+Hq=R\
+\&D]
+,1a!
+/ihMx
+E=j&O
+::lC
+ O$ _WT~
+?]4]h
+>]tB
+?]4]
+.4m 
+4]0;
+y4](
+MiCI
+l4]0;
+=M$G
+NL2_~N
+t6+U
+vDe6
+H,zi
+}?TJ
+K?BYy
+hb%n
+An"O
+d!!Im
+C}8r
+	}x/
+p+b/H
+#%M]
+kz>g
+	~=H
+`^d1r
+M ;m
+2I$I
+2-Cr
+1mv P
+IEND
+$$$	
+1<<<
+&<<<
+666I!!!
+!bbb
+HHHe"""
+	uuu
+444c
+"???m
+<<<	<<<
+[			8
+OPOf
+*+*7
+   -
+$$$0
+,,,:
+(((5
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+,Unpack Microsoft SQL Server DAC Package File
+UnpackDialog
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonBrowse
+tableLayoutPanel3
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonCancel
+flowLayoutPanel1
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonUnpack
+flowLayoutPanel1
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+flowLayoutPanel1
+tableLayoutPanel1
+}System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label2
+tableLayoutPanel2
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelSelectFolderTitle
+tableLayoutPanel2
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+pictureBox1
+tableLayoutPanel1
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+tableLayoutPanel1
+$this
+~System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+tableLayoutPanel2
+tableLayoutPanel1
+~System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+tableLayoutPanel3
+tableLayoutPanel2
+~System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+textBoxFolder
+tableLayoutPanel3
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&Browse...F
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&CancelF
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&UnpackF
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AutoSizeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+'&Files will be unpacked to this folder:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&Select a destination and unpack files.I
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AutoSizeMode
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.TableLayoutSettings
+SerializedString
+<?xml version="1.0" encoding="utf-16"?><TableLayoutSettings><Controls><Control Name="tableLayoutPanel2" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /><Control Name="pictureBox1" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /><Control Name="flowLayoutPanel1" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /></Controls><Columns Styles="Percent,100" /><Rows Styles="Percent,100,Absolute,1,AutoSize,0" /></TableLayoutSettings>
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AutoSizeMode
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.TableLayoutSettings
+SerializedString
+<?xml version="1.0" encoding="utf-16"?><TableLayoutSettings><Controls><Control Name="labelSelectFolderTitle" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /><Control Name="label2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /><Control Name="tableLayoutPanel3" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /></Controls><Columns Styles="Percent,100" /><Rows Styles="AutoSize,0,AutoSize,0,AutoSize,0,Absolute,110" /></TableLayoutSettings>
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.TableLayoutSettings
+SerializedString
+<?xml version="1.0" encoding="utf-16"?><TableLayoutSettings><Controls><Control Name="buttonBrowse" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="textBoxFolder" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /></Controls><Columns Styles="Percent,100,AutoSize,0" /><Rows Styles="AutoSize,0" /></TableLayoutSettings>
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+SSelect the folder to hold the unpacked data-tier application files, then select OK.
+%Microsoft SQL Server DAC Package File
+0The application does not support this operation.
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+DacUnpack.exe
+Resources
+Microsoft.SqlServer.Management.Dac.Unpack
+Program
+UnpackDialog
+AssemblyVersionInfo
+mscorlib
+System
+Object
+System.Windows.Forms
+Form
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+.ctor
+get_ResourceManager
+get_Culture
+set_Culture
+get_FolderBrowserDialogDiscription
+get_MessageBoxTitle
+get_NotSupported
+Culture
+FolderBrowserDialogDiscription
+MessageBoxTitle
+NotSupported
+Main
+dacFileName
+Cursor
+cursor
+EventArgs
+OnFontChanged
+GetDefaultUnpackDir
+buttonBrowse_Click
+buttonUnpack_Click
+System.ComponentModel
+CancelEventArgs
+UnpackDialog_Closing
+DoWorkEventArgs
+worker_DoWork
+RunWorkerCompletedEventArgs
+worker_RunWorkerCompleted
+IContainer
+components
+Dispose
+InitializeComponent
+TableLayoutPanel
+tableLayoutPanel1
+FlowLayoutPanel
+flowLayoutPanel1
+Button
+buttonUnpack
+buttonCancel
+tableLayoutPanel2
+Label
+labelSelectFolderTitle
+label2
+tableLayoutPanel3
+buttonBrowse
+TextBox
+textBoxFolder
+PictureBox
+pictureBox1
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+value
+args
+fileName
+path
+sender
+disposing
+System.Runtime.InteropServices
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTrademarkAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+GuidAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+DacUnpack
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+CompilerGeneratedAttribute
+ReferenceEquals
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+GetString
+EditorBrowsableAttribute
+EditorBrowsableState
+STAThreadAttribute
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+System.IO
+File
+Exists
+DialogResult
+ShowDialog
+Exception
+get_Message
+MessageBox
+MessageBoxButtons
+MessageBoxIcon
+Show
+Control
+set_Text
+TextBoxBase
+SelectAll
+System.Drawing
+Font
+get_Font
+FontStyle
+set_Font
+Path
+GetDirectoryName
+GetFileNameWithoutExtension
+Combine
+FolderBrowserDialog
+get_Text
+Directory
+set_SelectedPath
+set_Description
+CommonDialog
+IWin32Window
+get_SelectedPath
+String
+get_Length
+set_SelectionStart
+set_SelectionLength
+get_Current
+Cursors
+get_WaitCursor
+set_Cursor
+set_Enabled
+set_ControlBox
+CancelEventHandler
+add_Closing
+BackgroundWorker
+DoWorkEventHandler
+add_DoWork
+RunWorkerCompletedEventHandler
+add_RunWorkerCompleted
+RunWorkerAsync
+set_Cancel
+get_Argument
+DirectoryInfo
+CreateDirectory
+Microsoft.SqlServer.Dac
+DacPackage
+Load
+Unpack
+IDisposable
+set_Result
+remove_Closing
+AsyncCompletedEventArgs
+get_Error
+Close
+get_Result
+Process
+Start
+ComponentResourceManager
+SuspendLayout
+ISupportInitialize
+BeginInit
+ApplyResources
+TableLayoutControlCollection
+get_Controls
+set_Name
+Size
+set_MinimumSize
+ButtonBase
+set_UseVisualStyleBackColor
+EventHandler
+add_Click
+set_HideSelection
+SystemColors
+Color
+get_ControlDark
+set_BackColor
+set_TabStop
+ControlCollection
+set_DialogResult
+IButtonControl
+set_AcceptButton
+ContainerControl
+AutoScaleMode
+set_AutoScaleMode
+set_CancelButton
+FormBorderStyle
+set_FormBorderStyle
+set_MaximizeBox
+set_MinimizeBox
+ResumeLayout
+PerformLayout
+EndInit
+Microsoft.SqlServer.Management.Dac.Unpack.UnpackDialog.resources
+Microsoft.SqlServer.Management.Dac.Unpack.Resources.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+3Microsoft SQL Server DAC Package File Unpack Wizard
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1846 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+$9ab253b9-f032-462c-a858-b5db5fc1e798
+WrapNonExceptionThrows
+RSDS
+DacUnpack.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity version="1.0.0.0" processorArchitecture="X86" 
+			name="DacUnpack" type="win32"/> 
+    <description>Microsoft SQL Server DAC Package File Unpack Wizard</description>
+    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+     <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"/>
+        </requestedPrivileges>
+     </security>
+    </trustInfo>
+</assembly>
+>0<0
+0!0	
+f'ae
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1D0B
+http://www.microsoft.com/sql0
+{W5{GJ9v
+%w=]U
+!SM[
+$}dIT
+N@Zi
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181237Z0#
+ai +
+f'q 
+BjDB
+&3](
+N0L0
+ T`-
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+ 2&y
+R70R
+1D0B
+http://www.microsoft.com/sql0
+^5kt
+=ZI!
+&070!
+.r0?
+0!0	
+O1&"W
+20120211181238.823Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+\*nW

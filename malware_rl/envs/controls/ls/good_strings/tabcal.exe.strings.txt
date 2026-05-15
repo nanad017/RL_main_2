@@ -1,0 +1,939 @@
+!This program cannot be run in DOS mode.
+RichZ
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+t+L+
+L$ SVWH
+L$X3
+ _^[
+L$ SUVWH
+(_^][
+t$fE9
+\$0H
+D$(L
+L$ D
+t f9
+t	f9
+\$PL
+D$@L
+L$8I
+D$0L
+T$(L
+L$ D
+\$pH
+t$fE9
+\$@L
+T$0H
+D$(L
+L$ D
+\$0H
+t$8H
+UWAWH
+!|$0H
+9|$0
+H!|$8H
+L$@H
+D$0E3
+D$ E3
+L$0H
+D$0H
+L$@L
+L$8L
+t$ H
+|$(L
+L$PH
+L$8H
+A__]
+t$ WATAVH
+D$8H
+t$0H
+D$@L
+D$@H
+t$HA
+t$(H
+D$ L
+ucL95
+@t5H
+u L95
+L95;
+t$(L
+L$pL
+t$ 3
+L94+u
+\$PI
+A^A\_
+|$ AVH
+T$0H
+9\$0~
+;t$0|
+\$8H
+|$HH
+t$ WAVAWH
+H9-P
+tIE3
+H9-|
+H9\$H
+l$PH
+t$XH
+ A_A^_
+x UATAUAVAWH
+D9d$`u:H
+t	L9%a
+D$`H
+D$(E3
+|	A;
+D9d$`tEL
+u~L9%
+d$(E3
+L$pD
+D$xH
+L$pH
+d$XA
+D$PH
+d$HL
+L9%h
+A_A^A]A\]
+D$PH
+D$ f
+D$ f
+L$PH3
+@USVWATAUAVAWH
+L9-i
+D$0L
+l$0L
+D$ 3
+~>D;
+XA_A^A]A\_^[]
+L$ L
+SUVWATAUAVAWH
+T$pI
+D$pI;
+t=E3
+(A_A^A]A\_^][
+K WH
+D$hE3
+D$(L
+L$XH
+D$`H
+L$XA
+L$pH
+L$xH
+D$HH
+\$(L
+L$HH
+\$ L
+\$@H
+K WAVAWH
+L$xH
+L$0M
+l$(H
+\$(L
+\$`H
+t$pH
+@A_A^_
+t1I![
+!\$ 
+D$(E3
+\$(L
+L$hH
+D$hH
+\$ L
+\$`H
+@USVWATAUAVAWH
+D;=w
+D$PH
+\$HH
+D$(L
+L$ 3
+D$0L
+L$(H
+D$ H
+\$03
+D$(I
+A_A^A]A\_^[]
+)D$ 
+)L$0
+)D$@
+)L$P
+)D$`
+)L$pu
+D$8H
+D$8H
+D$8L
+T$HH
+\$0H
+usIc
+(|KH
+D$0D
+D$pE
+\$PH
+|$`H
+t$HH
+@SUVWAVH
+D$ H
+T$ A
+D$(A
+L$0H3
+@A^_^][
+SUVWATAUAVAWH
+L$(E
+fD;k
+fD;k
+tgHc
+D$@A
+D$8A
+D$0D
+tcIc
+D$@A
+D$8A
+D$0A
+L$8I
+D$0D
+L$(D
+XA_A^A]A\_^][
+t$ WATAWH
+D$@E3
+D$ D
+D9'v
+D9'vK
+fD;g
+fD;g
+L$03
+L$03
+L$@H3
+\$PI
+A_A\_
+\$0H
+L$ SVWH
+ _^[
+L$B3
+@tyH
+u	D;
+|$(D
+L$ E
+M H3
+L$ D
+D$ h
+T$ H
+D$,+
+D$0+
+WATAUH
+9t$0
+H95r
+H!t$(L
+T$@H
+L$HD
+L$HA
+A]A\_
+h VWAUAVAWH
+H!t$0H
+D$pL
+D$ 3
+D$xM
+D$0H
+D$pH
+H!t$0H
+D$pL
+D$ 3
+D$xM
+D$0H
+D$pH
+L$pH
+\$@A
+A_A^A]_^
+VWAVH
+D$PA
+D$ H
+L$PL
+\$XH
+0A^_^
+UVWH
+]0E3
+D$ H
+\$XE3
+\$PE3
+\$H3
+D$@H
+D$8H
+\$0H
+\$(H
+L$ H
+`_^]
+X UVWATAUAVAWH
+D$@E
+d$@A
+T$8H
+T$0L
+L$(L
+PA_A^A]A\_^]
+t+L+
+UVWATAUAVAWH
+T$0A
+L$X3
+L$xH
+D$`H
+|$pL
+|$4D
+|$HD
+|$DE3
+D$ L
+D$8L
+|$(E3
+D$ E3
+|$8H
+L$8H
+D$(M
+D$8I
+D$<E
+T$@f;S
+T$4A
+T$4A;
+D$XH
+L9L$Pt%Hc
+|$PI
+|$PD9L$LH
+D$(I
+|$HE
+L$<E3
+D$DH
+L$ D
+D$DL
+|$4H
+D$pA
+A_A^A]A\_^]
+UVWAVAWH
+T$@H
+L$HL
+L$0E3
+L$0L
+t{H+
+D$ L
+A_A^_^]
+tGSH
+t$ UWAVH
+t$0H
+D$(D
+D$ E3
+fD9u
+t$0H
+D$(A
+D$ 3
+fD9u
+M7H3
+A^_]
+\$0H
+\$HH
+\$0H
+x ATAVAWH
+fD9L
+fD9L
+l$HH
+\$@H
+ A_A^A\
+t~Hc
+L!L$(D
+D!L$ 3
+|	A;
+l$HH
+t$PH
+x UATAUAVAWH
+L$03
+L$(H
+T$ H
+l$ 9\$(
+\$ E3
+L$ M
+D$ fA
+\$ L
+L$ E3
+L$ L
+xzHi
+D;d$(
+t$0I
+A_A^A]A\]
+x AVH
+L6(A
+\$@H
+|$XH
+;=F}
+\$0H
+t$8H
+L$8A
+L$ D
+\$dL
+UATAUAVAWH
+T$ E3
+L$(L!|$ 
+d$ E3
+D9t$(
+!D$ L
+L$ H
+L$ L
+D;t$(
+A_A^A]A\]
+x UAVAWH
+A_A^]
+u.Hi
+|oHc
+tXHc
+\$0H
+t$@H
+\$0H
+\$0H
+UVWATAUAVAWH
+t$p@
+t$ I
+\$xH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+\$ H
+T$ H
+A_A^A]A\_^]
+x UAVAWH
+T$PfD
+|$`L
+|$XA
+t)D;
+D$`fD98t
+L$`H
+fE98tS
+|$@H
+D$XH
+D$8H
+|$0H
+T$`H
+|$ H
+T$PE3
+L$XE3
+|$(L
+A_A^]
+USVH
+H95]]
+p^[]
+@USAVH
+L954\
+M8E3
+D$ A
+PA^[]
+D$(L
+D$0L
+T$(H
+D$ A
+\$@H
+L$XH
+\$PH
+\$0H
+VWAVH
+H!p H
+\$HH
+l$PH
+ A^_^
+L$0E3
+|$(E3
+L$0E3
+|$(H
+\$PH
+t$XH
+T$ H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L$ f
+: wxfD9:t
+D9=]R
+D9=0R
+D$ H
+A_A^A\
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+api-ms-win-security-sddl-l1-1-0.dll
+SETUPAPI.dll
+COMCTL32.dll
+caldata%d.%s
+%02x
+Windows Registry Editor Version 5.00
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TabletPC\LinearityData
+HKEY_CURRENT_USER\Control Panel\TabletPC\PenTiltData
+[%s]
+"%S"=hex:
+"Landscape"=hex:
+"Portrait"=hex:
+                
+caldata%d.csv
+,,%d
+,%d,%d
+@+"F
+El`I2
+V^]]
+|yTG
+fp>GuF
+TabUtils::BroadcastSettingChange
+TabUtils::IsElevated
+NULL
+Helpers::SendMessageTimeoutW
+Helpers::CloseHandle
+1";&
+RSDS
+tabcal.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+ConvertSidToStringSidW
+SetupDiDestroyDeviceInfoList
+SetupDiOpenDevRegKey
+SetupDiGetClassDevsW
+SetupDiEnumDeviceInterfaces
+SetupDiGetDeviceInterfaceDetailW
+CreatePen
+SelectObject
+DeleteObject
+SetBkMode
+SetBkColor
+CreateFontIndirectW
+SetTextColor
+LineTo
+GetLayout
+MoveToEx
+GDI32.dll
+DispatchMessageW
+MoveWindow
+DefWindowProcW
+GetMonitorInfoW
+GetPointerInfo
+SendMessageW
+GetSystemMetrics
+MessageBoxW
+CreateWindowExW
+SetThreadDesktop
+SwitchDesktop
+GetPointerFrameInfoHistory
+GetSysColorBrush
+ShowWindow
+LoadStringW
+GetSysColor
+SkipPointerFrameMessages
+ReleaseDC
+InvalidateRect
+LoadIconW
+RegisterClassExW
+ShowCursor
+TranslateMessage
+GetDC
+BeginPaint
+CloseDesktop
+EnumDisplaySettingsExW
+MessageBeep
+LoadCursorW
+DrawTextW
+PostMessageW
+UnregisterClassW
+ChangeDisplaySettingsExW
+GetThreadDesktop
+PostQuitMessage
+GetMessageW
+EnumDisplayMonitors
+DestroyWindow
+CreateDesktopW
+EndPaint
+GetRawInputDeviceInfoW
+GetPointerDevice
+GetPointerDeviceProperties
+GetPointerDeviceRects
+GetRawPointerDeviceData
+GetPointerDevices
+USER32.dll
+wcschr
+_wcsicmp
+wcstoul
+free
+_wcsnicmp
+malloc
+_wcslwr
+wcstol
+wcsstr
+fopen
+fprintf
+_vsnwprintf
+_vsnprintf
+wcstok
+fclose
+_wcsdup
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+?terminate@@YAXXZ
+EtwGetTraceEnableLevel
+EtwGetTraceEnableFlags
+EtwTraceMessage
+EtwRegisterTraceGuidsW
+EtwUnregisterTraceGuids
+EtwGetTraceLoggerHandle
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+GetLastError
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+api-ms-win-core-errorhandling-l1-1-1.dll
+GetFileAttributesA
+api-ms-win-core-file-l1-2-1.dll
+CloseHandle
+api-ms-win-core-handle-l1-1-0.dll
+HeapAlloc
+HeapFree
+GetProcessHeap
+HeapSetInformation
+api-ms-win-core-heap-l1-2-0.dll
+CancelIo
+api-ms-win-core-io-l1-1-1.dll
+GetModuleFileNameW
+GetModuleHandleW
+api-ms-win-core-libraryloader-l1-2-0.dll
+RegCreateKeyExW
+RegQueryValueExW
+RegQueryInfoKeyW
+RegDeleteKeyValueW
+RegEnumValueW
+RegOpenKeyExW
+RegCloseKey
+RegSetValueExW
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-registry-l1-1-1.dll
+GetCommandLineW
+api-ms-win-core-processenvironment-l1-2-0.dll
+OpenProcessToken
+GetCurrentProcess
+GetCurrentThreadId
+CreateThread
+GetStartupInfoW
+TerminateProcess
+GetCurrentProcessId
+api-ms-win-core-processthreads-l1-1-2.dll
+QueryPerformanceCounter
+api-ms-win-core-profile-l1-1-0.dll
+CreateMutexW
+WaitForSingleObject
+ReleaseMutex
+Sleep
+api-ms-win-core-synch-l1-2-0.dll
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-sysinfo-l1-2-1.dll
+GetTokenInformation
+api-ms-win-security-base-l1-2-0.dll
+HidP_GetCaps
+HidD_GetHidGuid
+HidP_GetSpecificValueCaps
+HID.DLL
+ImmDisableTextFrameService
+IMM32.dll
+ShellExecuteW
+CommandLineToArgvW
+SHELL32.dll
+SetPropertyInteractionContext
+RegisterOutputCallbackInteractionContext
+ProcessPointerFramesInteractionContext
+SetInteractionConfigurationInteractionContext
+CreateInteractionContext
+DestroyInteractionContext
+NInput.dll
+RegisterApplicationRestart
+lstrlenW
+LocalFree
+lstrcmpiW
+GetCurrentThread
+KERNEL32.dll
+SendMessageTimeoutW
+OpenThreadToken
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+__CxxFrameHandler3
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.TabletPC.TabCal"
+    type="win32"
+<description>Tablet PC Calibration</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            processorArchitecture="amd64"
+            publicKeyToken="6595b64144ccf1df"
+            language="*"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel level="asInvoker" />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+<asmv3:application>
+    <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+        <dpiAware>per monitor</dpiAware>
+    </asmv3:windowsSettings>
+</asmv3:application>
+</assembly>
+wwwp
+wwwwwp
+wwwwwwwp
+wwwwwwp
+wwwwwwp
+wwwwp
+wwwwwx
+wwwwwww
+wwwwwwp
+wwwp
+wwwx
+wwww
+wwwp
+wwww~
+wwwww
+f,,(
+f+,(),,,
+q-+,()'%%%%%
+Z1-B,()'%#$"   
+Z11e
+nM9'%#$" 
+j=9$" 
+JykP8
+A43&!
+S43*&!
+S;3.*&!
+S;92.*&!
+S>=52.*&!
+		Y8
+<<=:52.*&!
+@<=?:52.*&!
+C@=D?:52.*&!
+CCQED?:52.*&!
+FFOIED?:52.*&!
+sGFORIED?:52.*&!
+sHGOXRIED?:5./&&!
+sNH`]XRIE
+KHyc]XRI
+{LKmic]XR
+qVLpmic]XR
+qVVxpmic]XR
+xpmic]XRI
+xpmic]XRI
+xpmic]XRI
+xpmic]XRIED
+xpmic]XRIED?
+xpmic]XRIED?_
+xpmic]XRIED_b;
+xpmic]XRIE_b;>
+w|t}
+xpmic]XRI_b>;
+wwolhhg
+xpiic]XR_d<>
+vwolhh\\^VVSsa`Y]X_q<<
+rv\^VVLKNHG
+ZS@<
+qgTNHGFCC@
+sqfST
+,)'$(
+,)'$$#
+,/9'$#
+,0>^ZE0
+%<YT="
+@XL5
+3.*!
+|65-*!
+784-*!
+:>;4-*!
+?HA;4-*!
+vCNIA;4-*!
+lD\QIA;4-*!
+{G`[QI4
+yJf`[QI;
+oPtf`[QI;
+g_~tf`[QI;
+~tf`[QIA;
+~tf`[QIA;
+~tf`[QIA;N
+~tf`[QIA]K
+~tf`[QI]6
+rsec}dxijf`[Qi7
+zh_WPJMKUb:
+umaVF?
+B4$"
+B4%&
+B4'(5::
+6:<::
+B4/3
+7:<<888
+79:<<;88
+B4222.,
+=88<<<8
+B4444+22
+8888
+BBBB))))A
+BBBBB
+u---
+	GGG
+---Iddd
+---Ikkk
+,,,Jlll
++++Lnnn
++++_vvv
+((()```
+---I|||
+---I}}}
+,,,J~~~
+***N
+...}
+111B///W000
+111!000D000w000
+111B///W000
+111!000D111
+)))P
+---I~~~
+---I
+,,,K
+)))P
+---I
+&---I
+*---H
+///E
+1112]]]
+1112///E000
+111B000f@@@
+%%%B
+777tB::
+-..3
+.//<
+344S
+888V
+Z[[m
+_``q
+PPPP
+}}}>RSSljjj

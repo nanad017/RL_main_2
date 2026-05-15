@@ -1,0 +1,4300 @@
+!This program cannot be run in DOS mode.
+9 Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+VWj 
+54"C
+@;GD
+<!|3<~
+Qhh#C
+<!|;<~
+PhT#C
+RhP#C
+Ph(#C
+Ph\&C
+RhD&C
+58"C
+h`%C
+h0%C
+hd$C
+hD$C
+8Q	u
+F	W3
+VRPQ
+PRQV
+_^[]
+C?uQ
+C?u1
+C?u&
+B?uZ
+C?u6
+C?u,
+RPhD'C
+3^[]
+VQRP
+WQVR
+SVWhP'C
+@PSV
+_^[]
+_^[]
+Vh\'C
+tJSV
+h|'C
+FD;CD
+F|9p
+S0|\
+Q4t	P
+W$PQ
+OpWP
+hH(C
+VpI+
+Qh$(C
+ujh\)C
+PhD)C
+_^[]
+VpVP
+_^[]
+h|CC
+PhXDC
+Ph0DC
+PhXDC
+5 "C
+PhHEC
+h<EC
+SSSSS
+}[hlEC
+;G|tJ
+h`GC
+hTGC
+h4GC
+WpPQR
+htCC
+9{@uZ9~ltUh
+98t)
+h|FC
+hlFC
+h`FC
+tlhLFC
+uMhhCC
+H 9yh
+Qt9zhtI9{
+uDhLCC
+h IC
+9X|t
+9^|u
+PVhTHC
+Qh,HC
+;K|t
+;P|t
+;N|t
+_^[]
+Jt9ALuL
+PhxIC
+_^[]
+Qh\IC
+_^[]
+Ph@IC
+_^[]
+_^[]
+It9ALu4
+PhxIC
+>;9u9
+>;9u0
+Ph8JC
+V0PV
+Vh\JC
+ShhJC
+^[_]
+tP;_
+_[^]
+h KC
+8QRP
+8h KC
+9}$t
+t);u
+Scua
+hTKC
+hHKC
+tiWV
+=H"C
+_[^]
+h|KC
+SVWh
+h\LC
+h8LC
+h\LC
+h\LC
+h\LC
+h\LC
+[_^]
+hhLC
+htLC
+PSQR
+;QRPS
+;_^[
+h,MC
+hDMC
+Fh|PC
+htPC
+hlPC
+hdPC
+hXPC
+hHPC
+h8PC
+h0PC
+h(PC
+h|OC
+FhtOC
+hdOC
+h`OC
+hXOC
+hDOC
+Fh@OC
+h8OC
+h0OC
+Fh OC
+hxNC
+hpNC
+hhNC
+h`NC
+FhXNC
+hPNC
+hHNC
+h8NC
+h,NC
+uy_[
+h|MC
+uA_[
+hpMC
+u#_[
+_[^]
+h(QC
+hlQC
+QVWh
+=H"C
+F j@P
+Vh|RC
+QhlRC
+h8RC
+PSQV
+h(QC
+RhxTC
+PhxTC
+RhTTC
+u.G;}
+h(QC
+u-G;}
+h(QC
+h(TC
+u	jC
+hxSC
+h(QC
+Vh@SC
+hXUC
+QVh4UC
+h<KC
+h,VC
+h4KC
+h(VC
+h0VC
+h0VC
+V SVj
+htVC
+hHVC
+h0VC
+htVC
+SVW3
+h`WC
+h,WC
+@PRS
+h0VC
+htVC
+Ftj.
+FtSj
+htVC
+;t	W
+@PRV
+u9VhtYC
+hTYC
+Ph@YC
+h<KC
+h,VC
+h4KC
+h(VC
+>Au(
+;tsh
+Qh`XC
+h4XC
+;t	S
+{t&h0VC
+;t	S
+;tyh
+htVC
+;t'h
+hdZC
+h8ZC
+t WV
+t WV
+hl]C
+h\]C
+hD]C
+h(]C
+@PWV
+h`\C
+hL\C
+h,\C
+h,\C
+t#hX[C
+h<[C
+SVWh
+h0VC
+t4Wj
+htVC
+VWP3
+t$Wj
+SVWP
+N WQ
+V WR
+G(QRPhh_C
+OPRPQh<_C
+V Rh
+QhxaC
+h<aC
+h0aC
+h0aC
+h0aC
+QhH`C
+PFVQ
+WVh cC
+Ph`bC
+|htw
+ WhLcC
+9F0^
+hlcC
+0^[]
+O Qh
+j@hXdC
+hLdC
+QhhdC
+@PRV
+SVW3
+@PRV
+>0u>
+ WPQh
+PSQh
+PSQh\eC
+PSQh0eC
+;t	V
+hxfC
+hXfC
+h@fC
+;t	V
+h gC
+SVW3
+SQRV
+@PRV
+hpgC
+RPQV
+h\gC
+;t	S
+htVC
+h@gC
+RPhXiC
+h,iC
+Wh, 
+u3Wh
+Ch^[
+t9Ph
+Wh\hC
+Ch^3
+RhD 
+Wh<hC
+SPQR
+v"Wh(jC
+v"VhdjC
+hLjC
+*s"P
+QRPh
+_ SQ
+N RPQhPkC
+\:V&
+GhRP
+h8kC
+RPQh
+PQRh
+\[_^
+FhRP
+ VhLmC
+ Vh\lC
+ Vh,lC
+Qj^h$nC
+hDKC
+hDKC
+h$nC
+hDKC
+h$nC
+hDKC
+h$nC
+PQhPnC
+hDKC
+PhDKC
+QhLnC
+hHnC
+h$nC
+tTVW3
+hhnC
+:GF;
+j1h`nC
+hlSC
+PhpnC
+hxoC
+_^[]
+WVh@qC
+WVhtpC
+PVhHpC
+PVh$pC
+PhpqC
+tyh@
+h8oC
+hxoC
+SVWh
+h(TC
+WhhrC
+N WQ
+Ph@rC
+hlSC
+VhPoC
+hxoC
+tYVPhhoC
+hxoC
+h8sC
+hDsC
+hdsC
+hTsC
+=H"C
+SVW3
+=H"C
+SVWj
+5H"C
+_^[]
+SVWj
+PWVS
+5H"C
+QRPV
+SVWj
+5H"C
+SVWj
+5H"C
+QSVWh
+RPVQ
+SVWj
+t8;u
+5H"C
+RPVQ
+u&hX	
+jRhHtC
+RPVQ
+SVWj
+PQVR
+hltC
+veSV
+WPQR
+[_^]
+SVWh
+_^[]
+hhtC
+t_WWWj
+tIWWWj
+5H"C
+h uC
+SRVWQP
+h(uC
+h uC
+h@uC
+PQhHuC
+h(uC
+h(uC
+h(uC
+RWPj
+hHuC
+PQh@uC
+RPSQ
+h`uC
+PhhuC
+h`uC
+h`uC
+htuC
+hxuC
+PQWR
+zu)j
+h`uC
+h`uC
+h`uC
+QRPV
+SVWP
+PRWQ
+PRWQ
+h@uC
+t;h|uC
+_^[]
+gfff
+4?@;
+j QS
+gfff
+;$u3;}
+;$u6;}
+<3u4
+t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+ t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+@t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+ t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+t5;u
+ t5;u
+t5;u
+;$u+
+;$u=
+<3u@
+tqBA
+|<9U
+|69U
+|=9}
+!!!!!!!!!	
+!!!!!!!!
+!! !
+SVWh]
+_^[]
+%H"C
+PVhxwC
+hx{C
+uMVWS
+h|{C
+_^[]
+[^_]
+^_[]
+SVWP
+PWSh@uC
+h$|C
+SVWP
+PVSh@uC
+h$|C
+h@uC
+h@uC
+5x!C
+=H"C
+v Sh
+RhDKC
+SVWP3
+5H"C
+t+SW
+~	_^2
+h@qA
+h@rA
+h@qA
+j\W3
+QVRS
+;slW
+Cl;sl}5
+;~l|B
+Fl;~l[}
+0j;S
+JR@P
+} j\V
+U QR
+5x!C
+tYj/W
+utj-W
+hhtC
+hhtC
+t,hTdC
+hTdC
+SQWRP
+SRWPQ
+SRWPQ
+tKSV
+^[_]
+t"<\u
+u%h(
+9~8t
+@8WQ
+3^[3
+1VWS
+QRSV
+8^!u	V
+PWVQ
+~!;M
+\2L@B;E
+v	;u
+U$^_
+KDQVR
+~%;u
+\Atf
+;_^2
+\Atf
+\Qt@B;E
+E$^[
+uTWj
+WVPQ
+8E4u=
+8PEu
+8PEu
+;O$}w
+;C$}
+;K ~
+7@_;
+w(VQ
+upW3
+N(QR
+~(WQ
+<Cu@
+Du.8J
+<Tu0
+VWS3
+PQhT
+PRh 
+x	nu
+SVWP
+t6h|
+<}iF
+t=<,u
+^[_]
+u	9]
+t2h|
+[_^]
+[_^]
+WVh8
+u|VW
+uEh|
+x	vu
+tiSF
+uD8E
+RPSj
+QRWP
+Qf;E
+RQSPV
+RQPV
+f;\z
+f;LB
+tF[_2
+=h!C
+:C<~
+C<_[^
+(SVW
+~#Sj
+_^[]
+_^[]
+4SVW
+t#+U
+t	9]
+SPRW
+_^[]
+<?w3
+Ff;E
+Af;E
+qBt)
+f;Qp
+PQRVS
+J?9}
+t~} 
+xBt"S
+f9Xp[w
+(SVW
+, G<^
+<	uo<+t)f
+^wv<&t)f
+&F;u
+L:%u
+B8;]
+\:%;
+}+;E
+s';U
+sD;}
+Wu&Sj
+u&Wj
+[_^]
+sD;M
+Wu&Sj
+[_^]
+u4GC
+RVtS
+x0_^[
+y0_^[
+z0_^[
+uC;{
+9J,t
+9J,t
+^0^[
+^0^[
+ SVW
+t	9U
+u7;M
+u-;U
+P|M=
+~	;U
+~	;]
+wr;}
+u+;E
+X,[]
+_^[]
+Q0Wf
+P,_^t
+EP$D
+tQ;P
+}P%D
+tN;P
+}P%D
+ _^[]
+S$tQ
+S8[]
+S8_^[]
+XKt'
+_^[]
+,h<@s
+,h<@s
+u"+]
+:_[]
+^_[]
+9H0ui
+9X8t
+^[_]
+8YPt
+< r=O
+QVR2
+QVR2
+u3;F
+jTPS
+9Q@u
+t?V3
+xckuH
+t,8^?u
+PQVR
+E0HD
+:Z:t
+u	8S6
+s&;{
+O$Vj
+,!<>
+,!F:
+W8PS
+t	;]
+w*;]
+ue;U
+u	_[
+ul;}
+< |t
+:\>6t2
+:W:t(
+G$Sj
+9N@uF
+8O4t
+G8Qj
+V(_^
+S(PR
+_^[]
+Gc<ct
+$_^[]
+Rh|PD
+WPt/
+90}-
+QSVW
+AQVS
+u!_[3
+RVWS=
+~%WQ
+] PQR
+AB;M
+F%WP
+f;<Cs
+f;<Kv
+f;<Kv
+f;<Kv
+^}	f;<Ku
+;P,|
+t9x%
+u[[^3
+PQSVRW
+W#QR
+U$PR
+GC_^2
+QRSP
+E BRP
+@;E(
+_^[]
+SQRWVP
+_<]v"
+_<]w
+U ;u
+} ;U
+%L"C
+%$"C
+WVS3
+WVU3
+v	N+D$
+v	N+D$
+<$Xf
+8csm
+%d!C
+50!C
+%T!C
+_^[]
+Y_^[
+Y_^[
+%L!C
+%H!C
+Y__^[
+VVVVV
+%(!C
+%$!C
+% !C
+%P"C
+%|"C
+%x"C
+%d"C
+%h"C
+%l"C
+%p"C
+%t"C
+htCC
+No memory for %s.
+dfree %s: free on null pointer.
+unable to allocate tree cache for %s.
+write_lease: unable to write lease %s
+	hostname "%s";
+	client-hostname "%s";
+	abandoned;
+	dynamic-bootp;
+:%2.2x
+	uid %2.2x
+	hardware %s %s;
+	ends %s
+	starts %s
+%d %d/%02d/%02d %02d:%02d:%02d;
+lease %s {
+# The format of this file is documented in the %s
+dhcpd.leases(5) manual page.
+# apologize.   Seriously, though - don't ask.
+# feature.   If this is inconvenient or %s
+confusing to you, we sincerely
+# store leases in the local timezone, so please %s
+don't request this as a
+# not a bug, so please don't ask about it.   %s
+There is no portable way to
+# All times in this file are in UTC (GMT), not %s
+your local timezone.   This is
+Can't fdopen new lease file!
+Can't create new lease file: %m
+Can't backup lease database %s to %s: %m
+Creating leasefile %s
+Can't remove old lease database backup %s: %m
+commit_leases: unable to commit: %m
+no memory for hostname %s.
+No hostname for %s
+No memory for address from %s to %s.
+new_leases
+%ssubnet %s/%d conflicts with subnet %s/%d
+Warning: 
+add_class
+%s: can't allocate new group
+Can't commit leases to new database: %m
+Can't rewrite lease database
+corrupt lease uid.
+Lease conflict at %s
+Abandoning IP address %s: %s
+new_address_range
+No memory for address range %s-%s.
+Please leave an extra IP address in your configuration's
+address range for the vmnet-dhcp server!
+Address range %s to %s not on net %s/%s!
+Address range %s to %s, netmask %s spans %s!
+multiple subnets
+No shared network for network %s (%s)
+No memory for lease %s
+enter_lease
+unknown-255
+unknown-254
+unknown-253
+unknown-252
+unknown-251
+unknown-250
+unknown-249
+unknown-248
+unknown-247
+unknown-246
+unknown-245
+unknown-244
+unknown-243
+unknown-242
+unknown-241
+unknown-240
+unknown-239
+unknown-238
+unknown-237
+unknown-236
+unknown-235
+unknown-234
+unknown-233
+unknown-232
+unknown-231
+unknown-230
+unknown-229
+unknown-228
+unknown-227
+unknown-226
+unknown-225
+unknown-224
+unknown-223
+unknown-222
+unknown-221
+unknown-220
+unknown-219
+unknown-218
+unknown-217
+unknown-216
+unknown-215
+unknown-214
+unknown-213
+unknown-212
+unknown-211
+unknown-210
+unknown-209
+unknown-208
+unknown-207
+unknown-206
+unknown-205
+unknown-204
+unknown-203
+unknown-202
+unknown-201
+unknown-200
+unknown-199
+unknown-198
+unknown-197
+unknown-196
+unknown-195
+unknown-194
+unknown-193
+unknown-192
+unknown-191
+unknown-190
+unknown-189
+unknown-188
+unknown-187
+unknown-186
+unknown-185
+unknown-184
+unknown-183
+unknown-182
+unknown-181
+unknown-180
+unknown-179
+unknown-178
+unknown-177
+unknown-176
+unknown-175
+unknown-174
+unknown-173
+unknown-172
+unknown-171
+unknown-170
+unknown-169
+unknown-168
+unknown-167
+unknown-166
+unknown-165
+unknown-164
+unknown-163
+unknown-162
+unknown-161
+unknown-160
+unknown-159
+unknown-158
+unknown-157
+unknown-156
+unknown-155
+unknown-154
+unknown-153
+unknown-152
+unknown-151
+unknown-150
+unknown-149
+unknown-148
+unknown-147
+unknown-146
+unknown-145
+unknown-144
+unknown-143
+unknown-142
+unknown-141
+unknown-140
+unknown-139
+unknown-138
+unknown-137
+unknown-136
+unknown-135
+unknown-134
+unknown-133
+unknown-132
+unknown-131
+unknown-130
+unknown-129
+unknown-128
+unknown-127
+unknown-126
+unknown-125
+unknown-124
+unknown-123
+unknown-122
+unknown-121
+unknown-120
+unknown-119
+unknown-118
+unknown-117
+unknown-116
+unknown-115
+unknown-114
+unknown-113
+unknown-112
+unknown-111
+unknown-110
+unknown-109
+unknown-108
+unknown-107
+unknown-106
+unknown-105
+unknown-104
+unknown-103
+unknown-102
+unknown-101
+unknown-100
+unknown-99
+unknown-98
+unknown-97
+unknown-96
+unknown-95
+unknown-94
+unknown-93
+unknown-92
+unknown-91
+unknown-90
+unknown-89
+unknown-88
+unknown-87
+unknown-86
+unknown-85
+unknown-84
+unknown-83
+unknown-82
+unknown-81
+unknown-80
+unknown-79
+unknown-78
+unknown-77
+unknown-76
+unknown-75
+unknown-74
+unknown-73
+unknown-72
+unknown-71
+unknown-70
+unknown-69
+unknown-68
+unknown-67
+unknown-66
+unknown-65
+unknown-64
+unknown-63
+unknown-62
+unknown-61
+unknown-60
+unknown-59
+unknown-58
+unknown-57
+unknown-56
+unknown-55
+unknown-54
+unknown-53
+unknown-52
+unknown-51
+unknown-50
+unknown-49
+unknown-48
+unknown-47
+unknown-46
+unknown-45
+unknown-44
+unknown-43
+unknown-42
+unknown-41
+unknown-40
+unknown-39
+unknown-38
+unknown-37
+unknown-36
+unknown-35
+unknown-34
+unknown-33
+unknown-32
+unknown-31
+unknown-30
+unknown-29
+unknown-28
+unknown-27
+unknown-26
+unknown-25
+unknown-24
+unknown-23
+unknown-22
+unknown-21
+unknown-20
+unknown-19
+unknown-18
+unknown-17
+unknown-16
+unknown-15
+unknown-14
+unknown-13
+unknown-12
+unknown-11
+unknown-10
+unknown-9
+fddi
+unknown-7
+token-ring
+unknown-5
+unknown-4
+unknown-3
+unknown-2
+ethernet
+unknown-0
+option-end
+option-254
+option-253
+option-252
+option-251
+option-250
+option-249
+option-248
+option-247
+option-246
+option-245
+option-244
+option-243
+option-242
+option-241
+option-240
+option-239
+option-238
+option-237
+option-236
+option-235
+option-234
+option-233
+option-232
+option-231
+option-230
+option-229
+option-228
+option-227
+option-226
+option-225
+option-224
+option-223
+option-222
+option-221
+option-220
+option-219
+option-218
+option-217
+option-216
+option-215
+option-214
+option-213
+option-212
+option-211
+option-210
+option-209
+option-208
+option-207
+option-206
+option-205
+option-204
+option-203
+option-202
+option-201
+option-200
+option-199
+option-198
+option-197
+option-196
+option-195
+option-194
+option-193
+option-192
+option-191
+option-190
+option-189
+option-188
+option-187
+option-186
+option-185
+option-184
+option-183
+option-182
+option-181
+option-180
+option-179
+option-178
+option-177
+option-176
+option-175
+option-174
+option-173
+option-172
+option-171
+option-170
+option-169
+option-168
+option-167
+option-166
+option-165
+option-164
+option-163
+option-162
+option-161
+option-160
+option-159
+option-158
+option-157
+option-156
+option-155
+option-154
+option-153
+option-152
+option-151
+option-150
+option-149
+option-148
+option-147
+option-146
+option-145
+option-144
+option-143
+option-142
+option-141
+option-140
+option-139
+option-138
+option-137
+option-136
+option-135
+option-134
+option-133
+option-132
+option-131
+option-130
+option-129
+option-128
+option-127
+option-126
+option-125
+option-124
+option-123
+option-122
+option-121
+option-120
+option-119
+option-118
+option-117
+option-116
+option-115
+option-114
+option-113
+option-112
+option-111
+option-110
+option-109
+option-108
+option-107
+option-106
+option-105
+option-104
+option-103
+option-102
+option-101
+option-100
+option-99
+option-98
+option-97
+option-96
+option-95
+option-94
+option-93
+option-92
+option-91
+option-90
+option-89
+option-88
+nds-context
+nds-tree-name
+nds-servers
+option-84
+option-83
+option-82
+option-81
+option-80
+option-79
+option-78
+user-class
+streettalk-directory-assistance-server
+streettalk-server
+irc-server
+finger-server
+www-server
+nntp-server
+pop-server
+smtp-server
+mobile-ip-home-agent
+bootfile-name
+tftp-server-name
+nisplus-servers
+nisplus-domain
+option-63
+option-62
+dhcp-client-identifier
+dhcp-class-identifier
+dhcp-rebinding-time
+dhcp-renewal-time
+dhcp-max-message-size
+dhcp-message
+dhcp-parameter-request-list
+dhcp-server-identifier
+dhcp-message-type
+dhcp-option-overload
+dhcp-lease-time
+dhcp-requested-address
+x-display-manager
+font-servers
+netbios-scope
+netbios-node-type
+netbios-dd-server
+netbios-name-servers
+vendor-encapsulated-options
+ntp-servers
+nis-servers
+nis-domain
+tcp-keepalive-garbage
+tcp-keepalive-interval
+default-tcp-ttl
+ieee802-3-encapsulation
+arp-cache-timeout
+trailer-encapsulation
+static-routes
+router-solicitation-address
+router-discovery
+mask-supplier
+perform-mask-discovery
+broadcast-address
+all-subnets-local
+interface-mtu
+path-mtu-plateau-table
+path-mtu-aging-timeout
+default-ip-ttl
+max-dgram-reassembly
+policy-filter
+non-local-source-routing
+ip-forwarding
+extensions-path
+root-path
+swap-server
+domain-name
+merit-dump
+boot-size
+host-name
+resource-location-servers
+impress-servers
+lpr-servers
+cookie-servers
+log-servers
+domain-name-servers
+ien116-name-servers
+time-servers
+routers
+time-offset
+subnet-mask
+Can't allocate dhcp option hash table.
+dhcp
+BOOTREPLY for %s to %s (%s) via %s
+No applicable record for BOOTP host %s via %s
+Ignoring BOOTP request from client %s via %s
+Ignoring unknown BOOTP client %s via %s
+Ignoring BOOTP request from client %s
+Ignoring excluded BOOTP client %s
+BOOTREQUEST from %s via %s%s
+ (non-rfc1048)
+DHCPRELEASE of %s from %s via %s (%sfound)
+not 
+DHCPRELEASE from %s specified requested-address.
+declined.
+DHCPDECLINE on %s from %s via %s
+send_fallback: %m
+DHCPNAK on %s to %s via %s
+nak_lease
+dhcp_reply fallback 2
+dhcp_reply fallback 1
+%s on %s to %s via %s
+BOOTREPLY
+DHCPOFFER
+DHCPACK
+dhcp_reply
+dhcp_reply was supplied lease with no state!
+class-identifier
+rebind-time
+renewal-time
+lease-expiry
+server-id
+message-type
+hostname
+no memory for parameter request list
+ack_lease: prl
+can't allocate memory for large uid.
+no memory for client hostname.
+unable to allocate lease state!
+ack_lease
+Booting denied by user class
+Booting denied by vendor class
+already acking lease %s
+Reclaiming REQUESTed abandoned IP address %s.
+requested address not available
+database conflict - call for help!
+from the dynamic address pool for %s
+Either remove host declaration %s or remove %s
+Both dynamic and static leases present for %s.
+requested address is not available
+client %s has duplicate leases on %s
+requested address on bad subnet
+requested address is incorrect
+Declining to boot client %s
+no free leases on subnet %s
+Ignoring unknown client %s
+Reclaiming abandoned IP address %s.
+Packet from unknown subnet: %s
+DHCPDISCOVER from %s via %s
+Declining to renew client %s
+DHCPREQUEST for %s from %s via %s
+DHCPINFORM for %s from %s via %s
+new_hash
+Can't add %s to hash table.
+add_hash
+delete_hash_entry
+Option %s length %d too big for input buffer.
+Can't expand storage for option %s.
+Can't allocate storage for option %s.
+parse_option_buffer
+false
+true
+do_packet
+Discarding packet with invalid hlen.
+no memory for cons.
+cons
+tree_cache
+Can't allocate space for new host.
+enter_dns_host
+No memory for constant data tree node.
+tree_const
+No memory for data tree concatenation node.
+No memory to concatenate constants.
+tree_concat
+tree_limit
+No memory for host lookup tree node.
+tree_host_lookup
+do_host_lookup
+%s: host unknown.
+Bad node id in tree: %d.
+tree_evaluate
+string constant larger than internal buffer
+eof in string constant
+numeric token larger than internal buffer
+endor-class
+nknown-clients
+-lease-addr-for-default-route
+-host-decl-names
+r-class
+oken-ring
+imeout
+imestamp
+upersede
+cript
+elect-timeout
+erver-identifier
+erver-name
+hared-network
+ubnet
+tarts
+earch
+eject
+eboot
+ebind
+enew
+etry
+equire
+equest
+ange
+acket
+repend
+ne-lease-per-client
+ption
+ext-server
+etmask
+ameserver
+ax-lease-time
+ease
+nterface
+nitial-interval
+ostname
+ardware
+et-lease-hostnames
+roup
+ixed-address
+ilename
+xpire
+thernet
+-lease-length
+-lease-cutoff
+ynamic-bootp
+-lease-time
+efault
+omain
+lient-hostname
+lient-identifier
+iaddr
+lass
+oot-unknown-clients
+ooting
+ootp
+ackoff-cutoff
+uthoritative
+bandoned
+lias
+llow
+ppend
+lways-reply-rfc1048
+token larger than internal buffer
+/var/run/dhcpd.pid
+VMnetDHCP.leases
+VMnetDHCP.conf
+Setting hServerStopEvent
+by the Services Control Panel.
+This program is a system service and can only be started/stopped
+cleanup completed
+cleanup begun...
+Stopping %s.
+VMnet DHCP Server
+pinged before offer
+lease_pinged
+ICMP Echo Reply for %s arrived late or is spurious.
+unexpected ICMP Echo Reply from %s
+Configuration file errors encountered -- exiting
+Lease file: %s
+Config file: %s
+ServerStopEvent
+StopHandler
+Insufficient memory to record interface for StopEvent
+discover_interfaces
+VNetDHCPServiceStart: Could not create stop event, CreateEvent error %d
+StartServiceCtrlDispatcher failed: %d: %m
+VMnetDHCP
+VMnet DHCP Server, Copyright 1998 VMware, Inc.  All rights reserved. -- VMware Confidential
+Interface name too long.
+Insufficient memory to %s %s
+record interface
+get_interface_list
+binding to user-specified port %d
+%s: not a valid UDP port
+attempted to reinitialize icmp protocol
+icmp_echorequest %s: %m
+attempt to use ICMP protocol before initialization.
+%d udp packets in %d too long - dropped
+%d bad udp checksums in %d packets
+accepting packet with data after udp payload.
+ip length %d disagrees with bytes received %d.
+%d bad IP checksums seen in %d packets
+expecting allow/deny key
+boolean value (true/false/on/off) expected
+expecting left brace.
+can't allocate a tree cache for hostname.
+unexpected end of file
+can't allocate host decl struct %s.
+parse_host_declaration
+parse_class_declaration
+No memory for class %s.
+Expecting class name
+empty shared-network decl
+no memory for shared network name
+<no-name-given>
+zero-length shared network name
+No memory for shared subnet
+parse_shared_net_declaration
+Expecting netmask
+No memory for new subnet
+parse_subnet_declaration
+%s (%d): expecting IP address or hostname
+expecting identifier after option keyword.
+Bad format %c in parse_option_param.
+expecting identifier.
+expecting boolean.
+expecting number.
+expecting string.
+expecting string %s.
+or hexadecimal data
+semicolon expected.
+no option named %s for vendor %s
+no option named %s
+expecting identifier after '.'
+no vendor named %s.
+no memory for vendor token.
+no space for uid
+Too many %s parameters in lease %s
+zero-length uid
+No memory for lease uid
+couldn't close %s: %m
+possibly corrupt lease file
+Corrupt lease file - possible data loss!
+don't know what to do about this.
+Please read the dhcpd.leases manual page if you.
+Can't open lease database %s: %m -- %s
+check for failed database rewrite attempt!
+expecting a parameter or declaration.
+expecting a declaration.
+parameters not allowed after first declaration.
+range declaration not allowed here.
+fixed-address parameter not %s
+allowed here.
+hardware address parameter %s
+not allowed here.
+next-server is not known
+authority makes no sense here.
+expecting assertion
+use-host-decl-names not allowed here.
+get-lease-hostnames not allowed here.
+one-lease-per-client not allowed here.
+boot-unknown-clients not allowed here.
+subnet declarations not allowed here.
+no memory for subnet name
+parse_statement:subnet
+parse_statement
+shared-network parameters not %s.
+allowed here
+host declarations not allowed here.
+parse_group_declaration
+Can't open %s: %m
+VMware, Inc.
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkCard
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkCards
+SYSTEM\CurrentControlSet\Services
+Multiple interfaces match the same shared network: %s %s
+Interface %s matches multiple shared networks
+Multiple interfaces match the same subnet: %s %s
+Setting vmnet-dhcp IP address: %u.%u.%u.%u
+Configured subnet: %d.%d.%d.%d
+Found %s at %s
+Unable to close the "%s" registry key (error %ld).
+Unable to enumerate keys in the "%s" registry key (error %ld).
+Unable to close the "%s\%s" registry key (error %ld).
+Unable to build the interface name for the segment number %u.
+VMnet%u
+HostIpAddress
+Unexpected type %u for the "%s" value of the "%s\%s" registry key.
+Unable to read the "%s" value of the "%s\%s" registry key (error %ld).
+ListenTo
+Unable to open the "%s\%s" registry key (error %ld).
+Skipping the "%s" subkey of the "%s" registry key, because it is not an unsigned integer.
+Unable to open the "%s" registry key (error %ld).
+SYSTEM\CurrentControlSet\Services\VMnetDHCP\Parameters\VirtualEthernetSegments
+dispatch: WaitForMultipleObjects failed: error %d
+dispatch: Timeout waiting for input data
+dispatch: interfaces invalidated
+dispatch: invoke handler for %s
+dispatch: wait returns %d
+dispatch: wait for %d events w/ timeout %d
+receive_packet failed on %s: %m
+Can't allocate timeout structure!
+can't allocate protocol struct for %s
+%s: not found
+No subnet declaration for %s (%s).  Please write a subnet declaration for the network segment to which interface %s is attached.
+%s%d
+<null address>
+no memory for string %s.
+filename must be a string
+expecting an identifier in hostname
+can't allocate space for hostname.
+can't allocate temp space for hostname.
+Unexpected integer size: %d
+value %s%o exceeds max (%d) for precision.
+value %s%x exceeds max (%d) for precision.
+value %s%u exceeds max (%d) for precision.
+Bogus number: %s.
+Bogus number: %s: digit %d not in base %d
+numeric minute expected.
+expected colon seperating hour from minute.
+numeric hour expected.
+numeric day of month expected.
+expected slash seperating month from day.
+numeric month expected.
+expected slash seperating year from month.
+numeric year expected.
+numeric day of week expected.
+Expecting numeric lease time
+expecting numeric value.
+too few numbers.
+can't allocate space for numeric aggregate.
+no temp space for number.
+can't allocate space for numeric aggregate
+expecting semicolon.
+hardware address too long
+expecting a network hardware type
+CreateFile Bind ioctl(): %s: %m
+CreateFile Version ioctl(): %s (%d %d): %m
+CreateFile Version ioctl(): %s: %m
+VMnet
+Interface %s successfully initialized.
+DeviceIoControl: IOCTL_VNET_SETUP_RECV_EVENT: %m
+CreateEvent: recvEvent: %m
+DeviceIoControl: IOCTL_VNET_SETIFFLAGS: %m
+Ethernet address: %02x:%02x:%02x:%02x:%02x:%02x
+ioctl: IOCTL_VNET_GETIFADDR: %m
+CreateFile: %s: %m
+\\.\Global\VMnetUserif
+unattached
+Sending on     VNet/%s/%s
+Recving on     VNet/%s/%s
+send_packet: %m
+send_packet: packet too large (%s)
+send_packet_ping: %m
+send_packet_ping: packet too large (%s)
+ARP request not for us; ignored
+           target %02x:%02x:%02x:%02x:%02x:%02x / %d.%d.%d.%d on %7s
+ARP reply: sender %02x:%02x:%02x:%02x:%02x:%02x / %d.%d.%d.%d
+arp_reply_vnet: %m
+             target %02x:%02x:%02x:%02x:%02x:%02x / %d.%d.%d.%d on %7s
+ARP request: sender %02x:%02x:%02x:%02x:%02x:%02x / %d.%d.%d.%d
+arp_reply_vnet(%s): request %d ignored
+arp_reply_vnet(%s): ARP frame too small: %d
+receive_packet(%s): UDP frame has no data: %d
+receive_packet(%s): bad checksum, offset %d
+receive_packet(%s): packet too short for UDP: %d
+receive_packet(%s): packet too short for IP: %d
+receive_packet(%s): discarding non-IP packet
+receive_packet(%s): discarding short packet: %d
+receive_packet: read failed on %s, ReadFile error %d
+                                                                                
+<unknown error>
+exiting.
+exiting.
+%s:%d buf ovflow 0x%x
+bora\apps\vnetdhcp\source\errwarn.c
+%s line %d: %s
+<null>
+%02x
+AddMessageToLog: RegisterEventSource failed, error %d
+AddToMessageLog: ReportEvent failed, error %d
+STATE %d
+SERVICE_PAUSED
+SERVICE_PAUSE_PENDING
+SERVICE_CONTINUE_PENDING
+SERVICE_RUNNING
+SERVICE_STOP_PENDING
+SERVICE_START_PENDING
+SERVICE_STOPPED
+SetServiceStatus
+Report service status %s, exit code %d, hint %d
+GetDWORDValue(%s) => %d
+GetDWORDValue(%s), type mismatch (type %d)
+GetDWORDValue(%s) failed, error %d
+GetStringValue(%s) failed, error %d
+GetStringValue(%s), type mismatch (type %d)
+GetStringValue(%s) => "%s" (type REG_SZ)
+GetStringValue(%s), value too large to fit in buffer, valueLen %d, bufLen %d
+GetStringValue(%s), unable to expand environment variables, len %d, valueLen %d
+GetStringValue(%s) => "%s" (type REG_EXPAND_SZ)
+%m/%d/%y %H:%M:%S 
+Received service SERVICE_CONTROL_STOP request
+Received service SERVICE_CONTROL_INTERROGATE request
+Received unexpected service request %d
+RegisterServiceCtrlHandler failed, error %d
+No Parameters key in registry, error %d
+Insufficient memory to record interface %s
+Interfaces
+DHCP leases
+LeaseFile
+DHCP confpath
+ConfFile
+SYSTEM\CurrentControlSet\Services\VMNetDHCP\Parameters
+DHCP service starting (service_main)
+End Logging
+VMnetDHCP Error
+Begin Logging
+vmnetdhcp.log
+LogFile
+LogLevel
+Unknown error %d (0x%x)
+NOT_REACHED %s:%d
+VERIFY %s:%d
+bora\lib\misc\win32u.c
+NOT_IMPLEMENTED %s:%d
+kernel32.dll
+Unrecoverable memory allocation failure
+bora\lib\misc\win32uRegistry.c
+bora\lib\misc\hashTable.c
+%s only takes powers of 2 
+HashTable_Alloc
+icudt44l
+icudt44l.dat
+bora\lib\misc\codeset.c
+UTF-8
+UTF-16LE
+UTF-16BE
+windows-%u
+GetModuleHandleExW
+%s:%d Buffer too small
+bora\lib\string\str.c
+0123456789abcdef?
+0123456789ABCDEF?
+bora\lib\string\bsd_vsnprintf.c
+(null)
+-inf
+0123456789abcdef0123456789ABCDEF
+PANIC %s:%d
+bora\lib\unicode\unicodeCommon.c
+%s: Couldn't convert invalid buffer [%s] from %s to Unicode.
+Unicode_AllocWithLength
+(couldn't escape bytes)
+bora\lib\unicode\unicodeSimpleBase.c
+iscii-gur
+x-iscii-pa
+Windows-57011
+x-iscii-guj
+x-iscii-gu
+Windows-57010
+iscii-mlm
+x-iscii-ma
+Windows-57009
+iscii-knd
+x-iscii-ka
+Windows-57008
+iscii-ori
+x-iscii-or
+Windows-57007
+x-iscii-as
+Windows-57006
+iscii-tlg
+x-iscii-te
+Windows-57005
+iscii-tml
+x-iscii-ta
+Windows-57004
+iscii-bng
+x-iscii-be
+Windows-57003
+ibm-4902
+iscii-dev
+x-iscii-de
+Windows-57002
+Windows-51950
+Windows-50939
+Windows-50937
+Windows-50936
+Windows-50935
+Windows-50933
+Windows-50931
+Windows-50930
+Windows-50229
+iso-8859-8-i
+x-Europa
+Windows-29001
+Windows-21027
+ibm-1025_P100-1995
+1025
+ibm-1025
+cp1025
+x-cp20949
+Windows-20949
+x-EBCDIC-KoreanExtended
+Windows-20833
+x-cp20269
+Windows-20269
+x-IA5-Norwegian
+Windows-20108
+x-IA5-Swedish
+Windows-20107
+x-IA5-German
+Windows-20106
+x-IA5
+Windows-20105
+x-cp20005
+Windows-20005
+x-cp20004
+Windows-20004
+x-cp20003
+Windows-20003
+x_Chinese-Eten
+Windows-20002
+x-cp20001
+Windows-20001
+x-Chinese_CNS
+Windows-20000
+x-mac-croatian
+Windows-10082
+macos-35-10.2
+mactr
+x-mac-turkish
+Windows-10081
+x-mac-icelandic
+Windows-10079
+macos-29-10.2
+x-mac-centraleurroman
+maccentraleurope
+macce
+x-mac-ce
+Windows-10029
+x-mac-thai
+Windows-10021
+x-mac-ukrainian
+Windows-10017
+x-mac-romanian
+Windows-10010
+x-mac-chinesesimp
+Windows-10008
+macos-7_3-10.2
+mac-cyrillic
+maccy
+x-mac-cyrillic
+Windows-10007
+macos-6_2-10.4
+macgr
+x-mac-greek
+Windows-10006
+x-mac-hebrew
+Windows-10005
+x-mac-arabic
+Windows-10004
+x-mac-korean
+Windows-10003
+x-mac-chinesetrad
+Windows-10002
+x-mac-japanese
+Windows-10001
+Windows-10000
+Johab
+Windows-1361
+ibm-875_P100-1995
+IBM875
+ibm-875
+cp875
+ibm-737_P100-1997
+cp737
+IBM737
+Windows-737
+ibm-720_P100-1997
+ibm-720
+DOS_720
+DOS-720
+Windows-720
+Windows-710
+BCON_V4
+ASMO-449+
+Windows-709
+MS874
+windows-874-2000
+ibm-1258_P100-1997
+ibm-1258
+cp1258
+ibm-5354
+ibm-5354_P100-1998
+windows-1258
+ibm-5353_P100-1998
+ibm-5353
+cp1257
+ibm-9449
+ibm-9449_P100-2002
+windows-1257
+ibm-5352_P100-1998
+ibm-5352
+cp1256
+ibm-9448
+ibm-9448_X100-2005
+windows-1256
+ibm-5351_P100-1998
+ibm-5351
+cp1255
+ibm-9447
+ibm-9447_P100-2002
+windows-1255
+ibm-1254_P100-1995
+ibm-1254
+cp1254
+ibm-5350
+ibm-5350_P100-1998
+windows-1254
+ibm-1253_P100-1995
+ibm-1253
+cp1253
+ibm-5349
+ibm-5349_P100-1998
+windows-1253
+ibm-1252
+ibm-1252_P100-2000
+cp1252
+ibm-5348
+ibm-5348_P100-1997
+windows-1252
+ibm-1251
+ibm-1251_P100-1995
+ANSI1251
+cp1251
+ibm-5347
+ibm-5347_P100-1998
+windows-1251
+ibm-1250
+ibm-1250_P100-1995
+cp1250
+ibm-5346
+ibm-5346_P100-1998
+windows-1250
+csTSCII
+TSCII
+csBRF
+KOI7-switched
+Ami-1251
+Amiga1251
+Ami1251
+Amiga-1251
+Cyrillic-Asian
+CP154
+PT154
+csPTCP154
+PTCP154
+ibm-1047_P100-1995
+1047
+cp1047
+IBM-1047
+IBM1047
+hkbig5
+MS950_HKSCS
+ibm-5471
+ibm-5471_P100-2006
+HKSCS-BIG5
+big5hk
+ibm-1375
+ibm-1375_P100-2007
+Big5-HKSCS
+ibm-1149_P100-1997
+cp1149
+ibm-1149
+ebcdic-is-871+euro
+CP01149
+CCSID01149
+IBM01149
+ibm-1148_P100-1997
+cp1148
+ibm-1148
+ebcdic-international-500+euro
+CP01148
+CCSID01148
+IBM01148
+ibm-1147_P100-1997
+cp1147
+ibm-1147
+ebcdic-fr-297+euro
+CP01147
+CCSID01147
+IBM01147
+ibm-1146_P100-1997
+cp1146
+ibm-1146
+ebcdic-gb-285+euro
+CP01146
+CCSID01146
+IBM01146
+ibm-1145_P100-1997
+cp1145
+ibm-1145
+ebcdic-es-284+euro
+CP01145
+CCSID01145
+IBM01145
+ibm-1144_P100-1997
+cp1144
+ibm-1144
+ebcdic-it-280+euro
+CP01144
+CCSID01144
+IBM01144
+ibm-1143_P100-1997
+cp1143
+ibm-1143
+ebcdic-se-278+euro
+ebcdic-fi-278+euro
+CP01143
+CCSID01143
+IBM01143
+ibm-1142_P100-1997
+cp1142
+ibm-1142
+ebcdic-no-277+euro
+ebcdic-dk-277+euro
+CP01142
+CCSID01142
+IBM01142
+ibm-1141_P100-1997
+cp1141
+ibm-1141
+ebcdic-de-273+euro
+CP01141
+CCSID01141
+IBM01141
+ibm-1140_P100-1997
+cp1140
+ibm-1140
+ebcdic-us-37+euro
+CP01140
+CCSID01140
+IBM01140
+ebcdic-Latin9--euro
+CP00924
+CCSID00924
+IBM00924
+ibm-858_P100-1997
+cp858
+ibm-858
+PC-Multilingual-850+euro
+CP00858
+CCSID00858
+IBM00858
+ibm-1168_P100-2002
+ibm-1168
+KOI8-U
+ibm-775_P100-1996
+csPC775Baltic
+cp775
+IBM775
+ibm-866_P100-1995
+csIBM866
+cp866
+IBM866
+HZ-GB-2312
+ibm-878_P100-1996
+ibm-878
+cp878
+koi8
+csKOI8R
+KOI8-R
+csVIQR
+VIQR
+csVISCII
+VISCII
+csMnem
+MNEM
+csMnemonic
+MNEMONIC
+csUnknown8BiT
+UNKNOWN-8BIT
+csEBCDICUS
+EBCDIC-US
+csEBCDICUK
+EBCDIC-UK
+csEBCDICESS
+EBCDIC-ES-S
+csEBCDICESA
+EBCDIC-ES-A
+csEBCDICES
+EBCDIC-ES
+csEBCDICPT
+EBCDIC-PT
+csEBCDICIT
+EBCDIC-IT
+csEBCDICFR
+EBCDIC-FR
+csEBCDICFISEA
+EBCDIC-FI-SE-A
+csEBCDICFISE
+EBCDIC-FI-SE
+csEBCDICDKNOA
+EBCDIC-DK-NO-A
+csEBCDICDKNO
+EBCDIC-DK-NO
+csEBCDICCAFR
+EBCDIC-CA-FR
+csEBCDICATDEA
+EBCDIC-AT-DE-A
+csIBMEBCDICATDE
+EBCDIC-AT-DE
+1026
+ibm-1026_P100-1995
+csIBM1026
+CP1026
+IBM1026
+ibm-918_P100-1995
+csIBM918
+ebcdic-cp-ar2
+CP918
+IBM918
+csIBM905
+ebcdic-cp-tr
+CP905
+IBM905
+csIBBM904
+cp904
+IBM904
+csIBM903
+cp903
+IBM903
+csIBM891
+cp891
+IBM891
+csIBM880
+EBCDIC-Cyrillic
+cp880
+IBM880
+ebcdic-is
+ibm-871_P100-1995
+csIBM871
+ebcdic-cp-is
+CP871
+IBM871
+ibm-870_P100-1995
+csIBM870
+ebcdic-cp-yu
+ebcdic-cp-roece
+CP870
+IBM870
+ibm-869_P100-1995
+csIBM869
+cp-gr
+cp869
+IBM869
+ibm-868_P100-1995
+csIBM868
+cp-ar
+CP868
+IBM868
+ibm-865_P100-1995
+csIBM865
+cp865
+IBM865
+ibm-864_X110-1999
+csIBM864
+cp864
+IBM864
+ibm-863_P100-1995
+csIBM863
+cp863
+IBM863
+ibm-861_P100-1995
+csIBM861
+cp-is
+cp861
+IBM861
+ibm-860_P100-1995
+csIBM860
+cp860
+IBM860
+ibm-857_P100-1995
+csIBM857
+cp857
+IBM857
+csPCp855
+ibm-855_P100-1995
+csIBM855
+cp855
+IBM855
+ibm-852_P100-1995
+csPCp852
+cp852
+IBM852
+csPC851
+ibm-851_P100-1995
+csIBM851
+cp851
+IBM851
+ibm-500_P100-1995
+csIBM500
+ebcdic-cp-ch
+ebcdic-cp-be
+CP500
+IBM500
+ibm-437_P100-1995
+csPC8CodePage437
+cp437
+IBM437
+ibm-424_P100-1995
+csIBM424
+ebcdic-cp-he
+cp424
+IBM424
+csIBM423
+ebcdic-cp-gr
+cp423
+IBM423
+ibm-420_X120-1999
+csIBM420
+ebcdic-cp-ar1
+cp420
+IBM420
+cpibm297
+ibm-297_P100-1995
+csIBM297
+ebcdic-cp-fr
+cp297
+IBM297
+ibm-290_P100-1995
+csIBM290
+EBCDIC-JP-kana
+cp290
+IBM290
+csIBM285
+ebcdic-cp-gb
+CP285
+IBM285
+cpibm284
+ibm-284_P100-1995
+csIBM284
+ebcdic-cp-es
+CP284
+IBM284
+csIBM281
+cp281
+EBCDIC-JP-E
+IBM281
+ibm-280_P100-1995
+csIBM280
+ebcdic-cp-it
+CP280
+IBM280
+ebcdic-sv
+ibm-278_P100-1995
+csIBM278
+ebcdic-cp-se
+ebcdic-cp-fi
+CP278
+IBM278
+ebcdic-dk
+cp277
+ibm-277_P100-1995
+csIBM277
+EBCDIC-CP-NO
+EBCDIC-CP-DK
+IBM277
+csIBM275
+cp275
+EBCDIC-BR
+IBM275
+csIBM274
+CP274
+EBCDIC-BE
+IBM274
+ebcdic-de
+ibm-273_P100-1995
+csIBM273
+CP273
+IBM273
+csIBM038
+cp038
+EBCDIC-INT
+IBM038
+cp37
+cpibm37
+ibm-37
+ibm-37_P100-1995
+csIBM037
+ebcdic-cp-nl
+ebcdic-cp-wt
+ebcdic-cp-ca
+ebcdic-cp-us
+cp037
+IBM037
+x-macroman
+macroman
+macos-0_2-10.2
+csMacintosh
+macintosh
+ibm-1373
+ibm-1373_P100-2002
+x-big5
+windows-950-2000
+windows-950
+csBig5
+Big5
+ibm-1383_VPUA
+hp15CN
+ibm-eucCN
+EUC-CN
+1383
+cp1383
+ibm-1383
+ibm-1383_P110-1999
+csGB2312
+GB2312
+csWindows31J
+Windows-31J
+csMicrosoftPublishing
+Microsoft-Publishing
+csVenturaMath
+Ventura-Math
+csHPDesktop
+HP-DeskTop
+csHPPSMath
+Adobe-Symbol-Encoding
+csHPMath8
+HP-Math8
+csHPPiFont
+HP-Pi-font
+csHPLegal
+HP-Legal
+ibm-9030
+cp838
+IBM838
+ibm-838
+ibm-838_P100-1995
+csIBMThai
+IBM-Thai
+csIBMSymbols
+IBM-Symbols
+csPC8Turkish
+PC8-Turkish
+DOS-862
+ibm-862_P100-1995
+csPC862LatinHebrew
+cp862
+IBM862
+csPC8DanishNorwegian
+PC8-Danish-Norwegian
+ibm-850_P100-1995
+csPC850Multilingual
+cp850
+IBM850
+csDECMCS
+DEC-MCS
+csVenturaInternational
+Ventura-International
+csVenturaUS
+Ventura-US
+ibm-1276
+ibm-1276_P100-1995
+csAdobeStandardEncoding
+Adobe-Standard-Encoding
+ibm-1051
+ibm-1051_P100-1995
+csHPRoman8
+roman8
+hp-roman8
+csWindows31Latin5
+ISO-8859-9-Windows-Latin-5
+csWindows31Latin2
+ISO-8859-2-Windows-Latin-2
+csWindows31Latin1
+ISO-8859-1-Windows-3.1-Latin-1
+csWindows30Latin1
+ISO-8859-1-Windows-3.0-Latin-1
+ibm-1215
+ibm-1214
+csBOCU-1
+BOCU-1
+ibm-1235
+ibm-1234
+UTF32_LittleEndian
+UTF-32LE
+ibm-9424
+ibm-1233
+ibm-1232
+UTF32_BigEndian
+UTF-32BE
+UTF-32
+ibm-9400
+csCESU-8
+CESU-8
+UTF-16
+UnicodeLittleUnmarked
+UTF16_LittleEndian
+ibm-29875
+ibm-29874
+ibm-25779
+ibm-25778
+ibm-21683
+ibm-21682
+ibm-17587
+ibm-17586
+ibm-13491
+ibm-13490
+ibm-1203
+ibm-1202
+x-utf-16le
+UnicodeBigUnmarked
+UTF16_BigEndian
+cp1201
+cp1200
+ibm-61956
+ibm-61955
+ibm-29873
+ibm-29872
+ibm-25777
+ibm-25776
+ibm-21681
+ibm-21680
+ibm-17585
+ibm-17584
+ibm-13489
+ibm-13488
+ibm-1201
+ibm-1200
+x-utf-16be
+UTF-7
+ibm-1213
+ibm-1212
+SCSU
+csUnicode11
+UNICODE-1-1
+csUnicodeIBM1265
+ISO-Unicode-IBM-1265
+csUnicodeIBM1264
+ISO-Unicode-IBM-1264
+csUnicodeIBM1276
+ISO-Unicode-IBM-1276
+csUnicodeIBM1268
+ISO-Unicode-IBM-1268
+csUnicodeIBM1261
+ISO-Unicode-IBM-1261
+ISO-10646-J-1
+ISO-10646
+csUnicodeLatin1
+ISO-10646-Unicode-Latin1
+csUnicodeASCII
+ISO-10646-UCS-Basic
+ucs-4
+ibm-1237
+ibm-1236
+csUCS4
+ISO-10646-UCS-4
+ucs-2
+unicode
+ibm-1205
+ibm-1204
+csUnicode
+ISO-10646-UCS-2
+csKZ1048
+RK1048
+STRK1048-2002
+KZ-1048
+csISO115481
+ISO_TR_11548-1
+ISO_11548-1
+ISO-11548-1
+OSD_EBCDIC_DF04_1
+OSD_EBCDIC_DF03_IRV
+OSD_EBCDIC_DF04_15
+ibm-1392
+GB18030
+ibm-1386_VSUB_VPUA
+cp1386
+ibm-1386
+ibm-1386_P100-2001
+windows-936-2000
+windows-936
+MS936
+CP936
+latin10
+ISO_8859-16
+ISO_8859-16:2001
+iso-ir-226
+ISO-8859-16
+eucTH
+tis620.2533
+TIS-620
+ibm-9066
+cp874
+ibm-874_P100-1995
+ibm-874
+iso8859_15_fdis
+cp923
+csisolatin9
+csisolatin0
+latin0
+8859_15
+ibm-923
+ibm-923_P100-1998
+Latin-9
+ISO_8859-15
+ISO-8859-15
+iso-celtic
+latin8
+ISO_8859-14
+ISO_8859-14:1998
+iso-ir-199
+ISO-8859-14
+cp921
+8859_13
+ibm-921
+ibm-921_P100-1995
+ISO-8859-13
+cp1208
+ibm-17593
+ibm-17592
+ibm-13497
+ibm-13496
+ibm-5305
+ibm-5304
+ibm-1209
+ibm-1208
+ISO-2022-CN-EXT
+csISO2022CN
+ISO-2022-CN
+csUnicode11UTF7
+UNICODE-1-1-UTF-7
+csKSC5636
+ISO646-KR
+KSC5636
+csDKUS
+dk-us
+csUSDK
+us-dk
+csISO646Danish
+ISO646-DK
+DS2089
+DS_2089
+csISO159JISX02121990
+iso-ir-159
+x0212
+JIS_X0212-1990
+csISO158Lap
+iso-ir-158
+latin-lap
+csISO10367Box
+iso-ir-155
+ISO_10367-box
+csISO8859Supp
+latin1-2-5
+iso-ir-154
+ISO_8859-supp
+csISO153GOST1976874
+iso-ir-153
+ST_SEV_358-88
+GOST_19768-74
+csISO6937Add
+iso-ir-152
+ISO_6937-2-25
+csISO151Cuba
+ISO646-CU
+iso-ir-151
+cuba
+NC_NC00-10:81
+csISO150GreekCCITT
+csISO150
+iso-ir-150
+greek-ccitt
+csISO147Macedonian
+iso-ir-147
+macedonian
+JUS_I.B1.003-mac
+csISO146Serbian
+serbian
+iso-ir-146
+JUS_I.B1.003-serb
+csISO143IECP271
+iso-ir-143
+IEC_P27-1
+csISO141JUSIB1002
+ISO646-YU
+iso-ir-141
+JUS_I.B1.002
+csISO139CSN369103
+iso-ir-139
+CSN_369103
+ISO-8859-8-I
+csISO88598I
+ISO_8859-8-I
+ISO-8859-8-E
+csISO88598E
+ISO_8859-8-E
+csISO128T101G2
+iso-ir-128
+T.101-G2
+ISO-8859-6-I
+csISO88596I
+ISO_8859-6-I
+ISO-8859-6-E
+csISO88596E
+ISO_8859-6-E
+csISO123CSAZ24341985gr
+iso-ir-123
+CSA_Z243.4-1985-gr
+csISO122Canadian2
+csa7-2
+ISO646-CA2
+iso-ir-122
+CSA_Z243.4-1985-2
+csISO121Canadian1
+csa7-1
+ISO646-CA
+iso-ir-121
+CSA_Z243.4-1985-1
+csISO111ECMACyrillic
+KOI8-E
+iso-ir-111
+ECMA-cyrillic
+csISO103T618bit
+iso-ir-103
+T.61
+T.61-8bit
+csISO102T617bit
+iso-ir-102
+T.61-7bit
+csISO99NAPLPS
+NAPLPS
+CSA_T500-1983
+iso-ir-99
+ANSI_X3.110-1983
+csISO2033
+e13b
+iso-ir-98
+ISO_2033-1983
+csISO96JISC62291984kana
+iso-ir-96
+JIS_C6229-1984-kana
+csISO95JIS62291984handadd
+jp-ocr-hand-add
+iso-ir-95
+JIS_C6229-1984-hand-add
+csISO94JIS62291984hand
+jp-ocr-hand
+iso-ir-94
+JIS_C6229-1984-hand
+csISO93JIS62291984badd
+jp-ocr-b-add
+iso-ir-93
+JIS_C6229-1984-b-add
+csISO92JISC62991984b
+jp-ocr-b
+ISO646-JP-OCR-B
+iso-ir-92
+JIS_C6229-1984-b
+csISO91JISC62291984a
+jp-ocr-a
+iso-ir-91
+JIS_C6229-1984-a
+csISO90
+iso-ir-90
+csISO89ASMO449
+iso-ir-89
+arabic7
+ISO_9036
+ASMO_449
+csISO88Greek7
+iso-ir-88
+greek7
+csISO87JISX0208
+JIS_X0208-1983
+x0208
+iso-ir-87
+JIS_C6226-1983
+csISO86Hungarian
+ISO646-HU
+iso-ir-86
+MSZ_7795.3
+csISO85Spanish2
+ISO646-ES2
+iso-ir-85
+csISO84Portuguese2
+ISO646-PT2
+iso-ir-84
+csISO70VideotexSupp1
+iso-ir-70
+videotex-suppl
+csISO61Norwegian2
+iso-ir-61
+ISO646-NO2
+NS_4551-2
+GB2312.1980-0
+gb2312-1980
+ibm-5478
+ibm-5478_P100-1995
+csISO58GB231280
+chinese
+iso-ir-58
+GB_2312-80
+csISO57GB1988
+ISO646-CN
+iso-ir-57
+GB_1988-80
+csISO5428Greek
+iso-ir-55
+ISO_5428:1980
+ISO5427Cyrillic1981
+iso-ir-54
+ISO_5427:1981
+csISO51INISCyrillic
+iso-ir-51
+INIS-cyrillic
+csISO50INIS8
+iso-ir-50
+INIS-8
+csISO49INIS
+iso-ir-49
+INIS
+csISO47BSViewdata
+iso-ir-47
+BS_viewdata
+csISO42JISC62261978
+iso-ir-42
+JIS_C6226-1978
+csISO5427Cyrillic
+iso-ir-37
+ISO_5427
+csISO27LatinGreek1
+iso-ir-27
+Latin-greek-1
+csISO25French
+ISO646-FR1
+iso-ir-25
+NF_Z_62-010_(1973)
+csISO19LatinGreek
+iso-ir-19
+latin-greek
+csISO18Greek7Old
+iso-ir-18
+greek7-old
+csISO16Portuguese
+ISO646-PT
+iso-ir-16
+csISO14JISC6220ro
+ISO646-JP
+iso-ir-14
+JIS_C6220-1969-ro
+csISO13JISC6220jp
+x0201-7
+katakana
+iso-ir-13
+JIS_C6220-1969
+JIS_C6220-1969-jp
+csISO2022JP2
+ISO-2022-JP-2
+ibm-5054
+ISO-2022-JP-1
+csISO2022JP
+ISO-2022-JP
+csISO2022KR
+ISO-2022-KR
+ibm-1363_VSUB_VPUA
+cp1363
+ibm-1363
+ibm-1363_P11B-1998
+ms949
+iso-ir-149
+korean
+csKSC56011987
+KS_C_5601-1989
+windows-949-2000
+ibm-970_VPUA
+cp970
+5601
+KSC_5601
+ibm-eucKR
+csEUCKR
+EUC-KR
+ibm-970
+ibm-970_P110_P110-2006_U2
+KS_C_5601-1987
+csISO10Swedish
+ISO646-SE
+ISO646-FI
+iso-ir-10
+SEN_850200_B
+csNATSDANOADD
+iso-ir-9-2
+NATS-DANO-ADD
+csNATSDANO
+iso-ir-9-1
+NATS-DANO
+csNATSSEFIADD
+iso-ir-8-2
+NATS-SEFI-ADD
+csNATSSEFI
+iso-ir-8-1
+NATS-SEFI
+csISO2IntlRefVersion
+iso-ir-2
+ISO_646.irv:1983
+csINVARIANT
+INVARIANT
+csISO646basic1983
+ISO_646.basic:1983
+csISO10646UTF1
+ISO-10646-UTF-1
+csISO69French
+ISO646-FR
+iso-ir-69
+NF_Z_62-010
+csISO60Norwegian1
+csISO60DanishNorwegian
+ISO646-NO
+iso-ir-60
+NS_4551-1
+csISO21German
+ISO646-DE
+iso-ir-21
+DIN_66003
+csISO17Spanish
+ISO646-ES
+iso-ir-17
+csISO15Italian
+ISO646-IT
+iso-ir-15
+csISO11SwedishForNames
+ISO646-SE2
+iso-ir-11
+SEN_850200_C
+csISO4UnitedKingdom
+ISO646-GB
+iso-ir-4
+BS_4730
+csEUCFixWidJapanese
+Extended_UNIX_Code_Fixed_Width_for_Japanese
+IBM-eucJP
+ibm-33722_VPUA
+ibm-5050
+ibm-33722
+ibm-33722_P12A_P12A-2004_U2
+ujis
+eucjis
+X-EUC-JP
+ibm-954
+ibm-954_P101-2007
+EUC-JP
+csEUCPkdFmtJapanese
+Extended_UNIX_Code_Packed_Format_for_Japanese
+ibm-943_VASCII_VSUB_VPUA
+cp943
+ibm-943_P130-1999
+ibm-943_VSUB_VPUA
+sjis
+ms932
+IBM-943C
+cp943c
+cp932
+x-ms-cp932
+x-sjis
+ibm-943
+ibm-943_P15A-2003
+csShiftJIS
+MS_Kanji
+Shift_JIS
+csJISEncoding
+JIS_Encoding
+csHalfWidthKatakana
+X0201
+JIS_X0201
+csISOTextComm
+iso-ir-142
+ISO_6937-2-add
+iso-8859_10-1998
+latin6
+csISOLatin6
+ISO_8859-10:1992
+iso-ir-157
+ISO-8859-10
+turkish8
+turkish
+ECMA-128
+cp920
+8859_9
+ibm-920
+ibm-920_P100-1995
+csISOLatin5
+latin5
+ISO-8859-9
+ISO_8859-9
+iso-ir-148
+ISO_8859-9:1989
+hebrew8
+8859_8
+ibm-5012
+ibm-5012_P100-1999
+csISOLatinHebrew
+hebrew
+ISO-8859-8
+ISO_8859-8
+iso-ir-138
+ISO_8859-8:1988
+8859_7
+cp813
+ibm-813
+ibm-813_P100-1995
+sun_eu_greek
+ibm-9005
+ibm-9005_X110-2007
+csISOLatinGreek
+greek8
+greek
+ECMA-118
+ELOT_928
+ISO-8859-7
+ISO_8859-7
+iso-ir-126
+ISO_8859-7:1987
+1089
+cp1089
+8859_6
+ibm-1089
+ibm-1089_P100-1995
+csISOLatinArabic
+arabic
+ASMO-708
+ECMA-114
+ISO-8859-6
+ISO_8859-6
+iso-ir-127
+ISO_8859-6:1987
+cp915
+8859_5
+ibm-915
+ibm-915_P100-1995
+csISOLatinCyrillic
+cyrillic
+ISO-8859-5
+ISO_8859-5
+iso-ir-144
+ISO_8859-5:1988
+cp914
+8859_4
+ibm-914
+ibm-914_P100-1995
+csISOLatin4
+latin4
+ISO-8859-4
+ISO_8859-4
+iso-ir-110
+ISO_8859-4:1988
+cp913
+8859_3
+ibm-913
+ibm-913_P100-2000
+csISOLatin3
+latin3
+ISO-8859-3
+ISO_8859-3
+iso-ir-109
+ISO_8859-3:1988
+cp912
+8859_2
+ibm-912
+ibm-912_P100-1995
+csISOLatin2
+latin2
+ISO-8859-2
+ISO_8859-2
+iso-ir-101
+ISO_8859-2:1987
+8859_1
+csISOLatin1
+CP819
+IBM819
+latin1
+ISO-8859-1
+ISO_8859-1
+iso-ir-100
+ISO_8859-1:1987
+ascii7
+csASCII
+cp367
+IBM367
+US-ASCII
+ISO646-US
+ASCII
+ISO_646.irv:1991
+ANSI_X3.4-1986
+iso-ir-6
+ANSI_X3.4-1968
+%s: Did not find an IANA match for encoding "%s"
+UnicodeIANALookup
+Windows-
+windows-
+Unicode_AllocList4 failed.
+Unicode_AllocList3 failed.
+Unicode_AllocList2 failed.
+Unicode_AllocList1 failed.
+Unsupported local character encoding "%s".
+Failed to initialize codeset.
+bora\lib\unicode\unicodeSimpleTypes.c
+%s: Unknown encoding %d.
+Unicode_EncodingEnumToName
+%s: invalid UTF8 string @ %p
+Unicode_Substr
+bora\lib\unicode\unicodeSimpleOperations.c
+%s%s
+.dat
+ICUDATA-
+icudt44l-
+ICUDATA
+ICU_DATA
+en_US
+windows-%d
+ISO_2022,locale=ko,version=0
+ibm-1363_P110-1997
+ibm-949_P110-1999
+ibm-944_P100-1995
+ibm-33722_P120-1999
+ibm-946_P100-1995
+ibm-942_P120-1999
+ibm-897_P100-1995
+- -!-"-#-$-%-
+! !!!"!#!$!%!
+'!(!)!k
+,!-!.!/!0!1!N!3!4!5!6!7!8!9!:!;!<!=!>!?!@!A!B!C!D!E!F!G!H!I!J!K!L!M!N!O!P!Q!R!S!T!U!V!W!X!Y!Z![!\!]!^!_!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+$ $!$"$#$$$%$&$'$($)$*$+$,$-$.$/$0$1$2$3$4$5$6$7$8$9$:$;$<$=$>$?$@$A$B$C$D$E$F$G$H$I$J$K$L$M$N$O$P$Q$R$S$T$U$V$W$X$Y$Z$[$\$]$^$_$`$a$b$c$d$e$f$g$h$i$j$k$l$m$n$o$p$q$r$s$t$u$v$w$x$y$z${$|$}$~$
+$0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,/,0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,_,a,a,k
+e,f,h,h,j,j,l,l,m,n,o,p,q,r,s,t,v,v,w,x,y,z,{,|,},~,
+uprv_mapFile: MapViewOfFile failed for %s (%d)
+uprv_mapFile: CreateFileMapping failed for %s (%d)
+uprv_mapFile: CreateFileA failed for %s (%d)
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GMT
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones
+SYSTEM\CurrentControlSet\Control\TimeZoneInformation\
+StandardName
+ Standard Time
+zu_ZA
+zh_CN@collation=stroke
+zh_Hans_CN@collation=stroke
+zh_TW@collation=stroke
+zh_Hant_TW@collation=stroke
+zh_TW
+zh_Hant
+zh_Hant_TW
+zh_SG
+zh_Hans_SG
+zh_MO
+zh_Hant_MO
+zh_HK
+zh_Hant_HK
+zh_Hans_CN
+zh_CN
+zh_Hans
+yo_NG
+xh_ZA
+wo_SN
+dsb_DE
+hsb_DE
+wen_DE
+vi_VN
+ve_ZA
+uz_Latn
+uz_Latn_UZ
+uz_UZ
+uz_Cyrl
+uz_Cyrl_UZ
+ur_PK
+ur_IN
+uk_UA
+ug_CN
+tzm_Latn_DZ
+tzm_Latn
+tt_RU
+tr_TR
+tn_BW
+tk_TM
+ti_ET
+ti_ER
+th_TH
+tg_Cyrl_TJ
+tg_Cyrl
+te_IN
+ta_IN
+syr_SY
+sw_KE
+sv_SE
+sv_FI
+sq_AL
+so_ET
+sl_SI
+sk_SK
+si_LK
+sms_FI
+smn_FI
+smj_SE
+smj_NO
+sma_SE
+sma_NO
+se_SE
+se_NO
+se_FI
+sd_PK
+sd_IN
+sah_RU
+sa_IN
+rw_RW
+ru_RU
+root
+ro_RO
+rm_CH
+qut_GT
+qu_PE
+qu_EC
+qu_BO
+pt_PT
+pt_BR
+ps_AF
+pl_PL
+pa_PK
+pa_IN
+or_IN
+om_ET
+oc_FR
+nso_ZA
+no_NO_NY
+nn_NO
+no_NO
+nb_NO
+nl_NL
+nl_BE
+ne_NP
+ne_IN
+my_MM
+mt_MT
+ms_MY
+ms_BN
+mr_IN
+moh_CA
+mni_IN
+mn_Cyrl
+mn_CN
+mn_Mong_CN
+mn_Mong
+mn_MN
+ml_IN
+mk_MK
+mi_NZ
+lv_LV
+lt_LT
+lo_LA
+lb_LU
+la_IT
+ky_KG
+ks_Arab_IN
+ks_IN
+kr_NG
+kok_IN
+ko_KR
+ko_KP
+kn_IN
+km_KH
+kl_GL
+kk_KZ
+ka_GE
+ja_JP
+iw_IL
+iu_Latn
+iu_Latn_CA
+iu_Cans
+iu_Cans_CA
+it_IT
+it_CH
+is_IS
+ii_CN
+ig_NG
+id_ID
+hy_AM
+hu_HU
+sr_Cyrl
+sr_Cyrl_RS
+sr_Cyrl_ME
+sr_Cyrl_CS
+sr_Cyrl_BA
+sr_Latn
+sr_Latn_CS
+sr_Latn_BA
+sr_Latn_RS
+sr_Latn_ME
+hr_HR
+hr_BA
+bs_Cyrl
+bs_Cyrl_BA
+bs_BA
+bs_Latn
+bs_Latn_BA
+hi_IN
+he_IL
+haw_US
+ha_Latn_NG
+ha_Latn
+gsw_FR
+gn_PY
+gu_IN
+gl_ES
+gd_GB
+ga_IE
+fy_NL
+fr_SN
+fr_RE
+fr_ML
+fr_MC
+fr_MA
+fr_LU
+fr_HT
+fr_FR
+fr_CM
+fr_CI
+fr_CH
+fr_CD
+fr_CA
+fr_BE
+fo_FO
+fil_PH
+fi_FI
+fa_AF
+fa_IR
+eu_ES
+et_EE
+es@collation=traditional
+es_ES@collation=traditional
+es_VE
+es_UY
+es_US
+es_SV
+es_PY
+es_PR
+es_PE
+es_PA
+es_NI
+es_MX
+es_HN
+es_GT
+es_ES
+es_EC
+es_DO
+es_CR
+es_CO
+es_CL
+es_BO
+es_AR
+en_UM
+en_MP
+en_MH
+en_GU
+en_AS
+en_029
+en_ZW
+en_ZA
+en_VI
+en_US_POSIX
+en_TT
+en_SG
+en_PH
+en_NZ
+en_MY
+en_JM
+en_IN
+en_IE
+en_GB
+en_CA
+en_BZ
+en_AU
+el_GR
+dv_MV
+de@collation=phonebook
+de_DE@collation=phonebook
+de_LU
+de_LI
+de_DE
+de_CH
+de_AT
+da_DK
+cy_GB
+cs_CZ
+chr_US
+co_FR
+ca_ES
+br_FR
+bo_CN
+bo_BT
+bn_IN
+bn_BD
+bg_BG
+be_BY
+ba_RU
+az_AZ
+az_Latn
+az_Latn_AZ
+az_Cyrl
+az_Cyrl_AZ
+arn_CL
+am_ET
+as_IN
+ar_YE
+ar_TN
+ar_SY
+ar_SA
+ar_QA
+ar_OM
+ar_MA
+ar_LY
+ar_LB
+ar_KW
+ar_JO
+ar_IQ
+ar_EG
+ar_DZ
+ar_BH
+ar_AE
+af_ZA
+.<(+|&
+!$*);^-/
+,%_>?
+`:#@'="
+abcdefghi
+jklmnopqr
+~stuvwxyz
+{ABCDEFGHI
+}JKLMNOPQR
+STUVWXYZ
+0123456789
+7-./
+<=2&
+lP}M]\Nk`Ka
+z^L~no
+utf8
+utf7
+utf32platformendian
+utf32oppositeendian
+utf32le
+utf32be
+utf32
+utf16platformendian
+utf16oppositeendian
+utf16le
+utf16be
+utf16
+usascii
+scsu
+lmbcs8
+lmbcs6
+lmbcs5
+lmbcs4
+lmbcs3
+lmbcs2
+lmbcs19
+lmbcs18
+lmbcs17
+lmbcs16
+lmbcs11
+lmbcs1
+iso88591
+iso2022
+iscii
+imapmailboxname
+cesu8
+bocu1
+swaplfnl
+version=
+locale=
+cnvalias
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+,swaplfnl
+jips
+JIPS
+keis
+KEIS
+gb18030
+18030
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+UTF-7
+IMAP-mailbox-name
+UTF-7,version=1
+UTF-8
+CESU-8
+UTF-32BE
+UTF-32LE
+UTF-32
+UTF-16BE
+UTF-16LE
+UTF-16
+UTF-16BE,version=1
+UTF-16LE,version=1
+UTF-16,version=1
+BOCU-1
+ISO-8859-1
+US-ASCII
+	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	_	0	1	2	3	4	5	6	7	8	9	
+ >	?	@	A	B	C	F	G	H	E	J	K	L	I	M	<	d	
+f	g	h	i	j	k	l	m	n	o	
+ISCII
+ISCII,version=
+SCSU
+SCSU,locale=ja
+zhTW
+windows-949
+windows-932
+windows-874
+ibm-852
+ibm-851
+ibm-850
+lmb-excp
+  ! 
+" $ 
+% % 
+& & 
+' ' 
+0 0 
+1 1 
+2 3 
+5 5 
+9 : 
+; ; 
+< < 
+t t 
+!!!!
+"!&!
++!+!
+5!5!
+S!T!
+[!^!
+`!y!
+ " "
+#"*"
++"="
+E"H"
+L"L"
+R"R"
+`"a"
+b"e"
+f"o"
+f&f&
+g&i&
+j&j&
+k&l&
+m&m&
+n&n&
+o&o&
+LMBCS-1
+LMBCS-2
+LMBCS-3
+LMBCS-4
+LMBCS-5
+LMBCS-6
+LMBCS-8
+LMBCS-11
+LMBCS-16
+LMBCS-17
+LMBCS-18
+LMBCS-19
+!"#$%&'
+#!V!W!"!&!r%!%#%%%'%)%c%e%g%C%<!"%$%&%(%*%+%-%/%1%3%5%7%9%;%=%?%A%D%F%H%J%K%L%M%N%O%R%U%X%[%^%_%`%a%b%d%f%h%i%j%k%l%m%o%s%+!,!
+ISO_2022
+ISO_2022_JP
+ISO_2022_KR
+ISO_2022_CN
+ISO_2022,locale=zh,version=0
+ISO_2022,locale=zh,version=1
+cns-11643-1992
+iso-ir-165
+ISO_2022,locale=ko,version=1
+ibm-949
+icu-internal-25546
+ISO_2022,locale=ja,version=
+ksc_5601
+jisx-212
+Shift-JIS
+ISO8859_7
+ucol_strcollIter
+ucol_nextSortKeyPart
+ucol_getLocale
+ucol_getSortKey
+ucol_strcoll
+ucol_close
+ucol_open
+ucnv_unload
+ucnv_load
+ucnv_flushCache
+ucnv_close
+ucnv_clone
+ucnv_openAlgorithmic
+ucnv_openPackage
+ucnv_open
+u_cleanup
+u_init
+Returns.
+Returns %d.
+Returns.  Status = %d.
+Returns %d.  Status = %d.
+Returns %d.  Status = %p.
+0123456789abcdef
+0123456789ABCDEF'\
+'"'"
+RSDS
+D:\build\ob\bora-2985596\bora\build\build\vmnetdhcp\release\win32\vmnetdhcp.pdb
+malloc
+memset
+free
+_gmtime64
+fputs
+putc
+fprintf
+_errno
+_time64
+fclose
+fflush
+memcpy
+strncpy
+getc
+ungetc
+isdigit
+isalpha
+isxdigit
+_strnicmp
+_stricmp
+tolower
+isalnum
+isspace
+exit
+printf
+atoi
+strrchr
+sscanf
+__iob_func
+islower
+strftime
+_localtime64
+_write
+strtok
+_close
+_wopen
+wcsncmp
+_wfopen
+_wunlink
+realloc
+calloc
+_strdup
+memchr
+wcsrchr
+strchr
+strncat
+abort
+memmove
+_strupr
+_strlwr
+wcrtomb
+localeconv
+_fcvt_s
+_ecvt_s
+strncmp
+_snprintf
+getenv
+sprintf
+strstr
+_amsg_exit
+__wgetmainargs
+_cexit
+_exit
+_XcptFilter
+__winitenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+MSVCR90.dll
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_decode_pointer
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+_crt_debugger_hook
+SetEvent
+ExitProcess
+CloseHandle
+GetLastError
+CreateEventA
+SetConsoleCtrlHandler
+WaitForSingleObject
+WaitForMultipleObjects
+DeviceIoControl
+WriteFile
+ReadFile
+SetLastError
+GetProcAddress
+GetModuleFileNameW
+GetFullPathNameW
+CreateFileW
+MoveFileExW
+GetFileAttributesW
+GetTempPathW
+ExpandEnvironmentStringsW
+LocalFree
+FormatMessageW
+OutputDebugStringW
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingA
+GetFileAttributesA
+WideCharToMultiByte
+GetACP
+GetVersionExA
+MultiByteToWideChar
+VirtualQuery
+GetModuleHandleA
+GetCurrentThreadId
+Sleep
+LeaveCriticalSection
+InitializeCriticalSection
+DeleteCriticalSection
+InterlockedCompareExchange
+EnterCriticalSection
+CreateFileA
+InterlockedExchange
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+IsDebuggerPresent
+KERNEL32.dll
+MessageBoxW
+USER32.dll
+StartServiceCtrlDispatcherA
+RegCloseKey
+DeregisterEventSource
+RegisterEventSourceA
+SetServiceStatus
+RegisterServiceCtrlHandlerA
+ReportEventW
+RegOpenKeyExW
+RegEnumKeyExW
+RegQueryValueExW
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+ADVAPI32.dll
+WS2_32.dll
+_fdopen
+$Id: alloc.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996 The Internet Software Consortium.  All rights reserved.
+$Id: db.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996 The Internet Software Consortium.  All rights reserved.
+$Id: ethernet.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1996 The Internet Software Consortium.  All rights reserved.
+$Id: memory.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998 The Internet Software Consortium.  All rights reserved.
+$Id: tables.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996 The Internet Software Consortium.  All rights reserved.
+249:;<=
+ !"#$%&'()*+,-./017>?@ABCDEFGHIJKLNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+$Id: bootp.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1998, 1999 The Internet Software Consortium.  All rights reserved.
+$Id: dhcp.c,v 1.1.1.1 2000/05/24 04:14:00 yoel Exp $ Copyright (c) 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.  All rights reserved.
+$Id: hash.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998 The Internet Software Consortium.  All rights reserved.
+$Id: options.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998 The Internet Software Consortium.  All rights reserved.
+$Id: tree.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997 The Internet Software Consortium.  All rights reserved.
+$Id: conflex.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997 The Internet Software Consortium.  All rights reserved.
+$Id: dhcpd.c,v 1.1.1.1 2000/05/24 04:14:00 yoel Exp $ Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+Internet Software Consortium DHCP Server
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+$Id: icmp.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1997, 1998 The Internet Software Consortium.  All rights reserved.
+$Id: packet.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1996 The Internet Software Consortium.  All rights reserved.
+$Id: confpars.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996 The Internet Software Consortium.  All rights reserved.
+$Id: dispatch.c,v 1.3 2001/05/11 09:30:14 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.  All rights reserved.
+$Id: inet.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1998, 1999 The Internet Software Consortium.  All rights reserved.
+$Id: parse.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998 The Internet Software Consortium.  All rights reserved.
+$Id $
+$Id: convert.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996 The Internet Software Consortium.  All rights reserved.
+$Id: errwarn.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1996 The Internet Software Consortium.  All rights reserved.
+$Id: inet_addr.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1983, 1990, 1993 The Regents of the University of California.  All rights reserved.
+$Id: print.c,v 1.1.1.1 1999/11/22 00:57:05 edward Exp $ Copyright (c) 1995, 1996, 1997, 1998 The Internet Software Consortium.  All rights reserved.
+                0000000000000000
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="VMware.VMware.vmnetdhcp" type="win32"></assemblyIdentity><description>"VMware VMnet DHCP service"</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.30729.4148" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS></application></compatibility></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+0_0p0
+1C1U1
+2-2h2z2
+2;3M3
+4(4/4G4R4h4n4
+5/5V5s5x5
+686>6`6i6
+6=7C7a7g7m7
+7'888F8Z8`8p8
+9!9&9/94999B9G9L9T9Y9b9g9l9x9
+:1:I:O:g:
+:e;s;
+;[<{<s=
+4*5O5Y5x5
+6/6H6
+617R7
+778]8f8u8z8
+989?9z9
+=(=4>e>S?
+3#4Z4
+5'5-5:5@5M5
+;S;`;x;
+<.<W<^<
+H2j3
+3'4V4
+4 5W5
+6-6^6
+667X8
+8 9-9z9
+=T=a=
+=;>K>Y>_>k>p>
+0;0N0,1C1R1
+1/2T2q2~2
+3*4X4
+=9>J>i>{>
+@0E0w1|1
+2*3/3
+3;4L4d4i4
+6'757
+7)8M8
+:1;:<
+141:1
+2n4a5g5J7
+9':P:d:
+:I;];
+<U<h<
+=,=1=^=
+?,?0?4?8?
+0!0&0+00050=0A0F0K0P0c0n0z0
+101D1K1O1z1
+2 2-2G2P2c2y2
+2	3"3;3T3t3
+4$4B4J4c4~4
+5"5(5A5Z5x5~5
+6$6*6C6\6z6
+7/7M7S7l7
+868<8U8n8
+9(9A9Z9s9
+9	:':-:F:_:
+; ;(;>;F;`;d;h;l;p;t;x;|;
+<%<9<O<X<k<
+<$=*=L=f=k=
+>$>*>?>E>S>d>m>s>}>
+?!?+?A?Y?g?w?
+0G0R0
+1$1/1E1S1
+272F2V2\2b2m2s2}2
+4,4J4b4p4
+585B5V5`5
+5	6B6[6z6
+7#7<7B7P7]7d7p7z7
+8'828@8
+879}9
+<N<[<|<
+= =.=4=B=L=g=x=}=
+=*>D>H>L>P>T>
+Q0x0
+021f1v1
+2,2B2R2
+989{9
+<*=L=P=T=X=\=`=d=h=
+?*?:?O?X?i?w?
+1#1)151;1F1L1Y1b1k1
+2g2c3
+4!4'414;4h4
+5!5L5
+6'646
+7/8M8y8
+9":_:f:
+<%<:<D<K<U<[<e<k<u<~<
+=1=<=I=k=
+>9>r>
+?"?9?>?
+040T0Y0^0
+1 161y1
+2 2J2t2
+3#3.3;3A3S3k3u3
+4-4N4
+6f6t6
+7/7p7
+838;8F8N8^8w8
+8W9W:
+<%<.<:<?<l<+=o=
+=m>{>
+?I?P?q?
+40D0m0
+202Y2z2
+3#3d3
+5<6C6
+7j7o7
+8K8f8
+9$939_9s9
+:B:T:
+;);3;Z;
+;!<5<j<
+>6>u>
+0\0{0
+4+4?4t4
+5!5/545?5I5W5\5a5s5{5
+6$696R6\6j6o6t6
+7!727Q7V7[7m7u7
+81868;8M8U8j8r8}8
+9+909:9@9N9V9\9b9p9x9
+:6:I:N:~:
+:+;:;H;k;p;v;|;
+<#<2<7<=<E<N<W<^<k<
+=	>+>3>:>j>u>
+?D?S?`?v?
+0'0-0J0v0
+1I1_1f1
+2 2%2/252E2O2U2b2g2q2v2|2
+3-3q3{3
+4$404>4j4
+5 5*545I5
+8E8N8x8
+9)9B9N9
+9B:p:
+:?;F;
+<+<8<\<
+=A=_=
+>5>:>N>S>y>~>
+>F?\?k?
+0+0Z0s0
+3"4'4?4
+9H:c:~:
+:N;i;
+<%<.<|<
+0O0i0p0
+1%1>1C1
+4R4[4a4h4u4-6
+6.7~7
+92:8:
+<b=P>
+,0W0]0f0m0
+3R4W4
+4t5y5
+;/<6<
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7Z7
++121B1I1Y1`1
+3-353
+8r;~;P>
+;T<8=p=
+> >$>(>,>0>4>8><>@>
+0h0l0p0t0
+2`2d2h2l2p2t2
+293F3K3W3d3i3
+7C7o7+8<8g8y8
+8#9@9H9
+9':0:5:S:a:
+;,;5;:;F;Z;
+<(<:<_<
+="=5=
+>d>i>
+1%1A1X1]1w1
+1!2*2u2
+7.8G8|8
+9::k:
+:j;w;
+1'2h2
+3C3V3
+7!8*808<8G8\8e8k8p8v8
+4>5G5
+8!;;;A;M;[;e;w;
+<)<7<K<W<g<y<
+=L=g=o=x=
+=:>I>i>w>
+2!252g2n2|2
+324u4
+5	5G5t5
+6L7S7
+;%;5;F;l;q;{;
+=%=,=0=:=e=
+D0K0j0
+1A2T2a2
+3!3*323;3C3P3d3m3s3|3
+4*5Y5
+5S6j6~6
+7$7=7
+8%9J<
+8^;e;
+>h>l>i?n?
+*212
+=q=y=
+1A2I2
+8S9k9
+<P<_<
+=T=y=
+>>>Q>
+737X7
+8X8~8
+3U4j4
+5"5p5;?B?
+0J0\0
+0X1\1`1d1h1
+=F>P>Z>c>x?
+1]1f1
+6H7:9A9
+T0X0\0`0d0h0l0
+2M3q3
+: :$:(:E;
+21282
+2*414
+8r9R<a<
+= >$>(>,>7>;?
+6)6*858
+1w699B9a;/<6<@?D?H?L?P?w?
+2(3,30343Z3
+4_4v4
+5(5/595I5
+5.6Q6q6x6
+7,737=7U7c7
+:(:C:L:g:q:
+;%;+;8;>;G;f;n;w;};
+<#<+<1<8<?<O<W<]<i<t<
+1.1;1x1}1
+1h2m2
+2 3&3-3J3
+4%4-494]4e4z4
+5+505@5E5K5Q5g5n5w5,666<6B6H6N6T6Z6`6f6l6r6x6~6
+2 2(20282
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1
+5 5$5(5,5054585<5@5H5P5X5`5h5p5x5
+6 6(60686@6H6
+9(9,9094989<9@9D9L9T9\9`9d9p9t9x9|9
+<X=`=<>D>H>L>P>T>l>
+X1\1`1d1h1|1
+485@5064686<6@6T6
+8d9l9p9t9x9|9
+; ;,;
+<H=P=
+>X?`?
+H0L0P0T0X0l0t0
+;H<P<
+1 1(10181@1H1P1X1`1h1p1x1
+2l3p3x3|3
+3 4(4
+50545
+6P7X74888@8D8H8L8`8d8
+:d;h;p;t;x;|;
+=(=,=
+>H?P?
+,00080<0@0D0X0\0
+2\3`3h3l3p3t3
+4@9D9H9L9P9T9X9\9`9d9t9x9|9
+9(:0:
+; ;$;0;4;8;<;
+<X=`=<>@>D>H>L>P>T>`>d>h>l>
+T3X3`3d3h3l3p3t3x3|3
+3 3(3,30383<3@3H3L3P3X3\3`3h3l3p3x3|3
+4 4(4,40484<4@4H4L4P4X4\4`4h4l4p4x4|4
+5 5(5,50585<5@5H5L5P5X5\5`5h5l5p5x5|5
+6 6(6,60686<6@6H6L6P6X6\6`6h6l6p6x6|6
+7 7(7,70787<7@7H7L7P7X7\7`7h7l7p7x7|7
+8 8(8,80888<8@8H8L8P8X8\8`8h8l8p8x8|8
+9 9(9,90989<9@9H9L9P9X9\9`9h9l9p9x9|9
+: :(:,:0:8:<:@:H:L:P:X:\:`:h:l:p:x:|:
+; ;(;,;0;8;<;@;H;L;P;X;\;`;h;l;p;x;|;
+< <(<,<0<8<<<@<H<L<P<X<\<`<h<l<p<x<|<
+= =(=,=0=8=<=@=H=L=P=X=\=`=h=l=p=x=|=
+> >(>,>0>8><>@>H>L>P>X>\>`>h>l>p>x>|>
+? ?(?,?0?8?<?@?H?L?P?X?\?`?h?l?p?x?|?
+0 0(0,00080<0@0H0L0P0X0\0`0h0l0p0x0|0
+1 1(1,10181<1@1H1L1P1X1\1`1h1l1p1x1|1
+2 2(2,20282<2@2H2L2P2X2\2`2h2l2p2x2|2
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+4080<0@0
+5 5$5(5,50545t5x5|5
+6D6H6L6P6T6X6\6`6d6h6l6p6
+7 7$7(7,7074787<7@7D7|7
+8L8P8T8X8\8
+9 9$9(9,9094989<9@9D9H9L9P9T9
+9T:X:\:
+:$;(;,;0;4;8;<;@;D;H;L;P;T;X;
+<\<`<d<h<l<
+<,=0=4=8=<=@=
+>d>h>l>p>
+>4?8?<?@?D?H?
+0l0p0t0
+0<1@1D1H1
+2t2x2|2
+2D3H3L3P3T3X3\3
+4 4$4(4,404|4
+4L5P5
+6T7X7\7`7
+7$8(8,8
+8\9`9d9
+9,:0:4:
+;d;h;l;
+;4<8<<<
+= =l=p=t=x=|=
+=<>@>D>H>
+?t?x?|?
+D0H0L0P0T0
+1 1|1
+1L2P2T2X2
+3 3$3
+3T4X4\4
+4$5(5,505
+6\6`6d6
+6,70747
+8d8h8l8
+84989<9@9D9H9
+:l:p:t:x:
+:<;@;D;H;L;
+<t<x<|<
+<D=H=L=P=
+> >$>|>
+>L?P?T?
+1T1X1\1`1d1h1
+1$2(2,2024282<2@2D2H2L2P2T2
+3\3`3d3h3l3
+3,404
+54686<6@6
+7l7p7
+9t9x9
+9D:H:
+< <$<(<,<0<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=
+=T>X>\>`>
+>$?(?
+\0`0
+0,1014181
+2d2h2l2
+24383
+4l4p4
+4<5@5
+6t6x6
+6D7H7
+8L9P9
+: :$:(:,:0:4:8:<:@:D:H:
+;T;X;\;`;
+;$<(<,<0<4<8<<<@<
+=\=`=d=h=
+=,>0>4>8><>@>D>
+?d?h?l?p?t?x?
+4080<0@0D0H0
+1l1p1t1x1|1
+1<2@2D2H2L2P2
+3t3x3|3
+3D4H4L4P4
+5 5$5(5|5
+5L6P6T6X6\6`6d6
+7 7$7
+7T8X8\8`8
+8$9(9,90949
+9\:`:
+:,;0;
+<d<h<
+<4=8=
+>l>p>
+><?@?
+0t0x0
+0D1H1
+2L3P3T3
+4 4$4(4
+5T5X5\5`5d5h5l5p5
+5$6(6,6064686<6
+7\7`7d7h7l7p7t7
+7,8084888<8@8D8
+9d9h9l9p9t9
+94:8:<:@:
+;l;p;
+;<<@<D<H<L<P<T<
+= =t=x=|=
+=D>H>L>P>T>X>
+? ?$?(?|?
+1 1$1(1,1
+2$3(3
+3\4`4
+4,5054585<5
+6d6h6
+64787<7@7D7H7
+8l8p8
+8<9@9
+:t:x:
+:D;H;
+<L=P=
+> >$>(>
+5l5p5t5
+5<6@6
+7t7x7|7
+7D8H8L8
+9 9`9
+=$=0=P=
+>0<0
+0!0	
+Fxsh
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+131017000000Z
+161115235959Z0
+California1
+	Palo Alto1
+VMware, Inc.1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+VMware, Inc.0
+#:7C
+tlEy
+M5Su
+90705
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+e0c0$
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+	|7X
+ePBPc
+U	+a
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+CcjRK
+{]KV
+3130
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+$"(@
+:'jI
+#(2v
+wha3
+\J$jg
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+http://www.vmware.com/0
+0quv
+R5O-
+QaP]
+I1|_
+:o:K
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150814210312Z0#
+\+:~_
+;* Q"
+MM%g

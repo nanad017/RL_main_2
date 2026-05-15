@@ -1,0 +1,1058 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+<[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+WVSRQ
+YZ[^_]
+gE#V
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+gfff
+[^_]
+,[^_]
+L[^_]
+[^_]
+[^_]
+L$$u
+[^_]
+[^_]
+{ENT
+[^_]
+[^_]
+[^_]
+[^_]
+VFABu
+t&< 
+qt/1
+[^_]
+tVH1
+1tv;
+[^_]
+[^_]
+GFKu
+[^_]
+<[^_]
+<[^_]
+B;W|
+C;_t
+[^_]
+B;Wt
+Wx}h
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+|[^_]
+|[^_]
+gfff
+[^_]
+[^_]
+[^_]
+gfff
+gfff
+t	:E
+tO:U
+<]t3
+,[^_]
+t:B9
+ Nx 
+[^_]
+t	f9
+,[^_]
+[^_]
+0.zip
+.ZIP
+@[^]
+[^_]
+[^_]
+[^_]
+[^_]
+P[^]
+[^_]
+[^_]
+@tj%
+,[^_]
+,[^_]
+[^_]
+[^_]
+l[^_]
+<[^_]
+<[^_]
+uuC9
+[^_]
+BCIy
+=VPROt.
+=VFHC
+=VFAB
+gfff
+t$ t
+=ZPIT
+CAJy
+=JLEE
+=dZip
+gfff
+=ZPIT
+=VALL
+=VRDT
+w7=VDAT
+=VMSVt
+=VKEY
+[^_]
+,[^_]
+[^_]
+[^_]
+ [^]
+[^_]
+L[^_]
+[^_]
+G(P|A
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+sL9sP}
+CL9CP}
+t293u.
+C(P|A
+[^_]
+[^_]
+[^_]
+^8@9
+t;93u7
+9;tO1
+[^_]
+~ ;}
+~ ;}
+~ ;}
+~ ;}
+~ ;}
+~ ;}
+YCF9
+[^_]
+[^_]
+[^_]
+X[^_]
+[^_]
+VUUU
+VUUU
+D8	8D:	
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+D8	8D:	
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+D8	8D:	
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+<xf9
+[^_]
+CH04B
+CL 4B
+[^_]
+US]CQ
+^(BM
+kZ;&
+Compiled with %s%s for %s%s%s%s.
+zipinfo
+  (please check that you have transferred or created the zipfile in the
+  appropriate BINARY mode and that you have compiled UnZip properly)
+caution: excluded filename not matched:  %s
+caution: filename not matched:  %s
+error [%s]:  attempt to seek before beginning of zipfile
+error:  expected central file header signature not found (file #%lu).
+note:  didn't find end-of-central-dir signature at end of central dir.
+20 April 2009
+ReadMe
+  unzip -p foo | more  => send contents of foo.zip via pipe into program more
+See "unzip -hh" or unzip.txt for more help.  Examples:
+  unzip data1 -x joe   => extract all files except joe from zipfile data1.zip
+%s  unzip -fo foo %-6s => quietly replace existing %s if archive file newer
+  -K  keep setuid/setgid/tacky permissions   -M  pipe through "more" pager
+ -X  restore UID/GID info
+modifiers:
+  -n  never overwrite existing files         -q  quiet mode (-qq => quieter)
+  -o  overwrite files WITHOUT prompting      -a  auto-convert any text files
+  -j  junk paths (do not make directories)   -aa treat ALL files as text
+  -U  use escapes for all non-ASCII Unicode  -UU ignore any Unicode fields
+  -C  match filenames case-insensitively     -L  make (some) names lowercase
+ %-42s  -V  retain VMS version numbers
+  -T  timestamp archive to latest
+  -p  extract files to pipe, no messages     -l  list files (short format)
+  -f  freshen existing files, create none    -t  test compressed archive data
+  -u  update files, create if necessary      -z  display archive comment only
+  -v  list verbosely/show version info     %s
+  -x  exclude files that follow (in xlist)   -d  extract files into exdir
+-Z => ZipInfo mode ("unzip -Z" for usage).
+Usage: unzip %s[-opts[modifiers]] file[.zip] [list] [-x xlist] [-d exdir]
+  Default action is to extract files in list, except those in xlist, to exdir;
+  file[.zip] may be a wildcard.  %s
+UnZip %d.%d%d%s of %s, by Cygwin. Original by Info-ZIP.
+  -M  page output through built-in "more"
+miscellaneous options:
+  -h  print header line       -t  print totals for listed files or for all
+  -z  print zipfile comment   -T  print file times in sortable decimal format
+  -C  be case-insensitive   %s  -x  exclude filenames that follow from listing
+main listing-format options:             -s  short Unix "ls -l" format (def.)
+  -1  filenames ONLY, one per line       -m  medium Unix "ls -l" format
+  -2  just filenames but allow -h/-t/-z  -l  long Unix "ls -l" format
+                                         -v  verbose, multi-page format
+*, ?, [] (e.g., "[a-j]*.zip")
+ZipInfo %d.%d%d%s of %s, by Greg Roelofs and the Info-ZIP group.
+List name, date/time, attribute, size, compression method, etc., about files
+in list (excluding those in xlist) contained in the specified .zip archive(s).
+"file[.zip]" may be a wildcard name containing %s.
+   usage:  zipinfo [-12smlvChMtTz] file[.zip] [list...] [-x xlist...]
+      or:  unzip %s-Z%s [-12smlvChMtTz] file[.zip] [list...] [-x xlist...]
+caution:  both -n and -o specified; ignoring -o
+error:  -fn or any combination of -c, -l, -p, -t, -u and -v options invalid
+error:  -Z must be first option for ZipInfo mode (check UNZIP variable?)
+error:  must give decryption password with -P option
+error:  -d option used more than once (only one exdir allowed)
+error:  must specify directory to which to extract with -d option
+ZIPINFOOPT
+ZIPINFO
+UNZIPOPT
+%16s:  %.1024s
+UNZIP
+UnZip and ZipInfo environment options:
+[none]
+05 Jan 2007
+        [decryption, version %d.%d%s of %s]
+WILD_STOP_AT_DIR
+VMS_TEXT_CONV
+USE_BZIP2 (PKZIP 4.6+, using bzip2 lib version %s)
+MBCS-support (multibyte character support, MB_CUR_MAX = %u)
+other
+UTF-8
+UNICODE_SUPPORT [char coding: %s] (handle UTF-8 paths)
+USE_DEFLATE64 (PKZIP 4.x Deflate64(tm) supported)
+USE_UNSHRINK (PKZIP/Zip 1.x unshrinking method supported)
+USE_EF_UT_TIME
+UNIXBACKUP
+TIMESTAMP
+SYMLINKS (symbolic links supported, if RTL and file system permit)
+SET_DIR_ATTRIB
+COPYRIGHT_CLEAN (PKZIP 0.9x unreducing method not supported)
+ASM_CRC
+        %s
+UnZip special compilation options:
+Latest sources and executables are at ftp://ftp.info-zip.org/pub/infozip/ ;
+see ftp://ftp.info-zip.org/pub/infozip/UnZip.html for other sites.
+warning:  -U "escape all non-ASCII UTF-8 chars" is not supported
+caution:  not extracting; -d ignored
+error:  command line parameter #%d exceeds internal size limit
+envargs:  cannot get memory for arguments
+[-Z] 
+Extended Help for UnZip
+See the UnZip Manual for more detailed help
+UnZip lists and extracts files in zip archives.  The default action is to
+extract zipfile entries to the current directory, creating directories as
+needed.  With appropriate options, UnZip lists the contents of archives
+instead.
+Basic unzip command line:
+  unzip [-Z] options archive[.zip] [file ...] [-x xfile ...] [-d exdir]
+Some examples:
+  unzip -l foo.zip        - list files in short format in archive foo.zip
+  unzip -t foo            - test the files in archive foo
+  unzip -Z foo            - list files using more detailed zipinfo format
+  unzip foo               - unzip the contents of foo in current dir
+  unzip -a foo            - unzip foo and convert text files to local OS
+If unzip is run in zipinfo mode, a more detailed list of archive contents
+is provided.  The -Z option sets zipinfo mode and changes the available
+options.
+Basic zipinfo command line:
+  zipinfo options archive[.zip] [file ...] [-x xfile ...]
+  unzip -Z options archive[.zip] [file ...] [-x xfile ...]
+Below, Mac OS refers to Mac OS before Mac OS X.  Mac OS X is a Unix based
+port and is referred to as Unix Apple.
+unzip options:
+  -Z   Switch to zipinfo mode.  Must be first option.
+  -hh  Display extended help.
+  -A   [OS/2, Unix DLL] Print extended help for DLL.
+  -c   Extract files to stdout/screen.  As -p but include names.  Also,
+         -a allowed and EBCDIC conversions done if needed.
+  -f   Freshen by extracting only if older file on disk.
+  -l   List files using short form.
+  -p   Extract files to pipe (stdout).  Only file data is output and all
+         files extracted in binary mode (as stored).
+  -t   Test archive files.
+  -T   Set timestamp on archive(s) to that of newest file.  Similar to
+       zip -o but faster.
+  -u   Update existing older files on disk as -f and extract new files.
+  -v   Use verbose list format.  If given alone as unzip -v show version
+         information.  Also can be added to other list commands for more
+         verbose output.
+  -z   Display only archive comment.
+unzip modifiers:
+  -a   Convert text files to local OS format.  Convert line ends, EOF
+         marker, and from or to EBCDIC character set as needed.
+  -b   Treat all files as binary.  [Tandem] Force filecode 180 ('C').
+         [VMS] Autoconvert binary files.  -bb forces convert of all files.
+  -B   [UNIXBACKUP compile option enabled] Save a backup copy of each
+         overwritten file in foo~ or foo~99999 format.
+  -C   Use case-insensitive matching.
+  -D   Skip restoration of timestamps for extracted directories.  On VMS this
+         is on by default and -D essentially becames -DD.
+  -DD  Skip restoration of timestamps for all entries.
+  -E   [MacOS (not Unix Apple)]  Display contents of MacOS extra field during
+         restore.
+  -F   [Acorn] Suppress removal of NFS filetype extension.  [Non-Acorn if
+         ACORN_FTYPE_NFS] Translate filetype and append to name.
+  -i   [MacOS] Ignore filenames in MacOS extra field.  Instead, use name in
+         standard header.
+  -j   Junk paths and deposit all files in extraction directory.
+  -J   [BeOS] Junk file attributes.  [MacOS] Ignore MacOS specific info.
+  -K   [AtheOS, BeOS, Unix] Restore SUID/SGID/Tacky file attributes.
+  -L   Convert to lowercase any names from uppercase only file system.
+  -LL  Convert all files to lowercase.
+  -M   Pipe all output through internal pager similar to Unix more(1).
+  -n   Never overwrite existing files.  Skip extracting that file, no prompt.
+  -N   [Amiga] Extract file comments as Amiga filenotes.
+  -o   Overwrite existing files without prompting.  Useful with -f.  Use with
+         care.
+  -P p Use password p to decrypt files.  THIS IS INSECURE!  Some OS show
+         command line to other users.
+  -q   Perform operations quietly.  The more q (as in -qq) the quieter.
+  -s   [OS/2, NT, MS-DOS] Convert spaces in filenames to underscores.
+  -S   [VMS] Convert text files (-a, -aa) into Stream_LF format.
+  -U   [UNICODE enabled] Show non-local characters as #Uxxxx or #Lxxxxxx ASCII
+         text escapes where x is hex digit.  [Old] -U used to leave names
+         uppercase if created on MS-DOS, VMS, etc.  See -L.
+  -UU  [UNICODE enabled] Disable use of stored UTF-8 paths.  Note that UTF-8
+         paths stored as native local paths are still processed as Unicode.
+  -V   Retain VMS file version numbers.
+  -W   [Only if WILD_STOP_AT_DIR] Modify pattern matching so ? and * do not
+         match directory separator /, but ** does.  Allows matching at specific
+         directory levels.
+  -X   [VMS, Unix, OS/2, NT, Tandem] Restore UICs and ACL entries under VMS,
+         or UIDs/GIDs under Unix, or ACLs under certain network-enabled
+         versions of OS/2, or security ACLs under Windows NT.  Can require
+         user privileges.
+  -XX  [NT] Extract NT security ACLs after trying to enable additional
+         system privileges.
+  -Y   [VMS] Treat archived name endings of .nnn as VMS version numbers.
+  -$   [MS-DOS, OS/2, NT] Restore volume label if extraction medium is
+         removable.  -$$ allows fixed media (hard drives) to be labeled.
+  -/ e [Acorn] Use e as extension list.
+  -:   [All but Acorn, VM/CMS, MVS, Tandem] Allow extract archive members into
+         locations outside of current extraction root folder.  This allows
+         paths such as ../foo to be extracted above the current extraction
+         directory, which can be a security problem.
+  -^   [Unix] Allow control characters in names of extracted entries.  Usually
+         this is not a good thing and should be avoided.
+  -2   [VMS] Force unconditional conversion of names to ODS-compatible names.
+         Default is to exploit destination file system, preserving cases and
+         extended name characters on ODS5 and applying ODS2 filtering on ODS2.
+Wildcards:
+  Internally unzip supports the following wildcards:
+    ?       (or %% or #, depending on OS) matches any single character
+    *       matches any number of characters, including zero
+    [list]  matches char in list (regex), can do range [ac-f], all but [!bf]
+  If port supports [], must escape [ as [[]
+  For shells that expand wildcards, escape (\* or "*") so unzip can recurse.
+Include and Exclude:
+  -i pattern pattern ...   include files that match a pattern
+  -x pattern pattern ...   exclude files that match a pattern
+  Patterns are paths with optional wildcards and match paths as stored in
+  archive.  Exclude and include lists end at next option or end of line.
+    unzip archive -x pattern pattern ...
+Multi-part (split) archives (archives created as a set of split files):
+  Currently split archives are not readable by unzip.  A workaround is
+  to use zip to convert the split archive to a single-file archive and
+  use unzip on that.  See the manual page for Zip 3.0 or later.
+Streaming (piping into unzip):
+  Currently unzip does not support streaming.  The funzip utility can be
+  used to process the first entry in a stream.
+    cat archive | funzip
+Testing archives:
+  -t        test contents of archive
+  This can be modified using -q for quieter operation, and -qq for even
+  quieter operation.
+Unicode:
+  If compiled with Unicode support, unzip automatically handles archives
+  with Unicode entries.  Currently Unicode on Win32 systems is limited.
+  Characters not in the current character set are shown as ASCII escapes
+  in the form #Uxxxx where the Unicode character number fits in 16 bits,
+  or #Lxxxxxx where it doesn't, where x is the ASCII character for a hex
+  digit.
+zipinfo options (these are used in zipinfo mode (unzip -Z ...)):
+  -1  List names only, one per line.  No headers/trailers.  Good for scripts.
+  -2  List names only as -1, but include headers, trailers, and comments.
+  -s  List archive entries in short Unix ls -l format.  Default list format.
+  -m  List in long Unix ls -l format.  As -s, but includes compression %.
+  -l  List in long Unix ls -l format.  As -m, but compression in bytes.
+  -v  List zipfile information in verbose, multi-page format.
+  -h  List header line.  Includes archive name, actual size, total files.
+  -M  Pipe all output through internal pager similar to Unix more(1) command.
+  -t  List totals for files listed or for all files.  Includes uncompressed
+        and compressed sizes, and compression factors.
+  -T  Print file dates and times in a sortable decimal format (yymmdd.hhmmss)
+        Default date and time format is a more human-readable version.
+  -U  [UNICODE] If entry has a UTF-8 Unicode path, display any characters
+        not in current character set as text #Uxxxx and #Lxxxxxx escapes
+        representing the Unicode character number of the character in hex.
+  -UU [UNICODE]  Disable use of any UTF-8 path information.
+  -z  Include archive comment if any in listing.
+funzip stream extractor:
+  funzip extracts the first member in an archive to stdout.  Typically
+  used to unzip the first member of a stream or pipe.  If a file argument
+  is given, read from that file instead of stdin.
+funzip command line:
+  funzip [-password] [input[.zip|.gz]]
+unzipsfx self extractor:
+  Self-extracting archives made with unzipsfx are no more (or less)
+  portable across different operating systems than unzip executables.
+  In general, a self-extracting archive made on a particular Unix system,
+  for example, will only self-extract under the same flavor of Unix.
+  Regular unzip may still be used to extract embedded archive however.
+unzipsfx command line:
+  <unzipsfx+archive_filename>  [-options] [file(s) ... [-x xfile(s) ...]]
+unzipsfx options:
+  -c, -p - Output to pipe.  (See above for unzip.)
+  -f, -u - Freshen and Update, as for unzip.
+  -t     - Test embedded archive.  (Can be used to list contents.)
+  -z     - Print archive comment.  (See unzip above.)
+unzipsfx modifiers:
+  Most unzip modifiers are supported.  These include
+  -a     - Convert text files.
+  -n     - Never overwrite.
+  -o     - Overwrite without prompting.
+  -q     - Quiet operation.
+  -C     - Match names case-insensitively.
+  -j     - Junk paths.
+  -V     - Keep version numbers.
+  -s     - Convert spaces to underscores.
+  -$     - Restore volume label.
+If unzipsfx compiled with SFX_EXDIR defined, -d option also available:
+  -d exd - Extract to directory exd.
+By default, all files extracted to current directory.  This option
+forces extraction to specified directory.
+See unzipsfx manual page for more information.
+UTF-8
+ compressed WinNT security data missing (%d bytes)%s
+ compressed EA data missing (%d bytes)%s
+error [%s]:  bad extra-field CRC %08lx (should be %08lx)
+error:  unsupported extra-field compression type (%u)--skipping
+inflate
+invalid compressed data to 
+not enough memory to 
+  error:  %s%s
+%lu file%s skipped because of incorrect password.
+%lu file%s skipped because of unsupported compression or encoding.
+No errors detected in %s for the %lu file%s tested.
+No errors detected in compressed data of %s.
+Caution:  zero files tested in %s.
+At least one %serror was detected in %s.
+     failed setting times/attribs for %lu dir entries
+warning:  set times/attribs failed for %s
+warning:  cannot alloc memory to sort dir times/perms/etc.
+finishing deferred symbolic links:
+%s:  bad file comment length
+%s:  bad extra field length (%s)
+%s:  bad filename length (%s)
+%s:  warning, no memory for comparison with local header
+   skipping: %-22s  unsupported compression method %u
+PPMd
+WavPack
+IBM LZ77
+IBM/Terse
+LZMA
+bzip2
+DCL implode
+deflate64
+deflate
+tokenize
+implode
+reduce
+shrink
+store
+   skipping: %-22s  `%s' method not supported
+%s:  stored in VMS format.  Extract anyway? (y/n) 
+   skipping: %-22s  need %s compat. v%u.%u (can do v%u.%u)
+error:  invalid response [%s]
+new name: 
+ NULL
+(EOF or read error, treating as "[N]one" ...)
+replace %s? [y]es, [n]o, [A]ll, [N]one, [r]ename: 
+   skipping: %-22s  %svolume label
+warning:  cannot alloc memory for dir times/permissions/UID/GID
+warning:  stripped absolute path spec from %s
+warning:  %s appears to use backslashes as path separators
+   skipping: %-22s  unable to get password
+   skipping: %-22s  incorrect password
+%s:  ucsize %s <> csize %s for STORED entry
+         continuing with "compressed" size value
+%s:  mismatching "local" filename (%s),
+         continuing with "central" filename version
+file #%lu (%s):
+         mismatch between local and central GPF bit 11 ("UTF-8"),
+         continuing with central flag (IsUTF8 = %d)
+file #%lu:  bad local header
+local header sig
+file #%lu:  bad zipfile offset (%s):  %ld
+  (attempting to re-compensate)
+    (may instead be incorrect password)
+ bad CRC %08lx  (should be %08lx)
+warning:  %s is probably truncated
+%s:  unknown compression method
+bunzip
+explode
+%s  %s:  %s bytes required to uncompress to %s bytes;
+    %s      supposed to require %s bytes%s%s%s
+  error:  %s%s %s
+unshrink
+%8sing: %-22s  %s%s
+ unsupported NTSD EAs version %d
+ unknown compression method for EAs (%u)
+ bad CRC for extended attributes
+ unknown error on extended attributes
+ out of memory while inflating EAs
+ invalid compressed data for EAs
+bad extra-field entry:
+      EF block length (%u bytes) exceeds remaining EF data (%u bytes)
+  %-22s -> %s
+warning:  deferred symlink (%s) failed:
+          invalid placeholder file
+warning:  deferred symlink (%s) failed:
+          out of memory
+test
+%-22s 
+link
+inflat
+explod
+bunzipp
+warning
+error
+extract
+[text]  
+[binary]
+[empty] 
+lseek
+local
+central
+warning-
+symlink error
+++--+-+
+++--
+^%S<O????''""
+--~Ts>o??Y
+warning:  Converted unicode filename too long--truncating.
+warning:  extra field too long (%d).  Ignoring...
+warning:  filename too long--truncating.
+--- Press `Q' to quit, or any other key to continue ---
+%s exists and is a symbolic link%s.
+error:  zipfile probably corrupt (%s)
+password incorrect--reenter: 
+Enter password: 
+[%s] %s password: 
+                                                         
+--More--(%lu)
+%s:  write error (disk full?).  Continue? (y/n/^C) 
+error:  zipfile read error
+error:  cannot create %s
+        %s
+error:  cannot delete old %s
+        %s
+error:  cannot rename old %s
+        %s
+error:  cannot open zipfile [ %s ]
+        %s
+[Warning: CRC error, discarding PKWARE extra field]
+bus error
+segmentation violation
+illegal instruction
+ with no real file
+(incomplete l-tree)  
+(incomplete d-tree)  
+---------                     -------
+%s                     %lu file%s
+--------          -------  ---                            -------
+%s         %s %4s                            %lu file%s
+%s  %02u%c%02u%c%02u %02u:%02u  %c
+%s  %-7s%s %4s %02u%c%02u%c%02u %02u:%02u %08lx %c
+%c%d%%
+100%%
+--------  ------  ------- ---- ---------- ----- --------  ----
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+---------  ---------- -----   ----
+  Length      Date    Time    Name
+%s ("^" ==> case
+%s   conversion)
+NXFS
+Stored
+Shrunk
+Reduce1
+Reduce2
+Reduce3
+Reduce4
+Implode
+Token
+Defl:#
+Def64#
+ImplDCL
+BZip2
+LZMA
+Terse
+IBMLZ77
+WavPack
+PPMd
+Unk:###
+%03u
+warning:  Unicode Path checksum invalid
+warning:  Unicode Path version > 1
+No zipfiles found.
+%d "zipfiles" were directories.
+1 "zipfile" was a directory.
+%d file%s had no zipfile directory.
+%d archive%s had fatal errors.
+%d archive%s had warnings but no fatal errors.
+%d archive%s successfully processed.
+error:  cannot allocate unzip buffers
+Updated time stamp for %s.
+warning:  cannot set time for %s
+error [%s]:  reported length of central directory is
+  %s bytes too long (Atari STZip zipfile?  J.H.Holm ZIPSPLIT 1.1
+  zipfile?).  Compensating...
+error [%s]:  start of central directory not found;
+  zipfile corrupt.
+warning [%s]:  zipfile is empty
+warning [%s]:  %s extra byte%s at beginning or within zipfile
+  (attempting to process anyway)
+error [%s]:  NULL central directory offset
+  (attempting to process anyway)
+error [%s]:  missing %s bytes in zipfile
+  (attempting to process anyway)
+warning [%s]:  zipfile claims to be last disk of a multi-part archive;
+  attempting to process anyway, assuming all parts have been concatenated
+  together in order.  Expect "errors" and warnings...true multi-part support
+  doesn't exist yet (coming soon).
+warning [%s]:  end-of-central-directory record claims this
+  is disk %lu but that the central directory starts on disk %lu; this is a
+  contradiction.  Attempting to process anyway.
+   [%s]:
+     Zipfile is disk %lu of a multi-disk archive, and this is not the disk on
+     which the central zipfile directory begins (disk %lu).
+note:  %s may be a plain executable, not an archive
+Archive:  %s
+Trying to read large file (> 2 GiB) without large file support
+%s:  cannot find or open %s, %s.zip or %s.
+unzip
+%s:  cannot find zipfile directory in one of %s or
+        %s%s.zip, and cannot find %s, period.
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+caution:  zipfile comment truncated
+  The zipfile comment is truncated.
+========================= zipfile comment ends ===========================
+======================== zipfile comment begins ==========================
+The zipfile comment is %u bytes long and contains the following text:
+There is no zipfile comment.
+error: End-of-centdir-64 signature not where expected (prepended bytes?)
+  (attempting to process anyway)
+fatal error: read failure while seeking for End-of-centdir-64 signature.
+  This zipfile is corrupt.
+[%s]
+%sEmpty zipfile.
+s were
+ was
+/dev/tty
+(line too long--try again)
+error: internal fatal libbzip2 error number %d
+%lu file%s, %s bytes uncompressed, %s bytes compressed:  %s%d.%d%%
+Central directory entry #%lu:
+---------------------------
+%02u-%s-%02u %02u:%02u
+%04u%02u%02u.%02u%02u%02u
+%u %s %u %02u:%02u:%02u
+%03d
+???? ??? ?? ??:??:??
+-------------------------- file comment ends -----------------------------
+------------------------- file comment begins ----------------------------
+  There is no file comment.
+GMT modification/access times only
+GMT modification/access times and Unix UID/GID
+  There %s a local extra field with ID 0x%04x (%s) and
+  %u data bytes (%s).
+.  The first
+    20 are:  
+    The 128-bit MD5 signature is %s
+Object
+Edit
+Key Sequenced
+Entry Sequenced
+Relative
+Unstructured
+    The file was originally a Tandem %s file, with file code %u
+    The AOS/VS extra field revision is %d.%d
+    The QDOS extra field subtype is `%c%c%c%c'
+    The local extra field has %lu bytes of %scompressed BeOS file attributes
+    The local extra field has %lu bytes of %scompressed AtheOS file attributes
+    File is marked as %s
+    The Mac long filename is %s
+Resource-fork
+Data-fork
+    File is marked as %s, File Dates are in %d Bit
+    The local extra field has %lu bytes of %scompressed Macintosh
+    finder attributes
+ %02x
+. The first
+    24 UTF8 bytes in the extra field (V%u, ASCII name CRC `%.8lx') are:
+    The UTF8 data of the extra field (V%u, ASCII name CRC `%.8lx') are:
+    The local extra field has UTC/GMT %s time%s
+creation
+access
+modification
+compressed(?)
+deflated
+run-length encoded
+stored
+.  The extra
+    field is %s and has %u bytes of VMS %s information%s
+    The local extra field has %lu bytes of NT security descriptor data
+    The local extra field has %lu bytes of access control list information
+    The local extra field has %lu bytes of OS/2 extended attributes.
+    (May not match OS/2 "dir" amount due to storage method)
+  - A subfield with ID 0x%04x (%s) and %u data bytes
+unknown
+Theos
+SmartZip Macintosh
+Tandem NSK
+ASi Unix
+Fred Kantor MD5
+Acorn SparkFS
+AOS/VS
+SMS/QDOS
+BeOS
+AtheOS
+VM/CMS
+ZipIt Macintosh (short)
+ZipIt Macintosh
+old Info-ZIP Macintosh
+new Info-ZIP Macintosh
+UTF8 entry comment
+UTF8 path name
+universal time
+Unix UID/GID (any size)
+Unix UID/GID (16-bit)
+old Info-ZIP Unix/OS2/NT
+PKWARE Unix
+PKWARE Win32
+Info-ZIP VMS
+PKWARE VMS
+Security Descriptor
+OS/2 ACL
+OS/2
+PKWARE AV
+PKWARE 64-bit sizes
+  error: EF data block (type 0x%04x) size %u exceeds remaining extra field
+         space %u; block length has been truncated.
+  The central-directory extra field contains:
+  MS-DOS file attributes (%02X hex):                %s%s%s%s%s%s%s%s
+  MS-DOS file attributes (%02X hex):                read-only
+  MS-DOS file attributes (%02X hex):                none
+  non-MSDOS external file attributes:             %06lX hex
+  Unix file attributes (%06o octal):            %s
+  Theos file attributes (%04X hex):               %s
+???         
+386 program 
+286 program 
+ 86 program 
+Indexed     
+Keyed       
+Direct      
+Sequential  
+Directory   
+Library     
+  Amiga file attributes (%06o octal):           %s
+  VMS file attributes (%06o octal):             %s
+  apparent file type:                             %s
+  disk number on which file begins:               disk %lu
+  length of file comment:                         %u characters
+  length of extra field:                          %u bytes
+  length of filename:                             %u characters
+  uncompressed size:                              %s bytes
+  compressed size:                                %s bytes
+  32-bit CRC value (hex):                         %.8lx
+local
+  file last modified on (UT extra field modtime): %s %s
+  file last modified on (DOS date/time):          %s
+  extended local header:                          %s
+  file security status:                           %sencrypted
+  compression sub-type (deflation):               %s
+  number of Shannon-Fano trees (implosion):       %c
+  size of sliding dictionary (implosion):         %cK
+  compression method:                             %s
+  minimum software version required to extract:   %u.%u
+  minimum file system compatibility required:     %s
+  version of encoding software:                   %u.%u
+  file system or operating system of origin:      %s
+unknown (%d)
+  offset of local header from start of archive:   %s (%sh) bytes
+  There are an extra %s bytes preceding this file.
+superfast
+fast
+maximum
+normal
+PPMd-ed
+WavPacked
+LZ77-compressed (IBM)
+tersed (IBM)
+LZMA-ed
+bzipped
+imploded (PK DCL)
+deflated (enhanced-64k)
+deflated
+tokenized
+imploded
+reduced (factor 4)
+reduced (factor 3)
+reduced (factor 2)
+reduced (factor 1)
+shrunk
+none (stored)
+AtheOS
+Mac OS/X (Darwin)
+Theos
+Tandem NSK
+BeOS
+Win32 VFAT
+Acorn RISC OS
+SMS/QDOS
+NTFS
+TOPS-20
+CP/M
+Z-System
+Macintosh HFS
+OS/2 or NT HPFS
+Atari ST
+VM/CMS
+Unix
+Amiga
+MS-DOS, OS/2 or NT FAT
+    The associated file has type code `0x%lx' and creator code `0x%lx'
+    The associated file has type code `%c%c%c%c' and creator code `%c%c%c%c'
+Zip file size: %s bytes, number of entries: %s
+  %s of the archive entries %s contained within this zipfile volume,
+  out of a total of %s %s.
+  of %s (%sh) bytes.  The entire
+  central directory is %s (%sh) bytes long.
+  This zipfile constitutes disk %lu of a multi-part archive.  The central
+  directory starts on disk %lu at an offset within that archive part
+  and its (expected) offset in bytes from the beginning of the zipfile
+  is %s (%sh).
+  This zipfile constitutes the sole disk of a single-part archive; its
+  central directory contains %s %s.
+  The central directory is %s (%sh) bytes long,
+  Actual end-cent-dir record offset:   %s (%sh)
+  Expected end-cent-dir record offset: %s (%sh)
+  (based on the length of the central directory and its expected offset)
+  Zip archive file size:               %s (%sh)
+-------------------------------
+End-of-central-directory record:
+entry
+entries
+NXFS
+stor
+shrk
+re:1
+re:2
+re:3
+re:4
+i#:#
+tokn
+def#
+d64#
+dcli
+bzp2
+lzma
+ters
+lz77
+wavp
+ppmd
+u###
+not 
+text
+ebcdic
+binary
+lnk 
+arc 
+dir 
+lab 
+sys 
+hid 
+rdo 
+%u.%u
+%s %s %s 
+ %s %s 
+%03u
+XABPRO
+XABFHC
+unknown
+.r.-...     %u.%u
+may be
+%3d%%
+%02x
+XABALL
+XABRDT
+XABDAT
+XABKEY
+version
+warning:  cannot set permissions for %s
+          %s
+warning:  cannot set modif./access times for %s
+          %s
+warning:  cannot set UID %lu and/or GID %lu for %s
+          %s
+ (warning) cannot set modif./access times
+          %s
+ (warning) cannot set UID %lu and/or GID %lu
+          %s
+warning:  cannot allocate wildcard buffers
+checkdir error:  path too long: %s
+checkdir warning:  path too long; truncating
+                   %s
+                -> %s
+checkdir error:  %s exists but is not directory
+                 unable to process %s.
+checkdir error:  cannot create %s
+                 %s
+                 unable to process %s.
+checkdir:  cannot create extraction directory: %s
+           %s
+warning:  skipped "../" path component(s) in %s
+mapname:  conversion of %s failed
+   creating: %s
+chmod (directory attributes) error
+Could not read directory attributes
+warning:  symbolic link (%s) failed: mem alloc overflow
+warning:  symbolic link (%s) failed
+fchmod (file attributes) error
+-> %s 
+warning:  symbolic link (%s) failed: no mem
+Apr 18 2010
+ on 
+ (Cygwin)
+Unix
+3.4.4 (msys special)
+gcc 
+1.0.5, 10-Dec-2007
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+__mb_cur_max
+_ctype_
+_timezone
+abort
+calloc
+chmod
+chown
+close
+closedir
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fchmod
+fchown
+fclose
+fflush
+fgets
+fileno
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+getenv
+gmtime
+ioctl
+isatty
+lchown
+localtime
+lseek
+lstat
+malloc
+mblen
+memcpy
+memset
+mkdir
+open
+opendir
+perror
+putc
+qsort
+read
+readdir
+realloc
+rename
+rewind
+setlocale
+signal
+sprintf
+stat
+strcat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncpy
+strrchr
+symlink
+tcgetattr
+tcsetattr
+tzset
+umask
+unlink
+utime
+vsnprintf
+write
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

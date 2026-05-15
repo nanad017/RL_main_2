@@ -1,0 +1,548 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+5h*A
+zips
+plit
+.idx
+[^_]
+[^_]
+5@AA
+=@AA
+5p*A
+v\C9
+=@AA
+[^_]
+50AA
+=0AA
+5$*A
+=0*A
+[^_]
+zips
+plit
+.idx
+;5@AA
+;5@AA
+=0AA
+.zip
+[^_]
+[^_]
+,[^_]
+0[^]
+f9S&t
+=0)A
+[^_]
+=0)A
+=x*A
+=0)A
+Zip 
+entr
+y of
+fset
+s do
+ not
+ nee
+d ad
+just
+=0)A
+bad 
+arch
+ive 
+cted
+ sig
+- un
+expe
+natu
+=0)A
+=0)A
+=0)A
+=0)A
+=0)A
+=0)A
+=0)A
+=0)A
+5PAA
+=0)A
+,[^_]
+=t*A
+=P*A
+,[^_]
+=@*A
+5<*A
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+=0)A
+x(;5
+[^_]
+=0)A
+[^_]
+=0)A
+=0)A
+f9F&t
+=H*A
+z(t"
+=0)A
+=0)A
+=0)A
+=0)A
+=P*A
+=0)A
+=0)A
+=0)A
+ziXX
+XXXX
+[^_]
+[^_]
+=0)A
+=d)A
+5,)A
+5P)A
+,[^_]
+=0)A
+=0)A
+=0)A
+=0)A
+5d)A
+5H*A
+=L)A
+=T)A
+[^_]
+5L)A
+[^_]
+=0)A
+[^_]
+5\)A
+=P)A
+5<QA
+=0)A
+(cur
+rent
+ dir
+ecto
+[^_]
+rent
+ dir
+ecto
+(cur
+5L)A
+=h*A
+(cur
+rent
+ dir
+ecto
+=h*A
+[^_]
+rent
+(cur
+ecto
+ dir
+[^_]
+[^_]
+[^_]
+5H*A
+5H*A
+5\*A
+5H*A
+XXXX
+ziXX
+=P*A
+=p)A
+=d)A
+[^_]
+5$*A
+5 *A
+5<*A
+=P*A
+5D*A
+=p)A
+50AA
+5$*A
+5$*A
+=H*A
+5d)A
+5@*A
+=<*A
+=<*A
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+[^_]
+,0<	
+5<QA
+[^_]
+t	<G
+[^_]
+[^_]
+uXCF
+[[^_]
+%8QA
+%dQA
+%tQA
+%HQA
+%pQA
+%`QA
+%|QA
+%lQA
+%xQA
+%4QA
+%hQA
+%PQA
+%DQA
+[^_]
+w	9X
+[^_]
+w	9X
+w	9X
+w	9X
+%LQA
+%XQA
+%@QA
+%TQA
+%$RA
+% RA
+Copyright (c) 1990-2008 Info-ZIP - Type '%s "-L"' for software license.
+This is %s %s (%s), by Cygwin. Original by Info-ZIP.
+Currently maintained by E. Gordon.  Please send bug reports to
+the authors using the web page at www.info-zip.org; see README for details.
+Latest sources and executables are at ftp://ftp.info-zip.org/pub/infozip,
+as of above date; see http://www.info-zip.org/ for other sites.
+Encryption notice:
+	The encryption code of this program is not copyrighted and is
+	put in the public domain.  It was originally written in Europe
+	and, to the best of our knowledge, can be freely distributed
+	in both source and object forms from any country, including
+	the USA under License Exception TSU of the U.S. Export
+	Administration Regulations (section 740.13(e)) of 6 June 2002.
+Copyright (c) 1990-2008 Info-ZIP.  All rights reserved.
+For the purposes of this copyright and license, "Info-ZIP" is defined as
+the following set of individuals:
+   Mark Adler, John Bush, Karl Davis, Harald Denker, Jean-Michel Dubois,
+   Jean-loup Gailly, Hunter Goatley, Ed Gordon, Ian Gorman, Chris Herborth,
+   Dirk Haase, Greg Hartwig, Robert Heath, Jonathan Hudson, Paul Kienitz,
+   David Kirschbaum, Johnny Lee, Onno van der Linden, Igor Mandrichenko,
+   Steve P. Miller, Sergio Monesi, Keith Owens, George Petrov, Greg Roelofs,
+   Kai Uwe Rommel, Steve Salisbury, Dave Smith, Steven M. Schweda,
+   Christian Spieler, Cosmin Truta, Antoine Verheijen, Paul von Behren,
+   Rich Wales, Mike White
+This software is provided "as is," without warranty of any kind, express
+or implied.  In no event shall Info-ZIP or its contributors be held liable
+for any direct, indirect, incidental, special or consequential damages
+arising out of the use of or inability to use this software.
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the above disclaimer and the following restrictions:
+    1. Redistributions of source code (in whole or in part) must retain
+       the above copyright notice, definition, disclaimer, and this list
+       of conditions.
+    2. Redistributions in binary form (compiled executables and libraries)
+       must reproduce the above copyright notice, definition, disclaimer,
+       and this list of conditions in documentation and/or other materials
+       provided with the distribution.  The sole exception to this condition
+       is redistribution of a standard UnZipSFX binary (including SFXWiz) as
+       part of a self-extracting archive; that is permitted without inclusion
+       of this license, as long as the normal SFX banner has not been removed
+       from the binary or disabled.
+    3. Altered versions--including, but not limited to, ports to new operating
+       systems, existing ports with new graphical interfaces, versions with
+       modified or added functionality, and dynamic, shared, or static library
+       versions not from Info-ZIP--must be plainly marked as such and must not
+       be misrepresented as being the original source or, if binaries,
+       compiled from the original source.  Such altered versions also must not
+       be misrepresented as being Info-ZIP releases--including, but not
+       limited to, labeling of the altered versions with the names "Info-ZIP"
+       (or any variation thereof, including, but not limited to, different
+       capitalizations), "Pocket UnZip," "WiZ" or "MacZip" without the
+       explicit permission of Info-ZIP.  Such altered versions are further
+       prohibited from misrepresentative use of the Zip-Bugs or Info-ZIP
+       e-mail addresses or the Info-ZIP URL(s), such as to imply Info-ZIP
+       will provide support for the altered versions.
+    4. Info-ZIP retains the right to use the names "Info-ZIP," "Zip," "UnZip,"
+       "UnZipSFX," "WiZ," "Pocket UnZip," "Pocket Zip," and "MacZip" for its
+       own source and binary releases.
+new zip file left as: 
+was replacing split file
+%s%s
+zipsplit error: %s (%s)
+zipsplit error
+zipsplit warning: %s%s
+was trying a smart split
+help
+ZipSplit %s (%s)
+Usage:  zipsplit [-tipqs] [-n size] [-r room] [-b path] zipfile
+  -t   report how many files it will take, but don't make them
+  -i   make index (zipsplit.idx) and count its size against first zip file
+  -n   make zip files no larger than "size" (default = 36000)
+  -r   leave room for "room" bytes on the first disk (default = 0)
+  -b   use "path" for the output zip files
+  -q   quieter operation, suppress some informational messages
+  -p   pause between output zip files
+  -s   do a sequential split even if it takes more zip files
+  -h   show this help    -v   show version info    -L   show software license
+Use option -h for help.
+Entry is larger than max split size of: %s
+use -n to set split size
+was processing arguments
+zip file cannot be stdin
+July 5th 2008
+ZipSplit
+ZipSplit special compilation options:
+	[none]
+zipsplit
+ould
+%ld zip files w%s be made (%s%% efficiency)
+was computing split
+%%0%dld.zip
+creating: %s
+Error writing to disk--redo entire disk? 
+%5s %s
+Insert disk #%ld of %ld and hit return: 
+need to specify zip file
+invalid size given. Use option -h for help.
+Done.
+can only specify one zip file
+way too many zip files must be made
+input
+options are separate and precede zip file
+was making output file names
+aborting
+extra field copy
+reading local entry: 
+Local Version Needed (%d) does not match CD (%d): 
+Local Entry Flag does not match CD: 
+Local Entry CRC does not match CD: 
+reading archive fseek: 
+Did not find entry for 
+reading entry
+missing end signature--probably not a zip file (did you
+remember to use binary mode when you transferred it?)
+(if you are trying to read a damaged archive try -F)
+bad archive - missing end signature
+(If downloaded, was binary mode used?  If not, the
+ archive may be scrambled and not recoverable)
+Can't use -F to fix (try -FF)
+could not open input archive
+archive name must end in .zip for splits
+input file requires Zip64 support: 
+unable to seek in input file 
+%02x 
+on disk %lu at %s
+skipping this signature...
+reading central directory: 
+bad archive - error reading central directory
+skipping this entry...
+expected %s entries but found %s
+central dir not where expected - could not adjust offsets
+(try -FF)
+found Zip64 signature - this may be a Zip64 archive
+Need PKZIP 4.5 or later compatible zip
+Set ZIP64_SUPPORT in Zip 3
+zero-length name for entry #
+Adjusting split archives not yet supported
+Zip entry offsets appear off by %s bytes - correcting...
+unexpected signature on disk %lu at %s
+archive not in correct format: 
+(try -F to attempt recovery)
+skipping disk %lu ...
+could not find split: 
+error reading entry:  
+could not allocate memory: scanzipf_reg
+reading central directory
+must use --out when fixing an archive
+central directory header signature on disk %lu at %s
+reading archive: 
+could not seek back to Zip64 EOCDL: 
+cannot update a split archive (use --out option)
+could not seek back to start of central directory: 
+bad archive - could not seek back to Zip64 EOCDL: 
+No .zip file found
+        
+(If all you have are splits (.z01, .z02, ...) and no .zip, try -FF)
+append_ushort_to_mem
+append_ulong_to_mem
+append_string_to_mem
+Unrecognized compression method in local header:  %d
+Skipping:  
+Local Version Needed To Extract does not match CD: 
+aborting: 
+ (%s bytes)
+entry truncated: 
+expected compressed/stored size %s, actual %s
+Could not find split
+ copying: %s 
+seek failed on output file
+Illegal PK version mapping in local header:  %d
+Illegal host system mapping in local header:  %d
+Local Entry name does not match CD: 
+no end of stream entry found: 
+rewinding and scanning for later entries
+out of memory in zipcopy
+ replace: can't open %s
+ fcopy: write error
+skipping split file: 
+could not find split: 
+user ended reading - closing archive
+reading archive: 
+seek failed reading descriptor
+Could not find:
+  %s
+Hit c      (change path to where this split file is)
+    q      (abort archive - quit)
+ or ENTER  (try reading this split again): 
+Found:  %s
+ or ENTER  (continue with this split): 
+Found:  %s
+    s      (skip this split)
+    e      (end this archive - no more splits)
+    z      (look for .zip split - the last split)
+Could not find or open
+Enter path where this split is (ENTER = same dir, . = current dir)
+split path
+Opening disk %d
+Hit ENTER to write to default path of
+or enter a new directory path (. for cur dir) and hit ENTER
+Path (or hit ENTER to continue): 
+Writing to:
+  %s
+z%02lu
+More than 99999 splits needed
+base path
+	Closing split 
+Not enough room on disk
+write error on zip file
+could not write split
+Not enough space to write split
+Could not write split
+allocating temp filename
+option %s not negatable
+option %s requires a value
+option %s does not allow a value
+short option '%c' not supported
+option %s requires one character value
+option %s does not support multibyte values
+option %s requires number value
+long option '%s' ambiguous
+long option '%s' not supported
+argument files not enabled
+'%s'
+'%s' (%s)
+Number too long to read (8 characters max): 
+Unable to read number (must start with digit): 
+Unable to read empty number in ReadNumString
+Normal successful completion
+Unexpected end of zip file
+FORM
+Zip file structure invalid
+Out of memory
+LOGIC
+Internal logic error
+Entry too big to split, read, or write
+NOTE
+Invalid comment format
+TEST
+Zip file invalid, could not spawn unzip, or wrong unzip
+ABORT
+Interrupted
+TEMP
+Temporary file failure
+READ
+Input file read failure
+NONE
+Nothing to do!
+NAME
+Missing or empty zip file
+WRITE
+Output file write failure
+CREAT
+Could not create output file
+PARMS
+Invalid command arguments
+OPEN
+File not found or no read permission
+COMPERR
+Not supported
+ZIP64
+Attempt to read unsupported Zip64 archive
+.Z:.zip:.zoo:.arc:.lzh:.arj
+ on May 27 2010
+Cygwin
+gcc 3.4.4 (msys special)
+Compiled with %s for Unix (%s)%s.
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+_ctype_
+abort
+atoi
+atol
+calloc
+chmod
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fdopen
+fflush
+fgets
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+fseek
+ftell
+fwrite
+getc
+lstat
+malloc
+memcpy
+mkstemp
+perror
+printf
+putc
+puts
+qsort
+realloc
+rename
+rewind
+signal
+sprintf
+stat
+strcat
+strcmp
+strcpy
+strerror
+strlen
+strncat
+strncmp
+strncpy
+strrchr
+ungetc
+unlink
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

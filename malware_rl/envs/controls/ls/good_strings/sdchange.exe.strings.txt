@@ -1,0 +1,402 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+bad allocation
+Invalid parameter passed to C runtime function.
+RegDeleteKeyExW
+RegDeleteKeyW
+FPO@
+FPK@
+=L9o<
+K\HI
+K\HI
+RSDSY
+sdchange.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+ATL$__a
+ATL$__m
+ATL$__z
+.data
+.data$r
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+h z@
+hhz@
+uE9^
+ SSh
+QVVV
+PVVV
+xB;N
+_^[]
+YQVP
+>SPS
+QSVW
+t	F;w
+@_^[
+j'[f;
+ t8S
+SVWP
+j0Xf9
+~sj0Y
+Y_^[
+QQQQQQQPQQQ
+?=u/W
+f90u
+f90u
+j{Xf;
+hOx@
+L$ 3
+L$<W
+j=Xf9
+D$PP
+D$`3
+QQQWV
+j=Xf9
+D$0P
+j{Xf9
+f;D$4u
+D$lh
+j{Xf9
+f;D$4u
+D$dP
+D$dP
+L$TP
+u(j}Xf9
+Y_^[
+s	@f
+hP"@
+hpA@
+7PQW
+hP"@
+uXf;
+0Qhl
+uLVW
+u	9E
+PQjeZ
+x7QQ
+WWWP
+xhu_
+_^[3
+VVVV
+8^=u
+?VW3
+q(9>u
+_^[3
+SSSSSSSPSSSV
+uUSSSSSSS
+PSSSV
+f90u
+j Zj	Yf
+tUf;
+uAf;
+t<f;
+j	Yj Zf
+s1SV
+nVVW
+(SVWj
+PSSSh,
+uqjDXPj@
+PWSj
+PSSj
+h0z@
+hPz@
+t%hd
+XPQj
+8csm
+PPPPP
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+Y__^[
+.?AVexception@@
+.?AVbad_alloc@std@@
+.?AVCAtlException@ATL@@
+RegCreateKeyExW
+RegQueryInfoKeyW
+RegDeleteValueW
+RegOpenKeyExW
+RegEnumKeyExW
+RegCloseKey
+RegSetValueExW
+ADVAPI32.dll
+FindResourceExW
+FreeLibrary
+LoadResource
+LoadLibraryExW
+GetModuleHandleW
+InitializeCriticalSection
+SizeofResource
+LeaveCriticalSection
+GetModuleFileNameW
+MultiByteToWideChar
+RaiseException
+GetLastError
+GetProcAddress
+EnterCriticalSection
+lstrcmpiW
+DeleteCriticalSection
+GetCurrentThreadId
+SetEvent
+GetCommandLineW
+CloseHandle
+WaitForSingleObject
+Sleep
+CreateEventW
+CreateThread
+KERNEL32.dll
+CharNextW
+PostThreadMessageW
+CharUpperW
+GetMessageW
+TranslateMessage
+DispatchMessageW
+USER32.dll
+wcsncpy_s
+free
+malloc
+_purecall
+memcpy_s
+wcscpy_s
+wcscat_s
+memset
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+??1exception@@UAE@XZ
+?what@exception@@UBEPBDXZ
+_callnewh
+_CxxThrowException
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+_wcmdln
+msvcrt.dll
+?terminate@@YAXXZ
+_errno
+realloc
+??1type_info@@UAE@XZ
+_lock
+_unlock
+__dllonexit
+_onexit
+_controlfp
+_except_handler4_common
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+OutputDebugStringA
+OLEAUT32.dll
+CoTaskMemRealloc
+CoTaskMemFree
+CoTaskMemAlloc
+CoInitializeEx
+CoUninitialize
+CoResumeClassObjects
+StringFromGUID2
+CoCreateInstance
+CoRegisterClassObject
+CoRevokeClassObject
+CoSuspendClassObjects
+api-ms-win-core-com-l1-1-1.dll
+CloseServiceHandle
+OpenSCManagerW
+OpenServiceW
+StartServiceW
+QueryServiceStatus
+CreateWellKnownSid
+LocalAlloc
+LocalFree
+UnregisterClassA
+RpcBindingFromStringBindingW
+RpcStringBindingComposeW
+RpcBindingSetAuthInfoExW
+RpcBindingFree
+RpcStringFreeW
+I_RpcExceptionFilter
+NdrClientCall2
+RPCRT4.dll
+__CxxFrameHandler3
+memcmp
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity
+        version="5.1.0.0"
+        processorArchitecture="x86"
+        name="Microsoft.Windows.SDChange"
+        type="win32"
+    />
+    
+    <description>Secure Desktop Toggle</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+HKCR
+    NoRemove AppID
+    {
+        '%APPID%' = s 'sdchange'
+        {
+			val RunAs = s 'Launching User'
+        }
+        'sdchange.EXE'
+        {
+            val AppID = s '%APPID%'
+        }
+    }
+HKCR
+	sdchange.sdchangeobj.1 = s 'SDChangeObj Class'
+		CLSID = s '{E1BA41AD-4A1D-418F-AABA-3D1196B423D3}'
+	sdchange.sdchangeobj = s 'SDChangeObj Class'
+		CLSID = s '{E1BA41AD-4A1D-418F-AABA-3D1196B423D3}'
+		CurVer = s 'sdchange.sdchangeobj.1'
+	NoRemove CLSID
+		ForceRemove {E1BA41AD-4A1D-418F-AABA-3D1196B423D3} = s 'SDChangeObj Class'
+			ProgID = s 'sdchange.sdchangeobj.1'
+			VersionIndependentProgID = s 'sdchange.sdchangeobj'
+			ForceRemove 'Programmable'
+			LocalServer32 = s '%MODULE%'
+			val AppID = s '%APPID%'
+			'TypeLib' = s '{00A40DB9-D8B4-40b3-8E0C-A8E8C6B3B720}'
+MSFT
+stdole2.tlbWWW
+SDChangeLibW
+SDChangeObjWd
+8|@ISDChangeObjd
+UseSecureDesktop
+tzUseSDWWW
+SDChange 1.0 Type LibraryW
+SDChangeObj ClassW
+ISDChangeObj Interface
+method UseSecureDesktopWWW,
+0 0$0P1T1X1\1`1d1
+54585<5@5D5H5|5
+6@6D6H6L6P6T6X6\6`6d6h6
+8D=H=P=X=
+V0\0`0v0
+0I1y1
+2T2l2
+6!7W7
+7c8s8
+8'9N9f9x9
+:>:q:
+;8;X;l;p;w;~;
+< =D=
+>*?V?
+1<2G2T2
+495F5[5	616H6Y6
+6r7y7
+9+9X9k9.:G:z:u;
+;<<H<g<
+=!>C>}>
+>??~?
+020L0f0
+0'181L1
+2&2,2P2
+3Y3^3
+4'444S4b4x4
+4%50595I5]5b5
+6@6L6w6
+717O7V7d7v7
+8c8v8G9Q9]9n9
+:\;t;
+<4<[<~<
+=&=3=J=T=a=
+>>>I>]>
+>	?z?
+0+01070=0L0U0^0c0m0t0z0
+1=1N1g1u1z1
+122>2
+3 3;3G3M3S3]3d3l3
+4!4O4T4b4g4o4{4
+5!5G5l5t5z5
+6.6E6m6
+6#7.797P7l7x7
+8V8d8
+9"909z9
+:":4:_:p:
+<?<\<o<
+=9=M=w=
+>5>B>f>o>{>
+?#?.?6?=?^?i?w?}?
+0?0L0o0y0
+1G1S1Z1_1d1j1s1x1~1
+2 2*252<2A2G2M2S2Z2t2
+3g3}3
+4$4e4j4u4
+5#5K5Q5W5|5
+6-6<6A6O6Y6m6
+7$7.7B7h7t7z7
+81868<8A8F8K8P8V8^8k8
+9-959=9S9[9b9
+:$:):[:~:
+;W;x;
+= ='=.=5===E=M=Y=b=g=m=w=
+>!>(>/>6>=>D>J>V>a>f>k>q>{>
+?C?L?
+90Q0W0f0r0
+3 3;3J3U3r3
+6H6p6
+7C7k7
+7+8t8
+8)9S9
+:2:6:;:R:V:[:|:
+;(;8;H;T;t;|;
+<$<,<D<\<
+=(=0=d=t=
+> >,>4>h>x>
+?$?(?0?D?L?T?\?`?h?|?
+0 0<0@0\0`0h0x0
+0004080<0H0L0P0

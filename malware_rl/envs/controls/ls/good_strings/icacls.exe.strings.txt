@@ -1,0 +1,596 @@
+!This program cannot be run in DOS mode.
+^RichS
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+VWAVH
+fD94Zu
+T$xH
+L$pL
+t$ D
+t$83
+L$(D
+L$pL
+t$ D
+\$`H
+l$hH
+@A^_^
+D$ H
+T$0H
+L$ SUVWH
+D$@D
+D$@3
+D$@H
+D$0E3
+X_^][
+UWATAVAWH
+fD9}
+D$ #
+|$(L
+A_A^A\_]
+x ATAVAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+WATAUAVAWH
+f9,Au
+*H9-z
+f9,ru
+H9(u
+f9,Bu
+H9(u
+f9,Au
+f9+tz
+f9+tpH
+fB9,Bu
+H9(u
+f9,Au
+Cf9+u
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+x ATAVAWH
+fD;b
+D8&t
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+WAVAWH
+upA:F
+L$ H
+\$PH
+l$XH
+t$`H
+0A_A^_
+WAVAWH
+uw:F
+L$ H
+\$PH
+l$XH
+t$`H
+0A_A^_
+x AVH
+\$@H
+t$PH
+|$XH
+x AVH
+fD;q
+\$0H
+l$8H
+t$@H
+|$HH
+@SUVWATAVAWH
+d$@H
+T$@D
+t9fD9c
+T$PA
+fD9d$Ru
+|$0M
+\$(D
+d$ H
+A_A^A\_^][
+\$8E3
+\$PH
+L$ L
+L$XL
+D$(H
+\$(H
+\$@H
+L$ L
+L$XL
+D$(H
+\$(H
+\$@H
+t$PH
+H UATAUAVAWH
+\$`H
+t$hH
+|$pH
+0A_A^A]A\]
+WAVAWH
+D$DH
+D$0H
+D$(H!|$ L
+T$H3
+D$HI
+\$@I
+D$DH
+D$0H
+D$(H
+D$XH
+D$DH
+D$0H
+D$(H
+|$ L
+\$`I
+A_A^_
+SVWATAUAVAWH
+D$XM
+D$DH
+D$0H
+D$(H
+t$ L
+fD9$Fu
+fE9$Nu
+\$@H
+T$HI
+\$HH
+fD9${u
+\$@I
+`A_A^A]A\_^[
+@SVWH
+d$0H
+D$8H
+D$xH
+D$(H
+D$@H
+D$xH
+D$(H
+|$ D
+L$xL
+P_^[
+x ATAVAWH
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+UAVAWH
+\$ A
+D9=N
+\$ A
+t7Hc
+\$ A
+\$ A
+\$ H
+D$(E
+u3Hc
+\$ A
+\$ A
+\$ A
+u7Hc
+\$ A
+\$ A
+u/Hc
+\$ A
+u7Hc
+\$ A
+\$ A
+\$ #
+T$(H
+A_A^]
+T$0H
+T$0H
+\$8H
+@USVWH
+D$`A
+L$hH
+\$0H
+D$`D
+D$0H
+T$hH
+T$X3
+9L$0
+t$PH
+f9LC
+D$`D
+L$XH
+L$hH
+T$pH
+D$@H
+D$HH
+T$PL
+D$HL
+T$PH+
+\$pH
+D$`D
+T$hD
+L$HH
+T$XH
+\$0H
+L$@H
+\$0@
+D$0H
+D$@H
+L$0L
+D$0L
+L$@H
+L$@H
+D$PH
+D$HH
+L$0L
+T$8H
+D$0L
+L$HH
+T$8H+
+T$8L
+T$8L
+D$`D
+L$XH
+T$HH
+L$hH
+9D$8u
+L$PH
+_^[]
+H SUVWAVAWH
+|$ H
+8A_A^_^][
+x ATAVAWH
+fD9$Fu
+fD9c
+d$ H
+T$ H
+\$ H
+fD9$Fu
+\$PH
+l$XH
+t$`H
+|$hH
+0A_A^A\
+VWAVH
+T$0A
+fD9tE
+L$0L
+t$`L
+t$ D
+L$`H
+\$hH
+@A^_^
+c AUAVAWH
+d$HA
+D$XI
+D$pI
+fA9LE
+D$pH
+fE9d]
+r#fA
+\$@H
+d$XE3
+D$XA
+D$@D
+d$hL
+D$hH
+D$@D
+d$PD
+T$PH
+D$@D
+L9d$hu
+D$@D
+D$hL
+}FHc
+L$@H
+D$@H
+D$`I
+D$h3
+D$@D
+D$hH
+|$xH
+|$|L
+D;:};Ic
+D$@H
+L$@H
+D$ L
+D$@D
+D$ E3
+|$`A
+D$ M
+D$@D
+D$`H
+|$`A
+|$8H
+T$0L
+t$(E3
+A_A^A]
+UVWATAUAVAWH
+HcL$0H
+D$(E
+D$0I
+A_A^A]A\_^]
+D$p3
+\$PH
+t$`H
+{ ATAVAWH
+D$`I
+S(E3
+\$`H
+fD;c
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+|$ H
+\$@3
+l$HH
+t$PH
+|$8H
+D$@H
+l$0E3
+D$(H
+\$`H
+l$hH
+t$pH
+WATAUAVAWH
+T$HE;4$
+t$DH
+D$@L
+ uDI
+ u!I
+D$@H
+|$8L
+l$0H
+|$(E3
+\$`I
+A_A^A]A\_
+WATAUAVAWH
+D$`L
+\$hH
+l$pH
+t$xH
+0A_A^A]A\_
+x UATAUAVAWH
+L$HD
+t$8H
+D$@f
+8/u9H
+d$`A
+d$`H
+D$XH
+D;d$Ht
+l$HD
+D$XH
+fD9P
+fD9p
+L95jI
+t$XH
+fE9tE
+|$HL96
+L93u
+t$XH
+|$HH
+t$XL90
+L$8H
+L$@L
+D$8L
+L$@H
+T$`D
+L$PH
+T$8L
+L$8L
+L$PH
+T$8L
+L$8L
+L$@L
+D$ A
+A_A^A]A\]
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+Out of memory
+I can't handle that yet
+what?  Flags == %08x
+RSDS
+icacls.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+wcschr
+swprintf_s
+_wcsicmp
+feof
+wcsncpy_s
+free
+calloc
+_wcsnicmp
+malloc
+_wfopen
+_wperror
+_ultow
+wcsrchr
+printf
+fgetwc
+fputws
+wcscat_s
+realloc
+wcscpy_s
+fclose
+_wcsdup
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+RtlIsCapabilitySid
+RtlFreeHeap
+RtlIsPackageSid
+NtQueryInformationFile
+RtlDosPathNameToRelativeNtPathName_U
+RtlNtStatusToDosError
+NtClose
+RtlReleaseRelativeName
+NtOpenFile
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+IsValidAcl
+OpenProcessToken
+FindFirstFileW
+SetSecurityAccessMask
+DeleteAce
+GetCurrentProcess
+CopySid
+WriteFile
+GetSecurityDescriptorControl
+EqualSid
+WideCharToMultiByte
+GetConsoleMode
+FormatMessageW
+ConvertStringSidToSidW
+LookupAccountNameW
+GetFileAttributesW
+WriteConsoleW
+LookupPrivilegeValueW
+LookupAccountSidW
+GetStdHandle
+SetThreadPreferredUILanguages
+GetLastError
+SetLastError
+InitializeAcl
+FindClose
+LocalAlloc
+GetFileType
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+IsValidSid
+AddAce
+GetSecurityDescriptorSacl
+GetLengthSid
+GetFinalPathNameByHandleW
+HeapSetInformation
+FindNextFileW
+AdjustTokenPrivileges
+ConvertSidToStringSidW
+ConvertSecurityDescriptorToStringSecurityDescriptorW
+CloseHandle
+GetSecurityDescriptorDacl
+LocalFree
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+TerminateProcess
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-security-lsalookup-l2-1-1.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+GetSecurityInfo
+SetSecurityInfo
+api-ms-win-security-provider-l1-1-0.dll
+LocalSize
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+_local_unwind
+memcpy
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.Filesystem.ICacls"
+    type="win32"
+<description>ICACLS Utility</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>

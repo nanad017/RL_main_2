@@ -1,0 +1,375 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+0i/J0
+NE)^
+ky	}u
+)u3s
+7FM2~>
+*.rK
+*R~D
+,~~G
+,i~H
+,T~I
+,?~J
+,*~K
++p~P
++S~Q
++6~F
+,+~B
+,$~F
+!&~F
+ _,8~F
+_,8~F
+_,8~F
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPAK
+:8:GB
+[Application]
+[Assembly]
+(Microsoft (R) .NET Framework Store Admin
+CCopyright (C) Microsoft Corporation 1998-2001. All rights reserved.
+[Domain]
+3Roaming and Machine options are mutually exclusive.
+Record #
+7Unable to delete some files, the store could be in use.
+Size :
+Unknown Error
+Unknown Option
+Usage    : StoreAdm [options]
+;options  : [/LIST] [/REMOVE] [/ROAMING | /MACHINE] [/QUIET]
+G/LIST    : Displays the existing isolated storage for the current user.
+F/REMOVE  : Removes all existing isolated storage for the current user.
+$/ROAMING : Select the roaming store.
+./QUIET   : Only error messages will be output.
+$/MACHINE : Select the machine store.
+/HELP
+help
+-help
+/help
+/LIST
+/MACHINE
+/QUIET
+/REMOVE
+/ROAMING
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP9
+x/	3
+:Copyright (c) Microsoft Corporation.  All rights reserved.
+2Microsoft (R) Windows (R) Communication Foundation
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+|	p	
+D	5#
+V	&#
+i	^$
+l%&$;$m$
+<Module>
+storeadm.exe
+FX20Assembly
+FX35Assembly
+FXAssembly
+ThisAssembly
+AssemblyRef
+CommonResStrings
+StoreAdm
+mscorlib
+System
+Object
+Version
+Title
+Description
+DefaultAlias
+Copyright
+InformationalVersion
+DailyBuildNumber
+EcmaPublicKey
+EcmaPublicKeyToken
+EcmaPublicKeyFull
+Mscorlib
+SystemData
+SystemDataOracleClient
+SystemRuntimeRemoting
+SystemWindowsForms
+SystemXml
+MicrosoftPublicKey
+MicrosoftPublicKeyToken
+MicrosoftPublicKeyFull
+SharedLibPublicKey
+SharedLibPublicKeyToken
+SharedLibPublicKeyFull
+SystemComponentModelDataAnnotations
+SystemConfiguration
+SystemConfigurationInstall
+SystemDeployment
+SystemDesign
+SystemDirectoryServices
+SystemDrawingDesign
+SystemDrawing
+SystemEnterpriseServices
+SystemManagement
+SystemMessaging
+SystemRuntimeSerializationFormattersSoap
+SystemSecurity
+SystemServiceProcess
+SystemWeb
+SystemWebAbstractions
+SystemWebDynamicData
+SystemWebDynamicDataDesign
+SystemWebEntityDesign
+SystemWebExtensions
+SystemWebExtensionsDesign
+SystemWebMobile
+SystemWebRegularExpressions
+SystemWebRouting
+SystemWebServices
+MicrosoftVisualStudio
+MicrosoftVisualStudioWindowsForms
+VJSharpCodeProvider
+ASPBrowserCapsPublicKey
+ASPBrowserCapsFactory
+MicrosoftVSDesigner
+MicrosoftVisualStudioWeb
+MicrosoftWebDesign
+MicrosoftVSDesignerMobile
+MicrosoftJScript
+System.Resources
+ResourceManager
+resmgr
+GetString
+get_CopyrightForCmdLine
+get_WcfTrademarkForCmdLine
+CopyrightForCmdLine
+WcfTrademarkForCmdLine
+s_LogoPrinted
+s_list
+s_machine
+s_roaming
+s_remove
+s_quiet
+System.IO.IsolatedStorage
+IsolatedStorageScope
+s_Scope
+s_resmgr
+g_help0
+g_help1
+g_help2
+g_help3
+g_help4
+g_help5
+g_help6
+g_help
+g_list
+g_machine
+g_roaming
+g_remove
+g_quiet
+Print
+PrintError
+Usage
+PrintLogo
+Main
+Execute
+Remove
+List
+.ctor
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+storeadm
+.cctor
+Assembly
+GetExecutingAssembly
+Console
+Write
+Environment
+get_NewLine
+String
+Concat
+System.Text
+StringBuilder
+Append
+ToString
+WriteLine
+System.Globalization
+CultureInfo
+get_InvariantCulture
+Compare
+Exception
+IsolatedStorageFile
+System.Collections
+IEnumerator
+GetEnumerator
+get_Current
+IsolatedStorage
+get_Scope
+Int32
+IFormatProvider
+get_ApplicationIdentity
+get_DomainIdentity
+get_AssemblyIdentity
+get_CurrentSize
+UInt64
+Close
+MoveNext
+storeadm.resources
+CommonResStrings.resources
+RSA1
+(]b,
+=t]o-
+storeadm.exe
+Microsoft Corporation
+Microsoft
+ .NET Framework
+ Microsoft Corporation.  All rights reserved.
+3.5.30729.1
+3.5.0.0
+en-US
+%f:\dd\Tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDSU!
+storeadm.pdb
+_CorExeMain
+mscoree.dll
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>
+Z0X03
+>0!0	
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+uM\F
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+jT;1_
+zw9gj
+s2r6
+$ROfH
+&9iPN
+t8JO0
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190115Z
+130725191115Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:85D3-305C-5BCF1%0#
+Microsoft Time-Stamp Service0
+.5kE
+bMF/
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+>gbT
+`G#{'
+"hFL
+Os	=
+z?*[FS	<
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1604
+http://microsoft.com0
+%>yQ
+;5%l
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100319175004Z0#
+pn4gm
+Y_)9

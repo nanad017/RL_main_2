@@ -1,0 +1,653 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+L$ SUVWH
+(_^][
+\$0H
+D$PI
+L$ H
+D$`M
+L$HL
+D$`L
+D$@L
+T$8A
+D$0H
+L$(E
+\$0H
+t$8H
+x ATL
+\$03
+fA9*
+fA9*
+ t"f
+t$ H
+|$(A\
+WAVAWH
+D$hH
+D$ 3
+HcL$hHct$`H
+D$hH
+L$`H
+\$PH
+t$XH
+0A_A^_
+t$ WATAUAVAWH
+u5A;
+f9\}
+\$ D
+f9\M
+\$8D
+\$0L
+\$(3
+f9\}
+\$8D
+\$0L
+|$(3
+\$ D
+\$@I
+A_A^A]A\_
+\$0H
+D$ L
+|$ 3
+d$(H
+t^H;
+D$0L
+|$03
+d$8H
+t:H;
+t:H;
+\$PL
+d$`H
+ATAVAWH
+\$@H
+t$HH
+|$PH
+ A_A^A\
+x AWH
+\$0H
+l$8H
+t$@H
+|$HH
+D$PH
+D$0H
+D$@H
+D$@L
+D$PD
+L$0H
+UVWATAUAVAWH
+D$xM
+D$XA
+\$8H
+\$(H
+\$ A
+D$X3
+\$8H
+|$(L
+D$X3
+D$hA
+\$8H
+\$(H
+\$ D
+D$h3
+\$8H
+|$(L
+l$ A
+D$h3
+D$ E
+L$xH3
+A_A^A]A\_^]
+D$ L
+D$ H
+\$@H
+t$HH
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+l$8H
+\$0H
+l$8H
+D$ L
+D$ H
+\$@H
+l$HH
+D$ L
+D$ H
+\$@H
+l$HH
+\$PH
+D$ A
+T$@H
+D$xH
+D$ A
+t$ W
+D$ H
+\$0H
+\$0H
+D$0H
+D$8E3
+|$ A
+T$0A
+|$`H
+t$XH
+WATAVH
+T$hH9\$`u
+L$`L
+t99\$@u%H
+9|$@u
+\$HH
+l$PH
+t$XH
+ A^A\_
+UVWATAUAVAWH
+@8s9
+D$(H
+D$ L
+9MotF
+9uou	E
+D$ D
+D$8H
+D$0D
+t$(H
+D$ L
+A_A^A]A\_^]
+@SUVWAUAVAW
+T$HE3
+D$HD
+|$ A
+L$@L
+|$ H
+T$PA
+D9|$@u
+L$@L
+D$PL
+|$03
+|$(L
+L$@L
+D$PL
+D$(L
+|$ H
+A_A^A]_^][
+T$03
+|$0A
+D$8E3
+SjE3
+\$PH
+D$(L
+\$@H
+u'E3
+\$0H
+UWATAVAWH
+PoE3
+\$pI
+A_A^A\_]
+@UWAWH
+u0E3
+D$(H
+pA__]
+UVWAVAWH
+\$pH
+@A_A^_^]
+t1E3
+t1E3
+t$ WH
+D$@H
+L$HH
+t$HH
+\$PH
+t$XH
+@USVWATAUAVAWH
+tF@8
+f94_u
+t>@8
+f94_u
+t$XH
+t$HH
+t$@H
+t$PL
+L$PL
+D$@H
+T$HH
+uI@8
+f94_u
+T$X3
+uf@8
+f94_u
+L$PL
+D$@H
+T$HH
+uI@8
+f94_u
+D$HH
+D$(H
+t$ L
+tdD8
+fD9<_u
+fD9<Ou
+D9=3
+L$PL
+D$@H
+T$HH
+|$hL
+|$pL
+|$xE3
+D$pH
+D$hH
+D9=f
+D$@H
+D$8H
+D$0L
+|$(H
+D$ L
+L$pH
+L$xE
+L9|$`uJE
+D$`H
+D$`H
+}@E3
+L$PL
+D$@H
+T$HH
+D$PH
+D$0H
+D$(H
+D$ L
+L$pH
+L$xE
+L$PL
+D$@H
+T$HH
+D$@H
+|$(D
+|$ L
+L$PL
+D$@H
+T$HH
+D$(H
+D$ E3
+T$PH
+L$pH
+D9|$xtCH
+L$xH
+L$pH
+A_A^A]A\_^[]
+x ATAVAWH
+|$`A
+f9\E
+l$HH
+\$@H
+ A_A^A\
+x ATAVAWH
+|$`A
+l$HH
+\$@H
+ A_A^A\
+WATAUAVAWH
+|$p3
+t_A;
+<L}uDA
+\$PH
+l$XH
+t$`H
+ A_A^A]A\_
+UATAUAVAWH
+fA9<vu
+D$ L
+D$ L
+D$ L
+A_A^A]A\]
+w4H+
+WATAUAVAWH
+fD9$Hu
+fE9$Iu
+w8L+
+fD9$_u
+t$(L
+\$ E3
+\$PI
+A_A^A]A\_
+|$ AV
+D$ H
+T$ H
+D$ H
+L$ L
+UVWATAUAVAWH
+_WH;
+D$0I
+T$8H
+fB9<Bu
+H98u
+98u	9x
+f9<Bu
+fA9<Fu
+fA9<Fu
+fA9<Vu
+D$@H
+D$(M
+D$HH
+AfA9>
+>"u%H
+fA9<Fu
+D$0H
+H98t-I9}
+H98u
+PA_A^A]A\_^]
+UWATAVAWH
+D$8H
+|$0H
+|$(H
+D$ L
+D$`L
+D$XH
+D$PA
+D$HH
+D$@H
+D$8H
+D$0H
+D$(H
+L$`A
+D$XH
+D$@H
+D$8H
+D$0H
+A_A^A\_]
+x AWH
+|$`H
+\$0H
+l$8H
+t$@H
+|$HH
+T$ H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-base-util-l1-1-0.dll
+ext-ms-win-security-credui-l1-1-0.dll
+=P=L
+!!=D
+NULL
+TRUE
+FALSE
+JA23
+RSDS
+winrs.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+CoFreeUnusedLibrariesEx
+IsTextUnicode
+CredUICmdLinePromptForCredentialsW
+winrs.exe
+??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ
+?GetInitError@CWSManCriticalSection@@QEBAKXZ
+_wcsicmp
+_strnicmp
+free
+_wcsnicmp
+malloc
+_vsnwprintf
+isdigit
+_purecall
+_snwscanf_s
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+?terminate@@YAXXZ
+ExitProcess
+GetCommandLineW
+TraceMessage
+LoadLibraryExW
+GetCurrentProcess
+WaitForSingleObject
+WriteConsoleInputA
+SetEvent
+GetModuleHandleW
+GetProcessHeap
+LoadStringW
+ReadConsoleW
+WriteFile
+GetTraceEnableFlags
+WaitForMultipleObjectsEx
+InitializeCriticalSection
+GetConsoleCP
+WideCharToMultiByte
+GetConsoleMode
+FormatMessageW
+HeapDestroy
+LeaveCriticalSection
+GetTraceLoggerHandle
+SetConsoleMode
+WriteConsoleW
+ReadFile
+GetConsoleOutputCP
+GetStdHandle
+SetThreadPreferredUILanguages
+GetLastError
+SetLastError
+SetStdHandle
+EnterCriticalSection
+CancelIoEx
+UnregisterTraceGuids
+GetFileType
+SetConsoleCtrlHandler
+CreateEventW
+HeapSetInformation
+GetTraceEnableLevel
+DeleteCriticalSection
+DuplicateHandle
+CloseHandle
+RegisterTraceGuidsW
+LocalFree
+CreateThread
+Sleep
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+TerminateProcess
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+WSManInitialize
+WSManCreateShell
+?Free@WSManMemory@@SAXPEAXH@Z
+?Alloc@WSManMemory@@SAPEAX_KHW4_NitsFaultMode@@@Z
+WSManCloseSession
+WSManSignalShell
+WSManCreateSession
+WSManSetSessionOption
+WSManCloseCommand
+WSManRunShellCommand
+WSManCloseShell
+WSManCloseOperation
+WSManSendShellInput
+??1CWSManCriticalSection@@QEAA@XZ
+WSManDeinitialize
+WSManReceiveShellOutput
+??4?$AutoDeleteVector@PEBG@@QEAAAEAV0@PEAPEBG@Z
+??0?$AutoDeleteVector@PEBG@@QEAA@XZ
+??0?$AutoDeleteVector@D@@QEAA@PEAD@Z
+??0?$AutoDeleteVector@E@@QEAA@PEAE@Z
+??1?$AutoDeleteVector@PEBG@@QEAA@XZ
+??1AutoLibrary@@QEAA@XZ
+??1?$AutoDeleteVector@D@@QEAA@XZ
+??1?$AutoDeleteVector@E@@QEAA@XZ
+??0AutoLibrary@@QEAA@PEAUHINSTANCE__@@@Z
+WsmSvc.DLL
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+ApiSetQueryApiSetPresence
+api-ms-win-core-apiquery-l1-1-0.dll
+__CxxFrameHandler3
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.WinRM.WinRS"
+    type="win32"
+<description>Windows Remote Shell command line tool</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+w9uX

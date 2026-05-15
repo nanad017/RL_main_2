@@ -1,0 +1,298 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+[^_]
+L[^_]
+[^_]
+s	B9
+[^_]
+t	C;
+[^_]
+[^_]
+[^_]
+|[^_]
+|[^_]
+L[^_]
+L[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+$pd@
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+[^_]
+[^_]
+0u	G
+0u	C
+0u	G
+	w-)
+[^_]
+[^_]
+r	9u
+r	9u
+<[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,0<	
+uu;]
+[^_]
+\[^_]
+[^_]
+Try `%s --help' for more information.
+Usage: %s [OPTION]... [FILE]...
+Write sorted concatenation of all FILE(s) to standard output.
+Mandatory arguments to long options are mandatory for short options too.
+Ordering options:
+  -b, --ignore-leading-blanks  ignore leading blanks
+  -d, --dictionary-order      consider only blanks and alphanumeric characters
+  -f, --ignore-case           fold lower case to upper case characters
+  -g, --general-numeric-sort  compare according to general numerical value
+  -i, --ignore-nonprinting    consider only printable characters
+  -M, --month-sort            compare (unknown) < `JAN' < ... < `DEC'
+  -n, --numeric-sort          compare according to string numerical value
+  -r, --reverse               reverse the result of comparisons
+Other options:
+  -c, --check               check whether input is sorted; do not sort
+  -k, --key=POS1[,POS2]     start a key at POS1, end it at POS2 (origin 1)
+  -m, --merge               merge already sorted files; do not sort
+  -o, --output=FILE         write result to FILE instead of standard output
+  -s, --stable              stabilize sort by disabling last-resort comparison
+  -S, --buffer-size=SIZE    use SIZE for main memory buffer
+  -t, --field-separator=SEP  use SEP instead of non-blank to blank transition
+  -T, --temporary-directory=DIR  use DIR for temporaries, not $TMPDIR or %s;
+                              multiple options specify multiple directories
+  -u, --unique              with -c, check for strict ordering;
+                              without -c, output only the first of an equal run
+/tmp
+  -z, --zero-terminated     end lines with 0 byte, not newline
+      --help     display this help and exit
+      --version  output version information and exit
+POS is F[.C][OPTS], where F is the field number and C the character position
+in the field.  OPTS is one or more single-letter ordering options, which
+override global ordering options for that key.  If no key is given, use the
+entire line as the key.
+SIZE may be followed by the following multiplicative suffixes:
+% 1% of memory, b 1, K 1024 (default), and so on for M, G, T, P, E, Z, Y.
+With no FILE, or when FILE is -, read standard input.
+*** WARNING ***
+The locale specified by the environment affects sort order.
+Set LC_ALL=C to get the traditional sort order that uses
+native byte values.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+-bcdfgik:mMno:rsS:t:T:uy:z
+ignore-leading-blanks
+check
+dictionary-order
+ignore-case
+general-numeric-sort
+ignore-nonprinting
+merge
+month-sort
+numeric-sort
+output
+reverse
+stable
+buffer-size
+field-separator
+temporary-directory
+unique
+zero-terminated
+help
+version
+/sortXXXXXX
+cannot create temporary file
+%s: %s
+standard output
+fflush failed
+close failed
+EgGkKmMPtTYZ
+sort size
+%s `%s' too large
+invalid character following %s in `%s'
+invalid %s `%s'
+stat failed
+read failed
+%s: %s:%s: disorder: 
+standard error
+write failed
+open failed
+warning: cannot remove: %s
+%s: count `%.*s' too large
+%s: invalid count at start of %s
+/usr/share/locale
+POSIXLY_CORRECT
+coreutils
+invalid number at field start
+incompatible tabs
+multiple output files specified
+empty tab
+multi-character tab %s
+invalid number after `,'
+stray character in field spec
+invalid number after `.'
+character offset is zero
+invalid number after `-'
+field number is zero
+%s: invalid field specification %s
+TMPDIR
+extra operand %s not allowed with -c
+Paul Eggert
+Mike Haertel
+5.97
+GNU coreutils
+sort
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+POSIX
+write error
+%s: %s
+_POSIX2_VERSION
+string comparison failed
+Set LC_ALL='C' to work around the problem.
+The strings compared were %s and %s.
+memory exhausted
+>/usr/src/coreutils/coreutils-5.97/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+Copyright %s %d Free Software Foundation, Inc.
+literal
+shell
+shell-always
+escape
+locale
+clocale
+O<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+_ctype_
+abort
+atexit
+calloc
+close
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fcntl
+fdopen
+fflush
+fileno
+fopen
+fputs
+fread
+free
+fstat
+fwrite
+getenv
+getrlimit
+localeconv
+malloc
+memchr
+memcpy
+memmove
+memset
+mkstemp
+putc
+raise
+realloc
+setlocale
+sigaction
+sigaddset
+sigemptyset
+sigismember
+signal
+sigprocmask
+stat
+strchr
+strcmp
+strcoll
+strdup
+strerror
+strlen
+strncmp
+strtod
+strtol
+sysconf
+unlink
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

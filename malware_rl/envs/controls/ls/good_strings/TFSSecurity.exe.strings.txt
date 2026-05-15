@@ -1,0 +1,916 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+w/8M
+M"?~
+PTNMPM#[
+@UQW`
++.(6
++"(\
+3u(-
++=(@
++sr)
++Fr7
++:rE
++.rS
++"ra
++.(/
+@9k	
+3A(K
+3 (#
+3m(/
+3m(/
++B	r
++$(/
++!(/
++$(/
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+wE{$
+$Access Control List on object "{0}":
+a member of {0}.
+"Adding the access control entry...
+Adding {0} to {1}...
+(Team Foundation Server application group
+4Checking the description of the application group...
+Checking group membership...
+~Microsoft (R) TFSSecurity - Team Foundation Server Security Tool
+Copyright (c) Microsoft Corporation.  All rights reserved.
+0Creating server-scope application group "{0}"...
+1Creating project-local application group "{0}"...
+!Deleting the application group...
+  Description: 
+ Display name: 
+Done.
+*Empty command-line parameters are ignored.
+(Empty command-line switches are ignored.
+<The following empty command-line switch is ignored: /server.
+-Empty TFSSECURITY_SWITCHES switch is ignored.
+Error: 
+Server scope
+   Group type: 
+Commands:
+        /i identity (/collection:CollectionURI | /server:ServerURI)
+            Displays identity information without any membership information.
+        /im identity (/collection:CollectionURI | /server:ServerURI)
+            Displays identity information with direct membership information.
+        /imx identity (/collection:CollectionURI | /server:ServerURI)
+            Displays identity information with expanded membership information.
+        /g [scope] (/collection:CollectionURI | /server:ServerURI) 
+            Lists the groups within a project scope. The project scope is a project uniform resource identifier (URI). If the scope is omitted, the groups displayed are those that belong to the scope specified by /collection or /server, depending on which was used.
+        /gcg groupName [groupDescription] (/collection:CollectionURI | /server:ServerURI)
+            Creates a collection-level or instance-level group.
+        /gc scope groupName [groupDescription] /collection:CollectionURI
+            Creates a project-level group within a project scope. The project scope is a project uniform resource identifier (URI).
+        /gun groupidentity groupname (/collection:CollectionURI | /server:ServerURI)
+            Renames a collection-level or instance-level group.
+        /gud groupidentity groupdescription (/collection:CollectionURI | /server:ServerURI)
+            Changes the description for a collection-level or instance-level group.
+        /gd groupIdentity (/collection:CollectionURI | /server:ServerURI)
+            Deletes a group from the collection-level or instance-level.
+        /g+ groupIdentity memberIdentity (/collection:CollectionURI | /server:ServerURI)
+            Adds a user or a group to an existing group.
+        /g- groupIdentity memberIdentity (/collection:CollectionURI | /server:ServerURI)
+            Removes a user or group from an existing group.
+        /m groupIdentity [memberIdentity] (/collection:CollectionURI | /server:ServerURI)
+           Checks explicit and implicit group membership information for a specified group or user.
+        /a [namespace] (/collection:CollectionURI | /server:ServerURI)
+           Displays information about what options are valid for the command at the collection-level or the instance-level, as determined by the /collection or /server parameter. If namespace is not specified, lists the available namespaces at the specified level. If a namespace is specified, lists the available actions for that namespace at the specified level.
+       /a+ namespace token action identity (ALLOW | DENY) (/collection:CollectionURI | /server:ServerURI)
+           Adds permissions for a user or group to a instance-level, collection-level, or project-level group.
+        /a- namespace token action identity (ALLOW | DENY) (/collection:CollectionURI | /server:ServerURI)
+           Removes permissions for a user or group from a instance-level, collection-level, or project-level group.
+        /acl namespace token (/collection:CollectionURI | /server:ServerURI)
+            Displays the access control list for a particular object.
+Specifying the server or the collection:
+    One of the two following parameters is required. The parameter is used to specify the level.
+       /collection:CollectionURI - Required if /server is not used. Specifies the URI of the team project collection. The group will be created at the collection-level. The format for the URI is http://ServerName:port/VirtualDirectoryName/CollectionName
+       /server:ServerURI - Required if /collection is not used. Specifies the URI of an application-tier server. The group will be created at the instance-level. The format for the URI is http://ServerName:port/VirtualDirectoryName
+Identity Specifiers:
+        sid:sid - References the identity with the specified SID.
+            Example:   sid:S-1-5-21-2127521184-1604012920-1887927527-588340
+        n:[domain\]name - References the identity with the specified name. For Windows, name is the logon name. If the referenced identity is in a domain, the domain name is required.  For application groups, name is the group display name and domain is the URI or GUID of the containing project. In this context, if domain is omitted, the scope is assumed to be collection-level.
+            Example: To reference the identity of the user "John Peoples" in the domain "Datum1" at the fictitious company "A. Datum Corporation, you would use the following syntax:
+                n:DATUM1\jpeoples
+            Example: To reference application groups, you could use either of the following syntaxes:
+                n:"Full-time Employees"
+                n:00a10d23-7d45-4439-981b-d3b3e0b0b1ee\Vendors
+        adm:[scope] - References the administrative application group for the scope, such as "Team Foundation Administrators" for the instance-level, or "Project Collection Administrators" at the collection-level. The optional parameter scope is a project URI or URL, including its GUID and connection string. If scope is omitted, the server or collection scope is assumed based on whether the /server or /collection parameter is used, but the colon is still required.
+            Example:  adm:vstfs:///Classification/TeamProject/GUID 
+        srv: - References the application group for service accounts.
+        all: - References all groups and identities.
+Examples of TFSSecurity commands and syntax:
+The following example displays identity information for the "Team Foundation Administrators" group on the application tier: 
+tfssecurity /i "Team Foundation Administrators" /instance:ADatumCorporation:8080
+The following example grants the instance-level "View instance-level information" permission to the ADatumCorporation deployment for the Datum1 domain user John Peoples (Datum1\jpeoples):
+>tfssecurity /a+ Server FrameworkGlobalSecurity GenericRead n:Datum1\jpeoples ALLOW /server:http://ADatumCorporation:8080 
+The following example checks if the user "Datum1\jpeoples" belongs to the Team Foundation Administrators instance-level group:
+>TFSSecurity /m "Team Foundation Administrators" n:Datum1\jpeoples /server:http://ADatumCorporation:8080
+The following example displays identity information for the Project Collection Administrators group in the "DatumOne" team project collection in the domain "Datum1" at the fictitious company "A. Datum Corporation" using the adm: identity specifier:
+>tfssecurity /imx adm: /collection:http://ADatumCorporation:8080/DatumOne
+Type Markers:
+    The following identity type markers are used in output messages:
+        [U] - Windows user
+        [G] - Windows group
+        [A] - A group specific to Team Foundation Server, such as 
+Project Administrators
+      a [A] - Administrative group
+      e [A] - Everyone group
+      s [A] - Service account group
+        [X] - The identity is not valid.
+        [?] - The identity type is not known.
+    The following access control entry markers are used in output messages:
+        [+] - ALLOW access control entry
+        [-] - DENY access control entry
+      * [ ] - Inherited access control entry
+ The identity cannot be resolved.
+Identity type: 
+"Insufficient number of parameters.
+Unrecognized
+.The access control entry type is invalid: {0}.
+9The action {0} is invalid for the security namespace {1}.
+2Unrecognized command-line switch is ignored: /{0}.
+Error: Please specify a server.
+&The returned identity is unrecognized.
+7Ignoring unrecognized TFSSECURITY_SWITCHES switch: {0}.
+ IS 
+ IS NOT 
+The example companies, organizations, products, domain names, e-mail addresses, logos, people, places, and events depicted herein are fictitious.  No association with any real company, organization, product, domain name, email address, logo, person, places, or events is intended or should be inferred.
+   Logon name: 
+ Mail address: 
+Member of {0} group(s):
+{0} member(s):
+No command to execute.
+TF56045: The group, {0}, resolved as a Windows identity. If an application group with the same name exists on the server, you must specify a 'domain' that is either '[{1}]', the project URI, or the project name. For example:
+          n:"[{1}\]Service Accounts"
+          n:"[Team Project\]Project Administrators"
+          n:"[vstfs:///Classification/TeamProject/00a10d23-7d45-4439-981b-d3b3e0b0b1ee\]Project Administrators"
+      <null identity>
+Project scope: 
+RQuality assurance automation mode is enabled. Volatile information will be hidden.
+$Removing the access control entry...
+Removing {0} from {1}...
+!Renaming the application group...
+Resolving identity "{0}"...
+6Retrieving the access control list for object "{0}"...
+GRetrieving the list of application groups within the specified scope...
+*The security namespace {0} does not exist.
+BThe following actions are available in the security namespace {0}:
+PThe following security namespaces are available to have permissions set on them:
+01 superfluous command-line parameter is ignored.
+4{0} superfluous command-line parameters are ignored.
+1Superfluous command-line switch is ignored: /{0}.
+4Superfluous command-line switch is ignored: /{0}{1}.
+<Superfluous TFSSECURITY_SWITCHES switch is ignored: /{0}{1}.
+)The target Team Foundation Server is {0}.
+Unknown
+aNo security namespace matches {0}.  TfsSecurity will assume that {0} is meant to be the objectId.
+Verifying...
+WARNING: {0}
+Windows group
+Windows userBSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+TFSSecurity.exe
+GssUtil
+Microsoft.TeamFoundation.Server
+GssUtilResources
+mscorlib
+System
+Object
+ServerGlobal
+c_collectionSwitch
+c_serverSwitch
+c_collectionEnvSwitch
+c_serverEnvSwitch
+PrintHelp
+Microsoft.TeamFoundation.Client
+Microsoft.TeamFoundation.Framework.Client
+TeamFoundationIdentity
+PrintIdentity
+PrintIdentityBrief
+SecurityNamespaceDescription
+AccessControlEntry
+PrintACE
+AccessControlList
+PrintACL
+Warn
+Microsoft.TeamFoundation.Common
+Microsoft.TeamFoundation.Framework.Common
+MembershipQuery
+ReadIdentityOptions
+ResolveIdentityInternal
+ResolveIdentity
+IdentityDescriptor
+ReadIdentityWithWait
+Main
+SecurityNamespace
+DetermineACEValues
+DetermineSecurityNamespace
+PerformAuthorizationReadAcl
+PerformAuthorizationAceRemove
+PerformAuthorizationAceAdd
+TfsConnection
+InitializeProxies
+IIdentityManagementService
+s_identityManagement
+ISecurityService
+s_securityService
+IAuthorizationService
+s_authorizationService
+s_server
+System.Collections.Generic
+Dictionary`2
+s_securityNamespaces
+.ctor
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_ACLOnObject
+get_AddingAccessControlEntry
+get_AddingMemberToGroup
+get_AMemberOf
+get_CapitalTFSApplicationGroup
+get_ChangingApplicationGroupDescription
+get_CheckingGroupMembership
+get_CopyrightStatement
+get_CreatingGlobalApplicationGroup
+get_CreatingLocalApplicationGroup
+get_DeletingApplicationGroup
+get_Description
+get_DisplayName
+get_Done
+get_EmptyCommandParameter
+get_EmptyCommandSwitchIgnored
+get_EmptyCommandSwitchWithDomainIgnored
+get_EmptySwitches
+get_Error
+get_Global
+get_GroupType
+get_HelpCommands
+get_HelpDomain
+get_HelpIdentity
+get_HelpSecurity
+get_HelpTypes
+get_IdentityCannotBeResolved
+get_IdentityType
+get_InsufficientNumberOfParameters
+get_Invalid
+get_InvalidAccessControlException
+get_InvalidAction
+get_InvalidCommandSwitchIgnored
+get_InvalidNoServer
+get_InvalidReturnedIdentity
+get_InvalidSwitchesIgnored
+get_Is
+get_IsNot
+get_LegalStatement
+get_LogonName
+get_MailAddress
+get_MemberOf
+get_Members
+get_NoCommandToExecute
+get_NotApplicationGroup
+get_NullIdentity
+get_ProjectScope
+get_QAAutomationModelEnabled
+get_RemovingAccessControlEntry
+get_RemovingMemberFromGroup
+get_RenamingApplicationGroup
+get_ResolvingIdentity
+get_RetrievingAccessControlList
+get_RetrievingApplicationGroups
+get_SecurityNamespaceDoesNotExist
+get_ShowActions
+get_ShowNamespaces
+get_SuperfluousCommandParameterIgnored
+get_SuperfluousCommandParametersIgnored
+get_SuperfluousCommandSwitchIgnored
+get_SuperfluousCommandSwitchIgnoredWithDomain
+get_SuperfluousSwitchIgnored
+get_TargetTFSDomain
+get_Unknown
+get_UsingAuthorizationBecauseOfFormat
+get_Verifying
+get_Warning
+get_WindowsGroup
+get_WindowsUser
+Culture
+ACLOnObject
+AddingAccessControlEntry
+AddingMemberToGroup
+AMemberOf
+CapitalTFSApplicationGroup
+ChangingApplicationGroupDescription
+CheckingGroupMembership
+CopyrightStatement
+CreatingGlobalApplicationGroup
+CreatingLocalApplicationGroup
+DeletingApplicationGroup
+Description
+DisplayName
+Done
+EmptyCommandParameter
+EmptyCommandSwitchIgnored
+EmptyCommandSwitchWithDomainIgnored
+EmptySwitches
+Error
+Global
+GroupType
+HelpCommands
+HelpDomain
+HelpIdentity
+HelpSecurity
+HelpTypes
+IdentityCannotBeResolved
+IdentityType
+InsufficientNumberOfParameters
+Invalid
+InvalidAccessControlException
+InvalidAction
+InvalidCommandSwitchIgnored
+InvalidNoServer
+InvalidReturnedIdentity
+InvalidSwitchesIgnored
+IsNot
+LegalStatement
+LogonName
+MailAddress
+MemberOf
+Members
+NoCommandToExecute
+NotApplicationGroup
+NullIdentity
+ProjectScope
+QAAutomationModelEnabled
+RemovingAccessControlEntry
+RemovingMemberFromGroup
+RenamingApplicationGroup
+ResolvingIdentity
+RetrievingAccessControlList
+RetrievingApplicationGroups
+SecurityNamespaceDoesNotExist
+ShowActions
+ShowNamespaces
+SuperfluousCommandParameterIgnored
+SuperfluousCommandParametersIgnored
+SuperfluousCommandSwitchIgnored
+SuperfluousCommandSwitchIgnoredWithDomain
+SuperfluousSwitchIgnored
+TargetTFSDomain
+Unknown
+UsingAuthorizationBecauseOfFormat
+Verifying
+Warning
+WindowsGroup
+WindowsUser
+description
+token
+warning
+queryMembership
+readIdentityOptions
+printIdentity
+descriptor
+args
+operation
+securityNamespace
+System.Runtime.InteropServices
+OutAttribute
+allowPermission
+denyPermission
+server
+value
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Security.Permissions
+EnvironmentPermissionAttribute
+SecurityAction
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+TFSSecurity
+Console
+WriteLine
+Write
+get_Descriptor
+get_Identifier
+Microsoft.TeamFoundation
+IdentityAttributeTags
+DistinguishedName
+String
+Empty
+GetAttribute
+get_IsContainer
+Identity
+GetType
+IdentityHelper
+GroupSpecialType
+GetGroupSpecialType
+ApplicationGroupSpecialType
+Domain
+get_IdentityDomainScope
+StringComparison
+Equals
+ScopeName
+IsNullOrEmpty
+GetDomainUserName
+get_Length
+get_CurrentCulture
+NumberFormatInfo
+get_InvariantInfo
+Int32
+IFormatProvider
+ToString
+Format
+ReadIdentities
+StringComparer
+get_OrdinalIgnoreCase
+IdentityConstants
+TeamFoundationType
+AccountName
+op_Equality
+Trim
+Char
+Concat
+ReadIdentity
+System.Collections.ObjectModel
+ReadOnlyCollection`1
+ActionDefinition
+get_Actions
+IEnumerator`1
+GetEnumerator
+get_Current
+get_Deny
+get_Bit
+get_Allow
+get_Name
+PadRight
+Substring
+System.Collections
+IEnumerator
+MoveNext
+IDisposable
+Dispose
+IEnumerable`1
+get_AccessControlEntries
+get_InvariantCulture
+ToLower
+CreateDescriptorFromSid
+IdentitySearchFactor
+GroupWellKnownDescriptors
+ServiceUsersGroup
+EveryoneGroup
+NamespaceAdministratorsGroup
+Exception
+get_IsActive
+System.Threading
+Thread
+Sleep
+STAThreadAttribute
+get_CurrentThread
+get_CurrentUICulture
+GetConsoleFallbackUICulture
+set_CurrentUICulture
+System.Text
+Encoding
+get_OutputEncoding
+get_CodePage
+get_UTF8
+TextInfo
+get_TextInfo
+get_OEMCodePage
+get_ANSICodePage
+<PrivateImplementationDetails>{97C29E6F-215F-4617-BEB2-DE1B5147832D}
+CompilerGeneratedAttribute
+ValueType
+__StaticArrayInitTypeSize=72
+$$method0x600000a-1
+RuntimeHelpers
+Array
+RuntimeFieldHandle
+InitializeArray
+$$method0x600000a-2
+ConsoleHost
+Initialize
+ArrayList
+Environment
+GetEnvironmentVariable
+Split
+get_Chars
+StartsWith
+ToUpper
+TfsTeamProjectCollection
+GetFullyQualifiedUriForName
+TfsTeamProjectCollectionFactory
+GetTeamProjectCollection
+TfsConfigurationServer
+TfsConfigurationServerFactory
+GetConfigurationServer
+get_Count
+CopyTo
+get_Uri
+get_Message
+Exit
+$$method0x600000a-3
+TryGetValue
+CreateApplicationGroup
+ListApplicationGroups
+TFStringComparer
+get_CommandLineOptionName
+GroupProperty
+UpdateApplicationGroup
+DeleteApplicationGroup
+AddMemberToApplicationGroup
+RemoveMemberFromApplicationGroup
+get_UserName
+IsMember
+SetPermissions
+QueryAccessControlList
+QueryAccessControlEntry
+RemovePermissions
+SetAccessControlList
+KeyCollection
+get_Keys
+Enumerator
+get_InnerException
+GetBitmaskForAction
+ReadAccessControlList
+RemoveAccessControlEntry
+AddAccessControlEntry
+Deny
+ActionId
+EnsureAuthenticated
+GetService
+GetSecurityNamespaces
+set_Item
+.cctor
+IEqualityComparer`1
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+GssUtilResources.resources
+RSA1
+(]b,
+=t]o-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+TFSSecurity.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+System.Security.Permissions.EnvironmentPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Read
+TFSSECURITY_SWITCHES
+RSDSs
+f:\binaries\Intermediate\vset\gssutil.csproj_1535107074\objr\x86\TFSSecurity.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="11.0.0.0" name="TFSSecurity.exe"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Because of bug 827232, we need to remove Win7 compat GUID -->
+      <!--The ID below indicates application support for Windows 7
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+       -->
+      <!--The ID below indicates application support for Windows Vista -->
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+    </application>
+  </compatibility>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120220213647Z
+130520214647Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+x\Dwa
+Y&E;
+?q0v
+M`;(
+IGvE
+z72k
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+gl\o}
+_Gj:
+ic37?H+
+)e\e
+Io7_r
+&r>e0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+"<=Qf0J
+1<0:
+http://microsoft.com0
+-XlS
+,lO|l
+Wh:6
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023050Z0#
+};@]
+8.A	
+nKEF
+UP=%
+)]9v
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1<0:
+http://microsoft.com0
+KrC?
+3NfR
+E`KP
+.3R_IZ
+ja{L
+Hr88
+20120727023052.049Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+^~}_x%
+4RA4
+E>p.l
+hOnT
+Hs4~

@@ -1,0 +1,485 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+.t}!+
+*.r/
+*.rO
+*F~#
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+)SQL Monitor encountered unexpected error.
+BSQL Monitor encountered unexpected error. Do you want to continue?
+SQL Monitor
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+J	+	
+e	+	
+	+	"
+<Module>
+SQLMonitor.exe
+AssemblyVersionInfo
+MonitorLauncher
+Microsoft.SqlServer.Management.UI
+MonitorMainSR
+Keys
+mscorlib
+System
+Object
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+Main
+UnhandledExceptionEventArgs
+UnExceptionHandler
+System.Threading
+ThreadExceptionEventArgs
+ThreadExceptionHandler
+.ctor
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+get_ErrorSQLMonitor
+get_ErrorSQLMonitorContinue
+get_SQLMonitorTitle
+Culture
+ErrorSQLMonitor
+ErrorSQLMonitorContinue
+SQLMonitorTitle
+System.Resources
+ResourceManager
+resourceManager
+_culture
+GetString
+args
+sender
+value
+System.Runtime.InteropServices
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCultureAttribute
+NeutralResourcesLanguageAttribute
+AssemblyTrademarkAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+SQLMonitor
+STAThreadAttribute
+AppDomain
+get_CurrentDomain
+UnhandledExceptionEventHandler
+add_UnhandledException
+ThreadExceptionEventHandler
+System.Windows.Forms
+Application
+add_ThreadException
+Microsoft.SqlServer.MonitorFramework
+MonitorForm
+Control
+Focus
+BringToFront
+Form
+DialogResult
+ShowDialog
+System.ComponentModel
+Component
+Dispose
+ApplicationException
+Exception
+Microsoft.SqlServer.CustomControls
+SqlExceptionMessageBox
+Microsoft.NetEnterpriseServers.ExceptionMessageBox
+Microsoft.NetEnterpriseServers
+ExceptionMessageBoxButtons
+ExceptionMessageBoxSymbol
+ExceptionMessageBox
+set_Caption
+IWin32Window
+Show
+Exit
+get_ExceptionObject
+ThreadAbortException
+Thread
+get_CurrentThread
+get_IsBackground
+get_Exception
+CompilerGeneratedAttribute
+.cctor
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+get_FullName
+Module
+get_Module
+Assembly
+get_Assembly
+Microsoft.SqlServer.Management.UI.MonitorMainSR.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+Microsoft SQL Server
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1846 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+SQL Monitor
+en-US
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+WrapNonExceptionThrows
+RSDS
+SQLMonitor.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+        <assemblyIdentity
+                        version="1.0.0.0"
+                        processorArchitecture="x86"
+                        name="SQLMonitor"
+                        type="win32" />
+        <description>SQL Server Replication Monitor Tool</description>
+	<ms_asmv2:trustInfo xmlns:ms_asmv2="urn:schemas-microsoft-com:asm.v2">
+		<ms_asmv2:security>
+			<ms_asmv2:requestedPrivileges>
+        			<ms_asmv2:requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      			</ms_asmv2:requestedPrivileges>
+    		</ms_asmv2:security>
+  	</ms_asmv2:trustInfo>
+</assembly>
+!u{wy|
+7rjgYNLE?
+)%%%
+8bnkeVOA
+'%%%
+&pvxl
+>;%%
+@<:%
+]KHFB
+f_UPID
+ti`RQG
+MWY[adcjmso~
+4230.-+
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1D0B
+http://www.microsoft.com/sql0
+DR@b
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181220Z0#
+e&Qi
+?%9~
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1D0B
+http://www.microsoft.com/sql0
+S.RH.
+w>(h>
+ji;h
+0!0	
+O1&"W
+20120211181222.545Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+,9].x
+5"IK
+q6ci

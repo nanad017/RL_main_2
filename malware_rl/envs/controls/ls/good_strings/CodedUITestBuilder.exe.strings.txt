@@ -1,0 +1,560 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+M5S;
+WsVkuh
+YM>I
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+CodedUITestBuilder.exe
+DefaultCodedUITestService
+Microsoft.VisualStudio.TestTools.UITest.CodedUITest.CodedUITestBuilder
+Program
+mscorlib
+System
+Object
+Microsoft.VisualStudio.QualityTools.CodedUITestFramework
+Microsoft.VisualStudio.TestTools.UITesting
+ICodedUITestService
+GetUIMap
+System.Collections.Generic
+Dictionary`2
+GetVSUISettings
+ShowF1Help
+SaveUIMap
+UIClosed
+GetUITestFileName
+.ctor
+sqmAppId
+Main
+ParseArgument
+GetCodedUITestService
+GetIpcCodedUIService
+EventArgs
+visualStudio_Exited
+GetSqmLogDirectory
+pipeName
+parentPid
+locale
+System.Runtime.InteropServices
+OutAttribute
+vsIcon
+brushes
+environmentFont
+fontSize
+context
+uiTest
+args
+sender
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+System.Resources
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+CodedUITestBuilder
+Microsoft.VisualStudio.TestTools.UITest.Common
+UITest
+System.Collections.ObjectModel
+Collection`1
+Microsoft.VisualStudio.TestTools.UITest.Common.UIMap
+UIMap
+get_Maps
+CodedUITestServiceUtility
+GetXMLOfUITest
+STAThreadAttribute
+Microsoft.VisualStudio.TestTools.UITest.Extension
+UITestTraceUtility
+TextWriterTraceListener
+StartTracing
+Environment
+get_CommandLine
+EqtTrace
+Info
+String
+IsNullOrEmpty
+Microsoft.VisualStudio.QualityTools.Sqm
+Microsoft.VisualStudio.TestTools.Diagnostics
+NonVSSqmClient
+SqmTrace
+IVsttSqm
+Initialize
+SimpleTimer
+AutoWaitCursor
+Process
+GetProcessById
+set_EnableRaisingEvents
+EventHandler
+add_Exited
+System.Configuration
+ConfigurationManager
+Configuration
+ConfigurationUserLevel
+OpenExeConfiguration
+PresentationFramework
+System.Windows
+Application
+Microsoft.VisualStudio.QualityTools.CodedUITest.Controls
+Microsoft.VisualStudio.TestTools.CodedUITest.Controls.CodedUITestBuilder
+UITestBuilder
+IDisposable
+Dispose
+OrderOfInvoke
+Window
+Cleanup
+StringComparison
+StartsWith
+IndexOf
+Substring
+Int32
+TryParse
+ArgumentException
+Equals
+Exit
+System.Runtime.Remoting
+System.Runtime.Remoting.Channels
+BinaryClientFormatterSinkProvider
+BinaryServerFormatterSinkProvider
+System.Runtime.Serialization.Formatters
+TypeFilterLevel
+set_TypeFilterLevel
+System.Collections
+Hashtable
+System.Globalization
+CultureInfo
+get_InvariantCulture
+IFormatProvider
+Format
+set_Item
+get_Item
+System.Security.Principal
+WindowsIdentity
+GetCurrent
+System.Security.Claims
+ClaimsIdentity
+get_Name
+System.Runtime.Remoting.Channels.Ipc
+IpcChannel
+IDictionary
+IClientChannelSinkProvider
+IServerChannelSinkProvider
+ChannelServices
+IChannel
+RegisterChannel
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Activator
+GetObject
+SpecialFolder
+GetFolderPath
+Assembly
+GetExecutingAssembly
+AssemblyName
+GetName
+Version
+get_Version
+get_Major
+get_Minor
+System.IO
+Path
+Combine
+Directory
+Exists
+DirectoryInfo
+CreateDirectory
+Error
+Exception
+IOException
+RSA1
+(]b,
+=t]o-
+6N5	 
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+Coded UI Test Builder
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\vset\codeduitestbuilder.csproj__754714006\objr\x86\CodedUITestBuilder.pdb
+_CorExeMain
+mscoree.dll
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUW
+UUUUUUUUUUUUUU
+uUUUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUW
+UUUUUxuUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUUUxUUUU
+UUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUUW
+UUUUUUUUUUUU
+uUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUU
+uUUWUUX
+UUWUUX
+UUUUUU
+uUUUUUUUUUUUUUUUUU
+IHDR
+	pHYs
+IDATx
+#1F4
+g^k-
+	g4W
+#%o<
+p*-=
+MNO~
+ 6L~
+BQwI
+%MsM
+,ZQ?
+PYU!
+y${T
+KHkK
+-@Hl8
+@p.p
+u5E}
+bK`7
++{7u
+9q4kr
+ p|(#
+ p|(#{7u
+F39y
+b4e~
+_:dx
+@(Z[
+7	}B
+9`z8%!
+Ig'}>
+@21(
+KDaD 
+%"2a
+IEND
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <!-- This makes sure that EnumWindow returns Windows Store apps windows as well.-->
+      <disableWindowFiltering xmlns="http://schemas.microsoft.com/SMI/2011/WindowsSettings">true</disableWindowFiltering>
+    </windowsSettings>
+  </application>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120220213647Z
+130520214647Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+x\Dwa
+Y&E;
+?q0v
+M`;(
+IGvE
+z72k
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+gl\o}
+_Gj:
+ic37?H+
+)e\e
+Io7_r
+&r>e0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1J0H
+http://microsoft.com0
+&t_Ya
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023038Z0#
+,\!v
+e%/-H
+o}WT
+A'Gc
+)ER+@
+1G8\
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1J0H
+http://microsoft.com0
+kK,d&)
+<KCC
+h4xC
+20120727023040.498Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+MwhC
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+ gW)u
+'x.y

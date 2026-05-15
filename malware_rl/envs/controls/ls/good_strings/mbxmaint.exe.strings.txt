@@ -1,0 +1,1834 @@
+This program must be run under Win32
+.text
+`.data
+.tls
+.rdata
+P.idata
+@.edata
+@.reloc
+= !B
+YKuOj
+h0!B
+= !B
+Rhd#B
+hh#B
+Sh^$B
+[u#j	h
+u;j=
+t$GW
+5 !B
+VjOhDnB
+h,%B
+h/%B
+hX%B
+5(!B
+h[%B
+h^%B
+h)&B
+h6&B
+5$!B
+hn&B
+5(!B
+hq&B
+ht&B
+5 !B
+hDnB
+h8'B
+5(!B
+ha'B
+hI(B
+hn(B
+5$!B
+5(!B
+9nt	
+9yt	
+8Yur
+h3)B
+h`)B
+FF;u
+PjeV
+RjfV
+h0!B
+h0!B
+h0!B
+h5*B
+5(!B
+RjeV
+Qh<*B
+hW*B
+h-+B
+RjeV
+RjeV
+PjeV
+YjeV
+QjeV
+PjeV
+RjfV
+QjfV
+PjfV
+PjeV
+hX+B
+h_+B
+hg+B
+hp+B
+hz+B
+QjXS
+5T!B
+5X!B
+H}RV
+= !B
+5X!B
+= !B
+=$!B
+= !B
+5X!B
+= !B
+SVWh
+h#,B
+h&,B
+Yhd,B
+hg,B
+[u#j	h
+u4j=
+h4-B
+= !B
+h8-B
+= !B
+ulh<&@
+hR-B
+VjfW
+ulhW-B
+tCha-B
+hl-B
+= !B
+hq-B
+PjgW
+= !B
+= !B
+h*.B
+h4.B
+^h>.B
+'hH.B
+Fn_^[]
+SVW3
+@_^[
+h41B
+he1B
+hj1B
+h>2B
+hH3B
+YhM3B
+hP3B
+SVW3
+h24B
+t+ha4B
+h15B
+h`5B
+YHuI
+VhI6B
+h,7B
+h17B
+h57B
+h97B
+h>7B
+hB7B
+hL7B
+JROWhV7B
+>-uR
+>h	>B
+Rh&>B
+t6ItD
+<,u	
+t5C3
+t C3
+;@tsj:S
+Sh+>B
+Sh/>B
+Sh5>B
+Sh9>B
+tzj>
+teh>>B
+v%j:S
+hB>B
+hF>B
+hJ>B
+<"uo
+hP>B
+Y_^[
+t%Jt?
+_^[]
+^[Y]
+SVW3
+t!JtJ
+hR>B
+hh>B
+h~>B
+QSVW
+_^[Y]
+4j:V
+=l9B
+Hu$j*
+5p9B
+h#?B
+5p9B
+,h*?B
+ht9B
+j2h|9B
+h4?B
+h9?B
+h<?B
+SVW3
+hA?B
+h(@B
+hv@B
+h{@B
+}(h@AB
+}&hqAB
+= !B
+u,h<&@
+h*BB
+htBB
+ShTCB
+RhoCB
+h|CB
+Ph~DB
+t`PS
+SVW3
+_^[]
+Yj.P
+?[u+W
+;"u!
+<3"u
+@u%S
+_^[]
+QSVW
+_^[Y]
+_^[]
+_^[]
+t?j,j
+QSVW
+_^[Y]
+_^[]
+h*EB
+h.EB
+h2EB
+h6EB
+_^[]
+=0DB
+h:EB
+=1DB
+h>EB
+LCSVW
+_^[]
+h@EB
+hDEB
+hGEB
+YjeS
+t#hJEB
+hOEB
+j1jeS
+j0jeS
+hREB
+hXEB
+haEB
+hiEB
+PhjEB
+hlEB
+hnEB
+hpEB
+YPh	
+3u%j
+Xu>j
+8u(h
+Cu)j
+hrEB
+hsEB
+PhtEB
+PVj0S
+PhvEB
+@uCh
+_^[]
+5$FB
+YPh	
+GWVS
+RjeS
+ VjeS
+t!jP
+t#P3
+ _^[YY]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+=1FB
+_^[]
+QSVW
+K5)O
+_^[Y]
+F5)C
+N5)K
+SVWj
+QWSV
+_^[]
+t WS
+_^[]
+QSVW
+_^[Y]
+SWh[
+_^[]
+%u)SVW
+t(SVW
+_^[]
+=LpB
+vMhJ
+;VA}
+5TpB
+PhfFB
+h\FB
+5TpB
+PhqFB
+hgFB
+=0FB
+=LpB
+6WhW
+@tP3
+vMhJ
+;N%}
+=0FB
+;V%u
+=0FB
+=2FB
+=LpB
+=$pB
+=%pB
+h)pB
+5 pB
+5 pB
+=&pB
+=(FB
+=,FB
+=HpB
+5,FB
+=HpB
+5(FB
+h)pB
+=(FB
+5(FB
+=,FB
+5,FB
+h)pB
+h)pB
+=HFB
+5HFB
+5 FB
+5HFB
+h)pB
+=LpB
+5TpB
+5TpB
+=(FB
+5(FB
+FI;E
+@t7f
+;FIu7f
+=HFB
+5HFB
+=$pB
+=&pB
+=(FB
+5(FB
+=,FB
+5,FB
+=LpB
+h9pB
+=(pB
+=LpB
+h)pB
+h)pB
+h)pB
+h)pB
+;N)~
+;V)}
+=LpB
+F1;E
+v%VW
+V%;V
+I;N%u
+V%;V
+I;N%u
+=0FB
+V);U
+F);E
+=LpB
+v%hQ
+v%VW
+=LpB
+v%hQ
+=LpB
+;F%u9f
+hrFB
+5 FB
+5TpB
+5TpB
+5TpB
+5$FB
+5TpB
+5$FB
+h\pB
+h\pB
+P9Sj
+h\pB
+A9Sj
+QSVW
+_^[Y]
+_^[]
+_^[]
+C\Pj
+;KT~
+;CT}*W
+_^[YY]
+tMVj
+_^[]
+t#j(V
+ u#V
+=|pB
+5ppB
+t$kC
+YPWS
+SVWj
+QSVWj
+_^[Y]
+JtsJ
+SVWj
+u>VW
+ tIj
+QSVW
+_^[Y]
+bj(j
+_^[YY]
+QSVW
+_^[Y]
+SVW3
+_^[YY]
+hCGB
+ C;]
+ u/;]
+hDGB
+QSVW
+_^[Y]
+hHGB
+hRGB
+h`GB
+hiGB
+Y_^[
+Y_^[
+h'IB
+h.IB
+xTh3IB
+xTh<IB
+xThDIB
+xTkS
+Pt/3
+SVW3
+u	ks
+@hKIB
+CPG;}
+hLIB
+t<Ht
+t<Ht
+hVOA
+PhMIB
+Yh[IB
+t^Vj
+_^[]
+_^[]
+r!t-
+G$Jt
+t?BCIu
+AFOu
+_^[]
+QSVW
+_^[Y]
+_^[]
+_^[]
+_^[]
+^[YY]
+RVWS
+RVWS
+_^[YY]
+SVWj
+QSVW
+_^[Y]
+h!LB
+_^[]
+hALB
+h(LB
+hWLB
+hNLB
+_^[]
+hvLB
+h^LB
+,^[]
+p(SR
+;s(t
+C(;E
+h!MB
+S,;U
+hDMB
+h(MB
+hbMB
+hKMB
+hiMB
+h	NB
+h'NB
+SUVW
+_^][
+V(;U
+;^0t
+hJNB
+h.NB
+hqNB
+t	;]
+**BCCxh1U
+SUVW
+_^][
+h;OB
+;K s
+hBOB
+s(VS
+_^[]
+hIPB
+h!PB
+hnPB
+hPPB
+huPB
+_^[YY]
+h,QB
+hXQB
+h3QB
+_^[]
+h_QB
+haRB
+hhRB
+~ ;}
+h+SB
+h'SB
+h:SB
+h6SB
+hQSB
+hESB
+hhSB
+h\SB
+_^[]
+hsSB
+_^[YY]
+QSVW
+_^[Y]
+hHTB
+hSTB
+h6UB
+hKUB
+hAUB
+h}UB
+hVUB
+h	qB
+_^[YY]
+h	qB
+QSVW
+_^[Y]
+h	VB
+typeinfo *
+Bad_typeid
+Bad_cast
+typeinfo
+_^[]
+_^[]
+~k;E
+Gu	;u
+_^[YY]
+SVWU
+]_^[
+A<ru	3
+5<wu
+A<+t
+9+u <tt
+2<bu
+#<+t
+[YY]
+PShL
+QSVW
+_^[Y]
+_^[YY]
+Y_^[]
+_^[]
+@t,j
+_^[]
+_^[]
+QSVW
+_^[Y]
+Sh<VB
+Ph<VB
+h<VB
+_^[]
+h4`B
+hP`B
+hm`B
+Y^[]
+=0`B
+SXRPS
+KP[]
+{PP|
+C\[]
+%u8F3
+:+u1
+_^[]
+_^[YY]
+twSj
+FSWV
+t>;u
+_^[YY]
+t	;E
+!sK3
+h%aB
+Y^[]
+^YY]
+h:aB
+L_^[
+SVW3
+Hu 3
+t	Ht
+_^[]
+QSVW
+t*;]
+H_^[Y]
+tC;]
+e@FBC;u
+USVW3
+_^[]
+USVW
+_^[]
+USVW3
+_^[]
+USVW
+_^[]
+SVW3
+_^[]
+h+gB
+hhgB
+iXD5NZ
+_^[]
+SVWj
+Wj0S
+_^[]
+SVWj
+Ft,f
+Wj0S
+-LhB
+-thB
+SVWf
+GYf=
+SVWf
+GYf=
+-RiB
+- iB
+-*iB
+-4iB
+->iB
+-HiB
+h`iB
+_^[]
+RQ;5
+_^[YY]
+_^[]
+SVWUQ
+Z]_^[
+QSVW
+_^[Y]
+QSVW
+_^[Y]
+wDPR
+_^[]
+QSVW
+_^[Y]
+BF;5
+v9VW
+=$jB
+tQjP
+PSVj
+h(jB
+YPVS
+h+jB
+=$jB
+T$!Rh0jB
+YPVS
+YPWS
+Y_^[]
+hTjB
+hajB
+hpjB
+h|jB
+<2=t
+_^[]
+SVWU
+D<"u%
+YZ]_^[
+_^[]
+Sh(kB
+QSVW
+h0kB
+Y_^[Y]
+h8kB
+SVWUQ
+=luB
+hXkB
+=luB
+Z]_^[
+hukB
+hxuB
+QSVW
+tcIt:Itp
+_^[Y]
+u2j(
+_^[]
+t	RS
+_^[]
+h|uB
+h lB
+Y_^[
+h8lB
+=0nB
+QSVW
+_^[Y]
+QSVW
+_^[Y]
+QSVW
+=0nB
+WCSV
+_^[Y]
+SVWU
+h<nB
+]_^[
+Borland C++ - Copyright 1996 Borland Intl.
+Pegasus Mail Mailbox Maintenance
+Pegasus Mail/Mercury mailbox maintenance commandline utility
+Copyright (c) 1990-2011, David Harris, all rights reserved.
+Commandline usage -
+   MBXMAINT <command_filename> | <option [option...]>
+      -QU[IET]
+      -CH[ECK] <folder_pmm_path_with_optional_wildcards>
+      -CO[MPRESS] <folder_pmm_path_with_optional_wildcards>
+      -MO[VE] <source_path> <dest_path>
+      -RE[PAIR] <folder_pmm_path>
+      -FI[XIDS] <folder_pmm_path>
+-----------------------------------------------------
+-----------------------------------------------------
+Pegasus Mail folder files (*.PMM)
+*.PMM
+All files (*.*)
+Pegasus Mail Settings files (PMAIL.INI)
+PMAIL.INI
+All files (*.*)
+Attempting to read mailbox location from '%.40s'...
+Could not open '%.60s'.
+[GENERAL]
+#028 No commands to process.
+#029 Invalid command on commandline.
+#030 -USER command incomplete or invalid
+#031 -MOVE command incomplete or invalid
+#032 -REPAIR command incomplete or invalid
+-REPAIR command failed.
+** Errors occurred while checking message IDs.
+#033 -CHECK command incomplete or invalid
+#034 -WAIT command incomplete or invalid
+MAILBOX*.LCK
+#035 -WAIT command timed out waiting for lock to expire
+#036 -COMPRESS command incomplete or invalid
+#038 -FIXIDS command incomplete or invalid
+-FIXIDS command failed.
+#029 Invalid command on commandline.
+#030 -USER command incomplete or invalid
+#031 -MOVE command incomplete or invalid
+#032 -REPAIR command incomplete or invalid
+-REPAIR command failed.
+Folder repair completed normally - checking message IDs...
+** Errors occurred while checking message IDs.
+ID checking and correction completed without errors.
+Folder '%s' repaired successfully.
+#033 -CHECK command incomplete or invalid
+#034 -WAIT command incomplete or invalid
+MAILBOX*.LCK
+#035 -WAIT command timed out waiting for lock to expire
+#037 -RU only supported by GUI application.
+#036 -COMPRESS command incomplete or invalid
+#038 -FIXIDS command incomplete or invalid
+-FIXIDS command failed.
+Must enter values in both fields.
+PMAIL.INI
+There is no PMAIL.INI in the source directory you have entered.
+Unable to determine mailbox location.
+E_MOVE
+Repairing folder '%s'...
+** Errors occurred while repairing the folder.
+Folder repair completed normally - checking message IDs...
+** Errors occurred while checking message IDs.
+ID checking and correction completed without errors.
+** Repair process completed normally. **
+T_MOVE
+T_CHECK
+T_REPAIR
+T_COMPACT
+T_FIXIDS
+USAGE
+#040 Could not open command file '%.60s'
+Home mailbox location
+Patching user's PMAIL.INI settings file to use new location...
+#002 Could not open user's existing PMAIL.INI for patching.
+#001 Could not create temporary file for INI patching.
+[GENERAL]
+#003 MOVE: source directory does not exist.
+#004 MOVE: cannot create destination directory.
+Moving mailbox from '%s' to '%s'...
+Preparing to move data...
+MOVE
+PMAIL.INI
+HOMEBOX.PM
+.CNM
+Moving %d files, %dKB
+PMAIL.INI
+HOMEBOX.PM
+.CNM
+Moving '%s'...
+#004 MOVE: An error occurred copying '%.40s' - move aborted.
+*** Cleaning up...
+Cleaning up source directory...
+PMAIL.INI
+PMAIL.INI
+PMAIL.INI
+#005 Could not locate user's PMAIL.INI for patching.
+INIERR
+Mailbox successfully moved.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+No problems were encountered in this folder
+Error opening folder master file
+Error opening folder index file
+Index file length not multiple of IMESSAGE size
+Unexpected EOF encountered in index file
+IMESSAGE numbering sequence is invalid in index
+Location indicated in master file is out of bounds
+Seek failure in master file
+Character before start of message is not Ctrl+Z.
+Folder contains messages with non-unique IDs
+%d %s %d %d:%02d
+#072 Could not open the specified folder master file.
+#073 Could not open a temporary file needed for the rebuild operation.
+#074 Unable to proceed with rebuild operation.
+.old
+#075 Error renaming damaged master folder.
+#076 Error copying scrubbed master file '%s'.
+#077 Error restoring original folder master file.
+**** This indicates a serious system error at the Windows level.
+**** To recover the folder, you must manually locate the file -
+****    '%s'
+**** and copy it to the following filename:
+****    '%s'
+#077 Master file restored, but the operation cannot continue.
+#006 Could not open the specified folder master file.
+.PMI
+#007 Could not create the specified folder's new index file.
+%s.CNR
+#008 Parser failure during rebuild operation (badly corrupt master file?)
+.CNM
+.PMI
+#039 Could not open the specified folder's existing index file.
+Folder contains no messages - nothing to do.
+#045 Folder index is an invalid size - aborting.
+#040 Memory allocation error while loading folder index.
+#041 File read error while loading folder index.
+#042 Could not create unique ID for message.
+#043 Could not create unique ID for message.
+#044 Could not create unique ID for message.
+#041 File write error saving index - you will need to rebuild this folder.
+Made %d ID corrections to folder '%s'.
+.PNM
+MercuryI UID mapping file '%s' is now invalid - removing it.
+No ID corrections were required in folder '%s'.
+#041 No matching folder files found.
+Correcting IDs in '%s'...
+** Errors occurred while checking message IDs.
+** ID checking and correction completed without errors. **
+.PMI
+.PMM
+#009 %s
+#010 %s
+Message %d: expected Ctrl+Z at offset %ld.
+Warning: message %d has non-unique ID part (%s)
+#%03d Folder contains %d messages with non-unique IDs
+#%03d %s
+#041 No matching folder files found.
+Checking '%s'...
+!! Found internal consistency error:
+%.60s
+** Note **
+Non-unique IDs are only a problem if you access this folder via IMAP.
+You can fix non-unique IDs using the 'Fix IDs' tab without otherwise
+altering or rebuilding the folder.
+Folder appears OK - no consistency errors encountered.
+Unknown
+(None)
+(THIS FILE MUST BE CONVERTED WITH BINHEX
+FROM
+SUBJ
+SUBJECT
+REPLY-TO
+DATE
+SENT
+X-FILE
+X-PMUUE
+X-PMENC
+X-PMRQC
+X-CS
+RESENT-FROM
+PRIORITY
+MIME-VERSION
+X-BINHEX
+EXPIRY-DATE
+X-PMFLAGS
+X-CONFIRM-READING-TO
+X-ENCLOSURE-INFO
+CONTENT-TYPE
+X-PM-ENCRYPTOR
+X-PM-CIRCULATE-TO
+X-PMDFROM
+X-PMDSUBJECT
+X-PRIORITY
+IMPORTANCE
+RETURN-PATH
+RECEIVED
+From:
+Reply-to:
+Bcc:
+Subject:
+Date:
+X-To:
+Copies-to:
+Organization:
+Priority:
+Importance:
+Sender:
+%2d %s %02d %2d:%02d
+ -:,
+%2d %s %02d %2d:%02d
+SMTP:
+MHS:
+SMTP:
+[Invalid data format]
+[Invalid data format]
+[Invalid data format]
+[Invalid data format]
+SMF-71
+URGENT
+HIGH
+MULTIPART
+/ALTERNATIVE
+TEXT/HTML
+TEXT/ENRICHED
+TEXT/X-RTF
+TEXT/RTF
+MESSAGE/RFC822
+begin 
+{\rtf
+.PMM
+.$$$
+Compacting folder '%.50s':
+Performing pre-compaction consistency check...
+#017 Could not compact folder because it failed a consistency check.
+.PMI
+.PMI
+Now compacting folder to recover space occupied by deleted messages...
+#018 Could not open folder index file: check that the folder is not in use.
+.PMM
+#019 Could not open folder master file: check that the folder is not in use.
+#020 Could not create a temporary file for compaction.
+#021 Could not create a temporary file (2) for compaction.
+#022 Could not open temporary compaction file.
+#023 Could not open temporary compaction file (2).
+#024 An error occurred writing the folder header during compaction.
+#025 An I/O error occurred while compacting the folder.
+#51 Could not remove old folder file. The folder is now in an undefined
+#51 state and must be rebuilt using the 'Repair' option. Note that this
+#51 error is external, and may indicate a problem with file server rights
+#51 in the mailbox directory, or a disk related problem on your system.
+#51 - Windows error #%lu
+#51 - "%s"
+Folder '%.50s' successfully compacted.
+GTXT
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+"%s"
+%04X
+%c:\
+Date: %s, %u %s %u %02u:%02u:%02u
+%u %s %u %02u:%02u:%02u
+System
+%s%s
+%s\%s
+EDIT
+COMBOBOX
+LISTBOX
+BUTTON
+BMBNdh
+TEMP
+BTMP
+.TMP
+.BAK
+FEDIT
+COMBOBOX
+STATIC
+%c%02d%02d
+LDUwin
+All files (*.*)
+All files (*.*)
+EDIT
+%d %s %02d, %d:%02d
+%d %s %02d
+%d %s %02d, %d:%02d:%02d
+&(!".-
+%'$#
+LDUwin
+Frame3DH
+SCROLLBAR
+SCROLLBAR
+MSWHEEL_ROLLMSG
+LDUwin
+LDUwin
+BMBNdh
+FBYH
+GAUGE
+%d%%
+HEADCTRL_DH
+TABCTRL_DH
+EAEIIOOUUYIOU
+ICONV.DLL
+libiconv_open
+libiconv
+libiconv_close
+UCS-2-INTERNAL
+%s//IGNORE//TRANSLIT
+UCS-2-INTERNAL
+DH_MPCTRL
+DLG1
+DLG2
+DLG1
+DLG2
+LDUwin
+EDIT
+COMBOBOX
+LISTBOX
+BUTTON
+MS Sans Serif
+Stack Overflow!
+(ctorMask & 0x0100) != 0 || (ctorMask & 0x0020) == 0
+XX.CPP
+(ctorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(dtorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(mfnMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+cctrAddr
+XX.CPP
+dtorAddr
+XX.CPP
+argType
+XX.CPP
+__CPPexceptionList
+XX.CPP
+XX.CPP
+xdrPtr->xdERRaddr == xl
+XX.CPP
+dscPtr->xdERRaddr == errPtr
+XX.CPP
+dscPtr->xdHtabAdr == hdtPtr
+XX.CPP
+dscPtr->xdArgCopy == 0
+XX.CPP
+(dscPtr->xdMask & TM_IS_PTR) == 0
+XX.CPP
+mask & TM_IS_PTR
+XX.CPP
+dscPtr->xdMask & TM_IS_PTR
+XX.CPP
+dscPtr->xdTypeID == dscPtr->xdBase
+XX.CPP
+hdtPtr->HDcctrAddr
+XX.CPP
+dscPtr->xdSize == size
+XX.CPP
+xdrPtr && xdrPtr == *xdrLPP
+XX.CPP
+bogus context in Local_unwind()
+!"bogus context in Local_unwind()"
+XX.CPP
+bogus context in _ExceptionHandler()
+!"bogus context in _ExceptionHandler()"
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpClass.tpcDtorAddr
+XX.CPP
+(errPtr->ERRcInitDtc >= varType->tpClass.tpcDtorCount) || flags
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+dtorCnt < varCount
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+memType
+XX.CPP
+memType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_ARRAY
+XX.CPP
+varType->tpArr.tpaElemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+vdtCount
+XX.CPP
+etdCount <= elemCount || elemCount == 0
+XX.CPP
+dtrCount <= vdtCount
+XX.CPP
+IS_CLASS(varType->tpMask)
+XX.CPP
+((unsigned __far *)vftAddr)[-1] == 0
+XX.CPP
+dttPtr->dttFlags & (DTCVF_PTRVAL|DTCVF_RETVAL)
+XX.CPP
+dttPtr->dttType->tpMask & TM_IS_PTR
+XX.CPP
+dttPtr->dttType->tpPtr.tppBaseType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+IS_CLASS(dttPtr->dttType->tpMask) && (dttPtr->dttType->tpClass.tpcFlags & CF_HAS_DTOR)
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+elemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_PTR
+XX.CPP
+dtCnt >= 0
+XX.CPP
+**BCCxh1
+<notype>
+id->tpName
+XXTYPE.CPP
+XXTYPE.CPP
+XXTYPE.CPP
+tp1->tpName
+XXTYPE.CPP
+tp2->tpName
+XXTYPE.CPP
+IS_STRUC(base->tpMask)
+XXTYPE.CPP
+IS_STRUC(derv->tpMask)
+XXTYPE.CPP
+derv->tpClass.tpcFlags & CF_HAS_BASES
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+topTypPtr != 0 && IS_STRUC(topTypPtr->tpMask)
+XXTYPE.CPP
+tgtTypPtr != 0 && IS_STRUC(tgtTypPtr->tpMask)
+XXTYPE.CPP
+srcTypPtr == 0 || IS_STRUC(srcTypPtr->tpMask)
+XXTYPE.CPP
+__isSameTypeID(srcTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+tgtTypPtr != 0 && __isSameTypeID(topTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+srcTypPtr
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+addr
+XXTYPE.CPP
+Can't adjust class address (no base class entry found)
+!"Can't adjust class address (no base class entry found)"
+XXTYPE.CPP
+.$$$
+Error 0
+Invalid function number
+No such file or directory
+Path not found
+Too many open files
+Permission denied
+Bad file number
+Memory arena trashed
+Not enough memory
+Invalid memory block address
+Invalid environment
+Invalid format
+Invalid access code
+Invalid data
+Bad address
+No such device
+Attempted to remove current directory
+Not same device
+No more files
+Invalid argument
+Arg list too big
+Exec format error
+Cross-device link
+Too many open files
+No child processes
+Inappropriate I/O control operation
+Executable file in use
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Math argument
+Result too large
+File already exists
+Possible deadlock
+Operation not permitted
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Resource temporarily unavailable
+Block device required
+Resource busy
+Not a directory
+Is a directory
+Filename too long
+Unknown error
+creating global stream lock
+allocating stream lock table
+creating stream lock
+(null)
+allocating handle lock table
+creating handle lock
+creating global handle lock
+),(((((),(((
+*(((
+($v)
+%H:%M:%S
+%m/%d/%y
+%A, %B %d, %Y
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+printf : floating point formats not linked
+scanf : floating point formats not linked
+printf : floating point formats not linked
+scanf : floating point formats not linked
+-INF
++INF
+-NAN
++NAN
+Error: system code page access failure; MBCS table not initialized
+creating heap lock
+Assertion failed: 
+, file 
+, line 
+%02d/%02d/%04d %2d:%02d:%02d.%02d 
+kernel32.dll
+GetProcAddress
+Borland32
+Abnormal program termination
+No space for copy of command line
+No space for command line argument vector
+No space for command line argument
+PATH
+Out of memory in _setargv0
+GetEnvironmentStrings failed
+Could not allocate memory for environment block
+creating environment lock
+creating atexit lock
+creating thread data lock
+Semaphore error 
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+KERNEL32.dll
+COMDLG32.dll
+GDI32.dll
+SHELL32.dll
+USER32.dll
+CloseHandle
+CreateDirectoryA
+CreateFileA
+CreateFileW
+DeleteFileA
+DeleteFileW
+EnterCriticalSection
+ExitProcess
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FindClose
+FindFirstFileA
+FindNextFileA
+FindResourceA
+FormatMessageA
+FreeLibrary
+FreeResource
+GetACP
+GetCPInfo
+GetCommandLineA
+GetCurrentDirectoryA
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetDateFormatA
+GetDiskFreeSpaceA
+GetDriveTypeA
+GetEnvironmentStrings
+GetEnvironmentVariableA
+GetFileAttributesA
+GetFileAttributesW
+GetFileSize
+GetFileType
+GetFullPathNameA
+GetLastError
+GetLocalTime
+GetLogicalDrives
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetStdHandle
+GetStringTypeW
+GetSystemDirectoryA
+GetTickCount
+GetTimeZoneInformation
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalAlloc
+GlobalLock
+GlobalMemoryStatus
+GlobalUnlock
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+LoadResource
+LocalAlloc
+LocalFree
+LockResource
+MoveFileA
+MultiByteToWideChar
+RaiseException
+ReadFile
+RtlUnwind
+SetConsoleCtrlHandler
+SetCurrentDirectoryA
+SetEnvironmentVariableA
+SetFilePointer
+SetHandleCount
+Sleep
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+UnhandledExceptionFilter
+VirtualAlloc
+VirtualFree
+VirtualQuery
+WideCharToMultiByte
+WinExec
+WriteFile
+lstrcmpiA
+lstrcpyA
+lstrcpynA
+lstrlenA
+GetOpenFileNameA
+GetSaveFileNameA
+BitBlt
+CreateBitmap
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateFontA
+CreateFontIndirectA
+CreatePen
+CreateSolidBrush
+DPtoLP
+DeleteDC
+DeleteObject
+Ellipse
+ExtCreatePen
+ExtTextOutA
+GetDeviceCaps
+GetNearestColor
+GetObjectA
+GetPixel
+GetStockObject
+GetTextExtentPoint32A
+GetTextMetricsA
+IntersectClipRect
+LineTo
+MoveToEx
+Rectangle
+SelectObject
+SetBkColor
+SetBkMode
+SetPixel
+SetPixelV
+SetROP2
+SetStretchBltMode
+SetTextAlign
+SetTextColor
+StretchBlt
+SHBrowseForFolderA
+SHGetMalloc
+SHGetPathFromIDListA
+BeginPaint
+CallWindowProcA
+CharUpperA
+ClientToScreen
+CloseClipboard
+CreateDialogIndirectParamA
+CreateDialogParamA
+CreateWindowExA
+DefWindowProcA
+DestroyCursor
+DestroyWindow
+DialogBoxParamA
+DrawFocusRect
+DrawTextA
+EmptyClipboard
+EnableWindow
+EndDialog
+EndPaint
+EnumChildWindows
+EnumThreadWindows
+FillRect
+GetActiveWindow
+GetAsyncKeyState
+GetClassLongA
+GetClassNameA
+GetClientRect
+GetCursorPos
+GetDC
+GetDesktopWindow
+GetDlgCtrlID
+GetDlgItem
+GetDlgItemTextA
+GetDoubleClickTime
+GetFocus
+GetKeyboardState
+GetParent
+GetScrollPos
+GetSysColor
+GetSystemMetrics
+GetUpdateRect
+GetWindow
+GetWindowLongA
+GetWindowPlacement
+GetWindowRect
+GetWindowTextA
+GetWindowTextLengthA
+GrayStringA
+InflateRect
+InvalidateRect
+InvertRect
+IsCharAlphaNumericA
+IsWindow
+IsWindowEnabled
+KillTimer
+LoadBitmapA
+LoadCursorA
+LoadStringA
+MapWindowPoints
+MessageBeep
+MessageBoxA
+MoveWindow
+OpenClipboard
+PostMessageA
+PtInRect
+RegisterClassA
+RegisterWindowMessageA
+ReleaseCapture
+ReleaseDC
+ScreenToClient
+ScrollDC
+SendDlgItemMessageA
+SendMessageA
+SetCapture
+SetClassLongA
+SetClipboardData
+SetCursor
+SetDlgItemTextA
+SetFocus
+SetForegroundWindow
+SetScrollInfo
+SetScrollPos
+SetScrollRange
+SetTimer
+SetWindowLongA
+SetWindowPos
+SetWindowTextA
+ShowWindow
+UnregisterClassA
+UpdateWindow
+WinHelpA
+WindowFromPoint
+wsprintfA
+mbxmaint.exe
+__GetExceptDLLinfo
+task_proc
+@__lockDebuggerData$qv
+@__unlockDebuggerData$qv
+___CPPdebugHook
+__DebuggerHookData
+&<;<
+=E=e=]>b>x>
+>4?M?
+?B1H1
+4%4[4p4
+5>6U6p6
+6(7?7d7
+919P9g9
+9I:e:~:
+;.;`;
+0	0/0;0N0T0e0
+6 6$6(6,6064686
+=U1m1
+1%2.2M2d2x2
+:3:O:|:
+4%4B4
+003D3X3l3
+5S5\5a5q5
+6(6/6
+7=7J7
+798o8
+0O0t0
+1#1K1j1
+1	2n3
+4.444G4
+5!5J5y5
+6"7K7
+7!8 949V9
+:":T;
+<F<]<i<
+?	>,>L>m>
+3j5n5r5v5z5~5
+1I1|1
+2$4/4x4
+5K6n6
+8=<Q<e<y<G=
+?4;B;
+;b<v<
+<)=U=
+=/>v>
+>T5X5\5`5d5h5l5p5t5x5|5
+:a0y0
+2[2v2
+9#9M9l9
+9$:Y:
+2Q3Z3k3y3
+4#444B4`4f4p4
+8"7+7
+?%?=?
+566W6Y8
+;$;B;
+?J7^7z7
+3-3q3
+3*4=4^4w4
+575E5X5m5
+5V7,<8<><
+5v?z?~?
+?q1h1
+6<7R7[7
+314m4
+5(6j6
+95:T:
+0.090]0
+9':/:4:
+<v={=S>X>
+>#:,:C= >
+:1:i:r:~:
+:r;{;
+9T9b9x9
+:(:<:H:
+<!</<g<
+4:4]4p4
+6"6&6*6.626
+;!;%;);-;
+0t0}0
+0M3`3
+050@0L0
+182?2M2^2
+2U2s2
+3+414
+91:=:
+<F:R:
+9>;B;F;J;N;R;V;Z;^;b;f;j;n;r;v;z;g8
+9<9w9
+4f6~6
+9,<7<a<
+4A4d4s4
+616@6l6
+6[7h7u7
+<k=Z>
+0K1Y1
+>(>I>Q>\>e>n>
+?)?1?7???D?U?_?i?z?
+0U0~0
+1%121:1I1Z1g1o1
+273@3\3j3
+1'1@5D5H5L5P5T5X5\5k8o8s8w8{8
+8n:S;c;
+0"060?0K0S0[0b0r0
+0B0`0f0z0
+=w=~=
+>*>6>?>H>R>]>
+?X?a?j?v?
+?n?z?
+<G=U=Z=
+4Z?^?b?f?j?n?r?/6q6
+<71<1S1X1
+3V3d3i3
+778<8
+8b9g9
+9L:Q:p:u:
+;Y;^;
+=J=O=j=o=
+2X2]2u2z2
+4#5(5V5[5'6,6G6L6n6s6
+6J7O7
+8;8@8
+9j:o:
+?,<=<B<m<r<
+0B1G1h1m1
+=`071
+143U3
+5-6=6e6z6
+8)9-9195999=9A9E9I9M9Q9U9Y9]9a9e9i9m9q9u9y9}9
+343Y3q3
+545Q5
+:):<:M:e:z:
+:/;7;u;
+<U=R;
+;b<d=
+;H;i;
+9,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:
+;3=N=
+=$>_>
+-0O0
+051b1P1i1
+1$262m2
+7!7?7C7G7K7O7S7W7[7_7c7g7k7o7
+597E7Q7]7
+9N;U;
+;b=l=f=p=Z>a>
+534<4F4U4^4h4
+4T5z5
+9'969?9I9
+98:^:h:b:l:
+?+?6?v?
+7"878D8J8R8f8
+8#9P9
+9<:r:
+;#<0<c<n<
+<4=E=W=
+=X>c>
+1.1B1V1j1H0j0
+1E2Z2e2z2
+2*2K2k2
+3H3^3
+6b6t6
+;K<W<
+<y;4=Z=
+:l;Q<e<x<
+:?<E<
+=}>@?I?Y?i?
+'000
+324;4D4N4[4g4y4
+5"5;5V5
+6"696S6
+6	7F747
+7w8|8
+9E9Q9]9i9}9
+9A:L:-;
+;4<N>
+<,=8=
+0=031"181+0Q0t0
+1.1=1
+2,30373R1
+2 3B3n3
+3L465O5
+5#626
+7%7m7
+7@8^8
+8 8&8,82888>8D8J8P8V8\8
+6&6,626:6@6F6L6R6X6^6d6j6p6v6|6
+7$7*70767<7B7H7N7T7Z7`7f7l7r7x7~7~4
+5 5&5,52585>5F5L5R5X5^5d5j5p5v5|5
+0#020@0
+0:3@3F3L3R3X3^3d3j3p3v3|3
+4$4*40464<4B4H4N4T4Z4`4f4l4r4x4
+0 0&0,02080>0D0J0P0V0\0b0h0n0t0z0
+1T1X1\1`1d1h1l1p1t1x1|1
+: :$:(:,:0:4:8:<:@:D:H:T:X:\:`:d:h:l:p:t:x:|:
+4 4$4(4,4 6$6
+9<:h9t9x9
+;H;h;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<
+6X7\7`7d7
+:h<l<p<t<x<|<
+=4>8>
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+Z0X03
+>0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+100510000000Z
+150510235959Z0~1
+Greater Manchester1
+Salford1
+COMODO CA Limited1$0"
+COMODO Time Stamping Signer0
+GS@(YC
+F@@!
+}Pb 
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+uu,:
+*5C|k
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+111006000000Z
+161005235959Z0
+90581
+Otago1
+Dunedin1
+Moray Place1
+P.O. Box 54511
+David Harris1
+David Harris0
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0$
+David.Harris@pmail.gen.nz0
+kr\toq}
+&:Cg
+whV^	G
++dqx
+f~E1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+v^-%s
+1D0B
+http://www.pmail.com0
+Z}%N
++mE{
+f}#%d
+S[%u
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+111220123917Z0#
+}<77

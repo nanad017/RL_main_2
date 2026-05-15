@@ -1,0 +1,2343 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+WVSH
+t$(H
+L$HH
+L$HH
+L$HH
+L$HL
+L$HE1
+P[^_
+P[^_
+ATUWVSH
+\$Pt
+l$`1
+*t$T
+T$Pf
+L$@A
++D$T
+D+D$PH
+L$(H
+L$PI
+l$TE1
+d$XC
+<If.
+~!Ic
+D$8d
+D$ d
+[^_]A\
+l$`1
+\$PH
+AVAUATUWVSH
+T$LH
+L$XH
+T$PI
+D$\H
+D$ A
+T$XH
++T$PD
+D$\D+D$T
+L$X+L$P
+4@Hc
++D$T
+D$X+D$P
+d$TE1
+D;d$\
+D$PH
+D$XL
+L$PK
+;L$X|6
+LcD$pL
+9L$X~#D
+D9d$\
+[^_]A\A]A^
+D$XD
+9l$\D
+,R~KLc
+D$XD
+D$PD)
+D$ H
+9l$\
+t$@H
+T$0I
+L$0L
+L$8E1
+T$8H
+AWAVAUATUWVSH
+t$p1
+L$0H
+t$pH
+|$0H
+[^_]A\A]A^A_
+L$(H
+AWAVAUATUWVSH
+|$@H
+|$8H
+T$PH
+t$(L
+D$p1
+t$0H
+D$ d
+[^_]A\A]A^A_
+WVSH
+ [^_
+UWVSH
+HcC@
+L$(H
+L$(H
+L$(H
+L$(H
+L$(H
+8[^_]
+AWAVAUATUWVSH
+\$ H
+d$(H
+\$ H
+d$(H
+\$ L
+d$(H
+d$(L
+l$ L
+HcS@I
+l$xH
+T$@H
+l$xH
+t$0f
+l$@H
+l$xH
+t$0f
+T$@H
+t$0H
+l$@H
+t$0I
+t$xA
+T$@H
+[^_]A\A]A^A_
+D$XH
+D$8H
+D$0H
+D$(H
+AUATUWVSH
+D$LH
+D$ H
+T$@L
+L$HL
+[^_]A\A]
+D$LH
+L$DH
+D$@H
+D$LHc
+D$`H
+D$tD
+T$lD+T$DE
+D$h+D$@H
+D9L$p
+HcD$dA
+D9\$t
+D$`H
+l$tD
+T$lD+T$DE
+D$h+D$@H
+D9L$p
+HcD$dA
+D9\$t
+D$tD
+L$lD+L$D
+T$h+T$@H
+9L$p
+HcD$dA
+D9T$t
+D$hD
+d$l+D$@D+d$DE
+D$pL
+HcD$dH
+D9l$t
+D$LH
+AWAVAUATUWVSH
+D$LH
+d$\H
+l$XH
+|$TL
+l$ H
+[^_]A\A]A^A_
+d$ H
+T$PI
+D$XH
+D$PH
+D$pL
+D$|+D$T
+T$x+T$P
+HcT$tA
+D$\D
+L$XD
+D$ H
+D$|+D$T
+D$xD+D$P
+HcT$tA
+*L$L
+D$|+L$P+D$T
+<IMc
+HcD$tI
+D$|+D$T
+t$xD+t$P
+HcT$tA
+ATUWVSH
+0[^_]A\
+UWVSH
+|$@E1
+|$0H
+|$(H
+T$ H
+h[^_]
+defaultbH
+defaultpH
+rush.pgm
+aper.pgmH
+L$(H
+L$(H
+L$(H
+AWAVAUATUWVSH
+l$xM
+t$p1
+D$0H
+l$xM
+t$pA
+T$0H
+l$xM
+t$pA
+T$0H
+t$(H
+l$ H
+t$(L
+l$ H
+t$(L
+l$ H
+t$(H
+t$(L
+|$ H
+t$(L
+|$ H
+t$(H
+t$(H
+|$0H
+[^_]A\A]A^A_
+AVAUATUWVSH
+)t$p
+D$@x
+D$Ax
+D$Bx
+T$ A
+(t$p
+[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+ATUWVSH
+)t$0
+)|$@D
+)D$PD
+)L$`D
+)T$pD
+(t$0
+(|$@
+(D$PD
+(L$`D
+(T$pD
+[^_]A\
+UWVSH
+)t$p
+D$Px
+D$Qx
+D$Rx
+(t$p
+[^_]
+)t$ 
+(t$ H
+(t$ H
+P0Hc
+)t$ 
+(t$ H
+B Hc
+(t$ H
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$PE1
+t$@H
+t$0H
+t$(H
+T$ H
+|$(H
+T$hH
+T$PH
+T$8H
+|$pH
+l$xI
+t$H1
+l$@H
+l$xI
+t$HH
+D$PH
+l$xI
+t$PA
+T$8H
+t$PI
+t$0H
+l$8H
+[^_]A\A]A^A_
+ATUWVSH
+\$`H
+T$@I
+[^_]A\
+L$@L
+L$HE1
+T$HH
+t$PH
+D$Tf
+9l$T
+D$8d
+D$ d
+[^_]A\
+WVSH
+L$(H
+L$(H
+0[^_
+AWAVAUATUWVSH
+t$xH
+D$PH
+D$@H
+[^_]A\A]A^A_
+WVSH
+L$(H
+0[^_
+AWAVAUATUWVSH
+t$(H
+T$PH
+|$8L
+|$xH
+t$0H
+D$ d
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+)t$`
+)|$pD
+D$<D
+D$PH
+|$(D
+l$ D
+|$(L
+T$@D
+D$DD
+L$LD
+T$HHc
+T$@D
+D$DD
+T$HD
+L$LD
+L$<D
+T$@D
+D$DD
+T$HD
+t$<C
+D$HA
+L$LD
+T$@D
+T$DD
+D$HD
+(t$`
+(|$pD
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$<I
+L$<E1
+H[^_]A\A]A^A_
+;#u+I
+)D$ f
+(D$ H
+AUATUWVSH
+)t$0
+)|$@D
+)D$Pf
+D$ H
+t$(A
+D$(H
+(t$0
+(|$@D
+(D$PH
+h[^_]A\A]
+WVSH
+)t$0
+)|$@f
+D$(D
+(t$0
+(|$@
+D$(H
+P[^_
+AVAUATUWVSH
+t$ A
+D$,H
+T$ E1
+~_Hc
+[^_]A\A]A^
+l$ L
+VUUU
+WVSH
+ [^_
+AUATUWVSH
+)t$@
+)|$PD
+)D$`D
+)L$pD
+L$0fD
+L$8H
+(t$@
+(|$PD
+(D$`
+D$4D
+(L$pD
+D$8H
+[^_]A\A]
+L$(fD
+AWAVAUATUWVSH
+L$0D
+D$09
+4@~t
+L$(L
+~DMc
+D$(Ic
+L$$M
+L$8I9
+D$8H
+H[^_]A\A]A^A_
+AWAVAUATUWVSH
+D$8A
+D$`A
+D$,H
+|$`1
+D$XH
+L$,E
+D$0Lc
+l$@O
+t$HH
+D$8L
+D$XH
+D$,E
+D$`C
+D$bD
+|$0L
+Hcl$8A9
+t$HE1
+|$PH
+d$0Mc
+T$PO
+D$@D
+|$8L
+L$0L
+l$HHcl$8L
+|$`A
+D$HA
+L$@N
+t$PD
+|$\H
+L$p1
+D9l$,D
+Nl$X
+N\$<)
+\$<A)
+D$p9
+~IMc
+T$,M
+L$xL9
+9l$<u
+D$xI
+D$pA
+D$tA
+[^_]A\A]A^A_
+t$PL
+D9t$,
+L$XL
+D+|$8
+t$HL
+D$`C
+\$<H
+l$,f
+l$8D9
+D$<L
+D$bxl
+\$<f
+D$`C
+AVAUATUWVSH
+T$$E
+D$(D9
+T$ D
+4vMc
+\$(E
+\$(E
+T$ A
+9L$ 
+T$$A
+D$(H
+0[^_]A\A]A^
+9L$ 
+WVSH
+0[^_
+t$ I
+0[^_
+AWAVAUATUWVSH
+d$@D
+T$0L
+L$HM
+}^HcL$,D
+vLcd$(Mc
+L$ A
+L$HA
+|$ )
+D$DA9
+}OHcl$,D
+<vLcd$(Mc
+L$HI
+T$(Hc
+D$DD9
+LcT$,D
+d$HK
+D9L$D
+D$HH
+X[^_]A\A]A^A_
+AUATUWVSH
+\$ E1
+[^_]A\A]
+D$ H
+AWAVAUATUWVSH
+D$LE
+Hct$T
+D$DH
+t$0D
+L$HD9L$D
+\$41
+T$@A
+D$(A
+D;t$(
+u*E9M
+T$,D;L$0u
+D$4H
+\$8A9
+t$TA9E
+D$`A
+D$dA
+D$hI
+x[^_]A\A]A^A_
+AWAVAUATUWVSH
+)|$ 
+(|$ H
+8[^_]A\A]A^A_
+)t$ 
+)|$0D
+)D$@D
+)L$PD
+)T$`D
+)\$p
+(t$ 
+(|$0D
+(D$@D
+(L$PD
+(T$`D
+(\$pH
+WVSH
+|$pH
+t$ I
+ATUWVS
+[^_]A\A]
+[^_]A\A]
+\$0H
+D$ A
+\$@H
+T$0I
+L$0L
+L$8E1
+T$8H
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+L$`D
+L$`H
+D$@H
+D$`H
+D$hH
+T$pL
+D$rH
+L$qH
+D$PH
+L$PL
+|$@L
+t$8I
+l$0H
+D$HH
+D$XH
+D$(H
+D$PH
+|$hL
+l$0I
+t$(H
+|$hL
+|$`H
+|$`H
+WVSH
+ [^_
+ATUWVSH
+`[^_]A\
+|$@E1
+|$0H
+|$(H
+T$ H
+`[^_]A\
+AWAVAUATUWVSH
+\$PI
+[^_]A\A]A^A_
+T$@	
+T$@	
+|$O@
+D$OA
+L$8A
+D$@H
+\$ H
+WVSH
+\$PH
+T$8I
+p[^_
+L$8L
+L$@H
+L$8E1
+p[^_
+\$@H
+WVSH
+H;0t
+ [^_
+ [^_
+\$@H
+T$0I
+L$0L
+L$8E1
+D$8H
+AWAVAUATUWVSH
+L$8H
+\$ A
+D$0E1
+L$8H
+H[^_]A\A]A^A_
+ATUWVSH
+@[^_]A\
+@[^_]A\
+UWVSH
+8[^_]
+zsuq
+AWAVAUATUWVSH
+)t$0
+)|$@D
+)D$PD
+)L$`L
+\=-;
+\$ H
+|$,I
+|$(1
+D9d$
+L$(1
+l$,Hc
+D$(f
+Hcl$
+\$ A
+(t$0
+(|$@D
+(D$PD
+(L$`H
+x[^_]A\A]A^A_
+AWAVAUATUWVSH
+)t$`
+)|$pD
+D$PH
+D$XHc
+|$@H
+D$8H
+|$8H
+t$(1
+T$HD
+~pHc
+l$$1
+9t$$
+|$89
+|$0H
+(t$`
+(|$pD
+[^_]A\A]A^A_
+T$8fD
+AWAVAUATUWVSH
+Hc|$l
+D$(A
+D$lI
+|$pE1
+l$xf
+\$Xf
+D$l1
+\$XL
+\$X1
+L$xH
+D$ H
+|$XD
+l$l1
+|$`H
+|$(A
+|$XD
++|$p+l$x
+[^_]A\A]A^A_
+~'Ic
+~EIc
+D$xE
+,IMc
+T$pH
+D$ A
+D$pD
+Hct$XH
+|$p1
+\$xL
+|$XH
+*L$XE
+;D$l
+t$@L
+|$8H
+l$(D
+T$0H
+D9d$p
+t$@L
+|$8L
+l$(H
+D$0D
+9l$x
+t$@L
+|$8L
+d$ H
+D$(D
+T$0L
+D$ L
+d$lL
+\$`M
+\$`A
+~YfE
+VUUU
+T$pH
+D$ A
+*|$pf
+*L$x
+VUUUE
+D$pA)
+\$xH
+D$pA)
+D$xL
+T$pA
+D$ A
+T$pH
+D$ A
+Hct$Xf
+*|$pH
+|$xf
+d$pH
+l$XA
+l$XH
+D$(H
+t$@L
+|$8L
+l$(H
+~UfE
+T$pH
+D$ A
+D$xE
+,IHc
+L$ f
+T$pH
+D$ A
+D$@H
+t$@L
+|$8L
+d$ H
+T$0D
+L$(H
+L$(H
+L$(H
+AWAVAUATUWVSH
+l$xM
+t$p1
+D$0H
+l$xM
+t$pA
+T$0H
+l$xM
+t$pA
+T$0H
+t$(H
+l$ H
+t$(L
+l$ H
+t$(L
+l$ H
+t$(H
+t$(L
+|$ H
+t$(L
+|$ H
+t$(H
+t$(H
+|$0H
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+AVAUATUWVSH
+)t$p
+D$@x
+D$Ax
+D$Bx
+d$`H
+l$@L
+|$ H
+l$(A
+|$ H
+(t$p
+[^_]A\A]A^
+ATUWVSH
+)t$`
+)|$pD
+D$Px
+D$Qx
+D$Rx
+D$ D
+\$(H
+(t$`
+(|$pD
+[^_]A\
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+|$PE1
+|$@H
+|$0H
+|$(H
+T$ H
+t$(fA
+t$ f
+d$xI
+t$H1
+|$0H
+d$xI
+t$0A
+\$8H
+t$0I
+|$8H
+[^_]A\A]A^A_
+UWVSH
+H[^_]
+t$(1
+l$0H
+D$ I
+ATUWVSH
+)t$ 
+)|$0D
+)D$@D
+)L$PD
+)T$`D
+)\$pD
+t<8fL
+(t$ 
+(|$0D
+(D$@D
+(L$PD
+(T$`D
+(\$pD
+[^_]A\
+WVSH
+ [^_
+ [^_
+AWAVAUATUWVSH
+l$@H
+h[^_]A\A]A^A_
+|$8E1
+t$8H
+AWAVAUATUWVSH
+t$PH
+D$@f
+D$8E1
+T$@H
+T$HH
+D$8H
+x[^_]A\A]A^A_
+T$@H
+AUATUWVSH
+8[^_]A\A]
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-q
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+)t$Pf
+D$HfH
+L$8f
+(t$PH
+(t$PH
+uefH
+\$8f
+T$8H
+(t$PH
+\$8f
+T$8H
+(t$PH
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+WVSH
+D$pfD
+D$tf
+t$ f
+t)fL
+\$hfE
+t$PH
+|$@fA
+l$PH
+.=gI
+\$PH
+t$@fD
+\$hfE
+t,fH
+\$hfE
+ttfH
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+)t$P
+)|$`
+D$Hf
+L$HA
+tofH
+(t$P
+(|$`H
+T$<f
+(t$P
+(|$`H
+D$4f
+D$0A
+D$8A
+l$ f
+L$ f
+libgcj-16.dll
+_Jv_RegisterClasses
+Can only save drawables!
+Save Brush
+gtk-cancel
+gtk-save
+Brushes
+destroy
+response
+.ppm
+_Brush
+size-allocate
+Gamma:
+value-changed
+Changes the gamma (brightness) of the selected brush
+Select:
+gtk-save-as
+clicked
+Specifies the aspect ratio of the brush
+Aspect ratio:
+label
+Specifies the amount of embossing to apply to the image (in percent)
+Relief:
+Co_lor
+C_enter of brush
+A_verage under brush
+Color
+Color is computed from the average of all pixels under the brush
+Samples the color from the pixel in the center of the brush
+Adds random noise to the color
+Color _noise:
+value-changed
+_General
+Background
+Preserve the original image as a background
+Keep original
+Copy the texture of the selected paper as a background
+From paper
+Solid colored background
+Solid
+Color
+clicked
+color-changed
+Use a transparent background; Only the strokes painted will be visible
+Transparent
+Paint edges
+Selects if to place strokes all the way out to the edges of the image
+Tileable
+Selects if the resulting image should be seamlessly tileable
+Drop shadow
+Adds a shadow effect to each brush stroke
+How much to "darken" the edges of each brush stroke
+Edge darken:
+How much to "darken" the drop shadow
+Shadow darken:
+The depth of the drop shadow, i.e. how far apart from the object it should be
+Shadow depth:
+How much to blur the drop shadow
+Shadow blur:
+A bailout-value for adaptive selections
+Deviation threshold:
+@Vidar Madsen <vidar@prosalg.no>
+Performs various artistic operations on an image
+Performs various artistic operations
+plug-in-gimpressionist
+RGB*, GRAY*
+_GIMPressionist...
+v1.0, November 2003
+Vidar Madsen
+<Image>/Filters/Artistic
+gimp20-std-plug-ins
+UTF-8
+The selection does not intersect the active layer or mask.
+Painting
+run-mode
+The run mode { RUN-INTERACTIVE (0) }
+image
+Input image
+drawable
+Input drawable
+preset
+Preset Name
+text
+Preset
+changed
+gimpressionist
+GIMPressionist
+gimp-gimpressionist
+gtk-ok
+gtk-cancel
+plug-in-gimpressionist
+response
+destroy
+Or_ientation
+The number of directions (i.e. brushes) to use
+Directions:
+value-changed
+The starting angle of the first brush to create
+Start angle:
+The angle span of the first brush to create
+Angle span:
+Orientation:
+Let the value (brightness) of the region determine the direction of the stroke
+Value
+The distance from the center of the image determines the direction of the stroke
+Radius
+Selects a random direction of each stroke
+Random
+Let the direction from the center determine the direction of the stroke
+Radial
+The strokes follow a "flowing" pattern
+Flowing
+The hue of the region determines the direction of the stroke
+The direction that matches the original image the closest is selected
+Adaptive
+Manually specify the stroke orientation
+Manual
+gtk-edit
+clicked
+Opens up the Orientation Map Editor
+v@Orientation Map Editor
+gimp-gimpressionist
+gtk-ok
+gtk-cancel
+gtk-apply
+plug-in-gimpressionist
+response
+destroy
+Vectors
+The vector-field. Left-click to move selected vector, Right-click to point it towards mouse, Middle-click to add a new vector.
+button-press-event
+value-changed
+Adjust the preview's brightness
+Preview
+clicked
+Select previous vector
+Select next vector
+A_dd
+Add new vector
+_Kill
+Delete selected vector
+Vortex_3
+Vortex_2
+Vorte_x
+_Normal
+Type
+_Voronoi
+Voronoi-mode makes only the vector closest to the given point have any influence
+Change the angle of the selected vector
+A_ngle:
+Offset all vectors with a given angle
+Ang_le offset:
+Change the strength of the selected vector
+_Strength:
+Change the exponent of the strength
+S_trength exp.:
+Paper
+P_aper
+_Invert
+clicked
+Inverts the Papers texture
+O_verlay
+Applies the paper as it is (without embossing it)
+Specifies the scale of the texture (in percent of original file)
+Scale:
+value-changed
+Specifies the amount of embossing to apply to the image (in percent)
+Relief:
+@Pl_acement
+Evenly distributed
+Randomly
+Placement
+Place strokes randomly around the image
+The strokes are evenly distributed across the image
+Centered
+Focus the brush strokes around the center of the image
+The relative density of the brush strokes
+Stroke _density:
+value-changed
+?.gbr
+load_gimp_brush: Unable to open file "%s"!
+ppm_load: Unable to open file "%s"!
+ppm_load: File "%s" not PPM/PGM? (line="%s")%c
+ppm_load: File "%s" not valid PPM/PGM? (line="%s")%c
+Failed to save PPM file '%s': %s
+%d %d
+Preset
+<Factory defaults>
+Presets
+Internal error: (save_preset) thispath == NULL
+Error creating folder "%s"!
+%s-%d
+Error building a filename for preset "%s"!
+Error opening file "%s" for writing!
+desc=%s
+name=%s
+orientnum=%d
+orientfirst=%s
+orientlast=%s
+orienttype=%d
+sizenum=%d
+sizefirst=%s
+sizelast=%s
+sizetype=%d
+brushrelief=%s
+brushdensity=%s
+brushgamma=%s
+brushaspect=%s
+generalbgtype=%d
+generaldarkedge=%s
+generalpaintedges=%d
+generaltileable=%d
+generaldropshadow=%d
+generalshadowdarkness=%s
+generalshadowdepth=%d
+generalshadowblur=%d
+devthresh=%s
+paperrelief=%s
+paperscale=%s
+paperinvert=%d
+paperoverlay=%d
+selectedbrush=%s
+selectedpaper=%s
+color=%02x%02x%02x
+placetype=%d
+placecenter=%d
+numorientvector=%d
+orientangoff=%s
+orientstrexp=%s
+orientvoronoi=%d
+numsizevector=%d
+orientvector=%d,%s,%s,%s,%s,%s,%s,%d
+sizestrexp=%s
+sizevoronoi=%d
+colortype=%d
+colornoise=%s
+sizevector=%d,%s,%s,%s,%s
+basename != NULL
+dest_dir != NULL
+g_path_is_absolute (dest_dir)
+name=
+Save Current
+gimp-gimpressionist
+gtk-ok
+gtk-cancel
+plug-in-gimpressionist
+response
+destroy
+Description:
+changed
+Error opening file "%s" for reading!
+desc
+orientnum
+orientfirst
+orientlast
+orienttype
+sizenum
+sizefirst
+sizelast
+sizetype
+brushrelief
+brushscale
+brushdensity
+brushgamma
+brushaspect
+generalbgtype
+generaldarkedge
+generalpaintedges
+generaltileable
+generaldropshadow
+generalshadowdarkness
+generalshadowdepth
+generalshadowblur
+devthresh
+paperrelief
+paperscale
+paperinvert
+paperoverlay
+placetype
+placecenter
+selectedbrush
+selectedpaper
+color
+numorientvector
+orientvector
+orientangoff
+orientstrexp
+orientvoronoi
+numsizevector
+sizevector
+sizestrexp
+sizevoronoi
+colortype
+colornoise
+Gimpressionist Defaults
+desc=
+_Presets
+Save Current...
+gtk-save
+clicked
+Save the current settings to the specified file
+text
+gtk-apply
+Reads the selected Preset into memory
+gtk-delete
+Deletes the selected Preset
+gtk-refresh
+Reread the folder of Presets
+preset_create_filename
+use-underline
+label
+size-allocate
+_Update
+clicked
+Refresh the Preview window
+gimp-reset
+Revert to the original image
+What!? No brushes?!
+Huh? Image size != alpha size?
+%.1f %%
+Internal error; Unknown orientationtype
+Internal error; Unknown size_type
+_Update
+MbP?
+?_Size
+The number of sizes of brushes to use
+Size variants:
+value-changed
+The smallest brush to create
+Minimum size:
+The largest brush to create
+Maximum size:
+Size depends on:
+Let the value (brightness) of the region determine the size of the stroke
+Value
+The distance from the center of the image determines the size of the stroke
+Radius
+Selects a random size for each stroke
+Random
+Let the direction from the center determine the size of the stroke
+Radial
+The strokes follow a "flowing" pattern
+Flowing
+The hue of the region determines the size of the stroke
+The brush-size that matches the original image the closest is selected
+Adaptive
+Manually specify the stroke size
+Manual
+gtk-edit
+clicked
+Opens up the Size Map Editor
+Size Map Editor
+gimp-gimpressionist
+gtk-ok
+gtk-cancel
+gtk-apply
+plug-in-gimpressionist
+response
+destroy
+Smvectors
+The smvector-field. Left-click to move selected smvector, Right-click to point it towards mouse, Middle-click to add a new smvector.
+button-press-event
+value-changed
+Adjust the preview's brightness
+Preview
+clicked
+Select previous smvector
+Select next smvector
+A_dd
+Add new smvector
+_Kill
+Delete selected smvector
+Change the angle of the selected smvector
+_Size:
+Change the strength of the selected smvector
+S_trength:
+Change the exponent of the strength
+St_rength exp.:
+_Voronoi
+Voronoi-mode makes only the smvector closest to the given point have any influence
+%@gimpressionist-path
+gimprc
+gimpressionist
+No %s in gimprc:
+You need to add an entry like
+(%s "%s")
+to your %s file.
+gflare-path
+HUH? x = %f
+fn != NULL
+clicked
+findfile
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+sqrt
+__powi
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_drawable_combo_box_new
+gimp_ui_init
+gimp_window_set_transient
+gimp_config_build_data_path
+gimp_config_path_expand
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+atoi
+calloc
+exit
+fclose
+feof
+fgets
+fprintf
+fread
+free
+fseek
+fwrite
+malloc
+memcmp
+memcpy
+memset
+signal
+strchr
+strcmp
+strlen
+strncmp
+strrchr
+strstr
+vfprintf
+gimp_displays_flush
+gimp_drawable_bpp
+gimp_drawable_detach
+gimp_drawable_flush
+gimp_drawable_get
+gimp_drawable_has_alpha
+gimp_drawable_is_gray
+gimp_drawable_is_rgb
+gimp_drawable_mask_bounds
+gimp_drawable_mask_intersect
+gimp_drawable_merge_shadow
+gimp_drawable_update
+gimp_gimprc_query
+gimp_install_procedure
+gimp_main
+gimp_pixel_rgn_get_row
+gimp_pixel_rgn_init
+gimp_pixel_rgns_process
+gimp_pixel_rgns_register
+gimp_plugin_menu_register
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init
+gimp_progress_update
+gimp_directory
+gimp_filename_to_utf8
+gimp_locale_directory
+gimp_path_parse
+gimp_personal_rc_file
+gimp_rgb_get_uchar
+gimp_rgba_set_uchar
+gimp_color_button_get_color
+gimp_color_button_get_type
+gimp_color_button_new
+gimp_color_button_set_color
+gimp_dialog_new
+gimp_double_adjustment_update
+gimp_frame_new
+gimp_help_set_help_data
+gimp_int_adjustment_update
+gimp_int_combo_box_connect
+gimp_int_combo_box_get_active
+gimp_int_combo_box_get_type
+gimp_int_radio_group_new
+gimp_label_set_attributes
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_radio_button_update
+gimp_scale_entry_new
+gimp_standard_help_func
+gtk_box_new
+gtk_scale_new
+g_ascii_formatd
+g_ascii_strcasecmp
+g_ascii_strtod
+g_ascii_table
+g_ascii_tolower
+g_build_filename
+g_dir_close
+g_dir_open_utf8
+g_dir_read_name_utf8
+g_file_test_utf8
+g_filename_display_basename
+g_filename_from_utf8_utf8
+g_fopen
+g_free
+g_list_append
+g_list_free
+g_list_free_full
+g_list_insert_sorted
+g_list_length
+g_list_nth
+g_list_remove
+g_log
+g_malloc
+g_malloc0
+g_malloc_n
+g_memdup
+g_mkdir
+g_path_is_absolute
+g_printerr
+g_rand_double_range
+g_rand_free
+g_rand_int_range
+g_rand_new
+g_return_if_fail_warning
+g_snprintf
+g_strchomp
+g_strcompress
+g_strconcat
+g_strdup
+g_strdup_printf
+g_strerror
+g_strescape
+g_strlcpy
+g_unlink
+g_object_get_data
+g_object_set
+g_object_unref
+g_signal_connect_data
+g_type_check_instance_cast
+g_type_check_instance_is_a
+gtk_adjustment_get_type
+gtk_adjustment_get_value
+gtk_adjustment_new
+gtk_adjustment_set_value
+gtk_box_get_type
+gtk_box_pack_end
+gtk_box_pack_start
+gtk_box_set_homogeneous
+gtk_box_set_spacing
+gtk_button_get_type
+gtk_button_new_from_stock
+gtk_button_new_with_label
+gtk_button_new_with_mnemonic
+gtk_button_set_image
+gtk_cell_renderer_text_new
+gtk_check_button_new_with_label
+gtk_check_button_new_with_mnemonic
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_set_alternative_button_order
+gtk_dialog_set_default_response
+gtk_entry_get_text
+gtk_entry_get_type
+gtk_entry_new
+gtk_entry_set_text
+gtk_event_box_new
+gtk_events_pending
+gtk_file_chooser_dialog_new
+gtk_file_chooser_get_filename_utf8
+gtk_file_chooser_get_type
+gtk_file_chooser_set_current_folder_utf8
+gtk_file_chooser_set_do_overwrite_confirmation
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_image_new_from_stock
+gtk_label_get_type
+gtk_label_new
+gtk_label_new_with_mnemonic
+gtk_label_set_line_wrap
+gtk_label_set_text
+gtk_list_store_append
+gtk_list_store_clear
+gtk_list_store_get_type
+gtk_list_store_new
+gtk_list_store_set
+gtk_main
+gtk_main_iteration
+gtk_main_quit
+gtk_misc_get_type
+gtk_misc_set_alignment
+gtk_notebook_append_page_menu
+gtk_notebook_get_type
+gtk_notebook_new
+gtk_radio_button_get_group
+gtk_radio_button_get_type
+gtk_radio_button_new_with_label
+8	gtk_scale_get_type
+:	gtk_scale_set_digits
+;	gtk_scale_set_draw_value
+F	gtk_scrolled_window_get_type
+I	gtk_scrolled_window_new
+L	gtk_scrolled_window_set_policy
+M	gtk_scrolled_window_set_shadow_type
+	gtk_size_group_add_widget
+	gtk_size_group_new
+gtk_table_attach
+gtk_table_attach_defaults
+gtk_table_get_type
+gtk_table_new
+gtk_table_set_col_spacings
+gtk_table_set_row_spacings
+gtk_text_buffer_get_bounds
+gtk_text_buffer_get_text
+gtk_text_buffer_new
+gtk_text_buffer_set_text
+gtk_text_view_new_with_buffer
+gtk_toggle_button_get_active
+gtk_toggle_button_get_type
+gtk_toggle_button_set_active
+gtk_tree_model_get
+gtk_tree_model_get_iter_first
+gtk_tree_model_get_path
+gtk_tree_model_get_type
+gtk_tree_model_iter_next
+gtk_tree_path_free
+gtk_tree_selection_get_selected
+gtk_tree_selection_select_iter
+gtk_tree_selection_set_mode
+gtk_tree_view_append_column
+gtk_tree_view_column_new_with_attributes
+gtk_tree_view_get_model
+gtk_tree_view_get_selection
+gtk_tree_view_get_type
+gtk_tree_view_new_with_model
+gtk_tree_view_scroll_to_cell
+gtk_tree_view_set_headers_visible
+gtk_widget_add_events
+gtk_widget_destroy
+gtk_widget_destroyed
+gtk_widget_get_toplevel
+gtk_widget_get_type
+gtk_widget_grab_focus
+gtk_widget_hide
+gtk_widget_queue_draw
+gtk_widget_set_sensitive
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_window_get_type
+gtk_window_present
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libgimpui-2.0-0.dll
+libgimpconfig-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpcolor-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+gimpressionist.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gtk_box_set_spacing
+__imp_gimp_pixel_rgns_process
+__imp_gtk_text_buffer_new
+__imp_gtk_adjustment_get_type
+__imp_gimp_color_button_set_color
+__imp_GetStartupInfoA
+__imp_gtk_widget_get_toplevel
+__imp_gtk_table_new
+__imp_gimp_personal_rc_file
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp__fmode
+__imp_gtk_scale_new
+__imp_g_list_free_full
+__imp_gtk_widget_set_sensitive
+__imp__lock
+__imp_gtk_tree_view_column_new_with_attributes
+__imp_RtlVirtualUnwind
+__imp_gtk_notebook_get_type
+__imp_gtk_radio_button_get_group
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gtk_tree_model_get_iter_first
+__imp_gtk_list_store_get_type
+__imp_gimp_drawable_detach
+__imp_gtk_window_get_type
+__imp_gtk_text_buffer_set_text
+__imp_gimp_rgb_get_uchar
+__imp_gimp_dialog_new
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp_gtk_toggle_button_get_active
+__imp_g_strchomp
+__imp_gimp_help_set_help_data
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp_g_ascii_strtod
+__imp_g_ascii_strcasecmp
+__imp_gimp_main
+__imp__amsg_exit
+__imp__errno
+__imp_g_strdup
+__imp_g_dir_read_name_utf8
+__imp_g_object_get_data
+__imp_g_mkdir
+__imp_gimp_install_procedure
+__imp_g_return_if_fail_warning
+libglib_2_0_0_dll_iname
+__imp_gtk_widget_destroyed
+__imp_g_fopen
+__imp_g_rand_new
+__imp_g_printerr
+__imp_g_unlink
+__imp_gimp_scale_entry_new
+__imp_gtk_tree_model_get
+__imp_GetCurrentThreadId
+__imp_gtk_toggle_button_set_active
+__imp_gtk_label_new
+__imp_gtk_button_new_with_label
+__imp_gimp_preview_area_get_type
+__imp_gtk_cell_renderer_text_new
+__imp_strcmp
+__imp___C_specific_handler
+__imp_g_filename_display_basename
+__imp_gimp_gimprc_query
+__imp_strrchr
+__imp_GetLastError
+__imp_free
+__imp_g_list_remove
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_gtk_radio_button_new_with_label
+__imp_gtk_main_quit
+__imp_RtlLookupFunctionEntry
+__imp_gtk_tree_view_new_with_model
+__imp_gtk_widget_add_events
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_gtk_notebook_append_page_menu
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_g_rand_int_range
+libgimpconfig_2_0_0_dll_iname
+__imp_gimp_drawable_mask_bounds
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+__imp_gtk_list_store_clear
+__imp_gtk_tree_view_get_type
+__imp_gtk_table_attach_defaults
+__imp_GetTickCount
+__imp_gtk_tree_model_iter_next
+__imp_gimp_int_radio_group_new
+__imp_gtk_frame_new
+__imp_gtk_tree_selection_set_mode
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_feof
+__imp_gtk_scale_get_type
+__imp_atoi
+__imp_gimp_directory
+__imp_gimp_int_combo_box_connect
+__imp_gimp_progress_update
+__imp_g_list_nth
+__imp_gtk_widget_get_type
+__imp_gtk_label_set_text
+__imp_gtk_scrolled_window_new
+__imp_gtk_tree_view_get_selection
+__imp_gimp_config_build_data_path
+__imp_memset
+__imp_gtk_label_new_with_mnemonic
+__imp_gimp_drawable_mask_intersect
+__IAT_end__
+__imp_gtk_adjustment_set_value
+__imp_gimp_path_parse
+__imp_memcpy
+_head_libgobject_2_0_0_dll
+__imp_gimp_filename_to_utf8
+__imp_gimp_ui_init
+__imp_gtk_table_set_col_spacings
+__imp_gimp_pixel_rgn_init
+__imp_gimp_procedural_db_set_data
+__imp_gimp_drawable_merge_shadow
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_g_ascii_formatd
+__imp_gtk_text_buffer_get_text
+__imp_g_strcompress
+__imp_g_ascii_tolower
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp_g_strlcpy
+__imp___getmainargs
+_head_lib64_libkernel32_a
+__imp_g_build_filename
+_head_lib64_libmsvcrt_a
+__imp_strstr
+__imp_gtk_misc_get_type
+__imp_gtk_list_store_set
+__imp_gimp_drawable_has_alpha
+__imp_g_list_insert_sorted
+__imp_EnterCriticalSection
+__imp_gimp_int_combo_box_get_active
+__imp_GetCurrentProcessId
+__imp_gimp_drawable_update
+__imp___lconv_init
+_head_libgimpconfig_2_0_0_dll
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_g_malloc
+__imp_g_strerror
+__imp_signal
+__imp_g_dir_open_utf8
+__imp_gtk_tree_model_get_path
+_head_libgimp_2_0_0_dll
+__imp_gtk_table_set_row_spacings
+__imp_gimp_config_path_expand
+__imp_gimp_displays_flush
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gtk_container_get_type
+__imp_g_list_append
+__imp_gtk_scale_set_draw_value
+__imp_strlen
+__imp_gtk_list_store_new
+__imp_gtk_misc_set_alignment
+__imp_malloc
+__imp_g_object_unref
+libgimpwidgets_2_0_0_dll_iname
+__imp_gtk_tree_selection_select_iter
+__imp_libintl_textdomain
+__imp_gtk_label_get_type
+__imp_gtk_button_set_image
+__imp_gtk_file_chooser_get_filename_utf8
+__imp_gtk_tree_view_set_headers_visible
+__imp_InitializeCriticalSection
+libgimpcolor_2_0_0_dll_iname
+__imp_gtk_dialog_get_type
+__imp_gtk_main_iteration
+__imp_gtk_entry_set_text
+__imp_gtk_size_group_new
+__imp_exit
+__imp_g_filename_from_utf8_utf8
+__imp_gimp_drawable_is_gray
+__imp_g_malloc0
+__imp_vfprintf
+__imp___initenv
+__imp_g_list_length
+__imp_gtk_tree_view_scroll_to_cell
+__imp_gtk_entry_new
+__imp_gtk_main
+__imp_gimp_drawable_flush
+__imp_gtk_image_new_from_stock
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_gtk_widget_hide
+__imp_gimp_int_adjustment_update
+__imp_libintl_fprintf
+__imp_gtk_table_attach
+__imp_gtk_scrolled_window_set_shadow_type
+__imp_g_file_test_utf8
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp_gimp_rgba_set_uchar
+__imp_gtk_dialog_set_alternative_button_order
+__imp__onexit
+__imp_gtk_toggle_button_get_type
+__imp_gimp_procedural_db_get_data
+__imp_libintl_gettext
+__imp_gimp_label_set_attributes
+__imp_gtk_list_store_append
+__imp_gtk_box_get_type
+__imp_gtk_scrolled_window_get_type
+__imp___argv
+__imp_Sleep
+__imp___setusermatherr
+__imp_gimp_color_button_new
+_head_libgimpcolor_2_0_0_dll
+__imp_gimp_locale_directory
+__imp_gtk_file_chooser_set_current_folder_utf8
+__imp_g_free
+__imp_gtk_adjustment_new
+__imp_gtk_widget_destroy
+__imp_gimp_progress_init
+__imp_TlsGetValue
+__imp_gimp_int_combo_box_get_type
+__imp_gtk_tree_view_get_model
+__imp_gtk_adjustment_get_value
+__imp_fprintf
+__imp_g_ascii_table
+__imp_gtk_window_present
+__imp_gtk_tree_model_get_type
+__imp_gtk_button_get_type
+__imp_gtk_box_set_homogeneous
+__imp_VirtualProtect
+__imp_g_type_check_instance_is_a
+_head_libintl_8_dll
+__imp_g_object_set
+__imp_gtk_file_chooser_dialog_new
+__imp_gtk_entry_get_text
+__imp_g_strconcat
+__imp_gimp_drawable_get
+__imp_gtk_widget_grab_focus
+__imp_gimp_color_button_get_type
+__imp_gimp_pixel_rgn_get_row
+__imp_VirtualQuery
+__imp__initterm
+__imp_gimp_drawable_is_rgb
+__imp_g_rand_free
+__imp_fclose
+__imp___iob_func
+__imp_gimp_preview_area_new
+__imp_strncmp
+__imp_gtk_check_button_new_with_label
+__imp_gtk_button_new_with_mnemonic
+__imp_g_dir_close
+__imp_strchr
+__imp_gtk_notebook_new
+__imp_gtk_container_set_border_width
+__nm_g_ascii_table
+__imp_gtk_dialog_set_default_response
+__imp_g_snprintf
+__imp_gtk_file_chooser_get_type
+__imp_g_memdup
+__imp_gimp_double_adjustment_update
+__imp_gtk_tree_path_free
+__imp_gtk_frame_get_type
+__imp_g_list_free
+__imp_gimp_color_button_get_color
+__imp__unlock
+__imp_g_rand_double_range
+__imp_gimp_drawable_bpp
+__imp_g_strescape
+__imp_gtk_text_buffer_get_bounds
+__imp___set_app_type
+__imp_gtk_scale_set_digits
+__imp_gtk_box_pack_end
+__imp_g_malloc_n
+__imp_gtk_scrolled_window_set_policy
+__imp_fgets
+__imp_gtk_entry_get_type
+__imp_gtk_file_chooser_set_do_overwrite_confirmation
+__imp_fread
+__imp_gimp_preview_area_draw
+__imp_gimp_pixel_rgns_register
+__imp_gimp_drawable_combo_box_new
+__imp_gimp_radio_button_update
+__imp_gtk_size_group_add_widget
+__imp_gtk_events_pending
+__imp_gtk_table_get_type
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gtk_container_add
+__imp_gtk_label_set_line_wrap
+__imp_gtk_button_new_from_stock
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_check_button_new_with_mnemonic
+__imp_GetCurrentProcess
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_gtk_text_view_new_with_buffer
+__imp_memcmp
+__imp_gtk_tree_selection_get_selected
+__imp_g_strdup_printf
+__imp_gtk_tree_view_append_column
+__imp_gtk_radio_button_get_type
+__lib64_libmsvcrt_a_iname
+__imp_fseek
+__imp_g_path_is_absolute
+__imp_gtk_widget_queue_draw
+__imp_gtk_event_box_new
+__imp_g_log
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+xpf9 
+vWR"
+BHze
+2X*,p9
+!F3*
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510152007Z0#
+=}# )
+?9op
+:G(H
+N`(x
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+20170510155208Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155208Z0+
+6R}O
+DN0~
+'\QfW
+~\ EV
+8Ew-a
+LFi>
+w\:]8Oc
+GHg&u$rd

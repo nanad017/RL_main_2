@@ -1,0 +1,1657 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+,|s-
+&%o5
+,zs-
+&%o5
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+label10
+nvKeyNameLosslessOutput360
+checkBoxLosslessOutput360
+label11
+label1
+Microsoft.Win32
+ToUInt32
+ToInt32
+label2
+label3
+label4
+label5
+label6
+label7
+label8
+label9
+<Module>
+System.IO
+mscorlib
+add_Load
+NvCameraConfigurationForm_Load
+get_Red
+numericUpDownCameraSpeed
+add_CheckedChanged
+radioButtonEnable_CheckedChanged
+radioButtonDisable_CheckedChanged
+comboBox1_SelectedIndexChanged
+add_SelectedIndexChanged
+get_Checked
+set_Checked
+set_Enabled
+set_FormattingEnabled
+Synchronized
+ReadToEnd
+defaultInstance
+get_ExitCode
+set_AutoScaleMode
+set_Image
+AddRange
+radioButtonEnable
+radioButtonDisable
+IDisposable
+set_Visible
+RuntimeTypeHandle
+GetTypeFromHandle
+File
+set_SizeGripStyle
+set_BorderStyle
+set_FormBorderStyle
+set_Name
+set_FileName
+nvCameraKeyName
+nvDrsPathKeyName
+Type
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+TextBoxBase
+Close
+Dispose
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+set_UseShellExecute
+get_Value
+set_Value
+DeleteValue
+GetValue
+SetValue
+value
+buttonSave
+RegistryHive
+NvCameraConfiguration.exe
+ISupportInitialize
+loading
+System.Runtime.Versioning
+nvKeyNameLogFiltering
+ToString
+GetString
+disposing
+System.Drawing
+CommonDialog
+directoryFolderBrowserDialog
+ShowDialog
+nvKeyNameRenderDebug
+checkBoxRenderDebug
+get_SelectedPath
+set_SelectedPath
+GetFolderPath
+SetNvCameraEnableFullpath
+nvceToolFullpath
+RegistryKeyPermissionCheck
+add_Click
+buttonSave_Click
+buttonCancel_Click
+buttonDefaultTempFolder_Click
+buttonDefaultSnapshotsFolder_Click
+buttonResetOptions_Click
+buttonChooseTempDirectory_Click
+buttonSnapshotDirectory_Click
+ToDecimal
+Label
+buttonCancel
+System.ComponentModel
+labelLogLevel
+ContainerControl
+ListControl
+Program
+System
+NvCameraConfigurationForm
+set_Minimum
+set_Maximum
+resourceMan
+ToBoolean
+Main
+AppDomain
+get_CurrentDomain
+MessageBoxIcon
+Application
+numericUpDownEyeSeparation
+System.Configuration
+NvCameraConfiguration
+System.Globalization
+System.Reflection
+ControlCollection
+ObjectCollection
+get_GradientInactiveCaption
+Exception
+RadioButton
+NumericUpDown
+get_No
+CultureInfo
+get_StartInfo
+ProcessStartInfo
+Bitmap
+nvKeyNameEyeSep
+set_TabStop
+StreamReader
+TextReader
+SpecialFolder
+buttonDefaultTempFolder
+buttonDefaultSnapshotsFolder
+set_RootFolder
+sender
+get_ResourceManager
+ComponentResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+CurrentUser
+nvCameraTempDir
+nvCameraSnapshotDir
+set_ForeColor
+set_BackColor
+set_UseVisualStyleBackColor
+set_Cursor
+.ctor
+.cctor
+System.Diagnostics
+nvKeyNameSphereRes
+numericUpDownSphereRes
+numericUpDownHighRes
+nvKeyNameMaxHighRes
+nvKeyNameLosslessOutputSuperRes
+checkBoxLosslessOutputSuperRes
+set_DecimalPlaces
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+ApplyResources
+NvCameraConfiguration.NvCameraConfigurationForm.resources
+NvCameraConfiguration.Properties.Resources.resources
+DebuggingModes
+NvCameraConfiguration.Properties
+EnableVisualStyles
+Settings
+EventArgs
+get_Controls
+get_Items
+System.Windows.Forms
+buttonResetOptions
+SetDefaultOptions
+groupBoxOptions
+MessageBoxButtons
+get_Chars
+SystemColors
+labelErrors
+Cursors
+Process
+set_Arguments
+components
+nvKeyNameKeepShots
+checkBoxKeepShots
+Exists
+labelNvCameraStatus
+GetNvCameraStatus
+SetNvCameraStatus
+groupBoxNvCameraStatus
+Concat
+GetObject
+op_Implicit
+EndInit
+BeginInit
+WaitForExit
+nvKeyNameCameraSpeedMult
+get_Default
+SetCompatibleTextRenderingDefault
+get__default
+set_DialogResult
+set_Increment
+Environment
+argument
+InitializeComponent
+checkBoxRemoveCaptureTint
+nvKeyNameRemoveTint
+get_Count
+Start
+Convert
+SuspendLayout
+ResumeLayout
+PerformLayout
+get_StandardOutput
+set_RedirectStandardOutput
+labelLosslessOutput
+get_Text
+set_Text
+RegistryView
+set_CreateNoWindow
+Show
+get_SelectedIndex
+set_SelectedIndex
+MessageBox
+set_MinimizeBox
+set_MaximizeBox
+CheckBox
+logLevelComboBox
+GroupBox
+TextBox
+CreateSubKey
+OpenSubKey
+OpenBaseKey
+RegistryKey
+get_Assembly
+set_ReadOnly
+get_BaseDirectory
+intermediateDirectory
+buttonChooseTempDirectory
+textBoxTempDirectory
+buttonSnapshotDirectory
+textBoxSnapshotDirectory
+snapshotDirectory
+Registry
+op_Equality
+op_Inequality
+WrapNonExceptionThrows
+AnselConfiguration
+Copyright 
+  2016
+$4941fcc9-0093-434b-87bc-2b9c0323e756
+1.0.0.6
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+.NET Framework 4.5
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+12.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.Padding, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089zSystem.Windows.Forms.AnchorStyles, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089uSystem.Windows.Forms.ImeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3arSystem.Drawing.ContentAlignment, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aySystem.Windows.Forms.RightToLeft, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089fSystem.Drawing.Font, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Windows.Forms.HorizontalAlignment, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089P
+(2uh,2x\B3]
+a046
+9_@k`
+EvTdE
+I';-I
+JF\_K9g`K
+'fQ1
+U	S0
+^ZUdjZ
+{^mL
+mq!	
+ot\	ut<
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+Ansel Configuration Utility
+NvCameraConfigurationForm
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonCancel
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonChooseTempDirectory
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonDefaultSnapshotsFolder
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonDefaultTempFolder
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonResetOptions
+groupBoxOptions
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonSave
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonSnapshotDirectory
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+checkBoxKeepShots
+groupBoxOptions
+vSystem.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+checkBoxLosslessOutput360
+groupBoxOptions
+vSystem.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+checkBoxLosslessOutputSuperRes
+groupBoxOptions
+vSystem.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+checkBoxRemoveCaptureTint
+groupBoxOptions
+vSystem.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+checkBoxRenderDebug
+groupBoxOptions
+vSystem.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+directoryFolderBrowserDialog
+System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+groupBoxNvCameraStatus
+$this
+vSystem.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+groupBoxOptions
+$this
+vSystem.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label1
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label10
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label11
+groupBoxNvCameraStatus
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label2
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label3
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label4
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label5
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label6
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label7
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label8
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label9
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelErrors
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelLogLevel
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelLosslessOutput
+groupBoxOptions
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelNvCameraStatus
+groupBoxNvCameraStatus
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+logLevelComboBox
+$this
+vSystem.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+numericUpDownCameraSpeed
+groupBoxOptions
+{System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+numericUpDownEyeSeparation
+groupBoxOptions
+{System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+numericUpDownHighRes
+groupBoxOptions
+{System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+numericUpDownSphereRes
+groupBoxOptions
+{System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+radioButtonDisable
+groupBoxNvCameraStatus
+ySystem.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+radioButtonEnable
+groupBoxNvCameraStatus
+ySystem.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+textBoxSnapshotDirectory
+$this
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+textBoxTempDirectory
+$this
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+CancelD
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
+IDATXG
+W{lSe
+( lN
+v}?n{
+4B$`?
+eN<N6nFq
+o86a
+;"`i
+>8z$
+?#@$,
+F5rui
+(B"l~
+Gh5xa
+D""\
+OA$,
+@GDd
+S^~`
+HTz%
+Ne24
+Y]w`
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+SaveD
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+gAMA
+	pHYs
++IDATXG
+W{PTU
+V`wY
+RF$@
+eqg_PO
+vU@Cg
+|K8l
+nR$P@
+nT>&
+M[w5h;
+QG4+
+C^'db
+Afa9
+"FR#b>(
+"*pC!o
+IEND
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.RightToLeft
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Keep Intermediate Shots
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.RightToLeft
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.RightToLeft
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Super Resolution
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.RightToLeft
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+!Remove Black Tint During Captures
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.RightToLeft
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Render Debug InformationF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+NvCamera StatusF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Camera And Capture Options
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&Temp Directory For Intermediate Shots:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Camera Movement Speed:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+NvCamera is currently
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Snapshots Directory:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Max High Resolution:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Max Spherical Resolution:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+K pixels wide/high
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+K pixels wide/high
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Stereo Eye Separation:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+X (when holding Shift)
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ NOTE: Some options were invalid!
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Log level:
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+#Lossless Output Image Format (PNG):H
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Font
+Name
+Size
+Style
+Unit
+System.Drawing.FontStyle
+System.Drawing.GraphicsUnit
+Microsoft Sans Serif
+System.Drawing.FontStyle
+value__
+System.Drawing.GraphicsUnit
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+unknown
+Debug
+Verbose
+Info
+Warning
+Error
+Fatal
+DisabledF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.HorizontalAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.HorizontalAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.HorizontalAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.HorizontalAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Disable
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+EnableF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+&&&NNNwww
+///???
+RSDSg*
+C:\BuildAgent\work\3edc94783d8e5112\NvCameraConfiguration\obj\Release\NvCameraConfiguration.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+  <!-- Indicates that the application is DPI-aware and will not be automatically scaled by Windows at higher
+       DPIs. Windows Presentation Foundation (WPF) applications are automatically DPI-aware and do not need 
+       to opt in. Windows Forms applications targeting .NET Framework 4.6 that opt into this setting, should 
+       also set the 'EnableWindowsFormsHighDpiAutoResizing' setting to 'true' in their app.config. -->
+  <!--
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+  </application>
+  -->
+  <!-- Enable themes for Windows common controls and dialogs (Windows XP and later) -->
+  <!--
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+  -->
+</assembly>
+>0<0
+0!0	
+KR3y
+9xPuU;79
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+150728000000Z
+180726235959Z0r1
+California1
+SANTA CLARA1
+NVIDIA Corporation1
+NVIDIA Corporation0
+9|sc
+2)hy
+7~YS
+k@>bb
+$0"0 
+http://sf.symcb.com/sf.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sf.symcd.com0&
+http://sf.symcb.com/sf.crt0
+[Cj0
+W}m1
+F'6B9
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+CcjRK
+{]KV
+3130
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+$"(@
+:'jI
+#(2v
+wha3
+\J$jg
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+G6q[
+3Au.
+Y9:x
+%OlNS
+`hn9w
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+170223075424Z0#
+Bl]eX
+ U2 ^
+N0L0
+;-a4
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+150713000000Z
+180713235959Z0
+California1
+Santa Clara1
+NVIDIA Corporation1
+IT MIIS1
+NVIDIA Corporation0
+[h!_
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+rf0+
+$0"0 
+http://sv.symcb.com/sv.crl0W
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+0J7t
+XE?]
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+CcjRK
+{]KV
+3130
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+$"(@
+:'jI
+#(2v
+wha3
+\J$jg
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+bxl;
+7b*"
+%rYQ/
+seJE
+8zmx
+K.e.y6
+0!0	
+K9f	
+20170223075425Z
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1:08
+1http://certificates.starfieldtech.com/repository/1604
+-Starfield Services Root Certificate Authority0
+161213070000Z
+211213070000Z0
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1402
++Starfield Services Timestamp Authority - G10
+'eSA
+6""2
+g.wU.
+.0,0*
+http://ocsp.starfieldtech.com/0D
+=0;09
+3http://crl.starfieldtech.com/repository/sfsroot.crl0P
+I0G0E
+0604
+(http://crl.starfieldtech.com/repository/0
+%G	9
+0c2G
+~L]"
+\[jF:1
+Arizona1
+Scottsdale1%0#
+Starfield Technologies, Inc.1:08
+1http://certificates.starfieldtech.com/repository/1604
+-Starfield Services Root Certificate Authority
+\'0	
+170223075425Z0#
+uxJ}
+_E4T
+3'Fb+I

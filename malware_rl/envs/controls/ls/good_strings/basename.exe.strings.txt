@@ -1,0 +1,171 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$ P@
+$HP@
+$tP@
+$HQ@
+$,R@
+[^_]
+$?R@
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+$PR@
+$qR@
+$@S@
+$`S@
+95Hp@
+5Hp@
+ [^]
+ [^]
+=hp@
+<[^_]
+<[^_]
+$ U@
+= U@
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+5xq@
+=tq@
+$LW@
+$PW@
+$ X@
+[^_]
+$\X@
+$8Y@
+$XY@
+$tY@
+C,xH@
+CH H@
+[^_]
+$`Z@
+Try `%s --help' for more information.
+Usage: %s NAME [SUFFIX]
+  or:  %s OPTION
+Print NAME with any leading directory components removed.
+If specified, also remove a trailing SUFFIX.
+      --help     display this help and exit
+      --version  output version information and exit
+Examples:
+  %s /usr/bin/sort       Output "sort".
+  %s include/stdio.h .h  Output "stdio".
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+FIXME unknown
+coreutils
+/usr/share/locale
+5.97
+GNU coreutils
+basename
+extra operand %s
+missing operand
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+help
+version
+write error
+%s: %s
+literal
+shell
+shell-always
+escape
+locale
+clocale
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+memory exhausted
+Copyright %s %d Free Software Foundation, Inc.
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+_ctype_
+abort
+atexit
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fputs
+free
+getenv
+malloc
+memcpy
+memset
+putc
+puts
+realloc
+setlocale
+strchr
+strcmp
+strerror
+strlen
+strncmp
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

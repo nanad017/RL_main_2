@@ -1,0 +1,506 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+^,:B
+~	TY
+,O('
+P&(2
++J(2
+, rw
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPo
+*8}h5=
+lMicrosoft (R) Team Foundation Delete Project Tool
+Copyright (c) Microsoft Corporation. All rights reserved.
+Warning: Deleting a team project is an irrecoverable operation. All version control, work item tracking and Team Foundation build data will be destroyed from the system. The only way to recover this data is by restoring a stored backup of the databases. Are you sure you want to delete the team project and all of its data ({0}/{1})?
+SharePoint sites can be shared by multiple projects. Are you sure you want to delete the SharePoint site for this project ({0}/{1})?
+TF268000: The following URL or server name cannot be resolved to a server that is running
+Team Foundation Server: {0}. 
+If you type a server name, it must match the name you typed in the 
+Add Team Foundation Server dialog. If you type a URI, it must use 
+the following syntax: http[s]://<server name>:<server port>
+>The {0} option is no longer supported. Please use {1} instead.
+Unrecognized option '{0}'
+YUsage: TfsDeleteProject [/q] [/force] [/excludewss] /collection:<url> <team project name>
+Deletes the Team Project from Team Foundation. To use this command, you must be a member of either the Team Foundation Server Administrators group or a member of the Project Administrators group for the project you are deleting. Use this command with caution because after deleting the team project it cannot be recovered.
+   [/excludewss] - Exclude the project's SharePoint site when deleting the project. This option will leave site intact so that it remains for other projects that may be using it.
+;   [/force] - Continue even if some data cannot be deleted.
+=   /collection:<url> - The url for a Team Project Collection.
+]   <team project name> - The name of the project. Use quotes if there are spaces in the name.
+)   [/q] - Do not prompt for confirmation.
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+TfsDeleteProject.exe
+DeleteTeamProjectDriver
+Microsoft.TeamFoundation.Client
+Resources
+mscorlib
+System
+Object
+force
+server
+projectName
+doConfirm
+excludeWss
+Main
+Microsoft.TeamFoundation.DeleteTeamProject
+TeamProjectDeleter
+StatusEventArgs
+StatusUpdate
+ParseArgs
+Usage
+.ctor
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_Banner
+get_DeleteWarning
+get_DeleteWssSiteConfirmation
+get_InvalidServer
+get_NoAnswer
+get_ObsoleteCommandLineOption
+get_UnknownOption
+get_Usage
+get_Usage2
+get_UsageExcludeWss
+get_UsageForce
+get_UsageProjectCollection
+get_UsageProjectName
+get_UsageQuiet
+get_YesAnswer
+Culture
+Banner
+DeleteWarning
+DeleteWssSiteConfirmation
+InvalidServer
+NoAnswer
+ObsoleteCommandLineOption
+UnknownOption
+Usage2
+UsageExcludeWss
+UsageForce
+UsageProjectCollection
+UsageProjectName
+UsageQuiet
+YesAnswer
+args
+sender
+value
+System.Runtime.Versioning
+TargetFrameworkAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+TfsDeleteProject
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+GetConsoleFallbackUICulture
+set_CurrentUICulture
+Console
+System.Text
+Encoding
+get_OutputEncoding
+get_CodePage
+get_UTF8
+TextInfo
+get_TextInfo
+get_OEMCodePage
+get_ANSICodePage
+String
+IsNullOrEmpty
+Environment
+Exit
+TfsTeamProjectCollection
+GetFullyQualifiedUriForName
+TfsTeamProjectCollectionFactory
+GetTeamProjectCollection
+TfsConnection
+EnsureAuthenticated
+get_CurrentCulture
+IFormatProvider
+Format
+Write
+ReadLine
+WriteLine
+StringComparison
+StartsWith
+get_HasWssToDelete
+StatusEventHandler
+add_StatusEvent
+set_ExcludeWss
+Delete
+System.IO
+TextWriter
+get_Error
+Exception
+get_Message
+Microsoft.TeamFoundation.Common
+Microsoft.TeamFoundation
+TeamFoundationInvalidServerNameException
+get_message
+get_Length
+get_Chars
+Char
+Split
+Substring
+ToUpperInvariant
+<PrivateImplementationDetails>{C2380D4E-BF97-4AF2-8AAB-EA6D2D6B2ECF}
+CompilerGeneratedAttribute
+System.Collections.Generic
+Dictionary`2
+$$method0x6000003-1
+TryGetValue
+op_Equality
+Concat
+.cctor
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+Resources.resources
+m-k.
+RSA1
+(]b,
+=t]o-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+TfsDeleteProject.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\vset\tfsdeleteproject.csproj_1407408931\objr\x86\TfsDeleteProject.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+r0qt2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222558Z
+130409222558Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+Cz-?
+cw{0
+b%MS%
+5S#6w
+L!=v0
+es)H'
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+\J-h
+E/]E
+m5#g
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1F0D
+http://microsoft.com0
+3L(L
+CT{B
+BcxE"
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023047Z0#
+7YyIK
+@v]_;
+sTv$p
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1F0D
+http://microsoft.com0
+\|0(
+pJ4)Y
+20120727023050.402Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+#aNrD*L
+rsC'
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+#yg#
+m\l1^

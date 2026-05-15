@@ -1,0 +1,41 @@
+*
+!/**/
+!*.*
+
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+data/*
+*.ipynb_checkpoints/
+*.exe
+.idea
+*.model
+.env
+.npy
+saved_models/
+helper_scripts/
+*.zip
+
+# Virtualenvs (do not commit)
+.venv*/
+venv*/
+
+# Large runtime artifacts (download on target machine)
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/sorel.model
+malware_rl/envs/utils/sorelFFNN.pt
+
+# UPX binary (download on target machine)
+malware_rl/envs/controls/upx
+
+# Generated benign/trusted files (download on target machine)
+malware_rl/envs/controls/trusted/*
+!malware_rl/envs/controls/trusted/.gitkeep
+malware_rl/envs/controls/good_strings/*
+!malware_rl/envs/controls/good_strings/.gitkeep
+
+# Malware samples/datasets (do not commit)
+malware_rl/envs/utils/samples/*
+!malware_rl/envs/utils/samples/.gitkeep

@@ -1,0 +1,636 @@
+!This program cannot be run in DOS mode.
+Richvl
+.text
+`.rdata
+@.data
+.rsrc
+h 1A
+hx1A
+VVVVV
+SSSSS
+WWWWW
+WWWWW
+SSSSS
+SSSSS
+SSSSS
+Ph02A
+MZu3
+5 FA
+=@FA
+YYt{
+uNSW
+VVVV
+, <Xw
+HHt@HHt
+HHt]+
+ t	f
+5 ?A
+5,?A
+5(?A
+RPSW
+90tA
+2If90t
+@t%f
+WSj0
+WSj 
+PPPPP
+Y__^[
+\$ UV
+3502A
+_^][
+9csm
+T$(j
+D$,9h
+h02A
+h02A
+SSSSS
+SSSSS
+SSSSS
+<\Yu#j\V
+YYt=h
+(</t$h
+SSSSS
+SSSSS
+t;j\V
+YYu;
+SSSSS
+SSSSS
+HH_^[
+SSSSS
+SSSSS
+=0CA
+=\MA
+t	VP
+WWWWW
+VVVVV
+~,WPV
+98t^
+tVPV
+t/9U
+jTh8
+j8j ^V
+5xMA
+Rj8j 
+F9=xMA
+=xMA
+5xMA
+SSSSS
+Yt.V
+Yt"V
+Yt.V
+Yt"V
+jdX;
+5$?A
+jF<-uH
+]t=F:
+YYj0[
+Yt>V
+?%u?
+<at9<rt,<wt
+SSSSS
+tVHtG
+tDHt0
+uD	}
+u%	}
+SSSSS
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+h/J@
+_^[]
+8csm
+hKJ@
+5x6A
+VVVVV
+VVVVV
+=pMA
+hpMA
+YYuTVWhoU@
+=tMA
+htMA
+5hMA
+5dMA
+h7M@
+=@2A
+VVVVV
+PPPPP
+<Yv8V
+VVVVV
+VVVVV
+VVVVV
+]_^[Y
+=@2A
+S99t
+~du	
+=(FA
+>=Yt/j
+tJVUP
+SSSSS
+Y]_^[
+5(FA
+>"u&
+< tK<	tG
+58FA
+5 FA
+SUVW
+SSS+
+@PVSS
+t#SSUP
+t$$VSS
+_^][YY
+QQSV3
+v#Wh
+5xJA
+F\87A
+t&h$
+YYt:V
+5|JA
+F\=87A
+=tJA
+=xJA
+=|JA
+5|JA
+5xJA
+5tJA
+5xJA
+5|JA
+5tJA
+YYt4V
+5|JA
+VVVVV
+VVVVV
+502A
+542A
+Yu'9
+YYu-9D$
+u-9D$
+VVVVV
+SUVW
+_^][
+0A@@Ju
+=lMA
+Wto=
+t^9(uZ
+tD9(u@
+=X?A
+Y_^][
+_^][
+Fpt"
+^SSSSS
+j"^SSSSS
+QSWVj
+v	N+D$
+%XMA
+9MZt
+Y_^[
+Y_^[
+VVVV
+HHtAHHt
+HHt]+
+ t	f
+5 ?A
+5,?A
+5(?A
+RPSW
+90tB
+@t%f
+WSj0
+WSj 
+PPPPP
+StIj"[:
+0SSSSS
+SSSSS
+=`MA
+5(FA
+950FA
+5(FA
+<8=u
+8VVVVV
+VVVVV
+SSSSS
+QQV3
+VVVVV
+SSSSS
+Vj\W
+YYusW
+SSSSS
+SSSSS
+YYt/S
+SSSSS
+SSSSS
+WWWWW
+WWWWW
+VVVVV
+VVVVV
+@@FF
+@@FF
+WWWWW
+% LA
+%@MA
+ueSj
+=TMA
+5@MA
+5DMA
+5@MA
+5DMA
+@_^[
+ VW}
+j?^;
+% LA
+VW|Z;
+=@2A
+VW|[;
+=@2A
+VVVVV
+j8j 
+SSSSS
+5$LA
+WWWWW
+WWWWW
+Yt.V
+Yt"V
+Yt"V
+Yt.V
+Yt"V
+WWWWW
+_^][
+YYt}
+~%9M
+QVj	
+r 8^
+SSSSS
+SSSSS
+tGHt.Ht&
+^SSSSS
+;t0;
+tySSS
+8VVVVV
+t(9u
+VVVVV
+VVVVV
+SSSSS
+SSSSS
+t,9]
+u!f;
+t	9]
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+QSUVW
+5hMA
+5dMA
+YYt3
+_^][Y
+58LA
+t+Ht
+PPPPP
+5TLA
+ SVW
+SSSSS
+5hLA
+SSSSS
+5XLA
+_^[]
+0SSSSS
+0SSSSS
+VVVVV
+t&:a
+;5HMA
+WWWWW
+=\MA
+uaVj
+uL9=xLA
+=\MA
+;5HMA
+wIVSP
+9=xLA
+FVSj
+SSSSS
+_^[]
+u8SS3
+GWh0
+=lLA
+9]$SS
+t)9]
+t"9]
+9] u
+FVh0
+5pLA
+9] SS
+;5 @A
+v$;5<@A
+PPPPPPPP
+tR:Q
+t<:Q
+t&:Q
+PPPPPPPP
+WWWWW
+<Xt	
+u,9u
+SSSSS
+SSSSS
+QQSV3
+=0FA
+VVVVj
+tCVV
+^_[3
+SSSSS
+VjD^V
+5xMA
+Yu	W
+uqSSSSS
+GG9]
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+SSSSS
+VVVVV
+95d@A
+=4BA
+=d@A
+5d@A
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+;5xMA
+SSSSS
+SSSSS
+tl9]
+tC9]
+Ht$C
+CC@@
+Ht'f
+CC+]
+WWWWW
+SVW3
+_^[]
+VVVVV
+SSSSS
+SSSSS
+WWWWW
+=\MA
+WWWWV
+t<Vj
+t+WWVPV
+SSSSS
+SSSSS
+u99u
+VVVVV
+SVW3
+9=8MA
+t{~Bj
+t1SW
+SSSSS
+SSSSS
+5(FA
+SV@j
+SSSSS
+tSj=V
+u`9]
+5(FA
+Y|R9
+?sjj
+5(FA
+5(FA
+@Y@P
+YYt\VV
+@Y@PW
+SSSSS
+SSSSS
+r9f;p
+r2f;H
+uYf;
+t	9]
+=VWS
+YYt SVW
+UUUUU
+_^][
+SSSSS
+YYtW
+tLVS
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+PATH
+ccs=
+UTF-8
+UTF-16LE
+UNICODE
+CorExitProcess
+mscoree.dll
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6034
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+R6032
+- not enough space for locale information
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+R6030
+- CRT not initialized
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+.mixcrt
+EncodePointer
+KERNEL32.DLL
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+('8PW
+700PP
+`h`hhh
+xppwpp
+.com
+.exe
+.bat
+.cmd
+InitializeCriticalSectionAndSpinCount
+kernel32.dll
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SystemRoot
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+Sleep
+SetEvent
+OpenEventA
+GetModuleFileNameA
+GetCommandLineA
+HeapFree
+GetVersionExA
+HeapAlloc
+GetProcessHeap
+EnterCriticalSection
+LeaveCriticalSection
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetLastError
+CloseHandle
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+DeleteCriticalSection
+RtlUnwind
+GetProcAddress
+GetModuleHandleA
+ExitProcess
+WriteFile
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+HeapDestroy
+HeapCreate
+VirtualFree
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+SetFilePointer
+GetConsoleCP
+GetConsoleMode
+VirtualAlloc
+HeapReAlloc
+SetStdHandle
+FlushFileBuffers
+InitializeCriticalSection
+MultiByteToWideChar
+CreateFileA
+LoadLibraryA
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetLocaleInfoA
+GetExitCodeProcess
+WaitForSingleObject
+CreateProcessA
+GetFileAttributesA
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+ReadFile
+SetEndOfFile
+HeapSize
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+KERNEL32.dll
+GetCurrentDirectoryA
+SetCurrentDirectoryA
+apache\bin\httpd.exe
+apache\bin\httpd.exe
+-f conf\httpd.conf
+-f conf\httpd.conf
+mysql\bin\mysqld.exe
+mysql\bin\mysqld.exe
+--defaults-file=mysql\bin\my.ini
+--defaults-file=mysql\bin\my.ini
+--standalone
+--standalone
+XAMPP now starts as a console application.
+Instead of pressing Control-C in this console window, please use xampp_stop.exe
+to stop XAMPP, because it lets XAMPP end any current transactions and cleanup
+gracefully.
+Error while calling %s...
+Can't find %s.
+Can't find process #%d.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ

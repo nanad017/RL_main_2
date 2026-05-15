@@ -1,0 +1,537 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+UQy(
+Ybg!?
+-suy9\
+,U~E
+,-~E
+-7~E
+-c~E
+&+L~E
+,-~E
+-7~E
+,+~E
+.H(B
+.,(B
+P%{[
++[~N
++8~N
+,R~M
+*:~]
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPS~
+Ambiguous option: /{0}
+ZThe /asmpath option is only supported when generating a reg file using the /regfile option
+8Error creating an app domain to perform the registration
+IUnable to load the RemoteRegAsm type required to perform the registration
+7The /regfile option cannot be used with the /tlb option
+>The /regfile option cannot be used with the /unregister option
+An error occurred while writing the registration information to the registry. You must have administrative credentials to perform this task.  Contact your system administrator for assistance
+IAn error occurred inside the user defined Register/Unregister functions: 
+AUnable to locate input assembly '{0}' or one of its dependencies.
+<Failed to load '{0}' because it is not a valid .NET assembly
+$An invalid option has been specified
+,The assembly '{0}' does not have a code base
+ No input file has been specified
+(The /{0} option does not require a value
+jThe following referenced assembly could not be located in any of the locations specified via /asmpath: {0}
+,Registry file would overwrite the input file
+bThe name of the type library cannot be specified for assemblies containing embedded type libraries
+OThe following exceptions were thrown while loading the types in the assembly:
+?An error occurred while registering the exported type library: 
+:An error occurred while saving the exported type library: 
+Unknown option: /{0}
+9An error occurred while un-registering the type library: 
+ The /{0} option requires a value
+LAssembly exported to '{0}', and the type library was registered successfully
+Auto exporting '{0}' as '{1}'.
+Microsoft (R) .NET Framework Assembly Registration Utility {0}
+Copyright (C) Microsoft Corporation 1998-2004.  All rights reserved.
+Exception[{0}] = {1}
+Exception[{0}] ==>> {1}
+AType library embedded in '{0}' loaded and registered successfully
+HNo registry script will be produced since there are no types to register
+No types were registered
+No types were un-registered
+^Assembly reference '{0}' has been resolved to assembly '{1}' with the following code base: {2}
+,Registry script '{0}' generated successfully
+-Type library '{0}' un-registered successfully
+Types registered successfully
+ Types un-registered successfully
+/Syntax: RegAsm AssemblyName [Options]
+Options:
+)    /unregister          Unregister types
+J    /tlb[:FileName]      Export the assembly to the specified type library
+(                         and register it
+D    /regfile[:FileName]  Generate a reg file with the specified name
+F                         instead of registering the types. This option
+C                         cannot be used with the /u or /tlb options
+:    /codebase            Set the code base in the registry
+H    /registered          Only refer to already registered type libraries
+:    /asmpath:Directory   Look for assembly references here
+=    /nologo              Prevents RegAsm from displaying logo
+M    /silent              Silent mode. Prevents displaying of success messages
+3    /verbose             Displays extra information
+3    /? or /help          Display this usage message
+Registering an unsigned assembly with /codebase can cause your assembly to interfere with other applications that may be installed on the same computer. The /codebase switch is intended to be used only with signed assemblies. Please give your assembly a strong name and re-register it.
+dType '{0}' has a ComRegisterFunction which will not be called since the type is not being registered
+GType library not un-registered since the assembly was imported from COM
+fType '{0}' has a ComUnregisterFunction which will not be called since the type is not being registered
+HNo registry script will be produced since there are no types to register
+No types were registered
+No types were un-registered
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+RegAsm.exe
+FXAssembly
+ThisAssembly
+AssemblyRef
+Resource
+Microsoft.Tools.RegAsm
+Option
+Abbrevs
+CommandLine
+REGKIND
+RegAsm
+RegCode
+AssemblyResolver
+ICreateITypeLib
+ExporterCallback
+RemoteRegAsm
+RegAsmOptions
+Output
+mscorlib
+System
+Object
+Enum
+System.Runtime.InteropServices
+ITypeLibExporterNotifySink
+MarshalByRefObject
+Version
+Title
+Description
+DefaultAlias
+Copyright
+InformationalVersion
+DailyBuildNumber
+EcmaPublicKey
+EcmaPublicKeyToken
+EcmaPublicKeyFull
+Mscorlib
+SystemData
+SystemDataOracleClient
+SystemRuntimeRemoting
+SystemWindowsForms
+SystemXml
+MicrosoftPublicKey
+MicrosoftPublicKeyToken
+MicrosoftPublicKeyFull
+SystemConfiguration
+SystemConfigurationInstall
+SystemDeployment
+SystemDesign
+SystemDirectoryServices
+SystemDrawingDesign
+SystemDrawing
+SystemEnterpriseServices
+SystemManagement
+SystemMessaging
+SystemRuntimeSerializationFormattersSoap
+SystemSecurity
+SystemServiceProcess
+SystemWeb
+SystemWebMobile
+SystemWebRegularExpressions
+SystemWebServices
+MicrosoftVisualStudio
+MicrosoftVisualStudioWindowsForms
+VJSharpCodeProvider
+ASPBrowserCapsPublicKey
+ASPBrowserCapsFactory
+MicrosoftVSDesigner
+MicrosoftVisualStudioWeb
+MicrosoftVSDesignerMobile
+MicrosoftJScript
+System.Resources
+ResourceManager
+_resmgr
+InitResourceManager
+GetString
+GetStringIfExists
+FormatString
+m_strName
+m_strValue
+.ctor
+get_Name
+get_Value
+Name
+Value
+m_aOptions
+m_bRequiresValue
+m_bCanHaveValue
+Lookup
+m_aArgList
+m_aOptList
+m_iArgCursor
+m_iOptCursor
+m_sValidOptions
+get_NumArgs
+get_NumOpts
+GetNextArg
+GetNextOption
+NumArgs
+NumOpts
+value__
+REGKIND_DEFAULT
+REGKIND_REGISTER
+REGKIND_NONE
+strDocStringPrefix
+strManagedTypeThreadingModel
+strClassesRootRegKey
+SuccessReturnCode
+ErrorReturnCode
+MAX_PATH
+Main
+SetConsoleUI
+ContainsEmbeddedTlb
+ParseArguments
+PrintLogo
+PrintUsage
+System.Text
+StringBuilder
+SearchPath
+System.Runtime.InteropServices.ComTypes
+ITypeLib
+LoadTypeLibEx
+s_Options
+strMsCorEEFileName
+System.Reflection
+Assembly
+DoExportAndRegister
+GenerateRegFile
+Type
+System.IO
+Stream
+AddValueTypeToRegFile
+AddManagedTypeToRegFile
+AddComImportedTypeToRegFile
+CustomAttributeData
+AddPrimaryInteropAssemblyToRegFile
+WriteUTFChars
+RegisterMainTypeLib
+UnRegisterMainTypeLib
+IsAssemblyImportedFromCom
+IsRegisteredAsValueType
+Exception
+ThrowAppException
+RegisterTypeLib
+Guid
+SYSKIND
+UnRegisterTypeLib
+RegistrationServices
+s_RegistrationServices
+s_Resolver
+m_lstPaths
+ResolveEventArgs
+ResolveAssembly
+CreateTypeInfo
+SetName
+SetVersion
+SetGuid
+SetDocString
+SetHelpFileName
+SetHelpContext
+SetLcid
+SetLibFlags
+SaveAllChanges
+ExporterEventKind
+ReportEvent
+ResolveRef
+TypeLibExporterFlags
+m_strAssemblyName
+m_strTypeLibName
+m_bRegister
+m_bSetCodeBase
+m_strRegFileName
+m_bNoLogo
+m_bSilentMode
+m_bVerboseMode
+m_bTypeLibSpecified
+m_bRegFileSpecified
+m_Flags
+m_strAsmPath
+WriteError
+WriteWarning
+WriteInfo
+SetSilent
+s_bSilent
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+NeutralResourcesLanguageAttribute
+SatelliteContractVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyVersionAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+AssemblyDefaultAliasAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+CLSCompliantAttribute
+ComVisibleAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+RuntimeTypeHandle
+GetTypeFromHandle
+GetAssembly
+String
+Concat
+ApplicationException
+System.Globalization
+CultureInfo
+get_CurrentCulture
+IFormatProvider
+Format
+strName
+strValue
+aOptions
+Boolean
+get_InvariantCulture
+ToLower
+StringComparison
+StartsWith
+Substring
+strOpt
+bRequiresValue
+OutAttribute
+bCanHaveValue
+Equals
+aArgs
+aValidOpts
+Char
+IndexOfAny
+get_Length
+Array
+Copy
+Path
+GetFullPath
+File
+Exists
+get_Capacity
+ToString
+FileInfo
+FileSystemInfo
+get_FullName
+GetDirectoryName
+op_Equality
+Combine
+Compare
+Directory
+DirectoryInfo
+CreateDirectory
+Environment
+get_CurrentDirectory
+AppDomainSetup
+set_ApplicationBase
+AppDomain
+System.Security.Policy
+Evidence
+CreateDomain
+GetExecutingAssembly
+get_CodeBase
+System.Runtime.Remoting
+ObjectHandle
+CreateInstanceFrom
+Unwrap
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+GetConsoleFallbackUICulture
+set_CurrentUICulture
+OperatingSystem
+get_OSVersion
+PlatformID
+get_Platform
+Console
+Encoding
+get_OutputEncoding
+get_CodePage
+TextInfo
+get_TextInfo
+get_OEMCodePage
+get_ANSICodePage
+strFileName
+Options
+ReturnCode
+Int32
+DllImportAttribute
+kernel32.dll
+path
+fileName
+extension
+numBufferChars
+buffer
+filePart
+oleaut32.dll
+strTypeLibName
+regKind
+TypeLib
+options
+ReflectionOnlyLoadFrom
+LoadFrom
+AssemblyName
+GetName
+GetPublicKey
+AssemblyRegistrationFlags
+RegisterAssembly
+UnregisterAssembly
+get_InnerException
+ReflectionTypeLoadException
+get_LoaderExceptions
+BadImageFormatException
+FileNotFoundException
+UnauthorizedAccessException
+TargetInvocationException
+TypeLibConverter
+ITypeLibConverter
+ConvertAssemblyToTypeLib
+strRegFileName
+GetRegistrableTypesInAssembly
+System.Collections.Generic
+IList`1
+GetCustomAttributes
+ICollection`1
+get_Count
+get_Item
+ConstructorInfo
+get_Constructor
+MemberInfo
+get_DeclaringType
+PrimaryInteropAssemblyAttribute
+FileStream
+Create
+get_NewLine
+get_Version
+get_ImageRuntimeVersion
+TypeRepresentsComType
+Marshal
+GetTypeLibGuidForAssembly
+ToUpper
+Close
+type
+strAsmName
+strAsmVersion
+strAsmCodeBase
+strRuntimeVersion
+regFile
+GenerateGuidForType
+GetProgIdForType
+Empty
+op_Inequality
+GetManagedCategoryGuid
+strAsmGuid
+attr
+CustomAttributeTypedArgument
+get_ConstructorArguments
+value
+get_UTF8
+GetBytes
+Write
+IntPtr
+op_Explicit
+GetLibAttr
+TYPELIBATTR
+PtrToStructure
+guid
+wMajorVerNum
+wMinorVerNum
+lcid
+syskind
+ExternalException
+get_ErrorCode
+ReleaseTLibAttr
+COMException
+ImportedFromTypeLibAttribute
+get_IsValueType
+strPrefix
+get_Message
+GetType
+szFullPath
+szHelpDirs
+libID
+wVerMajor
+wVerMinor
+.cctor
+asmpaths
+Split
+get_CurrentDomain
+ResolveEventHandler
+add_ReflectionOnlyAssemblyResolve
+sender
+args
+ApplyPolicy
+ReflectionOnlyLoad
+GuidAttribute
+InterfaceTypeAttribute
+ComInterfaceType
+ComImportAttribute
+EventKind
+EventCode
+EventMsg
+get_Location
+strAssemblyName
+bRegister
+bSetCodeBase
+bNoLogo
+bSilentMode
+bVerboseMode
+bTypeLibSpecified
+bRegFileSpecified
+Flags
+strAsmPath
+message
+errorNumber
+TextWriter
+get_Error
+WriteLine
+silent
+RegAsm.resources
+RSA1
+(]b,
+=t]o-
+$00020406-0000-0000-C000-000000000046
+WrapNonExceptionThrows
+%f:\dd\Tools\devdiv\FinalPublicKey.snk
+en-US
+2.0.0.0
+2.0.50727.8662
+ Microsoft Corporation.  All rights reserved.
+Microsoft
+ .NET Framework
+Microsoft Corporation
+RegAsm.exe
+RSDSG
+RegAsm.pdb
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>

@@ -1,0 +1,1993 @@
+This program must be run under Win32
+.text
+`.data
+.tls
+.rdata
+P.idata
+@.edata
+@.rsrc
+@.reloc
+_^[]
+SVWh
+?Nt	
+(Wh0
+_^[YY]
+_^[]
+t1h0
+Rj	j
+^[YY]
+^[YY]
+t1h0
+|jeV
+Yj\V
+QSVW
+_^[Y]
+@u%S
+?[u+W
+_^[]
+O#Qj
+r!t-
+G$Jt
+t?BCIu
+AFOu
+QSVW
+_^[Y]
+_^[]
+^[YY]
+RVWS
+RVWS
+_^[YY]
+SVWj
+Rho.@
+QSVW
+_^[Y]
+_^[]
+_^[]
+,^[]
+p(SR
+;s(t
+C(;E
+S,;U
+SUVW
+_^][
+V(;U
+;^0t
+t	;]
+**BCCxh1U
+SUVW
+_^][
+;K s
+s(VS
+_^[]
+_^[YY]
+_^[]
+~ ;}
+j!h(
+_^[]
+_^[YY]
+QSVW
+_^[Y]
+RhlT@
+_^[YY]
+QSVW
+_^[Y]
+typeinfo *
+Bad_typeid
+Bad_cast
+typeinfo
+_^[]
+_^[]
+~k;E
+Gu	;u
+_^[YY]
+Y^[]
+SVWU3
+]_^[
+A<ru	3
+5<wu
+A<+t
+9+u <tt
+2<bu
+#<+t
+[YY]
+_^[]
+@t,j
+_^[]
+_^[]
+^_^[]
+SVW3
+;:u!
+SXRPS
+KP[]
+{PP|
+C\[]
+%u8F3
+:+u1
+_^[]
+_^[YY]
+twSj
+FSWV
+SVW3
+t>;u
+_^[YY]
+^YY]
+L_^[
+SVW3
+t	Ht
+_^[]
+QSVW
+t*;]
+H_^[Y]
+tC;]
+e@FBC;u
+USVW3
+_^[]
+USVW
+_^[]
+USVW3
+_^[]
+USVW
+_^[]
+SVW3
+_^[]
+_^[]
+SVWj
+Wj0S
+_^[]
+SVWj
+Ft,f
+Wj0S
+SVWf
+GYf=
+SVWf
+GYf=
+@u13
+_^[]
+RQ;5
+_^[YY]
+_^[]
+SVWUQ
+Z]_^[
+QSVW
+_^[Y]
+QSVW
+_^[Y]
+_^[]
+QSVW
+_^[Y]
+tQjP
+PSVj
+YPVS
+T$!Rh
+YPVS
+YPWS
+Y_^[]
+<2=t
+_^[]
+SVWU
+D<"u%
+YZ]_^[
+_^[]
+SVWUQ
+=`$A
+=|$A
+=`$A
+Z]_^[
+QSVW3
+tcJt:Jtp
+_^[Y]
+t	RV
+hp$A
+Y_^[
+QSVW
+_^[Y]
+QSVW
+WCSV
+_^[Y]
+SVWU
+]_^[
+%tQA
+%xQA
+%|QA
+% RA
+%$RA
+%(RA
+%,RA
+%0RA
+%4RA
+%8RA
+%<RA
+%@RA
+%DRA
+%HRA
+%LRA
+%PRA
+%TRA
+%XRA
+%\RA
+%`RA
+%dRA
+%hRA
+%|RA
+% SA
+%$SA
+%(SA
+%,SA
+%0SA
+%4SA
+%8SA
+%<SA
+%@SA
+%DSA
+%HSA
+%LSA
+%PSA
+%TSA
+%XSA
+%\SA
+%`SA
+%dSA
+%hSA
+%lSA
+%pSA
+%tSA
+%xSA
+%|SA
+Borland C++ - Copyright 1996 Borland Intl.
+FRAME
+Pegasus Mail
+BASE DIRECTORY
+OPERATING MODE
+MAILTO HANDLER
+SENDTO HANDLER
+CREATE GROUP
+DESKTOP ICON
+LANGUAGE
+ROAMING
+%s%s
+%s\%s
+Setup
+SET 
+%s\WSSETUP.DAT
+PROGMAN
+"%s\%s"
+%s\%s
+[DeleteGroup(Pegasus Mail for Win32)]
+[DeleteGroup(Pegasus Mail)]
+[CreateGroup(Pegasus Mail)]
+Pegasus Mail.%s
+Pegasus Mail
+[Additem(%s
+WINPM-32.EXE
+ -roam
+ -X %s
+ -U %s
+ -A -I %s
+,%s)]
+[AddItem(%s,%s)]
+NCONFIG.EXE
+Pegasus Mail NDS Configuration
+%s\WINPM-32.EXE
+Pegasus Mail.%s
+Pegasus Mail
+ -roam
+ -X %s
+ -U %s
+ -A -I %s
+%s\%s.LNK
+Run Pegasus Mail
+SETPMDEFAULT.EXE
+open
+/Reinstall
+%s\WSENDTO.EXE
+%s\Pegasus Mail.LNK
+Send a file via Pegasus Mail
+MS Sans Serif
+MS Sans Serif
+%s\wssetup.hlp
+MAIN
+MAIN2
+	CPf
+\DEST
+\DEST
+\DEST
+\DEST
+'1nD
+k7E8
+	CPf
+Stack Overflow!
+(ctorMask & 0x0100) != 0 || (ctorMask & 0x0020) == 0
+XX.CPP
+(ctorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(dtorMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+(mfnMask & 0x0080) == 0
+XX.CPP
+what?
+!"what?"
+XX.CPP
+cctrAddr
+XX.CPP
+dtorAddr
+XX.CPP
+argType
+XX.CPP
+__CPPexceptionList
+XX.CPP
+XX.CPP
+xdrPtr->xdERRaddr == xl
+XX.CPP
+dscPtr->xdERRaddr == errPtr
+XX.CPP
+dscPtr->xdHtabAdr == hdtPtr
+XX.CPP
+dscPtr->xdArgCopy == 0
+XX.CPP
+(dscPtr->xdMask & TM_IS_PTR) == 0
+XX.CPP
+mask & TM_IS_PTR
+XX.CPP
+dscPtr->xdMask & TM_IS_PTR
+XX.CPP
+dscPtr->xdTypeID == dscPtr->xdBase
+XX.CPP
+hdtPtr->HDcctrAddr
+XX.CPP
+dscPtr->xdSize == size
+XX.CPP
+xdrPtr && xdrPtr == *xdrLPP
+XX.CPP
+bogus context in Local_unwind()
+!"bogus context in Local_unwind()"
+XX.CPP
+bogus context in _ExceptionHandler()
+!"bogus context in _ExceptionHandler()"
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpClass.tpcDtorAddr
+XX.CPP
+(errPtr->ERRcInitDtc >= varType->tpClass.tpcDtorCount) || flags
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+dtorCnt < varCount
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+IS_STRUC(blType->tpMask)
+XX.CPP
+memType
+XX.CPP
+memType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_ARRAY
+XX.CPP
+varType->tpArr.tpaElemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+vdtCount
+XX.CPP
+etdCount <= elemCount || elemCount == 0
+XX.CPP
+dtrCount <= vdtCount
+XX.CPP
+IS_CLASS(varType->tpMask)
+XX.CPP
+((unsigned __far *)vftAddr)[-1] == 0
+XX.CPP
+dttPtr->dttFlags & (DTCVF_PTRVAL|DTCVF_RETVAL)
+XX.CPP
+dttPtr->dttType->tpMask & TM_IS_PTR
+XX.CPP
+dttPtr->dttType->tpPtr.tppBaseType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+IS_CLASS(dttPtr->dttType->tpMask) && (dttPtr->dttType->tpClass.tpcFlags & CF_HAS_DTOR)
+XX.CPP
+varType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+elemType->tpClass.tpcFlags & CF_HAS_DTOR
+XX.CPP
+varType->tpMask & TM_IS_PTR
+XX.CPP
+dtCnt >= 0
+XX.CPP
+**BCCxh1
+<notype>
+id->tpName
+XXTYPE.CPP
+XXTYPE.CPP
+XXTYPE.CPP
+tp1->tpName
+XXTYPE.CPP
+tp2->tpName
+XXTYPE.CPP
+IS_STRUC(base->tpMask)
+XXTYPE.CPP
+IS_STRUC(derv->tpMask)
+XXTYPE.CPP
+derv->tpClass.tpcFlags & CF_HAS_BASES
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+topTypPtr != 0 && IS_STRUC(topTypPtr->tpMask)
+XXTYPE.CPP
+tgtTypPtr != 0 && IS_STRUC(tgtTypPtr->tpMask)
+XXTYPE.CPP
+srcTypPtr == 0 || IS_STRUC(srcTypPtr->tpMask)
+XXTYPE.CPP
+__isSameTypeID(srcTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+tgtTypPtr != 0 && __isSameTypeID(topTypPtr, tgtTypPtr) == 0
+XXTYPE.CPP
+srcTypPtr
+XXTYPE.CPP
+((unsigned __far *)vtablePtr)[-1] == 0
+XXTYPE.CPP
+addr
+XXTYPE.CPP
+Can't adjust class address (no base class entry found)
+!"Can't adjust class address (no base class entry found)"
+XXTYPE.CPP
+.$$$
+Error 0
+Invalid function number
+No such file or directory
+Path not found
+Too many open files
+Permission denied
+Bad file number
+Memory arena trashed
+Not enough memory
+Invalid memory block address
+Invalid environment
+Invalid format
+Invalid access code
+Invalid data
+Bad address
+No such device
+Attempted to remove current directory
+Not same device
+No more files
+Invalid argument
+Arg list too big
+Exec format error
+Cross-device link
+Too many open files
+No child processes
+Inappropriate I/O control operation
+Executable file in use
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Math argument
+Result too large
+File already exists
+Possible deadlock
+Operation not permitted
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Resource temporarily unavailable
+Block device required
+Resource busy
+Not a directory
+Is a directory
+Filename too long
+Unknown error
+(null)
+),(((((),(((
+*(((
+($v)
+%H:%M:%S
+%m/%d/%y
+%A, %B %d, %Y
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+printf : floating point formats not linked
+scanf : floating point formats not linked
+printf : floating point formats not linked
+scanf : floating point formats not linked
+-INF
++INF
+-NAN
++NAN
+Error: system code page access failure; MBCS table not initialized
+Assertion failed: 
+, file 
+, line 
+%02d/%02d/%04d %2d:%02d:%02d.%02d 
+kernel32.dll
+GetProcAddress
+Borland32
+Abnormal program termination
+No space for copy of command line
+No space for command line argument vector
+No space for command line argument
+Out of memory in _setargv0
+GetEnvironmentStrings failed
+Could not allocate memory for environment block
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+KERNEL32.dll
+GDI32.dll
+SHELL32.dll
+USER32.dll
+OLE32.dll
+CloseHandle
+CreateDirectoryA
+CreateFileA
+CreateFileW
+DeleteFileA
+EnterCriticalSection
+ExitProcess
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FindClose
+FindFirstFileA
+FindNextFileA
+GetACP
+GetCPInfo
+GetCommandLineA
+GetCurrentDirectoryA
+GetCurrentThreadId
+GetDateFormatA
+GetDriveTypeA
+GetEnvironmentStrings
+GetEnvironmentVariableA
+GetFileAttributesA
+GetFileAttributesW
+GetFileType
+GetFullPathNameA
+GetLastError
+GetLocalTime
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetStdHandle
+GetStringTypeW
+GetTimeZoneInformation
+GetVersion
+GetVersionExA
+GetVolumeInformationA
+GlobalMemoryStatus
+InitializeCriticalSection
+LeaveCriticalSection
+LocalAlloc
+LocalFree
+MultiByteToWideChar
+RaiseException
+ReadFile
+RtlUnwind
+SetConsoleCtrlHandler
+SetCurrentDirectoryA
+SetEnvironmentVariableA
+SetFilePointer
+SetHandleCount
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+UnhandledExceptionFilter
+VirtualAlloc
+VirtualFree
+WideCharToMultiByte
+WriteFile
+lstrlenA
+CreateFontA
+DeleteObject
+SHGetMalloc
+SHGetPathFromIDListA
+SHGetSpecialFolderLocation
+ShellExecuteA
+CheckDlgButton
+DdeClientTransaction
+DdeConnect
+DdeCreateStringHandleA
+DdeDisconnect
+DdeFreeStringHandle
+DdeInitializeA
+DdeUninitialize
+DialogBoxParamA
+EndDialog
+EnumChildWindows
+EnumThreadWindows
+GetClientRect
+GetDesktopWindow
+GetDlgCtrlID
+GetDlgItemTextA
+GetParent
+GetWindowLongA
+GetWindowRect
+IsDlgButtonChecked
+MessageBoxA
+MoveWindow
+SendMessageA
+SetDlgItemTextA
+WinHelpA
+wsprintfA
+CoCreateInstance
+CoInitialize
+CoUninitialize
+wssetup.exe
+__GetExceptDLLinfo
+enum_children
+main_proc
+@__lockDebuggerData$qv
+@__unlockDebuggerData$qv
+___CPPdebugHook
+__DebuggerHookData
+~~~~~
+}}}}}}}}~
+~~}}}}}}}}
+}}~~~
+~}}}
+{zzzz{
+|||||
+}}~~~~~
+~}}}}
+FFQQQ
+{KKKKKz
+||||
+~}}~~~}}}}}}
+}}}~~
+~}}}~
+zKKKKKKz{
+~~~}}}}~~}}
+}}}}
+||||Q
+}}~~
+}~~~~
+~~~~}}}~~
+||||
+{KKKKKKKKKz{
+}}}~~~}}
+}}~}
+}}~~}}}~~~~~~~
+~}}}~
+~~~}}
+}}}}~
+~}}}}}}}}}}~
+{zKKKKxxxKKKz
+}}}}~~}}
+~~~~}
+}~~~~~}
+}}}~~~}
+{{zKKxKx
+xKKz
+}}}}~~}
+FFQ||
+||||
+xKz{
+}}~~~}
+|||Q
+Q|||Q||
+D{zz{
+Q||Q
+}~QF~}
+Q}}}Q
+Q|||
+Q||F
+xKKKz{
+}}~~}}F
+||||
+||||
+{zzQ
+xxKKKKz{
+xxKKKKKz
+}}}F
+||||
+zFQKxx
+xxxKKKKKKK
+xxKKzzKKK
+zzzz{
+xKKKzzKKK
+KKKKz{
+xKKKz{zKKK
+xxKKKz{
+yQQQ
+KKKz{{zKKK
+xKKKz{
+Kz{{
+KKz{{{zKKK
+xKKKz{F
+Kzz{{{zKKK
+KKKK
+wwvF
+KKz{{{zzzK
+zKKKK
+xKKKKKKKKKKKKKKKz
+{zzzK
+wv<Q
+KKKzzzzzzK
+KKKKz{
+{zKKKx
+xKKKKKKKxKKKKKKz
+{KKKKKKK
+uttu
+KKKzzzzzKK
+xKKK
+{{zKKxx
+uuuu
+xKKKKxxxKKKKKKz{
+{KKKKKKK
+ttuuu
+xKKKKKKKKK
+{{{zKKx
+utttu
+xKKxxxxxxKKKKz{{{KKKKKKKK
+utJP
+tJttu
+xKKKKKKKKK
+xKKKKKzzzzzzzzKKxx
+utJJt
+xKKx
+xxKKKKzzzKKKKzzKKKKK
+uJJJJJJttJJtu
+KKKKzzzzzKKKKKx
+utJJtu
+xxKKKKKKxKKzzKKKKx
+tJJJJJJtJJJJu
+wvvvwwwv
+xKKKzzzzzKKKKKx
+vwwv
+utttu
+xxxxxxxKKKKKKx
+uJJJJJJJJJJJJu
+wwwwwwwwwv
+wwwv
+KKKKKKzzKKKKKx
+vwwv
+uutuuuuuu
+xxxKKKKx
+uJJJJJJJJJJJJtu
+wwwww
+vvwwwwww
+wwwv
+xKKKKKKKKKKKx
+vvvv
+vvvvvw
+uutttttu
+xxxx
+utJJJJJJJJJJJtu
+vwwwww
+xKKKKKKKKKKx
+vvvv
+utJJJtu
+uJJsssssJJJJJtu
+uuuu
+wvvw
+xKKKKKKKKKKKx
+utJJJt
+uuutJJsrrrsJJJJJtuuuu
+utttu
+wwww
+uuuut
+xxKKKKKKKKx
+utJttu
+wwwv
+utJJJssrrrrsJJJJJttJJtutJJJtu
+ttuuuu
+xxxx
+xKKKKKKKx
+uttu
+wwwwvwwv
+vvww
+uJJJJssrrrrrsJJJJJJJJJJJJJJJJtuuutJtu
+xxxKK
+xKKKKKKKx
+xxxx
+wwwwv
+vvvvwww
+utJJssrrrrpprrsJJJJJJssJsJJJJJJJJJJJJt
+xxxKKx
+xKKKKKKKx
+xKKKx
+wwwwv
+xxKKx
+vwwwww
+tJJJJsrrrrpppprrsJJJJsrrrrsJJsssJJJJJJt
+xxKKKxxxKxxxKKx
+xKKKKKx
+wwwwwwwwwww
+KxKKKx
+uuJJJsrrrrrrppppprrrrrsrrrprrsrrrrssJJJJt
+xKKKxxxxxxxxxx
+xxKKKKKKKx
+xKKx
+vwwwwwwww
+xKKKKKx
+uuutJJJsrrrrrrrrpppprrppprrrppprrppprrsJJttu
+xKKKKxxx
+xKKKKKKKKKKxKKxx
+vvvvvwww
+xKKKKKK
+uutttJJsrrrppprrrrpppppppppppppppppppprrsJJuu
+xKKKKKx
+xKKxxxxxKKKxxxxxx
+vwwww
+KKKKKKK
+utJJJJsrrrpppprrrppppppppppppppppppppprsJJJu
+xKKKxKx
+vvvww
+KKKKKKKx
+utJJJJrrpppppprrrpppppqqqqqqqppppppppprsJJJu
+xxxxxx
+xxxxx
+tJJssrppppppprrrpppppqqqqqqqqqqpppppprsJJJu
+vvvv
+tJJsrrppppppprpppppqqqqqoooqqqpppppprrsJJJtu
+vvvvwwwwv
+wwwwwwwwv
+uJJsrrpppppprrpppppqqqqqoooqqppprrrrsJJJJJtu
+xxxx
+vvvvvv
+wwww
+vwwwwwwwvvvwwwwv
+uJJsrrpppppprrppppqqqoqoooqqqppprrsJJJJJtuuu
+KKKKx
+vwwvvv
+vvvwwwwwwwwwvvwwwwwwvv
+uJJsrrrppppprrrpppqqqooooqqppppprJJJtttu
+KKKKKxxx
+vvwvvvv
+uuuuu
+vwwww
+wwwwwwwvww
+wwvwv
+tJJsrrrppprrrrrrppqqqqqqqqppppprsJtu
+wwwwv
+KKKKKxxxx
+vvvvvv
+uttuu
+vwww
+wwwwwwww
+wwwwvvvww
+utJJJsrrrrrrrrrrrppqqqqqqqppppprsJJ
+wwwwvv
+xKKKxxxxx
+vvvvw
+uuuuu
+wwwvvwww
+wwwwwww
+wwwwwwww
+uJJJJssrrrsssrrppqqqqqqqppppprsJJt
+xxKKxxxxx
+vvvvvwwwww
+wwwwwwww
+wwwww
+tJJJJJJJJJJsrrppqqqqqpppprrrrsJt
+xxxx
+xxKKKxxxKx
+vvvvvwwww
+wwwwwwww
+uttuu
+wwww
+uuuuuutuu
+utttJJJJJJJssrrpqqqqqpppprrrsJJu
+xKKKKKKKKK
+xxKKKKKKKKKxxxKKKx
+vvvvvww
+uttttttuu
+uuttJJJttu
+utJJJJJssrrppqqqpprrrrrsJJt
+xKKKKzzKKK
+xxKKKKKKKKKKKKKKKx
+vwwwvwwwwwwwwwwwwww
+uuutJJtJJJtu
+uutJJJJJJtu
+utJJJsrrpppqppprsssrrsJJt
+xKKz{{
+xKKKKKz{{zKKKKKKKx
+vwwwvwwwvvwwwwwwww
+utJJJJJJJJJJJu
+uutJJJJJJtu
+wwwww
+tJJsrrppppppprsJJJsssJJt
+xKKz{
+KKKK{{
+{{{{KKx
+vwwwwwv
+vvvvwwww
+tJJJssssJJJtJtuutu
+utJJJJJJttuutu
+wwwww
+tJJrrppppppprrsJJJJssJJt
+xKKz{
+KKKz
+vwwwv
+uJJsrrrrrsJJttttttu
+utJJJJJtuuutJtu
+wwvww
+uJJrppqqpppprrsJJJJJJJJu
+xKz{
+zzzz
+||||
+vwwwv
+uuttJsrrppprrJJJtttttu
+tJJJJtuuuutJtu
+wwvww
+tJsppqqpppprrrssJJJJJtu
+xKz{
+{{{{
+|||||
+{KKx
+tJJJJrrppppprrsJJtuttu
+uttttu
+utJtu
+wwvww
+uJJrpqppppprrrrrsJJJtu
+xKz{
+tJJssrrpppppprrJJtttt
+uuuu
+wwwww
+uJJrpppppprrrrrrsJJJtu
+tJsrrrrppppppprJJtttu
+wwwww
+wwwww
+utJsrppppprrrrrrrrsJJtu
+xKz{
+||||
+uJJsrrrrppppppprsJttu
+wwwwwwwwwwww
+utJrrpppprrrrrrpprrsJtu
+wwwv
+vvvv
+vvvw
+tJJsrrrpppppppprrJJu
+wwvvvvvvvvvww
+uutJJrrpppprsrrrrppprrJJtu
+KK{|
+||||||||
+vwwvv
+vvvwwwww
+tJJJsrppppqqpppprJJt
+wvvvv
+vvww
+uutJJJJsrrrrrrrsrrrrpppprsJJJtu
+||||||||
+vwwv
+vwwwwww
+tJJJsrppppqqpppprJJt
+utJJJJssrrrrrrrrrrrrpppprrJJJJt
+vwww
+vvwwwww
+tJJJssrppppqqpppprJJt
+vwww
+tJJJsssssssssssrsrrrppppprJJJJtu
+KK{|
+vwwv
+vwwwwwww
+uJJsrrrrppppqqppprrJJu
+vvww
+tJJJsssJJJsssssssrrrppppprJJJJtu
+xKK{
+}}}}}}}}
+vvvvwwwww
+tJJsrrrrpppqqqpprrsJt
+xxxxx
+tJJJssssJJJsrrrsrrrrrpppprJJJJtu
+xKK{
+~}}~}}
+|{Kx
+vvvwwwww
+utJJsrrrrrppqqpprrsJJt
+xxxKKxxKKx
+tJJJJJsssJJsrrrrrrrrrpppprsJJJtu
+xKK{
+vwwwww
+uuuutJsrrrrrrppqppprsJJJt
+xxxKKKKKKKx
+uJJJJJJsssJJsrrrrrrpppppppprJJJtu
+KKKz{{
+|{KK
+vwww
+utttttuutJsrrssrrrpppprrsJJJt
+xxxKKKKKKKKx
+uJJJJJJJJJJsssssrrrpppppppprsJJJu
+KKKKz{
+utJJJJtuutJsrrssrsrpppprrsJJtu
+xxxKKKzKKKK
+uJJJJJJJJJJsssssrrrpppppqqpprsJJuwv
+xKKKz{||
+utJJJJJtuutJJssJJssrrppprssJJtu
+xxxKKKzzKKK
+tJJssJJJssssrrrrrrpppppqqpprrsJuwv
+xKKKz
+tJJJJttuuutJJJJJJsrrrrrrsJJJJu
+xxKKKKKKKKx
+JJsrrssJsrssrrrrrrpppppppppprsJt
+xxKKKz
+utJJtuuuuutJJJJJJssrrrrsJJJJJt
+xKKKKKKKKKK
+JJsrrrrssrrrrrrpprrrpppppppprJJt
+xKKKz{
+uuuuttJJJJJJsJssssJJJJJJt
+KKKKKKKKKKK
+tJsrppprrrrrrrppprrrppppppprrJJt
+xKKK{
+{zKK
+uuutttttJJJJJJJJJJJJJJttu
+xKKKxxxKKKKx
+vwuJsrpppprrrrrrppprrrrrrrppprrsJt
+xKK{
+{zKK
+wwwwww
+uuuuuuuJJJJJJJJJJJJJJtJtu
+xxxxxxxKKxx
+vwwuJsrppppppppppppprrrrrrppppprsJJuww
+{KKxx
+vwwwwww
+utJJJJJJJJJJJJJJJJt
+xKKKxx
+uJsrpppppppppppprrrrrrppppppprsJt
+{zKKK
+vwwww
+uuttJJJJJJJJJJJJJJtu
+xKKx
+uJsrpppppppppppprrrrrrppppppprrsJ
+||||
+{{zKK
+wwww
+wwww
+uuttJJJtttttJJJJtu
+xKKKx
+utJsrrppppqpppppprrrrrrpppqpppprsJuwv
+xK{|
+{{zKK
+vwwww
+wwwww
+uttJJJtJttttttuu
+xxKKKx
+utJJrrrrpppqpppppprprrrppppqpppprsJt
+{zzKKxx
+vvvwwwwww
+uuttJJJttuu
+xKKKKKK
+utJsrrrrpppppppppppprrrppppppppprsJt
+zKKKKKK
+vwww
+wwww
+utJJtuu
+wwwwwv
+xKKKKKKKKx
+utJJsrrrpppqqqqqppppprrrppppppppprsJt
+KKK{
+~~}}
+{KKKKKKK
+vwww
+wwvvww
+uttu
+KKzzzKKKKx
+uJJJJsrppppqqqqqqqppprrrrrppppppprsJt
+KKKK{
+{{zzzKKx
+vwww
+xKz{{{{zzKx
+uJJJsrrppppppqqqqqppppprrppppqqqpprJJ
+xKKKK{
+{zKKx
+vwww
+xKKz{
+{zKx
+uJJJsrrppppppqqqqppppppppppqqqqqqprsJ
+xxKK
+}~~~
+||||
+{zKxx
+xxKKKKK{
+tJJJsrrppqqqqqqqqppppppppqqqqoooqprJJ
+}}~~~~}}
+||||
+{KKx
+xKKKKKKz
+tJJJJsrppqqqqqqqqqppppppqqqqqooqpprJt
+}}}}}}}}
+|||||
+wwww
+xxKKKKKz{
+utJJJsrrppqqqqqqqqqpqqqqqqqoqqoqqpprJt
+}}}}}}}}
+||||||
+xxKKKKKz{
+utJJJsrrrpqqqqqqqqqqqooqqqqoqqqppprrJJu
+xKKK
+}}}}}}}}
+uuuu
+xxKKKKKz{
+uJJJssrrpqqoooooooqqoooqqooqpprrrrsJJtu
+xKKz
+}}}}}}}}
+||||
+xKKKKKKz{
+tJJJJsrppqoooooooooooooooqpprssssJJJtu
+}}}}}}
+||||||||
+xKKKKKz{{
+utJJJJsrpqoooonnnooooooooqpprJJJJJJJtu
+||||||||||
+xxxxxKKKKz{
+||||
+uJJJJJrppqooonnnnnoooqqqqpprJJJJJJtu
+||||
+||||||
+xxxxxKKKK{
+tJJJJsppqoooonnnnoooqqqpprrJJJJJJtu
+|||||
+{zKx
+vwww
+xxxx
+xxxKKKKz
+uutJJrppqqoooooooooqqprrrsJJtttttu
+||||
+zKKx
+vwww
+KKKKx
+xxxKzzzz
+||||
+utJrpppqqoooooooqqpprJJJJtuuuuuu
+|||||||
+{KKx
+KKKKx
+xKKKKz{{{
+||||||||
+{zKKx
+vwww
+uJJrpppqqoooooqqprrsJJttu
+|||||||||
+{KKx
+KKKKxxKKKKKKz{
+||||||||
+{zKKKKx
+vwvw
+tJsrrppqqooqqpprsJJJtuu
+|||||
+{zKKx
+xKKKxKKKKKKKz{
+|||||||||||
+{{{{zKx
+uJJsrpppqqqppprJJJJtu
+wwwww
+wwwv
+||||
+{zKKx
+KKKKKKKKKzKz
+||||||||||||
+uJJsrrrpppppprJJJtu
+wwwwwwww
+wwwv
+{zKKKx
+xKKKKKKKKzz{
+|||||||||||||||||
+{KKx
+tJJsssrrrrrrJJttu
+wwwwwwwwww
+wwwv
+{KKKKxx
+xKKKKKKKzz
+|||||||||
+utJJJJJJJssJJtuu
+wwww
+wwvv
+{KKKKKKx
+xKKKKKKKz{
+||||||
+utJJJJJJJJJJtu
+wwww
+{zKKKKKKx
+vwww
+xKzzKKKK{
+uutttttu
+wwwww
+wwwww
+{zzzzKKKxxxx
+vwwwwwv
+KKzzKKKz
+vvww
+wwwww
+wwvvv
+{{{{{zKKxx
+vvwv
+xKKzzz{{{
+}}}}
+{{zKx
+vwwwwwwwwwwwwww
+|||||||
+{zKKx
+xKKKz{
+}}}}}}}
+{{zKKx
+vvvv
+vvvvvww
+||||
+|||||
+{{zKKx
+xKKKK{{
+}}}}}
+{{zKxx
+{{zKKx
+xKKKKzz{{
+{zKx
+vwwwwwwwwwv
+{zKK
+xxxKKKKKzzzz{
+|||||
+{zKKx
+xKKKKKKxx
+vwwwwwwwwv
+{{{{
+{{zKx
+xxxxxKKKKKzzzz{
+||||
+{zKKKxxKKKKKKKKKKxxxx
+vwwwv
+{{z{
+{zKx
+xxxxxxKKKKKz{{
+|||||
+zKKKKKKKKKKzzzzzKKKKKx
+}}}}
+{KKKx
+xKKKKz
+||||||
+{zKKKKKKKKKz{{{{{zKKKKKxx
+}}~}}}
+zKKKKx
+xKKK{
+|||||||||
+{zzKKKKKKKKz{
+{{{{KKKKxxxx
+KKKKK
+xKKK
+}}~}}}}
+zKKKKx
+xKKz
+|||||||||
+|||||
+{zzzKKKKKKKz{
+{zKKKKKKKKKKKKKKKKKKx
+xKKKK
+||||
+}}~}}}
+zzKKxxxx
+|||||||||
+||||
+{{zKKKKKKKz{
+{{zKKKKKKKKz{{{zKKxxKKKzK
+||||||
+}}}}}}
+{zKKxxKKx
+||||||||||||||||
+{zzzzzzz{
+|||||||||||
+{zKKKzz{
+{KKKKKKzzK
+}}}}}}}
+{zKKKxKKKx
+|||||
+{{{zzz{
+||||
+{{{{
+zKKKKKKzz
+}}}}}}
+{KKKKKKKKKKx
+KKz{
+{{{{{
+{zKKKKKz{
+}}}}}
+{{{KKKKKKKzzKKx
+KKKz{
+{{zzz{
+}}}}}~}}
+|||||||
+{{zzzzzz{
+{zzKKKzzzz{{{KKxx
+xKKKz{
+{{{{zzz{{{
+{zz{
+}}}}}~
+||||
+{zKKz{
+{KKKKKKKKKzKzz{
+{zKzz{{zzzzz{zzz{{{{{
+{z{{
+}}}}~~
+||||
+||||||
+{zKz{
+{zzKKKKKzzKKKz{{zzzKKKz{{zKKKKKKz{{{zzz{{zz{
+}}}}~
+~}}}}}}}
+|||||||
+|||||
+{{z{
+||||
+{zKKKzzKKKKzKKKKKKKzzzKKxxxKKKzz{{{{{zzz{
+}}~~~
+~~~~}~}
+||||||
+|||||
+{zKKzKKKKKKKKKKKKKKKKKx
+xKKKz{
+{zz{
+~~~}}
+||||
+||||
+|||||||||
+{zKKKKxxxxKKKKKKKKKKKx
+xxKKz{
+{{{{
+||||
+{{{{{
+||||||||||||
+||||||
+{zKKKx
+xKKKKKKKKKKx
+xxKK{
+{{{{{{
+||||||||||||||||||||
+{zKKKKxxxxxxKKKKKKKKKxxxxKKz
+{{{{{
+||||||||||
+||||||||
+{zKKKKKKKxxxKKKKKKKKKKKKKKK{
+||||||
+|||||||||
+|||||||
+}~}}
+{zKKKKKKKKKKKKKKKKKKKKKKKz{
+{{{{
+|||||||
+}}~~}}
+{zzzzKKKKKKKKKKKKKKKKKzz{{
+||||
+~~~~}}
+{zz{{{
+|||||
+}}~~~~}}
+{KKKKKKKKKKKKKz{{{{{{
+||||
+{zz{zzz{{
+}}}}
+}}~~~~~~}}
+zKKKKKKKKKzz{
+{{zzzKKzzzz{
+}}}}}}}}}~
+~~~}}}}
+{zzKKKzzKK{{{
+{{{{{
+{{{zKKKzzKKz
+}}}}}}}}~
+~~}}}}}}
+{zKKKzzzz{{{{
+{{{{{
+{{{zKK  zKKz
+}}~~~~}}
+~~~~~}}
+{zKKKKz{{{{{{
+zz{{
+||||
+{{zK
+ ){{
+{zKKKKK{{{{{{{{{zz{
+{{zz&'(
+{zKKKKK{{{{{zzzzzz{
+}}}}~
+{{{&
+{zKKKKzzzzzKKKKz{
+}}~~~~~
+)%6GG
+~}}}
+{zKKKzKKKKKKKKz{
+||||||
+~~~}
+{zzzzKKKKKKKz{
+{zzKKKKKKKz{
+{zKKKKKKKz{
+~~~}}}}}}}}/)8
+{zKKKKKKz{
+~~~~6)/
+{{zKKzz{
+{zz{{
+)/6I
+~}}}
+|||||||
+&   
+||||
+(   
+&&&'(%)
+~}}}}}}}
+%'(9'&((('
+~~~~
+9((''('
+/6/%')
+GG6)
+(( (
+GGG6
+   (
+ML==
+&)GG)(%
+GGGGGG
+L:**)))//
+1..>O
+::**///66
+66*:!!
+GGG/
+P////66
+66///)
+1D,@
+))6666
+666//6
+/6//
+  (&
+)))6666G
+/666
+("%//66
+&&""%%
+66&'()
+GGGG
+//))6/&('%
+6666/)/6
+66//6)
+6G/)//)
+66)//////)*)//
+)%")
+//)/)
+G6/)
+/////)/)/*/)
+G		GG
+66//6//////)
+GG/6
+	G6G6///6)//)
+UUUUUUUUUUU
+6/))
+))))/6
+)//)UUUUUUUUUUUUUUUUUUU
+UUUUUUU
+G66//
+6  UUUUUUUUUUUUUU
+UUUUUUUUU
+GG66/
+UUUUUU
+UUUUUU
+GG6/)
+ (((
+UUUUUUUUU
+VVVV
+('(&
+VVVVVV
+UUUUUUUUUUUUUUU
+VVVVV
+VVVVV
+&(&&%
+/VVVVVVV
+UUUUUUU
+66/6
+VVVVVVVVVVVVVV
+& &&%)6VVVV
+%%%%
+!4VVVVVVVVVVVVVV)&&&'%
+VVVVV
+VVVVVVVVVVVVVVVVVVVV
+VaeaU
+'('%%%
+WWWW
+VVVVVVVVVVVVVVVVVV
+&&'((('
+)/6G
+WWWWWWWWW
+VVVVV
+VVVV
+      ('%
+6///G
+WWWWW
+VVVVV
+VVVVVVVVV
+   '%
+]]]]
+WWWWWW
+WWWW
+VVVVVVVVVVVVVVVV
+:!=a
+]]]]]]]]]
+WWWWWWWWWWW
+VVVVVVVVVVVVVVVVVV
+UUUUUU&
+]]^^^^^^^
+^]]]]]]]
+WWWWWWWW
+VVVVVVVVVVV
+UUUUF
+6&'&G
+]]]^^^^^
+]]]]
+WWWW
+VVVVVVVVVVV
+66//
+]]]^^^^
+^^]]
+WWWWWW
+VVVVVVVVV
+GGG6)/
+]]]]]]^^
+WWWWWWWWWW
+VVVVVVVV
+]]]]]]]^
+WWWWWWWWWWWWWWWWW
+VVVVVVV
+]]]]]]]^
+WWWWWWWWWWWWWWWWW
+VVVVVVV
+]]]]]]^
+^]]]
+WWWWWW
+VVVV
+^]]^^^^^
+^]]]]]]]]]]]]]]
+WWWWWW
+^^]]]]^^^^^^^]]
+WWWWW
+dddd
+^^^^
+WWWWW
+WWWWW
+WWWWWWWWW
+WWWWWWW 
+WWWWWWW
+WWWWWWW 
+]]WWWWWWW2
+ (&&&%
+dddd
+WWWW
+(('&
+dddddd
+^^]]
+dddd
+ddddd
+hhhh
+^]]]]]
+)//&'&&%)
+hhhhh
+^^^^^2
+    (  "'
+&%(%& 
+hhhh
+hhhhhh
+   (&%
+hhhhhhhh
+hhhhhhhhhh
+dddd
+W_`CDDDDD
+  (&&&
+hhhhhhhhhhhhhh
+hhhhhhhhhhhhj
+_CX22
+hhhhhhhhhhhhhh
+hhhhhhhhhhhh
+W[BFF(1D`
+hhhhh
+hhhhhhh
+hhhhhh
+hhhhhhhhhhj
+2W`DDT
+()hhh
+hhhhhh
+hhhh
+22Q_
+X22F
+hhhh
+hhhhhh
+hhhh
+2<]]][D <4[
+`A(QDc
+hhhhhh
+hhhh
+_[CW\^^W[``_
+hhhh
+hhhhhh
+hhhhhh
+hhhhhhhhhhhhh
+]]]]
+hhhh
+hhhhhhhhhhhhhh
+hhhhhhhh
+22FX[]]
+]]]^
+hhhh
+hhhhhhhhhhhhhh
+hhhhhhhh
+222FB^]]
+]]]^
+hhhhhhhhhhhhhh
+hhhh
+hhhhhhhh
+`^]]]
+]]]^
+jhhh
+hhhhhhhhhhhhh
+hhhh
+hhhhhh
+^]]]]]^^^
+hhhhh
+hhhh
+^]]]]^
+jjhhh
+22 +
+^^]^^
+jhhh
+DQS#
+jhhh
+hhjjj
+hhhhh
+ (-7
+_DXF22
+hhhhhhh
+cDXF2
+^^^^^^
+jhhh
+jhhhhhhh
+ ((0
+_CBQ
+^^^^]]^^^
+jhhhhhhhk
+Ahhhhhj
+^]]^^]]]]]^
+hhhhh
+C( 2
+hhhhhhh
+^]]]^]^]]]^
+hhhhhhhj
+]]]]^^^]]]]
+hhhj
+^]]]]^^]]]]]
+hhhj
+^]]]]]]]]]]^
+hhhj
+^^]]]]]]]]]^
+cD+7
+gY! 
+hhhj
+^^]]]]]]]^
+^^]]]]]^^
+jhhh
+hhhj
+^^]]^^
+mmmmm
+hhhh
+^^^^
+mmmmmmm
+hhhj
+dddd
+jhhh
+hhhh
+mmmmmmm
+hhhh
+mmmmmm
+mmmm
+jjjj
+hhhh
+hhhhhhhh
+hhhhj
+hhhhhhhh
+ddddd
+jhhh
+hhhhhhh
+hhhhj
+hhhhhh
+hhhh
+hhhhhhh
+hhhh
+hhhh
+hhhhhh
+lhhhhhh
+jjjj
+hhhj
+hhhhhh
+qhhhhhh
+jjjjjj
+hhhh
+hhhhhh
+qhhhhhh
+jjjjj
+hhhh
+hhhhhh
+qhhhhhhhhh
+jjjj
+hhhhhhh
+hhhhh
+hhhhhhhh
+hhhhh
+hhhhhh
+hhhhhh
+hhhhhh
+dddddd
+hhhhhh
+jhhhhh
+mmmmm
+hhhhh
+mmmmmm
+hhhh
+mmmmmm
+hhhj
+hhhhh
+hhhhh
+hhhhh
+hhhhhhhj
+hhhhhhhhhh
+dddd
+hhhhhhhhhh
+hhhhhhhhhh
+hhhhh
+hhhhh
+hhhh
+ddddd
+ddddddddd
+hhhh
+hhhh
+dddd
+ddddd
+hhhh
+"!!  
+"!!! 
+""!!  
+#""!!  
+##""
+##""
+####
+#"##""#"
+wwwwwwww
+wwwwwwww
+333337wxp
+7wwp
+333337
+wwwwww
+s33333p
+wwwwwwp
+>#?)?F?8>
+9o:x:
+:L;_;r;
+<6<s<
+<%=T=\=c=
+3D5L5
+9c9k9
+;=<f<n<
+=*=7=F=s=
+0	0/0;0N0T0e0
+7%7m7	2
+2!2%2)2
+<j=)1<1N1o1
+1L2S2i2p2
+3*3j3~3-4
+10g1
+2O3q9
+:b<q<
+=a=i=
+>(>1>E>e>
+6-;I;
+?P0^0c0
+20252z2
+676<6
+6:7?7y7~7
+8%8*8B8G8
+91969
+:j:o:
+,;1;
+<.<3<
+1K1P11262
+273<3
+5O5T5s5x5
+53686
+6#7(7
+7-828
+02070a0f0
+1T2Y2f3k3E4S4X4t4
+5$9;8b8
+969K9]9
+>h>??
+0<0&4J4
+7!7%7)7
+?9?I?b?w?
+2C3H3
+686n607{7
+7"8.8
+868?8
+81:S:
+;5;];I;d;
+4 4$4H0|3
+<Z>`>f>l>z>
+m0q0u0y0}0
+1#1A1E1I1M1Q1U1Y1
+3.454
+7#7*769@9:9D9
+=[=d=n=}=
+?-?2?J?S?c?
+1<2E2O2^2g2q2
+8-979B9N9j9~9
+:I;^;i;~;
+;.;O;o;
+<9=q=
+7	8$8/8X8
+;&</<8<B<O<[<m<
+='>,>9>
+?-?o?c?h?w?
+?=0[0o0
+1+131?1E1P1\1r1z1
+192@2_2g2s2y2
+304z4
+555A5L5{5
+5#6(62686I6
+7,767^7
+9?9N9,969
+94:;:A:
+=n>|>
+3#3P3Y3i3y3
+4A4d4
+7.5D6d6
+2"2(2.242:2@2F2L2R2X2^2d2j2p2v2|2
+f0l0r0x0~0
+1 1&1,12181>1D1J1P1V1\1b1h1n1t1z1
+0 0&0,02080>0D0J0P0V0\0b0h0n0t0z0
+1 1$1(1,1014181
+H8t7
+7$8`8
+8 9T9t9
+ 4,4
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+X4\4`4d4
+4p5t587<7@7
+8P9T9X9\9`9d9h9l9p9t9x9|9
+2 2$2(2,2024282<2@2F2J2N2R2V2Z2^2p2t2x2|2
+3 3(3,30343
+Z0X03
+>0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+100510000000Z
+150510235959Z0~1
+Greater Manchester1
+Salford1
+COMODO CA Limited1$0"
+COMODO Time Stamping Signer0
+GS@(YC
+F@@!
+}Pb 
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+uu,:
+*5C|k
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+111006000000Z
+161005235959Z0
+90581
+Otago1
+Dunedin1
+Moray Place1
+P.O. Box 54511
+David Harris1
+David Harris0
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0$
+David.Harris@pmail.gen.nz0
+kr\toq}
+&:Cg
+whV^	G
++dqx
+f~E1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+^B0R
+1D0B
+http://www.pmail.com0
+v#69
+DPf/%
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+111220123922Z0#
+dKF,N
+WZ\/B
+UX~~
+`#'F
+5Z}c
+m*n\W0q

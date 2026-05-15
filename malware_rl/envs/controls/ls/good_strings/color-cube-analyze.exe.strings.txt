@@ -1,0 +1,715 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+WVSH
+D$pH
+T$pL
+L$xH
+@[^_
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$p1
+D$pH
+L$hD)
+D$p1
+gfff
+|$0H
+|$(H
+T$ H
+D$XH
+|$XE1
+T$`H
+L$x)
+t$ A
+D$`H
+D$XH
+D$8H
+D$0H
+D$(L
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-1t
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;5Gq
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$p
+D$8H
+\$0f
+T$0H
+(t$pH
+t\fH
+\$0f
+T$0H
+libgcj-16.dll
+_Jv_RegisterClasses
+gimp20-std-plug-ins
+UTF-8
+Colorcube Analysis
+color-cube-analyze
+gimp-color-cube-analyze
+gtk-close
+plug-in-ccanalyze
+Image dimensions: %d 
+No colors
+Only one unique color
+Number of unique colors: %d
+robert@experimental.net
+Analyze colorcube and print some information about the current image (also displays a color-histogram)
+Analyze the set of colors in the image
+RGB*, GRAY*, INDEXED*
+Colorcube A_nalysis...
+June 20th, 1997
+<Image>/Colors/Info
+num-colors
+Number of colors in the image
+run-mode
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+image
+Input image
+drawable
+Input drawable
+?q`P@0 
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+memset
+signal
+strlen
+strncmp
+vfprintf
+gimp_drawable_detach
+gimp_drawable_get
+gimp_drawable_has_alpha
+gimp_drawable_is_gray
+gimp_drawable_is_indexed
+gimp_drawable_is_rgb
+gimp_drawable_mask_bounds
+gimp_drawable_offsets
+gimp_image_get_colormap
+gimp_image_get_selection
+gimp_install_procedure
+gimp_item_is_channel
+gimp_main
+gimp_pixel_rgn_get_row
+gimp_pixel_rgn_init
+gimp_plugin_menu_register
+gimp_progress_init
+gimp_progress_update
+gimp_selection_is_empty
+gimp_tile_cache_ntiles
+gimp_tile_width
+gimp_locale_directory
+gimp_dialog_get_type
+gimp_dialog_new
+gimp_dialog_run
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_standard_help_func
+gtk_box_new
+g_direct_equal
+g_direct_hash
+g_free
+g_hash_table_insert
+g_hash_table_lookup
+g_hash_table_new
+g_malloc
+g_malloc0
+g_strdup_vprintf
+g_type_check_instance_cast
+gtk_box_get_type
+gtk_box_pack_start
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_label_new
+gtk_misc_get_type
+gtk_misc_set_alignment
+gtk_widget_destroy
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_widget_show_all
+gtk_window_get_type
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+color-cube-analyze.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gimp_dialog_run
+__imp_gimp_tile_width
+__imp_GetStartupInfoA
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp_g_hash_table_lookup
+__imp__fmode
+__imp_g_hash_table_new
+__imp__lock
+__imp_RtlVirtualUnwind
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gimp_drawable_detach
+__imp_gtk_window_get_type
+__imp_gimp_dialog_new
+__imp_g_strdup_vprintf
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp_gimp_main
+__imp__amsg_exit
+__imp__errno
+__imp_gimp_install_procedure
+libglib_2_0_0_dll_iname
+__imp_GetCurrentThreadId
+__imp_gtk_label_new
+__imp_gimp_preview_area_get_type
+__imp___C_specific_handler
+__imp_GetLastError
+__imp_gimp_drawable_offsets
+__imp_free
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_RtlLookupFunctionEntry
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_gimp_drawable_mask_bounds
+__imp_gimp_drawable_is_indexed
+__imp_GetTickCount
+__imp_g_hash_table_insert
+__imp_gtk_frame_new
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_gimp_progress_update
+__imp_memset
+__imp_gimp_image_get_colormap
+__IAT_end__
+__imp_memcpy
+_head_libgobject_2_0_0_dll
+__imp_gimp_ui_init
+__imp_gimp_pixel_rgn_init
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_gimp_image_get_selection
+__imp_gtk_widget_show_all
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp___getmainargs
+_head_lib64_libkernel32_a
+_head_lib64_libmsvcrt_a
+__imp_gimp_selection_is_empty
+__imp_gtk_misc_get_type
+__imp_gimp_drawable_has_alpha
+__imp_EnterCriticalSection
+__imp_GetCurrentProcessId
+__imp___lconv_init
+__imp_gimp_tile_cache_ntiles
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_g_malloc
+__imp_signal
+_head_libgimp_2_0_0_dll
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gimp_dialog_get_type
+__imp_gtk_container_get_type
+__imp_strlen
+__imp_gtk_misc_set_alignment
+__imp_malloc
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_InitializeCriticalSection
+__imp_gtk_dialog_get_type
+__imp_exit
+__imp_gimp_drawable_is_gray
+__imp_g_malloc0
+__imp_vfprintf
+__imp___initenv
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp__onexit
+__imp_g_direct_equal
+__imp_libintl_gettext
+__imp_gtk_box_get_type
+__imp___argv
+__imp_Sleep
+__imp___setusermatherr
+__imp_gimp_locale_directory
+__imp_g_free
+__imp_gtk_widget_destroy
+__imp_gimp_progress_init
+__imp_TlsGetValue
+__imp_fprintf
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gimp_drawable_get
+__imp_gimp_pixel_rgn_get_row
+__imp_VirtualQuery
+__imp__initterm
+__imp_gimp_drawable_is_rgb
+__imp___iob_func
+__imp_gimp_preview_area_new
+__imp_strncmp
+__imp_gtk_container_set_border_width
+__imp_gtk_frame_get_type
+__imp__unlock
+__imp___set_app_type
+__imp_gimp_preview_area_draw
+__imp_gimp_item_is_channel
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gtk_container_add
+__imp_libintl_bind_textdomain_codeset
+__imp_GetCurrentProcess
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_g_direct_hash
+__lib64_libmsvcrt_a_iname
+>0<0
+0!0	
+11'&
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+#\|b
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510151206Z0#
+.v F/
+i}'.
+RbYwR
+y]sn
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+3W>< 
+qD8)n
+0NNfR
+Ep%,
+o+B=
+20170510154407Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510154407Z0+
+6R}O
+$)!Y
+&	8p:
+-]<,
+VBT{

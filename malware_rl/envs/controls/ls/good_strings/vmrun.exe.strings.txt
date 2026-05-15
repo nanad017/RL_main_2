@@ -1,0 +1,5467 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+SVWh
+hhFD
+h4FD
+PhxED
+htED
+hhED
+hhED
+hPED
+hDED
+h0ED
+h0ED
+h(ED
+h(ED
+hhED
+hhED
+h`BD
+DhtED
+h BD
+5t#D
+hHAD
+PWh@AD
+h AD
+h AD
+h AD
+hh@D
+@PWh`@D
+hT@D
+h$@D
+hT@D
+htED
+h`?D
+PWhP?D
+h4?D
+PWht>D
+h<>D
+htED
+h`=D
+PWhL=D
+PWhh<D
+h@<D
+hP;D
+PWh4;D
+hh:D
+hh9D
+hh9D
+hT@D
+hP8D
+PWh88D
+hX7D
+RPWh
+QPWh
+h06D
+QPWh
+hT@D
+hX5D
+@QPWh
+QSPWh
+h04D
+SQPWh
+h83D
+SPWh(3D
+h`2D
+PWht1D
+hX1D
+htED
+Phx0D
+h00D
+h`/D
+PWhP/D
+hT@D
+hd.D
+Ph0.D
+hT@D
+htED
+PhhED
+hh,D
+Ph`,D
+PhhED
+PhhED
+hp)D
+PhhED
+PhhED
+PhhED
+8_^[
+O(QPh
+9w(~"
+F;w(|
+=p#D
+h4GD
+h0GD
+t%h$GD
+Vh<GD
+5d#D
+h<GD
+h@GD
+<Uu&;
+CGC;
+hxJD
+Rh@JD
+5p#D
+h8JD
+Rh$JD
+5d#D
+Wh<GD
+SSSSR
+RQPj
+h8HD
+Pj2Q
+Ph,HD
+hP?D
+hh<D
+vhL=D
+t(PhHGD
+Vh<GD
+QRPV
+tTVW
+=t#D
+Qu-h
+hDKD
+hDKD
+5p#D
+h@LD
+WPQR
+WPQR
+SWPQR
+h@LD
+SVW3
+PWWQ
+h`LD
+hXLD
+u*9E
+PhTLD
+5t#D
+Pj	V
+uk9U
+AQRP
+hDKD
+Ph`OD
+PhHND
+uPPP
+h@MD
+hpLD
+5t#D
+5p#D
+h<PD
+h8PD
+htPD
+hpPD
+hlPD
+hhPD
+hdPD
+h`PD
+h\PD
+hXPD
+hTPD
+hPPD
+hLPD
+t'@PWhDPD
+PPPWQR
+Qhp+@
+hdQD
+~?W3
+QSRV
+hpQD
+hpQD
+RRRh
+h@RD
+Ch8RD
+6h(RD
+Rh@JD
+RRRQ
+N8Qh
+h@RD
+h@RD
+QSVW
+h@RD
+SVW3
+hxRD
+RRRP
+Ph SD
+QSVW
+SVWj
+8-uOh
+V8Rh
+Ph@JD
+Rh@JD
+QSVW
+QSVW
+RRRR
+QSVW
+RRRQ
+N,PQ
+SVW3
+RRRRP
+$SVj
+RRRP
+PQRh
+F(_^
+SVWj
+RRRRP
+SVWj
+RRRRP
+=p#D
+QVWj
+h8TD
+hXUD
+hlTD
+u>9u
+Ph@VD
+SVWPhPP@
+h(WD
+h@AD
+hL=D
+hh<D
+hP/D
+hP?D
+ht>D
+h8JD
+h4;D
+h88D
+h`@D
+h(3D
+4ht1D
+%X#D
+%D#D
+hdWD
+8csm
+%8#D
+%(#D
+_^[]
+Y_^[
+Y_^[
+Y__^[
+VVVVV
+PVhpWD
+hp[D
+uMVWS
+ht[D
+_^[]
+hlTD
+hL\D
+SVWj
+hL\D
+5t#D
+_^[]
+SVWj
+hL\D
+hL\D
+=t#D
+hL\D
+_^[]
+SVWP
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+hx\D
+hh\D
+Ph<GD
+jPh(
+QjOjOh
+h@GD
+A8t,h
+hh\D
+t#Vj
+H8V3
+=t#D
+(_^]
+I8hd`D
+I8h(`D
+h@GD
+5d#D
+htED
+h@GD
+5t#D
+$SVW
+I8h(`D
+h@GD
+=d#D
+h@GD
+5t#D
+hh\D
+u[VWj`
+hPv@
+hh\D
+tRWj<j
+hh\D
+hh\D
+p8^]
+H8R3
+tRVj
+s8^_[]
+h`lD
+Ph lD
+PQRVh
+PhPmD
+QWVR
+h8nD
+h0pD
+PhtpD
+Vh0qD
+PhxqD
+Vh@rD
+VhXsD
+Ph sD
+VhXtD
+Ph tD
+VhPuD
+Ph uD
+U$PQR
+Vh@vD
+Vh(wD
+PhlwD
+Vh xD
+PhpxD
+Vh0yD
+Ph|yD
+VhPzD
+Vhp{D
+Ph({D
+U PQR
+Phh|D
+Vh@}D
+VhP~D
+U PQR
+5L#D
+=t#D
+v Sh
+Rh<GD
+hlTD
+QSVWh
+SVWj
+PWVS
+5t#D
+QRPV
+t-Vh
+=t#D
+SVWj
+5t#D
+QSVWh
+RPVQ
+hh\D
+QSVW3
+=L D
+RPWQ
+hh\D
+hh\D
+hh\D
+hh\D
+hh\D
+u&F;
+=t#D
+=t#D
+SVWP3
+hlTD
+5t#D
+t+SW
+PVhDPD
+VWSj
+5t#D
+@_^[]
+_^[]
+SVWP3
+r>PP
+PQWh8
+PRh8
+[_^]
+[_^]
+_^[]
+QPh(
+PSh(
+SVWj
+5`!D
+RPWj
+QRPW
+5t#D
+=t#D
+tS9}
+rNVV
+PQRWhX
+PQhX
+r4VV
+PRShl
+1jdj
+[Vhl
+hL\D
+t:9]
+r5VV
+2jdj
+[_Vh
+r4VV
+PRSh
+1jdj
+3jdj
+H,[Vh
+hTLD
+_^[]
+hTLD
+a@PW
+=t#D
+hTLD
+3_^[
+5t#D
+5t#D
+hTLD
+=L#D
+hh\D
+QHPRh
+u9Wj
+WVhL
+$SV3
+QPhX
+BRPQh
+5t#D
+5t#D
+PQRh
+5t#D
+Wj.V
+QRWV
+_^[]
+_^[]
+Vj0j
+=p#D
+=p#D
+SVHW
+7_^[
+RVh`
+RVh`
+8"u+
+QRVh
+PQVh
+8"u5
+QRVh 
+RPVh
+$QVh0
+hlTD
+E PVSW
+hlTD
+_^[t
+SVWj(j
+hlTD
+VRPW
+VPQW
+H$_^[]
+PQR2
+RPQV
+up_^
+u._^
+hlTD
+PQWhH
+PWQh
+WQRhX
+?.u8hl
+WPQhT
+F(Pj
+#t{WhT
+_ SQRP
+hxRD
+tEh@
+hlTD
+4SVW
+ _^2
+$_^2
+hh\D
+5d#D
+2^[3
+hh\D
+PVWR
+hh\D
+PVWR
+FA;u
+8-uI@3
+[^_]
+^_[]
+SVWP
+PWShH
+hxRD
+SVWP
+PVShH
+hxRD
+hxRD
+PVhH
+G,SW
+t/VPhH
+E#_^[]
+PVhH
+t+VPhH
+E _^[]
+u WV
+PWhH
+QPhH
+VWSQ
+_^[]
+_^[]
+_^[]
+_^[]
+=t#D
+_^[]
+_^[]
+(SVW
+RPQhP
+RPhDPD
+P(Rt
+P RPh
+PhDPD
+v'SR
+_^[]
+WSRP
+^[_]
+jRPV
+jRPV
+PVQW
+VRRj
+PVQW
+h`!A
+VWjR
+u";u
+u;Wj
+PQWV
+=d#D
+v(h`!A
+h`!A
+PQjsh 
+PQj}h 
+hlTD
+veSV
+5t#D
+=t#D
+WPQR
+[_^]
+WSPV
+=p!D
+F8WP
+CpWP
+$Qhp
+N$Qh
+V@Rh
+VTSR
+=t#D
+=t#D
+u<Vj
+SLWR
+QSVW
+= !D
+hh\D
+hh\D
+uQhq
+hh\D
+tCPj
+RPWS
+uVG;=
+hh\D
+hh\D
+j/h4
+=p D
+RShd
+PShd
+=t#D
+hTLD
+PhTLD
+PhTLD
+_^[]
+_[^]
+PWQh
+_[^]
+ht[D
+7_^]
+FHPhH
+N8Qh8
+SVWjPj
+t&Ph
+=t#D
+=t#D
+VWPQ
+_^[]
+_^[]
+<%u(
+HPRQ
+AQP+
+H<0r
+<9v@<.t<<#t8<-t4< t0<+t,<'t(<Lt$<lt <ht
+hxRD
+~'VW
+VPQu$j
+u>h)
+hh\D
+WVSP
+hxRD
+<3u:
+:Nu"
+tbFA
+!!!!!!!!!	
+!!!!!!!!
+!! !
+;.u@C
+U,_^
+RWSPQ
+SWRP
+hlTD
+RPQh
+hlTD
+hlTD
+hlTD
+SWQRhl
+SWQRPh0
+hlTD
+SVWP
+GWh(
+t"Ph
+hlTD
+PWhd
+PQWh
+PWhd
+u/Ph
+WVh8
+_^[]
+SVWh
+_^[]
+hTLD
+h uA
+t_WWWj
+tIWWWj
+5t#D
+SRVWQP
+hxRD
+hh\D
+hh\D
+hh\D
+RWPj
+PQhH
+=t#D
+"G;E
+PVWj
+VWhP!E
+=t!D
+h<!E
+h<!E
+h<!E
+h<!E
+t.Sh
+h<!E
+hh E
+=p"D
+h<!E
+hh E
+h\!E
+QRh "E
+h|"E
+hp"E
+QSVW3
+hBMSR
+hBMSR
+h\#E
+hP#E
+QhH#E
+h,#E
+=t#D
+j0Vh
+j0Ph
+hxRD
+hp&E
+hp&E
+t"j$W
+>$u0
+hX/E
+hP/E
+u=h 
+QWh /E
+F8WP
+CpWP
+$Qhp
+N8Qh8
+SVWjHj
+t&Wh
+=t#D
+=t#D
+dSVWjl
+_^[]
+<#uQ
+VSj|
+h0DE
+hh\D
+h0DE
+hxRD
+SVWPQ
+PRh0@E
+hHDE
+h@GD
+gfff
+hxRD
+4?@;
+j QS
+gfff
+;$u3;}
+;$u6;}
+<3u4
+t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+ t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+@t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+ t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+t5;u
+ t5;u
+t5;u
+;$u+
+;$u=
+<3u@
+tqBA
+|<9U
+|69U
+|=9}
+!!!!!!!!!	
+!!!!!!!!
+!! !
+5,"D
+hxRD
+(SVWh8EE
+=p!D
+h(EE
+_^[f
+h8EE
+hDEE
+hXOE
+h|NE
+h(NE
+hLME
+hhLE
+h$KE
+h,JE
+h4IE
+h,GE
+hHFE
+@u"h|EE
+hpEE
+h`EE
+hTEE
+h|QE
+hpQE
+hdQE
+h8EE
+hDEE
+hTQE
+h(QE
+hTQE
+hTQE
+hTQE
+hTQE
+hpPE
+hXPE
+h@PE
+h,PE
+hHSE
+h<SE
+Sh0SE
+h SE
+h8EE
+hDEE
+.Wh\RE
+&Wh0RE
+@u h
+hpSE
+h\SE
+SVWh
+hxXE
+hpXE
+hdXE
+h\XE
+hLXE
+hDXE
+h8XE
+h0XE
+5t D
+h XE
+hXWE
+hDWE
+h|VE
+hhVE
+ t)h
+hDVE
+h4VE
+htUE
+hhUE
+hhED
+h(ED
+Ph`TE
+PhPTE
+h@TE
+h@TE
+h4TE
+h,TE
+h$TE
+Au/h
+ZuTh
+Ph@YE
+Ph@YE
+RPh@YE
+PQRh
+SVWu
+hxRD
+hh\D
+tyVh8EE
+=p!D
+hpYE
+h`YE
+hPYE
+PhLZE
+h ZE
+PhLZE
+PhLZE
+VQPR
+5t#D
+5t#D
+C,VW
+C4WP
+=t#D
+N(Ph
+^@WS
+h`[E
+hD[E
+h$[E
+ucj`
+FHRSP
+N(Qh
+V(SQPR
+t	_^
+F@WP
+FHSRP
+HQSRQP
+QVRP
+FRPj
+QVRP
+=t#D
+GhVP
+F8QP
+VSPQR
+VPQRW
+PPPWhh
+Fl@B
+SWh|]E
+hh]E
+SWhT]E
+SWh<]E
+h0]E
+Th@B
+ht\E
+h`\E
+hP\E
+F(Ph
+N(Qh
+WuwP
+F(Ph
+F8^]
+^_[]
+Phh^E
+9N v_
+RPQh\^E
+;N r
+Qh<GD
+PhD^E
+QRPh8^E
+Ph<GD
+F SWRP
+4_[^
+F4^]
+F@WP
+0_^]
+=t#D
+QRPh
+QRPh0_E
+hL_E
+h4_E
+=t#D
+_^[]
+t.9;u*jxj
+tU9;uQj@j
+h0_E
+_^[]
+udVj 
+_^[]
+_^[]
+Ph<GD
+hp_E
+hl_E
+Phd_E
+Phd_E
+Qhd_E
+hd_E
+hd_E
+=t#D
+hTLD
+t;h,`E
+jRh@`E
+hxRD
+RPVQ
+SVWj
+PWQVR
+=t#D
+SVWj
+PQVR
+=$ D
+RPVj
+h``E
+wSPSh
+hTLD
+@SPShTLD
+HPSV
+=  D
+h\bE
+h4bE
+htaE
+hHaE
+5t#D
+hTLD
+hTLD
+=( D
+h dE
+=0 D
+Ph dE
+Ph dE
+Ph dE
+h\cE
+Ph dE
+h8cE
+h dE
+h dE
+hHaE
+umWj
+h\dE
+h<dE
+hh\D
+tEVh
+u)Sh0fE
+hXgE
+h@gE
+tnSVh
+SVWh]
+_^[]
+%t#D
+SVW3
+=t#D
+hLhE
+h4hE
+RPhH#E
+Vh@iE
+RWVh
+5t#D
+SVW3
+SVW3
+SVWj@
+tBj 
+5t#D
+=p#D
+hLjE
+t+Vh0jE
+Vh\jE
+PhTkE
+hTkE
+Rh kE
+hpkE
+;0u<
+;0u6
+8H0u
+Ph@nE
+h nE
+?"u?W
+QhH#E
+WhH#E
+u%Vh
+hPmE
+hpkE
+Ph(mE
+Ph`lE
+PQRh
+O4PQ
+Ph<GD
+Ph<GD
+Ph<GD
+Ph<GD
+RPSQ
+PQWR
+zu)j
+QRPV
+SVWP
+PRWQ
+PRWQ
+~	_^2
+hpIB
+hpJB
+hpIB
+j\W3
+QVRS
+;slW
+Cl;sl}5
+;~l|B
+Fl;~l[}
+0j;S
+JR@P
+} j\V
+U QR
+5L#D
+j	h(oE
+tYj/W
+utj-W
+hTLD
+hTLD
+SQWRP
+SRWPQ
+SRWPQ
+tKSV
+^[_]
+h0_B
+t"<\u
+u%hPoE
+PhdoE
+9~8t
+@8WQ
+3^[3
+1VWS
+QRSV
+=0zB
+8^!u	V
+=0zB
+PWVQ
+~!;M
+\2L@B;E
+v	;u
+U$^_
+KDQVR
+~%;u
+\Atf
+;_^2
+\Atf
+\Qt@B;E
+E$^[
+uTWj
+WVPQ
+8E4u=
+8PEu
+8PEu
+PhxqE
+hTqE
+=x!D
+hLqE
+uChxqE
+u$hxqE
+=p!D
+hxqE
+u+hxqE
+u&hxqE
+hxqE
+hhpE
+h<rE
+5t#D
+tmh8EE
+hXrE
+WtIPj
+t4SVW
+=P#D
+u	[_
+u	[_2
+u:Vj
+Wh(sE
+Ph,sE
+PSVh
+PVWh
+97v$
+F;7r
+RPQVh
+QRPVhpyE
+QSVW3
+VWPh
+hLzE
+u$h0zE
+h0zE
+hXzE
+SVWh
+hx{E
+hX{E
+hh\D
+hD{E
+h({E
+hD{E
+hD{E
+;O$}w
+;C$}
+;K ~
+7@_;
+w(VQ
+upW3
+N(QR
+~(WQ
+<Cu@
+Du.8J
+<Tu0
+VWS3
+PQh4
+x	nu
+SVWP
+<}iF
+t=<,u
+^[_]
+u	9]
+[_^]
+[_^]
+WVhx
+u|VW
+x	vu
+tiSF
+uD8E
+RPSj
+QRWP
+Qf;E
+RQSPV
+RQPV
+f;\z
+f;LB
+tF[_2
+=p"D
+:C<~
+C<_[^
+(SVW
+~#Sj
+_^[]
+_^[]
+4SVW
+t#+U
+t	9]
+SPRW
+_^[]
+<?w3
+Ff;E
+Af;E
+qBt)
+f;Qp
+PQRVS
+J?9}
+t~} 
+xBt"S
+f9Xp[w
+QRh8
+VPh`
+u#Vh(
+SWh0
+SPWh
+PVh0
+PhTLD
+VPhTLD
+PShT
+PShT
+t$WRPShT
+PShT
+t-QPShT
+RWPhT
+uzj(S
+ujj)S
+QPSRh
+FVWj
+PShP
+F!^[
+uISPhP
+8DuC
+VWPhP
+5t#D
+WVQR
+5t#D
+PhTLD
+ShTLD
+u+8E
+QWhT
+PWhT
+WhTLD
+=t#D
+VhTLD
+QhTLD
+PSh4
+>_^3
+PSh4
+=t#D
+PQRh
+PSWh
+QSVWj
+FLCK
+=t#D
+=t#D
+FLCK
+=t#D
+SVWj
+hTLD
+5t#D
+(SVW
+, G<^
+<	uo<+t)f
+^wv<&t)f
+&F;u
+L:%u
+B8;]
+\:%;
+}+;E
+s';U
+sD;}
+Wu&Sj
+u&Wj
+[_^]
+sD;M
+Wu&Sj
+[_^]
+u4GC
+RVtS
+x0_^[
+y0_^[
+z0_^[
+uC;{
+9J,t
+9J,t
+^0^[
+^0^[
+ SVW
+t	9U
+u7;M
+u-;U
+P|M=
+~	;U
+~	;]
+wr;}
+u+;E
+X,[]
+_^[]
+Q0Wf
+P,_^t
+tQ;P
+tN;P
+ _^[]
+S$tQ
+S8[]
+S8_^[]
+XKt'
+_^[]
+,h<@s
+,h<@s
+u"+]
+WSh<
+:_[]
+^_[]
+9H0ui
+9X8t
+^[_]
+8YPt
+< r=O
+QVR2
+QVR2
+u3;F
+jTPS
+9Q@u
+t?V3
+xckuH
+t,8^?u
+PQVR
+:Z:t
+u	8S6
+s&;{
+O$Vj
+,!<>
+,!F:
+W8PS
+t	;]
+w*;]
+ue;U
+u	_[
+ul;}
+< |t
+:\>6t2
+:W:t(
+G$Sj
+9N@uF
+8O4t
+G8Qj
+V(_^
+S(PR
+_^[]
+Gc<ct
+$_^[]
+WPt/
+90}-
+QSVW
+AQVS
+u!_[3
+RVWS=
+~%WQ
+] PQR
+AB;M
+F%WP
+f;<Cs
+f;<Kv
+f;<Kv
+f;<Kv
+^}	f;<Ku
+;P,|
+t9x%
+u[[^3
+PQSVRW
+W#QR
+U$PR
+GC_^2
+QRSP
+E BRP
+@;E(
+_^[]
+SQRWVP
+_<]v"
+_<]w
+U ;u
+} ;U
+<$Xf
+v	N+D$
+WVU3
+v	N+D$
+@&!*@*@(msg.v2iutil.DLL_VERSION_ERROR)Could not determine DLL version
+@&!*@*@(msg.v2iutil.V2ILIB)A library function call on thirdparty extent failed:
+@&!*@*@(msg.v2iutil.SYSTEM)A system call failed:
+@&!*@*@(msg.v2iutil.NO_WRITE)Cannot write to the thirdparty image
+@&!*@*@(msg.v2iutil.CHARSET)A character set specific error occurred
+@&!*@*@(msg.v2iutil.LAYOUT_CREATION)Unable to create disk partition layout
+@&!*@*@(msg.v2iutil.MULTIPLE_DISKS)The source computer has more than one disk
+@&!*@*@(msg.v2iutil.INVALID_INPUT)Invalid input
+@&!*@*@(msg.v2iutil.API_NOT_FOUND)A required API was not found
+@&!*@*@(msg.v2iutil.OUT_OF_MEMORY)Could not allocate memory
+@&!*@*@(msg.v2iutil.DLL_LOAD_FAILED)A required DLL could not be loaded
+@&!*@*@(msg.v2iutil.NOT_INITIALIZED)The library is not initialized
+@&!*@*@(msg.v2iutil.NOT_IMPLEMENTED)This functionality is not implemented
+@&!*@*@(msg.v2iutil.SUCCESS)The operation completed successfully
+ha-nfcssl://
+ha-nfc://
+vpxa-nfcssl://
+vpxa-nfc://
+authd://
+Enabling Shared Folders with %s on a Windows host
+   %s -T ws enableSharedFolders "c:\my VMs\myVM.vmx"
+Deleting a snapshot with %s on a Windows host
+   %s -T ws deleteSnapshot "c:\my VMs\myVM.vmx" mySnapshot
+Reverting to a snapshot with %s on a Windows host
+   %s -T ws revertToSnapshot "c:\my VMs\myVM.vmx" mySnapshot
+Creating a snapshot of a virtual machine with %s on a Windows host
+   %s -T ws snapshot "c:\my VMs\myVM.vmx" mySnapshot
+Running a program in a virtual machine with Server on a Linux host with Linux guest
+   %s -T server -h https://myHost.com:8333/sdk -u hostUser -p hostPassword -gu guestUser -gp guestPassword runProgramInGuest "[standard] vm/myVM.vmx" /usr/bin/X11/xclock -display :0
+Running a program in a virtual machine with %s on a Windows host with Windows guest
+   %s -T ws -gu guestUser -gp guestPassword runProgramInGuest "c:\my VMs\myVM.vmx" "c:\Program Files\myProgram.exe"
+Stopping a virtual machine on an %s host
+   %s -T esx -h https://myHost.com/sdk -u hostUser -p hostPassword stop "[storage1] vm/myVM.vmx"
+Starting a virtual machine with %s on a Windows host
+   %s -T ws start "c:\my VMs\myVM.vmx"
+Examples:
+%-25s%s%s
+                         Path to destination vmx file
+                         %s|%s
+                         [-snapshot=Snapshot Name]
+                         [-cloneName=Name]
+clone
+full
+linked
+@&!*@*@(msg.vmrun.usage.cloneVMCommand)Create a copy of the VM
+deleteVM
+@&!*@*@(msg.vmrun.usage.deleteVMCommand)Delete a VM
+listRegisteredVM                              %s
+@&!*@*@(msg.vmrun.usage.listRegisteredVM)List registered VMs
+unregister               %s%s
+@&!*@*@(msg.vmrun.usage.unregisterVM)Unregister a VM
+register                 %s%s
+@&!*@*@(msg.vmrun.usage.registerVM)Register a VM
+checkToolsState
+@&!*@*@(msg.vmrun.usage.checkToolsStateVMCommand)Check the current Tools state
+installTools             %s%s
+@&!*@*@(msg.vmrun.usage.installtools)Install Tools in Guest
+upgradevm                %s%s
+@&!*@*@(msg.vmrun.usage.upgradevm)Upgrade VM file format, virtual hw
+list                                          %s
+@&!*@*@(msg.vmrun.usage.listVM)List all running VMs
+----------------         ----------           -----------
+GENERAL COMMANDS         PARAMETERS           DESCRIPTION
+%-25s%s%s
+%-25s[-wait]
+getGuestIPAddress
+@&!*@*@(msg.vmrun.usage.getGuestIPAddress)Gets the IP address of the guest
+%-25s%s%s
+%-25s[%s|%s|%s]
+%-25svariable name
+readVariable
+@&!*@*@(msg.vmrun.usage.readVariable)Read a variable in the VM state
+%-25s%s%s
+%-25s[%s|%s|%s]
+%-25svariable name
+%-25svariable value
+writeVariable
+runtimeConfig
+guestEnv
+guestVar
+@&!*@*@(msg.vmrun.usage.writeVariable)Write a variable in the VM state
+captureScreen
+@&!*@*@(msg.vmrun.usage.captureScreen)Capture the screen of the VM to a local file
+%-25s%s%s
+%-25sOriginal name
+%-25sNew name
+renameFileInGuest
+@&!*@*@(msg.vmrun.usage.renameFileInGuest)Rename a file in Guest OS
+CopyFileFromGuestToHost
+@&!*@*@(msg.vmrun.usage.copyFileFromGuestToHost)Copy a file from guest OS to host OS
+%-25s%s%s
+%-25s%s
+%-25s%s
+CopyFileFromHostToGuest
+@&!*@*@(msg.vmrun.usage.copyFileFromHostToGuest)Copy a file from host OS to guest OS
+listDirectoryInGuest     %s%s
+                         %s
+@&!*@*@(msg.vmrun.usage.listDirectoryInGuest)List a directory in Guest OS
+CreateTempfileInGuest
+@&!*@*@(msg.vmrun.usage.createTempFileInGuest)Create a temporary file in Guest OS
+deleteDirectoryInGuest
+@&!*@*@(msg.vmrun.usage.deleteDirectoryInGuest)Delete a directory in Guest OS
+createDirectoryInGuest
+@&!*@*@(msg.vmrun.usage.createDirectoryInGuest)Create a directory in Guest OS
+%-25s%s%s
+%-25s%s
+deleteFileInGuest
+@&!*@*@(msg.vmrun.usage.deleteFileInGuest)Delete a file in Guest OS
+%-25s%s%s
+%-25s[-noWait]
+%-25s[-activeWindow]
+%-25s[-interactive]
+%-25sInterpreter path
+%-25sScript text
+runScriptInGuest
+@&!*@*@(msg.vmrun.usage.runScriptInGuest)Run a script in Guest OS
+%-25s%s%s
+%-25sprocess id
+killProcessInGuest
+@&!*@*@(msg.vmrun.usage.killProcessInGuest)Kill a process in Guest OS
+listProcessesInGuest
+@&!*@*@(msg.vmrun.usage.listProcessesInGuest)List running processes in Guest OS
+disableSharedFolders
+@&!*@*@(msg.vmrun.usage.disableSharedFolders)Disable shared folders in Guest
+%-25s%s%s
+%-25s[runtime]
+enableSharedFolders
+@&!*@*@(msg.vmrun.usage.enableSharedFolders)Enable shared folders in Guest
+%-25s%s%s
+%-25sShare name
+removeSharedFolder
+@&!*@*@(msg.vmrun.usage.removeSharedFolder)Remove a Host-Guest shared folder
+%-25s%s%s
+%-25sShare name
+%-25sNew host path
+addSharedFolder
+@&!*@*@(msg.vmrun.usage.addSharedFolder)Add a Host-Guest shared folder
+%-25s%s%s
+%-25sShare name
+%-25sHost path
+%-25swritable | readonly
+setSharedFolderState
+@&!*@*@(msg.vmrun.usage.setSharedFolderState)Modify a Host-Guest shared folder
+%-25s%s%s
+%-25sPath to directory in guest
+directoryExistsInGuest
+@&!*@*@(msg.vmrun.usage.directoryExistsInGuest)Check if a directory exists in Guest OS
+%-25s%s%s
+%-25sPath to file in guest
+fileExistsInGuest
+@&!*@*@(msg.vmrun.usage.fileExistsInGuest)Check if a file exists in Guest OS
+%-25s%s%s
+%-25s[-noWait]
+%-25s[-activeWindow]
+%-25s[-interactive]
+%-25sComplete-Path-To-Program
+%-25s[Program arguments]
+runProgramInGuest
+@&!*@*@(msg.vmrun.usage.runProgramInGuest)Run a program in Guest OS
+GUEST OS COMMANDS        PARAMETERS           DESCRIPTION
+revertToSnapshot
+@&!*@*@(msg.vmrun.usage.revertToSnapshot)Set VM state to a snapshot
+%-25s%s%s
+%-25sSnapshot name
+%-25s[andDeleteChildren]
+deleteSnapshot
+@&!*@*@(msg.vmrun.usage.deleteSnapshot)Remove a snapshot from a VM
+%-25s%s%s
+%-25sSnapshot name
+snapshot
+@&!*@*@(msg.vmrun.usage.snapshot)Create a snapshot of a VM
+%-25s%s%s
+%-25s[showTree]
+listSnapshots
+@&!*@*@(msg.vmrun.usage.listSnapshots)List all snapshots in a VM
+-----------------        ----------           -----------
+SNAPSHOT COMMANDS        PARAMETERS           DESCRIPTION
+unpause
+@&!*@*@(msg.vmrun.usage.unpause)Unpause a VM
+%-25s%s%s
+pause
+@&!*@*@(msg.vmrun.usage.pause)Pause a VM
+suspend
+@&!*@*@(msg.vmrun.usage.suspendVMOrTeam)Suspend a VM or Team
+reset
+@&!*@*@(msg.vmrun.usage.resetVMOrTeam)Reset a VM or Team
+%-25s%s%s
+%-25s[hard|soft]
+stop
+@&!*@*@(msg.vmrun.usage.stopVMOrTeam)Stop a VM or Team
+%-25s%s%s
+%-25s[gui|nogui]
+start
+@&!*@*@(msg.vmrun.usage.startVMOrTeam)Start a VM or Team
+--------------           ----------           -----------
+POWER COMMANDS           PARAMETERS           DESCRIPTION
+AUTHENTICATION-FLAGS
+--------------------
+These must appear before the command and any command parameters.
+   -h <hostName>  (not needed for %s)
+   -P <hostPort>  (not needed for %s)
+   -T <hostType> (ws|server|server1|fusion|esx|vc|player)
+     for example, use '-T server' for %s 2.0
+                  use '-T server1' for %s 1.0
+                  use '-T ws' for %s
+                  use '-T ws-shared' for %s (shared mode)
+                  use '-T esx' for %s
+                  use '-T vc' for %s
+   -u <userName in host OS>  (not needed for %s)
+   -p <password in host OS>  (not needed for %s)
+   -vp <password for encrypted virtual machine>
+   -gu <userName in guest OS>
+   -gp <password in guest OS>
+Server
+VMware Workstation
+VMware ESX
+VMware vCenter Server
+Workstation
+Usage: %s [AUTHENTICATION-FLAGS] COMMAND [PARAMETERS]
+%s version %s
+@&!*@*@(msg.vmrun.usage.orVMTMFile)or vmtm file
+@&!*@*@(msg.vmrun.usage.directoryPath)Directory path in guest
+@&!*@*@(msg.vmrun.usage.pathInGuest)Path in guest
+@&!*@*@(msg.vmrun.usage.pathOnHost)Path on host
+@&!*@*@(msg.vmrun.usage.pathToVMXFile)Path to vmx file     
+%s: %d
+The %s %s.
+does not exist
+exists
+player
+server
+fusion
+ws-shared
+server1
+@&!*@*@(msg.vmrun.report.guestReturnCode)Guest program exited with non-zero exit code: %d
+directory
+file
+Directory list
+listDirectoryInGuest
+Process list
+Total snapshots
+Total registered VMs
+listRegisteredVM
+Error: %s
+@&!*@*@(msg.vmrun.err.specifyHostType)If connecting to Server 1.0, a host type of 'server1' must be specified using the -T option.
+@&!*@*@(msg.vmrun.err.failedHostConnect)Unable to connect to host.
+@&!*@*@(msg.vmrun.err.failedToInitializeVix)%s was unable to start. Please make sure that %s is installed correctly and that you have enough resources available on your system.
+@&!*@*@(msg.vmrun.prompt.hostPassword)Host password: 
+@&!*@*@(msg.vmrun.prompt.hostUser)Host user: 
+Total running VMs
+list
+@&!*@*@(msg.vmrun.err.invalidArg)Invalid argument: %s
+@&!*@*@(msg.vmrun.err.missingOperationName)Missing operation name
+vmrun
+1.15.0
+cloneName
+@&!*@*@(msg.vmrun.err.registerNotSupported)register VM not supported for the specified host type
+@&!*@*@(msg.vmrun.err.noVmNameProvided)No VM name provided
+@&!*@*@(msg.vmrun.err.unregisterNotSupported)unregister VM not supported for the specified host type
+soft
+hard
+%d:%d:%d-%d/%d/%d
+Failing operation: Client reported partial write.
+SeBackupPrivilege
+.vmx
+.vmwarevm
+@&!*@*@(msg.vmrun.err.requireAuthForGuestOs)Command requires valid user name and password for the guest OS
+@&!*@*@(msg.vmrun.err.invalidAuthForGuestOs)Invalid user name or password for the guest OS
+@&!*@*@(msg.vmrun.err.guestOpNotSupported)This operation is not supported on this guest
+@&!*@*@(msg.vmrun.err.vmPaused)The virtual machine is paused: %s
+@&!*@*@(msg.vmrun.err.toolsNotRunInVm)The VMware Tools are not running in the virtual machine: %s
+@&!*@*@(msg.vmrun.err.vmNotPoweredOn)The virtual machine is not powered on: %s
+@&!*@*@(msg.vmrun.prompt.guestPassword)Guest password: 
+@&!*@*@(msg.vmrun.prompt.guestUser)Guest user: 
+@&!*@*@(msg.vmrun.err.canNotOpenVmUnknownExt)Cannot open VM: %s, unknown file suffix
+.vmtm
+@&!*@*@(msg.vmrun.err.canNotOpenVm)Cannot open VM: %s, %s
+.vmxf
+.vmxa
+.cfg
+@&!*@*@(msg.vmrun.prompt.vmPassword)Encrypted virtual machine password: 
+@&!*@*@(msg.vmrun.err.invalidVmName)Invalid VM name
+nogui
+%s%s
+@&!*@*@(msg.vmrun.err.invalidFileNames)Invalid file names
+@&!*@*@(msg.vmrun.err.snapshotAlreadyExists)A snapshot with the name already exists
+@&!*@*@(msg.vmrun.err.badArgMissingSnapshotName)Not enough arguments. Missing snapshot name
+showTree
+@&!*@*@(msg.vmrun.err.missingSnapshotName)Missing snapshot name.
+andDeleteChildren
+@&!*@*@(msg.vmrun.err.missingGuestProgramName)Missing guest program name
+interactive
+activeWindow
+noWait
+@&!*@*@(msg.vmrun.err.invalidFileName)Invalid file name
+NOT_IMPLEMENTED %s:%d
+bora\apps\vmrun\engine.c
+installed
+unknown
+not installed
+running
+@&!*@*@(msg.vmrun.err.CommandFailedNoHint)Command failed: %s
+@&!*@*@(msg.vmrun.err.commandFailedHint)Command failed: %s
+Perhaps the virtual machine is open in a UI tab?
+writable
+@&!*@*@(msg.vmrun.err.invalidCmdlineParams)Invalid command line parameters
+runtime
+-interactive
+-activeWindow
+-noWait
+pid=%I64d, owner=%s, cmd=%s
+@&!*@*@(msg.vmrun.err.vmInUse)This VM is in use.
+NOT_REACHED %s:%d
+@&!*@*@(msg.vmrun.err.invalidCloneType)Invalid clone type: must be "%s" or "%s"
+@&!*@*@(msg.vmrun.err.invalidCloneName)Invalid clone name '%s'
+@&!*@*@(msg.vmrun.err.invalidCloneSnapshot)Invalid snapshot name '%s'
+@&!*@*@(msg.vmrun.err.missingCloneType)Missing clone type: "%s" or "%s".
+@&!*@*@(msg.vmrun.err.missingDestinationPathname)Missing destination pathname.
+@&!*@*@(msg.vmrun.err.canNotGetIpAdddress)Unable to get the IP address
+@&!*@*@(msg.vmrun.err.canNotGetIpAdddressWithError)Unable to get the IP address: %s
+-wait
+@&!*@*@(msg.vmrun.err.unrecognizedCommand)Unrecognized command: %s
+upgradevm
+upgradeTools
+installTools
+unregister
+register
+@&!*@*@(msg.vmrun.err.noCommandProvided)No command provided
+PANIC %s:%d
+bora\lib\unicode\unicodeCommon.c
+%s: Couldn't convert invalid buffer [%s] from %s to Unicode.
+Unicode_AllocWithLength
+(couldn't escape bytes)
+d:\build\ob\bora-2985596\bora\lib\misc\posixInt.h
+12.0
+12.0.0
+VERIFY %s:%d
+bora\lib\productState\productState.c
+productStateLock
+Ignoring subsequent product state set
+build-%05u
+Release
+SOFTWARE\VMware, Inc.\%s
+%s %s
+name
+@&!*@*@(msg.msg.homePageInfo)Home page information
+@&!*@*@(msg.msg.extendLicenseInfo)Extend license information
+@&!*@*@(msg.msg.extendLicenseError)Extend license error
+@&!*@*@(msg.msg.getLicenseError)Get license error
+@&!*@*@(msg.msg.configEditor)Configuration editor
+@&!*@*@(msg.msg.error)Error
+@&!*@*@(msg.msg.warning)Warning
+@&!*@*@(msg.msg.info)Information
+@&!*@*@(button.abort)Cancel
+@&!*@*@(button.cancel)Cancel
+@&!*@*@(button.retry)_Retry
+@&!*@*@(button.ok)OK
+@&!*@*@(button.no)_No
+@&!*@*@(button.yes)_Yes
+?@&!*@*@X
+%-*.*s
+%.*s (%d%%)
+bora\lib\user\msg.c
+----------------------------------------
+%s:%s%s
+Msg_Reset
+%d) %s
+%s %s:
+@&!*@*@(msg.msg.chooseNumber)Select a number from 0-%d: 
+@&!*@*@(msg.msg.question)Question
+@&!*@*@(msg.msg.hint)Hint
+msgLock
+?%s error: %s
+format <%s>
+Vix_ConnectToHost
+VixCrypto_ComputeHash
+VixVM_ListFileSystemsInGuest
+VixVM_CopyFileFromReaderProcToGuest
+VixSnapshot_GetChildEx
+VixSnapshot_GetNumChildrenEx
+VixHost_OpenVM
+VixVM_ConnectNamedDevice
+VixVM_SendMouseEventToGuest
+VixVM_TypeKeystrokesInGuest
+VixVM_IsNamedDeviceConnected
+VixVM_DeleteRegistryKeyInGuest
+VixVM_RegistryKeyExistsInGuest
+VixVM_WriteRegistryIntegerInGuest
+VixVM_WriteRegistryStringInGuest
+VixVM_ReadRegistryIntegerInGuest
+VixVM_ReadRegistryStringInGuest
+VixVM_WaitForUserActionInGuest
+VixVM_GetVProbesVersion
+VixVM_GetFileInfoInGuest
+VixVM_CaptureScreenImage
+VixVM_VProbeReset
+VixVM_VProbeGetGlobalVars
+VixVM_GetVProbes
+VixVM_VProbeLoad
+VixVM_SyncDriverThawInGuest
+VixVM_SyncDriverFreezeInGuest
+VixVM_ListSnapshots
+VixTeam_Reset
+VixTeam_Suspend
+VixTeam_PowerOff
+VixVM_ConvertXMLToVMXPath
+VixTeam_OpenEx
+VixTeam_PowerOn
+VixHost_SetLocalExecutablePath
+FoundryAsyncOp_AbortAllCommandsOnHost
+VixPropertyList_AllocPropertyListVargs
+Vix_AddRefHandle
+VixVM_Unpause
+VixVM_Pause
+VixVM_Clone
+VixVM_SetGuestNetworkingConfig
+VixVM_GetGuestNetworkingConfig
+Vix_IsHandleValid
+Vix_CreateTemporaryObject
+Vix_SetPropertiesVargs
+VixVM_GetNamedSnapshot
+Vix_CancelEventSubscription
+Vix_SubscribeToEvents
+Vix_ReleaseHandleImpl
+Vix_AddRefHandleImpl
+VixVM_EnableSharedFolders
+VixVM_WriteVariable
+VixVM_ReadVariable
+VixVM_AttachUI
+VixJob_GetNthPropertiesVargs
+VixJob_GetNumProperties
+VixSnapshot_GetParent
+VixSnapshot_GetChild
+VixSnapshot_GetNumChildren
+VixVM_GetCurrentSnapshot
+VixVM_RemoveSharedFolder
+VixVM_AddSharedFolder
+VixVM_SetSharedFolderState
+VixVM_GetSharedFolderState
+VixVM_GetNumSharedFolders
+VixVM_DirectoryExistsInGuest
+VixVM_DeleteDirectoryInGuest
+VixVM_CreateDirectoryInGuest
+VixVM_ListDirectoryInGuest
+VixVM_CreateTempFileInGuest
+VixVM_RenameFileInGuest
+VixVM_FileExistsInGuest
+VixVM_DeleteFileInGuest
+VixVM_OpenEx
+VixVM_OpenUrlInGuest
+VixVM_RunScriptInGuest
+VixVM_KillProcessInGuest
+VixVM_ListProcessesInGuest
+VixVM_LogoutFromGuest
+VixJob_CheckCompletion
+VixJob_GetError
+VixJob_WaitVargs
+VixVM_InstallTools
+VixVM_UpgradeVirtualHardware
+VixVM_CreateSnapshot
+VixVM_RevertToSnapshot
+VixVM_RemoveSnapshot
+VixVM_GetRootSnapshot
+VixVM_GetNumRootSnapshots
+VixVM_CopyFileFromHostToGuest
+VixVM_CopyFileFromGuestToHost
+VixVM_RunProgramInGuest
+VixVM_LoginInGuest
+VixVM_WaitForToolsInGuest
+VixVM_Delete
+VixVM_Suspend
+VixVM_Reset
+VixVM_PowerOff
+VixVM_PowerOn
+VixVM_Open
+Vix_PumpEvents
+VixHost_FindItems
+VixHost_UnregisterVM
+VixHost_RegisterVM
+VixHost_Disconnect
+VixHost_Connect
+Vix_GetPropertyType
+Vix_GetPropertiesVargs
+Vix_GetHandleType
+Vix_ReleaseHandle
+VixJob_OnFinishAsynchOpWithHandle
+VixJob_CreateJobWithCallback
+Vix_FreeBuffer
+Vix_GetErrorText
+FoundryInitializeHandleDllID
+no such function 'VixJob_CreateJobWithCallback' for version %d
+No implementation libraries loaded, cannot call 'VixJob_CreateJobWithCallback'
+no such function 'VixJob_OnFinishAsynchOpWithHandle' for version %d
+No implementation libraries loaded, cannot call 'VixJob_OnFinishAsynchOpWithHandle'
+no such function 'VixHost_Connect' for version %d
+No Vix library found for provider %d revision %d, err %I64d
+no such function 'Vix_GetErrorText' for version %d
+The operation is not supported for the specified parameters
+No implementation libraries loaded, cannot call 'Vix_GetErrorText'
+Cannot connect with multiple service providers
+Cannot find support libraries; Vix appears to have not been installed
+The specified service provider was not found
+The specified version was not found
+Service type VIX_SERVICEPROVIDER_VMWARE_PLAYER was specified, but not installed
+Service type VIX_SERVICEPROVIDER_VMWARE_WORKSTATION was specified, but not installed
+no such function 'Vix_FreeBuffer' for version %d
+No implementation libraries loaded, cannot call 'Vix_FreeBuffer'
+No such function 'Vix_ReleaseHandle' for version %d
+Cannot find library for handle %d for function 'Vix_ReleaseHandle'.
+No such function 'Vix_GetHandleType' for version %d
+Cannot find library for handle %d for function 'Vix_GetHandleType'.
+No such function 'Vix_GetPropertiesVargs' for version %d
+Cannot find library for handle %d for function 'Vix_GetPropertiesVargs'.
+No such function 'VixJob_GetNumProperties' for version %d
+Cannot find library for handle %d for function 'VixJob_GetNumProperties'.
+No such function 'VixJob_GetNthPropertiesVargs' for version %d
+Cannot find library for handle %d for function 'VixJob_GetNthPropertiesVargs'.
+No such function 'VixHost_Disconnect' for version %d
+Cannot find library for handle %d for function 'VixHost_Disconnect'.
+No such function 'VixHost_RegisterVM' for version %d
+Cannot find library for handle %d for function 'VixHost_RegisterVM'.
+No such function 'VixHost_UnregisterVM' for version %d
+Cannot find library for handle %d for function 'VixHost_UnregisterVM'.
+No such function 'VixHost_FindItems' for version %d
+Cannot find library for handle %d for function 'VixHost_FindItems'.
+No such function 'VixVM_OpenEx' for version %d
+Cannot find library for handle %d for function 'VixVM_OpenEx'.
+No such function 'VixVM_PowerOn' for version %d
+Cannot find library for handle %d for function 'VixVM_PowerOn'.
+No such function 'VixVM_PowerOff' for version %d
+Cannot find library for handle %d for function 'VixVM_PowerOff'.
+No such function 'VixVM_Reset' for version %d
+Cannot find library for handle %d for function 'VixVM_Reset'.
+No such function 'VixVM_Suspend' for version %d
+Cannot find library for handle %d for function 'VixVM_Suspend'.
+No such function 'VixVM_Delete' for version %d
+Cannot find library for handle %d for function 'VixVM_Delete'.
+No such function 'VixVM_WaitForToolsInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_WaitForToolsInGuest'.
+No such function 'VixVM_LoginInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_LoginInGuest'.
+No such function 'VixVM_RunProgramInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_RunProgramInGuest'.
+No such function 'VixVM_ListProcessesInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_ListProcessesInGuest'.
+No such function 'VixVM_KillProcessInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_KillProcessInGuest'.
+No such function 'VixVM_RunScriptInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_RunScriptInGuest'.
+No such function 'VixVM_CopyFileFromHostToGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_CopyFileFromHostToGuest'.
+No such function 'VixVM_CopyFileFromReaderProcToGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_CopyFileFromReaderProcToGuest'.
+No such function 'VixVM_CopyFileFromGuestToHost' for version %d
+Cannot find library for handle %d for function 'VixVM_CopyFileFromGuestToHost'.
+No such function 'VixVM_DeleteFileInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_DeleteFileInGuest'.
+No such function 'VixVM_FileExistsInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_FileExistsInGuest'.
+No such function 'VixVM_RenameFileInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_RenameFileInGuest'.
+No such function 'VixVM_CreateTempFileInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_CreateTempFileInGuest'.
+No such function 'VixVM_ListDirectoryInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_ListDirectoryInGuest'.
+No such function 'VixVM_CreateDirectoryInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_CreateDirectoryInGuest'.
+No such function 'VixVM_DeleteDirectoryInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_DeleteDirectoryInGuest'.
+No such function 'VixVM_DirectoryExistsInGuest' for version %d
+Cannot find library for handle %d for function 'VixVM_DirectoryExistsInGuest'.
+No such function 'VixVM_GetNumRootSnapshots' for version %d
+Cannot find library for handle %d for function 'VixVM_GetNumRootSnapshots'.
+No such function 'VixVM_GetRootSnapshot' for version %d
+Cannot find library for handle %d for function 'VixVM_GetRootSnapshot'.
+No such function 'VixVM_GetNamedSnapshot' for version %d
+Cannot find library for handle %d for function 'VixVM_GetNamedSnapshot'.
+No such function 'VixVM_RemoveSnapshot' for version %d
+Cannot find library for handle %d for function 'VixVM_RemoveSnapshot'.
+No such function 'VixVM_RevertToSnapshot' for version %d
+Cannot find library for handle %d for function 'VixVM_RevertToSnapshot'.
+No such function 'VixVM_CreateSnapshot' for version %d
+Cannot find library for handle %d for function 'VixVM_CreateSnapshot'.
+No such function 'VixSnapshot_GetNumChildren' for version %d
+Cannot find library for handle %d for function 'VixSnapshot_GetNumChildren'.
+No such function 'VixSnapshot_GetChild' for version %d
+Cannot find library for handle %d for function 'VixSnapshot_GetChild'.
+No such function 'VixVM_UpgradeVirtualHardware' for version %d
+Cannot find library for handle %d for function 'VixVM_UpgradeVirtualHardware'.
+No such function 'VixVM_InstallTools' for version %d
+Cannot find library for handle %d for function 'VixVM_InstallTools'.
+No such function 'VixVM_SetSharedFolderState' for version %d
+Cannot find library for handle %d for function 'VixVM_SetSharedFolderState'.
+No such function 'VixVM_AddSharedFolder' for version %d
+Cannot find library for handle %d for function 'VixVM_AddSharedFolder'.
+No such function 'VixVM_RemoveSharedFolder' for version %d
+Cannot find library for handle %d for function 'VixVM_RemoveSharedFolder'.
+No such function 'VixJob_WaitVargs' for version %d
+Cannot find library for handle %d for function 'VixJob_WaitVargs'.
+No such function 'VixVM_ReadVariable' for version %d
+Cannot find library for handle %d for function 'VixVM_ReadVariable'.
+No such function 'VixVM_WriteVariable' for version %d
+Cannot find library for handle %d for function 'VixVM_WriteVariable'.
+No such function 'VixVM_EnableSharedFolders' for version %d
+Cannot find library for handle %d for function 'VixVM_EnableSharedFolders'.
+No such function 'Vix_ReleaseHandleImpl' for version %d
+Cannot find library for handle %d for function 'Vix_ReleaseHandleImpl'.
+No such function 'VixVM_Pause' for version %d
+Cannot find library for handle %d for function 'VixVM_Pause'.
+No such function 'VixVM_Unpause' for version %d
+Cannot find library for handle %d for function 'VixVM_Unpause'.
+No such function 'VixVM_Clone' for version %d
+Cannot find library for handle %d for function 'VixVM_Clone'.
+No such function 'VixPropertyList_AllocPropertyListVargs' for version %d
+Cannot find library for handle %d for function 'VixPropertyList_AllocPropertyListVargs'.
+No such function 'FoundryAsyncOp_AbortAllCommandsOnHost' for version %d
+Cannot find library for handle %d for function 'FoundryAsyncOp_AbortAllCommandsOnHost'.
+No such function 'VixTeam_PowerOn' for version %d
+Cannot find library for handle %d for function 'VixTeam_PowerOn'.
+No such function 'VixTeam_OpenEx' for version %d
+Cannot find library for handle %d for function 'VixTeam_OpenEx'.
+no such function 'VixVM_ConvertXMLToVMXPath' for version %d
+No implementation libraries loaded, cannot call 'VixVM_ConvertXMLToVMXPath'
+No such function 'VixTeam_PowerOff' for version %d
+Cannot find library for handle %d for function 'VixTeam_PowerOff'.
+No such function 'VixTeam_Suspend' for version %d
+Cannot find library for handle %d for function 'VixTeam_Suspend'.
+No such function 'VixTeam_Reset' for version %d
+Cannot find library for handle %d for function 'VixTeam_Reset'.
+No such function 'VixVM_CaptureScreenImage' for version %d
+Cannot find library for handle %d for function 'VixVM_CaptureScreenImage'.
+Unrecoverable memory allocation failure
+iscii-gur
+x-iscii-pa
+Windows-57011
+x-iscii-guj
+x-iscii-gu
+Windows-57010
+iscii-mlm
+x-iscii-ma
+Windows-57009
+iscii-knd
+x-iscii-ka
+Windows-57008
+iscii-ori
+x-iscii-or
+Windows-57007
+x-iscii-as
+Windows-57006
+iscii-tlg
+x-iscii-te
+Windows-57005
+iscii-tml
+x-iscii-ta
+Windows-57004
+iscii-bng
+x-iscii-be
+Windows-57003
+ibm-4902
+iscii-dev
+x-iscii-de
+Windows-57002
+Windows-51950
+Windows-50939
+Windows-50937
+Windows-50936
+Windows-50935
+Windows-50933
+Windows-50931
+Windows-50930
+Windows-50229
+iso-8859-8-i
+x-Europa
+Windows-29001
+Windows-21027
+ibm-1025_P100-1995
+1025
+ibm-1025
+cp1025
+x-cp20949
+Windows-20949
+x-EBCDIC-KoreanExtended
+Windows-20833
+x-cp20269
+Windows-20269
+x-IA5-Norwegian
+Windows-20108
+x-IA5-Swedish
+Windows-20107
+x-IA5-German
+Windows-20106
+x-IA5
+Windows-20105
+x-cp20005
+Windows-20005
+x-cp20004
+Windows-20004
+x-cp20003
+Windows-20003
+x_Chinese-Eten
+Windows-20002
+x-cp20001
+Windows-20001
+x-Chinese_CNS
+Windows-20000
+x-mac-croatian
+Windows-10082
+macos-35-10.2
+mactr
+x-mac-turkish
+Windows-10081
+x-mac-icelandic
+Windows-10079
+macos-29-10.2
+x-mac-centraleurroman
+maccentraleurope
+macce
+x-mac-ce
+Windows-10029
+x-mac-thai
+Windows-10021
+x-mac-ukrainian
+Windows-10017
+x-mac-romanian
+Windows-10010
+x-mac-chinesesimp
+Windows-10008
+macos-7_3-10.2
+mac-cyrillic
+maccy
+x-mac-cyrillic
+Windows-10007
+macos-6_2-10.4
+macgr
+x-mac-greek
+Windows-10006
+x-mac-hebrew
+Windows-10005
+x-mac-arabic
+Windows-10004
+x-mac-korean
+Windows-10003
+x-mac-chinesetrad
+Windows-10002
+x-mac-japanese
+Windows-10001
+Windows-10000
+Johab
+Windows-1361
+ibm-875_P100-1995
+IBM875
+ibm-875
+cp875
+ibm-737_P100-1997
+cp737
+IBM737
+Windows-737
+ibm-720_P100-1997
+ibm-720
+DOS_720
+DOS-720
+Windows-720
+Windows-710
+BCON_V4
+ASMO-449+
+Windows-709
+MS874
+windows-874-2000
+ibm-1258_P100-1997
+ibm-1258
+cp1258
+ibm-5354
+ibm-5354_P100-1998
+windows-1258
+ibm-5353_P100-1998
+ibm-5353
+cp1257
+ibm-9449
+ibm-9449_P100-2002
+windows-1257
+ibm-5352_P100-1998
+ibm-5352
+cp1256
+ibm-9448
+ibm-9448_X100-2005
+windows-1256
+ibm-5351_P100-1998
+ibm-5351
+cp1255
+ibm-9447
+ibm-9447_P100-2002
+windows-1255
+ibm-1254_P100-1995
+ibm-1254
+cp1254
+ibm-5350
+ibm-5350_P100-1998
+windows-1254
+ibm-1253_P100-1995
+ibm-1253
+cp1253
+ibm-5349
+ibm-5349_P100-1998
+windows-1253
+ibm-1252
+ibm-1252_P100-2000
+cp1252
+ibm-5348
+ibm-5348_P100-1997
+windows-1252
+ibm-1251
+ibm-1251_P100-1995
+ANSI1251
+cp1251
+ibm-5347
+ibm-5347_P100-1998
+windows-1251
+ibm-1250
+ibm-1250_P100-1995
+cp1250
+ibm-5346
+ibm-5346_P100-1998
+windows-1250
+csTSCII
+TSCII
+csBRF
+KOI7-switched
+Ami-1251
+Amiga1251
+Ami1251
+Amiga-1251
+Cyrillic-Asian
+CP154
+PT154
+csPTCP154
+PTCP154
+ibm-1047_P100-1995
+1047
+cp1047
+IBM-1047
+IBM1047
+hkbig5
+MS950_HKSCS
+ibm-5471
+ibm-5471_P100-2006
+HKSCS-BIG5
+big5hk
+ibm-1375
+ibm-1375_P100-2007
+Big5-HKSCS
+ibm-1149_P100-1997
+cp1149
+ibm-1149
+ebcdic-is-871+euro
+CP01149
+CCSID01149
+IBM01149
+ibm-1148_P100-1997
+cp1148
+ibm-1148
+ebcdic-international-500+euro
+CP01148
+CCSID01148
+IBM01148
+ibm-1147_P100-1997
+cp1147
+ibm-1147
+ebcdic-fr-297+euro
+CP01147
+CCSID01147
+IBM01147
+ibm-1146_P100-1997
+cp1146
+ibm-1146
+ebcdic-gb-285+euro
+CP01146
+CCSID01146
+IBM01146
+ibm-1145_P100-1997
+cp1145
+ibm-1145
+ebcdic-es-284+euro
+CP01145
+CCSID01145
+IBM01145
+ibm-1144_P100-1997
+cp1144
+ibm-1144
+ebcdic-it-280+euro
+CP01144
+CCSID01144
+IBM01144
+ibm-1143_P100-1997
+cp1143
+ibm-1143
+ebcdic-se-278+euro
+ebcdic-fi-278+euro
+CP01143
+CCSID01143
+IBM01143
+ibm-1142_P100-1997
+cp1142
+ibm-1142
+ebcdic-no-277+euro
+ebcdic-dk-277+euro
+CP01142
+CCSID01142
+IBM01142
+ibm-1141_P100-1997
+cp1141
+ibm-1141
+ebcdic-de-273+euro
+CP01141
+CCSID01141
+IBM01141
+ibm-1140_P100-1997
+cp1140
+ibm-1140
+ebcdic-us-37+euro
+CP01140
+CCSID01140
+IBM01140
+ebcdic-Latin9--euro
+CP00924
+CCSID00924
+IBM00924
+ibm-858_P100-1997
+cp858
+ibm-858
+PC-Multilingual-850+euro
+CP00858
+CCSID00858
+IBM00858
+ibm-1168_P100-2002
+ibm-1168
+KOI8-U
+ibm-775_P100-1996
+csPC775Baltic
+cp775
+IBM775
+ibm-866_P100-1995
+csIBM866
+cp866
+IBM866
+HZ-GB-2312
+ibm-878_P100-1996
+ibm-878
+cp878
+koi8
+csKOI8R
+KOI8-R
+csVIQR
+VIQR
+csVISCII
+VISCII
+csMnem
+MNEM
+csMnemonic
+MNEMONIC
+csUnknown8BiT
+UNKNOWN-8BIT
+csEBCDICUS
+EBCDIC-US
+csEBCDICUK
+EBCDIC-UK
+csEBCDICESS
+EBCDIC-ES-S
+csEBCDICESA
+EBCDIC-ES-A
+csEBCDICES
+EBCDIC-ES
+csEBCDICPT
+EBCDIC-PT
+csEBCDICIT
+EBCDIC-IT
+csEBCDICFR
+EBCDIC-FR
+csEBCDICFISEA
+EBCDIC-FI-SE-A
+csEBCDICFISE
+EBCDIC-FI-SE
+csEBCDICDKNOA
+EBCDIC-DK-NO-A
+csEBCDICDKNO
+EBCDIC-DK-NO
+csEBCDICCAFR
+EBCDIC-CA-FR
+csEBCDICATDEA
+EBCDIC-AT-DE-A
+csIBMEBCDICATDE
+EBCDIC-AT-DE
+1026
+ibm-1026_P100-1995
+csIBM1026
+CP1026
+IBM1026
+ibm-918_P100-1995
+csIBM918
+ebcdic-cp-ar2
+CP918
+IBM918
+csIBM905
+ebcdic-cp-tr
+CP905
+IBM905
+csIBBM904
+cp904
+IBM904
+csIBM903
+cp903
+IBM903
+csIBM891
+cp891
+IBM891
+csIBM880
+EBCDIC-Cyrillic
+cp880
+IBM880
+ebcdic-is
+ibm-871_P100-1995
+csIBM871
+ebcdic-cp-is
+CP871
+IBM871
+ibm-870_P100-1995
+csIBM870
+ebcdic-cp-yu
+ebcdic-cp-roece
+CP870
+IBM870
+ibm-869_P100-1995
+csIBM869
+cp-gr
+cp869
+IBM869
+ibm-868_P100-1995
+csIBM868
+cp-ar
+CP868
+IBM868
+ibm-865_P100-1995
+csIBM865
+cp865
+IBM865
+ibm-864_X110-1999
+csIBM864
+cp864
+IBM864
+ibm-863_P100-1995
+csIBM863
+cp863
+IBM863
+ibm-861_P100-1995
+csIBM861
+cp-is
+cp861
+IBM861
+ibm-860_P100-1995
+csIBM860
+cp860
+IBM860
+ibm-857_P100-1995
+csIBM857
+cp857
+IBM857
+csPCp855
+ibm-855_P100-1995
+csIBM855
+cp855
+IBM855
+ibm-852_P100-1995
+csPCp852
+cp852
+IBM852
+csPC851
+ibm-851_P100-1995
+csIBM851
+cp851
+IBM851
+ibm-500_P100-1995
+csIBM500
+ebcdic-cp-ch
+ebcdic-cp-be
+CP500
+IBM500
+ibm-437_P100-1995
+csPC8CodePage437
+cp437
+IBM437
+ibm-424_P100-1995
+csIBM424
+ebcdic-cp-he
+cp424
+IBM424
+csIBM423
+ebcdic-cp-gr
+cp423
+IBM423
+ibm-420_X120-1999
+csIBM420
+ebcdic-cp-ar1
+cp420
+IBM420
+cpibm297
+ibm-297_P100-1995
+csIBM297
+ebcdic-cp-fr
+cp297
+IBM297
+ibm-290_P100-1995
+csIBM290
+EBCDIC-JP-kana
+cp290
+IBM290
+csIBM285
+ebcdic-cp-gb
+CP285
+IBM285
+cpibm284
+ibm-284_P100-1995
+csIBM284
+ebcdic-cp-es
+CP284
+IBM284
+csIBM281
+cp281
+EBCDIC-JP-E
+IBM281
+ibm-280_P100-1995
+csIBM280
+ebcdic-cp-it
+CP280
+IBM280
+ebcdic-sv
+ibm-278_P100-1995
+csIBM278
+ebcdic-cp-se
+ebcdic-cp-fi
+CP278
+IBM278
+ebcdic-dk
+cp277
+ibm-277_P100-1995
+csIBM277
+EBCDIC-CP-NO
+EBCDIC-CP-DK
+IBM277
+csIBM275
+cp275
+EBCDIC-BR
+IBM275
+csIBM274
+CP274
+EBCDIC-BE
+IBM274
+ebcdic-de
+ibm-273_P100-1995
+csIBM273
+CP273
+IBM273
+csIBM038
+cp038
+EBCDIC-INT
+IBM038
+cp37
+cpibm37
+ibm-37
+ibm-37_P100-1995
+csIBM037
+ebcdic-cp-nl
+ebcdic-cp-wt
+ebcdic-cp-ca
+ebcdic-cp-us
+cp037
+IBM037
+x-macroman
+macroman
+macos-0_2-10.2
+csMacintosh
+macintosh
+ibm-1373
+ibm-1373_P100-2002
+x-big5
+windows-950-2000
+windows-950
+csBig5
+Big5
+ibm-1383_VPUA
+hp15CN
+ibm-eucCN
+EUC-CN
+1383
+cp1383
+ibm-1383
+ibm-1383_P110-1999
+csGB2312
+GB2312
+csWindows31J
+Windows-31J
+csMicrosoftPublishing
+Microsoft-Publishing
+csVenturaMath
+Ventura-Math
+csHPDesktop
+HP-DeskTop
+csHPPSMath
+Adobe-Symbol-Encoding
+csHPMath8
+HP-Math8
+csHPPiFont
+HP-Pi-font
+csHPLegal
+HP-Legal
+ibm-9030
+cp838
+IBM838
+ibm-838
+ibm-838_P100-1995
+csIBMThai
+IBM-Thai
+csIBMSymbols
+IBM-Symbols
+csPC8Turkish
+PC8-Turkish
+DOS-862
+ibm-862_P100-1995
+csPC862LatinHebrew
+cp862
+IBM862
+csPC8DanishNorwegian
+PC8-Danish-Norwegian
+ibm-850_P100-1995
+csPC850Multilingual
+cp850
+IBM850
+csDECMCS
+DEC-MCS
+csVenturaInternational
+Ventura-International
+csVenturaUS
+Ventura-US
+ibm-1276
+ibm-1276_P100-1995
+csAdobeStandardEncoding
+Adobe-Standard-Encoding
+ibm-1051
+ibm-1051_P100-1995
+csHPRoman8
+roman8
+hp-roman8
+csWindows31Latin5
+ISO-8859-9-Windows-Latin-5
+csWindows31Latin2
+ISO-8859-2-Windows-Latin-2
+csWindows31Latin1
+ISO-8859-1-Windows-3.1-Latin-1
+csWindows30Latin1
+ISO-8859-1-Windows-3.0-Latin-1
+ibm-1215
+ibm-1214
+csBOCU-1
+BOCU-1
+ibm-1235
+ibm-1234
+UTF32_LittleEndian
+UTF-32LE
+ibm-9424
+ibm-1233
+ibm-1232
+UTF32_BigEndian
+UTF-32BE
+UTF-32
+ibm-9400
+csCESU-8
+CESU-8
+UTF-16
+UnicodeLittleUnmarked
+UTF16_LittleEndian
+ibm-29875
+ibm-29874
+ibm-25779
+ibm-25778
+ibm-21683
+ibm-21682
+ibm-17587
+ibm-17586
+ibm-13491
+ibm-13490
+ibm-1203
+ibm-1202
+x-utf-16le
+UTF-16LE
+UnicodeBigUnmarked
+UTF16_BigEndian
+cp1201
+cp1200
+ibm-61956
+ibm-61955
+ibm-29873
+ibm-29872
+ibm-25777
+ibm-25776
+ibm-21681
+ibm-21680
+ibm-17585
+ibm-17584
+ibm-13489
+ibm-13488
+ibm-1201
+ibm-1200
+x-utf-16be
+UTF-16BE
+UTF-7
+ibm-1213
+ibm-1212
+SCSU
+csUnicode11
+UNICODE-1-1
+csUnicodeIBM1265
+ISO-Unicode-IBM-1265
+csUnicodeIBM1264
+ISO-Unicode-IBM-1264
+csUnicodeIBM1276
+ISO-Unicode-IBM-1276
+csUnicodeIBM1268
+ISO-Unicode-IBM-1268
+csUnicodeIBM1261
+ISO-Unicode-IBM-1261
+ISO-10646-J-1
+ISO-10646
+csUnicodeLatin1
+ISO-10646-Unicode-Latin1
+csUnicodeASCII
+ISO-10646-UCS-Basic
+ucs-4
+ibm-1237
+ibm-1236
+csUCS4
+ISO-10646-UCS-4
+ucs-2
+unicode
+ibm-1205
+ibm-1204
+csUnicode
+ISO-10646-UCS-2
+csKZ1048
+RK1048
+STRK1048-2002
+KZ-1048
+csISO115481
+ISO_TR_11548-1
+ISO_11548-1
+ISO-11548-1
+OSD_EBCDIC_DF04_1
+OSD_EBCDIC_DF03_IRV
+OSD_EBCDIC_DF04_15
+ibm-1392
+GB18030
+ibm-1386_VSUB_VPUA
+cp1386
+ibm-1386
+ibm-1386_P100-2001
+windows-936-2000
+windows-936
+MS936
+CP936
+latin10
+ISO_8859-16
+ISO_8859-16:2001
+iso-ir-226
+ISO-8859-16
+eucTH
+tis620.2533
+TIS-620
+ibm-9066
+cp874
+ibm-874_P100-1995
+ibm-874
+iso8859_15_fdis
+cp923
+csisolatin9
+csisolatin0
+latin0
+8859_15
+ibm-923
+ibm-923_P100-1998
+Latin-9
+ISO_8859-15
+ISO-8859-15
+iso-celtic
+latin8
+ISO_8859-14
+ISO_8859-14:1998
+iso-ir-199
+ISO-8859-14
+cp921
+8859_13
+ibm-921
+ibm-921_P100-1995
+ISO-8859-13
+cp1208
+ibm-17593
+ibm-17592
+ibm-13497
+ibm-13496
+ibm-5305
+ibm-5304
+ibm-1209
+ibm-1208
+UTF-8
+ISO-2022-CN-EXT
+csISO2022CN
+ISO-2022-CN
+csUnicode11UTF7
+UNICODE-1-1-UTF-7
+csKSC5636
+ISO646-KR
+KSC5636
+csDKUS
+dk-us
+csUSDK
+us-dk
+csISO646Danish
+ISO646-DK
+DS2089
+DS_2089
+csISO159JISX02121990
+iso-ir-159
+x0212
+JIS_X0212-1990
+csISO158Lap
+iso-ir-158
+latin-lap
+csISO10367Box
+iso-ir-155
+ISO_10367-box
+csISO8859Supp
+latin1-2-5
+iso-ir-154
+ISO_8859-supp
+csISO153GOST1976874
+iso-ir-153
+ST_SEV_358-88
+GOST_19768-74
+csISO6937Add
+iso-ir-152
+ISO_6937-2-25
+csISO151Cuba
+ISO646-CU
+iso-ir-151
+cuba
+NC_NC00-10:81
+csISO150GreekCCITT
+csISO150
+iso-ir-150
+greek-ccitt
+csISO147Macedonian
+iso-ir-147
+macedonian
+JUS_I.B1.003-mac
+csISO146Serbian
+serbian
+iso-ir-146
+JUS_I.B1.003-serb
+csISO143IECP271
+iso-ir-143
+IEC_P27-1
+csISO141JUSIB1002
+ISO646-YU
+iso-ir-141
+JUS_I.B1.002
+csISO139CSN369103
+iso-ir-139
+CSN_369103
+ISO-8859-8-I
+csISO88598I
+ISO_8859-8-I
+ISO-8859-8-E
+csISO88598E
+ISO_8859-8-E
+csISO128T101G2
+iso-ir-128
+T.101-G2
+ISO-8859-6-I
+csISO88596I
+ISO_8859-6-I
+ISO-8859-6-E
+csISO88596E
+ISO_8859-6-E
+csISO123CSAZ24341985gr
+iso-ir-123
+CSA_Z243.4-1985-gr
+csISO122Canadian2
+csa7-2
+ISO646-CA2
+iso-ir-122
+CSA_Z243.4-1985-2
+csISO121Canadian1
+csa7-1
+ISO646-CA
+iso-ir-121
+CSA_Z243.4-1985-1
+csISO111ECMACyrillic
+KOI8-E
+iso-ir-111
+ECMA-cyrillic
+csISO103T618bit
+iso-ir-103
+T.61
+T.61-8bit
+csISO102T617bit
+iso-ir-102
+T.61-7bit
+csISO99NAPLPS
+NAPLPS
+CSA_T500-1983
+iso-ir-99
+ANSI_X3.110-1983
+csISO2033
+e13b
+iso-ir-98
+ISO_2033-1983
+csISO96JISC62291984kana
+iso-ir-96
+JIS_C6229-1984-kana
+csISO95JIS62291984handadd
+jp-ocr-hand-add
+iso-ir-95
+JIS_C6229-1984-hand-add
+csISO94JIS62291984hand
+jp-ocr-hand
+iso-ir-94
+JIS_C6229-1984-hand
+csISO93JIS62291984badd
+jp-ocr-b-add
+iso-ir-93
+JIS_C6229-1984-b-add
+csISO92JISC62991984b
+jp-ocr-b
+ISO646-JP-OCR-B
+iso-ir-92
+JIS_C6229-1984-b
+csISO91JISC62291984a
+jp-ocr-a
+iso-ir-91
+JIS_C6229-1984-a
+csISO90
+iso-ir-90
+csISO89ASMO449
+iso-ir-89
+arabic7
+ISO_9036
+ASMO_449
+csISO88Greek7
+iso-ir-88
+greek7
+csISO87JISX0208
+JIS_X0208-1983
+x0208
+iso-ir-87
+JIS_C6226-1983
+csISO86Hungarian
+ISO646-HU
+iso-ir-86
+MSZ_7795.3
+csISO85Spanish2
+ISO646-ES2
+iso-ir-85
+csISO84Portuguese2
+ISO646-PT2
+iso-ir-84
+csISO70VideotexSupp1
+iso-ir-70
+videotex-suppl
+csISO61Norwegian2
+iso-ir-61
+ISO646-NO2
+NS_4551-2
+GB2312.1980-0
+gb2312-1980
+ibm-5478
+ibm-5478_P100-1995
+csISO58GB231280
+chinese
+iso-ir-58
+GB_2312-80
+csISO57GB1988
+ISO646-CN
+iso-ir-57
+GB_1988-80
+csISO5428Greek
+iso-ir-55
+ISO_5428:1980
+ISO5427Cyrillic1981
+iso-ir-54
+ISO_5427:1981
+csISO51INISCyrillic
+iso-ir-51
+INIS-cyrillic
+csISO50INIS8
+iso-ir-50
+INIS-8
+csISO49INIS
+iso-ir-49
+INIS
+csISO47BSViewdata
+iso-ir-47
+BS_viewdata
+csISO42JISC62261978
+iso-ir-42
+JIS_C6226-1978
+csISO5427Cyrillic
+iso-ir-37
+ISO_5427
+csISO27LatinGreek1
+iso-ir-27
+Latin-greek-1
+csISO25French
+ISO646-FR1
+iso-ir-25
+NF_Z_62-010_(1973)
+csISO19LatinGreek
+iso-ir-19
+latin-greek
+csISO18Greek7Old
+iso-ir-18
+greek7-old
+csISO16Portuguese
+ISO646-PT
+iso-ir-16
+csISO14JISC6220ro
+ISO646-JP
+iso-ir-14
+JIS_C6220-1969-ro
+csISO13JISC6220jp
+x0201-7
+katakana
+iso-ir-13
+JIS_C6220-1969
+JIS_C6220-1969-jp
+csISO2022JP2
+ISO-2022-JP-2
+ibm-5054
+ISO-2022-JP-1
+csISO2022JP
+ISO-2022-JP
+csISO2022KR
+ISO-2022-KR
+ibm-1363_VSUB_VPUA
+cp1363
+ibm-1363
+ibm-1363_P11B-1998
+ms949
+iso-ir-149
+korean
+csKSC56011987
+KS_C_5601-1989
+windows-949-2000
+ibm-970_VPUA
+cp970
+5601
+KSC_5601
+ibm-eucKR
+csEUCKR
+EUC-KR
+ibm-970
+ibm-970_P110_P110-2006_U2
+KS_C_5601-1987
+csISO10Swedish
+ISO646-SE
+ISO646-FI
+iso-ir-10
+SEN_850200_B
+csNATSDANOADD
+iso-ir-9-2
+NATS-DANO-ADD
+csNATSDANO
+iso-ir-9-1
+NATS-DANO
+csNATSSEFIADD
+iso-ir-8-2
+NATS-SEFI-ADD
+csNATSSEFI
+iso-ir-8-1
+NATS-SEFI
+csISO2IntlRefVersion
+iso-ir-2
+ISO_646.irv:1983
+csINVARIANT
+INVARIANT
+csISO646basic1983
+ISO_646.basic:1983
+csISO10646UTF1
+ISO-10646-UTF-1
+csISO69French
+ISO646-FR
+iso-ir-69
+NF_Z_62-010
+csISO60Norwegian1
+csISO60DanishNorwegian
+ISO646-NO
+iso-ir-60
+NS_4551-1
+csISO21German
+ISO646-DE
+iso-ir-21
+DIN_66003
+csISO17Spanish
+ISO646-ES
+iso-ir-17
+csISO15Italian
+ISO646-IT
+iso-ir-15
+csISO11SwedishForNames
+ISO646-SE2
+iso-ir-11
+SEN_850200_C
+csISO4UnitedKingdom
+ISO646-GB
+iso-ir-4
+BS_4730
+csEUCFixWidJapanese
+Extended_UNIX_Code_Fixed_Width_for_Japanese
+IBM-eucJP
+ibm-33722_VPUA
+ibm-5050
+ibm-33722
+ibm-33722_P12A_P12A-2004_U2
+ujis
+eucjis
+X-EUC-JP
+ibm-954
+ibm-954_P101-2007
+EUC-JP
+csEUCPkdFmtJapanese
+Extended_UNIX_Code_Packed_Format_for_Japanese
+ibm-943_VASCII_VSUB_VPUA
+cp943
+ibm-943_P130-1999
+ibm-943_VSUB_VPUA
+sjis
+ms932
+IBM-943C
+cp943c
+cp932
+x-ms-cp932
+x-sjis
+ibm-943
+ibm-943_P15A-2003
+csShiftJIS
+MS_Kanji
+Shift_JIS
+csJISEncoding
+JIS_Encoding
+csHalfWidthKatakana
+X0201
+JIS_X0201
+csISOTextComm
+iso-ir-142
+ISO_6937-2-add
+iso-8859_10-1998
+latin6
+csISOLatin6
+ISO_8859-10:1992
+iso-ir-157
+ISO-8859-10
+turkish8
+turkish
+ECMA-128
+cp920
+8859_9
+ibm-920
+ibm-920_P100-1995
+csISOLatin5
+latin5
+ISO-8859-9
+ISO_8859-9
+iso-ir-148
+ISO_8859-9:1989
+hebrew8
+8859_8
+ibm-5012
+ibm-5012_P100-1999
+csISOLatinHebrew
+hebrew
+ISO-8859-8
+ISO_8859-8
+iso-ir-138
+ISO_8859-8:1988
+8859_7
+cp813
+ibm-813
+ibm-813_P100-1995
+sun_eu_greek
+ibm-9005
+ibm-9005_X110-2007
+csISOLatinGreek
+greek8
+greek
+ECMA-118
+ELOT_928
+ISO-8859-7
+ISO_8859-7
+iso-ir-126
+ISO_8859-7:1987
+1089
+cp1089
+8859_6
+ibm-1089
+ibm-1089_P100-1995
+csISOLatinArabic
+arabic
+ASMO-708
+ECMA-114
+ISO-8859-6
+ISO_8859-6
+iso-ir-127
+ISO_8859-6:1987
+cp915
+8859_5
+ibm-915
+ibm-915_P100-1995
+csISOLatinCyrillic
+cyrillic
+ISO-8859-5
+ISO_8859-5
+iso-ir-144
+ISO_8859-5:1988
+cp914
+8859_4
+ibm-914
+ibm-914_P100-1995
+csISOLatin4
+latin4
+ISO-8859-4
+ISO_8859-4
+iso-ir-110
+ISO_8859-4:1988
+cp913
+8859_3
+ibm-913
+ibm-913_P100-2000
+csISOLatin3
+latin3
+ISO-8859-3
+ISO_8859-3
+iso-ir-109
+ISO_8859-3:1988
+cp912
+8859_2
+ibm-912
+ibm-912_P100-1995
+csISOLatin2
+latin2
+ISO-8859-2
+ISO_8859-2
+iso-ir-101
+ISO_8859-2:1987
+8859_1
+csISOLatin1
+CP819
+IBM819
+latin1
+ISO-8859-1
+ISO_8859-1
+iso-ir-100
+ISO_8859-1:1987
+ascii7
+csASCII
+cp367
+IBM367
+US-ASCII
+ISO646-US
+ASCII
+ISO_646.irv:1991
+ANSI_X3.4-1986
+iso-ir-6
+ANSI_X3.4-1968
+%s: Did not find an IANA match for encoding "%s"
+UnicodeIANALookup
+Windows-
+windows-
+Unicode_AllocList4 failed.
+Unicode_AllocList3 failed.
+Unicode_AllocList2 failed.
+Unicode_AllocList1 failed.
+Unsupported local character encoding "%s".
+Failed to initialize codeset.
+bora\lib\unicode\unicodeSimpleTypes.c
+%s: Unknown encoding %d.
+Unicode_EncodingEnumToName
+\\?\
+bora\lib\misc\win32u.c
+%s: String with invalid encoding: %s
+Win32U_OutputDebugString
+kernel32.dll
+%s: invalid UTF8 string @ %p
+Unicode_FindSubstrInRange
+Unicode_FindLastSubstrInRange
+Unicode_Substr
+bora\lib\unicode\unicodeSimpleOperations.c
+WININIT.INI
+[Rename]
+FILE: %s:  _wfullpath failed on (%s): %d
+File_FullPath
+FILE: %s: could not close file, error %u
+FILE: %s: failed to get file timestame, error %u
+FILE: %s: could not open "%s", error %u
+File_GetTimes
+FILE: %s: Non-retriable error encountered (%s): %s (%d)
+FILE: %s: Retry time expired (%u, %s); last error %s (%d)
+FileBeginSearch
+FILE: %s: FindNextFile failed. Error code: %d
+FILE: %s: Failed to find file. Error: %d
+File_WalkDirectoryNext
+FILE: %s: FindNextFile failure (%d) on (%s)
+FILE: %s: FindClose failure (%d) on (%s)
+FileListDirectoryRetry
+FILE: %s: Couldn't realloc
+FILE: %s: Cannot get the directory's security descriptor.Directory is "%S", error is %d.
+FILE: %s: Unable to check access rights (error %d).
+FILE: %s: Cannot get the process access token (error %d).
+FILE: %s: Unable to impersonate self (error %d).
+FILE: %s: Cannot get the thread access token (error %d).
+FileIsWritableDir
+FILE: %s unmapped error code %d
+FILE: %s: Non-retriable error encountered (%s, %s): %s (%d)
+FILE: %s: Retry time expired (%u, %s, %s); last error %s (%d)
+File_RenameRetry
+FileDeletionRetry
+FileCreateDirectoryRetry
+FileRemoveDirectoryRetry
+FileAttributesRetry
+%s%s%s
+\\.\PhysicalDrive
+uuid=%s
+uuid=
+bora\lib\file\file.c
+fileSimpleRandomLock
+OFILE: %s: failed to rename %s -> %s: %s
+FILE: %s: failed to remove %s: %s
+FileRotateByRename
+%s-%d%s
+FILE: %s: failed to get base dir for path '%s'.
+FILE: %s: failed to rename %s -> %s failed: %s
+%s/%s-%d%s
+FILE: %s: failed to read the directory '%s'.
+%s-%%d%s%%n
+FILE: %s: failed to get full path for '%s'.
+FileRotateByRenumber
+false
+true
+auto
+dontcare
+default
+bora\lib\user\dictionary_core.c
+@&!*@*@(msg.dictionary.notFloat)Value "%s" for variable "%s" is not a valid floating point value. Using value "%f".
+@&!*@*@(msg.dictionary.notInteger64)Value "%s" for variable "%s" is not a valid integer value. Using value "%I64d".
+@&!*@*@(msg.dictionary.integer64TooBig)Value "%s" for variable "%s" is too large. Using value "%I64d".
+@&!*@*@(msg.dictionary.notInteger)Value "%s" for variable "%s" is not a valid integer value. Using value "%d".
+@&!*@*@(msg.dictionary.integerTooBig)Value "%s" for variable "%s" is too large. Using value "%d".
+@&!*@*@(msg.dictionary.notTristate)Value "%s" for variable "%s" is not a valid tristate value. Using value "%s".
+@&!*@*@(msg.dictionary.notBoolean)Value "%s" for variable "%s" is not a valid boolean value. Using value "%s".
+FALSE
+TRUE
+@&!*@*@(msg.dictionary.badEncodedInput)File "%s" line %d: Value "%s" for variable "%s" is not valid in encoding "%s".
+@&!*@*@(msg.dictionary.badEncodedInputNoLine)File "%s": Value "%s" for variable "%s" is not valid in encoding "%s".
+@&!*@*@(msg.dictionary.badEncodedInputNoFile)Value "%s" for variable "%s" is not valid in encoding "%s".
+@&!*@*@(msg.dictionary.hasEncoding)File "%s" (line %d) already has encoding "%s".
+@&!*@*@(msg.dictionary.hasEncodingNoLine)File "%s" already has encoding "%s".
+@&!*@*@(msg.dictionary.hasEncodingNoFile)The dictionary already has encoding "%s".
+@&!*@*@(msg.dictionary.unknownEncoding)File "%s" (line %d) specifies a character encoding (%s) that is not supported.
+@&!*@*@(msg.dictionary.unknownEncodingNoLine)File "%s": Character encoding "%s" is not supported.
+@&!*@*@(msg.dictionary.unknownEncodingNoFile)Character encoding "%s" is not supported.
+Failed to marshal line: %s
+@&!*@*@(msg.dictionary.read.syntaxError)File "%s" line %d: Syntax error.
+@&!*@*@(msg.dictionary.read.syntaxErrorNoLine)File "%s": Syntax error.
+@&!*@*@(msg.dictionary.read.syntaxErrorNoFile)Syntax error.
+%s: syntax error with line, "%s".
+@&!*@*@(msg.dictionary.alreadyDefined)File "%s" line %d: Variable "%s" is already defined.
+@&!*@*@(msg.dictionary.alreadyDefinedNoLine)File "%s": Variable "%s" is already defined.
+@&!*@*@(msg.dictionary.alreadyDefinedNoFile)Variable "%s" is already defined.
+%s: "%s" line %d: unrecognized metavariable "%s"
+DictionaryParseReadLine
+.encoding
+snapshot.encoding
+vmlist.encoding
+preferences.encoding
+config.encoding
+encryption.data
+encryption.keySafe
+bora\lib\user\dictionary.c
+HMAC-SHA-1
+@&!*@*@(msg.dictionary.unlock.decryptFail)CryptoKey_DecryptWithMAC failed: %s.
+@&!*@*@(msg.dictionary.unlock.cryptoKeyFail)CryptoKeyedHash_FromString failed: %s.
+@&!*@*@(msg.dictionary.unlock.base64Fail)base-64 decoding failed.
+@&!*@*@(msg.dictionary.read.readError)File "%s" line %d: %s.
+%s: "%s" line %d: too many duplicate entries in dictionary, quitting.
+DictionaryReadLines
+@&!*@*@(msg.dictionary.badDefaultEncoding)An error occurred while decoding file "%s" using the default character encoding.
+type mismatch updating %s -- not changing
+%s.%s
+@&!*@*@(msg.dictionary.load.isDirectory)"%s" is a directory.
+%s: "%s" is a directory.
+@&!*@*@(msg.dictionary.load.statFailed)Unable to get information about file "%s": %s.
+%s: Unable to get information about file "%s": %s.
+@&!*@*@(msg.dictionary.load.openFailed)Cannot open file "%s": %s.
+%s: Cannot open file "%s": %s.
+DictionaryLoad
+<stdin>
+%s:%d Buffer too small
+bora\lib\string\str.c
+Panic: 
+%s: Unrecognized error code: %u
+%s: CreateFileW() returned ERROR_SHARING_VIOLATION, failing with FILEIO_CANCELLED.
+FileIOCreateRetry
+bora\lib\file\fileIOWin32.c
+%s: option '%s' requires an argument
+%s: unrecognized option '%s'
+%s: ambiguous option '%s'
+bora\lib\unicode\unicodeSimpleBase.c
+0123456789ABCDEF'\
+'"'"
+bora\lib\misc\escape.c
+debug10
+debug9
+debug8
+debug7
+debug6
+debug5
+debug4
+debug3
+debug2
+debug1
+debug
+trivia
+verbose
+info
+notice
+audit
+warning
+error
+panic
+unknown
+none
+logLock_%p
+%c%02d:%02d
+.%03d
+%04d-%02d-%02dT%02d:%02d:%02d
+%c%03d%s 
+*LONG LINE TRUNCATION*
+bora\lib\misc\hashTable.c
+%s only takes powers of 2 
+HashTable_Alloc
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+ReleaseSRWLockShared
+AcquireSRWLockShared
+InitializeSRWLock
+HOT LOCK (%s); contention ratio %f
+	holderCount %d
+	count %d
+	address of native lock 0x%p
+	serial number %u
+	rank 0x%X
+	name %s
+	signature 0x%X
+%s: Read-write lock @ 0x%p
+MXUserDumpRWLock
+%s: unknown stats mode: %d!
+MXUser_CreateRWLock
+RWemul-%p
+RW-%p
+%s: Destroy on an acquired read-write lock
+MXUser_DestroyRWLock
+%s: AcquireFor%s after AcquireFor%s
+MXUserAcquisition
+Write
+Read
+%s: Release of an unacquired read-write lock
+MXUser_ReleaseRWLock
+?bora\lib\misc\vthreadBase.c
+VThreadBase reinitialization, old: %d %s, new: %d %s.
+vthread-%u
+host-%Iu
+???GENERIC_READ
+???GENERIC_WRITE
+???GENERIC_EXECUTE
+???GENERIC_ALL
+SYNCHRONIZE
+WRITE_OWNER
+WRITE_DAC
+READ_CONTROL
+DELETE
+FILE_WRITE_ATTRIBUTES
+FILE_READ_ATTRIBUTES
+FILE_DELETE_CHILD
+FILE_TRAVERSE,FILE_EXECUTE
+FILE_WRITE_EA
+FILE_READ_EA
+FILE_ADD_SUBDIRECTORY,FILE_APPEND_DATA
+FILE_ADD_FILE,FILE_WRITE_DATA
+FILE_LIST_DIRECTORY,FILE_READ_DATA
+VMware
+hostd.
+vpxd.
+vpxa.
+vob.
+msg.
+[%s] %s%s
+bora\lib\misc\msgList.c
+MsgList_VAppend
+@&!*@*@(msg.literal)%s
+	vmmLock %p
+	address of owner data %p
+	lock count %d
+	reference count %u
+%s: Recursive lock @ %p
+MXUserDumpRecLock
+MXUser_CreateRecLock
+R-%p
+%s: Destroy of an acquired recursive lock
+MXUserCondDestroyRecLock
+bora\lib\misc\msgfmt.c
+(null)
+MsgFmtGetArg1: %%%c not understood, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: %%n not supported, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: incompatible specifiers for argument %d, old type %d, new type %d, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: %%%c%c not supported, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: out of memory at arg %d
+MsgFmtGetArg1: bad specifier, status %d, pos "%.*s", type "%.*s"
+MsgFmt_GetArgs: error in format string
+MsgFmt_GetArgs: out of memory
+MsgFmt_GetArgs: error %d
+MsgFmt_GetArgs: gap in arguments at position %d
+zh_CN
+failed to load library %s (%d)
+unable to load func %s from library %s (%d)
+Vix implementation library %s is already loaded
+failed to do library preinit for %s
+Loading Vix implementation library %s
+vixWrapper
+log.suffix
+vixWrapper.log.fileName
+log.config
+VixWrapper
+vixLoadLibLock
+icudt44l
+icudt44l.dat
+bora\lib\misc\codeset.c
+- -!-"-#-$-%-
+! !!!"!#!$!%!
+'!(!)!k
+,!-!.!/!0!1!N!3!4!5!6!7!8!9!:!;!<!=!>!?!@!A!B!C!D!E!F!G!H!I!J!K!L!M!N!O!P!Q!R!S!T!U!V!W!X!Y!Z![!\!]!^!_!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+$ $!$"$#$$$%$&$'$($)$*$+$,$-$.$/$0$1$2$3$4$5$6$7$8$9$:$;$<$=$>$?$@$A$B$C$D$E$F$G$H$I$J$K$L$M$N$O$P$Q$R$S$T$U$V$W$X$Y$Z$[$\$]$^$_$`$a$b$c$d$e$f$g$h$i$j$k$l$m$n$o$p$q$r$s$t$u$v$w$x$y$z${$|$}$~$
+$0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,/,0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,_,a,a,k
+e,f,h,h,j,j,l,l,m,n,o,p,q,r,s,t,v,v,w,x,y,z,{,|,},~,
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+%s GetAdaptersInfo failure %d: %d.
+%s GetAdaptersInfo is not supported.
+%s Failed to find GetAdaptersInfo.
+GetAdaptersInfo
+%s Failed to load iphlpapi.dll.
+IpHlpApi.dll
+%s Failed to load icmp.dll.
+ObtainHardwareID
+icmp.dll
+%s ObtainHardwareID failure (%s); providing default.
+%s Hostinfo_HostName failure; providing default.
+Hostinfo_MachineID
+volatile
+UUIDHost
+-%2x%2x-%2x%2x%2x%2x%2x%2x
+%lx-%hx-%hx
+%02x %02x %02x %02x %02x %02x %02x %02x-%02x %02x %02x %02x %02x %02x %02x %02x
+MachineGuid
+SOFTWARE\Microsoft\Cryptography
+UUID: SMBIOS UUID is reported as '%s'.
+UUID: SMBIOS UUID could not be located.
+UUID: Failed to obtain host UUID
+GetSystemFirmwareTable
+%s\%s
+SOFTWARE\%s
+VMware, Inc.
+@&!*@*@(msg.fileio.unknown)Unknown error
+%s: bad code %d
+FileIO_MsgError
+bora\lib\file\fileIO.c
+@&!*@*@(msg.fileio.dQuot)There is no space left on the device
+@&!*@*@(msg.fileio.noSpc)There is no space left on the device
+@&!*@*@(msg.fileio.fBig)The file is too large
+@&!*@*@(msg.fileio.namelong)The file name is too long
+@&!*@*@(msg.fileio.noPerm)Insufficient permission to access the file
+@&!*@*@(msg.fileio.notfound)Could not find the file
+@&!*@*@(msg.fileio.eof)Tried to read beyond the end of the file
+@&!*@*@(msg.fileio.lock)Failed to lock the file
+@&!*@*@(msg.fileio.exists)The file already exists
+@&!*@*@(msg.fileio.generic)Error
+@&!*@*@(msg.fileio.cancel)The operation was cancelled by the user
+@&!*@*@(msg.fileio.success)Success
+FILE: %s on '%s' failed: %s
+FileIO_Lock
+Lock timed out
+FileIO_Unlock
+Tonga Standard Time
+Samoa Standard Time
+Fiji Standard Time
+New Zealand Standard Time
+Vladivostok Standard Time
+Central Pacific Standard Time
+West Pacific Standard Time
+Yakutsk Standard Time
+Tasmania Standard Time
+E. Australia Standard Time
+AUS Eastern Standard Time
+Cen. Australia Standard Time
+AUS Central Standard Time
+North Asia East Standard Time
+Korea Standard Time
+Tokyo Standard Time
+W. Australia Standard Time
+Taipei Standard Time
+Singapore Standard Time
+North Asia Standard Time
+China Standard Time
+SE Asia Standard Time
+N. Central Asia Standard Time
+Myanmar Standard Time
+Central Asia Standard Time
+Ekaterinburg Standard Time
+Nepal Standard Time
+Sri Lanka Standard Time
+India Standard Time
+West Asia Standard Time
+Afghanistan Standard Time
+Caucasus Standard Time
+Arabian Standard Time
+Russian Standard Time
+Iran Standard Time
+Arabic Standard Time
+E. Africa Standard Time
+Arab Standard Time
+South Africa Standard Time
+Israel Standard Time
+GTB Standard Time
+FLE Standard Time
+Egypt Standard Time
+E. Europe Standard Time
+W. Central Africa Standard Time
+Romance Standard Time
+Central European Standard Time
+Central Europe Standard Time
+W. Europe Standard Time
+Greenwich Standard Time
+GMT Standard Time
+Cape Verde Standard Time
+Azores Standard Time
+Mid-Atlantic Standard Time
+Greenland Standard Time
+SA Eastern Standard Time
+E. South America Standard Time
+Newfoundland Standard Time
+Pacific SA Standard Time
+SA Western Standard Time
+Atlantic Standard Time
+SA Pacific Standard Time
+US Eastern Standard Time
+Eastern Standard Time
+Central America Standard Time
+Central Standard Time (Mexico)
+Canada Central Standard Time
+Central Standard Time
+US Mountain Standard Time
+Mountain Standard Time (Mexico)
+Mountain Standard Time
+Pacific Standard Time
+Alaskan Standard Time
+Hawaiian Standard Time
+Dateline Standard Time
+No Expire
+%s: Cannot allocate memory to expand "%s" in "%s".
+%s: Cannot allocate memory for the expansion of "%s".
+Environment variable '%s' not defined in '%s'.
+USER
+%s: Filename "%s" has too many chunks.
+Util_ExpandString
+%s: Exclusive lock @ %p
+MXUserDumpExclLock
+MXUser_CreateExclLock
+X-%p
+%s: Destroy of an acquired exclusive lock
+MXUser_DestroyExclLock
+bora\lib\dict\dictll.c
+ = "
+0123456789ABCDEF
+0123456789abcdef?
+0123456789ABCDEF?
+bora\lib\string\bsd_vsnprintf.c
+-inf
+0123456789abcdef0123456789ABCDEFbora\lib\misc\hostinfoWin32.c
+Unable to get OS version.
+GetNativeSystemInfo
+IsWow64Process
+kernel32
+GetProductInfo
+winVista
+Windows Vista
+winVista-64
+Windows Vista x64 Edition
+, 32-bit
+, 64-bit
+Windows Server 2008 Web Server Edition
+winServer2008Web-32
+winServer2008Web-64
+Windows Vista Ultimate Edition
+winVistaUltimate-32
+winVistaUltimate-64
+Windows Server 2008 Storage Server Workgroup
+winServer2008StorageWorkgroup-32
+winServer2008StorageWorkgroup-64
+Windows Server 2008 Storage Server Standard
+winServer2008StorageStandard-32
+winServer2008StorageStandard-64
+Windows Server 2008 Storage Server Express
+winServer2008StorageExpress-32
+winServer2008StorageExpress-64
+Windows Server 2008 Storage Server Enterprise
+winServer2008StorageEnterprise-32
+winServer2008StorageEnterprise-64
+Windows Server 2008 Standard Edition (core installation)
+winServer2008StandardCore-32
+winServer2008StandardCore-64
+Windows Server 2008 Standard Edition
+winServer2008Standard-32
+winServer2008Standard-64
+Windows Vista Starter Edition
+winVistaStarter-32
+winVistaStarter-64
+Windows Server 2008 Small Business Server Premium Edition
+winServer2008SmallBusinessPremium-32
+winServer2008SmallBusinessPremium-64
+Windows Server 2008 Small Business Server
+winServer2008SmallBusiness-32
+winServer2008SmallBusiness-64
+Windows Server 2008 for Windows Essential Server Solutions
+winServer2008ForSmallBusiness-32
+winServer2008ForSmallBusiness-64
+Windows Essential Business Server Security Server
+winServer2008MediumSecurity-32
+winServer2008MediumSecurity-64
+Windows Essential Business Server Messaging Server
+winServer2008MediumMessaging-32
+winServer2008MediumMessaging-64
+Windows Essential Business Server Management Server
+winServer2008MediumManagement-32
+winServer2008MediumManagement-64
+Windows Vista Home Premium Edition
+winVistaHomePremium-32
+winVistaHomePremium-64
+Windows Vista Home Basic Edition
+winVistaHomeBasic-32
+winVistaHomeBasic-64
+Windows Server 2008 Enterprise Edition for Itanium-based Systems
+winServer2008EnterpriseItanium-32
+winServer2008EnterpriseItanium-64
+Windows Server 2008 Enterprise Edition (core installation)
+winServer2008EnterpriseCore-32
+winServer2008EnterpriseCore-64
+Windows Server 2008 Enterprise Edition
+winServer2008Enterprise-32
+winServer2008Enterprise-64
+Windows Vista Enterprise Edition
+winVistaEnterprise-32
+winVistaEnterprise-64
+Windows Server 2008 Datacenter Edition (core installation)
+winServer2008DatacenterCore-32
+winServer2008DatacenterCore-64
+Windows Server 2008 Datacenter Edition
+winServer2008Datacenter-32
+winServer2008Datacenter-64
+Windows Server 2008 Cluster Server Edition
+winServer2008Cluster-32
+winServer2008Cluster-64
+Windows Vista Business Edition
+winVistaBusiness-32
+winVistaBusiness-64
+Windows 7 Enterprise
+Windows 7 Professional
+Windows 7 Ultimate
+Windows 7 Home Premium
+Windows 7 Home Basic
+Windows 7 Starter
+Windows Web Server 2008 R2 Edition
+Windows Server 2008 R2 Datacenter Edition
+Windows Server 2008 R2 Standard Edition
+Windows Server 2008 R2 Enterprise Edition
+Windows Server 2008 R2 Foundation Edition
+windows7srv-64
+Windows 7
+windows7
+windows7-64
+Windows Server 2012%s Essentials Edition
+Windows Server 2012%s Datacenter Edition
+Windows Server 2012%s Storage Server
+Windows Server 2012%s Standard Edition
+Windows Server 2012%s Enterprise Edition
+Windows Server 2012%s Foundation Edition
+Windows MultiPoint Server 2012%s Premium
+Windows MultiPoint Server 2012%s Standard
+Windows 8%s Enterprise
+Windows 8%s Pro
+Windows Server%s 2012
+windows8srv-64
+Windows 8%s
+windows8
+windows8-64
+Windows Server 2016
+windows9srv-64
+windows9
+windows9-64
+Windows 10
+windowsUnknown
+windowsUnknown-64
+%s Version %d.%d 
+Windows Unknown
+Windows 32s
+winMe
+Windows Me
+win98
+Windows 98
+OSR2
+win95
+Windows 95
+%s%s (Build %d)
+Service Pack 6a
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Hotfix\Q246009
+Service Pack 6
+Advanced Server
+win2000Serv
+Windows 2000 Server
+win2000AdvServ
+Windows 2000 Advanced Server
+win2000DataCentServ
+Windows 2000 Data Center Server
+ (64 bit)
+winNetStandard
+Windows Server 2003 Standard Edition
+winNetBusiness
+Windows Server 2003 Small Business
+winNetStorageSvr
+Windows Storage Server 2003
+winNetComputeCluster
+Windows Server 2003 Compute Cluster Edition
+winNetWeb
+Windows Server 2003 Web Edition
+winNetEnterprise
+Windows Server 2003 Enterprise Edition
+winNetDatacenter
+Windows Server 2003 Datacenter Edition
+win2000Pro
+Windows 2000 Professional
+winXPPro
+Windows XP Professional
+winXPHome
+Windows XP Home Edition
+winXPPro-64
+Windows XP Professional x64 Edition
+Workstation 4.0
+winNT
+Windows NT
+win2000
+Windows 2000
+winXP
+Windows XP
+win2003
+Windows 2003
+HOSTINFO
+%s: Bad Windows performance counter frequency: %I64d
+%s: Unable to get Windows performance counter: %d
+%s: Unable to get Windows performance counter frequency: %d
+HostinfoPCInit
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+%s: OpenProcess access bits are %x.
+Hostinfo_OpenProcessBits
+%s: Process32Next failure: %d
+%s: at least one process assertion failure: %d
+%s: CreateToolhelp32Snapshot failed: %d
+Hostinfo_QueryProcessExistence
+%08X:%08X%08X%08X%08X-
+%s%s%s-$PID.log
+vmware
+Unable to open '%s' (%d,%d): %s
+Unable to label log file '%s'
+%sHost is %s
+Log creation time is %s
+Host codepage=%s encoding=%s
+The process is %Iu-bit.
+Log for %s pid=%d version=%s build=%s option=%s
+>>> Error writing log, %I64u bytes discarded. Disk full?
+<<< %s Throttled >>>
+Safe logging area '%s' validation failed!
+Failed to establish the safe temporary directory area: %s
+log.stderrLevel
+log.stderrMinLevel
+log.fileLevel
+log.logMinLevel
+log.noLogAfterThreshold
+log.throttleBytesPerSec
+log.throttleThreshold
+log.permissions
+log.rotateSize
+log.keepOld
+log.fastRotation
+log.syncAfterWrite
+log.append
+log.useLevelDesignator
+log.useThreadName
+log.useMilliseconds
+log.useTimeStamps
+log.systemAreaTemp
+log.fileName
+Truncation of '%s' failed: %s
+Open of '%s' failed
+Could not open log file '%s' for append, ignoring log.append option
+ %p-%I64u
+MXUser: ht l=%u t=%s
+ %u-%I64u
+MXUser: h l=%u t=%s min=%I64u max=%I64u
+=MXUser: e l=%u t=%s c=%I64u min=%I64u max=%I64u mean=%I64u sd=%I64u
+MXUser: ce l=%u a=%I64u s=%I64u sc=%I64u sct=%I64u t=%I64u
+%s: too many locks!
+MXUserAllocSerialNumber
+%s: Win32U_GetFullPathName failed
+W32Util_RobustGetLongPath
+Overridden home dir does not specify a valid directory.
+%s: GetFileAttributes("%s") failed: %d
+W32Util_GetAppDataPath
+GetModuleHandleExW
+bora\lib\misc\win32uRegistry.c
+%s: GetTokenInformation: %d
+%s: OpenProcessToken: %d
+%s: OpenThreadToken: %d
+W32Util_GetCurrentUserSid
+%s: AllocateAndInitializeSid: %d
+W32Util_GetLocalAdminGroupSid
+%s: Failed directory attributes check, "%s"
+%s: Couldn't get local admin or user SID
+%s: Failed cur user and admin ACE presence check, "%s"
+%s: Failed trustee SID identity check, "%s"
+%s: Failed DACL num entries check, "%s"
+%s: GetExplicitEntriesFromAclW failed: %d
+%s: Failed DACL inherit check, "%s"
+%s: GetSecurityDescriptorControl failed: %d
+%s: Failed owner SID match, "%s"
+%s: Failed DACL presence check, "%s"
+%s: GetNamedSecurityInfoW failed: %d
+W32Util_IsDirectorySafe
+%s: Couldn't add SID to DACL
+%s: CreateDirectoryW failed: %d
+%s: SetSecurityDescriptorControl failed: %d
+SetSecurityDescriptorControl
+%s: SetSecurityDescriptorOwner failed: %d
+%s: InitializeSecurityDescriptor failed: %d
+%s: Couldn't init ACL
+W32Util_MakeSafeDirectory
+bora\lib\misc\win32util2_misc.c
+%s: InitializeCriticalSectionAndSpinCount failure: %u
+W32Util_GetSingletonCriticalSection
+# make sure that no VMware virtual machines are running.
+# If you must edit this file in spite of our recommendations, please first
+# This file is automatically generated and maintained by VMware products.
+# DO NOT EDIT THIS FILE.
+msg.dictionary.error
+preferenceLock
+PREF Failed to unlock preferences file %s after reading.
+@&!*@*@(msg.preference.loadNoLock)Unable to lock user preference file %s for reading.
+PREF Optional preferences file not found at %s. Using default values.
+PREF Failed to load user preferences.
+PREF Disabling user preferences because disableUserPreferences is set.
+disableUserPreferences
+PREF Failed to find user preference file name.
+preferences.ini
+settings.ini
+config.ini
+PREF early PreferenceGet(%s), using default
+Unknown error %d (0x%x)
+InstallPath
+SOFTWARE\VMware, Inc.\VMware VIX
+%s: %s is not REG_SZ
+VixWrapper_ReadProductRegistryInstallPath
+SOFTWARE\VMware, Inc.\VMware Player
+SOFTWARE\VMware, Inc.\VMware Workstation
+Error: could not read VIX wrapper config file %s (%s).
+Error: VIX wrapper config file %s is too large (%I64d bytes).
+Error: could not get the size of VIX wrapper config file %s.
+Error: could not open VIX wrapper config file %s (%s).
+Unrecognized provider type '%s'
+Unrecognized IPC type '%s'
+error parsing version line starting with '%s' at '%s'
+Unrecognized escape '%s'
+Version-Info
+config points to non-existent implementation library '%s'
+vix.dll
+%s\%s\%s\%s
+32bit
+vmwarebase.dll
+Failed to load product wrapper configuration file '%s/%s'
+vixwrapper-product-config.txt
+Failed to load wrapper configuration file '%s/%s'
+vixwrapper-config.txt
+Trying to use provider Workstation but no installedVersion info available
+Failed to connect with hostType %d. Already connected with hostType %d
+No implementation found for service provider %d, apiVersion %d installedVersion %s
+Using VIX_SERVICEPROVIDER_VMWARE_SERVER with an unsupported apiVersion of %d, slamming to 1
+Player installed version is %s
+Trying to use provider Player but no installedVersion info available
+Workstation installed version is %s
+Cannot determine VIX installation directory, returning %I64d
+VixWrapper_FindLibrary
+ERROR VIX_WRAPPER_DEV_DIRECTORY override of "%s" failed to load
+Using VIX_WRAPPER_DEV_DIRECTORY override of "%s"
+VIX_WRAPPER_DEV_DIRECTORY
+passed in VIX_SERVICEPROVIDER_DEFAULT, computed hostType as %d
+Failed to read & parse wrapper config file from %s (product config %s)
+vixWrapperDiscovery.dll
+vixWrapper.discoveryDLL
+windows-%u
+.dat
+ICUDATA-
+icudt44l-
+ICUDATA
+ICU_DATA
+en_US
+windows-%d
+ISO_2022,locale=ko,version=0
+ibm-1363_P110-1997
+ibm-949_P110-1999
+ibm-944_P100-1995
+ibm-33722_P120-1999
+ibm-946_P100-1995
+ibm-942_P120-1999
+ibm-897_P100-1995
+%s gethostbyname failed.
+%s Failed to find gethostbyname.
+gethostbyname
+%s gethostname failed.
+%s Failed to find gethostname.
+gethostname
+%s Failed to wsock32.
+wsock32
+%s Failed to load ws2_32, will try wsock32.
+ws2_32
+%s GetComputerNameEx failed: %d
+Hostinfo_HostName
+Failed to get system information
+Failed to connect to WMI
+FILE: %s: Further process validation tools are: %s
+FileLockDynaLink
+unavailable
+available
+GetProcessTimes
+@&!*@*@(msg.fileLock.win32)A file locking error (%d [errno %d]) has occurred: %s
+%d-%I64u
+%d-%I64u(%s)
+%s ((x * %u) >> %u) + %I64d
+%s %I64u @ %I64uHz -> %I64u @ %I64uHz
+%s: Couldn't get a temporary directory
+FileGetTmpDir
+%s\Temp
+tmpDirectory
+%s\%S
+%s: Out of memory error.
+FileFindExistingSafeTmpDir
+%s\%s-%s-*
+%s: Failed to create a safe temporary directory, path "%s". The maximum number of attempts was exceeded.
+%s: malloc failure.
+FileCreateSafeTmpDir
+%s\%s-%s-%u
+%s\%s-%s
+%s: GetUserName failed.
+%s: FileGetTmpDir failed.
+File_GetSafeTmpDir
+bora\lib\file\fileTempWin32.c
+getSafeTmpDirLock
+=@>x?
+CLD~E
+I>JlK
+PAQiR
+W#XFYgZ
+a:bUcnd
+m2nCoTpdqtr
+Path
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\
+VMware Player
+VMware Server
+Core
+SOFTWARE\VMware, Inc.
+ProductVersion
+uprv_mapFile: MapViewOfFile failed for %s (%d)
+uprv_mapFile: CreateFileMapping failed for %s (%d)
+uprv_mapFile: CreateFileA failed for %s (%d)
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GMT
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones
+SYSTEM\CurrentControlSet\Control\TimeZoneInformation\
+StandardName
+ Standard Time
+zu_ZA
+zh_CN@collation=stroke
+zh_Hans_CN@collation=stroke
+zh_TW@collation=stroke
+zh_Hant_TW@collation=stroke
+zh_TW
+zh_Hant
+zh_Hant_TW
+zh_SG
+zh_Hans_SG
+zh_MO
+zh_Hant_MO
+zh_HK
+zh_Hant_HK
+zh_Hans_CN
+zh_Hans
+yo_NG
+xh_ZA
+wo_SN
+dsb_DE
+hsb_DE
+wen_DE
+vi_VN
+ve_ZA
+uz_Latn
+uz_Latn_UZ
+uz_UZ
+uz_Cyrl
+uz_Cyrl_UZ
+ur_PK
+ur_IN
+uk_UA
+ug_CN
+tzm_Latn_DZ
+tzm_Latn
+tt_RU
+tr_TR
+tn_BW
+tk_TM
+ti_ET
+ti_ER
+th_TH
+tg_Cyrl_TJ
+tg_Cyrl
+te_IN
+ta_IN
+syr_SY
+sw_KE
+sv_SE
+sv_FI
+sq_AL
+so_ET
+sl_SI
+sk_SK
+si_LK
+sms_FI
+smn_FI
+smj_SE
+smj_NO
+sma_SE
+sma_NO
+se_SE
+se_NO
+se_FI
+sd_PK
+sd_IN
+sah_RU
+sa_IN
+rw_RW
+ru_RU
+root
+ro_RO
+rm_CH
+qut_GT
+qu_PE
+qu_EC
+qu_BO
+pt_PT
+pt_BR
+ps_AF
+pl_PL
+pa_PK
+pa_IN
+or_IN
+om_ET
+oc_FR
+nso_ZA
+no_NO_NY
+nn_NO
+no_NO
+nb_NO
+nl_NL
+nl_BE
+ne_NP
+ne_IN
+my_MM
+mt_MT
+ms_MY
+ms_BN
+mr_IN
+moh_CA
+mni_IN
+mn_Cyrl
+mn_CN
+mn_Mong_CN
+mn_Mong
+mn_MN
+ml_IN
+mk_MK
+mi_NZ
+lv_LV
+lt_LT
+lo_LA
+lb_LU
+la_IT
+ky_KG
+ks_Arab_IN
+ks_IN
+kr_NG
+kok_IN
+ko_KR
+ko_KP
+kn_IN
+km_KH
+kl_GL
+kk_KZ
+ka_GE
+ja_JP
+iw_IL
+iu_Latn
+iu_Latn_CA
+iu_Cans
+iu_Cans_CA
+it_IT
+it_CH
+is_IS
+ii_CN
+ig_NG
+id_ID
+hy_AM
+hu_HU
+sr_Cyrl
+sr_Cyrl_RS
+sr_Cyrl_ME
+sr_Cyrl_CS
+sr_Cyrl_BA
+sr_Latn
+sr_Latn_CS
+sr_Latn_BA
+sr_Latn_RS
+sr_Latn_ME
+hr_HR
+hr_BA
+bs_Cyrl
+bs_Cyrl_BA
+bs_BA
+bs_Latn
+bs_Latn_BA
+hi_IN
+he_IL
+haw_US
+ha_Latn_NG
+ha_Latn
+gsw_FR
+gn_PY
+gu_IN
+gl_ES
+gd_GB
+ga_IE
+fy_NL
+fr_SN
+fr_RE
+fr_ML
+fr_MC
+fr_MA
+fr_LU
+fr_HT
+fr_FR
+fr_CM
+fr_CI
+fr_CH
+fr_CD
+fr_CA
+fr_BE
+fo_FO
+fil_PH
+fi_FI
+fa_AF
+fa_IR
+eu_ES
+et_EE
+es@collation=traditional
+es_ES@collation=traditional
+es_VE
+es_UY
+es_US
+es_SV
+es_PY
+es_PR
+es_PE
+es_PA
+es_NI
+es_MX
+es_HN
+es_GT
+es_ES
+es_EC
+es_DO
+es_CR
+es_CO
+es_CL
+es_BO
+es_AR
+en_UM
+en_MP
+en_MH
+en_GU
+en_AS
+en_029
+en_ZW
+en_ZA
+en_VI
+en_US_POSIX
+en_TT
+en_SG
+en_PH
+en_NZ
+en_MY
+en_JM
+en_IN
+en_IE
+en_GB
+en_CA
+en_BZ
+en_AU
+el_GR
+dv_MV
+de@collation=phonebook
+de_DE@collation=phonebook
+de_LU
+de_LI
+de_DE
+de_CH
+de_AT
+da_DK
+cy_GB
+cs_CZ
+chr_US
+co_FR
+ca_ES
+br_FR
+bo_CN
+bo_BT
+bn_IN
+bn_BD
+bg_BG
+be_BY
+ba_RU
+az_AZ
+az_Latn
+az_Latn_AZ
+az_Cyrl
+az_Cyrl_AZ
+arn_CL
+am_ET
+as_IN
+ar_YE
+ar_TN
+ar_SY
+ar_SA
+ar_QA
+ar_OM
+ar_MA
+ar_LY
+ar_LB
+ar_KW
+ar_JO
+ar_IQ
+ar_EG
+ar_DZ
+ar_BH
+ar_AE
+af_ZA
+.<(+|&
+!$*);^-/
+,%_>?
+`:#@'="
+abcdefghi
+jklmnopqr
+~stuvwxyz
+{ABCDEFGHI
+}JKLMNOPQR
+STUVWXYZ
+0123456789
+7-./
+<=2&
+lP}M]\Nk`Ka
+z^L~no
+utf8
+utf7
+utf32platformendian
+utf32oppositeendian
+utf32le
+utf32be
+utf32
+utf16platformendian
+utf16oppositeendian
+utf16le
+utf16be
+utf16
+usascii
+scsu
+lmbcs8
+lmbcs6
+lmbcs5
+lmbcs4
+lmbcs3
+lmbcs2
+lmbcs19
+lmbcs18
+lmbcs17
+lmbcs16
+lmbcs11
+lmbcs1
+iso88591
+iso2022
+iscii
+imapmailboxname
+cesu8
+bocu1
+swaplfnl
+version=
+locale=
+cnvalias
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+,swaplfnl
+jips
+JIPS
+keis
+KEIS
+gb18030
+18030
+AdjustSecurity: security set #2 success
+AdjustSecurity: security set #2 failed: 0x%08x 0x%08x
+AdjustSecurity: authInfo 0x%08x capabilities 0x%08x
+AdjustSecurity: authLev 0x%08x imp 0x%08x
+AdjustSecurity: servername %S
+AdjustSecurity: authn 0x%08x authz 0x%08x
+AdjustSecurity: security query success
+AdjustSecurity: security query failed: 0x%08x 0x%08x
+AdjustSecurity: invalid parameter
+attribute
+object
+GetWMIObjectAttribute: could not get attribute: 0x%08x %S
+GetWMIObjectAttribute: '%s' failed
+WMI_GetWMIObjectAttributeAsString: unrecognized/unsupported type: 0x%08x
+WMI_GetWMIObjectAttributeAsString: failed to obtain attribute '%S'
+attrString
+WMI_GetWMIObjectAttributeAsString: '%s' failed
+WMI_GetWMIObjectAttributeAsString: Failed to alloc buffer for: %S
+WMI_GetWMIObjectAttributeAsString: failed to get attr: %S
+WMI_CreateWMIObjectEnum: Failed to create enum for class: 0x%08x '%S'
+WMI_CreateWMIObjectEnum: could not allocate class name string: '%S'
+WMI_CreateWMIObjectEnum: '%s' failed
+WMI_CreateWMIObjectInstance: failed to enum an instance of class: 0x%08x %d '%S'
+WMI_CreateWMIObjectInstance: created instance of object: 0x%08x
+WMI_CreateWMIObjectInstance: couldn't allocate enum
+WMI_CreateWMIObjectInstance: '%s' failed
+WMI_ConnectToWMI: Connected to WMI server
+WMI_ConnectToWMI: Failed to connect to namespace server: 0x%08x 0x%08x
+WMI_ConnectToWMI: Failed to connect since namespace doesn't exist
+WMI_ConnectToWMI: Connecting to WMI server
+WMI_ConnectToWMI: Failed to allocate string for namespace
+WMI_ConnectToWMI: created namespace locator
+WMI_ConnectToWMI: Could not create namespace locator: 0x%08x 0x%08x
+servicesResult
+WMI_ConnectToWMI: '%s' failed
+nameSpace
+FILE: %s of '%s' failed: %s
+FileLockRemoveLockingFile
+%s %s-%s %s %s %s %s
+FILE: %s %s argv[%u]: '%s'
+FILE: %s '%s' contents are:
+FILE: %s removing problematic lock file '%s'
+FILE: %s read length issue on '%s': %Id and %Id
+FILE: %s read failure on '%s': %s
+FILE: %s file '%s': size %I64u, required size %Id
+FILE: %s file size failure on '%s': %s
+FILE: %s open failure on '%s': %s
+FileLockMemberValues
+.lck
+0123456789
+FILE: %s discarding %s from %s': %s
+invalid executionID %s.
+lock file has been moved.
+FILE: %s discarding %s from %s'; invalid file name.
+FILE: %s: Could not read the directory '%s': %d
+FileLockScanDirectory
+FILE: %s discarding %s data from '%s'.
+FileLockScanner
+FILE: %s timeout on '%s' due to another machine '%s'
+FILE: %s timeout on '%s' due to a local process '%s'
+FILE: %s discarding file '%s'; invalid executionID.
+FileLockWaitForPossession
+FILE: %s stat failure on '%s': %s
+FILE: %s creation failure on '%s': %s
+FILE: %s: '%s' exists; an old style lock file?
+E%05u%s
+D%05u%s
+M%05u%s
+FILE: %s: '%s' exists and is not a directory.
+FileLockCreateEntryDirectory
+FILE: %s FileRename of '%s' to '%s' failed: %s
+FILE: %s write length issue on '%s': %Id and %Id
+FILE: %s close of '%s' failed: %s
+FILE: %s write of '%s' failed: %s
+FileLockCreateMemberFile
+%s %s %u %s %I64u lc=%s
+FileLockIntrinsicMandatory
+FILE: %s implicit %s lock succeeded on '%s'.
+FileLockIntrinsicPortable
+FILE: %s: GetVolumeInformation failed: %d
+File_DoesVolumeSupportAcls
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+UTF-7
+IMAP-mailbox-name
+UTF-7,version=1
+UTF-8
+CESU-8
+UTF-32BE
+UTF-32LE
+UTF-32
+UTF-16BE
+UTF-16LE
+UTF-16
+UTF-16BE,version=1
+UTF-16LE,version=1
+UTF-16,version=1
+BOCU-1
+ISO-8859-1
+US-ASCII
+	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	_	0	1	2	3	4	5	6	7	8	9	
+ >	?	@	A	B	C	F	G	H	E	J	K	L	I	M	<	d	
+f	g	h	i	j	k	l	m	n	o	
+ISCII
+ISCII,version=
+SCSU
+SCSU,locale=ja
+zhTW
+windows-949
+windows-932
+windows-874
+ibm-852
+ibm-851
+ibm-850
+lmb-excp
+  ! 
+" $ 
+% % 
+& & 
+' ' 
+0 0 
+1 1 
+2 3 
+5 5 
+9 : 
+; ; 
+< < 
+t t 
+!!!!
+"!&!
++!+!
+5!5!
+S!T!
+[!^!
+`!y!
+ " "
+#"*"
++"="
+E"H"
+L"L"
+R"R"
+`"a"
+b"e"
+f"o"
+f&f&
+g&i&
+j&j&
+k&l&
+m&m&
+n&n&
+o&o&
+LMBCS-1
+LMBCS-2
+LMBCS-3
+LMBCS-4
+LMBCS-5
+LMBCS-6
+LMBCS-8
+LMBCS-11
+LMBCS-16
+LMBCS-17
+LMBCS-18
+LMBCS-19
+!"#$%&'
+#!V!W!"!&!r%!%#%%%'%)%c%e%g%C%<!"%$%&%(%*%+%-%/%1%3%5%7%9%;%=%?%A%D%F%H%J%K%L%M%N%O%R%U%X%[%^%_%`%a%b%d%f%h%i%j%k%l%m%o%s%+!,!
+ISO_2022
+ISO_2022_JP
+ISO_2022_KR
+ISO_2022_CN
+ISO_2022,locale=zh,version=0
+ISO_2022,locale=zh,version=1
+cns-11643-1992
+iso-ir-165
+ISO_2022,locale=ko,version=1
+ibm-949
+icu-internal-25546
+ISO_2022,locale=ja,version=
+ksc_5601
+jisx-212
+Shift-JIS
+ISO8859_7
+ucol_strcollIter
+ucol_nextSortKeyPart
+ucol_getLocale
+ucol_getSortKey
+ucol_strcoll
+ucol_close
+ucol_open
+ucnv_unload
+ucnv_load
+ucnv_flushCache
+ucnv_close
+ucnv_clone
+ucnv_openAlgorithmic
+ucnv_openPackage
+ucnv_open
+u_cleanup
+u_init
+Returns.
+Returns %d.
+Returns.  Status = %d.
+Returns %d.  Status = %d.
+Returns %d.  Status = %p.
+0123456789abcdef
+<5IkQ
+s1q4
+<5IkQ
+<5IkQ
+RSDSR
+D:\build\ob\bora-2985596\bora\build\build\vmrun\release\win32\vmrun.pdb
+free
+_stricmp
+fgets
+fflush
+__iob_func
+atoi
+setvbuf
+memset
+_mktime64
+sscanf
+strncmp
+malloc
+memcpy
+strrchr
+strtol
+MSVCR90.dll
+_amsg_exit
+__wgetmainargs
+_cexit
+_exit
+_XcptFilter
+exit
+__winitenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+_crt_debugger_hook
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_decode_pointer
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+SetConsoleMode
+GetConsoleMode
+GetStdHandle
+SetErrorMode
+Sleep
+GetLastError
+CloseHandle
+GetCurrentProcess
+ReadFile
+BackupRead
+InterlockedExchange
+InterlockedCompareExchange
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+ADVAPI32.dll
+_wopen
+_errno
+wcsncmp
+_wfopen
+_wrename
+_wunlink
+_wgetenv
+fputs
+_get_osfhandle
+_fileno
+strchr
+fgetc
+printf
+memmove
+scanf
+realloc
+calloc
+_strdup
+memchr
+tolower
+isalnum
+isdigit
+_snprintf
+_wfullpath
+strstr
+_strnicmp
+isspace
+strtok_s
+qsort
+strtod
+_strtoui64
+strtoul
+strcspn
+_fstat64i32
+fclose
+strncat
+vfprintf
+fprintf
+strncpy
+abort
+wcrtomb
+localeconv
+wcsrchr
+strerror
+_getpid
+rewind
+fread
+_strupr
+_strlwr
+islower
+wcsspn
+towupper
+wcschr
+wcscspn
+_fcvt_s
+_ecvt_s
+getenv
+sprintf
+getc
+feof
+frexp
+_close
+_write
+_lseek
+SetLastError
+WriteConsoleW
+GetProcAddress
+FreeLibrary
+LoadLibraryA
+GetModuleFileNameW
+GetFullPathNameW
+FindFirstFileW
+GetComputerNameExW
+LoadLibraryExW
+CreateFileW
+GetVolumeInformationW
+DeleteFileW
+GetModuleHandleW
+OutputDebugStringA
+CreateDirectoryW
+RemoveDirectoryW
+MoveFileExW
+GetFileAttributesW
+GetTempPathW
+LocalFree
+FormatMessageW
+GetCompressedFileSizeW
+GetFileTime
+FindNextFileW
+FindClose
+GetFileInformationByHandle
+GetCurrentThread
+GetFileAttributesExW
+SetEndOfFile
+SetFilePointer
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingA
+CreateFileA
+WriteFile
+FlushFileBuffers
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+TlsFree
+TlsAlloc
+TlsSetValue
+GetExitCodeThread
+OpenThread
+TlsGetValue
+LoadLibraryW
+OutputDebugStringW
+GetFileAttributesA
+WideCharToMultiByte
+GetVersionExA
+GetSystemInfo
+lstrcmpiA
+QueryPerformanceFrequency
+GetModuleHandleA
+OpenProcess
+VirtualQuery
+MultiByteToWideChar
+GetACP
+InitializeCriticalSection
+MessageBoxW
+USER32.dll
+GetFileSecurityW
+GetUserNameW
+AccessCheck
+MapGenericMask
+RevertToSelf
+ImpersonateSelf
+OpenThreadToken
+RegCloseKey
+RegQueryValueExW
+RegOpenKeyExA
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+AddAccessAllowedAce
+InitializeAcl
+GetLengthSid
+GetTokenInformation
+EqualSid
+GetExplicitEntriesFromAclW
+RegOpenKeyExW
+RegCreateKeyExW
+FreeSid
+SetSecurityDescriptorOwner
+AllocateAndInitializeSid
+RegQueryValueExA
+RegSetValueExA
+GetSecurityDescriptorControl
+GetNamedSecurityInfoW
+SetSecurityDescriptorControl
+CoUninitialize
+CoInitialize
+CoSetProxyBlanket
+CoTaskMemFree
+CoQueryProxyBlanket
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+SHGetFolderPathW
+SHELL32.dll
+                0000000000000000
+server
+player
+msvs
+viserver
+ws-shared
+none
+vmdb
+vmodl
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.30729.4148" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+:0D0P0\0i0
+1!1-141>1E1J1`1j1t1y1
+2%2,212G2Q2X2]2p2z2
+3(32393>3Q3[3b3g3z3
+4 434=4D4I4_4k4p4
+5&5.535I5V5^5c5v5
+6)63686?6D6Z6d6l6q6
+727<7F7P7[7n7z7
+828>8C8V8`8e8l8q8
+9"92979~9
+:+:A:P:_:u:
+;';6;;;R;g;
+</=6=k=r=
+?)?/?L?Q?y?~?
+)0=0H0N0e0z0
+353D3Y3h3}3
+4!40474F4r4
+5!5-5y5
+7,7074787<7@7D7H7L7
+:b:i:
+:E;S;Y;
+<B<Q<i<r<G=N=
+161m1
+9S9i9
+:E:y:
+:	;&;~;
+=5><>
+1-141I1P1i1
+7O7V7
+<D=n>
+4 4?4
+4t5y5
+6/6:6L6Q6r6|6
+637p7
+888?8
+8\9x9
+9::M:R:q:
+;6;U;r;
+</<L<k<
+=+=J=m=
+=	>(>E>d>
+?;?U?r?
+0!0&0,040H0c0l0
+1,11171?1E1K1X1^1g1
+2#2+22272=2C2K2Q2X2_2o2w2}2
+3%3.33393C3L3W3c3h3x3}3
+4*4?4J4b4x4
+5`6f6m6
+6!7D7Q7]7e7m7y7
+9i9v9{9
+;);3;R;^;
+;0<7<h<y<
+<(=9=C=S=_=
+>L>^>
+?,?9?J?O?g?l?
+050:0K0X0x0}0
+181=1U1Z1k1x1
+2%2*2;2D2M2h2m2
+3+373Q3Z3d3i3p3v3
+4%4*4:4F4O4X4^4m4
+5P5U5Z5_5o5
+7*7B7N7V7v7
+8#8/8D8P8W8
+909@9L9T9o9
+:*:E:W:f:
+;%;3;8;L;];p;u;z;
+;'<A<F<Z<u<z<
+>/>L>
+0 0$0=0V0
+2"3<3
+3[4v4
+5H6c6
+7[8v8
+9X:s:
+;H<f<
+=(>F>
+;0Y0
+2X3v3
+4,5M5
+5H6f6
+7,8P8
+8[9y9
+:8;V;
+=H>f>
+>X?v?
+0L1p1
+1H2f2
+4K5i5
+6Z6j6
+6*7C7O7
+8+868G8c8
+9$9o9
+:!:1:Q:Z:_:j:|:
+;';1;B;\;n;
+<*<<<m<
+=.=7=C=R=e=j=|=
+=L>n>y>
+> ?N?
+0-0`0i0
+1;1@1W1`1i1s1
+2!2X2{2
+3!3M3c3
+414:4j4o4
+5<5E5
+:g:u:
+:%;+;C;I;P;U;
+<*<6<;<
+=,=O={=
+> ?w?
+a0~0
+061M1]1n1
+2"262
+323y3
+4+4=4O4a4s4
+5F6P6s6
+6	7"7
+898>8M8
+9?9d9i9
+: :B:f:k:
+;,;:;V;!<Q<c<
+$030
+2-2>2F2[2b2r2
+5*575E5
+6Q6V6w6
+6,717g7
+8 8@8c8y8~8
+9 9.9n9
+;0;C;~;
+;-<2<A<P<
+=)=3=A=W=l=
+0014181<1@1D1H1g2
+696]6
+909V9
+:V:u:
+<;<D<W<j<}<
+=#>(>?>d>
+020}0
+4$484=4j4
+7/8J8O8c8|8
+969F9Q9
+:T;Y;
+;t<y<
+=)=Q=
+?+?8?w?
+0(0,0004080
+1*181
+4.4[4
+5$555>5F5L5U5[5e5r5~5
+6 616A6M6S6d6j6~6
+7#757N7T7Z7a7p7z7
+9!90999b9i9o9u9
+:':1:9:@:F:R:b:~:
+:_;r;x;
+0C0o0W1f1
+4'494U4l4v4
+4$5^5y5
+686L6
+6!7M7g7
+7U8\8m8
+9';P;C<W<H=o=}=
+>F>g>r>
+?f?x?
+0$0+0A0\0j2
+4.5E5
+7M7a7
+7&878F8V8g8v8
+8@9E9
+? ?)?2?9?B?H?N?W?^?e?
+(0I0N0[0i0w0
+1Z1h1
+2'2b2
+2=3y3
+4 4&4+404I4Z4j4
+6(6A6H6O6g6l6y6
+767;7E7V7o7
+8G8S8f8k8
+9(9A9P9W9j9y9
+:J:e:|:
+:,;f;
+=%=>=N=
+=i>n>{>
+> ?F?T?
+1$1P1j1
+273>3W3w3
+5D6X6y6
+6?7D7
+8(8,80848J8o8
+9_:f:
+=0=Y?e?{?
+ 0d0l1
+4L5f5
+5	7e7
+;.<n<m=
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0"1)1
+1P2h2l2p2t2x2|2
+3;4B4R4Y4m4r4
+565;5q5
+6H6L6P6
+6X7\7
+;=;B;
+>>>m>
+?:?C?d?p?
+0"050:0D0I0T0Y0
+1$101N1
+757M7R7X7_7e7n7
+<L<Q<e<~<
+0:0U0g0
+2,212H2O2]2b2
+303X3
+4,404448465>5\5a5
+6"6i6w6
+6F7h7{7
+8%9;9j9u9
+:-:=:D:O:U:`:g:}:
+;,;F;
+;><C<J<Q<X<_<f<m<t<{<
+<1=1>:>G>L>c>j>
+?&?+?
+	0*0c0
+0h1o1|1
+3#3o3x4
+405V5d5
+9/:H:X:i:v:
+:,;1;
+< =S=q=
+2`2o2|2
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>
+? ?:?
+9"9)999@9
+0R3^306
+5P5g5
+6J7T7d7
+8<8Z8e8o8w8
+8+929Y9`9v9
+:5:G:N:d:v:}:
+;&;8;?;U;g;n;
+<#<*<@<U<\<r<
+=.=@=G=]=o=v=
+>.>>>P>`>t>x>|>
+>$?+?>?I?V?]?
+0$090I0^0j0v0
+1L1Q1X1q1|1
+2 2(20282@2H2P2X2`2
+2/3L3\3l3|3
+4J4b4x4
+7(7K7a7
+8I8Y8
+9+9N9n9
+:5:O:r:
+;5;E;s;
+<3<X<_<
+<1=A=U=
+>">'>Q>V>
+?(?H?j?z?
+0i0u0~0
+181A1T1b1h1m1{1
+2/252;2D2J2R2j2y2
+3-353M3S3a3g3m3
+4(4K4V4[4a4
+4)565<5A5x5
+717l7z7M8h8
+8"9A9i9t9{9
+:-:>:H:U:z:
+;!;@;w;
+<$={=
+*0 1,1z1
+2C3L3R3s3
+4!464U4k4
+5*5E5f5{5
+64696L6Q6
+6A7]7z7
+8e9~9
+:0:E:M:_:
+;';_;f;q;~;
+<*<7<=<p<
+=%>H>U>^>
+0:1v1
+3?3F3^3t3~3
+4D4I4
+4<5z5
+6#6.656
+757N7T7Z7_7l7{7
+;0;7;O;V;b;g;r;
+;@<J<P<U<j<
+=5=K=y=
+>!>3>R>W>n>x>~>
+?,?n?s?{?
+0'0?0`0x0
+1 111i1s1y1~1
+2'21272<2h2r2x2}2
+31383L3Q3k3
+3F4e4j4
+5<5I5^5
+5&636M6]6{6
+7n7s7
+80858v8{8
+<2<N<
+='=C=
+>&>e>
+>(?i?
+0%0D0|0
+161f1
+2&242V2
+233D3I3P3m3u3z3
+4!444I4O4j4
+6+63686K6U6`6f6x6~6
+7"7(7R7x7
+8.8;8k8
+919<9k9
+< =r={=
+0	1g1
+3R3X3
+9L9q9
+:Q:Z:
+;4;L;
+>0?S?
+ 0^0w0
+0$1+1
+;);6;s;
+<1?I?
+Q0Z0`0l0w0
+;";';3;8;R;W;f;};
+;U<f<|<
+<b=j=p=y=
+=	>H>e>
+>1?G?M?p?v?
+0,020D0k0q0
+1%1b1u1
+5.5?5
+6<7Z7j7r7
+8(8-8<8t8z8
+9$989=9I9j9|9
+:S:X:n:t:
+;F;t;
+<%<\<
+<*=\=p=
+7'727=7E7M7U7\7g7u7
+828P8a8k8
+9-9C9M9h9
+<]=j=t=
+>&>0>w>
+s0y0
+0D1N1
+2B2O2
+3b3i3n4t4'565H5q5
+6/6>6D6K6V6`6j6p6}6
+6	7[7
+7_8w8}8
+8?9j9M:S:
+=%=4=
+>g>w>
+?)?4?:?F?N?Y?^?z?
+0W1m1
+3!3B3c3{3
+4!4*444
+0"0,0S3w3
+;$;6;H;Z;l;~;
+R:Y:
+ 1b1`3d3h3l3p3t3x3|3\4`4d4h4l4p4t4x4X5\5`5d5h5l5p5t5
+;J<Y=
+3 4S4_4f4z4
+5%5,5A5e5j5
+666;6^6r6
+757:7X7]7
+8	8'858:8Z8f8
+:':-:9:@:W:
+;8;O;
+;"<1<8<=<L<
+=*>1>6>Q>y>~>
+?$?8?K?
+0G0W0g0
+0#1t1
+22393>3
+5O6i6 7%757D7Y7
+7>8E8g8
+9S:X:
+:];b;
+=+=0=A=H=M=[=
+>+>e>k>y>
+?J?R?W?
+4c5{5
+8 8$8(8`8o8
+9(9d9
+9):N:a:
+:#;;;a<
+2 2t2
+3C3h3
+4+4h4
+4(5c6
+e0z0
+6p6t6x6|6
+1`1+;2;
+;)<Z<l<
+<h=l=p=t=x= >g>
+>	?,?
+1&5p9
+9V:`:j:s:
+=m=v=
+2X3J5Q5
+9d<h<l<p<t<x<|<
+3 6$6(6,6064686U7)8
+> >$>(>A>H>
+:0A0
+5b8q8
+90:4:8:<:G:K;
+0+292:4E4
+2I5R5q7?8F8P;T;X;\;`;
+>,>8?<?@?D?j?
+)0o0
+0	1 181?1I1Y1
+1>2a2
+3'3<3C3M3e3s3
+d7h70?4?<?D?H?P?T?\?`?h?l?p?t?x?|?
+ 0(00080@0H0P0X0`0
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+2 2(20282@2H2P2X2`2h2p2x2
+3\3`3d3h3l3x4|4
+6$6,60646@6D6H6L6P6T6X6\6d6
+6h7p7L8T8X8\8`8d8|8
+9h;l;p;t;x;
+>H?P?
+@0D0H0L0P0d0
+2t3|3
+3(404
+5 5$5(505<5
+6X7`7
+8h9p9X:\:`:d:h:|:
+4 4(4,4
+5X6`6
+; ;(;0;8;@;H;P;X;`;h;p;x;
+=0>8>
+? ?$?(?,?@?D?
+0`1h1D2H2P2T2X2\2p2t2
+4t5x5
+5(606
+7 7$787<7
+8X9`9<:@:H:L:P:T:h:l:
+<l=p=x=|=
+= >(>
+P3T3X3\3`3d3h3l3p3t3
+384@4
+5 5$5(5,50545@5D5H5L5
+6h7p7L8P8T8X8\8`8d8p8t8x8|8
+9d=h=p=t=x=|=
+l0p0
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1\1h1t1
+2(242@2L2X2d2p2|2
+3$303<3H3T3`3l3x3
+4 4,484D4P4\4h4t4
+5(545@5L5X5d5p5|5
+6$606<6H6T6`6l6x6
+7D7H7L7P7T7X7\7`7d7h7l7
+8 8$8(8,8084888<8@8|8
+9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:
+;T;X;\;`;d;h;l;p;t;x;|;
+;$<(<,<
+<\=`=d=h=l=p=t=x=|=
+=,>0>4>8><>@>D>H>
+?d?h?l?p?t?x?
+4080<0@0
+1l1p1t1x1|1
+1<2@2
+3t3x3|3
+3D4H4L4
+6L6P6T6X6\6`6d6h6
+7T8X8
+8$9(9,90949
+9\:`:d:
+:,;0;4;
+<d<h<l<
+<4=8=<=
+>l>p>t>
+><?@?D?H?L?P?T?X?
+0t0x0|0
+0D1H1L1P1T1
+2L3P3T3X3
+4 4$4(4
+4T5X5\5
+5$6(6,60646
+7\7`7d7h7
+7,8084888<8
+9d9h9l9
+94:8:<:
+;l;p;t;x;|;
+;<<@<D<H<
+=t=x=|=
+=D>H>L>P>
+L0P0T0X0\0
+1T2X2
+2$3(3,3034383<3@3D3H3
+4\4`4d4h4l4p4t4x4|4
+4,5054585<5@5
+6d6h6
+8l8p8t8x8
+8<9@9D9H9L9
+:D;H;
+<L=P=T=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>
+>T?X?\?
+$0(0,00040
+1\1`1
+1,202
+3d3h3l3p3
+34484
+5l5p5
+5<6@6
+7 7$7(7t7x7
+7D8H8
+9L:P:
+; ;$;(;,;
+<T<X<\<`<d<h<l<p<t<x<|<
+<$=(=,=0=4=8=
+>\>`>d>h>l>p>t>x>
+>,?0?4?8?<?@?
+0d0h0l0p0t0x0|0
+04181<1@1D1H1L1
+2l2p2t2x2|2
+2<3@3D3H3L3P3T3
+4t4x4|4
+4D5H5L5P5T5
+6 6$6|6
+6L7P7T7X7\7`7
+8 8$8(8,808
+8T9X9\9
+9$:(:,:0:
+;\;`;d;h;l;
+;,<0<
+=d=h=
+=4>8>
+?l?p?
+<0@0
+1t1x1
+1D2H2
+3L4P4
+5 5$5(5,5
+6T6X6\6`6
+6$7(7,7074787<7
+8\8`8d8h8l8p8t8
+8,9094989<9@9D9
+:d:h:l:p:t:x:|:
+:4;8;<;@;
+<l<p<t<x<
+<<=@=
+> >t>x>|>
+>D?H?L?P?T?X?
+0 0$0(0|0
+0L1P1T1X1\1`1
+2 2$2
+2T3X3\3`3d3
+3$4(4
+4\5`5
+5,606
+7d7h7l7p7t7
+74888
+9l9p9t9x9|9
+9<:@:D:H:
+;t;x;
+;D<H<
+=L>P>
+T0X0\0`0
+0$1(1
+6<7@7D7
+8t8x8
+8D9H9L9
+; ;0;@;P;`;p;
+= =$=(=8=<=@=D=H=L=x=
+41@1L1X1d1p1|1
+2$202<2H2T2`2l2x2
+3 3,383D3P3\3h3t3
+4(444@4L4X4d4p4|4
+4X5\5`5d5
+9 9$9(9,9094989@9
+:@=D=H=

@@ -1,0 +1,819 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+>%6B
+@'X4n
+EJ+o
+.H('
+.,('
++P	o
+,"rE	
+p	(1
++&~x
+*.(m
+	,&	o>
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+O=/vYa
+!Invalid argument: switch missing.
+>Invalid argument: delimeter (':' or '=') may not start switch.
+!Switch /{0} is an unknown switch.
+,Disco found documents at the following URLs:
+Disco encountered errors downloading some documents during discovery:
+/Output location '{0}' is not a valid directory.
+1Too many arguments. Only one url can be supplied.
+ERROR: 
+{0}<username>
+{1}<password>
+{2}<domain>
+    The credentials to use when the connecting to a server that
+    requires authentication. Short forms are '{3}', '{4}' and '{5}'.
+{0} -
+    Utility to discover the URLs of xml web services located on a web server
+    and to save documents related to that xml web service on the local disk.
+    The results.discomap, .wsdl and .xsd files produced by this tool can be
+    used with wsdl.exe to produce web service clients and abstract web service
+    servers using ASP.NET.
+    Suppresses the banner.
+    Do not save the discovered documents or results to disk (for example
+    wsdl, xsd and disco files). The default is to save the documents.
+     - OPTIONS -
+{0}<directoryName>
+    The output directory to save the discovered documents in. The default
+    is the current directory. Short form is '{1}'.
+{0}<url>
+    The url of the proxy server to use for http requests.
+    The default is to use the system proxy setting.
+{0}<username>
+{1}<password>
+{2}<domain>
+    The credentials to use when the connecting to a proxy server that
+    requires authentication. Short forms are '{3}', '{4}' and '{5}'.
+{0} <options> <url to discover>
+,Microsoft (R) Web Services Discovery Utility
+If you would like more help, please type "disco {0}".
+0The file {0} holds links to each of these files.
+EThe following files hold the content found at the corresponding URLs:
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+2"2(2I2
+3(3F3Y3k3
+4U4a4
+<Module>
+disco.exe
+ErrorKnownException
+Microsoft.DevApps.WebServices
+Disco
+DiscoveryClientResultComparer
+ArgumentDictionary
+CommandRule
+AssignmentRule
+CheckingRule
+CommandLineArgumentException
+CommandLineException
+CommandParser
+CommandSwitch
+FXAssembly
+ThisAssembly
+AssemblyRef
+ResDescriptionAttribute
+Microsoft.DevApps.WebServices.DiscoResources
+ResCategoryAttribute
+mscorlib
+System
+Exception
+Object
+System.Collections
+IComparer
+IDictionary
+ICollection
+IEnumerable
+ArgumentException
+System.ComponentModel
+DescriptionAttribute
+CategoryAttribute
+.ctor
+SCREENWIDTH
+args
+arguments
+switches
+Main
+ProcessCommandLineArgs
+PrintHeader
+SetConsoleUICulture
+Error
+Discovery
+GetExceptionMessage
+EmitUsage
+Compare
+Hashtable
+contents
+get_Count
+get_IsReadOnly
+get_IsFixedSize
+get_IsSynchronized
+get_Keys
+get_SyncRoot
+get_Item
+set_Item
+System.Collections.IDictionary.get_Item
+System.Collections.IDictionary.set_Item
+get_Values
+System.Collections.Specialized
+StringCollection
+System.Collections.IDictionary.Add
+Clear
+Contains
+System.Collections.IDictionary.Contains
+ContainsValue
+Array
+CopyTo
+GetArgument
+GetArguments
+IDictionaryEnumerator
+GetEnumerator
+System.Collections.IDictionary.GetEnumerator
+IEnumerator
+System.Collections.IEnumerable.GetEnumerator
+Remove
+System.Collections.IDictionary.Remove
+Count
+IsReadOnly
+IsFixedSize
+IsSynchronized
+Keys
+SyncRoot
+Item
+System.Collections.IDictionary.Item
+Values
+ValueOptional
+ValueRequired
+cswitch
+System.Text.RegularExpressions
+Regex
+pattern
+get_Cswitch
+set_Cswitch
+get_Pattern
+set_Pattern
+AnyOf
+VerifyRule
+Cswitch
+Pattern
+AssignDefaults
+multipleValuesAllowed
+switchRequired
+get_MultipleValuesAllowed
+set_MultipleValuesAllowed
+get_SwitchRequired
+set_SwitchRequired
+CheckRule
+MultipleValuesAllowed
+SwitchRequired
+offendingRule
+get_OffendingRule
+OffendingRule
+AssignUnknowns
+CheckRules
+ParseCommand
+System.Resources
+ResourceManager
+PrintHelp
+GetLocalizedText
+WrapLine
+name
+abbreviation
+description
+valueName
+get_Name
+get_Abbreviation
+get_Description
+set_Description
+get_ValueName
+set_ValueName
+Equals
+FancyName
+FindSwitch
+Name
+Abbreviation
+Description
+ValueName
+Version
+Title
+DefaultAlias
+Copyright
+InformationalVersion
+DailyBuildNumberStr
+BuildRevisionStr
+DailyBuildNumber
+EcmaPublicKey
+EcmaPublicKeyToken
+EcmaPublicKeyFull
+SilverlightPublicKey
+SilverlightPublicKeyToken
+SilverlightPublicKeyFull
+SilverlightPlatformPublicKey
+SilverlightPlatformPublicKeyToken
+SilverlightPlatformPublicKeyFull
+PlatformPublicKey
+PlatformPublicKeyToken
+PlatformPublicKeyFull
+Mscorlib
+SystemData
+SystemDataOracleClient
+SystemCore
+SystemNumerics
+SystemRuntimeRemoting
+SystemThreadingTasksDataflow
+SystemWindowsForms
+SystemXml
+MicrosoftPublicKey
+MicrosoftPublicKeyToken
+MicrosoftPublicKeyFull
+SharedLibPublicKey
+SharedLibPublicKeyToken
+SharedLibPublicKeyFull
+SystemComponentModelDataAnnotations
+SystemConfiguration
+SystemConfigurationInstall
+SystemDeployment
+SystemDesign
+SystemDirectoryServices
+SystemDrawingDesign
+SystemDrawing
+SystemEnterpriseServices
+SystemManagement
+SystemMessaging
+SystemNetHttp
+SystemNetHttpWebRequest
+SystemRuntimeSerializationFormattersSoap
+SystemRuntimeWindowsRuntime
+SystemRuntimeWindowsRuntimeUIXaml
+SystemSecurity
+SystemServiceModelWeb
+SystemServiceProcess
+SystemWeb
+SystemWebAbstractions
+SystemWebDynamicData
+SystemWebDynamicDataDesign
+SystemWebEntityDesign
+SystemWebExtensions
+SystemWebExtensionsDesign
+SystemWebMobile
+SystemWebRegularExpressions
+SystemWebRouting
+SystemWebServices
+WindowsBase
+MicrosoftVisualStudio
+MicrosoftVisualStudioWindowsForms
+VJSharpCodeProvider
+ASPBrowserCapsPublicKey
+ASPBrowserCapsFactory
+MicrosoftVSDesigner
+MicrosoftVisualStudioWeb
+MicrosoftWebDesign
+MicrosoftVSDesignerMobile
+MicrosoftJScript
+replaced
+GetLocalizedString
+Logo
+HelpDescription
+HelpUsage
+HelpOptions
+HelpNoLogo
+HelpNoSave
+HelpOut
+HelpCredentials
+HelpProxy
+HelpProxyCredentials
+MoreHelp
+ErrOutDirectory
+ErrTooManyArgs
+ErrUrlDiscoException
+ErrNonFatal
+DiscoFoundDocumentsAtTheFollowingURLs
+TheFollowingFilesHoldTheContentFoundAtThe
+TheFile0HoldsLinksToEachOfTheseFiles
+CommandArgumentsMissingSwitch
+CommandArgumentsSyntax
+CommandArgumentsUnknownSwitch
+loader
+resources
+GetLoader
+System.Globalization
+CultureInfo
+get_Culture
+get_Resources
+GetString
+GetObject
+Culture
+Resources
+innerException
+prefix
+sourceUrl
+outputDirectory
+nosave
+length
+value
+values
+array
+index
+valueNumber
+patternString
+validValues
+options
+violated
+rules
+print
+english
+text
+screenWidth
+compare
+category
+ParamArrayAttribute
+usedFallback
+System.Runtime.InteropServices
+OutAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+disco
+Console
+WriteLine
+get_CurrentCulture
+String
+IFormatProvider
+Format
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+GetConsoleFallbackUICulture
+set_CurrentUICulture
+System.Text
+Encoding
+get_OutputEncoding
+get_CodePage
+get_UTF8
+TextInfo
+get_TextInfo
+get_OEMCodePage
+get_ANSICodePage
+System.IO
+TextWriter
+get_Error
+get_Message
+Concat
+get_InnerException
+Directory
+Exists
+Empty
+System.Web.Services
+System.Web.Services.Discovery
+DiscoveryClientProtocol
+System.Web.Services.Protocols
+HttpWebClientProtocol
+set_AllowAutoRedirect
+System.Net
+CredentialCache
+NetworkCredential
+get_AbsoluteUri
+get_Length
+get_AbsolutePath
+Substring
+AuthenticationManager
+get_RegisteredModules
+get_Current
+IAuthenticationModule
+get_AuthenticationType
+MoveNext
+WebClientProtocol
+ICredentials
+set_Credentials
+get_DefaultCredentials
+WebProxy
+WebRequest
+IWebProxy
+get_DefaultWebProxy
+set_Proxy
+DiscoveryDocument
+DiscoverAny
+ResolveAll
+ArrayList
+DiscoveryClientReferenceCollection
+get_References
+DiscoveryReference
+IDisposable
+Dispose
+Sort
+DiscoveryClientResultCollection
+WriteAll
+CollectionBase
+DiscoveryClientResult
+Write
+get_Filename
+Path
+Combine
+get_Url
+DiscoveryExceptionDictionary
+get_Errors
+DictionaryBase
+DictionaryEntry
+get_Key
+get_Value
+StringComparison
+DefaultMemberAttribute
+get_InvariantCulture
+ToLower
+ContainsKey
+op_Equality
+RegexOptions
+StringBuilder
+Append
+ToString
+Type
+GetType
+StringEnumerator
+IsMatch
+op_Inequality
+get_Chars
+Char
+IndexOfAny
+IList
+Split
+AttributeUsageAttribute
+AttributeTargets
+set_DescriptionValue
+Assembly
+get_Assembly
+Interlocked
+CompareExchange
+.cctor
+DiscoRes.resources
+RSA1
+(]b,
+=t]o-
+Item
+	disco.exe
+Microsoft Corporation
+Microsoft
+ .NET Framework
+ Microsoft Corporation.  All rights reserved.
+4.0.30319.17929
+4.0.0.0
+en-US
+%f:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+RSDS7y
+disco.pdb
+	Fov
+	Fov?
+wwwwwx
+wwwwwx
+wwwwwx
+wwwwwx
+wwww
+wwwwwx
+wwww
+wwwwwx
+wwww
+wwwwwx
+wwww
+wwww
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwww
+wwwwwwwx
+wwwwwwwx
+wwwwwwwx
+wwwwwwwx
+wwwwwwwx
+wwwwwwwx
+wwwwwwwx
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <assemblyIdentity 
+        version="4.0.0.0" 
+        name="disco" 
+      /> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+3^v0>
+100.
+http://microsoft.com0
+Czp]
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120709061854Z0#
+MZkwK
+jc\Q
+hT)r
+#jVh@
+kspN
+N0L0
+ n1u
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120514213951Z
+130814214951Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+meDf
+w\j l%
+UkW"
+lgoi
+~/2V
+'5xK
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+&,BV
+pqrr
+5b*1%f
+Io#s
+dzH]|e
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+100.
+http://microsoft.com0
+P5?A
+XJ2Q
+20120709061859.895Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213537Z
+130409214537Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service0
+re;!
+^Kh_
+AN>I
+@Cm'
+>N$$8R
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ni()
+E2yv
+e`Ki
+1x]*
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120709002639Z
+20120710002639Z0w0=
+1/0-0
+1(0&0
+4:u'K
+7' i
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+MM(h
+)F,a
+Ra(P
+f F-

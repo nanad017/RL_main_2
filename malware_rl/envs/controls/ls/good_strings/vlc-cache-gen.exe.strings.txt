@@ -1,0 +1,1387 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.bss
+.idata
+.CRT
+.tls
+.rsrc
+[^_]
+UWVS
+,[^_]
+,[^_]
+D$$t
+D$Xt)
+UWVS
+L[^_]
+L[^_]
+[^_]
+UWVS
+[^_]
+8MZt
+UWVS1
+[^_]
+[^_]
+B' t
+[^_]
+UWVS
+L[^_]
+DD$(
+[^_]
+UWVS
+<[^_]
+<[^_]
+T$(1
+J 9J$~
+UWVS
+L[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+tP9M
+[^_]
+VUUU
+[^_]
+VUUU
+[^_]
+[^_]
+VUUU
+VUUU
+[^_]
+[^_]
+gfff
+gfff
+,[^_]
+@[^_
+@[^_
+@[^_
+@[^_
+UWVS
+|$,f
+gfff
+gfff
+D$&t
+\[^_]
+D$8.
+UWVS1
+l[^_]
+9D$8
+L$8@
+T$&f
+UWVS
+T$$1
+\$$1
+9|$(
+L[^_]
+UWVS
+|[^_]
+|[^_]
+|[^_]
+D$ t$
+D$ t
++D$ 
+D$L-
+|[^_]
+)D$(
+D$L-
++t$(
+D$l}2
+t$,)
++T$<
+T$P1
+)D$4
+D$l)
+D$<)
+)D$4
+|$41
+\$41
+D$,9D$l
+9|$l|
+D$(9
+T$l9T$,
+T$l9
+T$l9
++\$,
+|$09
+T$ ~|
+UWVS
+[^_]
+[^_]
+D$@	
+,[^_]
+UWVS
+L$89
+D$$9
+|$(1
+9t$ 
+\$$9\$,w
+L[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+L$ 	
+<[^_]
+UWVS
+<[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+T$@f
+D$@1
+\$@f
+0[^_
+ED$l
+[^_]
+l$>tO
+9\$h
+[^_]
+[^_]
+D$,u
+ [^_
+UWVS
+D$X1
+9l$Xv,
+<[^_]
+[^_]
+[^_]
+9|$Xv8
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+[^_]
+WVSQ1
+Z[^_]
+tEU1
+D$,@
+libgcj-13.dll
+_Jv_RegisterClasses
+Usage: %s [-f] <path>
+Generate the LibVLC plugins cache for the specified plugins directory.
+ -f, --force  forcefully reset the plugin cache (if it exists)
+No plugins in %s
+LibVLC plugins cache generation version 2.2.6
+VLC_PLUGIN_PATH
+--quiet
+--reset-plugins-cache
+force
+help
+version
+%s=%s
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+The result is too small to be represented (UNDERFLOW)
+Total loss of significance (TLOSS)
+Partial loss of significance (PLOSS)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+%s: 
+POSIXLY_CORRECT
+unknown option -- %s
+unknown option -- %c
+option doesn't take an argument -- %.*s
+ambiguous option -- %.*s
+option requires an argument -- %s
+option requires an argument -- %c
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+___lc_codepage_func
+__lc_codepage
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.1
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.2
+GCC: (GNU) 4.9.2
+libvlc_new
+libvlc_release
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+SetErrorMode
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_iob
+_lock
+_onexit
+calloc
+exit
+fprintf
+fputc
+free
+fwrite
+getenv
+localeconv
+malloc
+memcpy
+puts
+setlocale
+signal
+strchr
+strerror
+strlen
+strncmp
+_unlock
+abort
+atoi
+vfprintf
+wcslen
+_putenv
+libvlc.dll
+KERNEL32.dll
+msvcrt.dll
+<<<<<<<
+v55j@
+cMT	^F
+QQ445E
+x	Z	Y
+9Z6[%
+n8nC$8
+8n8$Cn8
+C7C$C
+#5E3''
+/#5E
+{VlIG(
+X0)?|
+)y)n
+|?|,n
+<<::::::::::::<<<&00
+####;;
+&&<<
+<<<66:*/
+6<<<<<
+<<<<<<<%')
+32%<<<<<<<<<'
+'<<<<<<<<<<
+<<<<<<<<<<!
+!<<<<<<<<<<<
+<<<<<<<<<<<<+
+	<<<<<<<<<<<<
+<<<<<<<<<<<<1 
+1<<<<<<<<<<<<<11<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<
+IHDR
+IDATx
+kVfV
+73_k
+!$:B
+RUgT
+d2aGl
+Q@U@
+u,p:`
+?@( T
+@|+B
+H@$	z
+]+"I
+?x({&
+B/+x
+}A:P
+N^WU/
+OGTwA
+}!e@({3
+]v/D
+$/;!:
+ w@(x4.
+Pf?C}
+muX]
+ML24
+,15=
+l;Dc1
+Veff
+EVd"f
+h,F6
+ahDL
+3j2<<
+sR8afv
+gfX[_{
+IsR8
+.LNM
+NLNE3
+0>IH
+pR8fo
+;-dYaqq
+D2A.
+loo2
+O5v1#
+Vctt
+2:>F6
+16>N
+k1>1
+799)
+z]D#
+E4UC
+1X^Y
+EQpq
+$1;7O
+{k+$
+iFh6[
+ds9dEaue
+VO_~
+h59>>
+Cgbj
+d(7D
+!$4M!
+rZAQ5
+uavv
+wYZZ
+Ic[6KKw(
+eYf}m
+9rSS
+Eabr
+	$Y~e||2
+cLNL2<<B
+.FDGS5$Yfll
+''DL
+h4PU
+i,/-ah:
+X,F.
+t:]Z
+Y^Y%
+ux@.
+&?4D
+2:6F
+ZDcQ$Ib}m
+9$Yf8?
+4;;;
+JD"&
+79>>
+,.=u
+X4N4
+#jjD
+_`bb
+5iw-2
+-NNN
+1VVV>
+X4J.
+3Slnl
+095M
+uAUU
+/yB|Rdt8
+3O_F
+g~n~eu
+l295
+p\8fss
+Y]Y!?<
+mS8>BQdR
+P8bl|
+U.?u
+Hpt|H
+3;3K
+Xdww
+IDAT
+pRdbb
+fff0L
+9$I"bx
+kkkt
+,aY6
+L%9==%;4D,
+&'I$b
+*+KK
+12<B,
+abDL
+d2E6
+\ev~
+b	US)
+Nq\8
+tzJ&
+Ct]grr
+qtME
+udYbyi
+h,N*
+l6h4
+9$Ee{g
+LMNqR*s
+WX_[
+[-dY
+H$U8*
+X,N2
+KLLNpn
+HRo4
+p\h6[^Z0
+'jF999
+\6K*
+{t:m
+v9<<
+g8>)2:<
+m;<}
+. +*]
+I%Sl
+I.7D~d
+nq\8
+0:6F2
+\BS5
+q|\ 
+EQQd
+`Y6Q3
+'''(
+kU67
+T2A$
+i6[X
+d2A2
+]gvn
++:rlTU%
+T*C6
+rabr
+2>:J
+.S33
+H277K
++b0:2
+`4k$w~
+322B:
+REV5
+A.7D"
+E$!q
+h5=2
+JR8:
+[_df
+O07;M
+_P\;
+A( v
+=ZgX
+*m3T}
+/qxXDS
+XnSjGH
+oEQe
+xQXY
+I#b[t
+\<Aw$
+56!<
+;p=q
+}Mr]
+ |awm
+#&e@
+i?h=H
+=~@L
+QUt_	L
+S=k"
+H}!Qd?
+Tx.AP:|
+t@2AA
+oK/3
+_1H?
+*nm|
+.g`gp
+g%|23d
+	h*tNK
+l8_H{3
+gF#<
+p_*P
+rYUf
+sO*I
+W@BG
+_yOO
+l?GQ`xq
+W#!4
+#'2q~
+h3%-
+\%a^
+lI^%
+Szs=
+"8eGgN
+;"J(
+sEs^
+I7dq^I
+`8oa
+IDAT
+tY0$
+|WJj
+62_U
+gJ,`
+3/gY
+y*|~
+CHr>
+Wm/b
+|`LG
+tT:_
+Kx-\
+'5px
+~{<&x
+N2qf
+[/"Ng
+<-pC{<
+,kN	v
+IE<i
+ctf'2
+wrzQ
+#.:&
+mqss
+HS0C!
+'vCzl#a
+uHD|d
+[Y50
+.a9F
+&_(p|xH:
+qxx@.
+/p|x
+h0D7
+qqQM
+& * 
+Fpe,
+>@1L4
+l.G6
+H$J&
+D*g'X
+EQ899a
+h4J0
+T.syy
+V6nr
+qQ='
+PU-5
+F;@g
+Qvow
+ls||
+99>buu
+KDQ 
+hP9=%
+T.#	
+{HR4i
+x<pg
+39z>?
+lnmqQ
+l6Y*
+Gt.t
+X][c8
+pptJ&
+/p|t
+E666
+R9cow
+J @&
+zt;]
+ R9;
+VWWy
+99>F
+x<N*
+t&K 
+1VVW9==
+L&Y^.sxx
+Ig2l
+X_[E
+]I9><
+T2E,
+z^[I
+v;L'
+]38??'
+t{=n
++l?z@4
+%67o
+P0@4
+tMg8
+p4$W
+esL&
+vyIyy
+,..R
+x<.(J
+p8B6
+YYY%
+WXZ*c
+IgX[[
+UX__
+^opxt
+x4bcc
+9::fgg
+7H&S
+p4B">
+z=Tu
+t:mdYf:U
+9=;caa
+Si.//9
+t]g2
+`0H"
+opzv
+B4[m
+[71u
+d:Eaa
+,SZ*3
+8<<@UU
+NNI$
+olp|t
+EQ8;=
+PXd<
+R.-3
+J H>
+t:mTU
+jd2)
+GGXX
+t:=K
+` H:
+MTU%
+$SI4M
+G89=A
+EIe3
+X^^e
+X(. J
+p4D(
+IDATd4
+N9><
+Q|>b
+ZT*g 
+NS^^F@
+N@Qh
+@S5|
+>$I&
+*Dc1V
+t&K<
+^c}}
+O$(/
+KtS@ 
+$IFU
+L&C$
+H,J&
+svzB
+Tbsk
+H$:3L
+irr|B
+Q9;%
+S^^a8
+J#a!$
+=DI$
+Z3BM4
+?foooV%
+Y^Ya8
+9[&i
+C0YX
+p0@W5
+vX\*
+U999FQ
+t:]NO
+TY\Z
+g~=3%7
+f9>:
+e26Z=
+D"Q6
+8==e0
+R^fgg
+CTUemm
+Zds92
+L;gp
+MUi5
+){{{
+DdI"
+Of]}
+x<N0
+ctMC	(
+vvh4k
+++D"Q
+EUUg-
+kt:]
++++D#
+8?G3f
+LaYP.
+X\\$
+\^\`
+lrpp
+8;9e
+~;20
+SNNN
+T:M&
+gXA2
+[[7(,,
+aP./
+9<<D
+J%./k<x
+0Y^^
+qK%S
+a{rgW
+wWP9
+Q./3
+R	M7
+Lr|r
+5VWV
+~?[[
+E.//
+p8d8
+5t]'
+`(L*
+4d4cE
+jqr|
+]$Y&
+u4uB8
+G#$Q
+{WwW
+VwUwu
+C]sqp
+9/67u
+u.^Z
+rqMM
+n,-.r
+019I
+{wY[[
+8foo
+,/_`aq
+n7>=
+vwX\Zbjj
+BT`gg
+nQ)i
+\auu
+]&&'
+?`yi
+XXZbn~
+WW9>:
+V	"0
+Oppx
+89=!M3
+yLLNrrrB
+;LOO37
+N8==
+BcR&F 
+Y\\bwg
+j16Vcnn^
+T,2?7
+]eww
+/^bee
+X,Q(F<Y{
+,-.S
+@QNr
+H2htM
+&K3:
+P(pvv
+P,pttH
+qxtD
+159I
+IDAT
+)+++,.-
+bN'`4
+2;7Om
+W.R(
+ToR23;K
+Tfee
+H!*pt|
+|V.^
+_`gw
+{;^k
+L<`3
+Ejc5*
+O9??gaq
+h299
+Rfbb
+Slom
+l6i4
+>Vcff
+4afF
+M\[{
+3~jr
+nQ.W
+"GG'
+<czz
+!'''ll
+S?9fll
+rr|L
+t:mz
+<&NSj
+Rcqq
+iFT,P
+,$%w
+{.n}m
+\Z^ 
+ELNNP
+J%&&&X[{
+o1cr
+=vwwt
+LOMQ
+@j_P
+#a@O
+ejjZ
+P,ri
+or)[g
+:?g|b
+B195
+:Vcu
+/pai
+g;^;
+X,pp
+Rz7`
+\XYa~a
+LMM0??
+2X!*D<}
+`0`rr
+111N
+=jcu.^^env
+L[oR
+g)$&\
+6Vcnv
+66F}
+333<|
+?5B@
+T,195
+#NOO
+,Lh4
+(OO~&00
+.<9 
+WDQD
+?lr~~N
+OI;G
+DdyY(
+jX_.
+.[/_P*
+16\g>
+	|(<
+:ZA)hu
+\dv~
+C}nJ
+C1-|
+_ymZ
+5w20
+ ;n0
+V@0u
+0>^'Nb
+C(NZ
+^gBZ|
+tPq>
+^.$$
+lhlb
+|'k,
+jim7r
+P$gPI
+-%Ycn;i
+CIM>
+s,~!
+~$A_ci
+|p#D
+laz_
+^Ach
+k/|$
+,glY
+IDAT
+!v!F/
+q~JDF
+*?WOx
+M"M%
+h4iU&p
+j~aP1
+5aNG
+V*_'[
+[/;X8,
+4BQX
+.OBF
+hw9/u4
+8,E0
+2f3'
+& n$
+h=	KZ
+nMR-
+3OPB
+rx~.
+zW"L
+jdyJ
+!vbS
+!0<I
+"@1s
+GP(AX
+M8PP`
+r8,^e7thc
+vJ.4<
+8LsA
+W!`|
+'Uy"
+CG0f@Xq
+Rnf&
+"_{y
+/P*h
+BA;yJF
+Wamq
+]=&;
+X {,
+WlZp
+Icl?
+#v69
+=IGC
+.ZL9L
+4RTb
+P,hm 
+&H_9
+k;7J#
+;NuC
+KQOP
+EU~n
+Hms/+
+pclZ
+)&Ea
+F([;_^M
+*'je$
+`ZCE
+1m$' 
+E?R/Q
+RH{z
+fDZc~w
+[@$q{
+mlce
+	'/ 
+<%gz
+h2)z
+h/1]
+i~NF
+e`si*c
+m{,a
+jn	Y
+w+k)J
+aJp|
+]C2F
+:?_OW
+w@Rj
+A?"h|
+!g}Qf
+0Lo4BJ.}E
+TS`d
+mmYaN
+P*_\2
+!yK!
+qX'#
+"7)	w
+VyZ;
+kA>8
+`7HI^9
+ ^	T
+2MT6
+.1|K
+QN6",
+a4dXe
+[LfOt
+n3Lak
+/+G\
+dGu]U
+IDATAA$
+59o 
+f~;@
+Ww%4
+d>^V
+~2	]M
+i5`"
+|*D<6
+`9j=
+NcXqA
+&c :
+t/U<j
+i,>`G9
+{7 e]
+w8|{
+4GLu
+_k3y
+2TGiCY
+d$Vv`
+FcKv
+,OoH
+al W
+bZJ3
+]I;1
+$em:u
+1pq*
+gB>M:
+j\H\e
+O~(=.
+yb7p
+Rz3D
+E.Y%
+<;)-
+1DCE
+SqKkLn
+"pvt
+r-R 
+w,ZBC
+Z_-_tD
+*[,K
+V90n
+V,g,
+SAb*o
+ TyE
+QQTy
++s<y
+E6`zp.
+4'	A
+g0mI
+yl1j
+)s/w
+6q6.q
+|1-O6M
+q`msa
+<6XsLSn
+"(Lc
+4o"4
+@:=zN
+<}?z
+X^\6
+Yd7z
+%Wo-
+Rh5.
+eit5
+L%q<d
+e`QP
+<;<<
+UD.Z
+IEND
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity
+        version="1.0.0.0"
+        processorArchitecture="*"
+        name="VideoLAN.VLC"
+        type="win32"
+    />
+    <description>see http://www.videolan.org/</description>
+     <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+        <security>
+            <requestedPrivileges>
+                <requestedExecutionLevel level="asInvoker" />
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+    <dependency>
+        <dependentAssembly>
+            <assemblyIdentity
+                type="win32"
+                name="Microsoft.Windows.Common-Controls"
+                version="6.0.0.0"
+                processorArchitecture="*"
+                publicKeyToken="6595b64144ccf1df"
+                language="*"
+            />
+        </dependentAssembly>
+    </dependency>
+    <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+        <application>
+            <!--The ID below indicates app support for Windows Vista -->
+            <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+        </application>
+    </compatibility>
+</assembly>
+vlc-cache-gen.exe.dbg
+.gnu_debuglink
+Z0X03
+>0!0	
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+ 9(X`
+yS\1
+c0a0
+rszd
+&5m_
+fuSC
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+y(:~
+T3Pt
+p1f3q>
+~t96
+m0k0$
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+z0x0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+H0F08
+0*0(
+https://www.digicert.com/CPS0
+,|%)v
+hlD2
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+140902000000Z
+170906120000Z0C1
+Paris1
+VideoLAN1
+VideoLAN0
+"G>I
++bE"
+0I!z;v
+p0n05
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+E0C07
+0*0(
+https://www.digicert.com/CPS0
+x0v0$
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+9c2g
+(v^l
+0'kh
+o	Gj
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+170524112812Z0
+1200
+VLC media player
+http://www.videolan.org/0
+8F/*
+vpz;R
+tlqA
+|k`lp
+Nq =
+%n|F
+	u,tf4n
+g:iA
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+170524112812Z0#
+=$'/2
+i$L.v_z
+j0h03
+>010
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+ 9(X`
+yS\1
+c0a0
+rszd
+&5m_
+fuSC
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+y(:~
+T3Pt
+p1f3q>
+~t96
+m0k0$
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+z0x0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+H0F08
+0*0(
+https://www.digicert.com/CPS0
+,|%)v
+hlD2
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+140902000000Z
+170906120000Z0C1
+Paris1
+VideoLAN1
+VideoLAN0
+"G>I
++bE"
+0I!z;v
+p0n05
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0L
+E0C07
+0*0(
+https://www.digicert.com/CPS0
+x0v0$
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+9c2g
+(v^l
+0'kh
+o	Gj
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+170524112812Z0
+1200
+VLC media player
+http://www.videolan.org/0
+wbD0RHv
+)oRn'
+\41z
+q:&BK
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+170524112813Z0#
+K,X/
+Fh2i
+NBsl

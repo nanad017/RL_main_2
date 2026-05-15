@@ -1,0 +1,479 @@
+!This program cannot be run in DOS mode.
+Rich
+-]hY
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+D$4P
+L$,Q
+h0T@
+hHT@
+h`T@
+9\$Du.8
+h U@
+h8U@
+hdU@
+L$Dj
+`h,V@
+YhTV@
+Rh|V@
+/hhW@
+h@X@
+9|$@
+h$Y@
+hXY@
+h0Z@
+hTV@
+hH[@
+9|$@
+9\$DuBh`[@
+hx[@
+9|$@u\
+D$\Ph
+L$HQh
+h \@
+u h4\@
+^[]_
+SVWh
+D$@u
+hP@@
+hp^@
+9\$@
+t#h0u
+hX^@
+t#h0u
+D$DP
+hH^@
+h<^@
+L$DQ
+h,^@
+D$`P
+tvh,^@
+_^[3
+h	:@
+Y_^[
+Y_^[
+SVQW
+PhH\@
+D$ QRh
+D$Ij
+T$\R
+D$ P
+L$$Q
+T$hR
+t6Vj
+h(_@
+h(_@
+D$ Pj
+h(_@
+L$$Q
+TD"3
+T$$f
+hp^@
+hL_@
+hp^@
+hL_@
+hX^@
+hL_@
+hX^@
+hL_@
+&hH^@
+T$LR
+h<^@
+D$LP
+L$DR
+D$(^th
+D$<h0u
+h @@
+ SVW
+D$0d
+t0Pj h
+j hPw@
+T$@RP
+h @@
+L$0d
+Y_^[
+5PP@
+hH\@
+h(_@
+[hX_@
+Vhp_@
+_^][Y
+_^][
+_^][
+ SUV
+_^][
+_^][
+_^][
+_^][
+ SUVW
+_^][
+_^][
+_^][Y
+hP\@
+hP\@
+h @@
+5`Q@
+5lQ@
+t%Vh
+%|Q@
+5(t@
+h(R@
+ wOf;
+YQPSh
+=0p@
+h5>@
+=,p@
+h	:@
+Y__^[
+hv5@
+hTR@
+=Pq@
+%tQ@
+%pQ@
+%hQ@
+8csm
+h b@
+8csm
+%\Q@
+%LQ@
+_^[]
+h@b@
+h	:@
+Y_^[
+Y_^[
+%4Q@
+%0Q@
+VVVVV
+5 p@
+%8Q@
+%<Q@
+hu@@
+-]hY
+bad allocation
+GetNativeSystemInfo
+GetProductInfo
+%d.%d.%d.%d
+RSDS
+y\(D
+d:\ZoomCode\B_35_96633\bin\Release\CptInstall.pdb
+GetFileVersionInfoW
+VerQueryValueW
+GetFileVersionInfoSizeW
+VERSION.dll
+GetCurrentProcess
+WaitForSingleObject
+GetModuleHandleW
+OpenProcess
+WideCharToMultiByte
+GetVersionExW
+LeaveCriticalSection
+TerminateProcess
+lstrlenW
+GetLastError
+GetProcAddress
+EnterCriticalSection
+Process32FirstW
+ProcessIdToSessionId
+GetSystemInfo
+Process32NextW
+CreateToolhelp32Snapshot
+CloseHandle
+GetCommandLineW
+GetExitCodeProcess
+GetModuleFileNameW
+MapViewOfFile
+UnmapViewOfFile
+FlushViewOfFile
+OpenFileMappingW
+CopyFileW
+GetModuleHandleExW
+InitializeCriticalSectionAndSpinCount
+QueryPerformanceFrequency
+DeleteCriticalSection
+GetPrivateProfileIntW
+Sleep
+GetCurrentProcessId
+KERNEL32.dll
+GetSystemMetrics
+USER32.dll
+DeleteDC
+GDI32.dll
+OpenProcessToken
+GetTokenInformation
+CreateServiceW
+CloseServiceHandle
+DeleteService
+OpenSCManagerW
+OpenServiceW
+ChangeServiceConfig2W
+StartServiceW
+QueryServiceStatus
+ControlService
+ADVAPI32.dll
+CommandLineToArgvW
+SHCreateDirectoryExW
+SHFileOperationW
+ShellExecuteExW
+SHGetFolderPathW
+SHELL32.dll
+??$?8_WU?$char_traits@_W@std@@V?$allocator@_W@1@@std@@YA_NPB_WABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@0@@Z
+??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@XZ
+??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@PB_W@Z
+MSVCP90.dll
+PathRemoveFileSpecW
+PathAppendW
+PathFileExistsW
+PathFindFileNameW
+SHLWAPI.dll
+GdiplusShutdown
+gdiplus.dll
+GetProcessImageFileNameA
+PSAPI.DLL
+??3@YAXPAX@Z
+swprintf_s
+_wcsicmp
+sprintf_s
+vswprintf_s
+wcscat_s
+_waccess_s
+wcscpy_s
+_wtoi
+_stricmp
+??_V@YAXPAX@Z
+??2@YAPAXI@Z
+wcsstr
+MSVCR90.dll
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_amsg_exit
+__wgetmainargs
+_cexit
+_exit
+_XcptFilter
+exit
+_wcmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler4_common
+_crt_debugger_hook
+?terminate@@YAXXZ
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+_invoke_watson
+_controlfp_s
+InitializeCriticalSection
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+memset
+memcpy
+_CxxThrowException
+__CxxFrameHandler3
+.?AVtype_info@@
+.?AVCAtlException@ATL@@
+.?AVcpt_service_proxy@@
+.?AVcpt_service_helper@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+0*0C0W0e0
+1#1)171F1f1m1w1
+2 2+2D2K2U2`2i2
+3$3K3T3i3w3
+4!4,4:4A4K4e4o4
+4"5,5=5L5\5n5
+6 6$6(6o6
+7"7k7
+8/8m8
+9!9+9/959:9D9Q9[9z9
+:.:3:Y:s:
+:+;;;B;m;
+;:<M<d<s<
+=I=S=u=
+>)>K>V>r>|>
+?-?]?l?
+272\2j2o2
+5L5Y5^5c5o5t5y5
+6/6|6
+6"787=7B7G7L7Q7V7[7`7e7k7p7|7
+8%8*808<8B8P8W8d8x8
+9S9j9o9
+:>:R:]:b:o:
+;a;q;};
+=(=4=;=K=a=g={=
+>E>X>j>|>
+>	?2?d?j?}?
+*020Y0f0
+1$10171G1M1W1^1m1
+1	272
+4>5V5f5l5r5x5
+7'7B7L7_7i7n7s7
+7,868<8E8y8
+8%9+939:9?9E9K9S9Y9`9g9w9
+: :::@:F:L:R:X:_:f:m:t:{:
+;';.;6;<;B;I;
+;J<P<Z<b<g<
+<H=M=_=}=
+>A>d>q>}>
+?>?D?
+0!00080>0D0Q0W0[0f0l0v0
+2 2$2L2P2T2X2
+3 3$3(3,303d3h3l3p3t3x3|3
+0L0P0
+101@1D1T1X1`1x1
+282T2X2`2|2
+04080<0@0D0H0L0l0
+N0L0
+ fey
+ZD'O
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
+160308000000Z
+190122120000Z0
+Private Organization1
+Delaware1
+49699671
+	6th Floor1
+55 Almaden Blvd1
+951131
+California1
+San Jose1(0&
+Zoom Video Communications, Inc.1(0&
+Zoom Video Communications, Inc.0
+j~%.5
+@S?C
+^Gi#f~
+.Hzh
+z^5E
+o{D?
+US-DELAWARE-49699670
+t0r07
+1http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl07
+1http://crl4.digicert.com/EVCodeSigningSHA2-g1.crl0K
+D0B07
+0*0(
+https://www.digicert.com/CPS0
+r0p0$
+http://ocsp.digicert.com0H
+<http://cacerts.digicert.com/DigiCertEVCodeSigningCA-SHA2.crt0
+1h}@
+Vc>^
+b7Cg2r
+Y`Q`:.jr
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+120418120000Z
+270418120000Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
++.+1Xf
+=:	%
+s0q0$
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0
+.http://www.digicert.com/ssl-cps-repository.htm0
+:fk{
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)
+^i0%>t
+1D0B
+g:M9
+]H Ks
+cE1(
+20170714062713Z
+(ONA0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+170104000000Z
+280118000000Z0L1
+DigiCert1*0(
+!DigiCert SHA2 Timestamp Responder0
+j4;s
+h&F_=
+[$7Z
+ElBB
++?,"
+;;?G
+(hrN
+https://www.digicert.com/CPS0
+!(}T
+j0h02
+,http://crl3.digicert.com/sha2-assured-ts.crl02
+,http://crl4.digicert.com/sha2-assured-ts.crl0
+y0w0$
+http://ocsp.digicert.com0O
+Chttp://cacerts.digicert.com/DigiCertSHA2AssuredIDTimestampingCA.crt0
+`]-%]
+VjG?
+xZ:i
+oh56z
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+160107120000Z
+310107120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA0
+9T(W
+}Mh~
+M$#0]
+fnVa')
+m0k0$
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+z0x0:
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0P
+I0G08
+0*0(
+https://www.digicert.com/CPS0
+8aMbF$
+|BB(
+V3"/"6
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Timestamping CA
+(ONA0
+170714062713Z0/
+}D" 
+bF(S
+Hg%g	
+(&[}g
