@@ -13,13 +13,9 @@ LIBFFI_PREFIX="${LIBFFI_PREFIX:-$HOME/.local/opt/libffi-$LIBFFI_VER}"
 BZIP2_VER="${BZIP2_VER:-1.0.8}"
 BZIP2_PREFIX="${BZIP2_PREFIX:-$HOME/.local/opt/bzip2-$BZIP2_VER}"
 
-UPX_VER="${UPX_VER:-5.0.2}"
-UPX_URL="${UPX_URL:-https://github.com/upx/upx/releases/download/v${UPX_VER}/upx-${UPX_VER}-amd64_linux.tar.xz}"
-
 EMBER_MODEL_URL="${EMBER_MODEL_URL:-https://raw.githubusercontent.com/Azure/2020-machine-learning-security-evasion-competition/master/defender/defender/models/ember_model.txt.gz}"
 EMBER_MODEL_PATH="malware_rl/envs/utils/ember_model.txt"
 LGB_EMBER_MODEL_PATH="malware_rl/envs/utils/lgb_ember_model.txt"
-UPX_TARGET_PATH="malware_rl/envs/controls/upx"
 
 need_cmd() {
   if ! command -v "$1" >/dev/null 2>&1; then
@@ -122,34 +118,11 @@ download_ember_model() {
   fi
 }
 
-download_upx() {
-  if [[ -x "$UPX_TARGET_PATH" ]]; then
-    return 0
-  fi
-
-  echo "Downloading UPX to $UPX_TARGET_PATH"
-  curl -L "$UPX_URL" -o /tmp/upx.tar.xz
-  rm -rf /tmp/upx-extract
-  mkdir -p /tmp/upx-extract
-  tar -xf /tmp/upx.tar.xz -C /tmp/upx-extract
-  local upx_bin
-  upx_bin="$(find /tmp/upx-extract -type f -name upx -perm -u+x 2>/dev/null | head -n 1)"
-  if [[ -z "$upx_bin" ]]; then
-    echo "Could not find extracted upx binary" >&2
-    exit 1
-  fi
-  mkdir -p "$(dirname "$UPX_TARGET_PATH")"
-  cp "$upx_bin" "$UPX_TARGET_PATH"
-  chmod +x "$UPX_TARGET_PATH"
-}
-
-download_benign_strings() {
-  if [[ -f "malware_rl/envs/controls/trusted/xournalpp-1.0.18-windows.exe" ]] && [[ -f "malware_rl/envs/controls/good_strings/xournal-strings.txt" ]]; then
-    return 0
-  fi
-
-  echo "Downloading benign trusted file + strings output (no malware samples)"
-  "$VENV_DIR/bin/python" download_deps.py --strings
+ensure_optional_structure() {
+  mkdir -p \
+    "malware_rl/envs/controls/trusted" \
+    "malware_rl/envs/controls/good_strings" \
+    "malware_rl/envs/utils/samples"
 }
 
 build_libffi
@@ -158,8 +131,7 @@ install_pyenv_python
 create_venv
 install_python_deps
 download_ember_model
-download_upx
-download_benign_strings
+ensure_optional_structure
 
 echo "Done."
 echo "Activate with: source $VENV_DIR/bin/activate"
