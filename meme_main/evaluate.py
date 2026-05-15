@@ -1,0 +1,84 @@
+import os
+import random
+import sys
+
+import gym
+import numpy as np
+from gym import wrappers
+from stable_baselines3 import PPO
+import argparse
+
+import malware_rl
+
+TARGET_ALIASES = {
+    "sorel-ffnn": "sorelFFNN",
+    "sorel_ffnn": "sorelFFNN",
+    "sorelffnn": "sorelFFNN",
+}
+
+
+def normalize_target(target):
+    return TARGET_ALIASES.get(target.lower(), target)
+
+
+def evaluate_model(agent_path, env_name, num_episodes, outdir, seed=0):
+    """
+    Evaluates a trained model on a given environment.
+    """
+    # Setting up testing parameters and holding variables
+    # episode_count = 200
+    done = False
+    reward = 0
+    evasions = 0
+    evasion_history = {}
+
+    print("[*] Evaluation phase begins")
+    agent = PPO.load(agent_path)
+
+    eval_env = gym.make(env_name)
+    eval_env = wrappers.Monitor(eval_env, directory=outdir, force=True)
+    eval_env.seed(seed)
+
+    # Test the agent in the eval environment
+    for i in range(num_episodes):
+        ob = eval_env.reset()
+        sha256 = eval_env.sha256
+        while True:
+            action, _ = agent.predict(ob, reward, done)
+            ob, reward, done, ep_history = eval_env.step(action)
+            if done and reward >= 10.0:
+                evasions += 1
+                evasion_history[sha256] = ep_history
+                break
+            elif done:
+                break
+    
+    # Output metrics/evaluation stuff
+    # Removed the skipped binaries
+    print("History:", evasion_history)
+    print("True episode count:", i+1)
+    print("Skipped binaries: ", eval_env.skipped)
+    total_episodes = num_episodes - eval_env.skipped
+    # Output metrics/evaluation stuff
+    evasion_rate = (evasions / total_episodes) * 100
+    mean_action_count = np.mean(eval_env.get_episode_lengths())
+    print(f"{evasion_rate}% samples evaded model.")
+    print(f"Average of {mean_action_count} moves to evade model.")
+        
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--target", type=normalize_target, choices=["ember", "sorel", "sorelFFNN", "AV1", "custom"], default="sorelFFNN")
+    parser.add_argument("--seed", type=int, default=0)
+    parser.add_argument("--agent", type=str, default="saved_models/ppo-only-sorelFFNN-train-v0-26871.zip")
+    
+    args = parser.parse_args()
+    target = args.target
+    seed = args.seed
+    agent = args.agent
+    random.seed(seed)
+    module_path = os.path.split(os.path.abspath(sys.modules[__name__].__file__))[0]
+    outdir = os.path.join(module_path, "data/logs/ppo-agent-results")
+
+    test_env = f"{target}-test-v0"
+    evaluate_model(agent, test_env, 300, outdir, seed)

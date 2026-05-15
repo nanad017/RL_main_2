@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Never read PDF files directly. Ask the author for a Markdown version instead.",
+      "Bash(python *)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:obfuscation.sourceforge.io)",
+      "WebFetch(domain:lief.re)",
+      "WebFetch(domain:obfuscation.sourceforge.net)",
+      "Bash(Get-ChildItem -Path \"D:\\\\model\\\\capemon\" -Directory)",
+      "Bash(Select-Object -First 20)",
+      "Bash(where gcc *)",
+      "Bash(where x86_64-w64-mingw32-gcc)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git *)",
+      "Read(//d/model/.git/**)",
+      "Read(//d/model/.git/refs/heads/**)"
+    ]
+  }
+}
