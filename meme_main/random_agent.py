@@ -1,0 +1,89 @@
+import os
+import random
+import sys
+
+import gym
+import numpy as np
+from gym import wrappers
+import argparse
+
+import malware_rl
+
+module_path = os.path.split(os.path.abspath(sys.modules[__name__].__file__))[0]
+
+TARGET_ALIASES = {
+    "sorel-ffnn": "sorelFFNN",
+    "sorel_ffnn": "sorelFFNN",
+    "sorelffnn": "sorelFFNN",
+}
+
+
+def normalize_target(target):
+    return TARGET_ALIASES.get(target.lower(), target)
+
+
+class RandomAgent:
+    """The world's simplest agent!"""
+
+    def __init__(self, action_space):
+        self.action_space = action_space
+
+    def act(self, observation, reward, done):
+        return self.action_space.sample()
+
+
+# gym setup
+parser = argparse.ArgumentParser()
+parser.add_argument('--target', type=normalize_target, choices=['ember', 'sorel', 'sorelFFNN', 'AV1', 'custom'], default='sorelFFNN', help='target detector to use')
+parser.add_argument('--seed', type=int, default=26731, help='random seed')
+parser.add_argument('--num-episodes', type=int, default=300, help='number of episodes to run')
+parser.add_argument('--num-queries', type=int, default=4096, help='number of queries to run')
+args = parser.parse_args()
+
+target = args.target
+seed = args.seed
+num_episodes = args.num_episodes
+num_queries = args.num_queries
+
+random.seed(seed)
+np.random.seed(seed)
+outdir = os.path.join(module_path, "data/logs/random-agent-results")
+env = gym.make(f"{target}-test-v0")
+env = wrappers.Monitor(env, directory=outdir, force=True)
+env.seed(seed)
+
+done = False
+reward = 0
+
+# metric tracking
+evasions = 0
+evasion_history = {}
+
+agent = RandomAgent(env.action_space)
+
+for i in range(num_episodes):
+    ob = env.reset()
+    sha256 = env.env.sha256
+    while True:
+        action = agent.act(ob, reward, done)
+        ob, reward, done, ep_history = env.step(action)
+        if done and reward >= 10.0:
+            # print(action)
+            evasions += 1
+            evasion_history[sha256] = ep_history
+            break
+        elif done:
+            break
+    if env.queries >= num_queries:
+            break
+
+total_episodes = (i+1) - env.skipped
+evasion_rate = (evasions / total_episodes) * 100
+mean_action_count = np.mean(env.get_episode_lengths())
+
+print("History:", evasion_history)
+print("Skipped episodes:", env.skipped)
+print("True number of episodes:", i+1)
+print(f"{evasion_rate}% samples evaded model.")
+print(f"Average of {mean_action_count} moves to evade model.")
+print(f"Total steps in the envirnoment: {env.get_total_steps()}")
