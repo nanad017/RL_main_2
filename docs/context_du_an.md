@@ -39,7 +39,9 @@ meme_main/
 ├── malware_rl/envs/
 │   ├── controls/
 │   │   ├── modifier.py          ← 18 actions (15 gốc + 3 API mới)
-│   │   ├── api_groups.py        ← data: 12 nhóm API benign + 4 nhóm suspicious
+│   │   ├── api_groups.py        ← data: 12 nhóm API benign + 10 nhóm suspicious (từ capemon)
+│   │   ├── stub.c               ← source code stub.dll (72 exports)
+│   │   ├── stub.dll             ← compiled 64-bit, ~100KB
 │   │   ├── small_dll_imports.json
 │   │   ├── section_names.txt
 │   │   ├── trusted/             ← file benign dùng cho overlay/section actions
@@ -91,8 +93,8 @@ meme_main/
 | # | Action | Cơ chế | Cần tool? | Đổi code bytes? |
 |---|--------|--------|-----------|-----------------|
 | 16 | `add_api_group` | Random 1/12 nhóm benign → LIEF thêm 2-5 API vào import table | Không | Không |
-| 17 | `iat_hook_suspicious` | Random 1/4 nhóm suspicious → LIEF xóa DLL chứa API đó khỏi import table | Không | Không |
-| 18 | `iat_patch_api` | Random 1/4 nhóm suspicious → IAT_Patcher CLI hook API → stub.dll | Cần CLI + stub.dll | **Có** |
+| 17 | `iat_hook_suspicious` | Random 1/10 nhóm suspicious → LIEF xóa DLL chứa API đó khỏi import table | Không | Không |
+| 18 | `iat_patch_api` | Random 1/10 nhóm suspicious → IAT_Patcher CLI hook API → stub.dll | Cần CLI + stub.dll | **Có** |
 
 ### Sự Khác Biệt Giữa 3 Actions API
 
@@ -102,19 +104,44 @@ iat_hook_suspicious   → XÓA DLL suspicious khỏi import table (binary broken
 iat_patch_api         → THAY TÊN API suspicious → stub.dll (binary vẫn chạy, code bytes thay đổi)
 ```
 
+### 10 Categories trong IAT_HOOK_TARGETS (api_groups.py)
+
+Được thiết kế dựa trên **capemon** — monitor DLL của sandbox CAPEv2, hook 530+ Windows API.  
+Nguồn: `D:\model\capemon` (đã clone local).
+
+| Category | APIs | Nguồn capemon | Ảnh hưởng payload chính |
+|---|---|---|---|
+| `mask_injection` | 11 | hook_process.c, hook_thread.c | Có (injection core) |
+| `mask_network` | 12 | hook_network.c | Có (C2 core) |
+| `mask_suspicious_kernel` | 10 | hook_process.c | Có (kernel injection) |
+| `normalize_crypto` | 8 | hook_crypto.c | Có (ransomware core) |
+| `mask_evasion` | 4 | hook_misc.c | **Không** — anti-debug check |
+| `mask_persistence` | 6 | hook_services.c | **Không** — chỉ mất persistence |
+| `mask_timing` | 5 | hook_sleep.c | **Không** — chỉ mất timing evasion |
+| `mask_fingerprint` | 6 | hook_misc.c | **Không** — chỉ mất VM detection |
+| `mask_window_enum` | 5 | hook_window.c | **Không** — chỉ mất sandbox detection |
+| `mask_nt_registry` | 5 | hook_reg_native.c | **Không** — chỉ mất registry persistence |
+
+> Đã loại bỏ `mask_process_hollow` và `mask_hooking` vì chúng là cơ chế tấn công chính (NtSetContextThread = hollowing, SetWindowsHookEx = keylogger) — giữ tính functional cho malware.
+
 ## Action 18: Yêu Cầu Setup
 
-Cần 2 thứ do user tự build:
+Cần 2 thứ:
 
 1. **IAT_Patcher_CLI.exe** — build từ source `D:\model\GAMErl\IAT\IAT_patcher\`
-2. **stub.dll** — compile từ stub.c (source code trong `docs/huong_dan_action_18_iat_patch.md`)
+2. **stub.dll** — **đã có sẵn** tại `malware_rl/envs/controls/stub.dll` (64-bit, ~100KB, 72 exports)
 
 Set env var trên máy Linux training:
 ```bash
 export IAT_PATCHER_CLI=/path/to/IAT_Patcher_CLI.exe
 ```
 
-Nếu chưa build → action 18 tự động no-op, training vẫn chạy với 17 actions còn lại.
+Nếu cần build lại stub.dll trên Linux:
+```bash
+x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a
+```
+
+Nếu chưa có IAT_Patcher_CLI → action 18 tự động no-op, training vẫn chạy với 17 actions còn lại.
 
 ## Gym Environments
 
@@ -130,7 +157,9 @@ self.action_space = spaces.Discrete(len(ACTION_LOOKUP))
 | File | Dùng bởi |
 |------|----------|
 | `small_dll_imports.json` | action 9 (`add_imports`) — 16 DLLs, hàng trăm functions |
-| `api_groups.py` | action 16-18 — 12 nhóm API benign + 4 nhóm suspicious |
+| `api_groups.py` | action 16-18 — 12 nhóm API benign + 10 nhóm suspicious + 72 stub names |
+| `stub.c` | source build stub.dll |
+| `stub.dll` | action 18 — 64-bit, 72 exports benign-sounding |
 | `section_names.txt` | action 6, 7, 8 — tên section phổ biến |
 | `trusted/` | action 2, 3, 7 — file benign |
 | `good_strings/` | action 4, 6 — strings benign |
@@ -149,5 +178,8 @@ docs/
 ├── huong_dan_thiet_ke_action_space.md   ← thiết kế tổng quan action-space
 ├── danh_sach_thay_doi.md                ← những gì đã thêm/sửa
 ├── mo_ta_15_actions_goc.md              ← mô tả 15 actions gốc chi tiết
-└── huong_dan_action_18_iat_patch.md     ← hướng dẫn build stub.dll + CLI
+├── huong_dan_action_18_iat_patch.md     ← hướng dẫn build stub.dll + CLI
+├── bao_cao_action_16_17_18.md           ← báo cáo kỹ thuật đầy đủ 3 actions API mới
+├── build_stub_dll.md                    ← hướng dẫn build stub.dll + lý do thiết kế
+└── CAPEMON_HOOK_CONTEXT.md              ← kết quả nghiên cứu capemon (nguồn API targets)
 ```
