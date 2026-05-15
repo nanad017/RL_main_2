@@ -22,16 +22,23 @@ Khác với action 17 (`iat_hook_suspicious`):
 
 ---
 
-## Bạn Cần Chuẩn Bị 2 Thứ
+## Bạn Cần Chuẩn Bị
+
+| Thứ | Trạng thái | Ghi chú |
+|---|---|---|
+| `stub.dll` | **Đã có sẵn** tại `malware_rl/envs/controls/stub.dll` | 64-bit, ~100KB, 72 exports |
+| `stub.c` | **Đã có sẵn** tại `malware_rl/envs/controls/stub.c` | Source để build lại nếu cần |
+| `IAT_Patcher_CLI.exe` | **Chưa có** — cần build | Build từ `D:\model\GAMErl\IAT\IAT_patcher\` |
 
 ---
 
 ## Thứ 1: IAT_Patcher_CLI.exe
 
 ### Nguồn
-Source code đã có tại: `D:\model\GAMErl\IAT\IAT_patcher\`
 
-### Build trên Windows (Qt)
+Source code tại: `D:\model\GAMErl\IAT\IAT_patcher\`
+
+### Build trên Windows (Qt Creator)
 
 ```bash
 # Mở Qt Creator
@@ -72,96 +79,80 @@ export IAT_PATCHER_CLI="wine /path/to/tools/IAT_Patcher_CLI.exe"
 
 ### stub.dll là gì
 
-Một DLL Windows export các hàm wrapper. Mỗi hàm chỉ là vỏ bọc — IAT_Patcher sẽ tự inject code forward call vào trong đó khi patch.
+Một DLL Windows export 72 hàm no-op có tên benign-sounding. IAT_Patcher dùng chúng làm tên thay thế khi patch suspicious API.
 
-### Tên hàm cần export
+**File đã có sẵn** tại `malware_rl/envs/controls/stub.dll` (64-bit, ~100KB).
 
-Phải khớp với `STUB_REPLACEMENT_POOL` trong `api_groups.py`:
+### 72 tên export (STUB_REPLACEMENT_POOL trong api_groups.py)
 
 ```
-GetSystemParameters    QuerySystemInfo       GetPlatformInfo
-AllocateMemoryBlock    ReleaseMemoryBlock    CreateSharedRegion
-InitializeContext      FinalizeContext       OpenContext
-ReadDataBuffer         WriteDataBuffer       FlushDataBuffer
-NetworkInitialize      NetworkFinalize       NetworkSendData
-CryptoInitProvider     CryptoHashBuffer      CryptoFinalizeHash
-ThreadInitialize       ThreadFinalize        ThreadExecute
-HandleAllocate         HandleRelease         HandleQuery
-RegistryReadValue      RegistryWriteValue    RegistryDeleteKey
+GetSystemParameters    QuerySystemInfo        GetPlatformInfo
+AllocateMemoryBlock    ReleaseMemoryBlock     CreateSharedRegion
+InitAppContext         FinalizeContext        OpenContext
+ReadDataBuffer         WriteDataBuffer        FlushDataBuffer
+NetworkInitialize      NetworkFinalize        NetworkSendData
+CryptoInitProvider     CryptoHashBuffer       CryptoFinalizeHash
+ThreadInitialize       ThreadFinalize         ThreadExecute
+HandleAllocate         HandleRelease          HandleQuery
+RegistryReadValue      RegistryWriteValue     RegistryDeleteKey
+ValidateInputBuffer    ProcessEventQueue      SyncConfigData
+UpdateDisplayState     RefreshCacheEntry      CompactMemoryPool
+EnumerateResources     ParseProtocolData      SerializePayload
+NotifyStateChange      DispatchCallback       GetModuleConfig
+SetApplicationMode     QueryDeviceStatus      ReleaseSharedLock
+CheckModuleVersion     LoadConfigSection      InitPlatformRuntime
+QueryHardwareProfile   GetDisplaySettings     UpdateRenderState
+SaveApplicationData    LoadApplicationData    PurgeCacheFile
+OpenDeviceStream       CloseDeviceStream      ReadDeviceState
+WaitForResourceAvailable  AcquireTokenLock    ReleaseTokenLock
+BeginWorkTransaction   EndWorkTransaction     RollbackWorkUnit
+EnumerateNetworkPeers  ResolveHostEndpoint    CloseNetworkSession
+EncodeDataBlock        DecodeDataBlock        VerifyBlockChecksum
+SuspendWorkerThread    ResumeWorkerThread     TerminateWorkerThread
+RegisterEventCallback  UnregisterEventCallback  PollEventSource
 ```
 
-Tổng: 27 tên hàm.
+> **Lưu ý**: tên `InitAppContext` (không phải `InitializeContext`) — `InitializeContext` là Windows API thật trong `winbase.h`, gây conflict khi compile.
 
-### Source code stub.c
+### Build lại stub.dll (nếu cần)
 
-```c
-#include <windows.h>
-
-BOOL WINAPI DllMain(HINSTANCE h, DWORD reason, LPVOID p) {
-    return TRUE;
-}
-
-// Mỗi hàm return 0/NULL — IAT_Patcher tự inject forward code khi patch
-__declspec(dllexport) LPVOID GetSystemParameters(void)  { return NULL; }
-__declspec(dllexport) LPVOID QuerySystemInfo(void)       { return NULL; }
-__declspec(dllexport) LPVOID GetPlatformInfo(void)       { return NULL; }
-__declspec(dllexport) LPVOID AllocateMemoryBlock(void)   { return NULL; }
-__declspec(dllexport) BOOL   ReleaseMemoryBlock(void)    { return TRUE; }
-__declspec(dllexport) HANDLE CreateSharedRegion(void)    { return NULL; }
-__declspec(dllexport) LPVOID InitializeContext(void)     { return NULL; }
-__declspec(dllexport) void   FinalizeContext(void)       { }
-__declspec(dllexport) HANDLE OpenContext(void)           { return NULL; }
-__declspec(dllexport) BOOL   ReadDataBuffer(void)        { return FALSE; }
-__declspec(dllexport) BOOL   WriteDataBuffer(void)       { return FALSE; }
-__declspec(dllexport) void   FlushDataBuffer(void)       { }
-__declspec(dllexport) int    NetworkInitialize(void)     { return 0; }
-__declspec(dllexport) void   NetworkFinalize(void)       { }
-__declspec(dllexport) int    NetworkSendData(void)       { return 0; }
-__declspec(dllexport) BOOL   CryptoInitProvider(void)   { return TRUE; }
-__declspec(dllexport) BOOL   CryptoHashBuffer(void)     { return TRUE; }
-__declspec(dllexport) BOOL   CryptoFinalizeHash(void)   { return TRUE; }
-__declspec(dllexport) HANDLE ThreadInitialize(void)     { return NULL; }
-__declspec(dllexport) void   ThreadFinalize(void)       { }
-__declspec(dllexport) DWORD  ThreadExecute(void)        { return 0; }
-__declspec(dllexport) HANDLE HandleAllocate(void)       { return NULL; }
-__declspec(dllexport) BOOL   HandleRelease(void)        { return TRUE; }
-__declspec(dllexport) DWORD  HandleQuery(void)          { return 0; }
-__declspec(dllexport) BOOL   RegistryReadValue(void)    { return FALSE; }
-__declspec(dllexport) BOOL   RegistryWriteValue(void)   { return FALSE; }
-__declspec(dllexport) BOOL   RegistryDeleteKey(void)    { return FALSE; }
-```
-
-### Compile stub.dll trên Linux (cross-compile cho Windows)
+Source tại `malware_rl/envs/controls/stub.c`.
 
 ```bash
-# Cài MinGW cross-compiler
+# Trên Linux (cross-compile cho Windows 64-bit)
+x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a
+
+# Trên Linux (cross-compile cho Windows 32-bit)
+i686-w64-mingw32-gcc -shared -o stub32.dll stub.c -Wl,--out-implib,libstub32.a
+
+# Cài compiler nếu chưa có
 apt install gcc-mingw-w64
-
-# Build 64-bit (cho malware x64)
-x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c \
-    -Wl,--out-implib,libstub.a \
-    -lkernel32
-
-# Build 32-bit (cho malware x86)
-i686-w64-mingw32-gcc -shared -o stub32.dll stub.c \
-    -Wl,--out-implib,libstub32.a \
-    -lkernel32
 ```
-
-### Compile stub.dll trên Windows (MinGW)
 
 ```bash
-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a -lkernel32
+# Trên Windows (MSYS2 ucrt64)
+C:\msys64\ucrt64\bin\gcc.exe -shared -o stub.dll stub.c '-Wl,--out-implib,libstub.a'
 ```
+
+### Verify exports
+
+```bash
+# Windows (MSYS2)
+C:\msys64\ucrt64\bin\objdump.exe -p stub.dll | grep "Export Name" -A 999
+
+# Linux
+objdump -p stub.dll | grep "Export Name" -A 999
+```
+
+Phải thấy đúng 72 tên khớp với STUB_REPLACEMENT_POOL.
 
 ### Đặt stub.dll ở đâu
 
-`stub.dll` phải nằm **cùng thư mục với file malware** khi IAT_Patcher chạy, hoặc trong PATH. Modifier.py đã dùng temp file trong cùng thư mục nên sẽ tìm được.
+`stub.dll` phải nằm **cùng thư mục với file malware** khi IAT_Patcher chạy, hoặc trong PATH.
 
-Hoặc set đường dẫn tuyệt đối trong `api_groups.py`:
+Modifier.py tạo temp file trong thư mục tạm nên cần copy stub.dll vào đó, hoặc set đường dẫn tuyệt đối trong `api_groups.py`:
 
 ```python
-# api_groups.py
 STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
 # STUB_DLL_NAME = "/path/to/stub.dll"
 ```
@@ -171,13 +162,14 @@ STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
 ## Checklist Hoàn Chỉnh
 
 ```
-□ 1. Build IAT_Patcher_CLI.exe từ D:\model\GAMErl\IAT\IAT_patcher\
-□ 2. Copy IAT_Patcher_CLI.exe sang máy Linux training
-□ 3. Viết stub.c (dùng source code ở trên)
-□ 4. Compile stub.dll (64-bit) và stub32.dll (32-bit)
-□ 5. Đặt stub.dll vào thư mục training hoặc set PATH
-□ 6. Set env var: export IAT_PATCHER_CLI=/path/to/IAT_Patcher_CLI.exe
-□ 7. Test: python -c "
+☑ stub.c        — đã có tại malware_rl/envs/controls/stub.c
+☑ stub.dll      — đã có tại malware_rl/envs/controls/stub.dll (64-bit, 72 exports)
+□ IAT_Patcher_CLI.exe — cần build từ D:\model\GAMErl\IAT\IAT_patcher\
+□ Copy IAT_Patcher_CLI.exe sang máy Linux training
+□ Set env var: export IAT_PATCHER_CLI=/path/to/IAT_Patcher_CLI.exe
+□ (Optional) Build stub32.dll 32-bit trên Linux cho malware x86
+□ Test:
+     python -c "
      from malware_rl.envs.controls.modifier import modify_sample
      with open('test.exe','rb') as f: b = f.read()
      b2 = modify_sample(b, 'iat_patch_api')
@@ -187,6 +179,6 @@ STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
 
 ---
 
-## Nếu Chưa Chuẩn Bị Được
+## Nếu Chưa Có IAT_Patcher_CLI
 
 Action 18 tự động trở thành **no-op** (trả về bytez gốc không thay đổi) khi `IAT_PATCHER_CLI` không tìm thấy. Training vẫn chạy bình thường với 17 actions còn lại.
