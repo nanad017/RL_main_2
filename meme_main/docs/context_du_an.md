@@ -38,7 +38,7 @@ Detector nhìn vào:
 meme_main/
 ├── malware_rl/envs/
 │   ├── controls/
-│   │   ├── modifier.py          ← 18 actions (15 gốc + 3 API mới)
+│   │   ├── modifier.py          ← 15 actions (13 gốc + 2 API)
 │   │   ├── api_groups.py        ← data: 12 nhóm API benign + 10 nhóm suspicious (từ capemon)
 │   │   ├── stub.c               ← source code stub.dll (72 exports)
 │   │   ├── stub.dll             ← compiled 64-bit, ~100KB
@@ -66,9 +66,9 @@ meme_main/
 └── docs/                        ← tài liệu
 ```
 
-## 18 Actions Hiện Tại
+## 15 Actions Hiện Tại
 
-### 15 Actions Gốc
+### 13 Actions Gốc
 
 | # | Nhóm | Action | Làm gì |
 |---|------|--------|--------|
@@ -85,23 +85,25 @@ meme_main/
 | 11 | Header | `modify_timestamp` | Đổi timestamp PE header |
 | 12 | Header | `break_optional_header_checksum` | Đặt checksum = 0 |
 | 13 | Header | `remove_debug` | Xóa debug directory |
-| 14 | Packing | `upx_pack` | Nén bằng UPX |
-| 15 | Packing | `upx_unpack` | Giải nén UPX |
 
-### 3 Actions API Mới
+### 2 Actions API
 
 | # | Action | Cơ chế | Cần tool? | Đổi code bytes? |
 |---|--------|--------|-----------|-----------------|
-| 16 | `add_api_group` | Random 1/12 nhóm benign → LIEF thêm 2-5 API vào import table | Không | Không |
-| 17 | `iat_hook_suspicious` | Random 1/10 nhóm suspicious → LIEF xóa DLL chứa API đó khỏi import table | Không | Không |
-| 18 | `iat_patch_api` | Random 1/10 nhóm suspicious → IAT_Patcher CLI hook API → stub.dll | Cần CLI + stub.dll | **Có** |
+| 14 | `add_api_group` | Random 1/12 nhóm benign → LIEF thêm 2-5 API vào import table | Không | Không |
+| 15 | `iat_patch_api` | Random 1/10 nhóm suspicious → IAT_Patcher hook từng API (sequential `--hook`) → stub.dll | Cần CLI + stub.dll | **Có** |
 
-### Sự Khác Biệt Giữa 3 Actions API
+### Sự Khác Biệt Giữa 2 Actions API
 
 ```
-add_api_group         → THÊM API benign vào import table (pha loãng)
-iat_hook_suspicious   → XÓA DLL suspicious khỏi import table (binary broken)
-iat_patch_api         → THAY TÊN API suspicious → stub.dll (binary vẫn chạy, code bytes thay đổi)
+add_api_group  → THÊM API benign vào import table (pha loãng, additive)
+iat_patch_api  → HOOK API suspicious → stub.dll (thay thế surgical, code bytes thay đổi)
+```
+
+**Flow của iat_patch_api:**
+```
+gọi API chính → hook qua stub.dll → quay lại luồng chính
+(mỗi API được hook riêng lẻ, output stage N → input stage N+1)
 ```
 
 ### 10 Categories trong IAT_HOOK_TARGETS (api_groups.py)
@@ -141,7 +143,7 @@ Nếu cần build lại stub.dll trên Linux:
 x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a
 ```
 
-Nếu chưa có IAT_Patcher_CLI → action 18 tự động no-op, training vẫn chạy với 17 actions còn lại.
+Nếu chưa có IAT_Patcher_CLI → action 15 tự động no-op, training vẫn chạy với 14 actions còn lại.
 
 ## Gym Environments
 
@@ -150,7 +152,7 @@ Tất cả gym files dùng pattern dynamic:
 ACTION_LOOKUP = {i: act for i, act in enumerate(modifier.ACTION_TABLE.keys())}
 self.action_space = spaces.Discrete(len(ACTION_LOOKUP))
 ```
-→ Tự nhận đủ 18 actions, **không cần sửa gym files**.
+→ Tự nhận đủ 15 actions, **không cần sửa gym files**.
 
 ## File Data
 

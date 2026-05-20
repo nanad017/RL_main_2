@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Never read PDF files directly. Ask the author for a Markdown version instead.",
+      "Bash(python *)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:obfuscation.sourceforge.io)",
+      "WebFetch(domain:lief.re)",
+      "WebFetch(domain:obfuscation.sourceforge.net)",
+      "Bash(Get-ChildItem -Path \"D:\\\\model\\\\capemon\" -Directory)",
+      "Bash(Select-Object -First 20)",
+      "Bash(where gcc *)",
+      "Bash(where x86_64-w64-mingw32-gcc)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git *)",
+      "Read(//d/model/.git/**)",
+      "Read(//d/model/.git/refs/heads/**)",
+      "Bash(powershell -Command \"\\(Get-FileHash malware_rl\\\\envs\\\\controls\\\\modifier.py\\).Hash; \\(Get-FileHash meme_main\\\\malware_rl\\\\envs\\\\controls\\\\modifier.py\\).Hash\")",
+      "Bash(powershell -Command \"Get-FileHash docs\\\\context_du_an.md,meme_main\\\\docs\\\\context_du_an.md | Select-Object Hash,Path\")",
+      "Bash(powershell -Command ' *)",
+      "Bash(cd *)",
+      "Bash(xargs grep -l \"reward\")",
+      "Bash(Get-ChildItem -Path \"D:\\\\model\\\\meme_modify\" -Recurse -Filter \"*_gym.py\" -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object -ExpandProperty FullName)"
+    ]
+  }
+}

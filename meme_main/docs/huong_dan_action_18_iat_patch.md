@@ -1,24 +1,35 @@
-# Hướng Dẫn Chuẩn Bị Action 18: `iat_patch_api`
+# Hướng Dẫn Chuẩn Bị Action 15: `iat_patch_api`
 
 ## Action Này Làm Gì
 
-Dùng `IAT_Patcher_CLI.exe` để hook API suspicious trong PE file, thay thế bằng hàm từ `stub.dll`.
+Dùng `IAT_Patcher_CLI.exe` để hook từng API suspicious trong PE file theo flow:
 
 ```
-Trước khi patch:
+gọi API chính → hook qua stub.dll → quay lại luồng chính
+```
+
+Với từng API target (ví dụ `VirtualAllocEx`):
+
+```
+Trước khi hook:
   Import table: KERNEL32.DLL → VirtualAllocEx
   Code bytes:   CALL [IAT_VirtualAllocEx]
 
-Sau khi patch:
+Sau khi hook:
   Import table: stub.dll → AllocateMemoryBlock
   Code bytes:   CALL [IAT_AllocateMemoryBlock]   ← code bytes thay đổi
 
-stub.dll.AllocateMemoryBlock() chạy bên trong → forward lại VirtualAllocEx thật
+Khi PE thực thi:
+  CALL [IAT_AllocateMemoryBlock]
+  → chạy stub.dll.AllocateMemoryBlock() (no-op)
+  → return → luồng chính tiếp tục
 ```
 
-Khác với action 17 (`iat_hook_suspicious`):
-- Action 17 chỉ dùng LIEF xóa DLL khỏi import table, **không đổi code bytes**, binary bị broken
-- Action 18 dùng IAT_Patcher patch cả import table lẫn code bytes, **binary vẫn chạy được**
+Các API được hook tuần tự (sequential `--hook`), output mỗi stage là input của stage kế:
+
+```
+stage_0.exe →[hook VirtualAllocEx]→ stage_1.exe →[hook WriteProcessMemory]→ stage_2.exe → ...
+```
 
 ---
 
@@ -73,15 +84,22 @@ apt install wine
 export IAT_PATCHER_CLI="wine /path/to/tools/IAT_Patcher_CLI.exe"
 ```
 
+modifier.py tìm CLI theo thứ tự:
+1. Env var `IAT_PATCHER_CLI`
+2. `../IAT_patch/IAT_patcher/build/patcher/IAT_Patcher_CLI` (local build)
+3. `../../../../GAMErl/IAT/IAT_patcher/build/IAT_Patcher_CLI.exe` (legacy path)
+
 ---
 
 ## Thứ 2: stub.dll
 
 ### stub.dll là gì
 
-Một DLL Windows export 72 hàm no-op có tên benign-sounding. IAT_Patcher dùng chúng làm tên thay thế khi patch suspicious API.
+Một DLL Windows export 72 hàm no-op có tên benign-sounding. IAT_Patcher dùng chúng làm tên thay thế khi hook suspicious API.
 
 **File đã có sẵn** tại `malware_rl/envs/controls/stub.dll` (64-bit, ~100KB).
+
+modifier.py tự động copy stub.dll vào thư mục tạm khi chạy action.
 
 ### 72 tên export (STUB_REPLACEMENT_POOL trong api_groups.py)
 
@@ -146,17 +164,6 @@ objdump -p stub.dll | grep "Export Name" -A 999
 
 Phải thấy đúng 72 tên khớp với STUB_REPLACEMENT_POOL.
 
-### Đặt stub.dll ở đâu
-
-`stub.dll` phải nằm **cùng thư mục với file malware** khi IAT_Patcher chạy, hoặc trong PATH.
-
-Modifier.py tạo temp file trong thư mục tạm nên cần copy stub.dll vào đó, hoặc set đường dẫn tuyệt đối trong `api_groups.py`:
-
-```python
-STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
-# STUB_DLL_NAME = "/path/to/stub.dll"
-```
-
 ---
 
 ## Checklist Hoàn Chỉnh
@@ -173,7 +180,7 @@ STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
      from malware_rl.envs.controls.modifier import modify_sample
      with open('test.exe','rb') as f: b = f.read()
      b2 = modify_sample(b, 'iat_patch_api')
-     print('OK' if len(b2) != len(b) else 'no change (no matching API)')
+     print('OK' if len(b2) != len(b) else 'no change (no matching API or CLI missing)')
      "
 ```
 
@@ -181,4 +188,4 @@ STUB_DLL_NAME = "stub.dll"  # đổi thành path tuyệt đối nếu cần
 
 ## Nếu Chưa Có IAT_Patcher_CLI
 
-Action 18 tự động trở thành **no-op** (trả về bytez gốc không thay đổi) khi `IAT_PATCHER_CLI` không tìm thấy. Training vẫn chạy bình thường với 17 actions còn lại.
+Action 15 tự động trở thành **no-op** (trả về bytez gốc không thay đổi) khi `IAT_PATCHER_CLI` không tìm thấy. Training vẫn chạy bình thường với 14 actions còn lại.

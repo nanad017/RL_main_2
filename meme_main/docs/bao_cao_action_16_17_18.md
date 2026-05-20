@@ -1,8 +1,8 @@
-# Báo Cáo Kỹ Thuật: Action 16, 17, 18 — Import Table Perturbation
+# Báo Cáo Kỹ Thuật: Action 14 & 15 — Import Table Perturbation
 
 **Dự án:** MEME-RL — Problem-space RL adversarial evasion  
-**Phạm vi:** 3 actions mới thêm vào action space (action 16–18)  
-**Ngày hoàn thành:** 2026-05-16
+**Phạm vi:** 2 actions API-related thêm vào action space (action 14–15)  
+**Cập nhật lần cuối:** 2026-05-16
 
 ---
 
@@ -15,11 +15,11 @@ MEME-RL sử dụng Reinforcement Learning để biến đổi PE malware nhằm
 - Header fields, timestamp, checksum
 - Byte n-gram, string features
 
-15 actions gốc tập trung vào overlay, section, header, và packing. **Import table** là một trong những signal mạnh nhất với static detector nhưng chưa được khai thác đúng mức — đây là lý do thêm 3 actions mới.
+13 actions gốc tập trung vào overlay, section, header. **Import table** là một trong những signal mạnh nhất với static detector nhưng chưa được khai thác đúng mức — đây là lý do thêm 2 actions mới.
 
 ---
 
-## 2. Action 16: `add_api_group`
+## 2. Action 14: `add_api_group`
 
 ### Cơ chế
 
@@ -60,39 +60,26 @@ Kỹ thuật **import dilution** — pha loãng tín hiệu malicious bằng cá
 
 ---
 
-## 3. Action 17: `iat_hook_suspicious`
+## 3. Action 15: `iat_patch_api` (IAT Hook)
 
 ### Cơ chế
 
-Xóa toàn bộ DLL chứa API suspicious khỏi import table bằng LIEF. Không cần tool ngoài.
+Dùng `IAT_Patcher_CLI.exe` để hook từng API suspicious theo flow:
 
 ```
-Trước:  Import table: ntdll.dll     → [NtAllocateVirtualMemory, NtCreateSection, ...]
-                      kernel32.dll  → [VirtualAllocEx, WriteProcessMemory, ...]
-Sau:    Import table: (ntdll.dll bị xóa)
-                      (kernel32.dll bị xóa nếu cùng category)
+gọi API chính → hook qua stub.dll → quay lại luồng chính
 ```
 
-### Mục đích
+Cụ thể với từng API target:
+1. Xác định API suspicious tồn tại trong import table (parse PE bằng LIEF)
+2. Hook từng API riêng lẻ qua `--hook`: đổi IAT entry từ `kernel32.dll!VirtualAllocEx` → `stub.dll!AllocateMemoryBlock`
+3. Output của hook N trở thành input của hook N+1 (chained stages)
 
-**Hard removal** — xóa hoàn toàn các DLL chứa API nguy hiểm. Static detector không còn thấy import pattern đặc trưng của malware.
-
-**Đánh đổi**: Binary bị broken (không thể chạy) nhưng đây là hành vi có chủ ý — mục tiêu là static evasion, không phải functional evasion.
-
-### Tại sao không xóa từng API?
-
-LIEF không hỗ trợ xóa từng entry trong import table một cách ổn định — chỉ `remove_library()` là reliable. Action 18 giải quyết vấn đề này bằng IAT patching.
-
----
-
-## 4. Action 18: `iat_patch_api`
-
-### Cơ chế
-
-Dùng `IAT_Patcher_CLI.exe` để:
-1. Tìm API suspicious trong code bytes (CALL/JMP qua IAT)
-2. Thay đổi import table entry: `kernel32.dll!VirtualAllocEx` → `stub.dll!AllocateMemoryBlock`
-3. Patch code bytes tại tất cả call site tương ứng
+```
+stage_0.exe  →[--hook VirtualAllocEx]→  stage_1.exe
+stage_1.exe  →[--hook WriteProcess  ]→  stage_2.exe
+stage_2.exe  →[--hook CreateRemote  ]→  stage_3.exe   (final)
+```
 
 ```
 Trước (import table):  kernel32.dll → VirtualAllocEx
@@ -102,16 +89,17 @@ Sau (import table):    stub.dll     → AllocateMemoryBlock
 Sau (code bytes):      FF 15 [IAT_AllocateMemoryBlock]   ← code bytes thay đổi
 ```
 
-### Sự khác biệt căn bản so với Action 17
+Khi PE thực thi:
+- Lệnh `CALL [IAT_VirtualAllocEx]` → thực ra gọi `stub.dll.AllocateMemoryBlock`
+- Hàm stub chạy (no-op) → trả về → luồng chính tiếp tục
 
-| | Action 17 | Action 18 |
-|---|---|---|
-| Công cụ | LIEF only | IAT_Patcher CLI + stub.dll |
-| Đổi code bytes | **Không** | **Có** |
-| Binary sau đó | Broken | Structurally valid |
-| Granularity | Cả DLL | Từng API |
-| Dependency | Không có | Cần IAT_Patcher_CLI.exe |
-| Fallback | N/A | Auto no-op nếu CLI vắng mặt |
+### Tại sao dùng `--hook` tuần tự thay vì `--batch`?
+
+`--batch` xử lý tất cả API trong một lần gọi CLI (nhanh hơn nhưng all-or-nothing). `--hook` tuần tự:
+- Mỗi API được hook độc lập — nếu một hook lỗi, các API còn lại vẫn được xử lý
+- Flow rõ ràng: xử lý API chính → hook → tiếp tục API tiếp theo
+
+Nếu một `--hook` call thất bại, `current_pe` không được cập nhật, các hook tiếp theo vẫn chạy trên input trước đó.
 
 ### stub.dll
 
@@ -129,7 +117,7 @@ x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a
 
 ---
 
-## 5. Thiết Kế IAT_HOOK_TARGETS — Phương Pháp Luận
+## 4. Thiết Kế IAT_HOOK_TARGETS — Phương Pháp Luận
 
 ### Nguồn tham khảo: CAPEv2 / capemon
 
@@ -143,23 +131,20 @@ x86_64-w64-mingw32-gcc -shared -o stub.dll stub.c -Wl,--out-implib,libstub.a
 
 Từ 530+ API của capemon, chúng tôi lọc theo 3 tiêu chí:
 
-**1. Ảnh hưởng đến core payload không?**
-
-| Loại | Quyết định | Lý do |
-|---|---|---|
-| API là cơ chế tấn công chính | ✅ Thêm vào targets | Xóa khỏi import table làm giảm malware score mạnh |
-| API là side-effect (anti-VM, timing, fingerprint) | ✅ Thêm vào targets | Xóa không phá vỡ payload chính, malware vẫn functional |
-| API là cơ chế duy nhất của malware type đó | ✅ Thêm vào targets | Static detector score vẫn giảm |
-
-> **Lưu ý quan trọng**: "Ảnh hưởng đến core payload" chỉ quan trọng với action 18 (stub no-op). Với action 17 (binary broken), tất cả đều acceptable vì mục tiêu là static evasion.
-
-**2. Strong static indicator không?**
+**1. Strong static indicator không?**
 
 API phải là signal mạnh trong import table. Ví dụ `NtAllocateVirtualMemory` rất suspicious; `GetTickCount` ít suspicious hơn nhưng vẫn xuất hiện trong malware fingerprinting research.
 
-**3. Có thực sự xuất hiện trong malware import table không?**
+**2. Có thực sự xuất hiện trong malware import table không?**
 
 Nhiều malware dùng dynamic API resolution (`GetProcAddress`) nên không import statically. Tuy nhiên, nhiều malware vẫn import statically — khi đó action có tác dụng; khi không import thì action là no-op (an toàn).
+
+**3. Ảnh hưởng đến core payload không?** *(quan trọng với action 15)*
+
+| Loại | Quyết định | Lý do |
+|---|---|---|
+| API là side-effect (anti-VM, timing, fingerprint) | ✅ Ưu tiên | Hook không phá vỡ payload chính |
+| API là cơ chế tấn công chính (injection, C2) | ✅ Chấp nhận | Static evasion là mục tiêu, không cần functional |
 
 ### 10 Categories trong IAT_HOOK_TARGETS
 
@@ -305,15 +290,15 @@ Nhiều malware dùng dynamic API resolution (`GetProcAddress`) nên không impo
 | NtDeleteKey | NTDLL | Xóa key |
 | NtDeleteValueKey | NTDLL | Xóa value |
 
-Lý do thêm **native-level** registry (Nt*) thay vì Win32 (Reg*): malware dùng Nt* để bypass security hooks và monitoring tools vốn chỉ hook Win32 layer. Đây là signal mạnh hơn nhiều so với `RegSetValueExW`.
+Lý do thêm **native-level** registry (Nt*): malware dùng Nt* để bypass security hooks và monitoring tools vốn chỉ hook Win32 layer. Đây là signal mạnh hơn nhiều so với `RegSetValueExW`.
 
 *Ảnh hưởng khi hook*: Malware không ghi được registry → **payload vẫn thực thi, chỉ mất registry persistence**.
 
 ---
 
-## 6. Tổng Hợp Action Space
+## 5. Tổng Hợp Action Space
 
-### Action Space Đầy Đủ (18 actions)
+### Action Space Đầy Đủ (15 actions)
 
 | # | Action | Kỹ thuật | Tool cần | Đổi code bytes |
 |---|---|---|---|---|
@@ -330,23 +315,19 @@ Lý do thêm **native-level** registry (Nt*) thay vì Win32 (Reg*): malware dùn
 | 11 | `modify_timestamp` | Đổi timestamp PE header | Không | Không |
 | 12 | `break_optional_header_checksum` | Đặt checksum = 0 | Không | Không |
 | 13 | `remove_debug` | Xóa debug directory | Không | Không |
-| 14 | `upx_pack` | Nén UPX | upx | Có |
-| 15 | `upx_unpack` | Giải nén UPX | upx | Có |
-| **16** | **`add_api_group`** | **Thêm 2–5 API benign vào import table** | **Không** | **Không** |
-| **17** | **`iat_hook_suspicious`** | **Xóa DLL suspicious khỏi import table** | **Không** | **Không** |
-| **18** | **`iat_patch_api`** | **Thay API suspicious → stub.dll** | **IAT_Patcher + stub.dll** | **Có** |
+| **14** | **`add_api_group`** | **Thêm 2–5 API benign vào import table** | **Không** | **Không** |
+| **15** | **`iat_patch_api`** | **Hook API suspicious → stub.dll (sequential)** | **IAT_Patcher + stub.dll** | **Có** |
 
-### So sánh 3 API actions
+### So sánh 2 API actions
 
 ```
-add_api_group       → THÊM API benign       → pha loãng malware signal
-iat_hook_suspicious → XÓA DLL suspicious    → loại bỏ malware signal (binary broken)
-iat_patch_api       → THAY API suspicious   → thay thế malware signal (stub no-op)
+add_api_group  → THÊM API benign  → pha loãng malware signal (additive)
+iat_patch_api  → HOOK API suspicious → thay thế malware signal bằng stub (surgical)
 ```
 
 ---
 
-## 7. Thiết Kế STUB_REPLACEMENT_POOL
+## 6. Thiết Kế STUB_REPLACEMENT_POOL
 
 72 tên benign-sounding chia thành các nhóm ngữ nghĩa để stub.dll trông như một utility library:
 
@@ -366,57 +347,60 @@ iat_patch_api       → THAY API suspicious   → thay thế malware signal (stu
 
 ---
 
-## 8. Tác Động Với Static Detector
+## 7. Tác Động Với Static Detector
 
 ### Feature space bị ảnh hưởng
 
-| Feature type | Action 16 | Action 17 | Action 18 |
-|---|---|---|---|
-| DLL name presence | ✅ Thêm DLL mới | ✅ Xóa DLL suspicious | ✅ Thêm stub.dll |
-| API name presence | ✅ Thêm API benign | ✅ Xóa API suspicious | ✅ Thay tên API |
-| Import count | ✅ Tăng | ✅ Giảm | = (swap 1-1) |
-| Byte n-gram | ❌ | ❌ | ✅ (IAT bytes thay đổi) |
-| String features | ❌ | ❌ | ✅ (API name string đổi) |
+| Feature type | Action 14 (`add_api_group`) | Action 15 (`iat_patch_api`) |
+|---|---|---|
+| DLL name presence | ✅ Thêm DLL mới | ✅ Thêm stub.dll |
+| API name presence | ✅ Thêm API benign | ✅ Thay tên API suspicious |
+| Import count | ✅ Tăng | = (swap 1-1 per hook) |
+| Byte n-gram | ❌ | ✅ (IAT bytes thay đổi) |
+| String features | ❌ | ✅ (API name string đổi) |
 
-### Tại sao cần cả 3 actions?
+### Tại sao cần 2 API actions?
 
-- **Action 16** là additive — pha loãng signal, không xóa
-- **Action 17** là destructive — xóa cứng, không quan tâm functional
-- **Action 18** là surgical — thay thế chính xác từng API, binary vẫn valid
+- **Action 14** là additive — pha loãng signal, không xóa suspicious API
+- **Action 15** là surgical — thay thế chính xác từng API, binary vẫn valid (code bytes đổi)
 
-Agent RL học cách phối hợp 3 actions này (cùng 15 actions gốc) để tối đa hóa evasion rate.
+Agent RL học cách phối hợp 2 actions này (cùng 13 actions gốc) để tối đa hóa evasion rate.
 
 ---
 
-## 9. Dependency và Deployment
+## 8. Dependency và Deployment
 
 | Component | Trạng thái | Ghi chú |
 |---|---|---|
-| `modifier.py` | ✅ Complete | 18 actions |
+| `modifier.py` | ✅ Complete | 15 actions |
 | `api_groups.py` | ✅ Complete | 10 categories, 72 pool entries |
 | `stub.c` | ✅ Complete | 72 exports, no Windows API name conflicts |
 | `stub.dll` (64-bit) | ✅ Built | `malware_rl/envs/controls/stub.dll` |
 | `stub.dll` (32-bit) | ⬜ Cần build | `i686-w64-mingw32-gcc -shared -o stub32.dll stub.c` |
 | `IAT_Patcher_CLI.exe` | ⬜ Cần build | Từ `D:\model\GAMErl\IAT\IAT_patcher\` |
 
-**Fallback**: Nếu `IAT_PATCHER_CLI` không tìm thấy → action 18 tự động no-op. Training vẫn chạy đủ 18 actions (action 18 đơn giản là không có tác dụng).
+**Fallback**: Nếu `IAT_PATCHER_CLI` không tìm thấy → action 15 tự động no-op. Training vẫn chạy đủ 15 actions (action 15 đơn giản là không có tác dụng).
 
 ---
 
-## 10. Hạn Chế và Hướng Mở Rộng
+## 9. Hạn Chế và Hướng Mở Rộng
 
 ### Hạn chế hiện tại
 
-1. **Dynamic API resolution**: Malware dùng `GetProcAddress` để load API dynamically sẽ không có entry trong import table → action 17/18 là no-op với những mẫu này. Ước tính ~40–60% malware modern dùng kỹ thuật này.
+1. **Dynamic API resolution**: Malware dùng `GetProcAddress` để load API dynamically sẽ không có entry trong import table → action 15 là no-op với những mẫu này. Ước tính ~40–60% malware modern dùng kỹ thuật này.
 
-2. **Action 18 stub là no-op**: Với các API thuộc `mask_injection`, `mask_network`, `normalize_crypto` — malware sau khi patch sẽ không thực thi được payload. Điều này acceptable cho mục tiêu static evasion nhưng cần lưu ý nếu dự án mở rộng sang dynamic evasion.
+2. **Action 15 stub là no-op**: Với các API thuộc `mask_injection`, `mask_network`, `normalize_crypto` — malware sau khi patch sẽ không thực thi được payload. Điều này acceptable cho mục tiêu static evasion nhưng cần lưu ý nếu dự án mở rộng sang dynamic evasion.
 
 3. **Architecture**: `stub.dll` hiện chỉ có bản 64-bit. Malware x86 (32-bit) cần `stub32.dll`.
 
+4. **Hiệu năng**: `iat_patch_api` dùng sequential `--hook` thay vì `--batch` — chậm hơn khi có nhiều API target. Trade-off: nếu một hook lỗi, các hook còn lại vẫn chạy.
+
 ### Hướng mở rộng
 
-1. **Forwarding stub**: Viết lại `stub.c` để forward call về API thật (dùng `GetProcAddress` runtime). Khi đó action 18 vừa bypass static detector vừa giữ functional payload.
+1. **Forwarding stub**: Viết lại `stub.c` để forward call về API thật (dùng `GetProcAddress` runtime). Khi đó action 15 vừa bypass static detector vừa giữ functional payload.
 
-2. **Delay load import**: Thêm action chuyển static import thành delay-load import — API vẫn được gọi nhưng không xuất hiện trong standard import table section.
+2. **Batch mode tùy chọn**: Cho phép chọn `--batch` cho tốc độ hoặc `--hook` tuần tự cho resilience tùy thuộc vào môi trường training.
 
-3. **Export table manipulation**: Thêm fake export entries vào PE để làm nó trông giống legitimate DLL/utility.
+3. **Delay load import**: Thêm action chuyển static import thành delay-load import — API vẫn được gọi nhưng không xuất hiện trong standard import table section.
+
+4. **Export table manipulation**: Thêm fake export entries vào PE để làm nó trông giống legitimate DLL/utility.
