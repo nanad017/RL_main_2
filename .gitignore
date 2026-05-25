@@ -39,3 +39,17 @@ malware_rl/envs/controls/good_strings/*
 # Malware samples/datasets (do not commit)
 malware_rl/envs/utils/samples/*
 !malware_rl/envs/utils/samples/.gitkeep
+
+# Local AI assistant/tooling state (do not commit)
+.claude/
+.codex/
+.cline/
+.cursor/
+.windsurf/
+.continue/
+.aider*
+.roo/
+.kilo/
+.gemini/
+.mcp.json
+.mcp/
