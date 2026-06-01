@@ -25,7 +25,9 @@
       "Bash(cd *)",
       "Bash(xargs grep -l \"reward\")",
       "Bash(Get-ChildItem -Path \"D:\\\\model\\\\meme_modify\" -Recurse -Filter \"*_gym.py\" -ErrorAction SilentlyContinue)",
-      "Bash(Select-Object -ExpandProperty FullName)"
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "PowerShell(Get-ChildItem -Path \"d:\\\\model\\\\meme_main\" -Recurse -Directory | Select-Object -First 30 | ForEach-Object { $_.FullName })",
+      "Bash(python3 -c ' *)"
     ]
   }
 }

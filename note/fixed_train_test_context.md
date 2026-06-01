@@ -1,5 +1,17 @@
 # Fixed Train/Test Dataset Mode
 
+## User requirement
+
+Nguoi dung muon chu dong chia dataset tu ben ngoai:
+
+- Bo san data train vao mot thu muc rieng.
+- Bo san data test vao mot thu muc rieng.
+- Khi train model, code phai dung dung tap train do.
+- Khi test/evaluate, code phai dung dung tap test do.
+- Code khong duoc tu chia lai 70/30 neu da cung cap train/test folder.
+- Khong can copy binary vao manifest; manifest chi ghi danh sach sample va root de doc lai.
+- Lan sau chi can set duong dan train/test la model chay duoc.
+
 ## Goal
 
 Cho phep chay RL voi tap train va tap test da tach san, khong de code tu chia lai 70/30.
@@ -49,14 +61,36 @@ Zbot/b.exe
 
 Train va test khong duoc co cung mot relative sample id. Vi du neu ca hai ben deu co `Locker/a.exe`, code se bao loi de tranh doc nham root.
 
+## Dataset paths on Linux VM
+
+Dataset hien tai tren Linux:
+
+```text
+/home/rl/RL/dataset/main_dataset/RL/benign
+/home/rl/RL/dataset/main_dataset/RL/virus
+/home/rl/RL/dataset/main_dataset/test/benign
+/home/rl/RL/dataset/main_dataset/test/virus
+```
+
+Voi structure nay:
+
+- train root = `/home/rl/RL/dataset/main_dataset/RL`
+- test root = `/home/rl/RL/dataset/main_dataset/test`
+- family folder la `benign` va `virus`
+
 ## Run train
 
-PowerShell:
+Bash/Linux:
 
-```powershell
-$env:MALWARE_RL_TRAIN_DIR="data/my_dataset/train"
-$env:MALWARE_RL_TEST_DIR="data/my_dataset/test"
-python ppo.py --target custom --seed 26871 --num-queries 4096 --num-episodes 300
+```bash
+cd /path/to/meme_main
+
+unset MALWARE_RL_SPLIT_FILE
+
+export MALWARE_RL_TRAIN_DIR="/home/rl/RL/dataset/main_dataset/RL"
+export MALWARE_RL_TEST_DIR="/home/rl/RL/dataset/main_dataset/test"
+
+python ppo.py --target custom --seed 26871 --num-episodes 5961 --num-queries 59610
 ```
 
 Trong mode nay:
@@ -65,13 +99,57 @@ Trong mode nay:
 - `custom-test-v0` dung toan bo file trong `MALWARE_RL_TEST_DIR`
 - khong co chia random
 - evasion chi luu khi test vi `custom-test-v0` co `save_modified_data=True`
+- `maxturns` hien dang hard-code la `10` trong `malware_rl/__init__.py`, khong co CLI flag `--maxturns`
 
 ## Run evaluate only
 
-```powershell
-$env:MALWARE_RL_TRAIN_DIR="data/my_dataset/train"
-$env:MALWARE_RL_TEST_DIR="data/my_dataset/test"
+```bash
+cd /path/to/meme_main
+
+unset MALWARE_RL_SPLIT_FILE
+
+export MALWARE_RL_TRAIN_DIR="/home/rl/RL/dataset/main_dataset/RL"
+export MALWARE_RL_TEST_DIR="/home/rl/RL/dataset/main_dataset/test"
+
 python evaluate.py --target custom --agent saved_models/ppo-only-custom-train-v0-26871.zip --seed 26871
+```
+
+Luu y: `evaluate.py` hien chua co CLI flag `--num-episodes`, no goi `evaluate_model(..., 300, ...)` truc tiep trong code.
+
+## Run random baseline
+
+Neu muon chay random agent tren tap test voi cung gioi han:
+
+```bash
+cd /path/to/meme_main
+
+unset MALWARE_RL_SPLIT_FILE
+
+export MALWARE_RL_TRAIN_DIR="/home/rl/RL/dataset/main_dataset/RL"
+export MALWARE_RL_TEST_DIR="/home/rl/RL/dataset/main_dataset/test"
+
+python random_agent.py --target custom --seed 26871 --num-episodes 5961 --num-queries 59610
+```
+
+## Parameter locations
+
+```text
+/path/to/meme_main/ppo.py
+  --num-episodes
+  --num-queries
+
+/path/to/meme_main/random_agent.py
+  --num-episodes
+  --num-queries
+
+/path/to/meme_main/malware_rl/__init__.py
+  MAXTURNS = 10
+
+/path/to/meme_main/malware_rl/envs/utils/interface.py
+  get_available_sha256(sample_root)
+  fetch_sample(sample_id)
+  save_dataset_split(...)
+  load_dataset_split(...)
 ```
 
 ## Manifest output
@@ -88,8 +166,14 @@ data/splits/samples/test/<family>/samples.txt
 
 `split.json` co them `source_roots`, nen co the dung lai bang:
 
-```powershell
-$env:MALWARE_RL_SPLIT_FILE="data/splits/samples/split.json"
+```bash
+cd /path/to/meme_main
+
+unset MALWARE_RL_TRAIN_DIR
+unset MALWARE_RL_TEST_DIR
+
+export MALWARE_RL_SPLIT_FILE="/path/to/meme_main/data/splits/samples/split.json"
+
 python evaluate.py --target custom --agent saved_models/ppo-only-custom-train-v0-26871.zip --seed 26871
 ```
 
