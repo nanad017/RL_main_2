@@ -80,7 +80,7 @@ for i in range(num_episodes):
     while True:
         action, _ = agent.predict(ob, reward, done)
         ob, reward, done, ep_history = eval_env.step(action)
-        if done and reward >= 10.0:
+        if done and ep_history["evaded"]:
             evasions += 1
             evasion_history[sha256] = ep_history
             break

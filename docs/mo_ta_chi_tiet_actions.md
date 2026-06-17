@@ -1,7 +1,7 @@
 # Mô Tả Chi Tiết Logic Của Từng Action
 
 **File:** `malware_rl/envs/controls/modifier.py` (class `ModifyBinary`)
-**Tổng:** 17 action (13 Tier 1 + 3 Tier 2 + 1 Tier 3)
+**Tổng:** 18 action (13 Tier 1 + 3 Tier 2 + 2 Tier 3)
 
 Tài liệu này mô tả chính xác cho từng action: nó thay đổi gì, thay đổi như thế nào, lấy data ở đâu, chọn data như thế nào, và các điểm cần lưu ý.
 
@@ -27,7 +27,8 @@ Tài liệu này mô tả chính xác cho từng action: nó thay đổi gì, th
 | 2 | `add_api_group` | Thêm 2-5 API benign cùng nhóm vào import table | `api_groups.py:API_GROUPS` |
 | 2 | `iat_patch_api` | Inline IAT hook + rename + forwarding trampoline | `api_groups.py:IAT_HOOK_TARGETS, SAFE_RENAME` |
 | 2 | `inject_benign_api_call` | Inject 3-5 API call vào trước Original Entry Point | `inject_call.py:SAFE_INJECT_APIS` |
-| 3 | `stoke_rewrite` | Rewrite `.text` bằng STOKE superoptimizer | external CLI `STOKE_REWRITER_CLI` |
+| 3 | `stoke_rewrite` | Rewrite `.text` bằng `stoke_actions` qua worker Python >= 3.9 | `stoke_bridge.py`, `stoke_worker.py`, env `STOKE_*` |
+| 3 | `bytecode_swap` | Thay 1 byte chunk trong `.text` bằng biến thể cùng size đã verify | `data/bytecode_swap_map.json` qua `_equiv_map_loader.py` |
 
 ---
 
@@ -499,30 +500,94 @@ Tài liệu này mô tả chính xác cho từng action: nó thay đổi gì, th
 
 ---
 
-# TIER 3 — CODE REWRITE (1 action)
+# TIER 3 — CODE REWRITE (2 actions)
 
 ## 17. `stoke_rewrite`
 
-**Mục đích:** Rewrite `.text` section bằng STOKE (stochastic superoptimizer) → tạo binary ngữ nghĩa giống hệt nhưng **byte khác hoàn toàn**.
+**Mục đích:** Rewrite `.text` section bằng `stoke_actions` qua worker Python >= 3.9 → tạo binary ngữ nghĩa giống hệt nhưng có thể khác bytes, trong khi **giữ nguyên kích thước file**.
 
 **Logic:**
-1. `get_stoke_command()`:
-   - Đọc `STOKE_REWRITER_CLI` env var → tách bằng `shlex.split()`.
-   - Hoặc fallback `<repo_root>/../stoke_workspace/stoke_rewriter`.
-   - Trả về `None` nếu không tìm thấy → action no-op.
-2. Tạo `tmp_dir`, ghi `self.bytez` vào `input.exe`.
-3. `subprocess.run(stoke_cmd + [input_pe, output_pe], timeout=120)`.
-4. Nếu `returncode == 0` và file output hợp lệ và LIEF parse được → cập nhật `self.bytez`.
-5. Cleanup `tmp_dir`.
+1. `ModifyBinary.stoke_rewrite()` chỉ là thin wrapper gọi `_apply_stoke_action(self.bytez)` từ `stoke_bridge.py`.
+2. `stoke_bridge.apply_stoke_action(...)`:
+   - Đọc cấu hình từ env:
+     - `STOKE_PYTHON` — interpreter Python >= 3.9 chạy worker
+     - `STOKE_WORKER` — path tới `stoke_worker.py`
+     - `STOKE_N` — số mutation tối đa
+     - `STOKE_REWRITES` — thư viện rewrite, mặc định `proven_v3_cleaned`
+     - `STOKE_TIMEOUT` — timeout subprocess
+     - `STOKE_SEED` — seed cố định nếu muốn reproducible
+   - Ghi `self.bytez` vào file tạm `input.exe`.
+   - Chạy subprocess:
+     ```bash
+     $STOKE_PYTHON $STOKE_WORKER --input ... --output ... --n ... --rewrites ... [--seed ...]
+     ```
+3. `stoke_worker.py` (chạy bằng Python >= 3.9):
+   - `import stoke_actions as sa`
+   - `mutated = sa.mutate(pe_bytes, n=args.n, rewrites=args.rewrites, seed=args.seed)`
+   - Kiểm tra `mutated` là `bytes|bytearray`
+   - Kiểm tra `len(mutated) == len(input)`
+   - Ghi `output.exe`
+   - In đúng 1 dòng JSON cuối cùng ra stdout:
+     - thành công: `{"ok": true, ...}`
+     - lỗi: `{"ok": false, "error": "..."}`
+4. Bridge parse JSON dòng cuối, kiểm tra output file tồn tại, không rỗng, cùng size input.
+5. Nếu mọi kiểm tra đều pass → trả bytes mới. Nếu có lỗi ở bất kỳ bước nào → trả lại bytes gốc.
 
-**Data:** External binary `stoke_rewriter` (CLI tool, không có trong repo). User phải tự cấu hình env var hoặc đặt binary tại đường dẫn fallback.
+**Data / dependency:**
+- Worker script: `malware_rl/envs/controls/stoke_worker.py`
+- Bridge script: `malware_rl/envs/controls/stoke_bridge.py`
+- Python env riêng có package `stoke_actions`
+- Optional nhưng rất nên có: `capstone` trong env STOKE để pass rewrite theo thư viện `proven_v3_cleaned` không bị skip
 
-**Selection:** STOKE tự chọn instruction sequences theo MCMC sampling.
+**Selection:** `stoke_actions` tự chọn mutation trên `.text` theo `n`, `seed`, `rewrites` truyền vào.
 
 **Lưu ý:**
-- Đây là **action duy nhất phụ thuộc external tool**.
-- Timeout 120s → nếu STOKE chậm hoặc treo → cuối cùng vẫn return bytez cũ.
-- Nếu STOKE không có → action im lặng no-op (không raise exception).
+- Core RL runtime **không import `stoke_actions` trực tiếp**; mọi thứ được cô lập qua subprocess để giữ tương thích Python 3.7.
+- Action này vẫn là no-op an toàn nếu:
+  - `STOKE_PYTHON` sai
+  - `STOKE_WORKER` sai
+  - worker timeout
+  - worker trả JSON lỗi
+  - output đổi size
+- Trên máy hiện tại, `stoke_rewrite` nằm ở **index 16** trong `ACTION_TABLE`.
+- Nếu env STOKE thiếu `capstone`, `stoke_actions.mutate()` vẫn chạy nhưng có thể bỏ qua pass rewrite theo equivalence library.
+
+---
+
+## 18. `bytecode_swap`
+
+**Mục đích:** Thay 1 byte chunk trong section executable bằng biến thể **cùng kích thước** đã được verify trước, không rebuild PE và không làm xê dịch offset.
+
+**Logic:**
+1. `ModifyBinary._get_equiv_map()` lazy-load map từ `BYTECODE_SWAP_MAP_PATH = <repo>/data/bytecode_swap_map.json` qua `_equiv_map_loader.load_equiv_map(...)`.
+2. Loader chỉ giữ các cặp:
+   - `verified == true`
+   - `same_size == true`
+   - `len(original_hex) == len(variant_hex)`
+3. Parse PE bằng LIEF.
+4. Tìm section executable:
+   - ưu tiên `.text`
+   - fallback section đầu tiên có characteristic `MEM_EXECUTE`
+5. Quét raw bytes của executable section để tìm mọi occurrence của từng `original_bytes` trong equivalence map.
+6. Random chọn 1 hit `(abs_offset, original)` và random chọn 1 `variant` tương ứng.
+7. Nếu `len(variant) == len(original)` thì splice trực tiếp:
+   ```python
+   self.bytez = self.bytez[:abs_offset] + variant + self.bytez[abs_offset + len(original):]
+   ```
+8. Không có LIEF rebuild; output luôn cùng total file size với input.
+
+**Data:**
+- `data/bytecode_swap_map.json`
+- `malware_rl/envs/controls/_equiv_map_loader.py`
+
+**Selection:**
+- Match site: random trong tất cả occurrence tìm được ở executable section
+- Variant: random trong list biến thể của opcode gốc
+
+**Lưu ý:**
+- Nếu map rỗng, file JSON thiếu, PE parse fail, không có executable section, hoặc không có match → action no-op.
+- Vì chỉ dùng cặp cùng size, action này không thay đổi layout PE.
+- Đây là action Tier 3 thứ hai sau `stoke_rewrite`, nên `stoke_rewrite` không còn là action cuối cùng của `ACTION_TABLE`.
 
 ---
 
@@ -572,7 +637,8 @@ Quét tìm dãy null bytes liên tiếp ≥ `cave_size` (mặc định 128) tron
 | `inject_call.py:SAFE_INJECT_APIS` | ~30 API benign + arg signatures | `inject_benign_api_call` |
 | Hard-coded lists | Optional Header values, timestamps | `modify_optional_header`, `modify_timestamp` |
 | Runtime gen | Random bytes | `pad_overlay`, `add_bytes_to_section_cave` |
-| External CLI | STOKE rewriter | `stoke_rewrite` |
+| `stoke_bridge.py` + `stoke_worker.py` + env `STOKE_*` | Bridge/worker cho `stoke_actions` | `stoke_rewrite` |
+| `data/bytecode_swap_map.json` | Map opcode tương đương cùng size đã verify | `bytecode_swap` |
 
 ---
 
@@ -587,7 +653,7 @@ Quét tìm dãy null bytes liên tiếp ≥ `cave_size` (mặc định 128) tron
 4. **Tier khác nhau ở mức độ ảnh hưởng:**
    - **Tier 1:** Thay đổi structural/metadata, không động vào execution flow.
    - **Tier 2:** Thay đổi API surface (static + dynamic), có thể chèn shellcode vào execution flow nhưng vẫn preserve original logic.
-   - **Tier 3:** Rewrite execution logic ở mức instruction (semantic-preserving, byte-changing).
+   - **Tier 3:** Rewrite execution logic ở mức instruction hoặc thay bytecode trong executable section theo cặp tương đương cùng size.
 
 5. **Action không đảm bảo "evasive":** Mỗi action chỉ là **1 phép biến đổi** trong action space của RL agent. Agent học cách kết hợp nhiều action để vượt qua detector cụ thể.
 

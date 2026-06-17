@@ -27,8 +27,8 @@
 | Ký hiệu | Đọc là | Ý nghĩa | Giá trị mặc định | Tại sao chọn giá trị này |
 |---|---|---|---|---|
 | $R_b$ | "R bonus" | Phần thưởng cố định khi evade thành công | 10.0 | Giữ tương thích với MEME gốc để dễ so sánh fair |
-| $\lambda_q$ | "lambda q" (q = query) | Hệ số phạt khi evade chậm. Càng lớn → càng khắc nghiệt với evade muộn | 0.3 | Ở $\lambda_q = 0.3$: step cuối vẫn được 7.0 điểm (không quá khắc nghiệt), step đầu được 10.0 → chênh lệch 3.0 đủ cho PPO học |
-| $\lambda_s$ | "lambda s" (s = size) | Hệ số phạt khi file phình to. Càng lớn → càng phạt nặng file bloat | 2.0 | 1 lần pad_overlay (+100KB trên file 50KB = 200%) → penalty = -4.0, đủ lớn để cân bằng với score-diff thường khoảng +0.1 |
+| $\lambda_q$ | "lambda q" (q = query) | Hệ số phạt khi evade chậm. Càng lớn → càng khắc nghiệt với evade muộn | 0.1 | Ở $\lambda_q = 0.1$: evade muộn vẫn bị phạt nhẹ, nhưng reward thành công không tụt quá mạnh; step đầu gần 10.0, step cuối khoảng 9.1 |
+| $\lambda_s$ | "lambda s" (s = size) | Hệ số phạt khi file phình to. Càng lớn → càng phạt nặng file bloat | 0.5 | 1 lần pad_overlay (+100KB trên file 50KB = 200%) → penalty = -1.0, đủ tạo áp lực giảm bloat nhưng không lấn át hoàn toàn tín hiệu evade |
 | $\lambda_d$ | "lambda d" (d = diversity) | Hệ số thưởng khi dùng đa dạng tier. Càng lớn → càng ép agent thử nhiều loại | 1.0 | Max bonus = +1.0 khi dùng cả 3 tier, chỉ đóng vai tie-breaker khi 2 chiến lược cho R_score tương đương |
 | $\lambda_f$ | "lambda f" (f = functional) | Hệ số phạt khi binary bị vỡ chức năng cốt lõi. Cố ý đặt > $R_b$ để penalty luôn override evasion reward | 15.0 | Nặng hơn R_bonus (10): dù agent evade thành công, nếu binary không chạy được → tổng vẫn âm. Đủ để PPO học tuyệt đối không phá functionality |
 

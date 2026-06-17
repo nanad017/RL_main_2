@@ -538,7 +538,7 @@ Phase 6 (logging) — khi chạy ablation study
 1. ❌ **Đừng** import `pefile` trong `reward.py`. Reward không được biết về PE format.
 2. ❌ **Đừng** tạo dependency vòng: `reward.py` đã import từ `controls.modifier`, **không** import ngược lại.
 3. ❌ **Đừng** cache check_func result theo binary hash. Binary thay đổi mỗi step → cache miss luôn → vô ích, tốn RAM.
-4. ❌ **Đừng** thay đổi default values (`R_bonus=10`, `lambda_q=0.3`, ...) ngoài việc thêm `lambda_f=15.0`. Vi phạm R1.
+4. ❌ Nếu thay đổi default values (`R_bonus`, `lambda_q`, `lambda_s`, ...), phải cập nhật code, docs và test cùng lúc để tránh metric/reward drift.
 5. ❌ **Đừng** thêm prints/logging vào `__call__` mặc định. Hot path, log riêng qua hook nếu cần.
 6. ❌ **Đừng** dùng `assert` cho input validation trong production code — assertion có thể bị tắt bằng `python -O`. Dùng `if ...: raise` hoặc warning.
 

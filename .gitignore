@@ -1,55 +1,98 @@
-*
-!/**/
-!*.*
+# datasets
+data/evaded/
+data/test_samples/
+data/memory/
+data/logs/
+ember_dat/
 
-__pycache__/
-*.py[cod]
-.DS_Store
-.vscode/
-data/*
-*.ipynb_checkpoints/
-*.exe
-.idea
-*.model
-.env
-.npy
+# training artifacts
 saved_models/
-helper_scripts/
-*.zip
+logs/
 
-# Virtualenvs (do not commit)
-.venv*/
-venv*/
+# python
+__pycache__/
+*.pyc
 
-# Large runtime artifacts (download on target machine)
+# large files
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# virtual env
+.venv37_clean/
+.venv/
+venv/
+
+# heavy model/data artifacts
 malware_rl/envs/utils/ember_model.txt
 malware_rl/envs/utils/lgb_ember_model.txt
-malware_rl/envs/utils/sorel.model
-malware_rl/envs/utils/sorelFFNN.pt
+malware_rl/envs/utils/observations.npy
 
-# UPX binary (download on target machine)
-malware_rl/envs/controls/upx
+# datasets / outputs
+data/evaded/
+data/memory/
+data/logs/
+data/test_samples/
+ember_dat/
+saved_models/
+logs/
 
-# Generated benign/trusted files (download on target machine)
-malware_rl/envs/controls/trusted/*
-!malware_rl/envs/controls/trusted/.gitkeep
-malware_rl/envs/controls/good_strings/*
-!malware_rl/envs/controls/good_strings/.gitkeep
+# python cache
+__pycache__/
+*.pyc
 
-# Malware samples/datasets (do not commit)
-malware_rl/envs/utils/samples/*
-!malware_rl/envs/utils/samples/.gitkeep
+# virtual env
+.venv37_clean/
+.venv/
+venv/
 
-# Local AI assistant/tooling state (do not commit)
-.claude/
-.codex/
-.cline/
-.cursor/
-.windsurf/
-.continue/
-.aider*
-.roo/
-.kilo/
-.gemini/
-.mcp.json
-.mcp/
+# heavy model/data artifacts
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/observations.npy
+
+# datasets / outputs
+data/evaded/
+data/memory/
+data/logs/
+data/test_samples/
+ember_dat/
+saved_models/
+logs/
+
+# python cache
+__pycache__/
+*.pyc
+
+.venv37_clean/
+.venv/
+venv/
+
+data/
+logs/
+saved_models/
+ember_dat/
+
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/observations.npy
+malware_rl/envs/controls/good_strings/
+
+__pycache__/
+*.pyc
+
+# generated datasets
+malware_rl/envs/controls/good_strings/
+malware_rl/envs/controls/trusted/
+
+# tensorboard
+ppo_custom_tensorboard/
+
+# samples
+malware_rl/envs/utils/samples/
+
+# scores
+malware_rl/envs/utils/scores.npy
+malware_rl/envs/utils/lgb_custom_model_39720.txt

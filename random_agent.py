@@ -56,7 +56,7 @@ for i in range(num_episodes):
     while True:
         action = agent.act(ob, reward, done)
         ob, reward, done, ep_history = env.step(action)
-        if done and reward >= 10.0:
+        if done and ep_history["evaded"]:
             # print(action)
             evasions += 1
             evasion_history[sha256] = ep_history

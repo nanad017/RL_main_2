@@ -48,5 +48,5 @@ Ban chi can push:
 - code
 - `requirements.txt`
 - `scripts/recreate_env_no_dataset.sh`
-- `REPRODUCE_ON_NEW_MACHINE.md`
-- `SETUP_FIXES.md`, `WORK_DONE.md` (neu muon luu ghi chep)
+- `set_up/REPRODUCE_ON_NEW_MACHINE.md`
+- `set_up/SETUP_FIXES.md`, `set_up/WORK_DONE.md` (neu muon luu ghi chep)

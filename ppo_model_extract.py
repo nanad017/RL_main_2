@@ -89,7 +89,7 @@ def evaluate_agent(agent, env_string, num_episodes, num_queries, outdir, seed=0)
         while True:
             action, _ = agent.predict(ob, reward, done)
             ob, reward, done, ep_history = eval_env.step(action)
-            if done and reward >= 10.0:
+            if done and ep_history["evaded"]:
                 evasions += 1
                 evasion_history[sha256] = ep_history
                 break
@@ -123,6 +123,7 @@ argparser.add_argument("--init_timesteps", type=int, default=256, help="Number o
 argparser.add_argument("--num_timesteps", type=int, default=2048, help="Number of timesteps to train on")
 argparser.add_argument("--eval_timesteps", type=int, default=2048, help="Number of timesteps to evaluate on")
 argparser.add_argument("--num_rounds", type=int, default=3, help="Number of rounds to train on")
+argparser.add_argument("--train_only", action="store_true", help="Stop after target training checkpoint, before surrogate training and final test")
 args = argparser.parse_args()
 
 
@@ -133,6 +134,7 @@ init_timesteps = args.init_timesteps
 num_timesteps = args.num_timesteps
 eval_timesteps = args.eval_timesteps
 num_rounds = args.num_rounds
+train_only = args.train_only
 
 total_queries = 0
 
@@ -206,6 +208,10 @@ for i in range(num_rounds):
 
     # Step 2: Train a new model (or ensemble) using the new data
     # Step 2a: evaluate model on agreement with the target
+    agent.save(f"saved_models/ppo-model_rl-{TARGET}-train-v0-{SEED}-pre-surrogate-round-{i+1}")
+    if train_only:
+        logging.info(f"Train-only stop after target training. Round: {i+1}")
+        break
     logging.debug(f"Training the surrogate. Round: {i+1}")
     threshold = train_surrogate(TARGET, data_path, save_model_path, SEED)
 
@@ -224,8 +230,8 @@ for i in range(num_rounds):
     agent.learn(total_timesteps=num_timesteps)
     agent.save(f"saved_models/ppo-model_rl-{TARGET}-train-v0-{SEED}")
 
-
-logging.info(f"Final eval on the test set. Round: {i+1}")
-evaluate_agent(agent, f"{TARGET}-test-v0", 300, 5000, outdir, SEED)
+if not train_only:
+    logging.info(f"Final eval on the test set. Round: {i+1}")
+    evaluate_agent(agent, f"{TARGET}-test-v0", 1796, 17960, outdir, SEED)
 
 logging.info(f"Total number of queries: {total_queries}")

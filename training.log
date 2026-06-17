@@ -8,3 +8,96 @@
 14:31:38,349 INFO Bootstrap agent learning on the target env. Round: 1
 14:35:37,94 INFO Starting experiment with custom target and seed 39720
 14:35:37,394 INFO Bootstrap agent learning on the target env. Round: 1
+12:45:33,653 INFO Starting experiment with sorelFFNN target and seed 26871
+12:48:16,844 INFO Starting experiment with custom target and seed 39720
+12:48:17,257 INFO Bootstrap agent learning on the target env. Round: 1
+12:48:19,54 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+12:52:37,226 INFO Starting experiment with custom target and seed 39720
+12:52:37,548 INFO Bootstrap agent learning on the target env. Round: 1
+12:52:41,671 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+13:11:08,98 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+13:16:37,709 INFO Threshold for target FPR 0.01: 0.43839411387444016
+13:16:37,709 INFO Accuracy score: 0.9994984954864594
+13:16:37,709 INFO Agreement: 0.8896690070210632
+13:16:37,709 INFO FPR: 0.0025
+13:16:37,709 INFO Recall: 0.999721293199554
+13:16:37,709 INFO Precision: 0.999721293199554
+13:16:37,709 INFO AUC: 0.9986106465997772
+13:16:37,710 INFO Confusion matrix: [[ 399    1]
+ [   1 3587]]
+13:16:37,752 INFO Training the agent on the surrogate. Round: 1
+13:29:09,794 INFO Evaluation of the agent on the target env. Round: 2
+13:38:52,607 INFO 0.0% samples evaded model.
+13:38:52,608 INFO Average of 9.49537037037037 moves to evade model.
+13:38:52,653 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+13:45:54,730 INFO Threshold for target FPR 0.01: 0.5043394165877657
+13:45:54,730 INFO Accuracy score: 0.9994984954864594
+13:45:54,730 INFO Agreement: 0.8896690070210632
+13:45:54,730 INFO FPR: 0.0025
+13:45:54,731 INFO Recall: 0.999721293199554
+13:45:54,731 INFO Precision: 0.999721293199554
+13:45:54,731 INFO AUC: 0.9986106465997772
+13:45:54,731 INFO Confusion matrix: [[ 399    1]
+ [   1 3587]]
+13:45:54,767 INFO Training the agent on the surrogate. Round: 2
+13:57:58,74 INFO Evaluation of the agent on the target env. Round: 3
+14:12:09,632 INFO 0.0% samples evaded model.
+14:12:09,632 INFO Average of 9.951456310679612 moves to evade model.
+14:12:09,719 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+14:18:55,841 INFO Threshold for target FPR 0.01: 0.43804631876223377
+14:18:55,842 INFO Accuracy score: 0.9997492477432297
+14:18:55,842 INFO Agreement: 0.8894182547642929
+14:18:55,842 INFO FPR: 0.0025
+14:18:55,842 INFO Recall: 1.0
+14:18:55,842 INFO Precision: 0.9997213708553915
+14:18:55,842 INFO AUC: 0.99875
+14:18:55,842 INFO Confusion matrix: [[ 399    1]
+ [   0 3588]]
+14:18:55,903 INFO Training the agent on the surrogate. Round: 3
+14:37:34,905 INFO Final eval on the test set. Round: 3
+14:59:43,833 INFO 0.0% samples evaded model.
+14:59:43,834 INFO Average of 9.92 moves to evade model.
+14:59:43,839 INFO Total number of queries: 6149
+16:13:36,866 INFO Starting experiment with custom target and seed 39720
+16:13:36,941 INFO Bootstrap agent learning on the target env. Round: 1
+16:13:46,706 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+16:19:29,590 INFO Starting experiment with custom target and seed 39720
+16:19:29,658 INFO Bootstrap agent learning on the target env. Round: 1
+16:19:33,142 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+16:49:19,728 INFO Starting experiment with custom target and seed 39720
+16:49:20,421 INFO Bootstrap agent learning on the target env. Round: 1
+16:49:23,586 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+02:13:58,107 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+02:51:34,835 INFO Starting experiment with custom target and seed 39720
+02:51:35,163 INFO Bootstrap agent learning on the target env. Round: 1
+02:51:36,917 INFO bytecode_swap: loaded 6180 unique originals / 6580 variants from /home/rl/RL/RL_main_2/data/bytecode_swap_map.json
+03:18:17,480 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+03:32:15,945 INFO Threshold for target FPR 0.01: 0.7174899746017553
+03:32:15,946 INFO Accuracy score: 0.9947342026078235
+03:32:15,946 INFO Agreement: 0.8904212637913741
+03:32:15,946 INFO FPR: 0.01
+03:32:15,946 INFO Recall: 0.9952619843924192
+03:32:15,946 INFO Precision: 0.9988811188811189
+03:32:15,946 INFO AUC: 0.9926309921962096
+03:32:15,947 INFO Confusion matrix: [[ 396    4]
+ [  17 3571]]
+03:32:16,1 INFO Training the agent on the surrogate. Round: 1
+07:30:39,947 INFO Final eval on the test set. Round: 1
+08:07:07,847 INFO 93.74647887323944% samples evaded model.
+08:07:07,848 INFO Average of 4.19097995545657 moves to evade model.
+08:07:07,869 INFO Total number of queries: 59610
+11:55:39,942 INFO Loading local EMBER memmaps from /home/rl/RL/RL_main_2/ember_dat
+12:01:37,685 INFO Threshold for target FPR 0.01: 0.9115274044138573
+12:01:37,686 INFO Accuracy score: 0.9914744232698094
+12:01:37,686 INFO Agreement: 0.8911735205616851
+12:01:37,686 INFO FPR: 0.01
+12:01:37,686 INFO Recall: 0.9916387959866221
+12:01:37,686 INFO Precision: 0.9988770353733858
+12:01:37,686 INFO AUC: 0.990819397993311
+12:01:37,686 INFO Confusion matrix: [[ 396    4]
+ [  30 3558]]
+12:01:37,820 INFO Training the agent on the surrogate. Round: 1
+15:44:29,888 INFO Final eval on the test set. Round: 1
+16:14:53,110 INFO 93.85915492957746% samples evaded model.
+16:14:53,110 INFO Average of 4.097438752783964 moves to evade model.
+16:14:53,130 INFO Total number of queries: 59610

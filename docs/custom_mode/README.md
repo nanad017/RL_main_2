@@ -150,6 +150,11 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 export CUSTOM_DETECTOR_URL="http://127.0.0.1:8000"
 export CUSTOM_DETECTOR_SHARED_ROOT="/home/rl/RL/MAB-malware/data/share"
 export CUSTOM_DETECTOR_THRESHOLD="0.5"
+export STOKE_PYTHON="/home/rl/miniconda3/envs/sorel-malware-detector/bin/python"
+export STOKE_WORKER="/home/rl/RL/RL_main_2/malware_rl/envs/controls/stoke_worker.py"
+export STOKE_N="8"
+export STOKE_REWRITES="proven_v3_cleaned"
+export STOKE_TIMEOUT="60"
 ```
 
 ### 4. Chay RL extraction
@@ -170,6 +175,36 @@ PPO don gian:
 
 ```bash
 python ppo.py --target custom --seed 39720 --num-queries 4096
+```
+
+### 6. Chay bang script tong hop
+
+Repo da co script chi tiet:
+
+```bash
+scripts/run_custom_detector_with_stoke.sh check
+scripts/run_custom_detector_with_stoke.sh test
+scripts/run_custom_detector_with_stoke.sh random
+scripts/run_custom_detector_with_stoke.sh ppo
+scripts/run_custom_detector_with_stoke.sh meme
+```
+
+Script nay:
+
+- export toan bo `CUSTOM_*` va `STOKE_*`
+- verify action space runtime hien tai, trong do `stoke_rewrite` phai o index `16`
+- chay custom detector mode voi full `ACTION_TABLE` hien tai, bao gom:
+  - `stoke_rewrite`
+  - `bytecode_swap`
+
+Neu can override bien moi truong truoc khi chay script:
+
+```bash
+export CUSTOM_DETECTOR_URL="http://127.0.0.1:8000"
+export CUSTOM_DETECTOR_SHARED_ROOT="/home/rl/RL/MAB-malware/data/share"
+export STOKE_PYTHON="/home/rl/miniconda3/envs/sorel-malware-detector/bin/python"
+export SEED="39720"
+scripts/run_custom_detector_with_stoke.sh meme
 ```
 
 ## Luu y quan trong

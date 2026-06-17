@@ -1,4 +1,9 @@
-import ember
+from pathlib import Path
+
+try:
+    import ember
+except ImportError:
+    ember = None
 import torch as th
 import numpy as np
 from sklearn.utils import shuffle
@@ -9,6 +14,11 @@ import os
 
 import logging
 logger = logging.getLogger(__name__)
+
+PROJECT_ROOT = Path(__file__).resolve().parent
+DEFAULT_LOCAL_EMBER_DATA_DIR = PROJECT_ROOT / "ember_dat"
+DEFAULT_LEGACY_EMBER_DATA_DIR = Path("/data/mari/ember2018")
+DEFAULT_SOREL_DATA_DIR = Path("/data/mari/sorel-data")
 
 def get_target_predictions(target, target_model, X_test):
 
@@ -28,7 +38,86 @@ def get_target_predictions(target, target_model, X_test):
     return y_pred
 
 
+def _resolve_ember_data_dir():
+    """Pick the first available EMBER dataset location.
+
+    Preference order:
+      1. ``MALWARE_RL_EMBER_DATA_DIR`` if set
+      2. local repo ``./ember_dat`` memmaps
+      3. legacy absolute path ``/data/mari/ember2018``
+    """
+    candidates = []
+    env_path = os.getenv("MALWARE_RL_EMBER_DATA_DIR")
+    if env_path:
+        candidates.append(Path(env_path))
+    candidates.append(DEFAULT_LOCAL_EMBER_DATA_DIR)
+    candidates.append(DEFAULT_LEGACY_EMBER_DATA_DIR)
+
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    return candidates[0]
+
+
+def _has_memmap_ember_data(data_dir):
+    data_dir = Path(data_dir)
+    required = (
+        "X_val.dat",
+        "X_test.dat",
+        "y_val.dat",
+        "y_test.dat",
+    )
+    return all((data_dir / name).is_file() for name in required)
+
+
+def _load_local_ember_memmaps(data_dir, seed=42):
+    """Load repo-local EMBER memmaps.
+
+    These files are already vectorized 2381-dim features and binary labels, so
+    they can be used directly for the LightGBM surrogate training/eval path.
+    """
+    ndim = 2381
+    data_dir = Path(data_dir)
+
+    x_train_path = data_dir / "X_val.dat"
+    y_train_path = data_dir / "y_val.dat"
+    y_train = np.memmap(str(y_train_path), dtype=np.float32, mode="r")
+    n_train = y_train.shape[0]
+    x_train = np.memmap(
+        str(x_train_path),
+        dtype=np.float32,
+        mode="r",
+        shape=(n_train, ndim),
+    )
+
+    x_test_path = data_dir / "X_test.dat"
+    y_test_path = data_dir / "y_test.dat"
+    y_test = np.memmap(str(y_test_path), dtype=np.float32, mode="r")
+    n_test = y_test.shape[0]
+    x_test = np.memmap(
+        str(x_test_path),
+        dtype=np.float32,
+        mode="r",
+        shape=(n_test, ndim),
+    )
+
+    x_train, y_train = shuffle(x_train, y_train, random_state=seed)
+    return x_train, x_test, y_train, y_test
+
+
 def get_ember_data(data_dir, seed=42):
+    data_dir = Path(data_dir)
+    if _has_memmap_ember_data(data_dir):
+        logger.info("Loading local EMBER memmaps from %s", data_dir)
+        return _load_local_ember_memmaps(data_dir, seed=seed)
+
+    if ember is None:
+        raise ImportError(
+            "ember package is not installed and no local EMBER memmaps were found "
+            "at %s" % data_dir
+        )
+
+    logger.info("Loading EMBER data through ember package from %s", data_dir)
     emberdf = ember.read_metadata(data_dir)
     X_train, y_train, X_test, y_test = ember.read_vectorized_features(data_dir)
 
@@ -97,26 +186,28 @@ def train_surrogate(target, data_path, save_model_path, seed):
 
     if target in ['ember', 'custom']:
         logging.debug(f"Loading ember data and model")
-        X_train, X_test, y_train, y_test = get_ember_data('/data/mari/ember2018')
+        ember_data_dir = _resolve_ember_data_dir()
+        X_train, X_test, y_train, y_test = get_ember_data(ember_data_dir, seed=seed)
         target_model = lgb.Booster(model_file=os.path.join(save_model_path, 'ember_model.txt'))
         target_model.params["objective"] = 'binary'
         num_boosting_rounds = 200
     elif target == 'sorel':
         logging.debug(f"Load sorel data and model")
-        X_train, X_test, y_train, y_test = get_sorel_data('/data/mari/sorel-data')
+        X_train, X_test, y_train, y_test = get_sorel_data(str(DEFAULT_SOREL_DATA_DIR))
         target_model = lgb.Booster(model_file=os.path.join(save_model_path, 'sorel.model'))
         target_model.params["objective"] = 'binary'
         num_boosting_rounds = 648
-    elif target == 'SorelFFNN':
+    elif target == 'sorelFFNN':
         from sorel_net import SorelFFNN
 
         logging.debug(f"Load sorel data and model")
-        X_train, X_test, y_train, y_test = get_sorel_data('/data/mari/sorel-data')
+        X_train, X_test, y_train, y_test = get_sorel_data(str(DEFAULT_SOREL_DATA_DIR))
         target_model = SorelFFNN(model_file='malware_rl/envs/utils/sorelFFNN.pt')
         num_boosting_rounds = 584 
     else:
         logging.debug(f"Loading ember data and model")
-        X_train, X_test, y_train, y_test = get_ember_data('/data/mari/ember2018')
+        ember_data_dir = _resolve_ember_data_dir()
+        X_train, X_test, y_train, y_test = get_ember_data(ember_data_dir, seed=seed)
         num_boosting_rounds = 500
         # target_model = 
 
@@ -237,4 +328,3 @@ def evaluate_surrogate(y_proba, y_pred_target, y_test, fpr_target):
     logging.info(f"Confusion matrix: {conf_mat}")
 
     return thresh
-
