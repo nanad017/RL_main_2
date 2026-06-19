@@ -12,8 +12,14 @@ STOKE_PYTHON="${STOKE_PYTHON:-/home/rl/miniconda3/envs/sorel-malware-detector/bi
 STOKE_WORKER="${STOKE_WORKER:-$ROOT_DIR/malware_rl/envs/controls/stoke_worker.py}"
 STOKE_N="${STOKE_N:-8}"
 STOKE_REWRITES="${STOKE_REWRITES:-proven_v3_cleaned}"
-STOKE_TIMEOUT="${STOKE_TIMEOUT:-60}"
+STOKE_TIMEOUT="${STOKE_TIMEOUT:-1800}"
 STOKE_SEED="${STOKE_SEED:-}"
+FUNCVAL_ALPHA="${FUNCVAL_ALPHA:-0.05}"
+FUNCVAL_CAPE_ENABLED="${FUNCVAL_CAPE_ENABLED:-1}"
+FUNCVAL_CAPE_TRANSPORT="${FUNCVAL_CAPE_TRANSPORT:-auto}"
+FUNCVAL_CAPE_GUESTS="${FUNCVAL_CAPE_GUESTS:-win11,win11_2}"
+FUNCVAL_CAPE_REPORT_DIR="${FUNCVAL_CAPE_REPORT_DIR:-cape_reports}"
+FUNCVAL_CAPE_CALIBRATION="${FUNCVAL_CAPE_CALIBRATION:-}"
 
 SEED="${SEED:-39720}"
 NUM_QUERIES="${NUM_QUERIES:-4096}"
@@ -40,6 +46,12 @@ export STOKE_WORKER
 export STOKE_N
 export STOKE_REWRITES
 export STOKE_TIMEOUT
+export FUNCVAL_ALPHA
+export FUNCVAL_CAPE_ENABLED
+export FUNCVAL_CAPE_TRANSPORT
+export FUNCVAL_CAPE_GUESTS
+export FUNCVAL_CAPE_REPORT_DIR
+export FUNCVAL_CAPE_CALIBRATION
 export MALWARE_RL_TRAIN_DIR
 export MALWARE_RL_TEST_DIR
 if [[ -n "${STOKE_SEED}" ]]; then
@@ -75,6 +87,12 @@ STOKE_N=$STOKE_N
 STOKE_REWRITES=$STOKE_REWRITES
 STOKE_TIMEOUT=$STOKE_TIMEOUT
 STOKE_SEED=${STOKE_SEED:-<unset>}
+FUNCVAL_ALPHA=$FUNCVAL_ALPHA
+FUNCVAL_CAPE_ENABLED=$FUNCVAL_CAPE_ENABLED
+FUNCVAL_CAPE_TRANSPORT=$FUNCVAL_CAPE_TRANSPORT
+FUNCVAL_CAPE_GUESTS=$FUNCVAL_CAPE_GUESTS
+FUNCVAL_CAPE_REPORT_DIR=$FUNCVAL_CAPE_REPORT_DIR
+FUNCVAL_CAPE_CALIBRATION=${FUNCVAL_CAPE_CALIBRATION:-<uncalibrated>}
 SEED=$SEED
 NUM_QUERIES=$NUM_QUERIES
 NUM_EPISODES=$NUM_EPISODES
@@ -124,8 +142,14 @@ import sys
 print("STOKE runtime:", sys.version.split()[0])
 print("stoke_actions:", bool(importlib.util.find_spec("stoke_actions")))
 print("capstone:", bool(importlib.util.find_spec("capstone")))
+print("funcval:", bool(importlib.util.find_spec("funcval")))
 if not importlib.util.find_spec("stoke_actions"):
     raise SystemExit("stoke_actions is missing in STOKE_PYTHON env")
+if not importlib.util.find_spec("funcval"):
+    raise SystemExit("funcval is missing in STOKE_PYTHON env")
+from funcval.cape.cape_cli_client import CapeCliClient
+from funcval.oracles.behavioral import BehavioralOracle
+print("funcval CAPE imports: ok")
 PY
 }
 
@@ -212,8 +236,14 @@ Common overrides:
   export STOKE_WORKER=/path/to/stoke_worker.py
   export STOKE_N=8
   export STOKE_REWRITES=proven_v3_cleaned
-  export STOKE_TIMEOUT=60
+  export STOKE_TIMEOUT=1800
   export STOKE_SEED=39720
+  export FUNCVAL_ALPHA=0.05
+  export FUNCVAL_CAPE_ENABLED=1
+  export FUNCVAL_CAPE_TRANSPORT=auto
+  export FUNCVAL_CAPE_GUESTS=win11,win11_2
+  export FUNCVAL_CAPE_REPORT_DIR=cape_reports
+  export FUNCVAL_CAPE_CALIBRATION=/path/to/behavioral_calibration.json
   export SEED=39720
   export NUM_QUERIES=4096
   export NUM_EPISODES=300

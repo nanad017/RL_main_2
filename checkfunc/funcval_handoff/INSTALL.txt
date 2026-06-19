@@ -1,0 +1,10 @@
+funcval funcval-0.2.0-py3-none-any.whl — functionality-equivalence validator (handoff)
+conda activate sorel-malware-detector
+pip install /home/rl/stoke_workspace/funcval_handoff/funcval-0.2.0-py3-none-any.whl[proofs]
+python -c "import funcval; print(funcval.FunctionValidator)"
+# sync demo (no sandbox):          python /home/rl/stoke_workspace/funcval_handoff/examples/quickstart.py
+# mutate->verify (stoke_actions):  python /home/rl/stoke_workspace/funcval_handoff/examples/mutate_then_verify.py
+# live CAPE demo (on VM1):         python /home/rl/stoke_workspace/funcval_handoff/examples/behavioral_smoke.py
+# test suite:                      python -m pytest /home/rl/stoke_workspace/funcval_handoff/tests/funcval
+# IMPORTANT: pass bits=32 for i386, bits=64 for x86-64.  See HANDOFF.md + CHANGELOG.md
+#            (0.1.0 was 64-bit-only and unsound on 32-bit; use 0.2.0).
