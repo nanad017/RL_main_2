@@ -41,3 +41,20 @@ def test_changed_stoke_rewrite_accepts_passed_funcval_verdict():
     context = {"changed": True, "funcval": {"ran": True, "passed": True}}
 
     assert check_functional_integrity(sample, "stoke_rewrite", context) is True
+
+
+def test_can_disable_stoke_funcval_gate(monkeypatch):
+    fixtures = (
+        Path(__file__).parents[1]
+        / "malware_rl"
+        / "envs"
+        / "controls"
+        / "ls"
+        / "trusted"
+    )
+    sample = next(fixtures.glob("*.EXE")).read_bytes()
+    context = {"changed": True, "funcval": {"ran": True, "passed": False}}
+
+    monkeypatch.setenv("MALWARE_RL_DISABLE_STOKE_FUNC_CHECK", "1")
+
+    assert check_functional_integrity(sample, "stoke_rewrite", context) is True
