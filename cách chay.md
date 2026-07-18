@@ -202,16 +202,35 @@ phải khớp seed của model train.
 
 là đường dẫn checkpoint cần test.
 
-Hiện tại `evaluate.py` mặc định chạy khoảng:
+Hiện tại `evaluate.py` mặc định chạy:
 
 ```text
-300 episode
+toàn bộ số mẫu trong custom-test-v0
 ```
 
 trên:
 
 ```text
 custom-test-v0
+```
+
+Với dataset test hiện tại thì số này có thể khoảng `1k7` mẫu. Nếu chỉ muốn chạy thử `300` episode, thêm:
+
+```bash
+--num-episodes 300
+```
+
+Ví dụ:
+
+```bash
+nohup env CUSTOM_DETECTOR_SHARED_ROOT=/home/rl/RL/RL_main_2/data/share \
+  /home/rl/RL/RL_main_2/.venv37_clean/bin/python evaluate.py \
+  --target custom \
+  --seed 39720 \
+  --agent saved_models/ppo-model_rl-custom-train-v0-39720-pre-surrogate-round-1.zip \
+  --num-episodes 300 \
+  > logs/rl_custom_eval.out 2>&1 &
+echo $!
 ```
 
 ## 5. Kiểm tra process

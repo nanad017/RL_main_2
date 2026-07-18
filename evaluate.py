@@ -56,11 +56,24 @@ def evaluate_model(agent_path, env_name, num_episodes, outdir, seed=0):
     print(f"Average of {mean_action_count} moves to evade model.")
         
 
+def get_registered_env_sample_count(env_name):
+    env_specs = gym.envs.registration.registry.env_specs
+    if env_name not in env_specs:
+        return None
+    return len(env_specs[env_name]._kwargs["sha256list"])
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--target", choices=["AV1", "custom"], default="custom")
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--agent", type=str, default="saved_models/ppo-only-sorelFFNN-train-v0-26871.zip")
+    parser.add_argument(
+        "--num-episodes",
+        type=int,
+        default=None,
+        help="Number of test episodes. Defaults to all samples in the registered test split.",
+    )
     
     args = parser.parse_args()
     target = args.target
@@ -71,4 +84,7 @@ if __name__ == "__main__":
     outdir = os.path.join(module_path, "data/logs/ppo-agent-results")
 
     test_env = f"{target}-test-v0"
-    evaluate_model(agent, test_env, 300, outdir, seed)
+    num_episodes = args.num_episodes
+    if num_episodes is None:
+        num_episodes = get_registered_env_sample_count(test_env) or 300
+    evaluate_model(agent, test_env, num_episodes, outdir, seed)
