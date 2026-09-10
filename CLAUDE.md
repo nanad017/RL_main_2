@@ -79,7 +79,7 @@ LightGBM trained on EMBER static dataset + RL-collected queries. RL data weighte
 
 - `ppo_model_extract.py` — main iterative training loop
 - `malware_rl/envs/custom_gym.py` — custom detector gym environment (active training env)
-- `malware_rl/envs/controls/modifier.py` — `ModifyBinary`, `ACTION_TABLE`, all 18 actions
+- `malware_rl/envs/controls/modifier.py` — `ModifyBinary`, `ACTION_TABLE`, all 17 actions
 - `malware_rl/envs/reward.py` — `TierAwareReward`
 - `malware_rl/__init__.py` — env registration, train/test split logic
 - `malware_rl/envs/controls/stoke_bridge.py` + `stoke_worker.py` — STOKE rewrite subprocess bridge

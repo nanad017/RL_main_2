@@ -124,13 +124,12 @@ from malware_rl.envs.controls import modifier
 
 actions = list(modifier.ACTION_TABLE.keys())
 assert actions.index("stoke_rewrite") == 16, actions.index("stoke_rewrite")
-assert "bytecode_swap" in actions
+assert len(actions) == 17, len(actions)
 
 print("Action space (%d actions):" % len(actions))
 for idx, name in enumerate(actions):
     print("%02d %s" % (idx, name))
 print("stoke_rewrite index:", actions.index("stoke_rewrite"))
-print("bytecode_swap index:", actions.index("bytecode_swap"))
 print("CUSTOM_DETECTOR_URL:", os.environ.get("CUSTOM_DETECTOR_URL"))
 print("STOKE_WORKER:", os.environ.get("STOKE_WORKER"))
 PY
@@ -223,7 +222,7 @@ What this script does:
 Important:
   - The action space comes from modifier.ACTION_TABLE at runtime. There is no
     extra switch to "enable all actions"; running custom mode automatically
-    uses the full current action table, including stoke_rewrite and bytecode_swap.
+    uses the full current action table, including stoke_rewrite.
   - If the STOKE env lacks capstone, stoke_actions still runs but may skip the
     instruction-aligned library rewrite pass.
 
