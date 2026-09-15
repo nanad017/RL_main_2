@@ -1,0 +1,1511 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+D$PL
+D$PL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+WVSH
+~4Hc
+_t#H
+ [^_
+ [^_
+AVAUATUWVSH
+l$ H
+D$ H
+D$(H
+D$0H
+tMI9
+@[^_]A\A]A^
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+ATUWVSH
+D$,M
+0[^_]A\
+tAE1
+WVSH
+ [^_
+ATUWVSH
+ [^_]A\
+AVAUATUWVSH
+Hc/H
+ [^_]A\A]A^
+ [^_]A\A]A^
+UWVSH
+tLHc
+([^_]
+([^_]
+UWVSH
+([^_]
+AVAUATUWVSH
+l$ I
+D$0H
+@[^_]A\A]A^
+l$ I
+l$ I
+l$0H
+D$8H
+AUATUWVSH
+l$ I
+H[^_]A\A]
+l$0H
+D$8I
+D$(A
+AUATUWVSH
+8[^_]A\A]
+D$(H
+8[^_]A\A]
+D$(H
+8[^_]A\A]
+D$(H
+WVSH
+)t$@H
+(t$@H
+P[^_
+T$8H
+D$8f
+(t$@
+P[^_
+D$(tKH
+AWAVAUATUWVSH
+l$ M
+[^_]A\A]A^A_
+l$ M
+L$ I
+D$HH
+D$PH
+D$hH
+D$pH
+D$XH
+D$`L
+D$HH
+T$PH
+D$8H
+D$(H
+l$(M
+L$XL
+D$`H
+l$(M
+L$hL
+D$pH
+l$(M
+l$(L
+d$ H
+D$0L
+l$(M
+l$(L
+d$ H
+l$(L
+d$ L
+l$(M
+l$0H
+D$8H
+AWAVAUATUWVSH
+l$ I
+x[^_]A\A]A^A_
+D$hE1
+D$XH
+T$PI
+D$hH
+D$@L9
+D$@A
+D9l$LL
+D$@I
+HcT$LH
+T$PK
+D$hH
+D$@L9
+l$0H
+D$8H
+l$(H
+D$ H
+l$0H
+AUATUWVSH
+l$8D
+d$0H
+H[^_]A\A]
+l$(D
+d$ A
+H[^_]A\A]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+AWAVAUATUWVSH
+D$XH
+D$HH
+D$PH
+D$xH
+D$`H
+D$hf
+[^_]A\A]A^A_
+D$HH
+T$PH
+D$XD
+D$`L
+l$(H
+D$XL
+l$(D
+D$`H
+D$ L
+D$XD
+D$hL
+l$(H
+ED$0
+\$DE
+D$xH
+T$DE
+L$DE
+D$(H
+D$8Hc
+D$8H
+D$(H
+D$0H
+D$0L
+D$0u$I
+D$HH
+T$P1
+L$XD
+t(E1
+WVSH
+tEH9
+D$,u
+tSH9
+0[^_
+0[^_
+UWVSH
+([^_]
+UWVSH
+([^_]
+Hc0H
+([^_]
+t4M9
+AUATUWVSH
+[^_]A\A]
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+D$,H
+AWAVAUATUWVSH
+)t$@
+\$0H
+H+D$0H=
+H;\$(u
+D$<;
+(t$@H
+X[^_]A\A]A^A_
+|$01
+T$0L
+ATUWVSH
+ [^_]A\
+ [^_]A\
+WVSH
+tdE1
+tVE1
+)t$0
+)|$@D
+)D$PH
+(t$0
+(|$@D
+(D$PH
+\d$(
+ATUWVSH
+|$ E1
+[^_]A\
+|$ E1
+|$ H
+UWVSH
+([^_]
+AUATUWVSH
+8[^_]A\A]
+D$ L
+8[^_]A\A]
+WVSH
+\$ E1
+UWVSH
+([^_]
+T$ H
+T$(A
+D$(H9D$ 
+T$8A
+UWVSH
+|$8A
+[^_]
+[^_]
+	vSH
+\$@A
+gGeEfD
+|$@1
+l$ A
+|$@1
+|$B2
+|$B2
+WVSH
+)t$0
+L$(A
+(t$0H
+@[^_
+WVSH
+)t$0
+)|$@D
+)D$PH
+T$,D
+(t$0
+(|$@D
+(D$PH
+`[^_
+AUATUWVSH
+|$ H
+[^_]A\A]
+WVSH
+t$ H
+ATUWVSH
+[^_]A\
+[^_]A\
+AWAVAUATUWVSH
+D$ld
+t$tL
+l$pL
+d$lH
+l$xH
+D$PH
+D$XH
+D$PL
+t$HH
+t$@L
+l$8L
+d$0H
+l$(I
+T$ H
+D$PH;D$Xu
+D$xL
+|$tL
+t$pL
+l$lH
+D$PL
+t$HL
+|$@L
+t$8L
+l$0H
+D$(H
+D$ L
+D$PL
+t$HL
+|$@L
+t$8L
+l$0H
+D$(H
+D$xL
+|$tL
+t$pL
+l$lH
+D$Pf
+D$PI
+t$HL
+|$@H
+t$8L
+l$0H
+D$(I
+D$ M
+HcT$tH
+L$xL
+D$t1
+D$xH
+l$xH
+9D$p
+9\$p}
+l$xH
+D9d$t
+[^_]A\A]A^A_
+UWVSH
+8[^_]
+/share/u
+nits/deff
+initions
+.uniH
+P Hc
+/share/uH
+nits/def
+.uniH
+initions
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+D$0H
+D$(H
+AWAVAUATUWVSH
+l$ H
+T$4D
+HcT$4H
+L$8D
+D$0H
+90uu
+X[^_]A\A]A^A_
+UWVSH
+8[^_]
+L$$L
+D$(H
+HcD$$
+HcD$$@
+T$(H
+8[^_]
+T$(H
+AWAV
+AUATUWVS
+D$0H
+D$(M
+T$(L
+[^_]A\A]A^A_
+D$,t
+WVSH
+ [^_
+AVAU
+ATUWVS
+t$ L
+t$ L
+</tDI
+[^_]A\A]A^
+AWAVAUATUWVSH
+|$8fA
+t$8t
+[^_]A\A]A^A_
+L$(A
+WVSH
+T$ H
+D$hH
+L$xH
+T$pI
+L$`L
+L$XH
+T$PH
+D$HL
+L$@H
+T$8L
+L$0H
+T$(L
+WVSH
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+UWVSH
+x[^_]
+/share/u
+nits/locH
+ale.map
+)t$ f
+(t$ H
+WVSH
+\$ H
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+t.A8
+T$8H
+T$(u
+T$(u
+D$ H
+D$ H
+t[Lc
+AWAVAUATUWVSH
+d$`H
+\$(M
+D$@fD
+d$ f
+T$(K
+H;t$ t
+D$8O
+d$(L
+[^_]A\A]A^A_
+T$PH
+D$8E
+D$4H
+D$PH
+L$@L
+L$HD
+D$8fA
+D$8f
+d$ H
+d$ 1
+d$ L
+AUATUWVSH
+HcT$8H
+D$ A
+X[^_]A\A]
+T$0H
+X[^_]A\A]
+AUATUWVSHc
+~LD9
+~)Hc
+[^_]A\A]
+~4Hc
+AWAVAUATUWVSH
+D$4H
+D$@I
+|$HH
+D$ZtaD
+D$ZA8
+L$8H
+D$4H
+h[^_]A\A]A^A_
+|$\M
+D$@I
+|$ A
+|$Z-A
+L$[A8
+D$8I
+\$ I
+D$4H
+D$[L
+D$[L
+D$HI
+D$@I
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-!O
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;57L
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+D$PL
+L$LH
+D$8H
+T$PH
+T$PH
+D$ H
+t$ I
+D$ H
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+)t$P
+)|$`
+D$Hf
+(t$P
+(|$`H
+|$ H
+(t$P
+(|$`H
+(t$P
+(|$`H
+|$ f
+(t$P
+(|$`H
+t$ H
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$p
+D$8H
+\$0f
+T$0H
+(t$pH
+t\fH
+\$0f
+T$0H
+WVSH
+D$pfD
+D$tf
+t$ f
+t)fL
+\$hfE
+t$PH
+|$@fA
+l$PH
+\$PH
+t$@fD
+\$hfE
+t,fH
+\$hfE
+ttfH
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+(HcA
+AWAVAUATUWVSH
+T$<L
+T$<A)
+T$8H
+T$8H
+D$<A)
+H[^_]A\A]A^A_
+T$8H
+D$<H
+T$8H
+T$<H
+T$<H
+AWAVAUATUWVSH
+D$@H
+[^_]A\A]A^A_
+0u%H
+D$PL
+T$HI
+	w:M
+\$\G
+\$HD
+\$\L
+D$HL+D$PI
+T$DE
+L$XE)
+|$lt
+|$lt
+D$lf
+|$@5
+HcL$h
+	w4E
++D$@
+9D$P
+t$ A
+D$pH
+T$Hu
+9D$@
+L$DH
+L$P9
+t$`E
+9D$Hu1
+d$DE
+t$pA
+T$xL
+D$\D
++\$@)
+9\$P~
++\$P
+D$`H
+L$DE
+9D$@
+t$\)
+T$P9
+D$@~:E
+D$@1
+~"Hc
+|$@H
+D$XL
+l$@)
+L$h)
+9T$P
+D$@H
+T$XE
+\$XE
+\$DE
+T$PA
+D$PA
+T$DE
+T$@9T$H
+9T$P
+AUATUWVSH
+([^_]A\A]
+)t$P
+)|$`
+D$Hf
+L$HA
+tofH
+(t$P
+(|$`H
+T$<f
+(t$P
+(|$`H
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+D$4f
+D$0A
+D$8A
+l$ f
+L$ f
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B:T 
+UWVSH
+[^_]
+[^_]
+AWAVAUATUWVSH
+D$<H
+T$0H
+D$(M
+D$(M9
+H[^_]A\A]A^A_
+D$0H
+D$0H
++L$<H
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+WVSH
+)t$@H
+T$8H
+T$<H
+D$8+D$<fH
+~>fH
+(t$@H
+P[^_
+uFI9
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+AWAVAUATUWVSH
+t$`D
+|$hI
+D$XH
+t$\H
+D$8H
+D$TH
+t$ H
+L$8L
+D$0I
+L$hH
+l$LL
+|$`L
+T$`H
+D$`H
+L$hH
+T$hH
+|$hL
+L$`H
+T$`H
+L$`H
+L$`H
+L$`H
+L$`L
+D$hL
+T$hH
+D$0t6H
+L$`H
+L$`H
+L$`L
+L$\D
+D$XH
+%s: memory allocation error %s
+%s: memory allocation error (growbuffer)
+(dupstr)
+!dimensionless
+(completeunits)
+%s: unit '%s' on line %d of '%s' ignored.  It starts or ends with '_'
+.,23456789
+%s: unit '%s' on line %d of '%s' ignored.  %s
+%s: unit '%s' on line %d of '%s' ignored.  It starts with a digit
+%s: unit '%s' defined on line %d of '%s' is redefined on line %d of '%s'.
+(newunit)
+%s: prefix '%s-' defined on line %d of '%s' is redefined on line %d of '%s'.
+(newprefix)
+%s: expecting '[' in definition of '%s' in '%s' line %d
+%s: unexpected characters before '[' in definition of '%s' in '%s' line %d
+%s: expecting ']' in definition of '%s' in '%s' line %d
+(extract_interval)
+%s: unit '%s' on line %d of '%s' ignored.  It starts with a '('
+%s: function '%s' on line %d of '%s' ignored.  It starts with a digit
+%s: bad function definition of '%s' in '%s' line %d
+%s: keyword '%s' repeated in definition of '%s' on line %d of '%s'.
+%s: domain decreasing in definition of '%s' in '%s' line %d
+%s: malformed domain in definition of '%s' in '%s' line %d
+%s: range decreasing in definition of '%s' in '%s' line %d
+%s: malformed range in definition of '%s' in '%s' line %d
+%s: function '%s' missing keyword before '[' on line %d of '%s'
+%s: function '%s' defined on line %d of '%s' is redefined on line %d of '%s'.
+(newfunction)
+%s: unit '%s' on line %d ignored.  It starts with a digit
+%s: missing ']' in units file '%s' line %d
+%s: unexpected characters after ']' in units file '%s' line %d
+(newtable)
+%s: memory allocation error (newtable)
+%s: points don't increase (%.8g to %.8g) in units file '%s' line %d
+%s: missing value after %.8g in units file '%s' line %d
+%s: unit list missing '%c' on line %d of '%s'
+%s: unit list '%s' defined on line %d of '%s' is redefined on line %d of '%s'.
+(newalias)
+%s: %s on line %d of '%s'
+%s: error in units file '%s' line %d
+varnot
+%s: no variable name specified on line %d of '%s'
+%s: no value specified on line %d of '%s'
+%s: nested var statements not allowed, line %d of '%s'
+%s: environment variable %s not set at line %d of '%s'
+endvar
+%s: unmatched !endvar on line %d of '%s'
+locale
+%s: no locale specified on line %d of '%s'
+%s: nested locales not allowed, line %d of '%s'
+endlocale
+%s: unmatched !endlocale on line %d of '%s'
+utf8
+%s: nested utf8 not allowed, line %d of '%s'
+endutf8
+%s: unmatched !endutf8 on line %d of '%s'
+message
+unitlist
+include
+%s: max include depth of %d exceeded in file '%s' line %d
+%s: missing include filename on line %d of '%s'
+(readunits)
+%s: unable to open included file '%s' at line %d of file '%s
+%s: unit name without a definition at line %d of file '%s'
+%s%d
+%sinterpolated table with points
+		    
+) = 
+%s%s(%s) = %s
+%sunit list, 
+conformability error
+: conversion requires dimensions of '%s'
+	%s = 
+	%s = 
+Value '%s' is not in the function's range
+Function evaluation error (bad function definition)
+	%s = %s(
+conformability error
+%s: invalid significant digits (%s)--integer value or 'max' required
+%s: number of significant digits must be positive
+%s: too many significant digits (%d)--using maximum value (%d)
+(setnumformat)
+%%.%d%c
+(parsenumformat)
+%.1F
+0x1p+1
+%'.0f
+%s: number format specification must start with '%%'
+%s: only one '%%' allowed in number format specification
+%s: only one '.' allowed in number format specification
+%s: digit-grouping flag (') not supported
++-# 0'
+%s: type length modifier (%.2s) not supported
+hjLltz
+%s: type length modifier (%c) not supported
+ABCDEFGHIJKLMNOPQRSTUVWXYXabcdefghijklmnopqrstuvwxyx.01234567890
+%s: invalid character (%c) in width, precision, or type
+%s: invalid number format specification (%s)
+%s: valid specification is %%[flags][width][.precision]type
+%s: missing format type
+%s: invalid character(s) (%s) after format type
+%s: invalid format type (%c)--valid types are [%s]
+FfGg
+(round_to_displayed)
+1234567890
+ (%s)
+ * %s
+1 / 
+1 / (
+reciprocal conversion
+	%s%s%s = (1 / 
+	%s%s%s = 
+doing function '%s'
+Table '%s' has only one data point
+Table '%s' lacks unique inverse around entry %.8g
+Function '%s' has invalid type '%s'
+kg^3
+Error in definition %s(%s) as '%s'
+Definition %s(%s) as '%s' is irreducible
+Warning: no inverse for function '%s'
+Error in inverse ~%s(%s) as '%s'
+Inverse is not the inverse for function '%s'
+%s: memory allocation error (addtolist)
+<primitive unit>
+(tryallunits)
+<piecewise linear>
+<nonlinear>
+No matching units found.
+Usage: %s [options] ['from-unit' 'to-unit']
+Options:
+    -h, --help           show this help and exit
+    -c, --check          check that all units reduce to primitive units
+        --check-verbose  like --check, but lists units as they are checked
+        --verbose-check    so you can find units that cause endless loops
+    -d, --digits         show output to specified number of digits (default: %d)
+    -e, --exponential    exponential format output
+    -f, --file           specify a units data file (-f '' loads default file)
+    -l, --locale         specify a desired locale
+    -m, --minus          make - into a subtraction operator (default)
+        --oldstar        use old '*' precedence, higher than '/'
+        --newstar        use new '*' precedence, equal to '/'
+    -n, --nolists        disable conversion to unit lists
+    -S, --show-factor    show non-unity factor before 1|x in multi-unit output
+    -o, --output-format  specify printf numeric output format (default: %%.%d%c)
+    -p, --product        make '-' into a product operator
+    -q, --quiet          suppress prompting
+        --silent         same as --quiet
+    -s, --strict         suppress reciprocal unit conversion (e.g. Hz<->s)
+    -v, --verbose        show slightly more verbose output
+        --compact        suppress printing of tab, '*', and '/' character
+    -1, --one-line       suppress the second line of output
+    -t, --terse          terse output (--strict --compact --quiet --one-line)
+    -r, --round          round last element of unit list output to an integer
+    -V, --version        show version number and exit
+To learn about the available units look in %s
+Report bugs to adrianm@gnu.org.
+/share/units/definitions.units
+Try '%s --help' for more information.
+UNITSFILE
+(findunitsfile)
+PATH
+MYUNITSFILE
+%s: cannot open units file (%s) specified in MYUNITSFILE environment variable
+HOME
+HOMEDRIVE
+HOMEPATH
+(personalunitsfile)
+without utf8
+with readline
+2.02
+GNU Units version %s
+%s, %s, locale %s,
+Units database in %s
+Personal units file in %s
+Copyright (C) 2012 Free Software Foundation, Inc.
+GNU Units comes with ABSOLUTELY NO WARRANTY.
+You may redistribute copies of GNU Units
+under the terms of the GNU General Public License.
+At most %d -f specifications are allowed
+Too many arguments (arguments are not allowed with -c).
+Too many arguments (maybe you need quotes).
+Unit list not allowed
+Error in '%s': 
+ '%s'
+Error: blank unit not allowed
+Error in unit list entry: %s
+doing unit list '%s'
+Unit list '%s' contains errors
+Unit list '%s' hides a unit definition.
+Unit list '%s' hides a function definition.
+doing '%s'
+Unit '%s' hidden by function '%s'
+'%s' defined as '%s' irreducible
+'%s': replace '-' with '+-' for subtraction or '*' to multiply
+'%s-' defined as '%s' irreducible
+'%s-' defined as '%s' contains a bad '/'. (Add parentheses.)
+ (rounded up to nearest %s) 
+ (rounded down to nearest %s) 
+%c%c
+search
+Type 'search text' to see a list of all unit names 
+containing 'text' as a substring
+help
+Units converts between different measuring systems and    %s6 inches
+acts as a units-aware calculator.  At the '%s'    %scm
+prompt, type in the units you want to convert from or             * 15.24
+an expression to evaluate.  At the '%s' prompt,           / 0.065
+enter the units to convert to or press return to see
+the reduced form or definition.                           %stempF(75)
+                                                          %stempC
+The first example shows that 6 inches is about 15 cm              23.889
+or (1/0.065) cm.  The second example shows how to
+convert 75 degrees Fahrenheit to Celsius.  The third 	  %sbu^(1/3)
+example converts the cube root of a bushel to a list   	  %sft;in
+of semicolon-separated units.                        	          1 ft + 0.9 in
+To quit from units type Ctrl-%s or Ctrl-C.       %s2 btu + 450 ft lbf
+			                        %s(kg^2/s)/(day lb/m^2)
+At the '%s' prompt type '%s' to get a            * 1.0660684e+08
+list of conformable units.  At either prompt you        / 9.3802611e-09
+type 'help myunit' to browse the units database
+and read the comments relating to myunit or see         %s6 tbsp sugar
+other units related to myunit.  Typing 'search          %sg
+text' will show units whose names contain 'text'.               * 75
+                                                                / 0.013333333
+Unknown unit '%s'
+%s +%d %s
+%s: unable to invoke pager '%s' to display help
+LC_CTYPE
+LANG
+en_US
+Unit list definition contains errors.
+/share/units/locale.map
+(localmap)
+%s: Unable to read locale map '%s'
+.units
+unitdef.units
+ 	+-*/()|^;
+%s: unable to open units file '%s'.  
+%d units, %d prefixes, %d nonlinear units
+PAGER
+more
+%s%s
+version
+quiet
+silent
+exponential
+digits
+output-format
+check
+check-verbose
+verbose-check
+verbose
+file
+strict
+terse
+round
+compact
+minus
+nolists
+show-factor
+product
+one-line
+oldstar
+newstar
+VvqechSstf:o:d:mnpr1l:
+invalid/nonprinting UTF-8
+Successful completion
+Parse error
+Product overflow
+Unit reduction error (bad unit definition)
+Illegal sum or difference of non-conformable units
+Unit not dimensionless
+Unit not a root
+Unknown unit
+Bad argument
+Weird nonlinear unit type (bug in program)
+Function argument has wrong dimension
+Argument of function outside domain
+Nonlinear unit definition has unit error
+No inverse defined
+Parser memory overflow (recursive function definition?)
+Argument wrong dimension or bad nonlinear unit definition
+Unable to open units file
+Units file contains errors
+Memory allocation error
+Malformed number
+Unit name ends with nonzero digit without preceding '_'
+0123456789.,
+	Definition: 
+You want: 
+You have: 
+units=
+domain=
+range=
+C333333
+(getnewunit)
+radian
+.,0123456789
+~;+-*/|	
+^ ()
+23456789
+(yylex)
+sqrt
+cuberoot
+log2
+acos
+atan
+asin
+"#$%&
+"#$%&
+-./01+'"%&(2,
+POSIXLY_CORRECT
+%s: option `%s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `%c%s' doesn't allow an argument
+%s: option `%s' requires an argument
+%s: unrecognized option `--%s'
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: invalid option -- %c
+%s: option requires an argument -- %c
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+?Q0-
+inity
+__powi
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+ABCDEF
+abcdef
+0123456789
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleFileNameA
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_pclose
+_popen
+_unlock
+abort
+acos
+asin
+atan
+calloc
+exit
+fclose
+feof
+fflush
+fgets
+fopen
+fprintf
+fputc
+fputs
+free
+fwrite
+getenv
+localeconv
+log10
+malloc
+memcpy
+perror
+putc
+putchar
+puts
+qsort
+realloc
+setlocale
+signal
+strcat
+strchr
+strcmp
+strcpy
+strcspn
+strerror
+strlen
+strncmp
+strncpy
+strpbrk
+strrchr
+strspn
+strstr
+strtok
+strtol
+system
+tolower
+ungetc
+vfprintf
+wcslen
+_putenv
+add_history
+readline
+rl_basic_word_break_characters
+rl_completion_entry_function
+KERNEL32.dll
+msvcrt.dll
+libreadline6.dll

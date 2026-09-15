@@ -1,0 +1,547 @@
+!This program cannot be run in DOS mode.
+z$sd)$sd)$sd)-
+)%sd)
+)'sd)
+)0sd)$se)
+)#sd)
+)6sd)
+)%sd)
+)%sd)Rich$sd)
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+K SUVWH
+8_^][
+T$`3
+D$PM
+fA;z*
+fA9z*v,A
+J0A+
+\$0H
+D$PH
+T$(L
+\$,I
+D$ M
+D$@L
+L$ L
+\$0A
+T$8H
+\$<H
+L$PH3
+D$@H
+fA9<@u
+T$(L
+|$,I
+D$ M
+fA9<Iu
+L$ L
+\$0A
+T$8H
+L$@H3
+\$`H
+M'H3
+\$0H
+t$8H
+D$xL
+D$0L
+T$(L
+|$ UATAUAVAWH
+fA9;t
+D$ L
+\$pI
+A_A^A]A\]
+D$ E3
+D$(L
+D$ H
+D$(L
+D$ H
+\$PH
+UVWATAUAVAWH
+L$BE
+L$HD
+L$AD
+L$DD
+|$lD
+L$`D
+L$PD
+L$xD
+L$|H
+D$h9D$pt
+8\$@t
+T$lH
+8\$Bt
+T$dH
+t$HH
+\$HH
+A_A^A]A\_^]
+;E$tEH
+L$8E3
+L$0H
+L$(L
+D9MD
+L$P;L$P
+L$PH
+D$0L
+D$(H
+d$AH
+L$`L
+|$HM
+\$HI
+D$HI
+\$HH
+T$PH
+T$ I
+\$XL
+fF94Au
+fD94Cu
+L$XH
+T$XL
+T$HH
+t$XM
+\$XI
+\$HH
+8\$xt
+T$|H
+t$XM
+\$XI
+8\$At9D
+t$`E
+UVWH
+L$xf
+L$PL
+\$HH
+t$`H
+D$HD
+D$8H
+T$@L
+D$XE3
+D$0L
+L$0H
+D$0H
+L$8L
+L$@H
+L$8H
+k VWAVH
+D$x3
+D$8H
+l$0H
+D$XL
+D$XH
+l$`A
+l$(H
+D$ L
+t$HL
+D$hL
+L$xH3
+A^_^
+89:u!
+t$8H
+t$8H
+VWAVH
+|$@H
+\$HH
+l$PH
+ A^_^
+D$(H
+t$fE9
+D$(L
+L$ D
+t f9:u
+f9<Bu
+t	f9:I
+t f98u
+f9<Hu
+t	f98I
+fA99t
+fC9<Au
+fA99M
+|$pL
+|$hL
+D$`L
+|$XL
+D$PL
+\$HH
+L$8H
+D$0L
+T$(L
+L$ D
+9wXv?H
+;wXr
+\$0H
+t$8H
+|$@H
+\$0H
+\$0H
+UVWATAUAVAWH
+m@fD
+D9iHt
+|$ L
+H9EPs
+H9MPs
+A_A^A]A\_^]
+t$ WH
+T$0H
+l$@H
+t$HH
+\$8H
+@USVWAUAVAWH
+D$0H
+D$(H
+A_A^A]_^[]
+p AWH
+\$0H
+t$8H
+|$@L
+t$HH
+\$0H
+x UATAUAVAWH
+D9oPt
+D$8E3
+D$0H
+D$(L
+t$ D
+D9nTtEH
+A_A^A]A\]
+UVWATAUAVAWH
+T$@H
+l$@A
+H!t$(E3
+!t$ 3
+H!|$ E3
+PA_A^A]A\_^]
+092u)
+[1uB
+t$8H
+t$8H
+f9,yu
+l$0H
+L$@H
+L$(L
+L$PH
+D$@H
+P;|$@r
+D$PH
+tNSH
+\$0H
+\$0H
+p WATAUAVAWH
+I(H;
+T$@A
+|$@H
+l$ H
+l$(L
+l$ H
+A_A^A]A\_
+|$ UATAUAVAWH
+L9i 
+L9*u
+L9j t
+A;F(r
+F4A;V,r
+M0E8n<t
+t+L+
+fB94hu
+D$ I
+G I;
+t+M+
+t6@8}0u
+F,A8~<t
+t$pH
+|$xH
+0A_A^A]A\]
+|$ UATAUAVAWH
+q8E3
+L9i t
+x}D8n<t
+\$pI
+A_A^A]A\]
+{ ATAVAWH
+T$@H
+D9t$@t
+~H!t$(E3
+!t$ 3
+tAH!|$ E3
+A_A^A\
+89:u!
+t$8H
+t$8H
+t$ WH
+T$0H
+\$8H
+l$@H
+t$HH
+D$@H
+t$SH
+s WH
+T$ H
+L$0H3
+\$XH
+l$`H
+t$hH
+D$`E3
+T$TM
+D$HE
+D$P3
+D$XI
+L$`H3
+t$ WH
+L$@H
+\$0H
+l$8H
+t$HH
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+D$ H
+T$(A
+\$0H
+D$Pf
+T$ A
+L$PH3
+UVWH
+\$pH
+P_^]
+H!\$ D
+\$PH
+|$hH
+UVWH
+\$pH
+P_^]
+D$8H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+x AVH
+l$8H
+t$@H
+|$HH
+M(E3
+B 9!
+n8rLE
++G-f
+WofShouldCompressBinaries
+%\\[
+RSDS
+ByteCodeGenerator.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+_purecall
+_vsnwprintf_s
+exit
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+LocalFree
+api-ms-win-downlevel-kernel32-l2-1-0.dll
+RtlSubscribeWnfStateChangeNotification
+RtlUnsubscribeWnfNotificationWaitForCompletion
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+ExitProcess
+OpenProcessToken
+TraceMessage
+CoUninitialize
+GetCurrentProcess
+RpcServerInqBindings
+RpcObjectSetType
+GetTokenInformation
+EventWrite
+RpcServerListen
+GetTraceEnableFlags
+RpcEpRegisterW
+RpcMgmtStopServerListening
+RegQueryValueExW
+EventUnregister
+GetTraceLoggerHandle
+GetLastError
+RegGetValueW
+RpcBindingVectorFree
+UnregisterTraceGuids
+CoTaskMemFree
+UuidFromStringW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+RpcServerRegisterIf3
+RegOpenKeyExW
+RpcServerUnregisterIf
+EventRegister
+RpcServerUseProtseqEpW
+CoInitializeEx
+GetTraceEnableLevel
+GetFileAttributesExW
+CloseHandle
+RegCloseKey
+RegisterTraceGuidsW
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+TerminateProcess
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-core-com-l1-1-1.dll
+RPCRT4.dll
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+CreateUri
+urlmon.dll
+memcpy_s
+RtlEnumerateGenericTableAvl
+RtlInitializeGenericTableAvl
+RtlNumberGenericTableElementsAvl
+RtlInsertElementGenericTableAvl
+RtlEnumerateGenericTableWithoutSplayingAvl
+RtlDeleteElementGenericTableAvl
+RtlConvertSidToUnicodeString
+RtlFreeUnicodeString
+RtlAllocateHeap
+RtlReAllocateHeap
+RtlFreeHeap
+RtlReportException
+NtQuerySystemInformation
+NtQueryInformationThread
+NtSetInformationThread
+CoCreateInstance
+CreateFileW
+CreateFileMappingW
+MapViewOfFile
+CoTaskMemAlloc
+GetFileSizeEx
+CompareStringOrdinal
+DuplicateHandle
+WriteFile
+SetFilePointer
+SetEndOfFile
+CompareStringEx
+UnmapViewOfFile
+LoadLibraryExW
+GetProcAddress
+DeviceIoControl
+FreeLibrary
+OpenThreadToken
+GetCurrentThread
+ImpersonateLoggedOnUser
+RevertToSelf
+DebugBreak
+RaiseException
+NdrServerCall2
+NdrServerCallAll
+OLEAUT32.dll
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-debug-l1-1-1.dll
+CoInternetParseIUri
+memcmp
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="ByteCodeGenerator"
+    type="win32"
+<description>Bytecode Generator</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+         <requestedPrivileges>
+             <requestedExecutionLevel
+                 level="asInvoker"
+                 uiAccess="false"/>
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>

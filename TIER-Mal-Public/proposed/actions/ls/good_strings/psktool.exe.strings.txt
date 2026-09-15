@@ -1,0 +1,1750 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+D$PL
+D$PL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+AWAV
+AUATUWVS
+l$`L
+T$ L
+[^_]A\A]A^A_
+UWVSH
+([^_]
+WVSH
+ [^_
+D$PL
+D$PL
+L$XL
+AUATUWVSH
+8[^_]A\A]
+T$(E1
+H;l$(A
+D$(I
+T$(A
+Gti~m
+D$(L
+tAH)
+ATUWVSH
+t$PH
+ [^_]A\
+L$XL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+AWAVAUATUWVSH
+D$8H
+X[^_]A\A]A^A_
+d$@L
+D$8H
+D$8H
+D$8H
+D$ L
+AWAVAUATUWVSH
+T$(E1
+wGI9
+8[^_]A\A]A^A_
+<-t H
+AUATUWVSH
+l$0L
+d$(H
+l$ A
+H[^_]A\A]
+D$PL
+D$PL
+L$XL
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+<t H
+t&H9
+ [^_]A\
+tyvR
+L$(H
+AWAVAUATUWVSH
+L$(L
+L$8H
+T$8A
+|$8H
+L$(L
+H[^_]A\A]A^A_
+UWVSH
+t$ I
+\$ H
+D$ H
+8[^_]
+\$(1
+T$(A
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+\$(H
+l$"H
+|$(H
+t$ A
+t$(f
+t$(f
+T$ H
+t$(f
+T$ H
+AUATUWVSH
+E5f[
+t$ E
+8[^_]A\A]
+UWVSH
+fA;B
+H[^_]
+H[^_]
+l$ H
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+T$,H
+T$,H
+WVSH
+ [^_
+ [^_
+ [^_
+@t4D
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+8-u7
+8-tt
+ATUWVSH
+H+FxH
+H+FxH
+L+fxH
+ [^_]A\
+AUATUWVSH
+<:B8<
+([^_]A\A]
+([^_]A\A]
+UWVSH
+tNLc
+([^_]
+t;Lc
+AWAVAUATUWVSH
+t$8A
+X[^_]A\A]A^A_
+L$HA
+xt]H
+T$0L
+t$8H
+UWVSH
+([^_]
+AWAVAUATUWVSH
+}PE1
+}XE9
+t'E1
+hH;l$ u
+D9d$,w!H
+X[^_]A\A]A^A_
+l$0D
+AVAUATUWVSH
+H9C8
+CHtqH
+ [^_]A\A]A^
+AWAVAUATUWVSH
+l$@H
+H;\$8tWH
+H;\$8u
+h[^_]A\A]A^A_
+AWAVAUATUWVSH
+l$0H
+D$6f%
+[^_]A\A]A^A_
+D$pH
+D$6f%
+tBH)
+L$pI
+D$6f%
+T$6H
+\$ M
+|$ A
+AWAVAUATUWVSH
+d$0E1
+D$/E1
+D$/A
+$</u2O
+D$/H
+[^_]A\A]A^A_
+ATUWVSH
+0[^_]A\
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$0E
+AWAVAUATUWVSH
+D$8H
+D$@H
+D$0D
+t?D9
+L$8L
+L$0H
+D$(H
+D$0H
+L$8L
+[^_]A\A]A^A_
+L$0L
+L$0L
+AWAVAUATUWVSH
+	w^Mc
+\$(L
+T$ L
+\$(E
+8[^_]A\A]A^A_
+L$(E8
+L$(A
+AWAVAUATUWVSH
+l$0H
+\$01
+L$0A
+\$0D
+\$0D
+huiA
+D$0H
+\$0D
+H[^_]A\A]A^A_
+t$ I
+\$ H
+D$ H
+suKA
+\$(1
+T$(A
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+|$8H
+\$8A
+<:uWA
+\$8H
+|$8H
+t$0L
+D$4A
+D$0H
+t$8f
+T$0H
+t$8f
+T$0H
+UWVSH
+([^_]
+([^_]
+UWVSH
+	wDH
+([^_]
+([^_]
+0uuH
+T$(E1
+T$(1
+u#H9
+UWVSH
+([^_]
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+L$ A
+L$ 1
+AVAUATUWVSH
+D$,H
+\t~E
+0[^_]A\A]A^
+0[^_]A\A]A^
+'tYA
+9w'L
+<*t'</ucH
+t+H9
+AWAVAUATUWVSH
+D$pH
+D$HH
+D$8H
+[^_]A\A]A^A_
+D$TH
+L+t$@I
+L$@H
+D$HH
+T$@H
+T$pH
+L$XL
+L$XM
+T$@H
+T$`L
+L$XL
+T$`<
+tbE1
+T$`L
+L$XL
+T$@L
+L$ M
+T$X<
+L$`H
+T$XL
+T$@L
+L$`J
+L$@H9
+T$hH
+T$`L
+D$XH
+T$`L
+T$hM9
+T$@M
+T$`L
+T$`L
+T$@I
+|$ I
+T$ H
+D$8H
+D$8H
+L$ M
+AWAVAUATUWVSH
+D$XA
+D$8H
+D$`H
+[^_]A\A]A^A_
+L#r 
+I#l$ I
+I#D$ I
+T$8E1
+Hc|$HH
+4?H9
+|$@I
+l$ M
+H!D$0I
+H	D$0
+H1D$0
+H!D$0H
+D$0I
+AWAVAUATUWVSH
+h[^_]A\A]A^A_
+t_L)
+T$ L
+D$&f%
+T$ L
+T$ L
+D$&f%
+@tRH
+AWAVAUATUWVSH
+$tNE
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$ L
+D$&f%
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$@1
+L$8H
+H9S8t.
+hH9P8u
+D$Ff%
+D$XH
+D$XI
+D$XI)
+D$Xt
+P0H9
+@x tvA
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+ [^_
+ATUWVSH
+0[^_]A\
+D$ L
+0[^_]A\H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+GHA)
+8[^_]A\A]A^A_
+\$ H
+D$(H
+@t	H
+WVSH
+ [^_
+AVAUATUWVSH
+ [^_]A\A]A^
+UWVSH
+([^_]
+AWAVAUATUWVSH
+|$HI
+t2f;
+X[^_]A\A]A^A_
+D$8f
+L;d$8u
+\$ M
+AWAVAUATUWVSH
+L$PHc
+D$HHc
+d$8A
+l$ I
+[^_]A\A]A^A_
+d$@Mc
+L$HK
+L$HH
+<-u@H
+T$(H
+T$(H
+WVSH
+|$0H
+P[^_
+P[^_
+P[^_
+t$0H
+D$0f
+D$,H
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+WVSH
+T$0H
+P[^_
+UWVSH
+H[^_]
+|$ H
+D$0ua
+H[^_]
+ATUWVSH
+D$ H
+T$ H
+@[^_]A\
+D$ H
+AUATUWVSH
+program
+([^_]A\A]
+([^_]A\A]
+AVAUATUWVSH
+ [^_]A\A]A^
+ATUWVSH
+0[^_]A\
+UWVSH
+([^_]
+S`E1
+K(H9
+UWVSH
+D$&f%
+h[^_]
+D$8H
+h[^_]
+h[^_]
+AWAVAUATUWVSH
+D$4H
+D$HH
+D$PH
+D$@H
+D$XH
+D$`H
+D$hH
+D$4A
+[^_]A\A]A^A_
+L$PI
+T$HH
+D$pH
+L$pL
+D$HH
+T$pI
+L$xL
+\$xH
+D$xI9
+D$xA
+T$@I
+t(<\
+T$pI
+D$`H
+D$pH
+T$@E
+D$ L
+T$pH
+D$xA
+L;\$HH
+<$;u
+L$XA
+T$xI
+AWAVAUATUWVSH
+d$pL
+t$0L
+[^_]A\A]A^A_
+D$6f%
+L$(H
+L$(L
+T$ K
+WVSH
+ [^_
+T$ H
+D$&f%
+ATUWVSH
+t$ H
+P[^_]A\
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+t$/H
+'t#E
+D$/t
+\t5E
+t>w%
+0[^_]A\
+0[^_]A\
+0[^_]A\
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$PH
+\$0M
+D$0E
+\$0tO
+L$(A
+D$0H
+L$0A
+AWAVAUATUWVSH
+ t H
+t f=
+h[^_]A\A]A^A_
+l$@D
+L$8A9
+d$ I
+|$ M
+L$Tt|
+L$8M
+D$@L
+T$(ud
+AWAVAUATUWVSH
+ u,H
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+UWVSH
+L$0H
+L$(ug
+L$(H
+D$0help
+L$(H
+L$(H
+L$0H
+D$0-h
+D$1-
+D$0-L
+L$0H
+L$2A
+D$0-
+UWVSH
+L$xH
+T$ L
+L$xH
+T$ H
+\$ t\H9
+8[^_]
+L$XL
+L$XL
+UAWAVAUATWVSH
+D$@H
+M8H9
+E L9
+E8L9
+[^_A\A]A^A_]
+M M9
+L$(L
+D$0L
+L$ H
+D$(D
+D$0H
+D$ H
+D$ H
+MhH9M0
+]hL+]0L
+w"L;
+L$ N
+D$(D
+D$ L
+D$ H
+L9] H
+L9] 
+t!H9
+D$(H
+D$ L
+Ext^E
+exH;
+}hH9}0
+H+}0H
+}hH9}0H
+AWAVAUATUWVSH
+D$0I
+D$ M
+X[^_]A\A]A^A_
+<-t1<+t8< tD<#tP<0uR
+<Ltl<ltx<jtT
+ZtJ<ttF<I
+H9L$0t
+0<	v
+l$8H
+D$8I9
+0<	w
+0<	v
+V8H)
+\$ H9
+~PI9
+H;L$(I
+T$@H
+T$@I
+D$(H
+D$(H
+T$@H
+H9L$0
+T$@I
+D$0I;D$
+H9L$0t
+T$HH
+L$@I9
+L$@L
+T$HI
+T$@H
+T$@I
+|$8H
+T$@I
+\$8H
+T$HI
+T$@H
+T$0I
+T$@I
+T$@I
+T$@I
+T$@I
+T$HD
+L$@I
+T$HI
+T$@I
+T$@I
+T$@I
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-q
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+WVSH
+|$ H
+UWVSH
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+|`t.H
+ATUWVSH
+|$@1
+t$0D
+d$(H
+\$ I
+[^_]A\
+UWVSH
+D$,H
+D$,E
+8[^_]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+D$ H
+t$ I
+L$ H
+L$ H
+D$ H
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+UWVSH
+[^_]
+[^_]
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+UWVSH
+t$@H
+\$8H
+L$0L
+D$(H
+t$0H
+[^_]
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+=str
+=num
+=KWd
+=T/F
+file '%s' is tooooo long
+%s.tmp
+file '%s' is locked
+Cannot open '%s' for write
+Cannot copy '%s' to '%s'
+Cannot open '%s' for read
+%s:%s
+/etc/passwd.psk
+global_init: %s
+Please specify a user
+Key size is too long
+Generating a random key for user '%s'
+Not enough randomness
+HEX encoding error
+Key stored to %s
+psktool 3.4.17
+Copyright (C) 2000-2016 Free Software Foundation, and others, all rights reserved.
+This is free software. It is licensed for use, modification and
+redistribution under the terms of the GNU General Public License,
+version 3 or later <http://gnu.org/licenses/gpl.html>
+psktool is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option)
+any later version.
+psktool is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+details.
+You should have received a copy of the GNU General Public License along
+with this program.  If not, see <http://www.gnu.org/licenses/>.
+Enable debugging
+DEBUG
+debug
+specify the key size in bytes
+KEYSIZE
+keysize
+specify a username
+USERNAME
+username
+specify a password file
+PASSWD
+passwd
+display extended usage information and exit
+help
+extended usage information passed thru pager
+more-help
+output version information and exit
+version
+PSKTOOL
+psktool - GnuTLS PSK tool
+Usage:  %s [ -<flag> [<val>] | --<name>[{=| }<val>] ]...
+bugs@gnutls.org
+Program that generates random keys for use with TLS-PSK.  The keys are
+stored in hexadecimal format in a key file.
+psktool 3.4.17
+psktool [options]
+psktool --help for usage instructions.
+exit %d
+keyword
+set-membership
+true
+false
+</%s>
+ [arg]
+   -%c
+no memory for char-mapper span map
+%s/%s
+PATH
+%s=%s
+--%s%s
+%s%s
+YMWD
+stat
+open
+fopen
+SHELL
+/bin/bash
+fstat
+freopen
+readonly %s_
+reset.c
+0 == 1
+AUTOOPTS_USAGE
+read
+libopts
+POSIXLY_CORRECT
+--help
+41.1
+%%-%us %%s
+LONGUSAGE
+USAGE
+VERSION
+autoopts
+no_misuse_usage
+misuse_usage
+compute
+amp;
+bel;
+space;
+quot;
+apos;
+amp;
+quot;
+apos;
+genshellopt 1
+Copyright (C) 1999-2014 Bruce Korb, all rights reserved.
+This is free software. It is licensed for use, modification and
+redistribution under the terms of the GNU Lesser General Public License,
+version 2 or later <http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html>
+The genshellopt library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Library General Public License as
+published by the Free Software Foundation; either version 2 of the License,
+or (at your option) any later version.
+This library is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public
+License for more details.
+You should have received a copy of the GNU Library General Public License
+along with this library; if not, see
+<http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html>
+Output Script File
+SCRIPT
+script
+Shell name (follows "#!" magic)
+SHELL
+no-shell
+display extended usage information and exit
+help
+extended usage information passed thru pager
+more-help
+output version information and exit
+version
+GENSHELLOPT
+genshellopt - Generate Shell Option Processing Script - Ver. 1
+Usage:  %s [ -<flag> [<val>] | --<name>[{=| }<val>] ]...
+autogen-users@lists.sourceforge.net
+Note that 'shell' is only useful if the output file does not already exist.
+If it does, then the shell name and optional first argument will be
+extracted from the script file.
+If the script file already exists and contains Automated Option Processing
+text, the second line of the file through the ending tag will be replaced
+by the newly generated text.  The first '#!' line will be regenerated.
+genshellopt 1
+type
+words
+cooked
+members
+uncooked
+keep
+bool
+string
+boolean
+hierarchy
+nested
+integer
+  %s%s
+auto-options
+program
+%%-%ds %%s
+=file
+=Mbr
+=Cplx
+[=arg]
+--%2$s%1$s
+=Tim
+none
+#  preset/initialization file
+#  %s#
+ %3s %-14s %s
+				- 
+				  
+				-- and 
+				%s
+      
+     
+%s_%s_%d=
+        ;;
+</%s>
+  %s
+%%-%ds
+export %s_%s_%d
+false
+    -* )
+flag
+INVALID-%d
+*INVALID*
+    --* )
+LONGUSAGE
+            %s
+\%03o
+more
+<%s type=nested>
+OPT_ARG_NEEDED=NO
+<%s/>
+OPT_ARG_NEEDED=OK
+<%s>
+option
+export %s_%s
+%s_%s=
+PAGER
+%1$s %2$s ; rm -f %2$s
+  puts(_(%s));
+'%s'
+ -- %s
+%s_%s_TEXT='
+#! %s
+env | grep '^%s_'
+=%1$lu # 0x%1$lX
+stdout
+%A %B %e, %Y at %r %Z
+TMPDIR
+%s/use-%u.XXXXXX
+true
+<%s type=%s>
+VERSION
+#x%02X;
+OPT_ARG_NEEDED=YES
+'\''
+ '%s'
+libopts misguessed length of string
+OPTION_CT=0
+set --
+/tmp
+            ;;
+        '%c' )
+        '%s' )
+        '%s' | \
+<%1$s type=boolean>%2$s</%1$s>
+#  From the %s option definitions
+echo 'Warning:  Cannot load options files' >&2
+echo 'Warning:  Cannot save options files' >&2
+echo 'Warning:  Cannot suppress the loading of options files' >&2
+<%1$s type=integer>0x%2$lX</%1$s>
+%1$s_%2$s_TEXT='no %2$s text'
+%1$s_%2$s_MODE='%3$s'
+export %1$s_%2$s_MODE
+%1$s_%2$s='%3$s'
+export %1$s_%2$s
+%1$s_%2$s_CT=%3$d
+export %1$s_%2$s_CT
+OPTION_CT=%d
+export OPTION_CT
+%1$s_%2$s=%3$s
+export %1$s_%2$s
+%1$s_%2$s=%3$d # 0x%3$X
+export %1$s_%2$s
+        case "${OPT_CODE}" in
+            if [ $%1$s_%2$s_CT -gt %3$u ] ; then
+                echo 'Error:  more than %3$d %2$s options'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+test ${%1$s_%2$s_CT-0} -ge %3$u || {
+    echo %1$s_%2$s has not been set
+    exit 1
+} 1>&2
+test -n "$%1$s_%2$s" || {
+    echo %1$s_%2$s has not been set
+    exit 1
+} 1>&2
+            echo "$%s_%s_TEXT"
+            exit 0
+# # # # # # # # # #
+#  END OF AUTOMATED OPTION PROCESSING
+# # # # # # # # # # -- do not modify this marker --
+    if [ -n "${OPT_ARG_VAL}" ]
+    then
+        eval %1$s_${OPT_NAME}${OPT_ELEMENT}="'${OPT_ARG_VAL}'"
+        export %1$s_${OPT_NAME}${OPT_ELEMENT}
+    fi
+done
+OPTION_COUNT=`expr $ARG_COUNT - $#`
+OPERAND_COUNT=$#
+unset OPT_PROCESS || :
+unset OPT_ELEMENT || :
+unset OPT_ARG     || :
+unset OPT_ARG_NEEDED || :
+unset OPT_NAME    || :
+unset OPT_CODE    || :
+unset OPT_ARG_VAL || :
+        OPT_CODE=`echo "X${OPT_ARG}"|sed 's/^X-*//'`
+        shift
+        OPT_ARG=$1
+        case "${OPT_CODE}" in *=* )
+            OPT_ARG_VAL=`echo "${OPT_CODE}"|sed 's/^[^=]*=//'`
+            OPT_CODE=`echo "${OPT_CODE}"|sed 's/=.*$//'` ;; esac
+        OPT_CODE=`echo "X${OPT_ARG}" | sed 's/X-\(.\).*/\1/'`
+        OPT_ARG=` echo "X${OPT_ARG}" | sed 's/X-.//'`
+ARG_COUNT=$#
+OPT_PROCESS=true
+OPT_ARG=$1
+while ${OPT_PROCESS} && [ $# -gt 0 ]
+    OPT_ELEMENT=''
+    OPT_ARG_VAL=''
+    case "${OPT_ARG}" in
+    -- )
+        OPT_PROCESS=false
+        shift
+        ;;
+        case "${OPT_ARG_NEEDED}" in
+        NO )
+            OPT_ARG_VAL=''
+            ;;
+        YES )
+            if [ -z "${OPT_ARG_VAL}" ]
+            then
+                if [ $# -eq 0 ]
+                then
+                    echo No argument provided for ${OPT_NAME} option
+                    echo "$%s_USAGE_TEXT"
+                    exit 1
+                fi >&2
+                OPT_ARG_VAL=${OPT_ARG}
+                shift
+                OPT_ARG=$1
+            fi
+            ;;
+        OK )
+            if [ -z "${OPT_ARG_VAL}" ] && [ $# -gt 0 ]
+            then
+                case "${OPT_ARG}" in -* ) ;; * )
+                    OPT_ARG_VAL=${OPT_ARG}
+                    shift
+                    OPT_ARG=$1 ;; esac
+            fi
+            ;;
+        esac
+            %1$s_%2$s_CT=`expr ${%1$s_%2$s_CT} + 1`
+            OPT_ELEMENT="_${%1$s_%2$s_CT}"
+            OPT_NAME='%2$s'
+if test -z "${%1$s_%2$s}"
+then
+  %1$s_%2$s_CT=0
+  export %1$s_%2$s_CT
+else
+  %1$s_%2$s_CT=1
+  %1$s_%2$s_1=${%1$s_%2$s}
+  export %1$s_%2$s_CT %1$s_%2$s_1
+    * )
+         OPT_PROCESS=false
+         ;;
+    esac
+            %1$s_%2$s_CT=0
+            OPT_ELEMENT=''
+            %1$s_%2$s='%3$s'
+            export %1$s_%2$s
+            OPT_NAME='%2$s'
+            if [ -n "${%1$s_%2$s}" ] && ${%1$s_%2$s_set} ; then
+                echo 'Error:  duplicate %2$s option'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+            %1$s_%2$s_set=true
+            %1$s_%2$s='%3$s'
+            export %1$s_%2$s
+            OPT_NAME='%2$s'
+ARG_COUNT=$#
+OPT_ARG=$1
+while [ $# -gt 0 ]
+    OPT_ELEMENT=''
+    OPT_ARG_VAL=''
+    OPT_ARG=${1}
+        case "${OPT_ARG_NEEDED}" in
+        NO )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG=-${OPT_ARG}
+            else
+                shift
+                OPT_ARG=$1
+            fi
+            ;;
+        YES )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG_VAL=${OPT_ARG}
+            else
+                if [ $# -eq 0 ]
+                then
+                    echo No argument provided for ${OPT_NAME} option
+                    echo "$%s_USAGE_TEXT"
+                    exit 1
+                fi >&2
+                shift
+                OPT_ARG_VAL=$1
+            fi
+            shift
+            OPT_ARG=$1
+            ;;
+        OK )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG_VAL=${OPT_ARG}
+                shift
+                OPT_ARG=$1
+            else
+                shift
+                if [ $# -gt 0 ]
+                then
+                    case "$1" in -* ) ;; * )
+                        OPT_ARG_VAL=$1
+                        shift ;; esac
+                    OPT_ARG=$1
+                fi
+            fi
+            ;;
+        esac
+            echo "$%s_LONGUSAGE_TEXT" | ${PAGER-more}
+            exit 0
+%s OF %s
+#  From here to the next `-- do not modify this marker --',
+#  the text has been generated %s
+            eval %1$s_%2$s${OPT_ELEMENT}=true
+            export %1$s_%2$s${OPT_ELEMENT}
+            if [ -n "${%1$s_%2$s}" ] && ${%1$s_%2$s_set} ; then
+                echo 'Error:  duplicate %2$s option'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+            %1$s_%2$s_set=true
+            OPT_NAME='%2$s'
+%1$s_%2$s=${%1$s_%2$s-'%3$s'}
+%1$s_%2$s_set=false
+export %1$s_%2$s
+%1$s_%2$s=${%1$s_%2$s}
+%1$s_%2$s_set=false
+export %1$s_%2$s
+# # # # # # # # # # -- do not modify this marker --
+#  DO NOT EDIT THIS SECTION
+        * )
+            echo Unknown %s: "${OPT_CODE}" >&2
+            echo "$%s_USAGE_TEXT" >&2
+            exit 1
+            ;;
+        esac
+allocation of %d bytes failed
+AutoOpts function called without option descriptor
+	This exceeds the compiled library version:  
+Automated Options Processing Error!
+	%s called AutoOpts function with structure version %d:%d:%d.
+realloc of %d bytes at 0x%p failed
+	This is less than the minimum library version:  
+Automated Options version %s
+	Copyright (C) 1999-2014 by Bruce Korb - all rights reserved
+(AutoOpts bug):  %s.
+optionResetOpt() called, but reset-option not configured
+could not locate the 'help' option
+optionProcess() was called with invalid data
+invalid argument type specified
+defaulted to option with optional arg
+aliasing option is out of range.
+%s error:  the keyword '%s' is ambiguous for %s
+  The following options match:
+%s: ambiguous option name: %s (matches %d options)
+%s: Command line arguments required
+%d %s%s options allowed
+%s error %d (%s) calling %s for '%s'
+interprocess pipe
+error: version option argument '%c' invalid.  Use:
+	'v' - version only
+	'c' - version and copyright
+	'n' - version and full copyright notice
+%s error:  the '%s' and '%s' options conflict
+%s: The '%s' option has been disabled.
+-equivalence
+%s: illegal option -- %c
+%s: illegal option -- %s
+%s: unknown vendor extension option -- %s
+  or an integer from %d through %d
+%s error:  invalid option descriptor for %s
+%s: invalid option name: %s
+%s: The '%s' option requires an argument.
+(AutoOpts bug):  Equivalenced option '%s' was equivalenced to both
+	'%s' and '%s'.
+%s error:  The %s option is required
+%s: The '%s' option cannot have an argument.
+%s: Command line arguments are not allowed.
+error %d (%s) creating %s
+%s error:  '%s' does not match any %s keywords.
+%s error: The '%s' option requires an argument.
+error %d (%s) stat-ing %s
+%s error: no saved option state
+'%s' is not a command line option.
+%s error:  '%s' is not a recognizable date/time.
+'%s' not defined
+%s error:  '%s' is not a recognizable time duration.
+%s error:  The %s option must appear %d times.
+%s error:  '%s' is not a recognizable number.
+%s error:  %s exceeds %s keyword count
+Try '%s %s' for more information.
+one %s%s option allowed
+standard output
+standard error
+write
+%s error:  %s option value %ld is out of range.
+%s error:  %s option requires the %s option
+%s warning:  cannot save options - %s not regular file
+				- an alternate for '%s'
+Version, usage and configuration options:
+				- default option for unnamed options
+				- disabled as '--%s'
+ --- %-14s %s
+This option has been disabled
+				- enabled by default
+%s error:  only 
+ - examining environment variables named %s_*
+				- file must not pre-exist
+				- file must pre-exist
+Options are specified by doubled hyphens and their name or by a single
+hyphen and the flag character.
+= = = = = = = =
+This incarnation of genshell will produce
+a shell script to parse the options for %s:
+  or an integer mask with any of the lower %d bits set
+				- is a set membership option
+				- must appear between %d and %d times
+Options are specified by single or double hyphens and their name.
+				- may appear multiple times
+				- may not be preset
+   Arg Option-Name    Description
+  Flg Arg Option-Name    Description
+ %3s %s
+The '-#<number>' option may omit the hash char
+All arguments are named options.
+ - reading file %s
+Please send bug reports to:  <%s>
+				- may NOT appear - preset only
+The following option preset mechanisms are supported:
+prohibits these options:
+prohibits the option '%s'
+%s%ld to %ld
+%sgreater than or equal to %ld
+%s%ld exactly
+%sit must lie in one of the ranges:
+%sit must be in the range:
+, or
+%sis scalable with a suffix: k/K/m/M/g/G/t/T
+%sless than or equal to %ld
+Operands and options may be intermixed.  They will be reordered.
+requires the option '%s'
+requires these options:
+   Arg Option-Name   Req?  Description
+  Flg Arg Option-Name   Req?  Description
+or you may use a numeric representation.  Preceding these with a '!'
+will clear the bits, specifying 'none' will clear all bits, and 'all'
+will set them all.  Multiple entries may be passed as an option
+argument list.
+				- may appear up to %d times
+The valid "%s" option keywords are:
+The next option supports vendor supported extra options:
+These additional options are:
+41:1:16
+(NULL)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+gnutls_global_init
+gnutls_hex_encode
+gnutls_rnd
+gnutls_strerror
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileAttributesA
+GetLastError
+GetModuleFileNameW
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_ctime64
+_errno
+_exit
+_findclose
+_findfirst64
+_fmode
+_fstat64
+_fullpath
+_initterm
+_localtime64
+_lock
+_lseeki64
+_onexit
+_snwprintf
+_time64
+_unlock
+abort
+atoi
+calloc
+exit
+fclose
+ferror
+fflush
+fgets
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+freopen
+fwprintf
+fwrite
+getenv
+isspace
+localeconv
+malloc
+memcpy
+memmove
+memset
+putc
+raise
+realloc
+remove
+signal
+strchr
+strcmp
+strcpy
+strerror
+strftime
+strlen
+strncmp
+strncpy
+strpbrk
+strrchr
+strstr
+strtol
+strtoul
+tolower
+toupper
+vfprintf
+wcscpy
+wcslen
+_stat64
+_findnext64
+_write
+_unlink
+_umask
+_strdup
+_read
+_open
+_fileno
+_close
+_access
+regcomp
+regexec
+regfree
+MessageBoxW
+libgnutls-30.dll
+KERNEL32.dll
+msvcrt.dll
+libpcreposix-0.dll
+USER32.dll

@@ -1,0 +1,677 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.bss
+.idata
+.CRT
+.tls
+.rsrc
+$P=@
+[^_]
+D$*f
+$@`@
+$l`@
+$l`@
+$Da@
+$fa@
+$}a@
+L$(f
+$4b@
+$`b@
+$\c@
+$8c@
+$7d@
+UWVS
+t5f=
+[^_]
+$Pd@
+D$Z	
+[^_]
+$pd@
+UWVS
+<[^_]
+[^_]
+UWVS
+D$d1
+D$,~y
+9D$(u
+9t$4u
+[^_]
+|$d1
+9l$(
+D$(9D$,u
+[^_]
+D$,~>
+l$h1
+9|$(u
+D$,9D$0
+GIMP
+ TWA
+IN 0
+@6Crai
+@:g Se
+@>tera
+@XGIMP
+@zGIMP
+t8=d
+$%k@
+$<k@
+UWVS
+<[^_]
+$`k@
+D$<dk@
+$P5@
+UWVS
+,[^_]
+,[^_]
+$lk@
+D$$t
+D$Xt)
+0[^_
+$xm@
+[^_]
+$Dm@
+UWVS
+[^_]
+8MZt
+UWVS
+[^_]
+[^_]
+@' t
+@$[^
+libgcj-16.dll
+_Jv_RegisterClasses
+OpenDSM failure
+Unknown TWAIN Error Code
+Can't select data source with closed source manager
+Data source %s selected
+User cancelled TWAIN source selection
+Error "%s" during TWAIN source selection
+openDS: Cannot open data source... manager closed
+openDS: Data source already open
+Data source %s opened
+	Version.MajorNum = %d
+	Version.MinorNum = %d
+	Version.Info = %s
+	ProtocolMajor = %d
+	ProtocolMinor = %d
+	Manufacturer = %s
+	ProductFamily = %s
+Error "%s" opening data source
+Can't acquire image with closed datasource
+Error during data source enable
+Unable to set buffered transfer mode: %s
+TWAIN is not available for image capture
+Unable to open data source manager
+Data source not selected
+Unable to open datasource
+disableDS: Data source not enabled
+Error during data source disable
+closeDS: Data source already closed
+Data source %s closed
+Error "%s" closing data source
+closeDSM: Source Manager not open
+closeDSM: Can't close source manager with open source
+CloseDSM failure -- %s
+Source says that data is ready
+Attempting image transfer without callback function
+Get Image Info failure - %s
+Xfer done received
+Failure received
+CloseDSReq
+No error
+Failure due to unknown causes
+Not enough memory to perform operation
+No Data Source
+DS is connected to max possible apps
+DS or DSM reported error, application shouldn't
+Unknown capability
+Unrecognized MSG DG DAT combination
+Data parameter out of range
+DG DAT MSG out of expected sequence
+Unknown destination App/Src in DSM_Entry
+Capability not supported by source
+Operation not supported by capability
+Capability has dependency on other capability
+File System operation is denied (file is protected)
+Operation failed because file already exists.
+File not found
+Operation failed because directory is not empty
+The feeder is jammed
+The feeder detected multiple pages
+Error writing the file (disk full?)
+The device went offline prior to or during this operation
+gimp20-std-plug-ins
+UTF-8
+twain-acquire
+_Scanner/Camera...
+v0.6 (07/22/2004)
+Craig Setera
+Craig Setera (setera@home.com)
+This plug-in will capture an image from a TWAIN datasource
+Capture an image from a TWAIN datasource
+<Image>/File/Create/Acquire
+Transferring data from scanner/camera
+Background
+endTransferCallback: CompState = %d, pending = %d
+Displaying image %d
+Deleting image
+image-count
+Number of acquired images
+image-ids
+Array of acquired image identifiers
+run-mode
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+;Exiting application
+TWAIN_32.DLL
+DSM_Entry
+Source Manager successfully closed
+TWAIN
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+The result is too small to be represented (UNDERFLOW)
+Total loss of significance (TLOSS)
+Partial loss of significance (PLOSS)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0 p1.0, pie-0.6.5) 5.4.0
+gimp_display_new
+gimp_drawable_detach
+gimp_drawable_flush
+gimp_drawable_get
+gimp_image_delete
+gimp_image_insert_layer
+gimp_image_new
+gimp_image_set_resolution
+gimp_image_set_unit
+gimp_install_procedure
+gimp_layer_new
+gimp_main
+gimp_pixel_rgn_init
+gimp_pixel_rgn_set_rect
+gimp_plugin_menu_register
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init
+gimp_progress_update
+DeleteCriticalSection
+EnterCriticalSection
+FormatMessageA
+FreeLibrary
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+GlobalAlloc
+GlobalFree
+GlobalLock
+GlobalUnlock
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+LocalFree
+QueryPerformanceCounter
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_iob
+_lock
+_onexit
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+_unlock
+abort
+vfprintf
+calloc
+CreateWindowExA
+DefWindowProcA
+DispatchMessageA
+GetMessageA
+LoadCursorA
+LoadIconA
+PostMessageA
+PostQuitMessage
+RegisterClassA
+ShowWindow
+TranslateMessage
+UpdateWindow
+gimp_locale_directory
+g_free
+g_malloc
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+libgimp-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+USER32.dll
+libgimpbase-2.0-0.dll
+libglib-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+twain.exe.debug
+.gnu_debuglink
+__imp__libintl_bindtextdomain
+_libgimpbase_2_0_0_dll_iname
+__imp__gimp_drawable_get
+__head_lib32_libuser32_a
+__lib32_libuser32_a_iname
+__imp__LocalFree@4
+__imp__VirtualProtect@16
+__imp___acmdln
+__imp__gimp_pixel_rgn_set_rect
+__imp___onexit
+__imp__GetLastError@0
+__imp__VirtualQuery@12
+__imp__CreateWindowExA@48
+__imp__gimp_progress_update
+__imp__libintl_textdomain
+__imp__gimp_main
+__imp__TlsGetValue@4
+__imp__InitializeCriticalSection@4
+__imp__abort
+__imp___fmode
+__imp__RegisterClassA@4
+__imp___amsg_exit
+__imp__gimp_display_new
+__imp__PostMessageA@16
+__imp__QueryPerformanceCounter@4
+__imp__TranslateMessage@4
+__imp__gimp_pixel_rgn_init
+__imp___iob
+__imp__strncmp
+__head_libgimp_2_0_0_dll
+__imp__GlobalFree@4
+__imp__UpdateWindow@4
+__imp__GetCurrentProcess@0
+__imp__DispatchMessageA@4
+__imp__GetProcAddress@8
+__imp__gimp_layer_new
+__imp__signal
+__imp__exit
+__imp__FreeLibrary@4
+__imp__GetStartupInfoA@4
+__IAT_end__
+__imp____lconv_init
+__head_libgimpbase_2_0_0_dll
+__imp__libintl_gettext
+__imp__gimp_plugin_menu_register
+__imp__GetTickCount@0
+__imp__gimp_drawable_detach
+__imp____argc
+__imp__GetMessageA@16
+__imp__gimp_install_procedure
+__lib32_libkernel32_a_iname
+__imp__GetCurrentProcessId@0
+__imp__TerminateProcess@8
+__imp__gimp_image_set_unit
+__imp__gimp_progress_init
+__imp____dllonexit
+__imp__memcpy
+__imp__GlobalUnlock@4
+__imp__gimp_image_new
+__imp___unlock
+__head_lib32_libmsvcrt_a
+_libgimp_2_0_0_dll_iname
+__imp__LeaveCriticalSection@4
+__imp__malloc
+__imp__gimp_procedural_db_set_data
+__imp____argv
+__lib32_libmsvcrt_a_iname
+__IAT_start__
+__imp__GlobalLock@4
+__imp____initenv
+__imp__GlobalAlloc@8
+__imp__GetModuleHandleA@4
+__imp___lock
+__imp__fprintf
+__imp___initterm
+__imp__gimp_image_set_resolution
+__imp__strlen
+__imp__calloc
+__imp__GetSystemTimeAsFileTime@4
+__imp__PostQuitMessage@4
+__imp__gimp_locale_directory
+__imp____getmainargs
+__imp__gimp_drawable_flush
+_libintl_8_dll_iname
+__head_libglib_2_0_0_dll
+__imp__free
+__imp__gimp_image_insert_layer
+__imp__SetUnhandledExceptionFilter@4
+__imp__gimp_image_delete
+__imp__UnhandledExceptionFilter@4
+__imp__ShowWindow@8
+__head_lib32_libkernel32_a
+__imp___cexit
+__imp__LoadIconA@8
+__imp__Sleep@4
+__imp__vfprintf
+_libglib_2_0_0_dll_iname
+__imp__g_malloc
+__imp____set_app_type
+__imp__GetCurrentThreadId@0
+__imp__DeleteCriticalSection@4
+__imp__LoadLibraryA@4
+__imp__g_free
+__imp__libintl_bind_textdomain_codeset
+__imp__FormatMessageA@28
+__imp____setusermatherr
+__head_libintl_8_dll
+__imp__DefWindowProcA@16
+__imp__EnterCriticalSection@4
+__imp__gimp_procedural_db_get_data
+__imp__fwrite
+__imp__LoadCursorA@8
+>0<0
+0!0	
+V/S{
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+Zp7WyAFb
+]8<h
+72i7
+}B\v
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510152623Z0#
+qKY;
+pk V
+\K?o
+R&x8
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+b7$H
+X*rOk.
+,t<^G;
+v(px
+KN<df
+p4jg9
+{\sX
+wFaf
+20170510155814Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155814Z0+
+6R}O
+0jQ1;|o~!
+20iP
+,	ReT
+%AX.
+#^uW

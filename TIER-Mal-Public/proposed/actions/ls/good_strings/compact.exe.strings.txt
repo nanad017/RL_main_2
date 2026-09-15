@@ -1,0 +1,427 @@
+!This program cannot be run in DOS mode.
+gRich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+RegValue %ws is %u
+Setting %ws to %u
+PolicyParams:
+------------
+Flags: %u
+MinProcessorCount: %u
+MinRAMSizeMB: %u
+MaxVolumeSizeMB (GB): %u (%u)
+MinDecompressionRateKBs (MBs): %u (%u)
+(if rotational disk) MinDecompressionRateKBs (MBs): %u (%u)
+MinCPUHeadroom (Perc): %u
+LowStoragePhoneMB (GB): %u (%u)
+PowerGetActiveScheme
+PowerSetActiveScheme
+RSDS
+compact.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+j\_f;>uEf;~
+f;<N
+~@Wj
+~PWj
+QQSVW
+PSWV
+V95d
+SPWV
+QPh`
+D$,P
+j:XP
+f;D$
+L$  j:Z
+L$ @
+u{j/Y
+D$ @t
+D$ 1uH
+D$  t 
+D$$@
+!D$$
+D$(8D$
+D$ @up
+PVhx
+j.Yf;
+j:XP
+f;D$
+f;D$
+j.Xf;DJ
+j/YF;u
+D$ P
+_^[3
+PRRh
+>j\Xf;
+u4f;F
+u.PS
+uF8U
+uJ8U
+j0Xf
+j _f
+^u=j
+J SV3
+t_Vh
+jd[j
+t8;U
+Pj	Z
+w`YYj
+uI9wdt
+W9V`
+Vj [SR
+jdhX
+D$lj
+D$0YY
+D$ P
+_^[3
+PWWQ
+,Vhp
+j hx
+WQWWj
+j hx
+Vj	Z
+Pj	Z
+s`YYj
+s`Yj
+RQRRj
+L$,Qh@
+t#Sj
+9Gdt
+wdPS
+f;D$ u
+D$0PS
+D$\f
+D$\f
+f;D$ u
+D$\P
+L$,RQRRj
+L$,Qh@
+YYuR
+D$`P
+D$0PV
+D$0PS
+L$\f
+D$\f
+f;D$ u
+D$\P
+t$(S
+D$0PV
+_^[3
+W9V`
+Vj [SR
+D$l3
+jdhX
+D$0YY
+D$ P
+_^[3
+QSSh
+t	;M
+QSSSSh
+SQSSj
+9_`tE
+w`YYj
+F,Pj
+uQ9_`tL
+w`YYj
+RQRRj
+L$(Qh@
+t#Sj
+9Gdt
+wdPS
+u%9wd
+f;D$ u
+D$(PS
+L$Tf
+D$Tf
+f;D$ u
+D$TP
+YYu,
+D$(PV
+D$(PS
+L$Tf
+D$Tf
+f;D$ u
+D$TP
+t$(S
+D$(PV
+_^[3
+tDVj j
+D$T3
+Vj j
+WWWh4
+u=Wj
+QQW3
+WWWh
+SVW3
+WPWh
+WWWh4
+WWWh
+FhP/@
+tnjz
+vdPj
+t.Vj
+PQh?
+QQQh
+PQh8
+SVW3
+SVRP
+SVRP
+F @;F
+F$@;
+f;F8
+;F4u
+v4QP
+~(G;~
+SVWj
+F:!}
+v4SP
+dSVWjH
+PhPZ@
+t(F;u
+VWRP
+Vh@B
+RPVW
+;F$s!j
+;F$s'
+u ;w
+;w s
+D$XSVWj	
+D$<@u
+QPQh?
+QQQh
+L$d_^[3
+QPVSQQh
+^91r$!
+_99r
+hPt@
+t#h 
+8csm
+h q@
+_^[]
+Y_^[
+Y_^[
+Y__^[
+WVS3
+WVU3
+v	N+D$
+RegCreateKeyExW
+RegQueryValueExW
+RegOpenKeyExW
+RegCloseKey
+RegSetValueExW
+ADVAPI32.dll
+SetThreadUILanguage
+WriteFile
+WideCharToMultiByte
+GetConsoleMode
+GetLocaleInfoW
+FormatMessageW
+WriteConsoleW
+GetConsoleOutputCP
+GetStdHandle
+GetFileType
+GetFullPathNameW
+SetThreadPreferredUILanguages
+GetLastError
+GetCurrentDirectoryW
+SetCurrentDirectoryW
+HeapSetInformation
+FindFirstFileW
+GetCompressedFileSizeW
+GetVolumePathNameW
+GetFileAttributesW
+CreateFileW
+SetLastError
+FindClose
+DeviceIoControl
+FindNextFileW
+CloseHandle
+GetWindowsDirectoryW
+GetFileInformationByHandle
+SetFileAttributesW
+KERNEL32.dll
+wcschr
+_get_osfhandle
+wcscat_s
+wcscpy_s
+_wcsicmp
+_wcsnicmp
+swprintf_s
+memcpy_s
+wcsncmp
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+RtlFreeHeap
+NtQueryVolumeInformationFile
+NtSetInformationThread
+RtlCompressBuffer
+RtlNtStatusToDosError
+RtlAllocateHeap
+RtlRandom
+RtlDecompressBufferEx
+RtlGetCompressionWorkSpaceSize
+RtlAcquirePrivilege
+ntdll.dll
+OpenThreadToken
+ImpersonateLoggedOnUser
+RevertToSelf
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+K32GetPerformanceInfo
+GetNativeSystemInfo
+GetDriveTypeW
+FreeLibrary
+WaitForSingleObject
+SetEvent
+GetCurrentThread
+LoadLibraryW
+GetVersionExW
+GetProcAddress
+CreateEventW
+QueryPerformanceFrequency
+LocalFree
+CreateThread
+HeapAlloc
+HeapFree
+GetProcessHeap
+printf
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Filesystem.Compact"
+    type="win32"
+<description>File Integrity Utility</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+UWi	
+5T=X=`=h=
+030@0d0w0
+161N1U1c1i1r1|1
+1 2-262D2J2W2`2g2v2|2
+3#3.3I3P3`3k3s3}3
+4<4G4Q4Z4o4x4
+5	5'5.5L5S5q5z5
+676?6f6l6
+7!7<7N7\7j7
+8B8b8
+9(9]9
+:?:_:q:
+; ;G;5<
+=	>9>\>r>
+?#?l?
+0E0`0
+222:2A2d2
+2,3o3
+4/4C4
+5-5\5j5{5
+5K6S6_6
+7M8{8
+9*9a9k9t9
+; ;&;2;C;p;z;
+;4<E<Q<y<
+>0>U>t>
+051B1Z1~1
+2%2P2\2k2{2
+2?3G3S3q3
+3j4y4
+5.5{5
+5#6?6O6U6a6r6
+747:7F7W7h7
+8.8;8G8f8
+9H9\9i9
+9#:2:F:
+;+;>;`;p;
+=C>N>b>k>v>
+?+?9?V?_?y?
+0%020A0T0_0n0
+121E1S1t1
+272D2w2
+2"383C3w3
+4:4b4
+4D5K5U5g5
+6)6B6_6j6
+8D8c8{8
+9+919E9K9e9k9s9y9
+;*;>;Y;d;
+;@<I<d<z<
+=(=R=
+?&?4?F?Q?\?f?
+0-0<0K0Z0t0
+1Y2c2j2t2
+4#4*4
+5#585X5n5y5
+646;6^6z6
+7)757L7
+758=8W8b8k8x8
+9e9x9
+:*:>:p:
+;?;F;i;s;
+=&=0=9=C=O=U=\=e=k=s=y=
+>'>2>D>L>Q>V>x>~>
+?"?(?2?8?A?F?c?
+0"0(0.050<0C0J0Q0X0_0g0o0w0
+1Y1q1w1
+4+484@4d4r4}4
+565x5
+0$0,040<0D0L0T0\0d0l0t0|0

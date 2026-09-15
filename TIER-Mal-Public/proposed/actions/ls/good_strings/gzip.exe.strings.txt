@@ -1,0 +1,540 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$d(E
+5H A
+=X A
+5tVA
+5H A
+5tVA
+5tVA
+	d(E
+	d(E
+	d(D
+	d(D
+6d(D
+=X A
+=X A
+=X A
+=X A
+=X A
+=X A
+58 A
+	d(E
+	d(E
+	d(E
+	d(E
+	d(D
+	d(D
+=X A
+=X A
+=X A
+,[^_]
+=x A
+=X A
+v	9U
+=X A
+=X A
+=X A
+5H A
+<[^_]
+<[^_]
+	d(E
+	d(E
+	d(D
+	d(D
+=X A
+=X A
+=X A
+=X A
+=X A
+5tVA
+=X A
+5tVA
+	d(E
+	d(E
+=X A
+5T$D
+=LVA
+5T$D
+=T$D
+5LVA
+stdi
+stdo
+5d$D
+ [^]
+5LVA
+@tp1
+5LVA
+<[^_]
+<[^_]
+@tN1
+=LVA
+stdo
+=d$D
+5LVA
+$d$D
+$d$D
+[^_]
+$d$D
+[^_]
+5T$D
+[^_]
+,[^_]
+5LVA
+[^_]
+5T$D
+=LVA
+$d$D
+$d$D
+$d$D
+5T$D
+$d$D
+.tar
+5LVA
+$d$D
+[^_]
+[^_]
+5LVA
+5LVA
+gfff
+5LVA
+5LVA
+<[^_]
+=LVA
+[^_]
+.tgz
+=T$D
+[^_]
+$d$D
+$d$D
+5D$D
+,[^_]
+$d$D
+$d$D
+[^_]
+[^_]
+5LVA
+5LVA
+ [^]
+$d$D
+$d$D
+$d$D
+s0C9
+[^_]
+[^_]
+[^_]
+5$$D
+=t(F
+5$$D
+=$$D
+5$$D
+,[^_]
+=t(F
+=$$D
+[^_]
+=$$D
+=$$D
+=$$D
+[^_]
+=$$D
+=$$D
+[^_]
+=$$D
+5t(F
+[^_]
+=$$D
+=t(F
+t4Jue
+[^_]
+=$$D
+[^_]
+[^_]
+=$$D
+[^_]
+$ +A
+,[^_]
+<[^_]
+|[^_]
+[^_]
+t';U
+5d0A
+5d0A
+=h0A
+=h0A
+t';U
+5d0A
+5d0A
+[^_]
+=h0A
+=h0A
+$ !A
+$ *A
+$ !A
+[^_]
+$ +A
+[^_]
+5@PA
+=tVA
+=PPA
+[^_]
+;=@PA
+[^_]
+[^_]
+50SA
+5 SA
+50SA
+[^_]
+[^_]
+5 SA
+= SA
+= SA
+= SA
+= SA
+= SA
+	d(E
+6d(D
+= SA
+= SA
+= SA
+,[^_]
+= SA
+= SA
+= SA
+= SA
+= SA
+= SA
+=0SA
+= SA
+=0SA
+[^_]
+= SA
+6d(E
+6d(D
+5@SA
+5@SA
+9G;}
+[^_]
+6d(E
+6d(D
+[^_]
+5D$D
+$d(D
+|^~6
+\[^_]
+$d(D
+=LVA
+\[^_]
+[^_]
+=pSA
+;5pSA
+[^_]
+5LVA
+5LVA
+<[^_]
+5$$D
+5$$D
+5$$D
+[^_]
+[^_]
+[^_]
+$d$D
+gfff
+L[^_]
+gfffN
+5D$D
+5$$D
+5$$D
+5$$D
+5$$D
+5$$D
+5$$D
+5$$D
+5$$D
+UWVS
+=tVA
+6d(D
+vSMtPf;
+[^_]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+=LVA
+=LVA
+%h1F
+C$PVA
+C@$)F
+%p1F
+%,2F
+%(2F
+% 2F
+%$2F
+%D2F
+%P2F
+%42F
+%02F
+%@2F
+%x1F
+%<2F
+%H2F
+%d1F
+%T2F
+%X2F
+%d2F
+%L2F
+%82F
+%\2F
+%|1F
+[^_]
+%t1F
+%`2F
+%t2F
+%x2F
+%p2F
+%|2F
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+bad pack level
+Copyright (C) 2007 Free Software Foundation, Inc.
+Copyright (C) 1993 Jean-loup Gailly.
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+ascii
+to-stdout
+stdout
+decompress
+uncompress
+force
+help
+list
+license
+no-name
+name
+quiet
+silent
+recursive
+suffix
+test
+no-time
+verbose
+version
+fast
+best
+bits
+rsyncable
+Compress or uncompress FILEs (by default, compress FILES in-place).
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --ascii       ascii text; convert end-of-line using local conventions
+  -c, --stdout      write on standard output, keep original files unchanged
+  -d, --decompress  decompress
+  -f, --force       force overwrite of output file and compress links
+  -h, --help        give this help
+  -l, --list        list compressed file contents
+  -L, --license     display software license
+  -n, --no-name     do not save or restore the original name and time stamp
+  -N, --name        save or restore the original name and time stamp
+  -q, --quiet       suppress all warnings
+  -r, --recursive   operate recursively on directories
+  -S, --suffix=SUF  use suffix SUF on compressed files
+  -t, --test        test compressed file integrity
+  -v, --verbose     verbose mode
+  -V, --version     display version number
+  -1, --fast        compress faster
+  -9, --best        compress better
+    --rsyncable   Make rsync-friendly archive
+With no FILE, or when FILE is -, read standard input.
+Report bugs to <bug-gzip@gnu.org>.
+.exe
+GZIP
+ab:cdfhH?lLmMnNqrS:tvVZ123456789
+%s: -Z not supported in this version
+Try `%s --help' for more information.
+%s %s
+1.3.12
+Written by Jean-loup Gailly.
+Usage: %s [OPTION]... [FILE]...
+%s: incorrect suffix '%s'
+%s: -b operand is not an integer
+read from
+written to
+%s: compressed data not %s a terminal. Use -f to force %scompression.
+For help, type: %s -h
+%s: 
+standard input
+%s: %s is a directory -- ignored
+%s: %s is set-user-ID on execution - ignored
+%s: %s compressed to %s
+%s: %s is not a directory or a regular file - ignored
+%s: %s is set-group-ID on execution - ignored
+%s:	
+%s: %s has the sticky bit set - file ignored
+ -- replaced with %s
+%s: %s has %lu other link%c -- unchanged
+%s: %s: warning, name truncated
+.taz
+.tgz
+%s: %s: file name too long
+%s: %s: unknown suffix -- ignored
+%s: %s already has %s suffix -- unchanged
+corrupted input -- file name too large
+%s: %s is a multi-part gzip file -- not supported
+%s: %s has flags 0x%x -- not supported
+%s: %s: extra field of %u bytes ignored
+%s: %s: part number %u
+%s: %s: decompression OK, trailing garbage ignored
+%s: %s: unknown method %d -- not supported
+%s: %s is encrypted -- not supported
+%s: %s: decompression OK, trailing zero bytes ignored
+%s: %s: not in gzip format
+store
+compr
+pack 
+lzh  
+defla
+ (totals)
+%5s %08lx 
+%s%3d %02d:%02d 
+uncompressed
+compressed
+%*.*s %*.*s  ratio uncompressed_name
+method  crc     date  time  
+??? ?? ??:?? 
+                            
+.tar
+name too short
+can't recover suffix
+internal error in shorten_name
+%s: %s already exists;
+	not overwritten
+ do you wish to overwrite (y or n)? 
+%s: time stamp restored
+%s: %s/%s: pathname too long
+output in compress .Z format not supported
+Bad table
+corrupt input.
+corrupt input. Use zcat to recover some data.
+%s: %s: compressed with %d bits, can only handle %d bits
+%s: %s: warning, unknown flags 0x%x
+too many leaves in Huffman tree
+invalid compressed data -- Huffman code > 32 bits
+invalid compressed data--length error
+%s: %s: not a valid zip file
+%s: %s: first entry not deflated or stored -- use unzip
+%s: %s: encrypted file -- use unzip
+len %ld, siz %ld
+invalid compressed data--length mismatch
+%s: %s: invalid compressed data--crc error
+%s: %s: invalid compressed data--length error
+internal error, invalid method
+invalid compressed data--format violated
+%s: %s has more than one entry--rest ignored
+%s: %s has more than one entry -- unchanged
+argc<=0
+%s: %s: %s
+%s: memory_exhausted
+%s: %s: warning: %s
+%s: 
+%s: unexpected end of file
+%5.1f%%
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+_ctype_
+_exit
+abort
+atoi
+calloc
+close
+closedir
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fchmod
+fchown
+fcntl
+fflush
+fileno
+fprintf
+fputc
+free
+fstat
+fwrite
+getc
+getenv
+isatty
+localtime
+lseek
+lstat
+malloc
+memcpy
+memmove
+memset
+open
+opendir
+perror
+printf
+putc
+putchar
+puts
+raise
+read
+readdir
+realloc
+setmode
+sigaction
+sigaddset
+sigemptyset
+sigismember
+signal
+sigprocmask
+strcat
+strchr
+strcmp
+strcpy
+strcspn
+strlen
+strncmp
+strrchr
+strspn
+unlink
+utime
+vsnprintf
+write
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

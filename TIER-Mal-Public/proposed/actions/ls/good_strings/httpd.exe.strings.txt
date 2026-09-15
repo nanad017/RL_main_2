@@ -1,0 +1,391 @@
+!This program cannot be run in DOS mode.
+M8jQ
+M8jQ
+M8jQ
+M8jQ
+M8Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+=81@
+hp6@
+hx6@
+VPh46@
+j@Qh
+5T1@
+5,1@
+hX?@
+h`?@
+5\1@
+Ph$3@
+Ph@?@
+5H1@
+hh?@
+jCPh
+jCPh
+j@Ph
+jCPh
+jCPh
+5X1@
+h`?@
+5\1@
+5H1@
+hl@@
+h<@@
+Ph$3@
+Ph83@
+h`3@
+h 4@
+h84@
+hL4@
+hx4@
+h(5@
+hP5@
+Phl2@
+j@PhO
+j@PhR
+j@PhV
+Wh<7@
+j@PhY
+Whx7@
+j@Phd
+j@Phg
+j@Phj
+j@Phm
+hL8@
+j@Php
+j@Phr
+j@Phu
+h 9@
+j@Ph~
+ht9@
+j@Ph
+j@Ph
+j@Ph
+j@Ph
+hP:@
+j@Ph
+j@Ph
+j@Ph
+j@Ph
+hL;@
+j@Ph
+j@Ph
+j@Ph
+j@Ph
+h(<@
+j@Ph
+hX<@
+j@Ph
+j@Ph
+j@Ph
+j@Ph
+hH=@
+j@Ph
+hx=@
+j@Ph
+j@Ph
+j@Ph
+h,>@
+j@Ph
+hh>@
+j@Ph
+=lP@
+=pP@
+h4,@
+h 2@
+5|P@
+=|P@
+%xQ@
+-tQ@
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+%h0@
+%d0@
+Y__^[
+h%%@
+hdP@
+%T0@
+%P0@
+%L0@
+%H0@
+%D0@
+%@0@
+%<0@
+%40@
+%,0@
+%(0@
+%$0@
+Server MPM:     %s
+  threaded:     
+yes (variable thread count)
+yes (fixed thread count)
+    forked:     
+yes (variable process count)
+yes (fixed process count)
+Server version: %s
+Apache Lounge VC11 Server built:   %s
+Server's Module Magic Number: %u:%u
+Server loaded:  APR %s, APR-UTIL %s
+1.5.4
+1.5.2
+Compiled using: APR %s, APR-UTIL %s
+Architecture:   %ld-bit
+Server compiled with....
+ -D APR_HAS_SENDFILE
+ -D APR_HAS_MMAP
+ -D APR_HAVE_IPV6 (IPv4-mapped addresses 
+disabled)
+ -D APR_HAS_OTHER_CHILD
+ -D AP_HAVE_RELIABLE_PIPED_LOGS
+ -D DYNAMIC_MODULE_LIMIT=%ld
+ -D HTTPD_ROOT="/apache"
+ -D SUEXEC_BIN="/apache/bin/suexec"
+ -D DEFAULT_PIDLOG="logs/httpd.pid"
+ -D DEFAULT_SCOREBOARD="logs/apache_runtime_status"
+ -D DEFAULT_ERRORLOG="logs/error.log"
+ -D AP_TYPES_CONFIG_FILE="conf/mime.types"
+ -D SERVER_CONFIG_FILE="conf/httpd.conf"
+apr_app_initialize()
+apr_pool_create()
+[%s] [crit] (%d) %s: %s failed to initial context, exiting
+process
+pconf
+Usage: %s [-D name] [-d directory] [-f file]
+server\main.c
+       %*s [-C "directive"] [-c "directive"]
+       %*s [-w] [-k start|restart|stop|shutdown] [-n service_name]
+       %*s [-k install|config|uninstall] [-n service_name]
+       %*s [-v] [-V] [-h] [-l] [-L] [-t] [-T] [-S] [-X]
+Options:
+  -D name            : define a name for use in <IfDefine name> directives
+  -d directory       : specify an alternate initial ServerRoot
+  -f file            : specify an alternate ServerConfigFile
+  -C "directive"     : process directive before reading config files
+  -c "directive"     : process directive after reading config files
+  -n name            : set service name and use its ServerConfigFile and ServerRoot
+  -k start           : tell Apache to start
+  -k restart         : tell running Apache to do a graceful restart
+  -k stop|shutdown   : tell running Apache to shutdown
+  -k install         : install an Apache service
+  -k config          : change startup Options of an Apache service
+  -k uninstall       : uninstall an Apache service
+  -w                 : hold open the console window on error
+  -e level           : show startup errors of level (see LogLevel)
+  -E file            : log startup errors to file
+  -v                 : show version number
+  -V                 : show compile settings
+  -h                 : list available command line options (this page)
+  -l                 : list compiled in modules
+  -L                 : list available configuration directives
+  -t -D DUMP_VHOSTS  : show parsed vhost settings
+  -t -D DUMP_RUN_CFG : show parsed run settings
+  -S                 : a synonym for -t -D DUMP_VHOSTS -D DUMP_RUN_CFG
+  -t -D DUMP_MODULES : show all loaded modules 
+  -M                 : a synonym for -t -D DUMP_MODULES
+  -t -D DUMP_INCLUDES: show all included configuration files
+  -t                 : run syntax check for config files
+  -T                 : start without DocumentRoot(s) check
+  -X                 : debug mode (only one worker, do not detach)
+conf/httpd.conf
+/apache
+pcommands
+AH00012: %s: %s
+C:c:D:d:E:e:f:vVlLtTSMh?X
+DUMP_VHOSTS
+DUMP_RUN_CFG
+DUMP_MODULES
+DUMP_INCLUDES
+DEBUG
+Server built:   %s
+plog
+ptemp
+AH00013: Pre-configuration failed
+AH00014: Configuration check failed
+Syntax OK
+ap_signal_server
+AH00015: Unable to open logs
+AH00016: Configuration Failed
+AH00017: Pre-configuration failed, exiting
+AH00018: Configuration check failed, exiting
+AH00019: Unable to open logs, exiting
+AH00020: Configuration Failed, exiting
+AH02818: MPM run failed, exiting
+RSDSL3
+E:\VC11\Win32\httpd-2.4.25\Release\httpd.pdb
+_ap_get_server_description@0
+_ap_get_server_built@0
+_ap_abort_on_oom@0
+_ap_parse_log_level@8
+_ap_setup_prelinked_modules@4
+_ap_show_directives@0
+_ap_show_modules@0
+_ap_show_mpm@0
+_ap_read_config@16
+_ap_run_rewrite_args@4
+_ap_register_hooks@8
+_ap_fixup_virtual_hosts@8
+_ap_process_config_tree@16
+_ap_run_pre_config@12
+_ap_run_check_config@16
+_ap_run_test_config@8
+_ap_run_post_config@16
+_ap_run_open_logs@16
+_ap_run_optional_fn_retrieve@0
+ap_pool_cleanup_set_null
+_ap_open_stderr_log@4
+_ap_replace_stderr_log@8
+ap_log_error_
+_ap_init_rng@4
+_ap_clear_auth_internal@0
+_ap_fini_vhost_config@8
+_ap_run_mpm@12
+_ap_mpm_query@8
+ap_real_exit_code
+ap_server_argv0
+ap_server_root
+ap_server_conf
+ap_pglobal
+ap_main_state
+ap_run_mode
+ap_config_generation
+ap_server_pre_read_config
+ap_server_post_read_config
+ap_server_config_defines
+ap_document_root_check
+ap_conftree
+ap_prelinked_modules
+ap_default_loglevel
+libhttpd.dll
+_apu_version_string@0
+_apr_hook_sort_all@0
+_apr_hook_deregister_all@0
+_apr_dynamic_fn_retrieve@4
+libaprutil-1.dll
+_apr_app_initialize@12
+apr_terminate
+_apr_pool_create_ex@16
+_apr_pool_clear@4
+_apr_pool_destroy@4
+_apr_palloc@8
+_apr_pool_abort_set@8
+_apr_pool_parent_get@4
+_apr_pool_tag@8
+_apr_pool_cleanup_register@16
+apr_pool_cleanup_null
+_apr_pstrdup@8
+_apr_getopt_init@16
+_apr_getopt@16
+_apr_filepath_name_get@4
+_apr_time_now@0
+_apr_sleep@8
+_apr_ctime@12
+_apr_version_string@0
+_apr_array_make@12
+_apr_array_push@4
+libapr-1.dll
+exit
+__iob_func
+clearerr
+fclose
+feof
+ferror
+fflush
+fgets
+_fileno
+fopen
+fprintf
+fread
+fseek
+ftell
+fwrite
+printf
+_close
+_lseek
+_read
+_setmode
+_write
+_open
+MSVCR110.dll
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+__initenv
+_fmode
+_commode
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+?terminate@@YAXXZ
+__crtSetUnhandledExceptionFilter
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+_invoke_watson
+_controlfp_s
+_except_handler4_common
+EncodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DecodePointer
+KERNEL32.dll
+httpd.exe
+OPENSSL_Applink
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0"0'0,01060;0@0E0J0O0T0Y0^0c0h0m0r0w0|0
+1&161F1j1t1
+2$2*2@2F2X2^2d2i2w2
+3$3W3^3j3s3
+4#4+4<4B4T4g4t4}4
+415e5
+6$6;6T6d6o6y6~6
+7D7J7U7f7o7
+8 8&8.848C8L8\8m8s8
+9$90999>9H9X9i9o9~9
+:,:2:A:M:V:\:a:l:t:
+;';1;9;F;Q;V;a;h;z;
+<'<-<;<K<a<q<
+=c=i=o=z=
+>!>(>/>6>W>]>c>t>}>
+?.?4?E?L?_?e?v?}?
+0#040;0N0_0f0y0
+1%161=1P1a1h1{1
+2'282?2R2c2j2}2
+3)3:3A3T3e3l3
+4+4<4C4V4g4n4
+5'5<5H5N5`5j5s5}5
+6'6;6U6u6
+7 7&7,797?7I7h7n7x7~7
+8#8*81888?8F8M8U8]8e8q8z8
+9.949
+; ;1;<;A;F;];h;n;
+<7<<<~<
+= =&=,=2=8=>=D=J=P=
+0$1(1

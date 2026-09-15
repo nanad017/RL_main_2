@@ -1,0 +1,808 @@
+!This program cannot be run in DOS mode.
+RichC
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+RSDS
+SystemPropertiesAdvanced.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+h, @
+54 @
+h  @
+=h#@
+=l#@
+t%hl#@
+5l#@
+XPQj
+=( @
+=( @
+8csm
+_^[]
+Y_^[
+Y_^[
+%`0@
+50!@
+=,!@
+% !@
+Y__^[
+%P0@
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+_wcmdln
+?terminate@@YAXXZ
+msvcrt.dll
+_controlfp
+_except_handler4_common
+DisplaySYSDMCPL
+SYSDM.CPL
+Sleep
+GetStartupInfoW
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"  xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+<assemblyIdentity
+	processorArchitecture="x86"
+	version="5.1.0.0"
+	name="Microsoft.Windows.SystemPropertiesAdvanced" type="win32" />
+<description>Advanced System Settings</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            publicKeyToken="6595b64144ccf1df"
+            processorArchitecture="x86"
+        />
+    </dependentAssembly>
+</dependency>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="requireAdministrator"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+<asmv3:application>
+   <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+        <autoElevate>true</autoElevate>
+   </asmv3:windowsSettings>
+</asmv3:application>
+</assembly>
+xwwxx
+wwxx
+wwxxx
+wVLDDLl\|\
+vTDDDD
+FDDDDLDdLl||||x
+DDDDLDh
+tLDh
+TtFTF
+d||dx
+t|tD
+|t|Lw
+DLLlLx
+xlLlLLl
+wLLLl
+LlLL
+DLlLl
+\LLdv
+xwww
+wDDD
+tDDLl
+xxtDDDFLw
+xDDDF
+tedH
+LLlh
+wwzz
+~xxz}}
+!##$#!"
+z~zr
+#%#%$%%%%"i
+$++++888==3`
+%<<<>>>>??9`
+<VV@@WWWWZ?Z
+L!@YYZZ\Z]\]XX
+'Y\\^^^^^^c]]
+*&&& 
+Haaacccjjkk]
+;**( 
+Tblllllmmln_
+E;;;
+GDE,
+GGH 
+(HKK
+---3i
+*GUE
+--2.6
+*Ki 
+--2240A
+-.2240_
+--.2205n
+--.2447
+-.2254A
+..2245_
+--.2454n
+.12457
+-2.00/5m
+%>YS
+O'CT
+`W=!
+!'0(
+2;<<JJFi
+&LLLMMaKe
+,eeeeffbf
+y/jjllllgg
+ooooppm
+.SUS
+T5&(*\
+$%)*DF
+&*DECG
+%(*DEAN
+(*DDGBh
+$(*DEGB
+%)*DEGH
+"#>?AAH
+#+1Laj
+FFD99<>
+YNJF@>
+DT@XJFFFD@@>>>>N@T@SSSNNNNNNNNN9DT@S@
+J>CT@T@		
+N>=05T@
+	VY[;"( N>@
+4[,,)N@VFTT>
+$HV&%N@
+.-XI&ND
+'331*ND
+T>>>>?@DDDFND
+XTTTTTTNNSNNV
+IHDR
+IDATx
+A`@X
+A!=8
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-kY
+e-k9R
+C*MQ
+@+MS
+%%*I
+!.)!
+]%I24
+}_+j-?
+5FJg
+1XcJ!
+M0fd
+zg@"
+&t:	
+:$IJ
+t;sz
+1D%I
+%rR5
+h4@J
+bN*'$jJ'-
+!R%H
+*IHT
+IUN;
+7>AIC
+.\8x
+'0fGx
+@^@^
+}w29V
+.g4h
+N(LBV
+:@Pj
+"LF"
+*)QRr0
+4lsh
+J` e	
+h%%i"
+<wJc
+!qf@
+D%$IB
+K%PJ1
+IP|k
+h]bK
+?PyHH
+O8%^
+|CJI
+K4#	eY
+A@7o
+1[&S
+*)98
+R`BJ
+T+85
+8|Ym7
+F%jQ}
+=jQ8
+~FJ_
+:*mx
+z|y7G
+27KW
+l6#Q
+$izB
+.OH){
+}_u_q-V 
+*s"(
+9gOos
+}k	;c
+[)eY
+z84$[
+ip/^
+0~FK
+,W)I
+{{{K`
+6HUV
+J[)c
+AkIQ
+%%^%
+gOoV=
+wT.x
+v3(|
+?h9,
+,g9%
+Mg_<
+NlW+
+6s~WYI4
+?h;(
+:6jt
+IDAT
+;g8q
+Xb/B
+EXcE
+`:=|
+=TjQ
+yn)KQM
+Fk.]x
+WT?j]RI
+ ec#
+y!j)
+0)FEH
+m,yQF
+kT|U3ln
+BU,%
+Z;~=
+OXc>c
+%E^Rj]
+Sdk-
+ec9]Q
+x]bs'
+b*ocG^
+>IRT
+$Jxow
+p,@)WN
+$B+D
+dUx3
+/=,Bq
+^ypN
+4()P
+XC|=
+5+$v
+./ L!U
+Bx[[
+@QXt)
+5EY:'^^
+#gq!
+F8Z+
+~vN>
+wz$I
+#qL!
+e>w+
+^[*W
+[9f}RP!
+ 7uXZ
+9B,V
+%f""2'
+()QR
+!_!ny~F 
+ZcmH
+VF-z
+	U*_
+0n0P&
+I@ta
+r67O
+guG`
+uQ/[
+!lw>
+,e>K
+.GXL
+6t:S
+lx'r'ph
++Wnc
+4!"gc
+" Wm@
+eQ c
+iIYZ
+A,J7
+$I1&[
+[U&H
+5y5g`
+]WP~
+1(kU
+m\(0
+}6YA
+*>Uo
+1}u01F`
+Bs#S
+bwwwU
+.t\_
+)Rhl
+$Lf%
+`08E
+<:je
+t\Hpo_Pj
+x[T7
+|>GE
+4`m4
+MvN}
+|H))
+'1]o
+MS j
+Hs|A`-q
+-~/	=wS
+)U99
+ev42
+IDATV
+tFXdm
+fbYJ
+P7J)
+'0_9
+t6hw6
+EQTk
+X7SMe
+-	%$c
+Bj	It
+:wuU
+Jlln
+5dh?E
+33=ncd
+'n5 
+g{}=
+"WWS
+QYs!
+34c2
+YJRC
+%dQaP
+[k}*
+\Jic
+(}[8Z
+HVzj{
+0Tut>Q
+	=)jH2
+rG6}]=
+HT% 
+g6i#
+1<W YC
+{0Mfa
+-ITE
+h8v^
+4	uR
+@j	gb
+x>68
+1?7G
+$&''9
+.DW;
+a8Rlr'd
+H3VT
+Azfd
+_C}{
+a	Sdt
+.MR.
+ y~{
+Ej@8
+y$`f
+oSpc
+D&$2
+xn5c
+LVbg
+$N<<zTK=k
+1:K5
+F	A 
+\fss3
+' Hd
+c{{;c]
+bUF<
+3X\^0r
+v.Hl
+0$aP
+P_3a
++O"E
+yDQB
+cT*%
+7PP&	~
+:2*C
+("Nr
+ u#b~Q
+,..r
+X"DB
+\f{{
+r!IAbu`C
+?BLz
+WW7i
+2IZw2
+2g/\f
+-eWL
+</F&
+w"zs
+IDAT
+Um@!
+ZFw2
+|O =
+h4Hdv"
+&?|"
+Q%FB
+N0_J{
+6:1$L
+vY[[
+6)9\
+Y=U$
+U32z
+1(HJ
+v#S)9
+I$dK
+-=&D
+K{|F^;
+Gd_-1
+|o3?#{
+BnS=@
+T`w.
+)yGI
+}733
+A?i|
+4L3\8
+0(|#[!
+SSSx~
+#d$2
+=?>sc8
+.Lr;
+Z\^i
+0ffR
+>CVP
+]]uft_^
+3xv.
+aX8N
+2>>N
+^grr
+HHz 
+3L@_
+6[]B
+&kkk
+>Zhiu
+(W*4
+mo}+
+QN}0L
+{g;2
+QkORZ
+xR	;=
+I<"<
+T*LLN
+ `uu
+B'U%
+J2AJ)3P;
+,e>#
+@JII
+=' 1
+zffl
+..255
+DIn/
+<CT"
+mh75
+","\
+zofx
+CJA`
+LP*Q
+m^:~
+PF?mO06
+<,a;=
+0PhI[
+'O	:
+MXZl
+v	K%
+]!uK*
+ cDb
+J%{^F
+I_0C
+yv~\
+T*Q*
+Mg:LA
+&5\V
+zloo
+m6`X
+5/n9
+egMJ
+J%&''
+T*133
+&'&&
+8p`n
+C677
+/2-c
+1==mg
+&''i6
+1777
+t;=z
+5&'&
+$N=7
+ `zz
+ `vvV%
+.]bkk
+66{D
+IDAT
+X\\d||
+_Y^^~
+>|hlllva~~*(
+ gGXx
+_C$	
+N~p%
+WY[[CJ
+p8d{{
+}}~=I
+`{{[
+>`m}]=
+>APbq
+TnR.
+,--Q
+?pda
+a2!{
+0h$~
+Zsnnn
+%lmn
+F&3$
+Zeii
+VVVh
+777/
+	]]XX`vv6
+Q677	C
+t:+("3
+J~)%^.
+$ccc
+SO=z
+'YYY
+Yffg9x
+!qk?
+,..r
+y*TP
+ZZZz
+h01>
+t:6/
+R&DQj
+aLLL033C
+uVVVh
+O0;;
+Zo&P$
+Now=M
+i&''G
+VWWY__G
+0dvv
+~prrr
+<VWW_
+=721
+./--
+\.355
+-=Pz
+YYYamm
+XYYy%I
+	}'fP
+ccc$
+W^ayy
+`0`cc
+Tbbb
+yfggY\\d
+}LLLP*
+b9nI
+_\]]
+#D(X]
+RJ666X]]EJ
+\7/>
+nWnoo_
+VJV 
+rX\\
+aTP*
+icxx
+`jjj
+/Y)t
+|>_y
+\.#[
+Ehei
+dj5e
+0ZdF
+a5M`B
+cfff
+X4MC.
+vD ;
+\.g	
+Ncttt
+2w-;_x
+FM(=h$
+`%B/
+J#&s
+Aww7
+\?88
+DjC}
+5 'E
+][(s
+<*-~
+Xaw`
+ELNN"
+UAQy.
+:::B
+.]B<
+|zhh
+H$bE
+XXX 3
+sIDAT
+}}}V
+/_F:
+&''s
+IEb 
+!2 W
+A$*Nd
+%Nlh
+-fgg1;;
+GiLM
+J%x<
+~< '
+LMM}x
+ht|ttt
+sA'A
+*XXX@$
+>8<<
+Mu;,G
+	H2s
+|>_w
+i	|L
+MxjQ
+5!\^e
+{b&V;
+.+S{
+Cq$;
+nw?o&*
+L&3r
+'Fggg$
+ZXXX
+xvvvX
+J___
+X*$v
+VHd9
+QvLv
+IFv$
+a([d
+sjjj2
+s+eg
+'YZE
+===R
+>`Y*
+{\t7
+yWdUU
+j:TU
+]6VEK
+\1%X|6
+lM-g
+Vfff
+86??
+0dD 
+F)3Pv
+uq,	
+}YRNf-
+.^G4
+22R(
+ftuu!
+%Ahe
+l@N>
+yLOO
+K+hL
+/..B
+5y]h
+eZ_v
+	LLL@
+sUUO
+:thW<
+6l@oo
+P(Xy
+r9,,, 
+)UUGUU=
+X355ug4
+z{{--
+	UUO
+ZKMj]]]
+@ `M:
+9sfu
+CUUU%!
+UUMUU+
+8X6R
+CUUO&
+.EQ|
+)3Kh
+IEND
+yyy\rrr#
+**))omo
+NNOxjjk
+///)
+ede3__^
+CCC.NNM
+pppI
+99:4yy{
+&HHJ@sswt
+ncDU
+yhde
+wwwNvvv
+!!!q
+dCCA
+__]Z
+sLLM
+Irrp
++++y
+0@0D0
+1V3\3x3
+4$4A4F4L4Q4V4[4`4f4n4{4
+5!5.5=5E5M5c5k5r5
+6%6+64696k6
+6)7A7G7V7b7
+: :;:J:U:r:
+;!;';-;3;9;?;F;M;T;[;b;i;p;x;
+<-<J<

@@ -1,0 +1,1011 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+WVSHc
+~"f.
+D$XH
+D$8H
+D$0H
+D$(L
+AUATUWVS
+t$@1
+t$0E1
+D$8,
+D$ d
+[^_]A\A]A^
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+|$@H
+|$0H
+|$(H
+T$ H
+L$hL
+T$pH
+|$xH
+|$`H
+[^_]A\A]A^A_
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+libgcj-16.dll
+_Jv_RegisterClasses
+Adam D. Moss (adam@foxbox.org)
+This function simulates the degradation of being on an old low-dotpitch RGB video monitor to the specified drawable.
+Simulate distortion produced by a fuzzy or low-res monitor
+plug-in-video
+RGB*
+Vi_deo...
+2nd March 1997
+<Image>/Filters/Distorts
+_Staggered
+gimp20-std-plug-ins
+UTF-8
+video
+Video
+gimp-video
+gtk-ok
+gtk-cancel
+Video Pattern
+gimp-item-data
+toggled
+_Additive
+_Rotated
+run-mode
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+image
+Input image (unused)
+drawable
+Input drawable
+pattern-number
+Type of RGB pattern to use
+additive
+Whether the function adds the result to the original image
+rotated
+Whether to rotate the RGB pattern by ninety degrees
+dF{dG{_D
+aC~_A}_A
+dCz^;{`?~eG
+fC~a?
+fLw^Ft[<oT2rX7lU8{cJ
+bG}\@
+gC}a>{_>x]>rV9sX=oV>hP9gP4fM/gO3kT9wbIzgP
+dJ}`Fz\@
+c@{_=x[;qT7kP5mS:oV>hP:bJ3fN5cK4cN7fT=hYBteOxiS
+vh~pcsi^ng]rme}zr
+jV~eO
+iN{aGy^Cz^B{]?
+a@w[;mQ3iN3gL2fM5fN7eL7\E/[E0YE0YG2WH4[M8eXCbVArcQsbTteYqeZkcZmhbrpk
+s^xdPxbLzaGw]CtY?w\@{^@
+bDwZ<lO3aF,_D,mR;hP:bJ6[F1SA,N=)K<)H<)G;*NC3NC3WJ=_QEZODf\Twoj
+mVzjV
+r_udOwdMs[At[@rY?u]?y\?
+bD~_A
+iO}_AwZ<oS7fK0`G.aH1aH4[D1P>(I8#E7#B6#?3#A7)C:.D<1D;/NC8UKAskc
+zqwgWxbMy`GwbItcM{lZ~rb}n\weQs`Jr[@nW<sZ@nW:uY<z]?y]=~a>{\:xZ8xY9{\>
+bIz[Ax[>sW;oT9nR;]C/[C0W@-Q>'G9 C6
+A5"=2$ND8TKB\TM`VMaVKe\S
+ljg}}|
+~z}mcs_QqZHt\Ew`IwbN~jW~lZ~lZ
+jXwbMrZ>rW<uY=mQ5tW9xY;wY;xY:wZ7rT3rS4uY=tXA
+eLy_EuYBtZAcK4[B-VA(M; I:!H:%SG6yoa
+xfQK=GF@\``
+yt}mbtaTnXJlU>s[Cu^F{dM
+gSu]Jx_LsY=uZ=rV9sV:uU;wV;yX=xZ;w[8tV5qR4wZ@
+fKsW<gN0hO0fQ3bP6wfQ
+sypmrf
+nwgTB;/C@:<=<GMNrz}
+yo{m`qaQgU6lY8oZ<o[>nY?oZBoZDq[EqZ?r[?nU;qV<uY@{^Cy[BuX<uW:tU7oQ4uW=
+__^FGH@CBMODYVD
+oVhWBD:+=7/330588JQS
+}y}wp
+|owl[iY8`O-bQ1hV;hV<q^G~jUyfRzcKzaHs\Ct[C~cK
+dL}^E{\BzZA{]Cz]E
+MNKAA=?>8;;9GGCE?/l^E
+iMbO5A4"<6,33/577132RUU
+vxqh{ti
+{lldU`P5_M2fU;r^G
+t`XO873:;8/0-99274+>93C<3YJ4
+tPfP1=1
+5/&,+'873664788SWW
+y~titi^ti]uk]tk[ogWeZK`L7lVA}dP
+jl]KA7-84.TUPGJGHJF0/(?9,A6)[J9
+zP]G(?1 1) (%
+)("22-563*-*BDAjkg
+xnwk`reYrdVoaRi[Jn^LrbOyaM
+mNubJ>5&-'
+0-'qqm
+^a^10(A8)M:'
+{TaK16)
+0/(893 "
+<<5>:3[PGn_Uxh\
+c?tU6H6
+&&!  
+x~~]im~
+7;:0-%9. sU<
+}R`H+<-
+C9*g[K
+lPwZ>O7
+BDCu|}isuU\\13-7/#`M7
+|S[B*9*
+E>.zm\
+kOr[DG4!- 
+'(%|
+ttl61%QB,
+cbJ/E5
+iFoS7S=(H4
+3,!3.&sofqnd<8-SH6wbI
+igO/C2
+;. I@4
+a<{Y7
+aChO7kT:`I0W@*T>(P;$G3
+Q?+K=,I<,WK:TH5o\C
+iuZ6M8
+YD)\F+aB$lK/W<$y`J
+`@qR2
+c@uX9cI/hQ6[F-~gJ
+mxY3cF$rS4{[:~T.{O*{P,~V5
+dK}dN
+^6fB
+d;yN*
+[/}W/
+V-{R)yS.
+_:}]6
+^<{]@
+]8~\9tU6}_C
+b:}X4wS4{[<
+Z5{U3
+W4zT3
+i?}\5
+S/{R0~^>
+c<}X2
+X1yQ-oK*tW9
+U0}T/{R-~W0yP-{S/zR0sP.sS4}cI
+\6{R-tN({R0zR0qK+tS2
+Z4}V/sK*qI)rM.xU9
+V5wO/xS3rP4
+U0{R-~U/{T.
+\8~Y4yR1mK,wW<~fO
+[2}Q,yP+yP+{T.uQ-xS.sN)nJ&hG&hJ,
+S.zQ,{R-
+a:zW0sP(rK#nG
+sM&qP(z[7
+W1~W0yS-}U-
+gBxT/sN(mG oH"uQ,xT/
+T.}Q-{U/tN)uO)
+\9wS0uP+sH%rJ#wN)zT.
+Q*}M&yK%rI'lK*mN/sS1wS0wL(tF uG
+X-~R*
+uJ-xJ(}I#zG
+O)oI*
+nUt\H
+jQ}_AqO-sK$sD
+wH!zM%tI#
+yQ1zO,~O*
+R.{P0
+q\iO5lJ(qL'nJ&hG&yX7
+zR*~S0yR1zX;rU>
+}hrW<kI(
+Y2z[=
+rVwS0yO%uG!iB
+lu\@
+Q"xQ(x]A
+~tg}m\
+t]~^?
+V+~L
+}N#}U0
+yL&uK)qQ2
+kw[AkI-kE&rJ"zN#
+M yH
+}csS4
+zL%xM*qM.{Z?{Z?iJ-lG(oF$oE
+^AuR0
+M${N(uN-nL0nM1kH*{Q/oD oD
+\}[9
+_<tO0gG(
+wQ}N'qE
+lLuU5
+]8zU)
+b8xS.yX7O6
+{dG}fIkV8cP4iR6fK*rM(qI!rF
+N$tE
+dAxS4iI)tN.tJ'qD
+^8{Q(wJ
+R(yY6lQ3_H,_I.s\?Y@"lO,
+mI[@$N9 7*
+iH }Z6
+~L#sG!qI(}Y<
+\=qH&uI$xJ
+oJzT/`:
+wYmX>(
+gJ$lT2o\?
+wI#oE"hE'
+\8yH
+lI~Y5rM(kE
+zPsR+wV4nQ4_G/
+W/uM&hE#w\@
+yM(mD!hD&mN2y[=
+`?zO,sA
+\9~X3~W0~W/zU,
+h?gP-2%
+nL'wP*zS,
+nL`D)?)
+xM)uI%wH"zH 
+K }J {H
+aAhH(nK(zR.
+R,~S)
+_9eC J-
+oKtU2O6
+V+uL$oE!tF ~L#
+eB~R5gC+kH+qN+
+qI$oC
+dCrQ0uQ-
+Y4{N(yO%kD
+qH uJ&uK'c?
+rOkL*`C D,
+fI,qR2hG%mG"mE
+lD nB
+U,kC
+tG!oE!nH#a?
+oM}\:uU4[?"YA%
+lqP.qL(c>
+zN)yP*
+sJ%yK%qA
+e=}S,xL'sE uF
+R+zO+tK(`=
+fD~_A_D)iM0rT5
+_=wT0mH$oI#oG#{Q.
+_7oC
+U.wI"
+Q*}S/xP/zW9
+hIoS7bF*nQ1
+b?uR/zU1zW3wU4
+xO'lB
+e=yQ*
+c?{X8
+lM{]?lP1oR2
+iIy]=~_?}^>
+U)qC
+kLy[=
+T)yH
+pUzaH}cI
+oS{cJx_E
+}J }G
+kPxaF~eK
+iM~hM
+mTzeLcP:
+~xhY
+s_q^JfVCoaR
+rbM>1VL@
+iXhVHl[J\K9o\I
+tgZMVOC
+ywjwrb
+vczm]73&
+rcyiZ
+x~p_
+zka[Q
+}K"~J
+zpaB;/
+I@6th]
+zthge\
+}K#~M#
+U,zO%
+f7yO$zR(
+g>{S)
+R&~L#}N'zR*
+}~}#%$
+$&"WWU
+zt{w
+S&}M
+P#}P#
+Y2~X3
+S%~O!
+V+~T+}T+
+sww\``:>>),,(**;>>KNNimm|
+u{yz
+w~{w~{~
+T+yK%
+vzyy~|}
+diglqomupv}y
+owrjqmx
+yQ(zR*~V.
+Y1~U-~V.
+U.zP*{P,{P,
+U/}P*~P*zN(}S/}V/
+x}{}
+qxu\caX_\aheahdryuowry
+|owrqxtryu}
+r{v|
+xT0{X3
+[6zW3{X3zW3
+[6zT1wP/xP.wO-uK(
+S/zO*{P,zS,tN(wT0
+jL~eM
+fkg|
+}x}y
+uyvszu
+{ltoszvbie\c_U\X[b]`hadle{
+|s{tpxqx
+ypxqy
+zu}x
+jP~`B
+xY9wW8uV7uV6xY9{\=z[;zZ;uS7rQ2sP2rM/wP0xO.zQ/{R/zQ/
+fB}a>
+swt{
+|y~zy~zjnk
+bkfv
+zdmhqzujsnjsnclgT]V_g`aibx
+yqyru}v{
+|qyru}w~
+}}ugzn^
+kQ~dK
+iPqV?
+_EtS7
+\?tP2tO1xT0uR0rQ0~bA
+uyvx~x|
+zqxq|
+zs}vu
+xqzty
+|qztirmbke[c]]e^gohw
+wltlqyry
+|qzu
+r{lY
+fI}\;
+m_eQ>qT6y];
+sU~kOnaH
+r{xowsltp
+r}}nxzisu^ff_ca`ebvzxw{ymqoz
+kV{cLsY?z[?sT5tX<~hM
+ws`GhT<iV>gU?l^I
+owr~
+oxtkuqp{x
+w~}fkghmi
+txuswtvzw}
+~qxsy
+qa~jW
+dJsW:
+bCx^Br^F}nX
+z~zs}}z
+{itny
+u}|Za]`gc
+v}yx
+{w~z~
+ltpy
+tbtaN}iT{eM
+hL~eG
+fFs[@s_JzjW
+zvohc{si
+}uwpj
+gqpV_\[b^ahdowrw~zw~zy
+{r{xr}{
+p`xiVeUBo]Ho\Eq\CmX>ydNtcQxjZ
+u{yv~zitn|
+hrrjsrfnliroqzww
+vjrh[rfXbVGfZI_R?]Q?cVGnaUwmc{vn
+mxymwwjtspzy{
+ktuclmw
+{xpcaYid_uomwus|}|
+oy{r|~
+_Large staggered
+S_triped
+_Wide-striped
+Lo_ng-staggered
+_3x3
+Larg_e 3x3
+_Hex
+_Dots
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+vfprintf
+gimp_displays_flush
+gimp_drawable_detach
+gimp_drawable_get
+gimp_drawable_is_rgb
+gimp_install_procedure
+gimp_main
+gimp_plugin_menu_register
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init
+gimp_rgn_iterator_free
+gimp_rgn_iterator_new
+gimp_rgn_iterator_src_dest
+gimp_tile_cache_ntiles
+gimp_tile_width
+gimp_locale_directory
+gimp_dialog_get_type
+gimp_dialog_new
+gimp_dialog_run
+gimp_frame_new
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_radio_button_update
+gimp_standard_help_func
+gimp_toggle_button_update
+gtk_box_new
+g_object_set_data
+g_signal_connect_data
+g_type_check_instance_cast
+gtk_box_get_type
+gtk_box_pack_start
+gtk_check_button_new_with_mnemonic
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_set_alternative_button_order
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_radio_button_get_group
+gtk_radio_button_get_type
+gtk_radio_button_new_with_mnemonic
+gtk_toggle_button_get_type
+gtk_toggle_button_set_active
+gtk_widget_destroy
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_window_get_type
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+video.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gimp_dialog_run
+__imp_gimp_tile_width
+__imp_GetStartupInfoA
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp__fmode
+__imp__lock
+__imp_RtlVirtualUnwind
+__imp_gtk_radio_button_get_group
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gimp_drawable_detach
+__imp_gtk_window_get_type
+__imp_gimp_dialog_new
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp_gimp_main
+__imp__amsg_exit
+__imp_gimp_install_procedure
+__imp_GetCurrentThreadId
+__imp_gtk_toggle_button_set_active
+__imp_gimp_preview_area_get_type
+__imp___C_specific_handler
+__imp_GetLastError
+__imp_free
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_RtlLookupFunctionEntry
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+__imp_GetTickCount
+__imp_gtk_frame_new
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_gimp_rgn_iterator_src_dest
+__IAT_end__
+__imp_memcpy
+_head_libgobject_2_0_0_dll
+__imp_gimp_ui_init
+__imp_gimp_procedural_db_set_data
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp___getmainargs
+_head_lib64_libkernel32_a
+_head_lib64_libmsvcrt_a
+__imp_EnterCriticalSection
+__imp_GetCurrentProcessId
+__imp___lconv_init
+__imp_gimp_tile_cache_ntiles
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_signal
+_head_libgimp_2_0_0_dll
+__imp_gimp_displays_flush
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gimp_dialog_get_type
+__imp_gtk_container_get_type
+__imp_strlen
+__imp_malloc
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_InitializeCriticalSection
+__imp_gtk_dialog_get_type
+__imp_exit
+__imp_vfprintf
+__imp___initenv
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp__onexit
+__imp_gimp_rgn_iterator_free
+__imp_gtk_toggle_button_get_type
+__imp_gimp_procedural_db_get_data
+__imp_libintl_gettext
+__imp_gtk_box_get_type
+__imp___argv
+__imp_Sleep
+__imp___setusermatherr
+__imp_gimp_locale_directory
+__imp_gtk_widget_destroy
+__imp_gimp_progress_init
+__imp_TlsGetValue
+__imp_fprintf
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gimp_drawable_get
+__imp_VirtualQuery
+__imp__initterm
+__imp_gimp_drawable_is_rgb
+__imp___iob_func
+__imp_gimp_preview_area_new
+__imp_gimp_rgn_iterator_new
+__imp_strncmp
+__imp_gtk_container_set_border_width
+__imp_gtk_frame_get_type
+__imp__unlock
+__imp___set_app_type
+__imp_g_object_set_data
+__imp_gtk_radio_button_new_with_mnemonic
+__imp_gimp_preview_area_draw
+__imp_gimp_radio_button_update
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gimp_toggle_button_update
+__imp_gtk_container_add
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_check_button_new_with_mnemonic
+__imp_GetCurrentProcess
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_gtk_radio_button_get_type
+__lib64_libmsvcrt_a_iname
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+'bAk
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510152650Z0#
+pPK:
+kaSYh
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+PMhv"Y
+rD6b
+{B0Y
+w>v4
+6g`5
+20170510155850Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155850Z0+
+6R}O
+N]+JBWH
+VI;eE
+lD;[

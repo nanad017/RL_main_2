@@ -1,0 +1,1328 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+_ 9C
+P~	 5$
+nB2pR
+*2(/
+*B(/
+*2(1
+?,*(B
+U-2~
++^	o
+,`(6
++"	o
+,E~	
+=3^(
++.	(
+&*B(N
++(	oh
+z	om
++iro
+p	(7
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPsTW
+Analysis Summary:
+m* Analysis was not performed; at least one valid rules assembly and one valid
+target file must be specified.
+(Apply the XSL style sheet to the output.
+:Argument specified without a corresponding switch : '{0}'.
+xAnalyze only ASP.NET-generated binaries and honor global suppressions in App_Code.dll for all assemblies under analysis.
+P* Cannot load file {0}. FxCop does not support analysis of Reference Assemblies.
+GOutput messages to console, including file and line number information.
+&Apply specified XSL to console output.
+9Copyright (C) Microsoft Corporation, All Rights Reserved.
+ * Could not find assembly '{0}'.
+)* Could not find import(s) from path {0}.
+4* Could not import report or project file '{0}': {1}
+* Could not load file: '{0}'.
+Could not locate Xsl file: {0}.
+ Could not open output file: {0}.
+Culture for spelling rules.
+>Invalid argument: delimiter (':' or '=') may not start switch.
+)Custom dictionary used by spelling rules.
+	directory
+Directory '{0}' was not found.
+-Location to search for assembly dependencies.
+Done:
+* End of project load errors.
+* {0}
+Error text: {0}.
+Error writing output file to '{0}': {1}. If there is an XML report output file, make sure that the location of the report style sheet is correct.
+'Error writing to log file at '{0}': {1}
+1* Error(s) occurred during FxCop initialization: 
+@Treat missing rules or rule sets as an error and halt execution.
+Failed loading FxCop project.
+P* Failed to load rule set file '{0}' or one of its dependent rule set files. {1}
+file
+file/directory
+Assembly file(s) to analyze.
+QWrite output XML and project files even in the case where no violations occurred.
+Rule set found at '{0}'
+Display this help message.
+1Type '{0} /?' for help on command-line arguments.
+1Suppress analysis results against generated code.
+%Silently ignore invalid target files.
+JIgnoring rule '{0}' because it is obsolete in the current version of FxCop
+Ignoring rule set at '{0}'
+ Ignoring rules in namespace {0}.
+-import XML report(s) or FxCop project file(s)
+Initializing {0} engine...
+Loading {0}...
+Messages: {0}
++{0} is missing a CommandSwitch on the rule.
+tThe referenced assembly '{0}' could not be found. This assembly is required for analysis and was referenced by: {1}.
+MThe argument to the /ruleset switch must be prefixed by one of '+', '-', '='.
+The indirectly-referenced assembly '{0}' could not be found. This assembly is not required for analysis, however, analysis results could be incomplete. This assembly was referenced by: {1}.
+The indirectly-referenced Silverlight assembly '{0}' could not be found. This assembly is not required for analysis, however, analysis results could be incomplete. Silverlight reference assemblies should be specified with the '/reference' switch. This assembly was referenced by: {1}.
+NOTE: One or more referenced assemblies could not be found. Use the '/directory' or '/reference' switch to specify additional assembly reference search paths.
+"The rule '{0}' could not be found.
+?The rule '{0}' referenced in rule set '{1}' could not be found.
+$The '{0}' argument requires a value.
+"More help on command-line options:
+D* Must specify at least one of /out:<file name> or /console options.
+No messages written.
+5There were non-critical errors loading FxCop project:
+(FxCop project or XML report output file.
+wReference the specified XSL in the XML report file; use /outxsl:none to generate an XML report with no XSL style sheet.
+.Run all overridable rules against all targets.
+ Location of platform assemblies.
+<+|-|=>file
+Project file to load.
+XSuppress all console output other than the reporting implied by /console or /consolexsl.
++Reference assemblies required for analysis.
+3Restricting analysis to only the specified types...
+[+|-]file / directory 
+'[+|-]Namespace.CheckId|Category#CheckId
+Namespace and CheckId strings that identify a Rule. Category and CheckId strings can be used instead to identify a Rule, but this format has been deprecated. '+' enables the rule; '-' disables the rule.
+Directory to search for rule set files that are specified by the /ruleset switch or are included by one of the specified rule sets.
+Rule set to be used for the analysis. It can be a file path to the rule set file or the file name of a built-in rule set. '+' enables all rules in the rule set; '-' disables all rules in the rule set; '=' sets rules to match the rule set and disables all rules that are not enabled in the rule set.
+mDirectory containing rule assemblies or path to rule assembly. '+' enables all rules, '-' disables all rules.
+Running Time: {0}
+%Saving any changes to project file...
+4Search Global Assembly Cache for missing references.
+seconds
+Short form
+1Save messages of specified kind to output report.
+(Active|Excluded|Absent (default: Active)
+vCreate .lastcodeanalysissucceeded file in output report directory if no build-breaking messages occur during analysis.
+Display summary after analysis.
+#Switch '/{0}' is an unknown switch.
+1Switch '{0}' may not be assigned multiple values.
+&Argument is not valid: switch missing.
+'Switch '{0}' required but not provided.
+EThe value provided to the /timeout switch must be a positive integer.
+Override timeout for analysis deadlock detection. Analysis will be aborted when analysis of a single item by a single rule exceeds the specified amount of time. Specify a value of 0 to disable deadlock detection.
+<Microsoft (R) FxCop Command-Line Tool, Version {0} ({1}) X86
+'* {0} total analysis engine exceptions.
+* {0} total rule exceptions.
+	type list
+%Analyze only these types and members.
+>The culture provided to the /culture switch is not recognized.
+@Unknown message kind passed to /SaveReportMessage switch: '{0}'.
+TThe value '{0}' provided to the /targetframeworkversion is not a recognized version.
+?The /update option cannot be specified with /ruleset arguments.
+4Update option was specified without project argument
+1Update the project file if there are any changes.
+$Give verbose output during analysis.
++Warning: {0} node(s) could not be imported.
+Writing {0} messages...
+Writing project to {0}...
+Writing report to {0}...
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+G ' 
+e ' 
+@" "
+8*-*
+t*h*
+V,l#
+M.".
+J/".
+_222
+322"
+85h*
+<Module>
+FxCopCmd.exe
+CommandLineHelpers
+Microsoft.FxCop.Command
+ConsoleListener
+FxCopCommand
+Localized
+MissingAssemblyReferenceReporter
+ReferenceType
+ReturnCodes
+ArgumentDictionary
+CommandRule
+CheckingRule
+CommandLineArgumentException
+CommandLineException
+CommandParser
+CommandSwitch
+mscorlib
+System
+Object
+System.Diagnostics
+TraceListener
+FxCopCommon
+Microsoft.FxCop.Common
+IResolveAssemblyReference
+Enum
+System.Collections.Generic
+IDictionary`2
+System.Collections.Specialized
+StringCollection
+ICollection`1
+KeyValuePair`2
+IEnumerable`1
+System.Collections
+IEnumerable
+ArgumentException
+ProcessTargetFrameworkVersionArgument
+Version
+TryParseTargetFrameworkVersion
+.ctor
+WriteLine
+Write
+Fail
+get_FailOnAssert
+set_FailOnAssert
+<FailOnAssert>k__BackingField
+FailOnAssert
+s_quiet
+s_wroteLogo
+s_atLeastOneValidTarget
+s_ignoreInvalidTargets
+s_generateSuccessFile
+s_singleInvalidTargetName
+s_invalidTargetCount
+List`1
+s_ruleSetDirectories
+s_ignoredNamespaces
+WriteError
+System.IO
+TextWriter
+WriteLogo
+Main
+Main2
+Stream
+ArrayList
+PersistStreams
+FileStream
+SaveReport
+GetSuccessFilePath
+GetSuccessFileName
+AddSuccessFile
+WritePerformanceLog
+IsProjectFileName
+GetThreadCount
+IsFlowAnalysisEnabled
+ProcessAssemblyCompareModeArgument
+ProcessProjectArgument
+ProcessDirectoryArguments
+ProcessReferenceArguments
+ProcessPlatformArgument
+Exception
+LogInvalidPlatformException
+ProcessRuleArguments
+ProcessRuleSetDirectoryArguments
+ProcessRuleIdAndRuleSetArguments
+ProcessRuleIdArgument
+ProcessRuleSetArgument
+ProcessFileArguments
+HandleFileArgumentError
+HandleTargetLoadFailure
+GetRuleSetPath
+LoadRuleSet
+s_fileFilters
+IList`1
+GetFileList
+IsValidTarget
+IsReferenceAssembly
+ProcessImportArguments
+ProcessDictionaryArguments
+FxCopSdk
+Microsoft.FxCop.Sdk
+ExceptionKeyword
+HandleMissingRuleOrRuleSet
+EventArgs
+UpdateStatusHandler
+EngineChangedHandler
+System.Resources
+ResourceManager
+get_SwitchMissing
+get_FileOrDirectory
+get_ForceOutputSwitchHelp
+get_ProjectSwitchHelp
+ToolName
+ArgumentSpecifiedWithoutACorrespondingSwitch
+get_HelpSwitchHelp
+CouldNotLocateXslFile
+get_AspNetSwitchHelp
+get_Directory
+CouldNotOpenOutputFile
+get_VerboseSwitchHelp
+MissingIndirectReference
+MissingIndirectSilverlightReference
+MessageStatistics
+HowToInvokeHelp
+WarningNodesCouldNotBeImported
+get_PlatformSwitchHelp
+TotalRuleExceptions
+SwitchIsUnknown
+get_UpdateOptionSpecifiedWithoutProject
+get_ConsoleXslSwitchHelp
+get_RuleId
+get_RestrictingAnalysisToSpecifiedTypes
+get_EndOfProjectLoadErrors
+get_SavingChangesToProjectFile
+get_DictionarySwitchHelp
+get_Copyright
+get_ConsoleSwitchHelp
+get_NonCriticalErrorsLoadingProject
+CouldNotImportReport
+get_MustSpecifyAtLeastOneOption
+get_MissingReferenceWarning
+ErrorWritingReport
+get_OutputXslSwitchHelp
+InitializingEngine
+get_FailedLoadingProject
+get_ErrorsOccurredDuringInitialization
+get_IgnoreInvalidTargetsSwitchHelp
+SwitchRequiredButNotProvided
+CouldNotLoadFile
+MissingACommandSwitchOnTheRule
+get_FileSwitchHelp
+CouldNotFindAssembly
+get_DelimiterMayNotStartSwitch
+LoadingProjectFile
+get_SummarySwitchHelp
+get_TypeList
+get_NoMessagesWritten
+get_TypeSwitchHelp
+get_ApplyOutputXslSwitchHelp
+get_AnalysisWasNotPerformed
+get_RuleIdSwitchHelp
+TotalAnalysisExceptions
+ErrorText
+get_UpdateSwitchHelp
+get_QuietSwitchHelp
+CouldNotFindImportFromPath
+WritingProject
+RunningTimeStatistics
+get_RuleSwitchHelp
+get_AnalysisSummary
+get_OutputSwitchHelp
+WritingMessages
+ErrorWritingToLogFile
+get_RuleFileOrDirectory
+get_ImportSwitchHelp
+SwitchMayNotBeAssignedMultipleValues
+get_DirectorySwitchHelp
+get_MoreHelp
+get_ShortForm
+WritingReport
+get_File
+get_Done
+get_SearchGacSwitchHelp
+get_SuccessFileSwitchHelp
+get_Seconds
+get_TimeoutMustBeInteger
+get_TimeoutSwitchHelp
+get_SmrKinds
+get_SmrHelpSwitch
+UnknownSmrKind
+get_IgnoreGeneratedCodeSwitchHelp
+get_OverrideRuleVisibilitiesSwitchHelp
+get_CultureSwitchHelp
+get_UnknownCulture
+MissingDirectReference
+MissingRule
+IgnoringRulesInNamespace
+MissingRuleInRuleSet
+MissingValueForArgument
+FailedToLoadRuleSetFile
+get_PlusMinusEqualFile
+get_RuleSetSwitchHelp
+get_RuleSetDirectorySwitchHelp
+get_UpdateOptionSpecifiedWithRuleSet
+get_FailOnMissingRulesSwitchHelp
+UnknownTargetFrameworkVersion
+get_MissingFlagOnRuleSetSwitch
+FoundRuleSet
+IgnoringRuleSet
+IgnoringDeletedRule
+ErrorFormatString
+DirectoryNotFound
+get_ReferenceSwitchHelp
+CannotLoadReferenceAssembly
+SwitchMissing
+FileOrDirectory
+ForceOutputSwitchHelp
+ProjectSwitchHelp
+HelpSwitchHelp
+AspNetSwitchHelp
+Directory
+VerboseSwitchHelp
+PlatformSwitchHelp
+UpdateOptionSpecifiedWithoutProject
+ConsoleXslSwitchHelp
+RuleId
+RestrictingAnalysisToSpecifiedTypes
+EndOfProjectLoadErrors
+SavingChangesToProjectFile
+DictionarySwitchHelp
+Copyright
+ConsoleSwitchHelp
+NonCriticalErrorsLoadingProject
+MustSpecifyAtLeastOneOption
+MissingReferenceWarning
+OutputXslSwitchHelp
+FailedLoadingProject
+ErrorsOccurredDuringInitialization
+IgnoreInvalidTargetsSwitchHelp
+FileSwitchHelp
+DelimiterMayNotStartSwitch
+SummarySwitchHelp
+TypeList
+NoMessagesWritten
+TypeSwitchHelp
+ApplyOutputXslSwitchHelp
+AnalysisWasNotPerformed
+RuleIdSwitchHelp
+UpdateSwitchHelp
+QuietSwitchHelp
+RuleSwitchHelp
+AnalysisSummary
+OutputSwitchHelp
+RuleFileOrDirectory
+ImportSwitchHelp
+DirectorySwitchHelp
+MoreHelp
+ShortForm
+File
+Done
+SearchGacSwitchHelp
+SuccessFileSwitchHelp
+Seconds
+TimeoutMustBeInteger
+TimeoutSwitchHelp
+SmrKinds
+SmrHelpSwitch
+IgnoreGeneratedCodeSwitchHelp
+OverrideRuleVisibilitiesSwitchHelp
+CultureSwitchHelp
+UnknownCulture
+PlusMinusEqualFile
+RuleSetSwitchHelp
+RuleSetDirectorySwitchHelp
+UpdateOptionSpecifiedWithRuleSet
+FailOnMissingRulesSwitchHelp
+MissingFlagOnRuleSetSwitch
+ReferenceSwitchHelp
+Dictionary`2
+System.Reflection
+AssemblyName
+s_missingReferences
+s_missingReferencesLock
+IEqualityComparer`1
+Resolve
+ReportMissingAssemblyReferences
+ReportMissingIndirectAssemblyReference
+ReportMissingDirectAssemblyReference
+FormatListOfReferences
+value__
+Indirect
+Direct
+None
+AnalysisError
+RuleExceptions
+ProjectLoadError
+TargetLoadError
+RuleFileLoadError
+ImportReportError
+OutputError
+CommandLineSwitchError
+InitializationError
+AssemblyReferencesError
+BuildBreakingMessage
+UnknownError
+NullIfNotFoundDictionary`2
+contents
+argumentList
+get_Count
+get_IsReadOnly
+get_Keys
+get_Item
+set_Item
+System.Collections.Generic.IDictionary<System.String,System.Collections.Specialized.StringCollection>.get_Item
+System.Collections.Generic.IDictionary<System.String,System.Collections.Specialized.StringCollection>.set_Item
+get_Values
+get_List
+Clear
+ContainsKey
+Contains
+GetArgument
+GetArguments
+Remove
+TryGetValue
+CopyTo
+IEnumerator`1
+GetEnumerator
+IEnumerator
+System.Collections.IEnumerable.GetEnumerator
+Count
+IsReadOnly
+Keys
+Item
+System.Collections.Generic.IDictionary<System.String,System.Collections.Specialized.StringCollection>.Item
+Values
+List
+commandSwitch
+get_CommandSwitch
+VerifyRule
+ToString
+m_multipleValuesAllowed
+m_switchRequired
+m_valueRequired
+CheckRule
+System.Runtime.Serialization
+SerializationInfo
+StreamingContext
+SCREENWIDTH
+CheckRules
+ParseArg
+ParseCommand
+PrintHelp
+WrapLine
+name
+abbreviation
+description
+valueName
+get_Name
+get_Abbreviation
+get_Description
+get_ValueName
+Equals
+FindSwitch
+Name
+Abbreviation
+Description
+ValueName
+value
+result
+System.Runtime.InteropServices
+OutAttribute
+message
+detailMessage
+writer
+args
+inMemoryReport
+fileStreams
+forceOutput
+messageCount
+exceptionCount
+fileStream
+outFile
+returnCode
+argumentDictionary
+usingProjectFile
+platformSwitch
+innerException
+usingProject
+ruleIdSwitch
+ruleSetSwitch
+ruleId
+ruleSet
+fileArg
+ruleSetName
+ruleSetFile
+action
+filePath
+file
+keyword
+sender
+param0
+param1
+matcher
+reference
+modulePath
+analysisAssembliesWithDirectReference
+optional
+strongName
+referencedBy
+length
+valueNumber
+item
+array
+arrayIndex
+command
+switchRequired
+multipleValuesAllowed
+valueRequired
+options
+info
+context
+arguments
+rules
+switches
+print
+text
+screenWidth
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+InternalsVisibleToAttribute
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+FxCopCmd
+FxCopOM
+Project
+get_Project
+ProjectOptions
+get_Options
+set_TargetFrameworkVersion
+UnknownTargetFramework
+FxCopException
+AnalysisResults
+get_AnalysisResults
+ExceptionCollection
+get_Warnings
+String
+StringComparison
+StartsWith
+Substring
+StringParser
+TryParse
+get_Revision
+get_Build
+Concat
+InvalidOperationException
+CompilerGeneratedAttribute
+System.Diagnostics.CodeAnalysis
+SuppressMessageAttribute
+Console
+get_Out
+Empty
+get_Error
+FxCopVersion
+get_ProjectVersion
+get_Version
+Environment
+get_NewLine
+get_Message
+get_StackTrace
+FileLoadException
+DateTime
+get_Now
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+get_Location
+Path
+GetFileName
+IsNullOrEmpty
+Int32
+System.Globalization
+CultureInfo
+GetCultureInfo
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+set_CurrentUICulture
+Initialize
+set_IsFxCopCmd
+System.Collections.ObjectModel
+Collection`1
+get_Current
+MoveNext
+IDisposable
+Dispose
+get_ProgramRootDirectory
+EngineManager
+get_Engines
+EventHandler
+add_StatusChanged
+add_EngineChanged
+get_Length
+TraceManager
+TraceSwitch
+TraceGeneral
+TraceLevel
+set_Level
+set_Project
+set_SharedProject
+set_AssemblyReferenceResolver
+set_FailOnMissingRules
+set_UsingRuleSet
+set_SearchGlobalAssemblyCache
+<PrivateImplementationDetails>{1E9A41A3-ACA3-4501-B6DD-759D74A02499}
+$$method0x600000f-1
+Exists
+op_Equality
+set_StyleSheet
+set_ApplyStyleSheet
+Hashtable
+StringEnumerator
+Char
+Split
+EndsWith
+Boolean
+set_AnalyzeOnlyAspNetCode
+set_DeadlockDetectionTimeout
+MessageStatus
+set_ReportSaveMessageStatus
+set_IgnoreGeneratedCode
+set_OverrideRuleVisibilities
+NamingService
+TryParseCulture
+set_SpellingCulture
+Trace
+TraceListenerCollection
+get_Listeners
+DefaultTraceListener
+set_AssertUiEnabled
+TextWriterTraceListener
+IndexOf
+Microsoft.VisualStudio.CodeAnalysis
+CodeAnalysisSwitch
+SetValueByName
+get_DumpOptions
+DefaultDumpOptionValue
+FileMode
+FileAccess
+FileShare
+Delete
+Close
+TargetFileDictionary
+get_Targets
+ICollection
+TargetFile
+NodeBase
+NodeBaseDictionaryCollection
+get_Children
+NodeBaseDictionary
+Reload
+set_Checked
+CheckAllChildren
+TargetModuleDictionary
+TargetModule
+TargetNamespaceDictionary
+get_Namespaces
+TargetNamespace
+TargetTypeDictionary
+get_Types
+TargetType
+get_FullyQualifiedName
+set_Name
+get_Exceptions
+AddRange
+get_Level
+Analyze
+get_AnalysisOccurred
+get_CurrentCulture
+IFormatProvider
+RuleExceptionTable
+get_RuleExceptions
+get_AssemblyLoadExceptions
+Enumerator
+GetTempFileName
+System.Xml
+XmlReaderSettings
+set_CloseInput
+get_StyleSheet
+System.Text
+Encoding
+get_UTF8
+set_Position
+XmlReader
+Create
+XmlNodeType
+get_NodeType
+Read
+System.Xml.Xsl
+XslCompiledTransform
+Load
+XsltArgumentList
+Transform
+get_ProjectLoadExceptions
+MissingMessagesException
+get_ContainsBuildBreakingMessage
+TimeSpan
+get_Duration
+Save
+Subtract
+Flush
+GetType
+get_FullName
+StreamWriter
+IOException
+get_ApplyStyleSheet
+XmlTextReader
+InternalUtilities
+CopyStream
+GetDirectoryName
+Combine
+get_AnalyzeOnlyAspNetCode
+FileNode
+get_LocalFileName
+GetEnvironmentVariable
+NumberFormatInfo
+get_NumberFormat
+set_NumberDecimalDigits
+Collect
+WaitForPendingFinalizers
+Process
+GetCurrentProcess
+get_CommandLine
+get_MachineName
+get_TotalProcessorTime
+get_StartTime
+op_Subtraction
+get_WorkingSet64
+Int64
+get_PeakWorkingSet64
+UnauthorizedAccessException
+AnalysisEngineCollection
+get_LoadedEngines
+AnalysisEngine
+get_ThreadCount
+OptionalBool
+get_EnableControlFlowAnalysis
+get_EnableFlowAnalysis
+CommonUtilitiesProvider
+get_CommonUtilities
+Microsoft.VisualStudio.CodeAnalysis.Common
+AssemblyCompareMode
+Parse
+set_AssemblyCompareMode
+ExpandEnvironmentVariables
+MissingDirectory
+AddReferenceDirectory
+AddReferenceAssembly
+Microsoft.VisualStudio.CodeAnalysis.Interop
+AssemblyInfo
+GetAssemblyInfo
+set_PlatformAssemblyInfo
+Info
+GetExtension
+AssemblyResolver
+AddFileExtension
+set_PlatformAssembliesLocation
+BadImageFormatException
+COMException
+get_CouldNotFindPlatformDirectory
+Format
+PlatformException
+ProjectDefaults
+get_ProjectDefaults
+get_DefaultRulesDirectory
+get_Chars
+RuleTable
+get_AllRules
+RuleFile
+AssemblyLoadException
+AddRuleFilesFromRulePath
+Microsoft.VisualStudio.CodeAnalysis.Extensibility
+RuleInfoProvider
+get_DefaultRulePaths
+RuleDictionary
+get_Rules
+SetAllRulesBreakBuild
+get_Key
+get_Value
+Rule
+Find
+FindByFullId
+op_Inequality
+set_Enabled
+set_BreaksBuild
+IsDeletedRule
+FormatInfo
+GetFullPath
+get_FileName
+LoadTargets
+MissingReferences
+PathTooLongException
+DirectoryNotFoundException
+System.Security
+SecurityException
+CannotLoadTargetFile
+IsPathRooted
+<LoadRuleSet>b__0
+Microsoft.VisualStudio.CodeAnalysis.RuleSets
+FailedToLoadRuleSetHandler
+CS$<>9__CachedAnonymousMethodDelegate1
+RuleSet
+LoadFromFile
+get_FxCopAnalyzerId
+ReadOnlyCollection`1
+RuleReference
+GetEffectiveRules
+RuleAction
+get_Action
+get_Namespace
+FindNamespace
+get_FullId
+CompareRuleActions
+set_Action
+get_Id
+FileNotFoundException
+UriFormatException
+XmlException
+InvalidRuleSetException
+get_CurrentDirectory
+GetFiles
+QueryAssembly
+HasCustomAttribute
+MissingMessages
+LoadReport
+get_NodeMessageList
+get_InvariantCulture
+get_AdditionalCustomDictionaries
+get_FailOnMissingRules
+get_Status
+get_RunningEngine
+.cctor
+GetString
+ArgumentNullException
+Monitor
+Enter
+StringComparer
+get_OrdinalIgnoreCase
+Exit
+ContainsValue
+KeyCollection
+SilverlightPlatform
+IsSilverlightBinary
+FormatWarning
+StringBuilder
+Append
+FlagsAttribute
+DefaultMemberAttribute
+Trim
+SerializableAttribute
+IndexOfAny
+ToLower
+StreamReader
+System.Text.RegularExpressions
+Regex
+MatchCollection
+Matches
+Match
+GroupCollection
+get_Groups
+Group
+Capture
+TextReader
+ReadLine
+IList
+Compare
+Microsoft.FxCop.Command.Localized.resources
+RSA1
+(]b,
+=t]o-
+Microsoft.Maintainability"CA1506:AvoidExcessiveClassCoupling
+Microsoft.Maintainability
+CA1502:AvoidExcessiveComplexity
+Microsoft.Performance
+CA1809:AvoidExcessiveLocals
+Microsoft.Design&CA1031:DoNotCatchGeneralExceptionTypes
+Microsoft.Maintainability
+CA1505:AvoidUnmaintainableCode
+Microsoft.Globalization3CA1303:Do not pass literals as localized parameters
+	MessageId>Microsoft.FxCop.Command.FxCopCommand.WriteError(System.String)f
+Microsoft.Globalization3CA1303:Do not pass literals as localized parameters
+	MessageId	WriteLineE
+Microsoft.Reliability*CA2000:Dispose objects before losing scope
+Microsoft.Usage,CA2202:Do not dispose objects multiple times
+Microsoft.Reliability%CA2001:AvoidCallingProblematicMethods
+	MessageId
+System.GC.Collect
+Item
+Microsoft.MSInternal@CA908:AvoidTypesThatRequireJitCompilationInPrecompiledAssemblies
+Microsoft.Globalization"CA1308:NormalizeStringsToUppercase
+Scope
+memberT
+TargetdMicrosoft.FxCop.Command.CommandSwitch..ctor(System.String,System.String,System.String,System.String)
+Microsoft.Globalization"CA1308:NormalizeStringsToUppercase
+Scope
+memberT
+Target
+Microsoft.FxCop.Command.CommandParser.ParseArg(System.String,Microsoft.FxCop.Command.CommandSwitch[],Microsoft.FxCop.Command.ArgumentDictionary):System.Void
+Microsoft.Naming.CA1703:ResourceStringsShouldBeSpelledCorrectly
+Scope
+resourceT
+Target+Microsoft.FxCop.Command.Localized.resourcesT
+	MessageId
+outxsl
+Microsoft.Naming.CA1703:ResourceStringsShouldBeSpelledCorrectly
+Scope
+resourceT
+Target+Microsoft.FxCop.Command.Localized.resourcesT
+	MessageId
+consolexsl
+Microsoft.Naming.CA1703:ResourceStringsShouldBeSpelledCorrectly
+Scope
+resourceT
+Target+Microsoft.FxCop.Command.Localized.resourcesT
+	MessageId
+lastcodeanalysissucceeded
+Microsoft.Naming.CA1703:ResourceStringsShouldBeSpelledCorrectly
+Scope
+resourceT
+Target+Microsoft.FxCop.Command.Localized.resourcesT
+	MessageId
+ruleset
+Microsoft.Naming.CA1703:ResourceStringsShouldBeSpelledCorrectly
+Scope
+resourceT
+Target+Microsoft.FxCop.Command.Localized.resourcesT
+	MessageId
+targetframeworkversion7
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+FxCopCmd.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+~Microsoft.VisualStudio.CodeAnalysis.Test.Framework, PublicKey=002400000480000094000000060200000024000052534131000400000100010007d1fa57c4aed9f0a32e84aa0faefd0de9e8fd6aec8f87fb03766c834c99921eb23be79ad9d5dcc1dd9ad236132102900b723cf980957fc4e177108fc607774f29e8320e92ea05ece4e821c0a5efe8f1645c4c0c93c1ab99285d622caa652c1dfad63d745d6f2de5f17e5eaf0fc4963d261c8a12436518206dc093344d5ad293
+RSDS
+f:\binaries\Intermediate\EdevStaticAnalysis\console.csproj_815252867\objr\x86\FxCopCmd.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- The assembly identity doesn't matter in managed apps, it just needs to be there -->
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <!-- Specify this to maintain the default asInvoker UAC behavior-->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <!-- When running on Win7, run in the Win7 context instead of Vista compatability mode -->
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!--The ID below indicates application support for Windows 7 -->
+      <!-- <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/> -->
+      <!--The ID below indicates application support for Windows Vista -->
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+    </application>
+  </compatibility>
+</asmv1:assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1604
+http://microsoft.com0
+mM)>
+{T\~C
+;\>j
+v	;i
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023015Z0#
+SRQ\
++VmC
+?hFk
+Fcva
+Gi"c{
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1604
+http://microsoft.com0
+(|)H
+QT9{
+20120727023018.853Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120220222922Z
+130520223922Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+7H[y
+|J:Sz
+U\m 
+":%T
+.QEHh2t
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+lc9h
+^6b.
+?U @I]
+oPnp
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Rdv]
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120726233522Z
+20120727233522Z0t0:
+1,0*0
+1(0&0
+{b~G!QS
+vYHq!
+=6H&~
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+ YR+^
+Rdv]
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+rk,N
+evc)\V
+7R,.
+}"Ry
+Chdqn?
++bxl~(

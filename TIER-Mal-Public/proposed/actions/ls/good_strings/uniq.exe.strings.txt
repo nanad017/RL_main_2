@@ -1,0 +1,240 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$\r@
+$ s@
+$Hu@
+[^_]
+$#v@
+$#v@
+$1v@
+$Bv@
+$Bv@
+$xv@
+$Dw@
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+$8x@
+$^x@
+$|x@
+$|x@
+$8x@
+,[^_]
+[^_]
+$Hy@
+ [^]
+$ey@
+,[^_]
+$Hy@
+[^_]
+L[^_]
+$ey@
+[^_]
+[^_]
+[^_]
+$({@
+$T{@
+$|{@
+$4|@
+$D|@
+5 p@
+ [^]
+ [^]
+t7;]
+[^_]
+$d|@
+[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+CHpb@
+CL`b@
+CPPb@
+CT@b@
+C 0Z@
+CDHZ@
+[^_]
+none
+prepend
+separate
+count
+repeated
+all-repeated
+ignore-case
+unique
+skip-fields
+skip-chars
+check-chars
+help
+version
+Try `%s --help' for more information.
+Usage: %s [OPTION]... [INPUT [OUTPUT]]
+Discard all but one of successive identical lines from INPUT (or
+standard input), writing to OUTPUT (or standard output).
+Mandatory arguments to long options are mandatory for short options too.
+  -c, --count           prefix lines by the number of occurrences
+  -d, --repeated        only print duplicate lines
+  -D, --all-repeated[=delimit-method] print all duplicate lines
+                        delimit-method={none(default),prepend,separate}
+                        Delimiting is done with blank lines.
+  -f, --skip-fields=N   avoid comparing the first N fields
+  -i, --ignore-case     ignore differences in case when comparing
+  -s, --skip-chars=N    avoid comparing the first N characters
+  -u, --unique          only print unique lines
+  -w, --check-chars=N   compare no more than N characters in lines
+      --help     display this help and exit
+      --version  output version information and exit
+A field is a run of whitespace, then non-whitespace characters.
+Fields are skipped before chars.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+error reading %s
+%7llu 
+POSIXLY_CORRECT
+coreutils
+/usr/share/locale
+-0123456789Dcdf:is:uw:
+invalid number of bytes to skip
+%s: %s
+--all-repeated
+invalid number of fields to skip
+invalid number of bytes to compare
+extra operand %s
+David MacKenzie
+Richard Stallman
+5.97
+GNU coreutils
+uniq
+printing all duplicated lines and repeat counts is meaningless
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+ambiguous argument %s for %s
+invalid argument %s for %s
+Valid arguments are:
+  - `%s'
+, `%s'
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+_POSIX2_VERSION
+write error
+%s: %s
+POSIX
+string comparison failed
+Set LC_ALL='C' to work around the problem.
+The strings compared were %s and %s.
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+/usr/src/coreutils/coreutils-5.97/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+literal
+shell
+shell-always
+escape
+locale
+clocale
+Copyright %s %d Free Software Foundation, Inc.
+memory exhausted
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+_ctype_
+abort
+atexit
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fputs
+free
+freopen
+fwrite
+getc
+getenv
+malloc
+memcpy
+memset
+putc
+realloc
+setlocale
+strchr
+strcmp
+strcoll
+strdup
+strerror
+strlen
+strncmp
+strtol
+strtoul
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

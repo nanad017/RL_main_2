@@ -1,0 +1,993 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+L$pH
+L$(H
+L$xD
+L$ H
+D$xD
+L$pD
+\$PH
+l$XH
+t$`H
+L$@E3
+L$ I
+\$HH
+\$0H
+t$8H
+x UATAUAVAWH
+t$@H
+t$HH
+t$XH
+t$`H
+t$pH
+t$xD
+L$8H
+L$8H
+d$8L
+L$PI
+L$PH
+l$P3
+L$hA
+L$hH
+|$hH
+D$0A
+L$(H
+|$0H
+A_A^A]A\]
+@SVWH
+t$hH
+T$ H
+D$ H
+\$ H
+\$xH
+D$(H
+\$xH
+t$hH
+\$xH
+|$(H
+\$xH
+@_^[
+AUAVAW
+\$XD
+|$XE
+|$HH
+|$HH9
+9\$p
+|$HH9
+t$`9
+|$HH9
+9\$htI
+9\$\tPH
+|$HH
+t$PH
+D$hH
+9\$t
+9\$xu	E
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+\$H3
+|$PH9
+\$PH
+|$HH
+|$HH9
+t$\E
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+9\$|
+|$PH9
+\$PH
+|$HH
+|$HH9
+9\$@H
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+|$PH9
+\$PH
+|$HH
+|$HH9
+\$ E
+T$\3
+|$@L
+l$hH
+|$HH
+t$PM
+|$PH9
+|$HH
+|$HH9
+A_A^A]
+\$0H
+\$@H
+t$HH
+D$PH
+\$@H
+t$HH
+WATAUH
+\$@H
+l$HH
+t$PH
+ A]A\_
+L$0H
+L$HH
+L$@H
+L$8H
+L$(H
+D$ A
+D$@H
+D$8H
+\$`I
+L$ E3
+\$@H
+t$HH
+H9;u%L
+\$@H
+t$HH
+\$0H
+D$pH
+D$HH
+D$PH
+D$@H
+D$(L
+L$ E3
+D$@H
+D$PE3
+D$8H
+\$xH
+x ATH
+|$(H
+\$@H
+l$HH
+t$PH
+|$XH
+9+||
+\$0H
+l$8H
+t$@H
+x AUH
+\$0H
+l$8H
+t$@H
+|$HH
+\$0H
+l$8H
+t$@H
+WATAUH
+fD;!
+l$'H
+fD;)
+fD; toH
+fD;)u
+fD;(uZH
+fD;)u	
+fD; tyfD
+ tEH
+fD; u
+\$@H
+l$HH
+t$PH
+ A]A\_
+T$ H
+UVWH
+L$HA
+D$PH
+T$pH
+D$`L
+L$@H
+D$8H
+\$0L
+D$p3
+L$HH
+\$HH
+t$8H
+\$03
+\$0H
+\$0H
+l$8H
+t$@H
+t$8H
+\$0H
+\$0H
+\$0H
+UVWATAUAVAWH
+toI;
+$uiI
+8}u?A
+trM9,$t
+$f90t7
+A_A^A]A\_^]
+\$0H
+t$8H
+SVWATAUAVAWH
+t$8H
+D$0H
+t$8H
+D$ H
+D$0H
+D$HI
+L$@H
+D$(H
+t$8H
+L$ H
+|$HH
+\$(H
+D$@L
+D$(H
+T$ H
+`A_A^A]A\_^[
+\$@H
+l$PH
+t$XI
+\$@H
+l$PH
+t$XH
+@SVWATAUAVAW
+L$PH
+T$HL
+D$@L
+L$X3
+\$0H
+T$0H
+\$pHc
+|$xH
+|$pL
+l$PL
+t$HL
+|$@H
+fD9 u
+D$pI
+D$xH;
+L$0E3
+\$0D
+D$8A
+t$0H
+\$pH
+L$xH
+t$0H
+L$pL
+l$PL
+t$HL
+|$@H
+D$xH
+L$pB
+t$(H
+D$pH
+D$ A
+D$xH9D$ptFH
+D$(H
+D$ E3
+T$XI
+A_A^A]A\_^[
+@USVWH
+L$tL
+L$h3
+D$pH
+\$`H
+9T$t
+D$x3
+9\$`t5H
+\$pH
+9T$tt8H
+T$xH
+ua9T$pt[H
+\$xH
+9\$t
+|$8H
+|$ E3
+|$hH
+D$ D
+L$tL
+>{u`H
+D$ E3
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+D$`H
+D$`H
+D$`H
+9T$p
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+9T$p
+9T$`
+L$xH
+_^[]
+@SUVWATAUAV
+D$0E3
+l$0H
+/fD;u
+T$@H
+T$@H
+f;D$@u
+t$ L
+T$@H
+T$@E3
+fD;1
+A^A]A\_^][
+VWATH
+\$`H
+L$PH
+\$HH
+\$p3
+D$8H
+D$@H
+D$xH
+D$pH
+t$8L
+|$0H
+|$(H
+D$ D
+D$pf
+T$pH
+D$xH9D$pt
+A\_^
+@USVWATAUAVH
+L$PE
+D$0L
+t$8L
+t$@D
+L$P3
+L$0H
+T$0I
+t$ L
+L$0L
+A^A]A\_^[]
+@USVWATAUAVH
+L$PE
+D$0L
+t$8L
+t$@D
+L$P3
+L$0H
+T$0H
+L$0E
+A^A]A\_^[]
+\$8H
+\$@H
+t$HH
+D$PH
+\$@H
+t$HH
+D$0I
+L$0H
+f9tC
+\$PH
+t$XH
+L$ 3
+L$ 3
+w	u%
+D9\$(A
+L$ 3
+L$ 3
+L$ 3
+9\$(u
+T$0H
+D$0H
+L$ D
+|$ 	
+L$"3
+D$ H
+D$HH
+D$@H
+D$8H
+D$PH
+D$HH
+D$@H
+D$(H
+UWATH
+D$PH
+D$HL
+d$@L
+d$(L
+A\_]
+x UH
+\$8H
+L$8H
+D$0H
+D$(H
+D$@E3
+t$0H
+L$@L
+L$@L
+L$@L
+D$@D
+L$8D
+T$(H
+L$ H
+D$@D
+L$8D
+T$(H
+L$ H
+D$@D
+L$8D
+T$(H
+L$ H
+t$ UWATH
+L$B3
+L$@L
+T$@A
+L$0L
+L$8L
+A\_]
+@USVWATAUAVAWH
+L$ M
+<G.t
+<G.t
+<G_t
+A_A^A]A\_^[]
+t$ E3
+\$pH
+t$xH
+UVWATAUAVAWH
+L$RE
+L$PL
+D$@H
+D$8L
+D$0H
+D$(L
+|$Pf
+|LN\t
+|LN/u
+|LNL
+D$PH
+A_A^A]A\_^]
+h UAVAWH
+L$pL
+|$pD
+|$xL
+|$XD
+|$`L
+|$hL
+|$@D
+|$HL
+|$PL
+L$pH
+\$pL
+L$XH
+L$XH
+|$XL
+L$@H
+L$@H
+L$@L
+T$@L
+D$4L
+L$8H
+D$(H
+D$0E3
+L9|$@t
+A_A^]
+UATAUAVAWH
+A_A^A]A\]
+@SUVWAVAWH
+D$0D
+|$(H
+uFA;
+uAA;
+D$0D
+|$(H
+uxA;
+D$0D
+|$(H
+A_A^_^][
+UVWATAUAVAWH
+L$pE
+|$pD
+|$xL
+|$@D
+|$HL
+|$PL
+|$(D
+|$0L
+|$8L
+|$XD
+|$`L
+L$pH
+\$pE
+L$@tdL
+L$@H
+|$@H
+L$(E
+L$(H
+L$ L
+t$(L
+L$XI
+L$XH
+L$ H
+L$XM
+L$XH
+A_A^A]A\_^]
+UATAUH
+T$8H
+\$8H
+\$(H
+L$HA
+\$(H
+T$@H
+\$@H
+\$0H
+\$0H
+A]A\]
+VWATH
+T$@H
+|$(H
+t%H9
+A\_^
+VWATH
+L$PE3
+T$PH
+|$8H
+t%H9
+A\_^
+USVWATH
+pA\_^[]
+UVWATAUH
+`A]A\_^]
+t$XH
+\$PH
+t$ WH
+D$@H
+L$0H
+D$8H+
+D$ H
+L$@H3
+\$pH
+t$xH
+t$ UWATAUAVH
+L$BfD
+l$@D
+|$@I
+t$8H
+\$0L
+T$@H
+A^A]A\_]
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+\$0H
+t$8H
+VWATH
+|$px
+\$`H
+\$hH
+@A\_^
+SVWATH
+|$px
+\$`H
+8A\_^[
+x ATH
+\$0H
+l$8H
+t$@H
+|$HA
+D$8H
+D$8H
+D$@H
+D$@H
+t$ H
+H95Cv
+T$ f
+9 wof91t
+uff91t
+D$pA
+D$ H
+D$XE3
+T$`H
+D$PH
+D$HH
+D$0H
+D$@H
+D$(H
+D$ L
+L$PL
+D$XH
+T$`3
+D$hH
+8csm
+@ = 
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+L$8D
+\$8L3
+\$@H
+\$0H
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$(H
+T$0H
+L$ H
+\$0H
+@USVWATAUAVAWH
+t+9^
+t&HcG<
+<8PE
+MH9L8
+H;|80u	K
+xA_A^A]A\_^[]
+8csm
+RegJavaConsoleIExplorer
+UnregisterDeployEx
+RegisterDeployEx
+GetBestHomeBin
+setFXEnableKey
+RegisterGivenDeployBin
+UpdateTreatAsKey
+RegKeyBranchNeedsUpdating
+RedirectSelectedStaticVersionKeys
+IsSSVEnabledInMozilla
+RemoveAllMozillaJavaPlugins
+RedirectSelectedStaticVersionKeys
+RedirectAllStaticVersionKeys
+RegKeyBranchNeedsUpdating
+CheckMozJavaPlugins
+RunBrokerProcess
+RedirectSelectedStaticVersionKeys
+RegOpenKeyTransactedW
+RegCreateKeyTransactedW
+RegDeleteKeyTransactedW
+FRegDeleteKeyExW
+IsWow64Process
+Wow64DisableWow64FsRedirection
+Wow64RevertWow64FsRedirection
+ADVAPI32.dll
+SHELL32.dll
+=L9o<
+SHLWAPI.dll
+RSDS
+C:\re\jdk7u60\1081\build\windows-amd64\tmp\ssvagent\obj64\ssvagent.pdb
+RegOpenKeyExW
+RegCloseKey
+RegSetValueExW
+RegDeleteKeyW
+RegEnumKeyW
+RegCreateKeyExW
+RegDeleteValueW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegQueryValueExW
+CreateProcessAsUserW
+OpenProcessToken
+RegQueryValueW
+SHGetSpecialFolderPathW
+SHGetFolderPathW
+SHGetFolderPathEx
+PathFileExistsW
+RaiseException
+GetLastError
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+GetProcAddress
+GetModuleHandleW
+lstrlenW
+EnterCriticalSection
+LeaveCriticalSection
+lstrcmpiW
+FreeLibrary
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceW
+LoadLibraryExW
+GetModuleFileNameW
+LoadLibraryW
+GlobalMemoryStatusEx
+GetVersionExW
+VerifyVersionInfoW
+VerSetConditionMask
+GetCurrentProcess
+GetNativeSystemInfo
+CloseHandle
+CreateFileW
+GetSystemDirectoryW
+CreateProcessW
+WaitForSingleObject
+LocalAlloc
+FormatMessageW
+GetLongPathNameW
+GetShortPathNameW
+GetWindowsDirectoryW
+OutputDebugStringW
+GetCurrentProcessId
+GetCurrentThreadId
+KERNEL32.dll
+CharNextW
+wsprintfW
+USER32.dll
+CoTaskMemAlloc
+CoTaskMemRealloc
+CoCreateInstance
+CoTaskMemFree
+StringFromCLSID
+ole32.dll
+OLEAUT32.dll
+??3@YAXPEAX@Z
+memset
+??2@YAPEAX_K@Z
+??_V@YAXPEAX@Z
+__CxxFrameHandler3
+memcpy_s
+wcsstr
+malloc
+free
+_CxxThrowException
+wcsncpy_s
+_recalloc
+??_U@YAPEAX_K@Z
+__argc
+__wargv
+swprintf_s
+_wtoi
+wcscpy_s
+_wsplitpath_s
+wcscat_s
+_wstat64i32
+_localtime64
+_snwprintf_s
+wcsftime
+_ftime64_s
+_vsnwprintf_s
+memcpy
+MSVCR100.dll
+?terminate@@YAXXZ
+__C_specific_handler
+_unlock
+__dllonexit
+_lock
+_onexit
+_amsg_exit
+__wgetmainargs
+_XcptFilter
+_exit
+_cexit
+exit
+_wcmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+__set_app_type
+?_type_info_dtor_internal_method@type_info@@QEAAXXZ
+__crt_debugger_hook
+EncodePointer
+DecodePointer
+Sleep
+GetStartupInfoW
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+LocalFree
+LoadLibraryA
+.?AVCComModule@ATL@@
+.?AV?$CAtlModuleT@VCComModule@ATL@@@ATL@@
+.?AVCAtlModule@ATL@@
+.?AU_ATL_MODULE70@ATL@@
+.?AVCAtlException@ATL@@
+.?AVCRegObject@ATL@@
+.?AUIRegistrarBase@@
+.?AUIUnknown@@
+.?AV_com_error@@
+.?AVtype_info@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+  <assemblyIdentity version="7.0.600.19"
+     processorArchitecture="X86"
+     name="ssvagent.exe"
+     type="win32"/> 
+  <description>Java SE Runtime Environment SSV Agent Process.</description> 
+  <!-- Identify the application security requirements. -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"/>
+        </requestedPrivileges>
+       </security>
+  </trustInfo>
+  <!-- Indicate this JDK version is Windows 7 compatible -->
+   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+      <application>
+        <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+        <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+      </application>
+    </compatibility>
+</assembly>
+Z0X03
+>0!0	
+O^y*
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+J5;&
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+130608000000Z
+160806235959Z0
+California1
+Redwood Shores1
+Oracle America, Inc.1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+Software Engineering1
+Oracle America, Inc.0
+?Ni+
+90705
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+e0c0$
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+@E2RO
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+J5;&
+1T0R
+XS@ww
+E!s{;
+mV|>`8&/
+'m,I
+idsKzDe
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+140507205234Z0#
+	$$|
+:rs|
+Jo9,

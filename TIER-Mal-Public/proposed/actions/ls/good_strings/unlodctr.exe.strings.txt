@@ -1,0 +1,310 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+.OCP
+RSDS
+unlodctr.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+f;G*
+SVW3
+QQPQQ
+QSVW
+WSh#
+VWPh
+VVVVP
+WVh#
+SVW3
+D$Dhh
+_^[3
+j/Zj-[f;
+j:[j-Yf;
+yj-Yf;
+Nj-Yf;
+_^[]
+f91u
+9f;}
+j>[f9
+?f;}
+j-[f9Y
+j-[f9
+sgj>^j-_f9y
+f91t
+Ej?[j
+s)j>_j?^f99u
+791t:
+8=uC
+s/f93u*
+j"Y;
+t}@Vk
+QQSW
+ta;G
+SVW3
+j-Xf9D{
+j-Xf9D{
+j-Xf9D{
+j-Xf9D{
+ux9F
+QQSVW
+t	P3
+QSVW
+v,j)Xf;D~
+u"j	h
+SVWP
+4NPj
+hP-@
+5P-@
+G P-@
+h *@
+5 *@
+G$ *@
+SVWj8_
+uh9Y
+4NPj
+9w,t
+j&h@*@
+9wDt
+$SVW
+4NPj
+YY_^
+YYjW_
+tUQQ
+0PSW
+t	PSW
+9P t
+SVW3
+ tE=
+G t>=
+W t7=
+hD"@
+v h,
+v h,
+v hD
+v hD
+SSSSSSS
+PSSS
+SVWj
+tgVVVVj
+tPPV
+t:VV
+SVW3
+hpw@
+PSSSSSSSj
+PSSSSSSh 
+PSSSSSSSSj
+h$.@
+8csm
+_^[]
+hpt@
+Y_^[
+Y_^[
+hpt@
+hpt@
+Y__^[
+_vsnwprintf
+setlocale
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+UnloadPerfCounterTextStringsW
+LpReleaseInstallationMutex
+LpAcquireInstallationMutex
+loadperf.dll
+GetCommandLineW
+SetThreadUILanguage
+EventWrite
+RegQueryValueExW
+Sleep
+EventUnregister
+SetThreadPreferredUILanguages
+RegOpenKeyExW
+EventRegister
+HeapSetInformation
+RegEnumKeyExW
+RegCloseKey
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+lstrlenW
+lstrcmpiW
+api-ms-win-core-string-obsolete-l1-1-0.dll
+wcstoul
+_wtof
+_wcsnicmp
+HeapReAlloc
+GetFileSize
+HeapAlloc
+HeapFree
+GetProcessHeap
+RegQueryInfoKeyW
+ReadFile
+CreateFileW
+MultiByteToWideChar
+GetLastError
+SetLastError
+CloseHandle
+CreateMutexW
+WaitForSingleObject
+GetModuleHandleW
+LoadStringW
+WriteFile
+WideCharToMultiByte
+InitializeSecurityDescriptor
+FormatMessageW
+SetSecurityDescriptorDacl
+WriteConsoleW
+GetStdHandle
+AllocateAndInitializeSid
+LocalAlloc
+GetFileType
+FreeSid
+LocalFree
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+RegEnumKeyW
+IsTextUnicode
+RegDeleteKeyW
+SetEntriesInAclW
+api-ms-win-core-registry-l2-2-0.dll
+api-ms-win-base-util-l1-1-0.dll
+api-ms-win-security-provider-l1-1-0.dll
+floor
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Diagnosis.UnlodCtr"
+    type="win32"
+<description>Unload PerfMon Counters</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+0P0T0
+: :$:0:4:@:D:P:T:`:d:p:t:
+; ;$;0;4;@;D;P;T;`;d;p;t;
+< <$<0<4<@<D<P<T<`<d<p<t<
+= =$=0=4=@=D=P=T=`=d=p=t=
+313i3
+4:4X4g4|4
+5P5x5
+5B6N6\6w6
+7K7V7f7
+8m8z8
+8o9v9
+9?:F:
+=%>/>Y>
+0*1Q3
+3>7O7Y7_7f7n7
+8)8C8I8e8
+8*9L9S9
+;?;r;
+<#<9<?<U<v<
+<"=:=?=X=i=n=
+=*>1>
+?D?J?X?r?
+0<0D0N0f0m0v0
+2B2G2s2
+313X3]3b3
+4[4b4
+5>5~5
+6@6W6\6
+7P7U7
+7*8/8>8t8y8
+969;9@9a9j9
+:&:/:L:Y:m:
+::;C;I;g;
+<4<L<Q<
+=J>P>a>j>w>
+>*?_?e?x?
+1"131:1K1R1\1v1}1
+2#2)2/252;2A2F2K2
+4-454j4
+555=5Y5v5~5
+6O6W6
+6H7X7`7
+8%8S8w8
+95:C:~:
+;>;H;
+<"<;<S<}<
+<I=^=s=
+>%>,>5>;>C>I>V>^>d>
+?!?&?H?N?U?Z?g?v?~?
+030V0
+1H2M2_2}2
+2Y3t3
+5"5)50585@5H5T5]5b5h5r5|5
+6#6*61686?6E6Q6\6a6f6l6v6
+7R7^7j7
+<0@0D0

@@ -1,0 +1,272 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+l[^_]
+l[^_]
+[^_]
+l[^_]
+<[^_]
+;0tP
+;0t+
+;0t.
+L[^_]
+L[^_]
+t3~x
+L[^_]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+[^_]
+ [^]
+ [^]
+[^_]
+[^_]
+r	9u
+r	9u
+<[^_]
+<[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,0<	
+uu;]
+[^_]
+\[^_]
+[^_]
+A:aBbcDdeFfHhIij:LlN:OoS:st:vw::Xx
+skip-bytes
+address-radix
+read-bytes
+format
+output-duplicates
+strings
+traditional
+width
+help
+version
+Try `%s --help' for more information.
+Usage: %s [OPTION]... [FILE]...
+  or:  %s [-abcdfilosx]... [FILE] [[+]OFFSET[.][b]]
+  or:  %s --traditional [OPTION]... [FILE] [[+]OFFSET[.][b] [+][LABEL][.][b]]
+Write an unambiguous representation, octal bytes by default,
+of FILE to standard output.  With more than one FILE argument,
+concatenate them in the listed order to form the input.
+With no FILE, or when FILE is -, read standard input.
+All arguments to long options are mandatory for short options.
+  -A, --address-radix=RADIX   decide how file offsets are printed
+  -j, --skip-bytes=BYTES      skip BYTES input bytes first
+  -N, --read-bytes=BYTES      limit dump to BYTES input bytes
+  -S, --strings[=BYTES]       output strings of at least BYTES graphic chars
+  -t, --format=TYPE           select output format or formats
+  -v, --output-duplicates     do not use * to mark line suppression
+  -w, --width[=BYTES]         output BYTES bytes per output line
+      --traditional           accept arguments in traditional form
+      --help     display this help and exit
+      --version  output version information and exit
+Traditional format specifications may be intermixed; they accumulate:
+  -a   same as -t a,  select named characters
+  -b   same as -t o1, select octal bytes
+  -c   same as -t c,  select ASCII characters or backslash escapes
+  -d   same as -t u2, select unsigned decimal 2-byte units
+  -f   same as -t fF, select floats
+  -i   same as -t dI, select decimal ints
+  -l   same as -t dL, select decimal longs
+  -o   same as -t o2, select octal 2-byte units
+  -s   same as -t d2, select decimal 2-byte units
+  -x   same as -t x2, select hexadecimal 2-byte units
+If first and second call formats both apply, the second format is assumed
+if the last operand begins with + or (if there are 2 operands) a digit.
+An OFFSET operand means -j OFFSET.  LABEL is the pseudo-address
+at first byte printed, incremented when dump is progressing.
+For OFFSET and LABEL, a 0x or 0X prefix indicates hexadecimal;
+suffixes may be . for octal and b for multiply by 512.
+TYPE is made up of one or more of these specifications:
+  a          named character
+  c          ASCII character or backslash escape
+  d[SIZE]    signed decimal, SIZE bytes per integer
+  f[SIZE]    floating point, SIZE bytes per integer
+  o[SIZE]    octal, SIZE bytes per integer
+  u[SIZE]    unsigned decimal, SIZE bytes per integer
+  x[SIZE]    hexadecimal, SIZE bytes per integer
+SIZE is a number.  For TYPE in doux, SIZE may also be C for
+sizeof(char), S for sizeof(short), I for sizeof(int) or L for
+sizeof(long).  If TYPE is f, SIZE may also be F for sizeof(float), D
+for sizeof(double) or L for sizeof(long double).
+RADIX is d for decimal, o for octal, x for hexadecimal or n for none.
+BYTES is hexadecimal with 0x or 0X prefix, it is multiplied by 512
+with b suffix, by 1024 with k and by 1048576 with m.  Adding a z suffix to
+any type adds a display of printable characters to the end of each line
+of output.  
+--string without a number implies 3.  --width without a number
+implies 32.  By default, od uses -A o -t d2 -w 16.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+invalid character `%c' in type string %s
+invalid type string %s;
+this system doesn't provide a %lu-byte integral type
+/usr/src/coreutils/coreutils-5.97/src/od.c
+tspec != NULL
+invalid type string %s;
+this system doesn't provide a %lu-byte floating point type
+ %%%d%s
+ %%%d.%de
+invalid type string %s
+ %%0%d%s
+ %%%d.%dLe
+strlen (tspec->fmt_string) < FMT_BYTES_ALLOCATED
+  %c
+%03o
+ %3s
+standard input
+write error
+%s: read error
+cannot skip past end of combined input
+0123456789abcdef
+0 < n && n <= bytes_per_block
+n_bytes_read == bytes_per_block
+coreutils
+/usr/share/locale
+width specification
+%s `%s' too large
+skip argument
+invalid output address radix `%c'; it must be one character from [doxn]
+Jim Meyering
+5.97
+GNU coreutils
+limit argument
+s != next
+minimum string length
+%s is too large
+invalid %s `%s'
+s != NULL
+invalid character following %s in `%s'
+no type may be specified when dumping strings
+skip-bytes + read-bytes is too large
+warning: invalid width %lu; using %d instead
+extra operand %s
+Compatibility mode supports at most one file.
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+write error
+%s: %s
+/usr/src/coreutils/coreutils-5.97/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+Copyright %s %d Free Software Foundation, Inc.
+literal
+shell
+shell-always
+escape
+locale
+clocale
+memory exhausted
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+_ctype_
+abort
+atexit
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fgetc
+fileno
+fopen
+fputs
+fread
+free
+fseek
+fstat
+fwrite
+getenv
+malloc
+memcpy
+memset
+putc
+realloc
+setlocale
+setvbuf
+strchr
+strcmp
+strerror
+strlen
+strncmp
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

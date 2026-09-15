@@ -1,0 +1,2417 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+ATUWVSH
+d$ I
+D$0H
+[^_]A\
+L$XL
+L$XL
+AUATUWVSH
+l$(1
+T$(1
+T$(9Z
+8[^_]A\A]
+AUATUWVSH
+l$(1
+T$(1
+T$(9Z
+8[^_]A\A]
+AWAVAUATUWVSH
+L$@H
+T$(H
+D$ 1
+|$@H
+X[^_]A\A]A^A_
+X[^_]A\A]A^A_H
+WVSH
+\$@H
+pkg-conf
+D$8H
+D$(H
+D$ I
+L$XL
+L$XL
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+\$xH
+t$pL
+l$hH
+L$pA
+t$(L
+L$hH
+|$p1
+L$8A
+L$0A
+L$(A
+L$ H
+D$PA
+D$HA
+D$@A
+D$8A
+D$0A
+D$(A
+AWAVAUATUWVSH
+L$ L
+D$(f
+t0A;_
+L;t$(
+L$ H
+8[^_]A\A]A^A_
+WVSH
+)t$P
+)|$`H
+T$HH
+z:u8
+(t$P
+(|$`H
+p[^_
+|$01
+t$(I
+WVSH
+L$(H
+D$(H
+0[^_
+AUATUWVSH
+h[^_]A\A]
+AWAVAUATUWVSH
+D$HH
+D$PH
+D$XH
+D$`H
+D$hH
+D$pH
+L$HE1
+D$@H
+L$PE1
+L$XE1
+L$`E1
+d$xL
+|$@L
+L$hE1
+L$pE1
+t$E1
+t$E1
+d$xH
+[^_]A\A]A^A_
+WVSH
+AUATUWVSH
+8[^_]A\A]
+t!;s
+8[^_]A\A]
+D$ I
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+T$PL
+T$PL
+T$PL
+L$PA
+T$PL
+D$HH
+H;D$Hu
+\$PH
+|$P1
+\$(H
+l$ M
+d$(L
+l$ I
+\$0L
+d$0L
+ATUWVSH
+|$pH
+T$XL
+D$`L
+L$XH
+ [^_]A\
+L$XA
+L$XH
+AWAVAUATUWVSH
+T$ L
+D$(H
+T$PD
+L$HL
+T$XD
+L$PH
+D$HA)
+T$XD
+L$PH
+\$HI
+T$@L
+T$@L
+L$@A
+T$@L
+T$@L
+[^_]A\A]A^A_
+D$0H
+D$(H
+t$`H
+t$(L
+t$ M
+\$(L
+l$ M
+\$0L
+d$0L
+AWAVAUATUWVSH
+L$0L
+D$(I
+<$-u
+\$(H
+T$8t2Hc
+ntnH
+T$0H
+H[^_]A\A]A^A_
+T$8I
+T$8H
+AUATUWVSH
+|$0L
+L$8E1
+L$HE1
+L$PE1
+L$XA
+L$8E1
+D$PH
+L$@E1
+[^_]A\A]
+L$@E1
+AUATUWVSH
+t$H1
+A9|$P
+([^_]A\A]
+AWAVAUATUWVSH
+D$X1
+H=TUU
+D$HH
+D$`H
+D$hf
+D$0Hc
+t$8H
+|$PL
+D$HL
+D$XH
+L$h1
+l$0;
+x[^_]A\A]A^A_
+;D$0
+~LE1
+t5Lc
+L$8H
+D$GM
+t$8L
+t$8H
+L$0H
+|$PL
+D$HL
+D$XH
+L$h1
+t$ M
+t$0H
+t$8H
+D$8A
+l$(I
+D$ M
+t$0H
+t$8H
+<nud
+ou^H
+t2Lc
+D$ L
+L$,H
+UWVSH
+l$0L
+D$(H9
+L$0H
+L$@H
+L$PH
+L$`H
+L$pH
+T$(H
+[^_]
+[^_]
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+T$(A
+WVSH
+\$ I
+WVSH
+p[^_
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$(H
+D$@H
+D$8d
+D$(6
+D$@H
+D$8d
+D$0<
+D$(8
+D$@H
+D$8e
+D$0(
+D$(8
+D$@H
+D$8d
+D$(8
+D$@H
+D$8e
+D$0(
+D$@H
+D$@H
+D$8e
+D$@H
+D$8e
+D$@H
+D$8d
+D$(5
+D$ 1
+p[^_
+D$(H
+D$@H
+D$8d
+D$(6
+D$@H
+D$8d
+D$0<
+D$(8
+D$@H
+D$8e
+D$0(
+D$(8
+D$@H
+D$8d
+D$(8
+D$@H
+T$H1
+D$8e
+D$0(
+D$@H
+D$@H
+D$8e
+D$@H
+D$8e
+D$@H
+D$8d
+D$(5
+AWAVAUATUWVSH
+7tuH
+|$ I
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$ I
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+t1A;^
+t0;s
+AWAVAUATUWVSH
+D$(M
+[^_]A\A]A^A_
+T$8H
+L$ H
+AWAVAUATUWVSH
+D$\D
+t$0D
+d$(D
+l$ A
+h[^_]A\A]A^A_
+AVAUATUWVSH
+D$(t
+T$(H
+t$(L
+l$ H
+T$(H
+\$ t
+D$ H
+0[^_]A\A]A^
+t$ A
+UWVSH
+8[^_]
+AVAUATUWVSH
+D$HH
+t$`1
+t$@H
+l$(H
+L$ I
+l$0L
+[^_]A\A]A^
+l$(H
+D$,H
+AWAVAUATUWVSH
+D$KH
+D$X1
+D$0H
+D$PH
+D$8H
+D$@H
+L$0E1
+L$@E1
+D$Ks
+D$Ka
+T$K:
+L$0H
+L$8H
+D$PH
+h[^_]A\A]A^A_
+ATUWVSH
+0[^_]A\
+;~,r
+0[^_]A\
+0[^_]A\
+UWVSH
+~UE;
+([^_]
+([^_]
+WVSH
+)t$@
+)|$PH
+(t$@
+(|$PH
+`[^_
+T$8L
+T$8f
+AUATUWVSH
+L$@H
+T$HH
+L$@H
+T$HH
+X[^_]A\A]
+WVSH
+L$@H
+T$HH
+L$@H
+T$HH
+P[^_
+ HcQ,H
+T$HH
+T$HL
+D$PL
+L$XH
+8HcA,
+D$(H
+D$(H
+T$ H
+(HcQ,H
+UWVSH
+(HcQ,H
+([^_]
+([^_]
+([^_]
+([^_]
+ HcQ,H
+HcA,M
+UWVSH
+(HcA,H
+HcC,H
+([^_]
+HcQ,H
+u"HcA,I
+u"HcA,I
+HcQ,D
+T$ H
+UWVSH
+HcA,H
+HcC,H
+|$ A
+[^_]
+AUATUWVSH
+(Hcq,L
+HcC,H
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+HcI,H
+usHcC,L
+ [^_]A\
+ [^_]A\
+ [^_]A\
+UWVSH
+(HcA,H
+HcC,H
+([^_]
+HcS,H
+HcC,H
+([^_]
+([^_]
+UWVSH
+HHcA,H
+S@Hcn,L
+L$ H
+HcF,
+H[^_]
+H[^_]
+L$ L
+UWVSH
+([^_]
+WVSH
+\$ H
+WVSH
+HcA,H
+|$ L
+T$ H
+T$ H
+WVSH
+<\uML
+ [^_
+L$XL
+L$XL
+WVSH
+T$ H
+D$!"
+0[^_
+WVSH
+ HcA,H
+HPE1
+P8HcC,
+ [^_
+(LcA,A
+@`tjA
+AUATUWVSH
+l$PL
+L$PH
+T$HH
+l$HL
+|$HL
+l$P1
+d$HH
+L$PL
+D$<H
+[^_]A\A]
+D$<H
+T$ L
+UWVSH
+)t$@H
+VUUUUUUUf
+\$(H
+(t$@H
+X[^_]
+t$8E
+gffffffff
+L$ H
+AWAVAUATUWVSH
+D$8Hc
+D$0Hc
+D$(Hc
+D$ Hc
+H[^_]A\A]A^A_
+H[^_]A\A]A^A_
+WVSH
+|$PL
+\$0L
+p[^_
+|$PL
+\$0L
+AWAVAUATUWVSH
+D$HH
+h[^_]A\A]A^A_
+l$H1
+L$@A
+D$XE
+l$ A
+|$8L
+L$8L
+D$8H
+T$@I
+D$ L
+AWAVAUATUWVSH
+D$(Hc
+D$ Hc
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+l$`M
+d$XH
+D$8tqH
+D$TL
+|$XH
+D$@D
+D$8L
+D$XH
+l$XH
+[^_]A\A]A^A_
+L$LL
+WVSH
+ HcA,H
+PHHcC,
+ [^_
+HPE1
+AWAVAUATUWVSH
+t$ H
+D$ H
+[^_]A\A]A^A_
+t$ H
+D$ H
+WVSH
+ HcA,L
+PHHcC,
+ [^_
+IPE1
+AWAVAUATUWVSH
+t*f.
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+T$`L
+T$\L
+T$XL
+T$lL
+T$hL
+T$dL
+D$PHc
+D$HHc
+D$@Hc
+D$8Hc
+D$0Hc
+D$(Hc
+x[^_]A\A]A^A_
+WVSH
+ HcA,M
+PHHcC,
+ [^_
+P8HcC,
+ [^_
+JPE1
+HPE1
+WVSH
+HcA,t1H
+P8HcC,
+ [^_
+PHHcC,
+ [^_
+JPE1
+HPE1
+AVAUATUWVSH
+HcA,H
+d$ A
+T$ H
+[^_]A\A]A^
+AVAUATUWVSH
+t$ I
+T$ H
+T$ H
+[^_]A\A]A^
+WVSH
+ HcA,H
+ [^_
+AWAVAUATUWVSH
+HcQ,L
+|$0A
+D$(H
+[^_]A\A]A^A_
+T$0H
+T$0H
+WVSH
+t$0H
+HcC,H
+t$0H
+PHHcC,
+AWAVAUATUWVSH
+T$hH
+D$XH
+L$XH
+l$dL
+t$ I
+IcD$
+l$pL
+d$xH
+D$HHc
+D$@Hc
+D$8Hc
+l$pL
+[^_]A\A]A^A_
+L$XH
+L$PL
+L$hL
+UWVSH
+8[^_]
+WVSH
+|$0H
+T$ f
+HcC,H
+!HcA,H
+PHHcC,
+JPE1
+HPE1
+WVSH
+uBHcC,H
+PHHcC,
+|$0f
+HcC,H
+JPE1
+HPE1
+AUATUWVSH
+HcA,L
+|$ H
+HcF,
+D$ H
+[^_]A\A]
+T$@L
+D$ H
+T$ H
+AWAVAUATUWVSH
+D$(Hc
+D$ Hc
+D$(Hc
+D$ Hc
+8[^_]A\A]A^A_
+UWVSH
+|$0H
+HcS,
+PHHcC,
+P8HcC,
+PHHcC,
+L$ H
+D$$@B
+HcC,
+P8HcC,
+P8HcC,
+P8HcC,
+P8HcS,
+[^_]
+HcC,
+HcS,H
+HcC,
+HcC,
+HcC,
+AWAVAUATUWVSH
+D$XL
+IcW,
+IcG,Hc>I
+P8IcG,A
+XHc{xD
+P8IcG,A
+|$XH
+|$XH
+IcG,H
+PHIcG,A
+IcG,I
+PHIcG,A
+XLcg
+P8IcG,A
+IcW,I
+IcG,HcspI
+P8IcG,A
+IcG,I
+P8IcG,A
+|$XH
+IcW,
+D$0H
+D$xH
+D$@H
+D$HH
+L$hH
+D$PIcG,M
+L$01
+D$8H
+T$@H
+L$0H
+\$`E
+\$0H
+T$xH
+\$PH
+d$HH
+l$@H
+t$`L
+t$pE
+L$0H
+T$8H
+IcG,A
+IcG,
+G,Hc
+[^_]A\A]A^A_
+IcG,Hc{hI
+P8IcG,A
+XHc{lD
+P8IcG,A
+|$XH
+IcG,Hc
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+IcG,I
+P8IcG,A
+l$ A
+IcG,
+IcG,
+L$0H
+L$0H
+D$(H
+D$PH
+IcW,A
+NPE1
+D$PL
+L$0H
+L$PL
+t$`L
+t$pH
+L$0H
+IcW,H
+L$`L
+IcG,
+IcG,
+IcG,
+IcG,
+L$8L
+D$(H
+D$PH
+AWAVAUATUWVSH
+D$LL
+D$ I
+D$hH
+D$8H
+D$pH
+T$@L
+|$hH
+|$`A
+HcT$XH9
+L$8M
+L$8M
+L$8M
+\$$E
+T$(E
+L$LE
+H;D$`|
+IcU,
+IcE,Hc
+P8IcE,A
+T$pH
+IcE,I
+PHIcU,A
+IcU,H
+t$@L
+D$TH
+[^_]A\A]A^A_
+IcM,
+} Hc
+PHIcG,A
+XHc^
+P8IcG,A
+IcW,H
+|$\;
+IcO,H
+IcG,
+P8IcW,H
+IcG,
+L$TH
+\$ I
+AWAVAUATUWVSH
+B0Ic
+IcO,H
+W Lc
+P8IcG,A
+l$ H
+l$`L
+L$0E
+IcG,I
+P8IcG,A
+|$`H
+d$ H
+d$ H
+d$ I
+HcC`
+|$`H
+|$`H
+|$`H
+|$`H
+IcG,H
+PHIcG,A
+|$pH
+t$xH
+D$8H
+D$HH
+D$PH
+L$pH
+D$XIcG,M
+L$81
+D$@H
+T$HH
+L$8H
+|$8H
+|$XH
+t$PH
+l$HH
+\$hL
+L$8H
+\$@L
+IcG,A
+B0Hc
+D$HH
+[^_]A\A]A^A_
+IcO,H
+W Lc
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcW,A
+IcG,I
+PHIcG,A
+t$@I
+W,Hc
+PHIcG,A
+XHc^
+P8IcG,A
+IcW,H
+|$8I
+D$@L
+IcO,H
+IcG,Lc
+P8IcG,A
+IcG,I
+P8IcG,A
+IcG,Lc
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+P8IcG,A
+IcG,Lc
+P8IcG,A
+IcG,Lc
+P8IcG,A
+W Hc
+IcG,I
+P8IcG,A
+l$ A
+l$ A
+IcG,
+IcG,
+IcG,
+IcG,
+l$`L
+t$PL
+t$PH
+IcG,
+P8IcW,H
+L$8H
+L$8H
+D$HL
+D$(H
+D$XH
+IcW,
+L$PE1
+IcG,
+D$XL
+L$8H
+L$XL
+t$xH
+\$hL
+L$8H
+IcW,L
+L$hL
+IcG,
+IcG,
+IcG,
+IcW,H
+IcG,
+IcG,
+IcG,
+IcG,
+IcG,
+IcG,
+IcG,
+L$@L
+D$(H
+D$XH
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+)t$ 
+)|$0f
+(t$ 
+(|$0H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtH
+D$ H
+t$ I
+L$ H
+L$ H
+WVSH
+D$pfD
+D$tf
+t$ f
+t)fL
+\$hfE
+t$PH
+|$@fA
+l$PH
+\$PH
+t$@fD
+\$hfE
+t,fH
+\$hfE
+ttfH
+)t$P
+)|$`
+D$Hf
+L$HA
+tofH
+(t$P
+(|$`H
+T$<f
+(t$P
+(|$`H
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+D$4f
+D$0A
+D$8A
+l$ f
+L$ f
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+UWVSH
+[^_]
+[^_]
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+T$(H
+L$ L
+UWVSH
+([^_]
+D$ I
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+@tyD
+t$ H
+HcC,
+P8HcC,
+HcC,H
+HcS,
+HcS,
+HcS,
+HcC,H
+;],s
+T$ L
+L$0H
+L$01
+HcC,H
+T$0L
+HcC,
+T$pH
+|$pH
+D$pH
+T$pH
+HcS,
+HcC,L
+T$8I
+T$0M
+HcC,
+d$ H
+HcC,
+NPE1
+|$H1
+D$XH
+D$`H
+D$hD9
+IcW,
+IcG,
+P8IcG,A
+IcG,
+P8IcG,A
+IcG,
+P8IcG,A
+IcG,
+P8IcG,A
+IcG,
+P8IcG,A
+L$XL
+L$`L
+IcW,
+IcG,I
+IcG,I
+IcW,
+L$PH
+D$@IcG,I
+T$0M
+D$@H
+T$hL
+IcG,A
+KPE1
+D$(H
+D$@H
+IcG,A
+IcG,I
+|$P1
+IcG,
+P8IcG,A
+IcG,H
+P8IcG,A
+IcG,I
+IcW,H
+IcW,
+L$@H
+IcG,L
+T$0M
+T$HM
+IcG,A
+t$ H
+IcG,A
+IcG,I
+KPE1
+|$PH
+|$HH
+|$HH
+Auto-detected sources for %s:
+Cannot list sources. Not implemented.
+Cannot list sources.
+%s %s [%s]
+Auto-detected sinks for %s:
+Cannot list sinks. Not implemented.
+Cannot list sinks.
+i == nb_codecs
+Assertion %s failed at %s:%d
+cmdutils.c
+pkg-config~
+%sconfiguration:
+%s%s%s
+--cross-prefix=x86_64-w64-mingw32- --enable-cross-compile --target-os=mingw32 --arch=x86_64 --prefix=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32 --enable-shared --disable-static --yasmexe=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/bin/yasm --extra-libs=-mconsole --disable-debug --disable-doc --enable-memalign-hack --enable-avresample --enable-gpl --enable-version3 --disable-pthreads --enable-w32threads --enable-avisynth --enable-gnutls --enable-libspeex --enable-libtheora --enable-libvorbis --enable-libmp3lame --enable-libxvid --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libx264 --enable-libvpx
+bicubic
+flags
+%p-%t.log
+Failed to parse FFREPORT environment variable: %s
+file
+level
+Invalid report file level
+Unknown key '%s' in FFREPORT
+%04d%02d%02d-%02d%02d%02d
+Out of memory building report file name
+Failed to open report "%s": %s
+%s started on %04d-%02d-%02d at %02d:%02d:%02d
+Report written to "%s"
+Encoders
+Decoders
+Out of memory
+ V..... = Video
+ A..... = Audio
+ S..... = Subtitle
+ .F.... = Frame-level multithreading
+ ..S... = Slice-level multithreading
+ ...X.. = Codec is experimental
+ ....B. = Supports draw_horiz_band
+ .....D = Supports direct rendering method 1
+ ------
+ %-20s %s
+ (codec %s)
+duration
+date
+Invalid %s specification for %s: %s
+Could not alloc buffer.
+Expected number for %s but found: %s
+The value for %s was %s which is not within %f - %f
+Expected int64 for %s but found %s
+Expected int for %s but found %s
+-%-17s  %s
+Encoder
+Decoder
+%s %s [%s]:
+    Threading capabilities: 
+frame and slice
+frame
+slice
+    Supported framerates:
+ %d/%d
+    Supported pixel formats:
+    Supported sample rates:
+    Supported sample formats:
+    Supported channel layouts:
+encoders
+decoders
+No codec name specified.
+Codec '%s' is known to FFmpeg, but no %s for it are available. FFmpeg might need to be recompiled with additional external libraries.
+Codec '%s' is not recognized by FFmpeg.
+default
+Unrecognized option '%s'
+Missing argument for option '%s'
+Array too big.
+Failed to set value '%s' for option '%s': %s
+Parsing a group of options: %s %s.
+Successfully parsed a group of options.
+Option %s (%s) cannot be applied to %s %s -- you are trying to apply an input option to an output file or vice versa. Move this option before the file it belongs to.
+Applying option %s (%s) with argument %s.
+debug
+fdebug
+Routing option %s to both codec and muxer layer
+srch
+dstw
+dsth
+src_format
+dst_format
+Directly using swscale dimensions/format options is not supported, please use the -s or -pix_fmt options
+Error setting option %s.
+srcw
+Splitting the commandline.
+Reading option '%s' ...
+ matched as %s.
+Missing argument for option '%s'.
+ matched as %s with argument '%s'.
+ matched as option '%s' (%s) with argument '%s'.
+ matched as AVOption '%s' with argument '%s'.
+Error parsing option '%s' with argument '%s'.
+ matched as option '%s' (%s) with argument 0.
+Unrecognized option '%s'.
+Trailing options were found on the commandline.
+Finished splitting the commandline.
+repeat
+"%s"
+Invalid loglevel "%s". Possible levels are numbers or:
+quiet
+panic
+fatal
+error
+warning
+info
+verbose
+trace
+loglevel
+po->flags & (0x40000 | 0x80000)
+report
+FFREPORT
+Command line:
+\x%02x
+hide_banner
+Invalid max_alloc "%s".
+-%s not implemented on this OS
+%s: %s
+version
+%s version 2.8.10
+ Copyright (c) %d-%d the FFmpeg developers
+%sbuilt with %s
+gcc 4.9.4 (GCC)
+%sconfiguration: --cross-prefix=x86_64-w64-mingw32- --enable-cross-compile --target-os=mingw32 --arch=x86_64 --prefix=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32 --enable-shared --disable-static --yasmexe=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/bin/yasm --extra-libs=-mconsole --disable-debug --disable-doc --enable-memalign-hack --enable-avresample --enable-gpl --enable-version3 --disable-pthreads --enable-w32threads --enable-avisynth --enable-gnutls --enable-libspeex --enable-libtheora --enable-libvorbis --enable-libmp3lame --enable-libxvid --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libx264 --enable-libvpx
+%sWARNING: library configuration mismatch
+%s%-11s configuration: %s
+avutil
+avcodec
+avformat
+avdevice
+avfilter
+avresample
+swscale
+swresample
+postproc
+%slib%-11s %2d.%3d.%3d / %2d.%3d.%3d
+%s is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+%s is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with %s.  If not, see <http://www.gnu.org/licenses/>.
+File formats:
+ D. = Demuxing supported
+ .E = Muxing supported
+ %s%s %-15s %s
+Devices:
+Codecs:
+ D..... = Decoding supported
+ .E.... = Encoding supported
+ ..V... = Video codec
+ ..A... = Audio codec
+ ..S... = Subtitle codec
+ ...I.. = Intra frame-only codec
+ ....L. = Lossy compression
+ .....S = Lossless compression
+ -------
+_deprecated
+ (%s: 
+Bitstream filters:
+Supported file protocols:
+Input:
+  %s
+Output:
+Filters:
+  T.. = Timeline support
+  .S. = Slice threading
+  ..C = Command support
+  A = Audio input/output
+  V = Video input/output
+  N = Dynamic number and/or type of input/output
+  | = Source or sink filter
+ %c%c%c %-16s %-10s %s
+name
+%-32s #RRGGBB
+%-32s #%02x%02x%02x
+Pixel formats:
+I.... = Supported Input  format for conversion
+.O... = Supported Output format for conversion
+..H.. = Hardware accelerated format
+...P. = Paletted format
+....B = Bitstream format
+FLAGS NAME            NB_COMPONENTS BITS_PER_PIXEL
+-----
+%c%c%c%c%c %-16s       %d            %2d
+Individual channels:
+NAME           DESCRIPTION
+%-14s %s
+Standard channel layouts:
+NAME           DECOMPOSITION
+%-14s 
+%s%s
+decoder
+encoder
+demuxer
+Unknown format '%s'.
+Demuxer %s [%s]:
+    Common extensions: %s.
+muxer
+Muxer %s [%s]:
+    Mime type: %s.
+    Default video codec: %s.
+    Default audio codec: %s.
+    Default subtitle codec: %s.
+filter
+No filter name specified.
+Unknown filter '%s'.
+Filter %s
+    slice threading supported
+    Inputs:
+       #%d: %s (%s)
+        dynamic (depending on the options)
+        none (source filter)
+    Outputs:
+        none (sink filter)
+This filter has support for timeline through the 'enable' option.
+/.ffmpeg
+FFMPEG_DATADIR
+HOME
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/share/ffmpeg
+/ffpresets
+%s%s/%s-%s.ffpreset
+%s%s/%s.ffpreset
+Invalid stream specifier: %s.
+Could not alloc memory for stream options.
+rotate
+Odd rotation angle.
+If you want to help, upload a sample of this file to ftp://upload.ffmpeg.org/incoming/ and contact the ffmpeg-devel mailing list. (ffmpeg-devel@ffmpeg.org)
+Device name is not provided.
+You can pass devicename[,opt1=val1[,opt2=val2...]] as an argument.
+lavfi
+VADSTglobal
+default
+compact
+flat
+json
+%s="%lld"
+ffprobe:
+</%sffprobe>
+</%s>
+ xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:ffprobe='http://www.ffmpeg.org/schema/ffprobe' xsi:schemaLocation='http://www.ffmpeg.org/schema/ffprobe ffprobe.xsd'
+<%sffprobe%s>
+<%s>
+<%s 
+<?xml version="1.0" encoding="UTF-8"?>
+%s=%lld
+%s%s=%lld
+%s%s=
+%lld
+%lld
+[/%s]
+# ffprobe output
+%s%s
+[%s]
+%d%s
+%s%s:
+%s%c
+\x00%02x
+"%s"
+pipe:
+Argument '%s' provided as input filename, but '%s' was already specified.
+Item separator '%s' specified, but must contain a single character
+none
+Unknown escape mode '%s'
+private
+XSD-compliant output selected but option '%s' was selected, XML output may be non-compliant.
+You need to disable such option with '-no%s'
+unit
+prefix
+Interleaved frames and packets are not allowed in XSD. Select only one between the -show_frames and the -show_packets options.
+wctx->level < 10
+Assertion %s failed at %s:%d
+ffprobe.c
+Unknown input format: %s
+Failed to parse option string '%s' provided to writer context
+Failed to set option '%s' with value '%s' provided to writer context
+Invalid UTF8 sequence %s found in string validation replace '%s'
+%02X
+%d:%02d:%09.6f
+%s%s%s
+id:%d
+NOPTS
+%.6g
+ start:%s%s
+ start:N/A
+ end:%s
+#%lld
+ end:N/A
+i < read_intervals_nb
+Invalid empty interval specification
+Invalid interval start specification '%s'
+Invalid or negative value '%s' for duration number of frames
+Invalid interval end/duration specification '%s'
+Error parsing read interval #%d '%s'
+Parsed log interval 
+i == read_intervals_nb
+Invalid UTF-8 sequence %s found in string '%s'
+Invalid UTF-8 sequence found in string '%s'
+%d invalid UTF-8 sequence(s) found in string '%s', replaced with '%s'
+%08x: 
+%02x
+2.8.10
+version
+Copyright (c) %d-%d the FFmpeg developers
+copyright
+gcc 4.9.4 (GCC)
+compiler_ident
+--cross-prefix=x86_64-w64-mingw32- --enable-cross-compile --target-os=mingw32 --arch=x86_64 --prefix=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32 --enable-shared --disable-static --yasmexe=/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/bin/yasm --extra-libs=-mconsole --disable-debug --disable-doc --enable-memalign-hack --enable-avresample --enable-gpl --enable-version3 --disable-pthreads --enable-w32threads --enable-avisynth --enable-gnutls --enable-libspeex --enable-libtheora --enable-libvorbis --enable-libmp3lame --enable-libxvid --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libx264 --enable-libvpx
+configuration
+%c%c%c
+%*c  %s
+Sections:
+W.. = Section is a wrapper (contains other sections, no local entries)
+.A. = Section contains an array of elements of the same type
+..V = Section may contain a variable number of fields with variable keys
+FLAGS NAME/UNIQUE_NAME
+"%s": %lld
+\u00%02x
+"%s":
+ "%s"
+"%s": [
+"%s": {%s
+"type": "%s"%s
+%d%c%d
+time_base
+Missing section name for option '%s'
+Adding '%s' to the entries to show in section '%s'
+'%s' matches section with unique name '%s'
+No match for section '%s'
+format=%s
+Option '%s' is deprecated, use '-show_entries format=%s' instead
+<%s key="%s"
+&amp;
+&lt;
+&gt;
+&quot;
+&apos;
+ value="%s"/>
+%s="%s"
+subtitle
+media_type
+pts_time
+format
+start_display_time
+end_display_time
+num_rects
+unknown
+stream_index
+key_frame
+pkt_pts
+pkt_pts_time
+pkt_dts
+pkt_dts_time
+best_effort_timestamp
+best_effort_timestamp_time
+pkt_duration
+pkt_duration_time
+pkt_pos
+pkt_size
+width
+height
+pix_fmt
+sample_aspect_ratio
+pict_type
+coded_picture_number
+display_picture_number
+interlaced_frame
+top_field_first
+repeat_pict
+sample_fmt
+nb_samples
+channels
+channel_layout
+side_data_type
+side_data_size
+Invalid key=value string combination %s=%s in section %s
+Processing read interval 
+Could not seek to relative position since current timestamp is not defined
+Seeking to read interval start point %s
+Could not seek to position %lld: %s
+codec_type
+dts_time
+duration
+duration_time
+convergence_duration
+convergence_duration_time
+size
+flags
+ %11d
+displaymatrix
+rotation
+data
+data_hash
+Could not read packets in interval 
+index
+codec_name
+codec_long_name
+profile
+codec_time_base
+codec_tag_string
+0x%04x
+codec_tag
+coded_width
+coded_height
+has_b_frames
+display_aspect_ratio
+level
+color_range
+color_space
+color_transfer
+color_primaries
+chroma_location
+timecode
+refs
+sample_rate
+bits_per_sample
+0x%x
+r_frame_rate
+avg_frame_rate
+start_pts
+start_time
+duration_ts
+bit_rate
+max_bit_rate
+bits_per_raw_sample
+nb_frames
+%llu
+nb_read_frames
+nb_read_packets
+extradata
+extradata_hash
+original
+comment
+lyrics
+karaoke
+forced
+hearing_impaired
+visual_impaired
+clean_effects
+attached_pic
+Simple multimedia streams analyzer
+usage: %s [OPTIONS] [INPUT_FILE]
+Main options:
+-bitexact and -show_program_version or -show_library_versions options are incompatible
+Unknown hash algorithm '%s'
+Known algorithms:
+libavutil
+name
+major
+minor
+micro
+Lavu54.31.100
+ident
+libavcodec
+Lavc56.60.100
+libavformat
+Lavf56.40.101
+libavdevice
+Lavd56.4.100
+libavfilter
+Lavfi5.40.101
+libswscale
+SwS3.1.101
+libswresample
+SwR1.2.101
+libpostproc
+postproc53.3.100
+nb_components
+log2_chroma_w
+log2_chroma_h
+bits_per_pixel
+big_endian
+palette
+bitstream
+hwaccel
+planar
+pseudopal
+alpha
+bit_depth
+You have to specify one input file.
+Use -h to get full help or, even better, run 'man %s'.
+scan_all_pmts
+Option %s not found.
+Failed to probe codec for input stream %d
+Unsupported codec with id %d for input stream %d
+Could not open codec for input stream %d
+Option %s for input stream %d not found
+program_id
+program_num
+nb_streams
+pmt_pid
+pcr_pid
+end_pts
+end_time
+start
+filename
+nb_programs
+format_name
+format_long_name
+probe_score
+code
+string
+Unknown output format with name '%s'
+"\bfnrt
+show license
+show help
+topic
+help
+-help
+show version
+buildconf
+show build configuration
+formats
+show available formats
+devices
+show available devices
+codecs
+show available codecs
+decoders
+show available decoders
+encoders
+show available encoders
+bsfs
+show available bit stream filters
+protocols
+show available protocols
+filters
+show available filters
+pix_fmts
+show available pixel formats
+layouts
+show standard channel layouts
+sample_fmts
+show available audio sample formats
+colors
+show available color names
+loglevel
+set logging level
+report
+generate a report
+max_alloc
+set maximum size of a single allocated block
+bytes
+cpuflags
+force specific cpu flags
+hide_banner
+do not show program banner
+sources
+list sources of the input device
+device
+sinks
+list sinks of the output device
+force format
+show unit of the displayed values
+use SI prefixes for the displayed values
+byte_binary_prefix
+use binary prefixes for byte units
+sexagesimal
+use sexagesimal format HOURS:MM:SS.MICROSECONDS for time units
+pretty
+prettify the format of displayed values, make it more human readable
+print_format
+set the output printing format (available formats are: default, compact, csv, flat, ini, json, xml)
+alias for -print_format
+select_streams
+select the specified streams
+stream_specifier
+sections
+print sections structure and section information, and exit
+show_data
+show packets data
+show_data_hash
+show packets data hash
+show_error
+show probing error
+show_format
+show format/container info
+show_frames
+show frames info
+show_format_entry
+show a particular entry from the format/container info
+entry
+show_entries
+show a set of specified entries
+entry_list
+show_packets
+show packets info
+show_programs
+show programs info
+show_streams
+show streams info
+show_chapters
+show chapters info
+count_frames
+count the number of frames per stream
+count_packets
+count the number of packets per stream
+show_program_version
+show ffprobe version
+show_library_versions
+show library versions
+show_versions
+show program and library versions
+show_pixel_formats
+show pixel format descriptions
+show_private_data
+show private data
+same as show_private_data
+bitexact
+force bitexact output
+read_intervals
+set read intervals
+generic catch all option
+read specified file
+input_file
+fully_qualified
+specify if the output should be fully qualified
+xsd_strict
+ensure that the output is XSD compliant
+enable compact output
+hierarchical
+specify if the section specification should be hierarchical
+sep_char
+set separator
+item_sep
+set item separator
+nokey
+force no key printing
+escape
+set escape mode
+print_section
+print section name
+noprint_wrappers
+do not print headers and footers
+Writer
+string_validation
+set string validation mode
+ignore
+replace
+fail
+string_validation_replacement
+set string validation replacement string
+bit/s
+byte
+chapter
+tags
+chapter_tags
+chapters
+error
+format_tags
+frame
+frames
+frame_tags
+side_data_list
+side_data
+library_version
+library_versions
+packet
+packets
+packets_and_frames
+pixel_format
+pixel_format_flags
+component
+components
+pixel_format_components
+pixel_formats
+disposition
+program_stream_disposition
+program_stream_tags
+program
+streams
+program_streams
+stream
+program_stream
+program_tags
+program_version
+programs
+root
+stream_disposition
+stream_tags
+ffprobe
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+__powi
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+DeleteCriticalSection
+EnterCriticalSection
+GetCommandLineW
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleFileNameA
+GetModuleHandleA
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+LocalFree
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetDllDirectoryA
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_localtime64
+_lock
+_onexit
+_time64
+_unlock
+abort
+calloc
+exit
+fflush
+fopen
+fprintf
+fputc
+fputs
+free
+fwrite
+getchar
+getenv
+islower
+isspace
+isupper
+localeconv
+log10
+malloc
+memcpy
+memset
+qsort
+signal
+strchr
+strcmp
+strcspn
+strerror
+strlen
+strncat
+strncmp
+strrchr
+strstr
+strtok
+strtol
+vfprintf
+wcslen
+CommandLineToArgvW
+av_bitstream_filter_next
+av_codec_is_decoder
+av_codec_is_encoder
+av_codec_next
+av_free_packet
+av_get_bits_per_sample
+av_get_codec_tag_string
+av_get_profile_name
+av_init_packet
+av_packet_side_data_name
+avcodec_close
+avcodec_configuration
+avcodec_decode_audio4
+avcodec_decode_subtitle2
+avcodec_decode_video2
+avcodec_descriptor_get
+avcodec_descriptor_get_by_name
+avcodec_descriptor_next
+avcodec_find_decoder
+avcodec_find_decoder_by_name
+avcodec_find_encoder
+avcodec_find_encoder_by_name
+avcodec_get_class
+avcodec_open2
+avcodec_version
+avsubtitle_free
+av_input_audio_device_next
+av_input_video_device_next
+av_output_audio_device_next
+av_output_video_device_next
+avdevice_configuration
+avdevice_free_list_devices
+avdevice_list_input_sources
+avdevice_list_output_sinks
+avdevice_register_all
+avdevice_version
+avfilter_configuration
+avfilter_get_by_name
+avfilter_next
+avfilter_pad_count
+avfilter_pad_get_name
+avfilter_pad_get_type
+avfilter_version
+av_dump_format
+av_find_input_format
+av_format_get_probe_score
+av_guess_format
+av_guess_sample_aspect_ratio
+av_iformat_next
+av_oformat_next
+av_read_frame
+av_register_all
+av_stream_get_side_data
+avformat_close_input
+avformat_configuration
+avformat_find_stream_info
+avformat_get_class
+avformat_match_stream_specifier
+avformat_network_deinit
+avformat_network_init
+avformat_open_input
+avformat_seek_file
+avformat_version
+avio_enum_protocols
+avio_size
+avresample_configuration
+avresample_get_class
+avresample_version
+av_asprintf
+av_bprint_append_data
+av_bprint_channel_layout
+av_bprint_chars
+av_bprint_clear
+av_bprint_finalize
+av_bprint_init
+av_bprintf
+av_calloc
+av_chroma_location_name
+av_color_primaries_name
+av_color_range_name
+av_color_transfer_name
+av_dict_copy
+av_dict_free
+av_dict_get
+av_dict_parse_string
+av_dict_set
+av_display_rotation_get
+av_force_cpu_flags
+av_frame_alloc
+av_frame_free
+av_frame_get_best_effort_timestamp
+av_frame_get_channel_layout
+av_frame_get_channels
+av_frame_get_metadata
+av_frame_get_pkt_duration
+av_frame_get_pkt_pos
+av_frame_get_pkt_size
+av_frame_side_data_name
+av_free
+av_freep
+av_get_bits_per_pixel
+av_get_channel_description
+av_get_channel_layout_string
+av_get_channel_name
+av_get_colorspace_name
+av_get_cpu_flags
+av_get_known_color_name
+av_get_media_type_string
+av_get_picture_type_char
+av_get_pix_fmt_name
+av_get_sample_fmt_name
+av_get_sample_fmt_string
+av_get_standard_channel_layout
+av_get_token
+av_hash_alloc
+av_hash_final_hex
+av_hash_freep
+av_hash_get_name
+av_hash_init
+av_hash_names
+av_hash_update
+av_log
+av_log_default_callback
+av_log_format_line
+av_log_get_flags
+av_log_get_level
+av_log_set_callback
+av_log_set_flags
+av_log_set_level
+av_malloc
+av_mallocz
+av_match_name
+av_max_alloc
+av_opt_child_class_next
+av_opt_find
+av_opt_free
+av_opt_get
+av_opt_get_key_value
+av_opt_next
+av_opt_set
+av_opt_set_defaults
+av_opt_show2
+av_parse_cpu_caps
+av_parse_time
+av_pix_fmt_desc_get_id
+av_pix_fmt_desc_next
+av_realloc_array
+av_reallocp_array
+av_reduce
+av_rescale_q
+av_strdup
+av_strerror
+av_strlcat
+av_strlcatf
+av_strlcpy
+av_strtod
+av_strtok
+av_timecode_make_mpeg_tc_string
+av_utf8_decode
+avutil_configuration
+avutil_version
+postproc_configuration
+postproc_version
+swr_alloc
+swr_free
+swr_get_class
+swresample_configuration
+swresample_version
+sws_alloc_context
+sws_freeContext
+sws_get_class
+sws_isSupportedInput
+sws_isSupportedOutput
+swscale_configuration
+swscale_version
+KERNEL32.dll
+msvcrt.dll
+SHELL32.dll
+avcodec-56.dll
+avdevice-56.dll
+avfilter-5.dll
+avformat-56.dll
+avresample-2.dll
+avutil-54.dll
+postproc-53.dll
+swresample-1.dll
+swscale-3.dll

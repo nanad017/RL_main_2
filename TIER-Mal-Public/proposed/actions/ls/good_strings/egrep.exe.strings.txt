@@ -1,0 +1,436 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$0=@
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+sc;=h
+sJ;=h
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+;A4}
+;B8~
+[^_]
+[^_]
+[^_]
+D2<B
+[^_]
+[^_]
+[^_]
+,[^_]
+t0;U
+([^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+u	@9E
+<[^_]
+<[^_]
+Y09D
+[^_]
+w$9\
+[^_]
+G8;E
+[^_]
+W8C9
+[^_]
+[^_]
+[^_]
+[^_]
+uCF9
+[^_]
+W8F9
+[^_]
+[^_]
+[^_]
+l[^_]
+l[^_]
+:-t,
+[^_]
+t	<-u
+[^_]
+<:tS
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,0<	wA
+[^_]
+:tC;
+=t2;
+[^_]
+9)t8
+9|t'
+Z[^_]
+[^_]
+[^_]
+<[^_]
+<[^_]
+<[^_]
+[^_]
+[^_]
+tP;]
+[^_]
+u	B9
+[^_]
+[^_]
+|$ 1
+[^_]
+F(tA
+[^_]
+[^_]
+[^_]
+4[^_]
+<[^_]
+<[^_]
+,0<	
+uu;]
+[^_]
+\[^_]
+CH`tA
+CLPtA
+CP@tA
+CT0tA
+[^_]
+01;31
+[%sm
+0123456789A:B:C:D:HITUVabcd:e:f:hiKLlm:noqRrsuvwxyZz
+after-context
+before-context
+binary-files
+byte-offset
+context
+color
+colour
+count
+devices
+directories
+exclude
+exclude-from
+exclude-dir
+file
+files-with-matches
+files-without-match
+help
+include
+ignore-case
+initial-tab
+label
+line-buffered
+line-number
+line-regexp
+max-count
+mmap
+no-filename
+no-messages
+null
+null-data
+only-matching
+quiet
+recursive
+regexp
+invert-match
+silent
+text
+binary
+unix-byte-offsets
+version
+with-filename
+word-regexp
+[%sm
+lseek
+input is too large to count
+writing output
+Binary file %s matches
+(standard input)
+recursive directory loop
+warning: %s: %s
+Usage: %s [OPTION]... PATTERN [FILE]...
+Try `%s --help' for more information.
+Search for PATTERN in each FILE or standard input.
+PATTERN is an extended regular expression (ERE).
+Example: %s -i 'hello world' menu.h main.c
+Regexp selection and interpretation:
+  -e, --regexp=PATTERN      use PATTERN for matching
+  -f, --file=FILE           obtain PATTERN from FILE
+  -i, --ignore-case         ignore case distinctions
+  -w, --word-regexp         force PATTERN to match only whole words
+  -x, --line-regexp         force PATTERN to match only whole lines
+  -z, --null-data           a data line ends in 0 byte, not newline
+Miscellaneous:
+  -s, --no-messages         suppress error messages
+  -v, --invert-match        select non-matching lines
+  -V, --version             print version information and exit
+      --help                display this help and exit
+      --mmap                use memory-mapped input if possible
+Output control:
+  -m, --max-count=NUM       stop after NUM matches
+  -b, --byte-offset         print the byte offset with output lines
+  -n, --line-number         print line number with output lines
+      --line-buffered       flush output on every line
+  -H, --with-filename       print the filename for each match
+  -h, --no-filename         suppress the prefixing filename on output
+      --label=LABEL         print LABEL as filename for standard input
+  -o, --only-matching       show only the part of a line matching PATTERN
+  -q, --quiet, --silent     suppress all normal output
+      --binary-files=TYPE   assume that binary files are TYPE;
+                            TYPE is `binary', `text', or `without-match'
+  -a, --text                equivalent to --binary-files=text
+  -I                        equivalent to --binary-files=without-match
+  -d, --directories=ACTION  how to handle directories;
+                            ACTION is `read', `recurse', or `skip'
+  -D, --devices=ACTION      how to handle devices, FIFOs and sockets;
+                            ACTION is `read' or `skip'
+  -R, -r, --recursive       equivalent to --directories=recurse
+      --include=FILE_PATTERN  search only files that match FILE_PATTERN
+      --exclude=FILE_PATTERN  skip files and directories matching FILE_PATTERN
+      --exclude-from=FILE   skip files matching any file pattern from FILE
+      --exclude-dir=PATTERN directories that match PATTERN will be skipped.
+  -L, --files-without-match print only names of FILEs containing no match
+  -l, --files-with-matches  print only names of FILEs containing matches
+  -c, --count               print only a count of matching lines per FILE
+  -T, --initial-tab         make tabs line up (if needed)
+  -Z, --null                print 0 byte after FILE name
+Context control:
+  -B, --before-context=NUM  print NUM lines of leading context
+  -A, --after-context=NUM   print NUM lines of trailing context
+  -C, --context=NUM         print NUM lines of output context
+  -NUM                      same as --context=NUM
+      --color[=WHEN],
+      --colour[=WHEN]       use markers to highlight the matching strings;
+                            WHEN is `always', `never', or `auto'
+  -U, --binary              do not strip CR characters at EOL (MSDOS)
+  -u, --unix-byte-offsets   report offsets as if CRs were not there (MSDOS)
+Invocation as `egrep' is deprecated; use `grep -E' instead.
+With no FILE, or when FILE is -, read standard input.  If less than two FILEs
+are given, assume -h.  Exit status is 0 if any line was selected, 1 otherwise;
+if any error occurs and -q was not given, the exit status is 2.
+Report bugs to: %s
+bug-grep@gnu.org
+GNU Grep home page: <%s>
+http://www.gnu.org/software/grep/
+General help using GNU software: <http://www.gnu.org/gethelp/>
+GREP_COLORS
+In GREP_COLORS="%s", the "%s" capacity %s.
+In GREP_COLORS="%s", the "%s" capacity is boolean and cannot take a value ("=%s"); skipped.
+Stopped processing of ill-formed GREP_COLORS="%s" at remaining substring "%s".
+In GREP_COLORS="%s", the "%s" capacity needs a value ("=..."); skipped.
+grep
+/usr/share/locale
+GREP_OPTIONS
+invalid context length argument
+%s: %s
+without-match
+recurse
+invalid max count
+read
+GREP_COLOR
+skip
+always
+force
+never
+unknown binary-files type
+unknown directories method
+unknown devices method
+GNU grep 2.5.4
+2009
+Copyright (C) %s Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+TERM
+dumb
+none
+auto
+if-tty
+memory exhausted
+(^|[^[:alnum:]_])(
+)([^[:alnum:]_]|$)
+/usr/src/grep/grep-2.5.4/src/search.c
+start > 0
+GREP_USE_DFA
+memory exhausted
+:alpha:]
+:upper:]
+:lower:]
+:digit:]
+:xdigit:]
+:space:]
+:punct:]
+:alnum:]
+:print:]
+:graph:]
+:cntrl:]
+:blank:]
+unfinished repeat count
+Unbalanced [
+Unfinished \ escape
+malformed repeat count
+Memory exhausted
+Unbalanced (
+Unbalanced )
+No syntax specified
+memory exhausted
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: unrecognized option `--%s'
+%s: option `%c%s' doesn't allow an argument
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: invalid option -- %c
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+write error
+%s: %s
+memory exhausted
+/usr/src/grep/grep-2.5.4/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+%s: 
+: %s
+%s:%d: 
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+memory exhausted
+POSIX
+literal
+shell
+shell-always
+escape
+locale
+clocale
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+__assert
+__errno
+__main
+_ctype_
+abort
+atexit
+atoi
+calloc
+close
+closedir
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fopen
+fputc
+fputs
+fread
+free
+fwrite
+getc
+getenv
+getpagesize
+isatty
+lseek
+malloc
+memchr
+memcpy
+memmove
+memset
+open
+opendir
+putc
+read
+readdir
+realloc
+setlocale
+setmode
+stat
+strcasecmp
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-intl-8.dll
+msys-1.0.dll
+KERNEL32.dll

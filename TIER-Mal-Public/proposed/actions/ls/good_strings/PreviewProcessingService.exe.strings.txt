@@ -1,0 +1,865 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+R$qB}
+*F~3
+*.(%
+&*.s
+*.rg
+*F~;
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPkF
+Duplicate argument {0}
+Unrecognized argument {0}
+Value expected for argument {0}
+"The command completed successfully
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+Access DeniedBSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+t	W	
+G! !"
+z! !
+N"q	
+<Module>
+PreviewProcessingService.exe
+AssemblyVersionInfo
+PublicKeyConstants
+Microsoft.ReportingServices
+BaseCmdLine
+OptionSupportType
+BaseCmdLineStrings
+Keys
+HostApplication
+Microsoft.Reporting.PreviewHost
+SameUserSecurityBehavior
+SameUserInspector
+IAppManagement
+IPreviewProcessing
+IPreviewProcessingCallback
+LocalCatalogCallback
+PreviewHostStrings
+AppManagementService
+PreviewProcessingService
+StreamInfo
+CancelState
+mscorlib
+System
+Object
+Enum
+System.ServiceModel
+System.ServiceModel.Description
+IServiceBehavior
+System.ServiceModel.Dispatcher
+IDispatchMessageInspector
+Microsoft.ReportingServices.ReportPreview
+Microsoft.Reporting
+ILocalCatalog
+IDisposable
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+SQLTestKey
+SQLTestKeyToken
+SQLPublicKey
+SQLPublicKeyToken
+PublicKey
+PublicKeyToken
+AssemblyVersion
+AssemblyQualifier
+CommandLineMain
+.ctor
+ParseCommandLine
+AddCommandLineParameter
+PostParseValidation
+InstanceMain
+OptionHandler
+get_Usage
+m_printTrace
+get_PrintTraceOnError
+set_PrintTraceOnError
+m_optionsSupported
+OptionContains
+Usage
+PrintTraceOnError
+value__
+None
+Single
+Multi
+Valueless
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+InvalidCommandLineOption
+DuplicateCommandLineOption
+MissingOptionValue
+get_SuccessfulExecution
+Culture
+SuccessfulExecution
+System.Resources
+ResourceManager
+resourceManager
+culture
+GetString
+m_instance
+System.Threading
+ManualResetEvent
+m_shutdownGuard
+m_startupSemaphoreName
+Main
+ServiceHost
+CreateAppManagementServiceHost
+CreateProcessingServiceHost
+AddMetadataInterfaceToServiceHost
+WaitForShutdown
+SignalServiceOpen
+get_Instance
+ServiceShutdown
+Shutdown
+Instance
+ServiceDescription
+ServiceHostBase
+System.Collections.ObjectModel
+Collection`1
+ServiceEndpoint
+System.ServiceModel.Channels
+BindingParameterCollection
+AddBindingParameters
+ApplyDispatchBehavior
+Validate
+Message
+IClientChannel
+InstanceContext
+AfterReceiveRequest
+BeforeSendReply
+SetItemPath
+GetExecutionInfo
+GetDocumentMap
+ListRenderingExtensions
+CompileReport
+ResetExecution
+SetReportParameters
+GetReportDataSourcePrompts
+SetReportDataSourceCredentials
+Render
+RenderStream
+PerformToggle
+PerformBookmarkNavigation
+PerformDocumentMapNavigation
+PerformSort
+PerformSearch
+PerformDrillthrough
+ReleasePersistentResources
+SetCancelState
+CloseExecutionSession
+GetReportDefinition
+GetResource
+GetDataSource
+GetDataSet
+GetReportDataSourceCredentials
+GetReportDataFileInfo
+UpdateReportDataFileStatus
+CreateStream
+m_serviceCallback
+m_cancelState
+PreviewItemContext
+Microsoft.ReportingServices.ProcessingCore
+Microsoft.ReportingServices.DataExtensions
+DataSourceInfo
+DataSetInfo
+SetReportDefinition
+HasDirectReportDefinition
+Action
+ExecuteCallbackMethod
+get_AccessDenied
+AccessDenied
+_culture
+OnShutdown
+add_OnShutdown
+remove_OnShutdown
+m_initLock
+Microsoft.Reporting.WinForms
+DesignerService
+m_processingHost
+m_callback
+Dispose
+OnBeginRequest
+InternalRender
+SendStreamToCallbackAndDispose
+System.Text
+Encoding
+System.IO
+MemoryStream
+get_Name
+set_Name
+get_FileExtension
+set_FileExtension
+get_Encoding
+set_Encoding
+get_MimeType
+set_MimeType
+get_Stream
+set_Stream
+<Name>k__BackingField
+<FileExtension>k__BackingField
+<Encoding>k__BackingField
+<MimeType>k__BackingField
+<Stream>k__BackingField
+Name
+FileExtension
+MimeType
+Stream
+m_lock
+m_areOperationsCancelled
+Thread
+m_workerThread
+ExecuteCancelAwareOperation
+ExecuteCancellableOperation
+args
+instance
+alpha
+optionType
+optionValue
+value
+contains
+option
+ParamArrayAttribute
+serviceHost
+serviceDescription
+serviceHostBase
+endpoints
+bindingParameters
+request
+channel
+instanceContext
+reply
+correlationState
+itemPath
+parameterValues
+allCredentialsSatisfied
+System.Runtime.InteropServices
+OutAttribute
+credentials
+format
+deviceInfo
+paginationMode
+streamId
+mimeType
+toggleId
+bookmarkId
+uniqueName
+documentMapId
+sortId
+sortOptions
+clearSort
+startPage
+endPage
+searchText
+drillthroughId
+parametersForDrillthroughReport
+shouldCancelRequests
+resourcePath
+dataSourcePath
+dataSetPath
+dataSourceName
+userName
+password
+isOutOfDate
+streamName
+fileExtension
+encoding
+streamContents
+serviceCallback
+cancelState
+itemContext
+reportName
+reportBytes
+action
+streamInfo
+name
+stream
+shouldCancelOperations
+operation
+throwOnCancelled
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyTrademarkAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+Console
+WriteLine
+TextWriter
+get_Error
+ToString
+Exception
+get_Message
+Boolean
+String
+get_Chars
+get_Length
+Char
+IsLetter
+Substring
+Concat
+get_InvariantCulture
+ToUpper
+Array
+GetLength
+FlagsAttribute
+get_CurrentCulture
+IFormatProvider
+Format
+.cctor
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Module
+get_Module
+Assembly
+get_Assembly
+Microsoft.ReportingServices.Designer
+Microsoft.ReportDesigner.Design
+PreviewProcessingServiceArguments
+StartupSemaphoreName
+CommunicationObject
+Open
+Close
+PreviewProcessingServiceExitCodes
+NormalTermination
+AbnormalTerminiation
+Process
+GetCurrentProcess
+get_Id
+PreviewProcessingServiceConstants
+ConstructAppManagementUrl
+UriKind
+NetNamedPipeBinding
+BindingHelpers
+Initialize
+AppManagementEndpointAddress
+Binding
+AddServiceEndpoint
+get_Description
+System.Collections.Generic
+KeyedByTypeCollection`1
+get_Behaviors
+ConstructProcessingUrl
+ProcessingServiceEndpointAddress
+RecoverableFaultHandlerServiceBehavior
+WaitHandle
+WaitOne
+IsNullOrEmpty
+Semaphore
+OpenExisting
+Release
+Empty
+EventWaitHandle
+ChannelDispatcherCollection
+get_ChannelDispatchers
+SynchronizedCollection`1
+ChannelDispatcherBase
+IEnumerator`1
+GetEnumerator
+get_Current
+ChannelDispatcher
+EndpointDispatcher
+get_Endpoints
+DispatchRuntime
+get_DispatchRuntime
+get_MessageInspectors
+System.Collections
+IEnumerator
+MoveNext
+OperationContext
+ServiceSecurityContext
+get_ServiceSecurityContext
+System.Security.Principal
+IIdentity
+get_PrimaryIdentity
+WindowsIdentity
+GetCurrent
+op_Inequality
+ServiceContractAttribute
+OperationContractAttribute
+<>c__DisplayClass1
+definitionBytes
+<>4__this
+<GetReportDefinition>b__0
+Microsoft.ReportingServices.Diagnostics
+CatalogItemContextBase`1
+get_ItemPath
+<>c__DisplayClass4
+mimeTypeLocal
+resourceBytes
+<GetResource>b__3
+<>c__DisplayClass7
+dsiBytes
+<GetDataSource>b__6
+BinaryFormatterHelper
+Deserialize
+<>c__DisplayClassa
+<GetDataSet>b__9
+NotSupportedException
+<>c__DisplayClassd
+userNameLocal
+passwordLocal
+<GetReportDataSourceCredentials>b__c
+<>c__DisplayClass10
+isOutOfDateLocal
+dataFile
+<GetReportDataFileInfo>b__f
+<>c__DisplayClass13
+<UpdateReportDataFileStatus>b__12
+RecoverableErrorHandler
+FaultException
+GetExceptionForRecoverableError
+CompilerGeneratedAttribute
+get_FullName
+ServiceBehaviorAttribute
+Delegate
+Combine
+Interlocked
+CompareExchange
+Remove
+Invoke
+Microsoft.ReportingServices.ReportProcessing
+PublishingResult
+<.ctor>b__1
+LocalService
+LocalModeSecurityValidatorCallback
+CS$<>9__CachedAnonymousMethodDelegate2
+Monitor
+Enter
+Microsoft.ReportDesigner.Project
+ReportServerInformation
+ServerInformation
+IServiceProvider
+Exit
+GetCallbackChannel
+IContextChannel
+TimeSpan
+MaxValue
+set_OperationTimeout
+ExecuteReportInSandboxAppDomain
+set_SecurityValidator
+LocalDataRetrievalFromDataExtensionConfigFile
+LocalDataRetrieval
+set_DataRetrieval
+InitializeThreadForService
+LocalReport
+CreateItemContextForFilePath
+set_ItemContext
+LocalExecutionInfo
+get_ExecutionInfo
+Serialize
+IDocumentMap
+List`1
+OnDemandDocumentMapNode
+IEnumerable`1
+LocalRenderingExtensionInfo
+System.Collections.Specialized
+NameValueCollection
+DataSourcePromptCollection
+DatasourceCredentials
+warningsBytes
+<Render>b__3
+lastCallbackStreamInfo
+Microsoft.ReportingServices.Interfaces
+StreamOper
+<InternalRender>b__6
+extension
+willSeek
+CreateAndRegisterStream
+ProcessingMessageList
+IEnumerable
+Microsoft.ReportingServices.OnDemandReportRendering
+SortOptions
+Parse
+ReleaseSandboxAppDomain
+<SendStreamToCallbackAndDispose>b__9
+set_Position
+Byte
+Read
+Abort
+OperationCanceledException
+<>c__DisplayClass11
+backgroundThreadException
+<ExecuteCancellableOperation>b__10
+ThreadAbortException
+ThreadStart
+InvalidOperationException
+set_IsBackground
+Start
+Join
+Microsoft.ReportingServices.BaseCmdLineStrings.resources
+Microsoft.ReportingServices.PreviewHostStrings.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+	Namespace
+http://PreviewProcessingService
+	Namespace
+http://PreviewProcessingServiceTP
+CallbackContract:Microsoft.Reporting.PreviewHost.IPreviewProcessingCallbackTUwSystem.ServiceModel.SessionMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SessionMode
+IsTerminating
+System.ServiceModel.InstanceContextMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+InstanceContextMode
+TU{System.ServiceModel.ConcurrencyMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ConcurrencyMode
+IncludeExceptionDetailInFaults
+System.ServiceModel.InstanceContextMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+InstanceContextMode
+Microsoft SQL Server
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1846 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+*Reporting Services Preview Processing Host
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+WrapNonExceptionThrows
+RSDS
+!p2=70
+PreviewProcessingService.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+OVqE
+1D0B
+http://www.microsoft.com/sql0
+?HU&
+3D/5
+U2	}
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181228Z0#
+x084
+q_t:
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+W}ux2
+1D0B
+http://www.microsoft.com/sql0
+3tk)
+}2#'
+;afA
+l!YNK
+\"3l
+l2nV
+0!0	
+O1&"W
+20120211181230.469Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+V	P/P\

@@ -1,0 +1,1060 @@
+!This program cannot be run in DOS mode.
+[7'6
+'!9`'9
+'Rich:
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+j3j3
+D$@SUVW
+D$Xd
+t$(3
+D$,Vj
+T$,f
+D$.f;
+T$ f
+D$0f
+D$0f;
+D$Lj
+D$Xh
+Cf;\$0r
+D$,j
+D$@j
+D$>f
+L$@V
+L$Pj
+D$,RV
+t$(V
+Cf;\$
+L$Xd
+Y_^][
+L$@3
+\$$j
+j<h<
+j	hD
+j/hP
+D$4;
+t$8+
+L$,+
+D$D+
+9D$D
+t$8+
+D$(P
+D$$;
+D$(P
+D$$;
+t$hh
+Y_^[
+D$HSUVW
+D$`d
+l$(P
+L$`d
+Y_^][
+L$H3
+SUVW
+|$Hj
+D$d+\$0
+SVhh
+D$dh
+CL$L
+D$hQVh(
+D$ f
+D$ph<
+D$lhL
+CL$h
+CL$h
+j	QP
+YD$ 
+YD$,
+YD$ 
+YD$,
+PVWS
+D$thX
+D$lh
+\$@3
+L$@P
+D$@;F,t
+D$lh
+CD$h
+L$$;h
+;t$D
+CD$h
+Y_^][
+D$$P
+D$$;
+;|$(s
+l$,G;{
+D$l3
+D$<9M
+D$0P
+D$(P
+D$$;
+D$0P
+D$8P
+D$$;
+D$0P
+L$4P
+D$8;F,t
+<0 u
++D$(
+L$(f;C
+L$,_^
+D$T][
+D$ _^
+L$$]
+D$8SUVW
+D$Pd
+t$`P
+D$<h
+WVSj
+t$,WSV
+L$ P
+L$Pd
+Y_^][
+L$83
+D$8SUVW
+D$Pd
+t$`P
+D$<h
+WVSj
+t$,WSV
+L$ P
+L$Pd
+Y_^][
+L$83
+L$JP
+t$4V
+?PWj
+D$p(
+t$$V
+t$,j
+t$4VW
+D$PSUVW
+D$ld
+L$Lj+h8
+|$(+
+D$ P
+D$XP
+D$DPV
+L$0P
+D$8P
+D$4P
+D$pP
+D$\PV
+D$hP
+L$ld
+Y_^][
+L$P3
+s$QW
+_[^]
+_]^[
+_^][
+sq+1
+s1QW
+Y_^[
+Y_^[
+D$,S
+\$4VWP
+;7ta
+*+NT
+L$ 3
+L$,2
+_^[3
+*+QT
+D$ SUVW
+D$8d
+*+NT
+*+NT3
+D$ P
+*+NTC
+L$8d
+Y_^][
+L$ 3
+D$8SUVW
+D$Td
+tBP+
+D$ QP
+D$4W+
+L$Td
+Y_^][
+L$83
+sq+1
+l$$r
+D$$;
+D$$;
+;l$$
+D$ _
+L$$_
+D$ _^
+D$lVW
+L$D3
+t$PQP
+L$(3
+t$LQP
+L$(3
+gfff
+D$T;
+t$,QP
+D$T;
+L$(3
+D$T;
+t$8QP
+D$T;
+L$(3
+D$T;
+t$HQP
+D$T;
+L$(3
+D$T;
+t$@QP
+D$TN;
+L$(3
+T$UG
+D$4u
+<.tr
+t$4QP
+G;|$
+L$(3
+<%tC
+t$<QP
+;|$D
+L$t_^3
+tWVW
+PQVW
+t$ j
+Y_^[
+_^][
+/A;O
+D$$SVW
+D$<d
+D$$P
+L$<d
+Y_^[
+L$$3
+SUVW
+rNH;
+QVWj
+;O,t
+;_,u
+_][^
+LSUVW
+D$`d
+t$,2
+|$<j 
+|$@FNTX
+t$$P
+t$4P
+L$`d
+Y_^][
+QSVW
+rVA+
+]_^[Y
+t$ +;
+D$4sO
++D$0
+L$0+
+L$ ;
+D$(P
+tI;4
+D$ UVW
+9l$<vw
+L$ f
+D$,P
+;l$<r
+l$@3
+D$,P
+\$LG;
+_^][
+tI;4
+ t	U
+t$$P
+SVWh
+D$LS
+\$X3
+D$ P
+SUVW
+l$(F
+_^][
+t$(G
+_^][
+D$P;
+D$X;
+;L$`u
+;L$`u
+gfff+
+gfff
+D1@;D1D
+Ff;0
+L7@+
+@f;t
+|$,;
+T$,;
+gfff
+gfff
+gfff+
+|$h3
+gfff
+L$d;
+gfff+
+|$|3
+gfff+
+gfff
+PVQj
+gfff
++P<3
+gfff
+gfff+
+$PQR
+F;r4
+gfff+
+FNTX
+D9$+D9 
+D9$+D9 
+D> j
+D>$+D> 
+D$(SUVW
+D$@d
+D$T3
+D$$P
+D$(PV
+L$@d
+Y_^][
+L$(3
+PSVW
+|$ ;
+Y_^[
+gfff
+sS+1W
+sq+1
+gfff+
+gfffW
+sq+1
+gfff
+gfff
+Y_^[
+t0;4
+_^][
+8_^]
+9?t!
+.SUVW
+_^][
+_^][
+tZVW
+SUVW
+tF;4
+8_^]
+.UVW
+\$(;
+;|$(sJ
+u2;|$(to;
+;|$(u%
+D$ _
+t$ k
+t$(+
+t$0+
+ [_^]
+0SUVW
+D$Dd
+D$$f
+t$TPU
+L$Dd
+Y_^][
+8SUVW
+D$Ld
+D$,f
+l$$;
+L$ u
+uD;N
+D$0f
+D$0f
+D$4P
+L$Ld
+Y_^][
+t_VW
+Y_^[
+^_[Y
+,SUVW
+D$@d
+D$$f
+D$(P
+L$@d
+Y_^][
+_^][Y
+|	ua
+_^][Y
+D$8d
+L$8d
+I$SUV
+_^]3
+SUVW
+D$$;
+D$<;
+L$T;
+s4h$
+D$$;
+D$$P
+Y_^][
+D$`SUVW
+D$xd
+6;7u
+8-t)
+D$$P
+t$ ;7
+L$D;
+;^\u	Q
+w;^\u	Q
+D$T@t P
+D$HPW
+L$(E
+L$(;
+D$\P
+D$ ;
+D$\P
+L$,;
+;]<u	Q
+w;]<u	Q
+D$<@t P
+D$0PW
+*+QT
+	;M$u
+L$xd
+Y_^][
+L$`3
+SUVW
+6;p$
+Y_^][
+^][_
+w$9F
+Y_^[
+QSVW
+PQVW
+t$ j
+Y_^[
+L$ ;<
+PQSVW
+Y_^[
+Y_^[
+PQVW
+l$,;
+;L$ s
+;\$0
+L$Xf
+T$,+
+L$4+
+L$$;
+D$0vC
+\$4P
+t$\P
+_^][
+DSUVW
+D$Xd
+;T$(u
+";T$(u
+oD$8
+T$HRP
+D$8P
+L$Xd
+Y_^][
+D$(SUVW
+D$Dd
+D$L	3
+l$43
+CD$$;
+L$Dd
+Y_^][
+L$(3
+<SUVW
+D$Pd
+L$Pd
+Y_^][
+EL$(f
+El$,
+T$0f
+EL$0f
+L$Pd
+Y_^][
+sS+1W
+sS+1W
+BFG;
+SUVW
+_^][
+_^][
+L$$W
+t$ P
+t$ 9t$
+9L$ 
+GL$ ;
+l$ ;
+wu;T$ u
+9D$$
+GD$$;
+;T$ wAu
+9|$$
+G|$$9A
+;\$0
+;l$ wju
+9\$$
+G\$$9G
+T$$;
+wD;l$$u
+9D$ 
+GD$ ;
+u:;\$0tx;
+D$(_
+(~r@
+T$(VW
+ ][_^
+\$ ;
+_^][
+^[_Y
+9t$ 
+Gt$ 9K
+u#9r
+9L$ 
+GL$ ;
+;T$$
+_][^
+ub9\$
+_^][
+t$(Q
+}qSU
+u.9\$
+9|$ |
+D$$][
+L$43
+L$42
+SUVW
+CD$<QP
+D$<P
+D$\P
+D$<;
+D$@VP
+D$4P
+D$\P
+L$,H
+D$$H#
+D$(I
+Y_^][
+VUUU
+VUUU
+D$LP
+D$LP
+D$xS
+D$,3
+l$ C
+D$,;
+L$|_^][3
+D$hSUV
+L$8$
+L$x_^][3
+D$ f
+D$|SU
+D$@f
+T$8f
+L$df
+~\$P
+~D$@
+D$$f
+L$x^][3
+D$<f
+\$Xf
+\T$0
+\\$4f
+\d$8
+\T$<
+\\$@f
+\d$D
+\T$,
+\\$$f
+\d$(
+D$XP
+L$t_^[3
+D$Hf
+~F$f
+\$pf
+\T$<
+\\$@f
+\d$D
+\T$H
+\\$Lf
+\d$P
+\T$0
+\\$,f
+\d$(
+\T$8
+\\$ f
+\d$4
+L<|G
+D$pP
+_^[3
+_^][
+G?_^[
+L$ 3
+|$(;
+|$,;
+D$HSU
+gfff
+gfff
+gfff
+gfff
+D$@P
+D$4P
+D$8P
+D$4P
+t$$;
+D$DP
+_^][3
+SUVW
+gfff
+gfff
+gfff
+gfff
+_^][3
+^][3
+D$4SU
+t&;l$
+VUUU
+VUUU
+L$D_^][3
+F,;F0}I
+F,;F0}I
+D$,3
+D$4f
+_^][
+L$,^3
+L$T3
+D$(Wj
+)l$03
+)|$P3
+)t$`
+)D$@
+)L$p
+YT$@
+(t$@
+(\$p
+(l$0
+)|$P
+)t$`
+)l$0
+(t$`
+(|$P;
+D$$P
+(D$8
+D$8Wj
+)l$@
+)|$p3
+)t$`
+)\$P
+(l$@
+)|$p
+)t$`
+)l$@
+(t$`
+(|$p;
+(\$P
+X\$P
+L$$;
+t$,;
+(D$H
+D$4f
+t0Ht
+t%Wh
+F95$
+8csm
+Y__^[
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+WVS3
+j0hP
+true
+generic
+unknown error
+iostream
+iostream stream error
+system
+name
+FontCompiler
+Output file path
+output,o
+Image data format dxt5|dxt3|rgba8|a8 [optional,default=dxt5]
+format,m
+Font styles to include
+styles,y
+Image file to blend as texture [optional]
+texture,t
+Force image data to have power of 2 dimensions [optional]
+pow2,w
+Verbose logging [optional]
+verbose,v
+Output a text file describing character metrics
+metrics,x
+Output a bitmap image containing the font image data
+image,g
+Output bitmap images containing font style test data
+test,e
+output
+styles
+texture
+verbose
+antialias
+cleartype
+bold
+italic
+underline
+strikethru
+font
+size
+spacing
+color
+charset
+outline
+shadow
+blur
+pow2
+format
+Invalid format specified, defaulting to DXT5
+WARNING: One or more requested glyphs were not supported by the input font set!
+Created '%s' (%ux%u)
+Font image is %ux%u (%u pixels sq)
+image
+metrics
+test
+Warning: font file contains invalid data!
+Unsupported output format!
+Failed to install a specified font!
+Invalid font face specified!
+Failed to create a specified font!
+Font contains no glyphs!
+Failed to open '%s' for writing (file is read-only)!
+Failed to open '%s' for writing (unknown error)!
+Unknown error!
+No styles specified!
+rgba8
+dxt5
+dxt3
+dxt1
+dxt1a
+Font metrics for %s, %u styles
+Image is %ux%u, %s
+-----------------------------------------------------------------------------------
+Bold
+Italic
+Underline
+Strikethru
+Standard
+Style %u: %s|%upx
+%u: '%c' [%u]
+%u: [%u]
+X, Y:                %u, %u (%ux%u)
+Pre, Width, Post:    %i, %u, %i
+Height, Offset:      %u, %u
+Texcoords:           (%f, %f) (%f, %f)
+Kerning:			 %u, %i
+%s_style_%u_kern.bmp
+%s_style_%u_nokern.bmp
+%s_style_%u_gdi.bmp
+The quick brown fox jumps over the lazy dog
+unknown
+string too long
+invalid string position
+vector<T> too long
+list<T> too long
+%2X%2X%2X%2X
+32-126
+en;161;191;193;201;205;209;211;218;220;225;233;237;241;243;250;252
+en;192;194;196;198-203;206-207;212;217;219-220;224;226;228;230-235;238-239;244;249;251-252;255;338-339
+en;196;214;220;223;228;246;252
+en;170-171;186-187;192;200-201;204;210-211;217;224;232-233;236;242-243;249
+en;884-885;890;894;900-906;908;910-929;931-974
+en;211;243;260-263;280-281;321-324;346-347;377-380
+en;193;201;205;211;218;221;225;233;237;243;250;253;268-271;282-283;327-328;344-345;352-353;356-357;366-367;381-382
+en;1025;1040-1103;1105
+en;193;201;203;205;211;214;218;220;225;233;235;237;243;246;250;252;336-337;368-369
+en;159;192-194;196;200-207;210-212;214;217-220;221;224-226;228;232-239;242-244;246;249-253;255
+en;193;196;201;205;211-212;218;221;225;228;233;237;243-244;250;253;268-271;282;313-314;317-318;327-328;340-341;344-345;352-353;356-357;366-367;381-382
+en;192-195;199;201-202;205;211-213;218;220;224-227;231;233-234;237;243-245;250;252
+en;1040-1066;1068;1070-1098;1100;1102-1103
+48-57
+0123456789-;abcdefghihjklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+deque<T> too long
+RSDS
+%hl(Q
+D:\Projects\Utility\FontCompiler\binaries\Release\FontCompiler.pdb
+_FreeImage_DeInitialise@0
+_FreeImage_Initialise@4
+_FreeImage_GetFileType@8
+_FreeImage_Load@12
+_FreeImage_GetBPP@4
+_FreeImage_ConvertTo32Bits@4
+_FreeImage_GetWidth@4
+_FreeImage_GetHeight@4
+_FreeImage_GetScanLine@8
+_FreeImage_Unload@4
+_FreeImage_Allocate@24
+_FreeImage_Save@16
+FreeImage.dll
+CreateDirectoryA
+KERNEL32.dll
+ReleaseDC
+GetDC
+FillRect
+USER32.dll
+TextOutA
+SetTextAlign
+CreateCompatibleDC
+SelectObject
+DeleteObject
+SetBkMode
+CreateBitmap
+AddFontResourceExA
+GetDIBits
+CreateFontIndirectA
+DeleteDC
+SetTextColor
+GetTextMetricsW
+GetFontUnicodeRanges
+GetCharABCWidthsW
+GetKerningPairsW
+CreateSolidBrush
+TextOutW
+SetDIBits
+GDI32.dll
+?_Winerror_map@std@@YAPBDH@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+?_Orphan_all@_Container_base0@std@@QAEXXZ
+?_Orphan_all@_Container_base12@std@@QAEXXZ
+??0_Container_base12@std@@QAE@XZ
+MSVCP120.dll
+_strnicmp
+memmove
+printf
+fopen
+??_V@YAXPAX@Z
+fread
+_purecall
+??3@YAXPAX@Z
+ftell
+fseek
+fclose
+??2@YAPAXI@Z
+fwrite
+fflush
+sscanf
+_stat64i32
+MSVCR120.dll
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+__initenv
+_fmode
+_commode
+?terminate@@YAXXZ
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+_except_handler4_common
+__crtSetUnhandledExceptionFilter
+_invoke_watson
+_controlfp_s
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+_CIatan2
+_CxxThrowException
+__CxxFrameHandler3
+_libm_sse2_cos_precise
+_libm_sse2_pow_precise
+_libm_sse2_sin_precise
+_libm_sse2_sqrt_precise
+ceil
+floor
+memcpy
+memset
+_except1
+.?AVtype_info@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AVRangeFit@squish@@
+.?AVColourFit@squish@@
+.?AVSingleColourFit@squish@@
+.?AVClusterFit@squish@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0!010A0Q0a0q0
+1#1<1F1u1
+1	2/292_2i2
+2"3,3R3\3
+4?4I4
+5)6Q6p6~6
+6L7s7
+:9:K:\:
+;0<p<
+8'8;8O8_8o8
+9'9;9O9c9w9
+:+:;:
+=8>Q>
+2%2*2:2?2O2T2d2i2
+3/4a4
+525I5`5w5
+5B6v6
+7=7t7x7|7
+8M9e9}9
+:1:=:j:
+:#;H;d;
+<C=I=
+434E4U4
+6&656A6M6e6
+8!8I8]9f9
+:%:4:S:d:h:l:p:t:x:
+:M;X<
+?1?7?
+0:0@0
+4.545
+6(6W6i6
+6V7h7
+7.8j8
+;c;r;
+<I<C>P?_?
+2Y3	8M8
+8>9D9X:^:s:
+<>=4>A>
+3!505[5Z6
+7^8|8
+:`:d:h:l:u:
+;<;@;D;H;
+80F0
+0F1i1p2
+6$8?8Y9i9y9
+<(<8<
+3	4&6-6:6{6
+7L8S8I9c9
+;*=:=,?K?j?
+31445
+7H7w7
+7&8-8r8
+9	9'9=9G9a9}9
+:#;S;b;q;
+<3>A>
+W1]1
+152;2
+2e3k364E4
+4	5W5
+:-<3<G<e<
+0Y0s1
+3&484
+8#;4;
+=S>e>w>#?
+b0h0
+8%878
+<S=e=
+>f?x?
+=0C0Q0o0
+464H4
+4/5C8V8
+;(;5;?;D;J;];e;r;|;
+<"</<9<><D<W<_<l<v<{<
+=)=3=8=>=Q=Y=f=p=u={=
+>#>->2>8>K>S>`>j>o>u>
+?'?,?2?E?O?Y?b?j?p?
+0#0(0.0A0I0V0`0e0k0~0
+1#161>1K1U1Z1`1s1~1
+2&2e273M3
+7(8.8
+4'4s4
+7&858
+:K:v:
+;";P;T;X;\;`;d;h;l;
+<`<d<h<l<p<
+<`=d=h=l=p=t=x=|=
+0(1,1014181<1@1D1r1y1
+3"4)4
+5>5E5064686<6@6D6H6L6
+9O:[:k:
+G2O2
+7$84;d=r=|=
+5%5T6e6
+9+:5:<:P:n:x:
+:m==>X>
+?)?0?I?r?|?
+859<9a9|9
+;0;M;y;
+<N<h<
+=2=<=]=p=
+>#>8>C>Y>s>}>
+?&?,?>?H?Q?[?a?j?p?u?z?
+060V0h0p0u0z0
+1 1*1I1O1Y1_1h1m1
+1Z2a2t2
+3(3-333=3G3W3g3w3
+4%4*404:4D4W4\4l4r4x4
+4D5T5Z5
+7;7C7P7U7p7u7
+899H9W9|9
+;);8;t;
+;+<N<[<c<k<
+=$=*=2=g=i?
+!0W0
+0"1B1w1
+2;2w2
+324R4
+657R7w7
+8#8-878A8K8U8_8i8s8}8
+9'9W9
+:":&:2:6:!;*;
+2 2$2(2,2024282<2@2D2H2L2P2T2`2d2h2
+8T:X:
+;$;(;@;P;T;X;\;p;t;x;
+< <$<8<<<@<D<L<`<d<|<
+=$=<=L=\=`=@>`>p>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0 0,0L0T0\0d0l0t0|0
+1$1D1L1X1`1
+2 202<2\2h2
+3$303P3\3|3
+4 4D4L4T4\4d4l4t4|4
+5(505d5t5
+646D6P6p6x6
+7(7H7P7X7`7h7p7x7
+80888D8L8
+9$9@9P9\9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;4;<;D;L;T;`;
+0 0$0`0x0
+0 1@1`1

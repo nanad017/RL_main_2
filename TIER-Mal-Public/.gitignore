@@ -1,0 +1,111 @@
+# datasets
+data/evaded/
+data/test_samples/
+data/memory/
+data/logs/
+ember_dat/
+
+# training artifacts
+saved_models/
+logs/
+
+# python
+__pycache__/
+*.pyc
+
+# large files
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.joblib
+*.keras
+*.h5
+*.model
+
+# virtual env
+.venv37_clean/
+.venv/
+venv/
+.venv-*/
+runtime/
+
+# heavy model/data artifacts
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/observations.npy
+
+# datasets / outputs
+data/evaded/
+data/memory/
+data/logs/
+data/test_samples/
+ember_dat/
+saved_models/
+logs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual env
+.venv37_clean/
+.venv/
+venv/
+
+# heavy model/data artifacts
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/observations.npy
+
+# datasets / outputs
+data/evaded/
+data/memory/
+data/logs/
+data/test_samples/
+ember_dat/
+saved_models/
+logs/
+
+# python cache
+__pycache__/
+*.pyc
+
+.venv37_clean/
+.venv/
+venv/
+
+data/
+logs/
+saved_models/
+ember_dat/
+
+malware_rl/envs/utils/ember_model.txt
+malware_rl/envs/utils/lgb_ember_model.txt
+malware_rl/envs/utils/observations.npy
+malware_rl/envs/controls/good_strings/
+
+__pycache__/
+*.pyc
+
+# generated datasets
+malware_rl/envs/controls/good_strings/
+malware_rl/envs/controls/trusted/
+
+# tensorboard
+ppo_custom_tensorboard/
+
+# samples
+malware_rl/envs/utils/samples/
+
+# scores
+malware_rl/envs/utils/scores.npy
+
+# Detector models and generated evaluation output (not distributed in this repo)
+detectors/**/artifacts/
+detectors/**/assets/checkpoints/
+detectors/**/models/
+detectors/**/dataset_json/
+detectors/**/results/
+malware_rl/envs/utils/lgb_custom_model_39720.txt

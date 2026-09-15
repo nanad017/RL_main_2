@@ -1,0 +1,847 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+D$0A
+D$4A
+D$8A
+D$<H
+T$0H
+x ATAVAWH
+D$0D
+D$(I
+\$`H
+l$hH
+t$pH
+|$xH
+@A_A^A\
+T$ H
+\$@H
+t$HH
+|$PH
+\$0H
+L$ SVWH
+L$XL+
+ _^[
+\$ UVWAVAWH
+D$@L
+|$0A
+D$ fD
+D$0L
+L$@L
+L$8L
+L$0H
+L9{@u
+L9{(
+L$ L
+A_A^_^]
+D$ H
+L$ H
+T$0A
+L$0H
+T$0H
+D$0H;
+\$0H
+9wHu
+\$0H
+l$8H
+t$@H
+t$ WATAUAVAWH
+f9<Au
+D$PH
+f9|E
+@8<(u
+fA9<ou
+l$PH
+\$XH
+l$`H
+t$hH
+ A_A^A]A\_
+D$@H
+UVWATAUAVAWH
+\$8M
+D$(H
+n0E3
+tOL9+tJD
+t^D8-
+fE9/u
+@A_A^A]A\_^]
+L$xL
+D$pH
+D$`H
+\$HH
+|$0L
+\$(L
+D$0H
+D$(H
+D$HL
+L$8E3
+D$(H
+D$HD
+L$8E3
+D$(H
+D$HL
+D$(H
+D$HE3
+D$(H
+D$HD
+L$8E3
+D$(H
+\$@H
+t$XH
+sVL+
+L$HH
+L$PH
+D$HH
+\$@H
+t$XH
+VWATAVAWH
+fD9"t
+D$`D
+L$Xy
+L$XE
+t+H+
+L$XE
+d$hL
+D$hI
+sEL+
+D$hI
+\$pH
+l$xH
+0A_A^A\_^
+WATAUAVAWH
+D$`D9g
+D$@H;
+t$@H
+L$HH
+D$PL
+t$@H
+D$XH;
+t$XH
+D$`H
+D$hL
+t$XH
+t$XH
+t$@D
+|$HL+
+d$xL+d$pI
+\$(D
+|$ L
+T$pH
+L$pH
+BHH9B@
+D$@I
+T$PH
+t$HL
+t$@H;
+s[I+
+T$PH
+t$HL
+t$@H
+s[I+
+T$PH
+t$HL
+t$@H
+T$PL
+t$@H
+t$HH
+t$HH
+d$ E3
+L9d$@t
+A_A^A]A\_
+T$(H
+\$(H
+|$0H;
+T$hH
+T$hH
+D$ H
+UWATAVAWH
+fD94Cu
+t$0H
+D$0H
+t$8H
+D$8H
+D$ L
+D$(X
+D$@H
+D$ L
+D$@H
+D9t$h
+\$8H
+T$pH
+D$0D9=
+D9t$x
+D9t$@
+D$|H
+\$8H
+T$|H
+D$0D9=
+D9t$`t
+T$@H
+D$0D9=c
+D$0H
+|$0D8u
+t$8H
+t$8H
+D8t$5t
+D8u t
+M@H3
+A_A^A\_]
+D$0I
+D$(H
+L$`H3
+\$0H
+l$8H
+t$@H
+w~H;
+t$8H
+\$0H
+\$0H
+t$8H
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+\$0H
+f9*u
+f9,zu
+l$8H
+\$0H
+t$@H
+t$@H
+\$0H
+l$8H
+\$HH
+D$HH
+\$@H
+t$PH
+|$XH
+l$8H
+\$0H
+|$@H
+x AVH
+l$8H
+\$0H
+t$@H
+|$HH
+\$HH
+D$HH
+\$@H
+t$PH
+|$XH
+SVWAVH
+\$`H
+t$pH
+|$hL
+t$xH
+8A^_^[
+t$8H
+\$0H
+SVWAVAWH
+\$`L
+t$pH
+|$hL
+|$xM
+0A_A^_^[
+p WAVAWH
+f9,Bu
+\$HI
+l$PH
+t$XH
+ A_A^_
+x AVH
+|$HH
+\$8H
+t$@H
+D$0L
+D$(H
+L$PH3
+WATAUAVAWH
+l$xH
+D$xH
+\$@I
+A_A^A]A\_
+\$XH;
+\$PH
+\$@H
+t$HH
+D$8H
+L$8H3
+L$(I
+x AVH
+L$8H
+t$(H
+\$`H
+t$pH
+|$xH
+D$HH
+D$HL
+D$HL
+D$HL
+D$(H
+D$PH
+D$0E3
+D$(H
+L$PH3
+\$0H
+s WH
+D$PH
+L$PH3
+\$`I
+UWATAVAWH
+H+3H
+sRH+
+sRH+
+fD9$Gu
+fD9$Gu
+L$ H
+M'H3
+A_A^A\_]
+UWATAVAWH
+D$ A
+D$8H
+\$0L
+d$(L
+d$ L
+D$8L
+d$0L
+d$(L
+M/H3
+A_A^A\_]
+UATAUAVAWH
+T$@H
+\$HH
+\$PH
+D$XH
+D$8H
+L$hf
+L$XM
+D$xI
+D$XH
+T$xH
+D$8H
+T$8I
+D$xH
+t$xI+
+L$0H
+D$XI
+T$hL
+T$hH
+d$XI+
+D$03
+D$8H
+D$8H
+T$8H
+d$@H
+D$4W
+D$4H
+D$4H
+T$ E3
+D$0H
+D$0H
+L$ E3
+A_A^A]A\]
+sKH+
+rMH+
+\$0H
+WATAUAVAWH
+\$xH
+D$xH
+\$@I
+A_A^A]A\_
+L$ L
+D$XE3
+t$I+
+D$PI
+l$(H
+\$`H
+t$pH
+D$HL
+D$HH
+x UH
+L$(H
+D$(H
+L$(H
+|$\.u
+D$^f
+f9|$`tcL
+L$ H
+|$ A
+T$\H
+D$0H
+L$ H
+T$0H
+L$ H
+L$(H
+UVWAVAWH
+D$xI
+\$8H
+D$XH
+L$xH3
+A_A^_^]
+s WH
+D$PH
+L$PH3
+\$`I
+UWAUAVAWH
+fD9<Hu
+D$hD
+|$lH
+D$@E3
+D$(H
+D$@E3
+D$(H
+|$8H
+fD9<Cu
+|$8H
+fF9<pu
+|$lH
+D$`B
+D$hH
+D$0H
+D$pH
+D$@E3
+D$(H
+t$8H
+A_A^A]_]
+D$hH
+D$0H
+D$pD
+|$lH
+D$@E3
+D$(H
+D$0H
+D$`H
+D$@E3
+D$(H
+UVWATAUAVAWH
+D$0H
+D$0H
+D$0H
+\$8H
+D$0H
+D$8H
+\$8H
+T$8H
+D$0H
+D$8H
+D$0H
+A_A^A]A\_^]
+VWATAVAWH
+L$8I
+f9<Hu
+|$|H
+D$PH
+H9~8u/M
+T$PH
+t$8L
+t$HH
+f9<Cu
+D$0H
+D$0H
+D$PH
+L$ E3
+A_A^A\_^
+\$(H!\$ H
+t$ H
+\$(H
+T$@H
+T$@H
+UVWH
+l$ H
+L$0A
+T$0H
+T$0H
+UVWH
+l$ H
+L$0A
+T$0H
+T$0H
+D$ H
+T$0H
+D$0H
+\$8H
+L$(L
+L$(L
+UVWATAUAVAWH
+D$8E
+t$8L+
+fD9<Cu
+fD9<Au
+D$0H
+A_A^A]A\_^]
+t$8H
+\$0H
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+\$0H
+t$8H
+D$@H
+D$(H
+T$ H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L9=<k
+L$ f
+: wxfD9:t
+D9=5c
+D$ H
+A_A^A\
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+\$0H
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+ H;]Pu
+SUWH
+H;]Pu
+\$0H
+provpackageapidll.dll
+generic
+unknown error
+iostream
+iostream stream error
+system
+Exception
+ReturnHr
+ReturnHr[PreRelease]
+LogHr
+FailFast
+LdrFastFailInLoaderCallout
+RtlNtStatusToDosErrorNoTeb
+internal\sdk\inc\wil\result.h
+admin\prov\provtool\provtool.cpp
+vector<T> too long
+string too long
+invalid string position
+admin\prov\lib\packagecollector.cpp
+internal\sdk\inc\wil\filesystem.h
+admin\prov\lib\provpackage.cpp
+ETW0
+ActivityStoppedAutomatically
+ProvToolActivitiesStarted
+ProvToolStarted
+ProvToolCommandLine
+RemovePackageStarted
+ApplyTurnStarted
+ProvisioningTurn
+AddPackageEnded
+HResult
+ProvToolEnded
+HResult
+RemovePackageEnded
+HResult
+ApplyTurnEnded
+HResult
+AddPackageStarted
+InvalidPackageExtension
+Path
+Name
+HResult
+PackageCollectorDeinit
+PackageCollectorPathAdd
+Path
+HResult
+PackageCollectorSearchDone
+PackageCollectorPackageFound
+Path
+FileName
+PackageCollectorInit
+InvalidPath
+Path
+PackageCollectorPathCchCombineFullName
+Path
+FileName
+HResult
+PackageCollectorPathAdd
+Path
+PackageCollectorPathCchCombine
+Path
+HResult
+PackageCollectorFindError
+Path
+LastError
+PackageCollectorFileNotFound
+Path
+RemoveProvPackagePackageFail
+Path
+LastError
+PathCchCombineConstructDirectoryPath
+ProvisioningPath
+PackageId
+HResult
+OpeningProvPackage
+Path
+ProvPackageDestructor
+FailedToCreateExportDirectory
+ProvisioningPath
+HResult
+ProvPackageNotOpened
+ExportPayloadFailed
+HResult
+GetNextElementsFailed
+HResult
+InvalidProvisioningPath
+ProvisioningPath
+GetProvisionPackageNameFailed
+HResult
+ProvPackageConstructorWithPath
+OpenProvisioningPackageFailed
+Path
+HResult
+PathCchCombineMasterDataStorePath
+ProvisioningPath
+DatastoreName
+HResult
+RemoveProvPackageExportDirectoryFail
+ProvisioningPath
+HResult
+ProvPackageOpened
+PackageName
+HResult
+RemoveProvPackage
+Path
+PackageHasAlreadyBeenExported
+ProvisioningPath
+HResult
+ProvPackageIsEmpty
+EnumerateElementsFailed
+HResult
+Microsoft.Windows.Provisioning.ProvTool
+RSDS
+provtool.pdb
+GCTL
+.text
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.xdata
+.xdata$x
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+OpenProvisioningPackageForRead
+?_Winerror_map@std@@YAPEBDH@Z
+?_Syserror_map@std@@YAPEBDH@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPEBD@Z
+?_Xlength_error@std@@YAXPEBD@Z
+?_Orphan_all@_Container_base0@std@@QEAAXXZ
+msvcp110_win.dll
+memmove
+free
+malloc
+wprintf
+??_V@YAXPEAX@Z
+_vsnwprintf
+_purecall
+??3@YAXPEAX@Z
+wcstok_s
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UEAA@XZ
+CoCreateInstance
+EventWriteTransfer
+CoUninitialize
+LoadLibraryExW
+GetModuleHandleExW
+OutputDebugStringW
+GetModuleHandleW
+FormatMessageW
+GetProcAddress
+GetModuleFileNameA
+CoInitializeEx
+GetCurrentThreadId
+EventActivityIdControl
+EventUnregister
+EventSetInformation
+EventRegister
+Sleep
+GetStartupInfoW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+FreeCommandLineOptions
+ProcessCommandLine
+dmcommandlineutils.dll
+FindFirstFileW
+PathCchCombineEx
+PathCchCanonicalizeEx
+GetFileAttributesW
+GetLastError
+FindClose
+RegEnumValueW
+RegOpenKeyExW
+FindNextFileW
+PathCchFindExtension
+RegCloseKey
+ExpandEnvironmentStringsW
+CreateDirectoryW
+PathAllocCombine
+RemoveDirectoryW
+DeleteFileW
+LocalFree
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+_wcsicmp
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+api-ms-win-core-delayload-l1-1-1.dll
+PathFindFileNameW
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+memset
+.?AVResultException@wil@@
+.?AVbad_alloc@std@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"
+ manifestVersion="1.0">
+    <assemblyIdentity version="5.1.0.0"
+       processorArchitecture="amd64"
+       name="provtool"
+       type="win32"/>
+    <description>Package-based provisioning tool.</description>
+    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+        <security>
+            <requestedPrivileges>
+                <!-- Ensure provisioning is initiated by administrators. -->
+                <requestedExecutionLevel level="requireAdministrator" uiAccess="false"/>
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+    <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+        <application> 
+            <!-- This Id value indicates the application supports Windows Threshold functionality-->            
+            <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+        </application>
+    </compatibility>
+</assembly>

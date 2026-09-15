@@ -1,0 +1,1330 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+=PR@
+[^_]
+[^_]
+[^_]
+[^_]
+=|]C
+ [^]
+ [^]
+[^_]
+[^_]
+[^_]
+tO=PR@
+tU=PR@
+tA=@G@
+t:=p=@
+@t?Y[]
+C,9B
+t#9B
+tZ=PR@
+[^_]
+[^_]
+[^_]
+[^_]
+r49]
+r49]
+ [^]
+ [^]
+[^_]
+[^_]
+8\tg
+[^_]
+f9Q(
+w49]
+[^_]
+[^_]
+5|]C
+[^_]
+[^_]
+B(9A
+B,f9
+X(t0
+f9Q(
+_(t7
+_(t*
+0[^]
+0[^]
+9G`t)
+5|]C
+[^_]
+=8PC
+5(PC
+|[@^_]
+=(PC
+l[^_]
+=HPC
+[^_]
+%F+%f
+[^_]
+=0T@
+[^_]
+[^_]
+=0T@
+[^_]
+[^_]
+,[^_]
+=0T@
+[^_]
+[^_]
+5|]C
+tfvG
+=@G@
+,[^_]
+=0T@
+=|]C
+,[^_]
+=|]C
+5|]C
+=|]C
+5|]C
+,[^_]
+[^_]
+[^_]
+[^_]
+tGr)
+5hVC
+[^_]
+=hVC
+,[^_]
+5hVC
+,[^_]
+5hVC
+333?
+[^_]
+fff?
+:PU@
+fff?
+p}?v
+33s?
+[^_]
+[^_]
+[^_]
+[^_]
+@$ ]@
+L[^_]
+5|]C
+=|]C
+=|]C
+l[^_]
+l[^_]
+l[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,!<]wH
+ [^]
+[^_]
+[^_]
+[^_]
+,[^_]
+,[^_]
+[^_]
+V4fJ
+<[^_]
+w<tF
+<[^_]
+F4fH
+f9~<
+~<f9y
+t/9E
+~<f9{
+G4fH
+F<f9A
+A( u
+t 9x
+L[^_]
+L[^_]
+|.t:
+C$9{ 
+[^_]
+[^_]
+f9J<u
+9z@t:
+95(WC
+5(WC
+<[^_]
+<[^_]
+,[^_]
+=hWC
+[^_]
+[^_]
+[^_]
+[^_]
+5@WC
+=<WC
+5XWC
+=TWC
+[^_]
+[^_]
+SwE9P tE
+,[^_]
+vQ)M
+[^_]
+OD!M
+[^_]
+[^_]
+G(;E
+,[^_]
+,[^_]
+B(;E
+C(;E
+C$;C(t
+C$;C,t
+C$;C0t
+,[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+[^_]
+9ZDr4
+9ZDs
+[^_]
+[^_]
+[^_]
+S8t=
+[^_]
+[^_]
+	tQF9
+[^_]
+[^_]
+!CP1
+	CP1
+[^_]
+[^_]
+[^_]
+[^_]
+99vw
+99v0
+[^_]
+[^_]
+t+F9
+<[^_]
+[^_]
+@;C t#
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	CP1
+,[^_]
+,[^_]
+,[^_]
+[^_]
+B;S 
+[^_]
+;{ s
+B;V 
+B;Q 
+;G s
+;^ s
+;s s
+B;Q 
+;^ s
+9^(w
+;F s
+;F s
+v::U
+9K(w
+Z[^_]
+Z[^_]
+=LbC
+[^_]
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+=LbC
+,[^_]
+[^_]
+[[^_]
+[^_]
+[^_]
+F$;F(t
+F$;F,t
+F$;F0t
+[^_]
+[^_]
+[^_]
+[^_]
+u`C9]
+[^_]
+[^_]
+[^_]
+[^_]
+99v#
+[^_]
+9_Pu
+[^_]
+[^_]
+9Fh|Z
+[^_]
+9Fh}
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u8Ct5
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+91vI
+wd9S tO
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u$C;]
+Kl;M
+[^_]
+wX9W
+rh;u
+~Xvw
+;F s
+[^_]
+[^_]
+B4@t1
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+1w71
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9Chs
+[^_]
+[^_]
+pl;pp
+5LbC
+[^_]
+5LbC
+=LbC
+=LbC
+<!t 
+[^_]
+t\F;u
+C	[]
+C	[]
+[^_]
+GN9]$
+r	;E
+[^_]
+;M r
+;'tQ
+[^_]
+[^_]
+r	9u
+r	9u
+z0u.
+ [^]
+[^_]
+FC;u
+tN9}
+,[^_]
+,[^_]
+[^_]
+=ti~C
+[^_]
+,uuC
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+5|XC
+=xXC
+[^_]
+,sha
+$`/C
+L[^_]
+f90tb
+[^_]
+[^_]
+[^_]
+f90tb
+[^_]
+[^_]
+[^_]
+[^_]
+$@1C
+$p1C
+$$2C
+$;2C
+[^_]
+,[^_]
+[^_]
+90t 
+Y[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+$,3C
+uL;C
+;*t5
+$T5C
+$Z5C
+$8YC
+$8YC
+$8YC
+,[^_]
+[^_]
+$`5C
+ [^]
+$}5C
+=|]C
+=|]C
+,[^_]
+$`5C
+=|]C
+=|]C
+[^_]
+L[^_]
+$}5C
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<W~3
+[^_]
+[^_]
+,0<	
+uu;]
+[^_]
+\[^_]
+Z[^]
+%DbC
+%8cC
+%`bC
+%`cC
+%<bC
+% cC
+%pcC
+%pbC
+%8bC
+%XbC
+%|cC
+%tcC
+%0cC
+%PbC
+%hcC
+%\bC
+%,cC
+%@cC
+%tbC
+%LcC
+%dbC
+%HcC
+%xbC
+%xcC
+%DcC
+%PcC
+%TcC
+%<cC
+%4cC
+%$cC
+%XcC
+%hbC
+%(cC
+%lcC
+%\cC
+%dcC
+%lbC
+[^_]
+$07C
+$d7C
+%|bC
+/usr/src/findutils/findutils-4.4.2/find/ftsfind.c
+(AT_FDCWD == curr_fd) || (curr_fd >= 0)
+curr_fd != -1
+File system loop detected; %s is part of the same file system loop as %s.
+Symbolic link %s is part of a loop in the directory hierarchy; we have already visited the directory to which it points.
+Outstanding execdirs:
+-execdir
+%d args: 
+ none
+-okdir
+multiple 
+Warning: file %s appears to have mode 0000
+!state.have_stat
+[%d]
+consider_visiting: fts_info=%-6s, fts_level=%2d, prev_depth=%d fts_path=%s, fts_accpath=%s
+dir_fd == AT_FDCWD || dir_fd >= 0
+!state.have_type
+curr_fd >= 0 || dir_fd >= 0
+FTS_ERR
+FTS_F
+FTS_INIT
+FTS_NS
+FTS_NSOK
+FTS_SL
+FTS_SLNONE
+FTS_W
+FTS_DEFAULT
+FTS_DNR
+FTS_DOT
+FTS_DP
+FTS_D
+FTS_DC
+cannot search %s
+findutils
+/usr/share/locale
+cannot get current directory
+help
+Explain the various -D options
+tree
+Display the expression tree
+search
+Navigate the directory tree verbosely
+stat
+Trace calls to stat(2) and lstat(2)
+rates
+Indicate how often each predicate succeeded
+Show diagnostic information relating to optimisation
+exec
+Show diagnostic information relating to -exec, -execdir, -ok and -okdir
+/usr/src/findutils/findutils-4.4.2/find/util.c
+entry->pred_func != NULL
+%s: %s
+Usage: %s [-H] [-L] [-P] [-Olevel] [-D 
+%s%s
+] [path...] [expression]
+Warning: file %s appears to have mode 0000
+state.execdirs_outstanding
+standard output
+state.cwd_dir_fd >= 0
+fallback_stat(): stat(%s) failed; falling back on lstat()
+(state.cwd_dir_fd >= 0) || (state.cwd_dir_fd==AT_FDCWD)
+debug_stat (%s)
+Ignoring unrecognised debug flag %s
+Empty argument to the -D option.
+Valid arguments for -D:
+%-10s %s
+Please specify a decimal number immediately after -O
+Optimisation level %lu is too high.  If you want to find files very quickly, consider using GNU locate.
+The -O option must be immediately followed by a decimal integer
+Invalid optimisation level %s
+POSIXLY_CORRECT
+FIND_BLOCK_SIZE
+The environment variable FIND_BLOCK_SIZE is not supported, the only thing that affects the block size is the POSIXLY_CORRECT environment variable
+t != (time_t)-1
+/usr/src/findutils/findutils-4.4.2/find/pred.c
+>COMP_GT == pred_ptr->args.reftime.kind
+cannot delete %s
+>collected
+Warning: cannot determine birth time of file %s
+pred_ptr->args.reftime.xval != XVAL_TIME
+< %s ... %s > ? 
+state.have_stat
+state.have_type
+Failed to change directory
+/dev/null
+dir_fd >= 0
+Cannot close standard input
+execp->dir_fd == starting_desc
+cannot fork
+error waiting for %s
+starting_desc >= 0
+%s terminated by signal %d
+end_of_seconds + ns_size + suffix_len == final_len
+.%09ld0
+charsprinted < NS_BUF_LEN
+p < (buf + (sizeof buf))
+p > buf
+charsprinted=%ld but remaining=%lu: ns_buf=%s
+sizeof buf > used
+strlen(ns_buf) < remaining
+%3s %3s %2d %02d:%02d:%02d.%010ld %04d
+nout < TIME_BUF_LEN
+ptm->tm_sec <= 61
+ptm->tm_min < 60
+ptm->tm_hour < 24
+ptm->tm_mon < 12
+ptm->tm_wday < 7
+ptm->tm_hour >= 0
+ptm->tm_wday >= 0
+ptm->tm_mon >= 0
+[%s] 
+[need type] 
+[call stat] 
+%s%s
+ [%g] 
+[%ld/%ld
+=%g] 
+=_] 
+Predicate success rates after completion:
+p->parser_entry->pred_func == p->pred_func
+p->pred_func != NULL
+p->parser_entry != NULL
+p->parser_entry->type != ARG_POSITIONAL_OPTION
+!p->side_effects
+p->no_default_print
+p->parser_entry->type != ARG_OPTION
+!p->no_default_print
+p->side_effects
+oops -- invalid expression type!
+invalid expression
+expected an expression after '%s'
+invalid expression; you have used a binary operator '%s' with nothing before it.
+invalid expression; I was expecting to find a ')' somewhere but did not see one.
+invalid expression; you have too many ')'
+invalid expression; expected to find a ')' but didn't see one.  Perhaps you need an extra predicate after '%s'
+expected an expression between '%s' and ')'
+invalid expression; empty parentheses are not allowed.
+oops -- invalid expression type (%d)!
+%s%s%s
+predlist before merge sort
+predlist after merge sort
+Not a binary operation
+Not an arm swap candidate (%s):
+Left arm has no child on RHS
+Doesn't have two arms
+Left subtree has side-effects
+Right subtree has side-effects
+efficient as-is
+Not AND or OR
+Operation is AND and right success rate <= left
+Performing arm swap on:
+Operation is OR and right success rate >= left
+Success rates: l=%f, r=%f
+Normalized Eval Tree:
+-O%d: promoting cheap predicate 
+ into name_list
+-O%d: categorising predicate 
+ by cost (%s)
+/usr/src/findutils/findutils-4.4.2/find/tree.c
+result <= 0
+warning: no cost entry for predicate %s
+Failed to sort the costlookup array (indirect).
+p->p_type != CLOSE_PAREN
+p->p_type != OPEN_PAREN
+NULL == p->pred_left
+pred_is(p, pred_negate)
+NULL != p
+NULL == p->pred_right
+print
+invalid argument `%s' to `%s'
+paths must precede expression: %s
+unknown predicate `%s'
+-print
+unexpected extra predicate '%s'
+BI_OP == p->p_type
+BI_OP == p->pred_left->p_type
+Optimized Eval Tree:
+Optimized command line:
+missing argument to `%s'
+Predicate List:
+Eval Tree:
+unexpected extra predicate
+invalid predicate `%s'
+entry_print != NULL
+entry_close != NULL
+entry_open != NULL
+you have too many ')'
+entry->type != ARG_OPTION
+entry->type != ARG_POSITIONAL_OPTION
+entry_and != NULL
+oops -- invalid default insertion of and!
+Nothing
+Type
+StatInfo
+LinkName
+AccessInfo
+SyncDiskHit
+EventualExec
+ImmediateExec
+UserInteraction
+Unknown
+comma
+negate
+unknown 
+primary
+uni_op
+bi_op
+open_paren  
+close_paren 
+unknown
+    
+pred=[
+] type=%s prec=%s
+ cost=%s rate=%#03.2g %sside effects 
+Needs 
+%stype
+no left.
+right:
+left:
+stat
+no right.
+no children.
+newerXY
+amin
+anewer
+atime
+cmin
+cnewer
+ctime
+daystart
+delete
+depth
+empty
+exec
+executable
+execdir
+follow
+fprint
+fprint0
+fprintf
+fstype
+group
+ignore_readdir_race
+ilname
+iname
+inum
+ipath
+iregex
+iwholename
+links
+lname
+maxdepth
+mindepth
+mmin
+mount
+mtime
+name
+newer
+noleaf
+nogroup
+nouser
+noignore_readdir_race
+nowarn
+okdir
+path
+perm
+print
+print0
+printf
+prune
+quit
+readable
+regex
+regextype
+samefile
+size
+type
+used
+user
+warn
+wholename
+writable
+xdev
+xtype
+false
+true
+noop
+help
+-help
+version
+-version
+The -delete action atomatically turns on -depth, but -prune does nothing when -depth is in effect.  If you want to carry on anyway, just explicitly use the -depth option.
+warning: you have specified the %s option after a non-option argument %s, but options are not positional (%s affects tests specified before it as well as those specified after it).  Please specify options before other arguments.
+-newer
+Bwarning: the -d option is deprecated; please use -depth instead, because the latter is a POSIX-compliant feature.
+-exec
+-execdir
+Unexpected suffix %s on %s
+Expected an integer: %s
+0123456789
+%s is not the name of an existing group
+argument to -group is empty, but should be a group name
+%s is not the name of an existing group and it does not look like a numeric group ID because it has the unexpected suffix %s
+default path is the current directory; default expression is -print
+expression may consist of: operators, options, tests, and actions:
+operators (decreasing precedence; -and is implicit where no others are given):
+      ( EXPR )   ! EXPR   -not EXPR   EXPR1 -a EXPR2   EXPR1 -and EXPR2
+      EXPR1 -o EXPR2   EXPR1 -or EXPR2   EXPR1 , EXPR2
+positional options (always true): -daystart -follow -regextype
+normal options (always true, specified before other expressions):
+      -depth --help -maxdepth LEVELS -mindepth LEVELS -mount -noleaf
+      --version -xdev -ignore_readdir_race -noignore_readdir_race
+tests (N can be +N or -N or N): -amin N -anewer FILE -atime N -cmin N
+      -cnewer FILE -ctime N -empty -false -fstype TYPE -gid N -group NAME
+      -ilname PATTERN -iname PATTERN -inum N -iwholename PATTERN -iregex PATTERN
+      -links N -lname PATTERN -mmin N -mtime N -name PATTERN -newer FILE
+      -nouser -nogroup -path PATTERN -perm [+-]MODE -regex PATTERN
+      -readable -writable -executable
+      -wholename PATTERN -size N[bcwkMG] -true -type [bcdpflsD] -uid N
+      -used N -user NAME -xtype [bcdpfls]
+actions: -delete -print0 -printf FORMAT -fprintf FILE FORMAT -print 
+      -fprint0 FILE -fprint FILE -ls -fls FILE -prune -quit
+      -exec COMMAND ; -exec COMMAND {} + -ok COMMAND ;
+      -execdir COMMAND ; -execdir COMMAND {} + -okdir COMMAND ;
+Report (and track progress on fixing) bugs via the findutils bug-reporting
+page at http://savannah.gnu.org/ or, if you have no web access, by sending
+email to <bug-findutils@gnu.org>.
+?warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '%s %s' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful, or perhaps '-samefile'.  Alternatively, if you are using GNU grep, you could use 'find ... -print0 | grep -FzZ %s'.
+-iname
+sanity check of the fnmatch() library function failed.
+?Expected a positive decimal integer argument to %s, but got %s
+arithmetic overflow while converting %s minutes to a number of seconds
+B-name
+BaBcmt
+/usr/src/findutils/findutils-4.4.2/find/parser.c
+This system does not provide a way to find the birth time of a file.
+0 == strncmp("-newer", argv[*arg_ptr], 6)
+The %s test needs an argument
+our_pred->pred_func == pred_newerXY
+our_pred->need_stat
+our_pred->pred_func != NULL
+I cannot figure out how to interpret %s as a date or time
+Cannot obtain birth time of file %s
+strchr(validchars, x)
+B-ok
+-okdir
+warning: you have specified a mode pattern %s (which is equivalent to /000). The meaning of -perm /000 has now been changed to be consistent with -perm -000; that is, while it used to match no files, it now matches all files.
+Mode %s is not valid when POSIXLY_CORRECT is on.
+invalid mode %s
+Invalid argument `%s%c' to -size
+invalid -size type `%c'
+invalid null argument to -size
+O_NOFOLLOW != 0
+arithmetic overflow while converting %s days to a number of seconds
+Invalid argument %s to -used
+B%s is not the name of a known user
+The argument to -user should not be empty
+find
+Features enabled: 
+enabled
+disabled
+O_NOFOLLOW(%s) 
+LEAF_OPTIMISATION 
+CBO(level=%d) 
+FTS(
+none
+FTS_CWDFD
+Arguments to -type should contain only one letter
+Unknown argument to -type: %c
+-+ #
+abcdDfFgGhHiklmMnpPsStuUyY
+warning: unrecognized escape `\%c'
+error: %s at end of format string
+ABCT
+warning: unrecognized format directive `%%%c'
+kind == KIND_FORMAT
+0 == aux_format_char
+0 == format_char
+error: the format directive `%%%c' is reserved for future use
+PATH
+The relative path %s is included in the PATH environment variable, which is insecure in combination with the %s action of find.  Please remove that entry from $PATH
+The current directory is included in the PATH environment variable, which is insecure in combination with the %s action of find.  Please remove the current directory from your $PATH (that is, remove "." or leading or trailing colons)
+Only one instance of {} is supported with -exec%s ... +
+You may not use {} within the utility name for -execdir and -okdir, because this is a potential security problem.
+The environment is too large for exec().
+;nanosec < nanosec_per_sec
+(knNarithmetic overflow when trying to calculate the end of today
+inserting %s
+    type: %s    %s  
+%ju %s
+                 <  %ju %s
+B%ju
+/dev/stderr
+/dev/stdout
+standard output
+standard error
+Cannot read mounted file system list
+unknown
+command too long
+argument list too long
+can not fit single argument within argument list size limit
+/usr/src/findutils/findutils-4.4.2/lib/buildcmd.c
+ctl->max_arg_count > 0
+ctl->arg_max <= (LONG_MAX - 2048L)
+%6s 
+%4s 
+%s%3lu 
+%-8s 
+%8s 
+%b %e  %Y
+%b %e %H:%M
+         
+%*s 
+%-8lu 
+ -> 
+%*s%s 
+\%03o
+4.4.2
+Kevin Dalley
+James Youngman
+Eric B. Decker
+GNU findutils
+Built using GNU gnulib version %s
+findutils-default
+egrep
+emacs
+gnu-awk
+grep
+posix-awk
+posix-basic
+posix-egrep
+posix-extended
+posix-minimal-basic
+Unknown regular expression type %s; valid types are %s.
+/usr/src/findutils/findutils-4.4.2/lib/extendbuf.c
+NULL == existing
+wanted > 0u
+e5573b1bad88bfabcda181b9e0125fb0c52b7d3b
+write error
+%s: %s
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+literal
+shell
+shell-always
+escape
+locale
+clocale
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+UTF-8
+/usr/src/findutils/findutils-4.4.2/gnulib/lib/regcomp.c
+!IS_EPSILON_NODE (node->token.type)
+node->next == NULL
+REG_VALID_INDEX (right)
+REG_VALID_INDEX (left)
+alnum
+space
+upper
+lower
+cntrl
+alpha
+digit
+print
+blank
+graph
+punct
+xdigit
+/usr/src/findutils/findutils-4.4.2/gnulib/lib/regexec.c
+pmatch[0].rm_so == start
+regs_allocated == REGS_FIXED
+regs->num_regs >= nregs
+mctx.input.offsets_needed == 0
+err == REG_ESPACE
+REG_VALID_INDEX (num)
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+POSIXLY_CORRECT
+/usr/src/findutils/findutils-4.4.2/gnulib/lib/fnmatch_loop.c
+p[-1] == L_(')')
+! "Invalid extended matching operator"
+list != NULL
+KMGTPEZY.
+%.1Lf
+%.0Lf
+human-readable
+eEgGkKmMpPtTyYzZ0
+BLOCK_SIZE
+BLOCKSIZE
+POSIXLY_CORRECT
+memory exhausted
+/usr/src/findutils/findutils-4.4.2/gnulib/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+  !!!!!""""#########$$%%%%%%%%%%%%%%%%%%%%%&&&&&&''(())*+,,--
+HJGI
+,/58=2
+$*-3690
+?@BCDA+.47:1
+L;<(#
+"'!O
+%NPM
+ !"#$%	
+&'OZ
+:*BC
+<=>?@ABW\CDX
+E3aY
+G6789:;54H
+6789:;,-./012R6789:;W*+
+PQ)(IJKLMSTUV[]
+ !"#$%&*+
+-,syntax error
+memory exhausted
+A.M.
+P.M.
+JANUARY
+FEBRUARY
+MARCH
+APRIL
+JUNE
+JULY
+AUGUST
+SEPTEMBER
+SEPT
+OCTOBER
+NOVEMBER
+DECEMBER
+SUNDAY
+MONDAY
+TUESDAY
+TUES
+WEDNESDAY
+WEDNES
+THURSDAY
+THUR
+THURS
+FRIDAY
+SATURDAY
+YEAR
+MONTH
+FORTNIGHT
+WEEK
+HOUR
+MINUTE
+SECOND
+TOMORROW
+YESTERDAY
+TODAY
+LAST
+THIS
+NEXT
+FIRST
+THIRD
+FOURTH
+FIFTH
+SIXTH
+SEVENTH
+EIGHTH
+NINTH
+TENTH
+ELEVENTH
+TWELFTH
+WEST
+BRST
+CLST
+AKST
+AKDT
+HAST
+HADT
+CEST
+MEST
+MESZ
+EEST
+SAST
+NZST
+NZDT
+TZ="
+XXX%s%ld:%02d
+,unknown
+,ramdisk
+,cdrom
+,remote
+,fixed
+,removable
+,nodisk
+,dev=
+/etc/mtab
+autofs
+none
+proc
+subfs
+kernfs
+ignore
+unable to record current working directory
+failed to return to initial working directory
+%s (%s) %s
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+# entries:         %lu
+# buckets:         %lu
+# buckets used:    %lu (%.2f%%)
+max bucket length: %lu
+Offf?
+Offf?
+=fff?
+?/usr/src/findutils/findutils-4.4.2/gnulib/lib/cycle-check.c
+state->magic == CC_MAGIC
+/proc/self/fd/%d/%s
+/proc/self/fd
+/proc/self
+LC_ALL
+LC_CTYPE
+LANG
+ASCII
+CP936
+CP1361
+JOHAB
+CP20127
+ASCII
+CP20866
+KOI8-R
+CP20936
+GB2312
+CP21866
+KOI8-RU
+CP28591
+ISO-8859-1
+CP28592
+ISO-8859-2
+CP28593
+ISO-8859-3
+CP28594
+ISO-8859-4
+CP28595
+ISO-8859-5
+CP28596
+ISO-8859-6
+CP28597
+ISO-8859-7
+CP28598
+ISO-8859-8
+CP28599
+ISO-8859-9
+CP28605
+ISO-8859-15
+CP38598
+ISO-8859-8
+CP51932
+EUC-JP
+CP51936
+GB2312
+CP51949
+EUC-KR
+CP51950
+EUC-TW
+CP54936
+GB18030
+CP65001
+UTF-8
+^[yY]
+^[nN]
+ambiguous argument %s for %s
+invalid argument %s for %s
+Valid arguments are:
+  - `%s'
+, `%s'
+/usr/src/findutils/findutils-4.4.2/gnulib/lib/chdir-long.c
+0 < len
+PATH_MAX <= len
+! close_fail
+slash - dir < PATH_MAX
+dir <= dir_end
+*dir != '/'
+Copyright %s %d Free Software Foundation, Inc.
+_<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__infinity
+__main
+__mb_cur_max
+_ctype_
+_exit
+_tzname
+abort
+access
+atexit
+bsearch
+calloc
+chdir
+close
+closedir
+ctime
+cygwin_conv_to_posix_path
+cygwin_internal
+difftime
+dirfd
+dll_crt0__FP11per_process
+endgrent
+endmntent
+endpwent
+execvp
+exit
+fchdir
+fclose
+fcntl
+fdopen
+fflush
+fileno
+fopen
+fork
+fprintf
+fputs
+free
+fseek
+fstat
+ftell
+fwrite
+getc
+getcwd
+getenv
+getgrgid
+getgrnam
+getmntent
+getpwnam
+getpwuid
+gettimeofday
+gmtime
+isatty
+localeconv
+localtime
+localtime_r
+lseek
+lstat
+malloc
+memchr
+memcpy
+memmove
+memset
+open
+opendir
+putc
+puts
+qsort
+readdir
+readlink
+realloc
+rmdir
+setenv
+setlocale
+setmntent
+signal
+sprintf
+stat
+strcat
+strchr
+strcmp
+strcpy
+strdup
+strerror
+strftime
+strlen
+strncmp
+strncpy
+strpbrk
+strrchr
+strspn
+strstr
+strtod
+strtok_r
+strtol
+strtoul
+sysconf
+time
+unlink
+unsetenv
+vsnprintf
+waitpid
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_snprintf
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+GetDriveTypeA
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

@@ -1,0 +1,624 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+5ta@
+[^_]
+$ @@
+$$0@
+D$$t
+$|A@
+5PP@
+l[^_]
+l[^_]
+[^_]
+;5TP@
+$HB@
+:MZt
+UWVS1
+[^_]
+[^_]
+B' t
+$tB@
+|$D=N
+3l$(3l$,1
+UWVS
+-|a@
+=Da@
+[^_]
+_set_invalid_parameter_handler
+libgcj-12.dll
+_Jv_RegisterClasses
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+The result is too small to be represented (UNDERFLOW)
+Total loss of significance (TLOSS)
+Partial loss of significance (PLOSS)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+RunPerl
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+InterlockedCompareExchange
+LeaveCriticalSection
+LoadLibraryW
+QueryPerformanceCounter
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__dllonexit
+__getmainargs
+__initenv
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_iob
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+vfprintf
+perl524.dll
+KERNEL32.dll
+msvcrt.dll
+a^iia
+IHDR
+IDATx
+P(P6IX
+@0:Q
+R	J%
+|E"j
+.p."
+e[P\4
+u:P*
+Qd[0
+,_1E
+!lA'F
+(^^SE
+v[p=w
+`d}#!
+}[?sVp
+/pElmA
+A;.`
+x{_KK
+ pM,
+U[Gus3
+PFk$!
+Pc]}
+w$NF
+8~:%
+)AAh
+tHo6s
+	qxt
+|7a"
+"#Qu
+*VFF
+{x8|*
+l>*,
+#I`4
+h[hnmu
+;&O"
+(oon
+VKAc
+N^>e--
+z{3=$
+t	>C
+ljvN 
+WS+wH
+,1.0
+JZu5
+l}=u--#
+'3#$
+fsCC
+e|YR
+Dzyq_
+`4:v
+'kjI
+&P(xh
+K?4K
+FfUu
+BA^m-
+T*^^
+gNfP
+={V~
+[Q(@
+BcI#
+t&Oe
+yhx8%
+GkV1
+yh21.(
+l4Kl>y
+`b4rK
+,W]5v,
+=K.t
+t:>-(
+@o6u
+Z>*,
+GrH0
+ b^@
+eixx
+f3Og
+lJ?A
+t&[3
+g)ln
+9Y^.w|
+e=Dqs3
+VKVm
+Uz=i
+acxs
+Ii	^
+__b|}
+vY]9ZY
+^UEMK
+b<^Q
+>j,!
+9X^F}
+x.64
+qa!o
+<5gv
+jDkG
+CB:M
+L&~7on
+X)x0
+".55
+`j` /-^
+6DG3;4
+<\'I
+oNfp
+;b2q
+%~2y2
+l/,l
+?ILd
+%QQ<5w
+UUrG
+dm*W
+`VXX
+ts<UJ
+w5L&
+ofLg
+opcB
+T<1k
+gIs3%
+Uvs*
+{J7H
+:RYIfU
+HJr|
+'MbA
+H<USKVM
+dbrh
+vj5%MM|k
+33<|
+D&v)
+=dc0pU\,7
+/.Z(
+&<X^aW
+;}:{6\
+?W,g
+=|S\,
+fNgJ`
+hboY
+<9k&
+"FF>
+w|+J%
+Dfmm
+A`6c
+[ls 
+was3
+BAZu5u
+t~Ss
+cYdg
+:y2?M
+R(x09
+Or+FI
+fB}}
+VjZ]
+o~>K
+YNTW
+[FV.
+Q(h6
+}|xx
+Tz=kb
+|yE*
+$P(h
+5\;~
+U*2++y=7
+Vv6uz=o
+n~X(+
+MB,P
+9ag.
+EGKh
+?eeQXS
+y482
+Od]T
+T*0[3
+mS.~j
+Xg:Z
+ggsCl
+TX&BIHH
+[qqm/
+8VUEb@
+Y<=gv
+aaDxy
+`r2?
+T|TT
+=!f2
+0IRP 
+Q(x;
+Lcul
+U8TQ
+KMM6
+Yg(k
+Ov6Oe
+:2R^=g
+g6ve
+TlNK
+{!1 
+Q(0I
+-Ub0
+#5o\
+Vn;x
+hhme
+2j;'V
+Jm7Kf
+i4Ti
+y}W3F
+j]+U
+zl$y
+ee6e
+h4l+(`
+?i*iWo
+<y?i5
+hU%f
+$Mejp
+@0:P
+$3>*
+w2vq
+hi)	AA\
+L;NNm
+/YYxyz
+R	^^&ZZ
+:sn4
+t;;w
+l>*l
+Hg[p;K
+K7	[0
+-pad
+	Wnx
+4d[P
+}H!I
+N^WWGFF
+IEND
+NiPPN
+X^VVX
+}Axx}
+hyyt
+Sttt
+IHDR
+IDATx
+wxcW
+xz/)
+Janv?^DX
+lcnv?^DX
+v?^DX
+v?^DX
+/^"a
+A-",X
+",Xd
+N"v?e
+_nDX
+`*"v
+W+",
+,>+2,Hn
+bYqaAr
+3$IX
+}Ar#
+6,X~
+2,X>
+Y\YP@0
+N'_8q
+'mV.
+]]B0
+BT[,\
+tn()
+Rq}I	o,*
+&vgg
+hd_N6
+esF:
+[xWe
+23&=>
+kht8
+`wPg
+/Q/hY
+<>P]
+,>OH
+BxC!
+V+_8q
+iZ-iZ-Ui
+kna$
+m[ywe
+\YP@UZ*
+j1k4
+thU*B
+^e&~
+^Q8dV
+:\qX
+uii|{
+#G9e
+2t:$
+).foN6yFc\u	
+jI"K
+Dk+;3
+E%Iy
+8_=u
+{kT*
+rx` 
+qE~>v
+P-I\
+:*<XJ*SS
+NKcKF:kRSI
+;~e@
+7Ixmq
+z*SS
+rIn.W
+Y`2b
+q.b*
+s]q17
+`><0
+!Ipuq
+OplppR
+_::iq:
+*IbKf
+eSFz
+OUZ*
+ht8hp8
+,2*I
+r#Ix
+o,*d$
+o4Rb6Q
+Yz=5
+\1^# 
+,vderK
+P?<L
+Ki	{
+naKF
+ry~>
+4I]`w0
+\>X]
+,]bV
+:z<9
+_55O
+YYcnF
+=}/A
+_::9;4
+wTTDmH
+'9?4
+vfe-
+dgET
+|t}MTi
+22,x
+Y76{
+Gm2J
+so"O
+-iQa
+fov6*
+87<L
+yF#{
+x}a!W
+B-IlLO
+RuZ>
+++yGE9E&
+JJxS
+z=wl
+OuO^52k4
+,/5I)
+GFb~
+Gkj&
+$qUA
+pp`r
+,smq1W
+vgg-
+judc
+K.fmZ
+rvhx
+p.wjI
+)MIYQN 
+mC1_
+5nsN
+4)ufh
+n,-]
+'Y|W 
+/e{V
+'<;4L
+3lHOg
+rd` qo:q
+u7j4|
+evf)
+K9<0
+Rq}i
+y<1g
+Yf[V
+@)56
+jf2?ol
+FeN"
+>P]5
+L:nL
+~}YfON6
+?mh$4^`$
+qT=$	
+z=#1
+Scw} 
+[22xp
+s==<
+A~PWO
+w&Rc
+N[mS
++FZ;<
+g?)(I49
+<X{!
+ry~~R
+k;wD
+='N(w
+7'[I;
+>j3O
+IPiZ-7W
+[6sSe%
+x}a!
+eR5Z
+JKUR>
+6NXmd
+N'uv;
+T\]\
+1k4Q
+8''zb3<
+2_<q
+}99\]T
+:6X,
+{_YX
+94>v
+\n~PW
+ ):-z
+<l^/
+rY^^
+B!l>/
+JKckF
+Atj5
+91iI
++}}<t
+$	w @
+l6Z].
+Yz=)
++SSxGE9
+:{.fJ
+R918
+ Oq>l^/
+sjU*
+yKY)
+|O/?ih
+?ut,
+wE/%
+wUVP
+u|h]
+<Egx
+xkYY
+dx[yYT
+|j,i
+@%I<
+BlD{
+acz:
+'mC|
+gl6R
+h`SzzBl
+Pszh
+|-glC1?_
+%QgKFt
+cV+E&
+YfkF
+DWQ>a
+qKUU
+hqN.
+h(K1
+Zn(UV
++;kv7
+o.-!gBU
+pC#G&&+
+y#It
+grG_I
+aGf&
+7R{.
+5yyc
+^iON
+!9b]
+g	&E
+\nn?t
+6icO
+0*Ib[f
+wmm<
+*+xSQ!Ovu
+xK+Ouw
+tw77W
+hdkf
+?1ex\a
+R HB
+f{SD
+zn/(
+QDX XY$
+QDX HLd
+@0wV
+@0=2p
+%XtV
+",H4
+0uX 
+IEND
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity version="0.0.0.0" name="Perl" type="Win32" />
+    <description>Perl</description>
+    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+        <security>
+            <requestedPrivileges>
+                <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+    <dependency>
+        <dependentAssembly>
+            <assemblyIdentity type="Win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0"
+                              processorArchitecture="*" publicKeyToken="6595b64144ccf1df" language="*" />
+        </dependentAssembly>
+    </dependency>
+    <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+      <application>
+        <!-- The ID below indicates application support for Windows Vista -->
+        <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+        <!-- The ID below indicates application support for Windows 7 -->
+        <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+        <!-- The ID below indicates application support for Windows 8 -->
+        <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>
+        <!-- The ID below indicates application support for Windows 8.1 -->
+        <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>
+        <!-- The ID below indicates application support for Windows 10 -->
+        <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+      </application>
+    </compatibility>
+</assembly>

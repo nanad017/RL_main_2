@@ -1,0 +1,149 @@
+import hashlib
+import os
+import random
+import sys
+from collections import OrderedDict
+
+import gym
+import numpy as np
+from gym import spaces
+
+from proposed.actions import modifier
+from proposed.env.reward import TierAwareReward, get_action_tier
+from proposed.models import sorelFFNN
+from proposed.utils import interface
+
+module_path = os.path.split(os.path.abspath(sys.modules[__name__].__file__))[0]
+project_root = os.path.dirname(module_path)
+
+ACTION_LOOKUP = {i: act for i, act in enumerate(modifier.ACTION_TABLE.keys())}
+
+sorel_model = sorelFFNN.SorelFFNN()
+malicious_threshold = sorel_model.threshold
+
+
+class SorelFFNNEnv(gym.Env):
+    metadata = {"render.modes": ["human"]}
+
+    def __init__(
+        self,
+        sha256list,
+        random_sample=True,
+        maxturns=5,
+        output_path="runtime/evaded/sorelFFNN",
+        save_modified_data=False,
+        memory_path="runtime/memory/sorelFFNN",
+        reward_fn=None,
+    ):
+        super().__init__()
+        self.available_sha256 = sha256list
+        self.action_space = spaces.Discrete(len(ACTION_LOOKUP))
+        observation_high = np.finfo(np.float32).max
+        self.observation_space = spaces.Box(
+            low=-observation_high,
+            high=observation_high,
+            shape=(2381,),
+            dtype=np.float32,
+        )
+        self.maxturns = maxturns
+        self.feature_extractor = sorel_model.extract
+        self.output_path = output_path
+        self.random_sample = random_sample
+        self.history = OrderedDict()
+        self.sample_iteration_index = 0
+        self.queries = 0
+        self.skipped = 0
+        self.mem_obs = []
+        self.mem_score = []
+        self.memory_path = os.path.join(project_root, memory_path)
+        os.makedirs(self.memory_path, exist_ok=True)
+
+        self.output_path = os.path.join(project_root, output_path)
+        self.save_data = save_modified_data
+        self.reward_fn = reward_fn if reward_fn is not None else TierAwareReward()
+
+    def step(self, action_ix):
+        self.turns += 1
+        action_name = self._take_action(action_ix)
+        self.observation_space = self.feature_extractor(self.bytez)
+        self.score = sorel_model.predict_sample(self.observation_space)
+        self.queries += 1
+        self.mem_obs.append(self.observation_space)
+        self.mem_score.append(self.score)
+
+        np.save(os.path.join(self.memory_path, "observations"), np.array(self.mem_obs))
+        np.save(os.path.join(self.memory_path, "scores"), np.array(self.mem_score))
+
+        self.tiers_used.add(get_action_tier(action_name))
+
+        reward, episode_over = self.reward_fn(
+            score=self.score,
+            original_score=self.original_score,
+            threshold=malicious_threshold,
+            turn=self.turns,
+            maxturns=self.maxturns,
+            original_size=self.original_size,
+            current_size=len(self.bytez),
+            binary=self.bytez,
+            tiers_used=self.tiers_used,
+            action_name=action_name,
+        )
+
+        if episode_over:
+            self.history[self.sha256]["evaded"] = self.score < malicious_threshold
+            self.history[self.sha256]["reward"] = reward
+
+            if self.score < malicious_threshold and self.save_data:
+                m = hashlib.sha256()
+                m.update(self.bytez)
+                sha256 = m.hexdigest()
+                evade_path = interface.get_evasion_output_path(
+                    self.output_path, self.sha256, sha256,
+                )
+                with open(evade_path, "wb") as out:
+                    out.write(self.bytez)
+                self.history[self.sha256]["evade_path"] = evade_path
+
+            print(
+                f"Episode over: reward = {reward:.4f}, "
+                f"tiers = {self.tiers_used}, "
+                f"size_delta = {len(self.bytez) - self.original_size:+d}, "
+                f"queries until now {self.queries}"
+            )
+
+        return self.observation_space, reward, episode_over, self.history[self.sha256]
+
+    def _take_action(self, action_ix):
+        action = ACTION_LOOKUP[int(action_ix)]
+        self.history[self.sha256]["actions"].append(action)
+        self.bytez = modifier.modify_sample(self.bytez, action)
+        return action
+
+    def reset(self):
+        self.turns = 0
+        self.tiers_used = set()
+        while True:
+            if self.random_sample:
+                self.sha256 = random.choice(self.available_sha256)
+            else:
+                self.sha256 = self.available_sha256[
+                    self.sample_iteration_index % len(self.available_sha256)
+                ]
+                self.sample_iteration_index += 1
+
+            self.history[self.sha256] = {"actions": [], "evaded": False}
+            self.bytez = interface.fetch_sample(self.sha256)
+
+            self.observation_space = self.feature_extractor(self.bytez)
+            self.original_score = sorel_model.predict_sample(self.observation_space)
+            self.original_size = len(self.bytez)
+            if self.original_score < malicious_threshold:
+                self.skipped += 1
+                continue
+
+            break
+        print(f"Sample: {self.sha256}")
+        return self.observation_space
+
+    def render(self, mode="human", close=False):
+        pass

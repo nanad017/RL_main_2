@@ -1,0 +1,939 @@
+!This program cannot be run in DOS mode.
+jRich
+.text
+`.rdata
+@.data
+.gfids
+@.rsrc
+@.reloc
+;N8t
+;~8u
+=	TA
+t#h	TA
+*+N,3
+tXSW3
+*+N,E
+$SVW
+;wLr&
+;^$u8
+SUVW
+*+K,
+s,;n
+QUQPW
+_^][
+D$ UP
+_^][
+*+K,
+_^]2
+A@SUV
+_^][
+T$8;
+T$8V
+_^][
+_^][
+_^][
+W0+W,
+L0$;
+D0(+
+*+O,C
+*+O,3
+*+O,C
+=DTA
+D$4h
+D$ P
+L$ Q
+*+Q,
+;O8t
+;w8u
+D$(P
+up@P
+*+N,
+*+N,
+|$$3
+D$$P
+C$@P
+D$ R
+=DTA
+D$<h
+D$(P
+L$(Q
+D$$PkF
+t$,PV
+sL^_
+W0+W,
+;GLw
+^[_]Y
+/<\u
+;G;|$
+8/uJ
+_^[]
+r	@P
+7_^[
+*UVW
+s_+3
+_^][
+_^][
+=UUU
+=UUU
+r	@P
+r	@P
+=-TA
+u h-TA
+=0TA
+w h0TA
+=!TA
+=DTA
+h!TA
+=%TA
+=DTA
+h%TA
+=6TA
+=DTA
+h6TA
+=+TA
+=DTA
+h+TA
+=(TA
+uHh(TA
+=UUU
+;_Lr4
+*+O,
+*+O,
+*+O,
+*+O,
+*+O,
+$SUVW
+=3TA
+u#h3TA
+_^][
+=&TA
+h&TA
+_^][
+t	QW
+_^][
+_^][
+D$0P
+= TA
+u)9t$,t#h TA
+D$ P
+=$TA
+D$,;D$
+t#h$TA
+=*TA
+h*TA
+_^][
+D$$V
+L$$PSQ
+t$ Q
+L$,;
+='TA
+u#h'TA
+=1TA
+u#h1TA
+_^][
+=4TA
+u#h4TA
+=,TA
+u#h,TA
+=)TA
+u#h)TA
+*+Q,
+="TA
+u#h"TA
+SUVW
+u#h7TA
+_^][
+D$ +
+=DTA
+D$4h
+D$ P
+L$ Q
+_^][
+SUVW
+h.TA
+_^][
+RQSV
+=#TA
+u(;G
+t#h#TA
+=2TA
+t#h2TA
+_^]2
+A8SU
+=DTA
+D$4h
+D$ P
+L$ Q
+6;q8
+_^][
+_^][
+QSUVW
+W0+W,
++O,"
+=5TA
+h5TA
+_^[Y
+*+K,
+=/TA
+*+K,
+h/TA
+u(;w,u#h
+QSUV
+K0+K,
+K0+K,
+K0+K,
+9SLv8
+B;SLr
+^][Y
+^];;t
+3WPV
+_]^[
+s#QW
+_]^[
+h0 A
+h` A
+h(!A
+hT!A
+E,PQ
+O@WP
+h("A
+PWCSh4"A
+hL"A
+h\"A
+hh"A
+hp"A
+hx"A
+^[_d
+QSVW
+*+q,
+S0+S,
+t&V3
+t0(h
+D$$P
+t$$h
+t$0h4#A
+t$DhL#A
+t$Phh#A
+t$Lh
+t$Xh
+D$,P
+;uPt.
+EXPQ
+MPPV
+ul;u
+El;EPu
+h`$A
+h(%A
+hx%A
+M8@=
+$WPh
+%<*A
+Y%H*A
+hP&A
+uxQR
+r	@P
+s`+3
+_]^[
+_^]+
+_^][Y
+uC9U
+SUVW
+L$$_^]
+_^][Y
+w&9F
+_^[d
+tj;w
+r	@P
+r	@P
+r	@P
+	SVU
+_^][Y
+(SUV
+D$(+
+L$$Q
+D$ +L$
+L$$U
+t$4PW
++\$@
+L$8W
+_^][
+L$8S
+_^][
+_^][
+;7u_
+VWjL
+\$8UVW
+D$`R
+L$<R
+D$`R
+L$<R
+L$0_^][
++|$$
+t$ S
+_^][
+_^][
+r	@P
+r	@P
+_^[d
+r	@P
+r	@P
+t$,W
+l$4;
+9D$,
+t$,W
+_^][
+_^][
+_^][
+D$(;
+_^][
+_^][
+\$ @
+];0u
+F 9]
+_^[d
+\$(U
+l$$V
+t$,W
+L$8;G
+r	@P
+r	@P
+r	@P
+_^[d
+h4&A
+_^][Y
+j8j>
+t$$j
+t$$h
+D$$f
+SUVW
+D$8f
+D$<f
+D$@f
+D$Df
+D$Hf
+t$,f
+_^]f
+_^][
+SVW-
+wptN
+5HTA
+hTTA
+5PTA
+5LTA
+hL$A
+5PTA
+hTTA
+5HTA
+PhB 
+=DTA
+Wj\V
+hTTA
+5HTA
+t$ VP
+t$ VP
+hD&A
+t$ VP
+j%j*j
+t$ VP
+t$ VP
+t$ VP
+t$ VP
+j)j0h
+t$ VS
+L$(f
+hl'A
+L$(jD
+ht'A
+L$(h
+L$(h
+wZiB
+7_^[
+w^iC
+w#SVW
+veSU
+<9\t2
+8/G;~
+][_^
+s`+3
+_]^[
+_^][Y
+_^][
+ht(A
+QSUVW
+O8_^][
+r	@P
+6j0W
+u&9F
+][_^
+u	_^[
+_^[Y
+3^[Y
+3^[Y
+;p<t
+_^][Y
+_^][Y
+<SVW
+8SVW
+C<9E
+h$)A
+H|+Hx
+Ph()A
+h@)A
+Ph,)A
+h@)A
+$h0)A
+h@)A
+H|+Hx
+Ph4)A
+h@)A
+h@)A
+hD)A
+_^[d
+y#PhH)A
+;F<t.
+_[^Y
+6;s<
+*+Kx
+6;s<
+7_^][
+D$ +
+D$ ;
+t$ Q
+L$(P
+_^][Y
+D$$Q
+D$0s^
++D$(
+L$(+
+_^][Y
+D$,+
+D$@P
+<SVW
+thSV
+^[_]
+L$ _^]
+D$ _
+0^][
+SUVW
+r	@P
+0^][
+QSVW
+_^][
+PQSVW
+Y_^[
+j Y+
+hp9A
+8csm
+Y__^[
+ineI
+5ntel
+5Genu
+t#=`
+%x*A
+=tTA
+Unknown exception
+bad allocation
+bad array new length
+..\Engine\Archive.cpp
+fileName
+..\Engine\Archive.cpp
+reopen == false
+..\Engine\Archive.cpp
+archiveFileMode == fileModeRead
+..\Engine\Archive.cpp
+allowReopen == true
+..\Engine\Archive.cpp
+hashValue < tableSize
+..\Engine\Archive.cpp
+iteration < 1000
+..\Engine\Archive.cpp
+(pEntry - &fileArray.front()) >= 0
+..\Engine\Archive.cpp
+dest
+..\Engine\Archive.cpp
+fileIndex >= 0
+..\Engine\Archive.cpp
+fileIndex < (int)fileArray.size()
+..\Engine\Archive.cpp
+offset <= entry.expandedSize
+..\Engine\Archive.cpp
+(offset + size) <= entry.expandedSize
+..\Engine\Archive.cpp
+dataBuffer
+..\Engine\Archive.cpp
+Error reading archive file.
+block->compressedSize == bytesRead
+..\Engine\Archive.cpp
+block->compressedSize == block->expandedSize
+..\Engine\Archive.cpp
+block->expandedSize == destLen
+..\Engine\Archive.cpp
+files.size() == numFiles
+..\Engine\Archive.cpp
+archiveFileHandle != INVALID_HANDLE_VALUE
+..\Engine\Archive.cpp
+bytesRead == sizeof(archiveHeader)
+..\Engine\Archive.cpp
+Invalid archive file.
+..\Engine\Archive.cpp
+archiveHeader.version == ARCHIVE_VERSION
+..\Engine\Archive.cpp
+blockArray
+..\Engine\Archive.cpp
+nameTable
+..\Engine\Archive.cpp
+diskFileEntryArray
+..\Engine\Archive.cpp
+currentLocation == (header.indexOffset + header.nameTableSize + header.blockTableSize)
+archivewriter.cpp
+fileName
+archivewriter.cpp
+buffer
+newEntry.offset > currentOffset
+archivewriter.cpp
+archivewriter.cpp
+bytesRead == originalEntry.size
+archivewriter.cpp
+SetFilePointer(archiveFileHandle, 0, NULL, FILE_CURRENT) == (newEntry.offset + newEntry.size)
+archivewriter.cpp
+bytesRead == bytesWritten
+archivewriter.cpp
+newEntry.offset + newEntry.size == currentOffset
+archivewriter.cpp
+hashValue < tableSize
+archivewriter.cpp
+compressionBuffer
+archivewriter.cpp
+blockSet
+archivewriter.cpp
+blockIndex < numBlocks
+archivewriter.cpp
+blockIndex == numBlocks
+archivewriter.cpp
+fileName
+archivewriter.cpp
+*fileName
+archivewriter.cpp
+inputFile != INVALID_HANDLE_VALUE
+archivewriter.cpp
+fileBuffer
+archivewriter.cpp
+bytesRead == bytesToRead
+archivewriter.cpp
+bytesRead == bytesWritten
+archivewriter.cpp
+inputFile != INVALID_HANDLE_VALUE
+archivewriter.cpp
+fileDataBuffer
+archivewriter.cpp
+compressionBuffer
+archivewriter.cpp
+compressedBlockData
+archivewriter.cpp
+blockSet
+archivewriter.cpp
+blockCompressedSize >= 0
+archivewriter.cpp
+compressedBlockData[blockIndex]
+archivewriter.cpp
+blockIndex == numBlocks
+archivewriter.cpp
+outputFile != INVALID_HANDLE_VALUE
+archivewriter.cpp
+fileBuffer
+archivewriter.cpp
+bytesRead == bytesWritten
+archivewriter.cpp
+outputBuffer
+archivewriter.cpp
+checksum == fileEntry.checksum
+archivewriter.cpp
+bytesWritten == fileEntry.expandedSize
+archivewriter.cpp
+file.flags == 0
+archivewriter.cpp
+archiveFileMode == fileModeEdit
+archivewriter.cpp
+fileIndex < (int)fileArray.size()
+archivewriter.cpp
+pTableEntry != fileEntry.next
+Usage: archiveTool <file> <command> [command arguments]
+commands: 
+    -add <directory> <base> [compression (0-9)]: add a file/directory
+    -replace <directory> <base> [compression (0-9)]: replace a file/directory
+    -update <directory> <base> [compression (0-9)]: update a file/directory
+    -remove <file> : remove a file from the archive
+    -extract <location> [file] : extract files
+    -database <location> [file] : extract database files
+    -compact : compact the archive removing unused files
+    -removeMissing <file> <base> : remove files not in the specified directory
+    -list : list the files in the archive
+    -stats : display the archive statistics
+-totalStats
+-database
+Failed to open archive file %s.
+Failed to open archive file %s.
+-add
+-replace
+-update
+-replace
+-update
+-remove
+-extract
+-database
+(%u/%u) Extracting %s
+-removeMissing
+-compact
+-list
+-stats
+Unknown command %s.
+Operation completed in %02d:%02d
+Invalid path %s
+file: %s not found in archive.
+removing file: %s
+Archive statistics:
+    %u file entries
+    %u active files
+    index size: %u bytes
+    longest filename: %u
+    table size: %u
+    maximum table depth: %u
+    average depth %.2f
+added: %s
+(%i / %i) %s
+Invalid path: %s
+%5s %10u %10.2f MB %12.2f MB %11.1f %11.1f KB
+Assert Failed: %s
+==============================================================================
+Total %10u %10.2f MB %12.2f MB %11.1f %11.1f KB
+%-20s %8u %15.2f MB, %8.1f%%
+%s(%i) : [Assert] (%s) %s
+ Type      Count       Size    Compressed Size    Compression   Avg. Size
+==============================================================================
+Tahoma
+Filename:
+==============================================================================
+Assert Failed!
+Expression:
+==============================================================================
+Line:
+Message:
+ Archive File       Num Files       File Size      Fragmentation
+==============================================================================
+Debug
+Ignore
+\\?\UNC\
+Application: %s
+Filename: %s (%s)
+Expression: %s
+Message: %s
+Edit
+Edit
+Edit
+Edit
+Ignore Always
+Exit
+%.1fkb
+%.1fmb
+\*.*
+\*.*
+database.arz
+database.arc
+dblist.txt
+Number of Records in archive: 
+Average Record size (compressed): 
+Average Record size: 
+Number of entries in StringMap: 
+Error decompressing database record: %d
+Unavailable
+Memory allocation of %dkb failed
+vector<T> too long
+invalid string position
+string too long
+list<T> too long
+map/set<T> too long
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.gfids$y
+.rsrc$01
+.rsrc$02
+ArchiveTool.exe
+??0Archive@GAME@@QAE@XZ
+??1Archive@GAME@@QAE@XZ
+?Close@Archive@GAME@@QAEX_N@Z
+?FindMatchingFiles@Archive@GAME@@QAEIAAV?$vector@H@mem@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+?GetFileEntry@Archive@GAME@@QBEABUFileEntry@12@H@Z
+?GetNumFiles@Archive@GAME@@QBEIXZ
+?OpenRead@Archive@GAME@@QAE_NPBD@Z
+zlibwapi.dll
+timeGetTime
+WINMM.dll
+ReadFile
+GetFileSizeEx
+GetFileAttributesExA
+WriteFile
+SetFilePointer
+SetEndOfFile
+CreateFileA
+CloseHandle
+SetFilePointerEx
+GetFileSize
+CreateDirectoryA
+CompareFileTime
+FindFirstFileA
+FindNextFileA
+FindClose
+GetCurrentDirectoryA
+SetCurrentDirectoryA
+GetFileAttributesA
+SetUnhandledExceptionFilter
+KERNEL32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+MSVCP140.dll
+memmove
+__std_terminate
+memchr
+strrchr
+__CxxFrameHandler3
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+memset
+_except_handler4_common
+VCRUNTIME140.dll
+tolower
+_stricmp
+_invalid_parameter_noinfo_noreturn
+strtok
+fopen
+__acrt_iob_func
+fflush
+fclose
+__stdio_common_vfprintf
+strncpy
+atoi
+malloc
+free
+__stdio_common_vsprintf
+_itoa_s
+exit
+fopen_s
+fseek
+ftell
+fread
+_callnewh
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_controlfp_s
+terminate
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+MultiByteToWideChar
+GetModuleFileNameA
+GlobalAlloc
+GlobalLock
+GlobalUnlock
+GlobalFree
+GetLastError
+OutputDebugStringA
+SetLastError
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+UnhandledExceptionFilter
+IsProcessorFeaturePresent
+GetModuleHandleW
+GetCurrentProcess
+TerminateProcess
+SetWindowTextA
+GetDlgItem
+OpenClipboard
+EmptyClipboard
+SetClipboardData
+CloseClipboard
+EndDialog
+DialogBoxIndirectParamA
+USER32.dll
+memcpy
+__libm_sse2_log
+_except1
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0%0R0j0w0
+4`5l5v5{5
+6%6,6X6`6j6o6
+6"7*747;7
+7K8R8\8c8d9j9{9
+<!<&<9<C<J<[<
+=&=0=5=<=o={=
+>4>;>E>J>
+d0n0t0
+2<3v3|3
+4=4F4
+6t7@8F8
+:6:f:
+;E<K<h<n<
+<A=V=c=p={=
+>%>U>
+2A3v374C4J4Q4
+5"5'5J5O5d5n5u5
+6&6+6@6J6Q6b6m6
+7;7H7M7R7\7a7
+9s;{;
+<m<z<
+=J=w=}=
+212=2G2N2a2q2{2
+364C4K4U4\4
+4%5,565=5
+6/696@6Q6
+7#707:7A7c7i7z7
+888h8
+9$91969;9E9J9i9n9
+;E;O;T;
+;A<G<t=
+>S?Y?
+0$0*0
+10161
+313;3E3O3Y3c3m3w3
+50585
+6'6<6x6
+<#<U<
+?>?t?
+2f2	3
+3 4-4[4w4
+9)9?9G9z9
+:>:K:X:c:
+;+;7;N;W;g;
+='=7=Z=z=
+3-4G4
+6&636>6
+8<9I9T9
+1*2u3
+4f768
+5f7'8
+f0v0J1e1
+3'3D3Q3n3
+4&4,434X4t4
+5 5.5:5@5e5
+:!:(:5:R:h:l:p:t:
+;.;>?
+73_5
+8 8:8D8U8r8|8
+1&4o5|5
+8t9{9@:x:
+:Y;l;
+<+<D<H<L<P<	=
+4F5L5
+6g7m7
+;2<c<
+=7?<?B?O?\?g?
+3L5Y5f5q5L6f6
+7[8h8
+:;;d;
+<.<3<@<
+> >3>?>O>`>
+>"?/?V?^?w?
+0$0J0a0
+1%1T1\1t1z1
+2;3A3
+4[4`4s4
+4/585@5
+6$6/666V6\6b6h6n6t6{6
+7!7*7C7\7b7h7n7t7z7
+8"8i8x8
+8;9C9K9
+:J:Y:h:
+<)<A<Y<y<
+</=I=y=
+>">(>Z>y>
+	0)0I0i0
+2 2$2(2@2D2H2\2`2d2
+(:,:L;P;X;x;|;
+< <$<(<,<4<L<\<`<p<t<|<
+(0H0P0
+1,181X1d1
+2$2,242<2D2L2T2\2d2p2
+3$3,343<3D3L3X3x3
+40484@4L4T4t4
+5$5,585@5t5
+6$6,646<6D6P6p6|6
+7(747T7`7h7
+8$80888X8t8
+9 9(90949<9P9X9l9t9|9
+$0@0\0

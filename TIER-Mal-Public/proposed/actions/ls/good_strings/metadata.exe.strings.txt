@@ -1,0 +1,1799 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+AWAVAUATUWVSH
+D$HH
+X[^_]A\A]A^A_
+D$HH
+D$HH
+D$ L
+D$HD
+t$HH
+T$8I
+D$@H
+t$ A
+L$H1
+D$XH
+D$8H
+D$0H
+D$(H
+D$XL
+t$(H
+D$`H
+D$XL
+L$ H
+D$(L
+D$XL
+t$(H
+D$`H
+D$XL
+t$(H
+D$XL
+t$(H
+D$`H
+D$XL
+t$(H
+D$XL
+t$(H
+D$XL
+t$(H
+D$XL
+t$(H
+D$0@
+D$8@
+D$@D
+D$HD
+D$PD
+D$`H
+ATUWVSH
+d$8H
+H;l$8u
+@[^_]A\
+@[^_]A\
+@[^_]A\
+AUATUWVSH
+[^_]A\A]
+ATUWVSH
+D$8H
+t$PH
+D$8H
+H9l$Hu
+p[^_]A\
+AWAVAUATUWVSH
+|$(H
+[^_]A\A]A^A_
+\$HI
+L$hM
+D$(E1
+L$hM
+D$(E1
+ATUWVSH
+ [^_]A\
+< t#@
+ [^_]A\
+UWVSH
+D$ H
+D$ H
+H[^_]
+H[^_]
+H[^_]
+WVSH
+ [^_
+ [^_
+ [^_
+T$(L
+WVSH
+|$HH
+T$0H
+P[^_
+L$(H
+T$0H
+UWVSH
+8[^_]
+D$,H
+8[^_]
+T$0M
+D$8H
+\$ A
+AUATUWVSH
+d$@I
+|$`L
+l$8H
+D$8H9
+D$8H
+\$8H
+[^_]A\A]
+AUATUWVSH
+d$PH
+l$pH
+l$@L
+d$(M
+H9\$@u
+D$HH
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+AWAVAUATUWVSH
+|$hI
+\$HL
+[^_]A\A]A^A_
+WVSH
+@[^_
+L$8E1
+D$8H
+@[^_
+@[^_
+AVAUATUWVSH
+`[^_]A\A]A^
+d$@H
+L$8L
+l$8H
+`[^_]A\A]A^
+t2Hcr
+T$0H
+D$(H
+D$ A
+WVSH
+ [^_
+AUATUWVSH
+X[^_]A\A]
+D$DH
+T$@H
+l$DD
+l$(E
+ATUWVSH
+0[^_]A\
+0[^_]A\
+D$(I
+0[^_]A\
+D$ L
+L$8H
+UWVSH
+([^_]
+([^_]
+([^_]
+ATUWVSH
+<.:u
+ [^_]A\
+tNHcAp
+UWVSH
+t*< 
+H[^_]
+L$8H
+D$<I
+H[^_]
+\$ H
+ATUWVSH
+A9@$
+0[^_]A\
+Ic@pA
+Ic@pA
+0[^_]A\
+d$ H
+8[^H
+UWVSH
+l$0A
+|$ H
+T$(H
+H[^_]
+WVSH
+|$ H
+0[^_
+UWVSH
+l$(H
+|$ A
+8[^_]
+AWAVAUATUWVSH
+T$0M
+L$@M
+D$8u 
+|$8I
+|$ L
+L$0L
+L$0L
+L$0L
+L$0L
+X[^_]A\A]A^A_
+L$0L
+D$0H
+D$ M
+t$0H
+L$0L
+L$0L
+L$0L
+D$HH
+t$@L
+D$HL
+T$8H
+T$0H
+D$0H
+D$ M
+L$0L
+/D9e
+L$0H
+|$0H
+X[^_]A\A]A^A_
+L$0L
+D$0H
+D$ M
+L$0L
+D$0H
+D$ M
+L$0L
+D$0H
+T$8H
+X[^_]A\A]A^A_
+D$0H
+T$8H
+D$ M
+L$0L
+T$8H
+X[^_]A\A]A^A_
+T$8A
+D$0H
+X[^_]A\A]A^A_
+D$0H
+L$0L
+D$0H
+T$8H
+X[^_]A\A]A^A_
+L$0L
+D$0H
+T$8H
+D$ M
+L$0I
+ATUWVSH
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+([^_]A\A]
+~,Lc
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+D$8M
+\$8M
+@[^_]A\
+d$ I
+AWAVAUATUWVSH
+\$PH
+D$xH
+D$XH
+D$@H
+D$HL
+|$PA
+L$XH
+D$xH
+D$HL
+l$xw2
+T$PH
+[^_]A\A]A^A_
+D$0H
+D$ I
+D$0H
+D$(H
+T$`t,L
+\$`L
+\$`L
+D$ I
+|$(L
+T$ H
+WVSH
+L$<H
+@[^_
+@[^_
+UWVSH
+\$@H
+L$8H
+h[^_]
+UWVSH
+X[^_]
+X[^_]
+L$HH
+L$(H
+X[^_]
+L$HH
+L$(H
+WVSH
+D$(1
+0[^_
+UWVSH
+X[^_]
+T$8I
+D$@H
+l$ L
+D$@H
+D$HH
+X[^_]
+X[^_]
+ATUWVSH
+0[^_]A\
+D$(H
+0[^_]A\
+0[^_]A\
+AWAVAUATUWVSH
+|$`E1
+t$@H
+|$PH
+\$0H
+t$(H
+T$ H
+t$(L
+\$ L
+l$0H
+|$0M
+t$ 1
+t$(H
+\$ L
+|$0H
+t$(L
+L$ H
+|$0H
+|$(M
+t$ L
+t$(H
+T$ L
+|$01
+|$(H
+t$(H
+\$ L
+|$0H
+t$ f
+D$H	
+L$@H
+T$ H
+L$0H
+L$ H
+L$0H
+\$@L
+[^_]A\A]A^A_
+D$ L
+D$ H
+ATUWVSH
+D$@I
+t$HL
+D$8H
+P[^_]A\
+P[^_]A\
+P[^_]A\
+P[^_]A\
+UWVSH
+D$@H
+\$0L
+D$8H
+X[^_]
+X[^_]
+X[^_]
+X[^_]
+([^H
+WVSH
+0[^_
+WVSH
+T$HA
+T$(L
+L$DH
+P[^_
+P[^_
+UWVSH
+T$hE1
+T$8H
+T$XH
+T$(L
+L$`H
+x[^_]
+T$XH
+x[^_]
+T$(H
+D$@H
+T$(H
+D$ h
+D$@H
+UWVSH
+|$pH
+t$ H
+[^_]
+WVSH
+WVSH
+ [^_
+ [^_
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-q
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+libgcj-16.dll
+_Jv_RegisterClasses
+gimp20-std-plug-ins
+UTF-8
+plug-in-metadata-editor
+gimp-metadata
+GIMP_XMP_1
+Metadata parasite seems to be corrupt
+plug-in-metadata-decode-xmp
+plug-in-metadata-encode-xmp
+plug-in-metadata-decode-exif
+Exif to XMP merge failed.
+plug-in-metadata-get
+Not implemented yet (GET_PROC)
+plug-in-metadata-set
+Not implemented yet (SET_PROC)
+plug-in-metadata-get-simple
+plug-in-metadata-set-simple
+plug-in-metadata-import
+plug-in-metadata-export
+Not implemented yet (EXPORT_PROC)
+Not implemented yet (EDITOR_PROC)
+Rapha
+l Quinet <raphael@gimp.org>
+View and edit metadata information attached to the current image.  This can include EXIF, IPTC and/or XMP information.  Some or all of this metadata will be saved in the file, depending on the output file format.
+View and edit metadata (EXIF, IPTC, XMP)
+RGB*, INDEXED*, GRAY*
+Propert_ies
+2004-2005
+<Image>/File/Info
+Parse an XMP packet and merge the results with any metadata already attached to the image.  This should be used when an XMP packet is read from an image file.
+Decode an XMP packet
+2005
+man Joost <romanofski@gimp.org>
+Generate an XMP packet from the metadata information attached to the image.  The new XMP packet can then be saved into a file.
+Encode metadata into an XMP packet
+2008
+Parse an EXIF block and merge the results with any metadata already attached to the image.  This should be used when an EXIF block is read from an image file.
+Decode an EXIF block
+Retrieve the list of values associated with an XMP property.
+Retrieve the values of an XMP property
+Set the list of values associated with an XMP property.  If a property with the same name already exists, it will be replaced.
+Set the values of an XMP property
+Retrieve value associated with a scalar XMP property.  This can only be done for simple property types such as text or integers.  Structured types must be retrieved with plug_in_metadata_get().
+Retrieve the value of an XMP property
+Set the value of a scalar XMP property.  This can only be done for simple property types such as text or integers.  Structured types need to be set with plug_in_metadata_set().
+Set the value of an XMP property
+Load an XMP packet from a file and import it into the current image.  This can be used to add a license statement or some other predefined metadata to an image
+Import XMP from a file into the current image
+Export the metadata associated with the current image into a file.  The metadata will be saved as an XMP packet.  If overwrite is TRUE, then any existing file will be overwritten without warning. If overwrite is FALSE, then an error will occur if the file already exists.
+Export XMP from the current image to a file
+image
+Input image
+filename
+The name of the file to save the XMP packet in
+overwrite
+Overwrite existing file: { FALSE (0), TRUE (1) }
+The name of the XMP file to import
+schema
+XMP schema prefix or URI
+property
+XMP property name
+value
+XMP property value
+type
+XMP property type
+num-vals
+number of values
+vals
+XMP property values
+exif-size
+size of the EXIF block
+exif
+EXIF block
+XMP packet
+run-mode
+Run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+drawable
+Input drawable (unused)
+row-changed
+While parsing XMP metadata:
+Unable to set XMP property '%s' because its schema is bad
+[FIXME: display thumbnails]
+xmp_model != NULL
+schema != NULL
+http://
+http:
+XMPModel
+property-changed
+filename != NULL
+schema_name != NULL
+property_name != NULL
+property_value != NULL
+GIMP_IS_XMP_MODEL (xmp_model)
+iter != NULL
+xmp_model_property_changed
+xmp_model_set_scalar_property
+xmp_model_get_scalar_property
+xmp_model_get_tree_model
+xmp_model_parse_file
+parse_start_schema
+parse_end_schema
+parse_set_property
+xmp_model_is_empty
+context->property != NULL
+context->prop_cur_value >= 0
+Error: No XMP packet found
+xmp-parse-error-quark
+Error on line %d char %d: %s
+<?xpacket begin=
+XMP packets must start with <?xpacket begin=...?>
+<?xpacket end=
+XMP packets must end with <?xpacket end=...?>
+<?adobe-
+<!--
+XMP cannot contain XML comments or processing instructions
+context->prop_cur_value < 0
+context->property_type == XMP_PTYPE_UNKNOWN
+xmp-parse.c
+name == NULL
+context->property == NULL
+context->prop_cur_value == -1
+context->prop_missing_value == TRUE
+The current element (<%s>) cannot contain text
+Description
+x:xmpmeta
+x:xapmeta
+xmpmeta
+End of element <%s> not expected in this context
+matches_rdf (element_name, context, "Description")
+matches_rdf (element_name, context, "RDF")
+! strcmp (element_name, "x:xmpmeta") || ! strcmp (element_name, "x:xapmeta") || matches_with_prefix (element_name, context->xmp_prefix, context->xmp_prefix_len, "xmpmeta")
+context != NULL
+Unknown attribute "%s"="%s" in element <%s>
+Unknown element <%s>
+Expected element <%s>, found <%s> instead
+xmlns:
+adobe:ns:meta/
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf:RDF
+about
+xmlns
+Required attribute rdf:about missing in <%s>
+rdf:Description
+resource
+parseType
+Resource
+value
+xml:lang
+rdf:li
+Expected text or optional element <%s>, found <%s> instead
+xapGImg:image
+xapGImg:format
+xapGImg:width
+xapGImg:height
+Nested elements (<%s>) are not allowed in this context
+parser != NULL
+text != NULL
+context->state != STATE_ERROR
+xmp_parse_context_end_parse
+xmp_parse_context_parse
+xmp_parse_context_free
+new_property_in_ns
+propagate_property
+end_element_handler
+update_property_value
+add_property_value
+error_handler
+xmp_parse_context_new
+<%s:%s
+ %s='%s'
+>%s</%s:%s>
+<?xpacket begin='
+' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+</rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='r'?>
+ <rdf:Description xmlns:%s='%s'>
+ </rdf:Description>
+  <%s:%s>
+   <rdf:Bag>
+   </rdf:Bag>
+  </%s:%s>
+  <%s:%s>
+   <rdf:Seq>
+   </rdf:Seq>
+  </%s:%s>
+  <%s:%s>
+   <rdf:Alt>
+x-default
+xml:lang
+   </rdf:Alt>
+  </%s:%s>
+rdf:resource
+  <%s:%s rdf:parseType='Resource'
+   xmlns:%s='%s'>
+  <%s:%s rdf:parseType='Resource'>
+  </%s:%s>
+FIXME: output not implemented yet (%s:%s)
+Unknown property type for %s
+xmp_model != NULL
+buffer != NULL
+model != NULL
+property->name != NULL
+xmp_generate_packet
+http://purl.org/dc/elements/1.1/
+Dublin Core
+http://ns.adobe.com/xap/1.0/
+XMP Basic
+http://ns.adobe.com/xap/1.0/rights/
+xmpRights
+XMP Rights Management
+http://ns.adobe.com/xap/1.0/mm/
+xmpMM
+XMP Media Management
+http://ns.adobe.com/xap/1.0/bj/
+xmpBJ
+XMP Basic Job Ticket
+http://ns.adobe.com/xap/1.0/t/pg/
+xmpTPg
+XMP Paged-Text
+http://ns.adobe.com/pdf/1.3/
+Adobe PDF
+http://ns.adobe.com/photoshop/1.0/
+photoshop
+Photoshop
+http://ns.adobe.com/tiff/1.0/
+tiff
+EXIF (TIFF Properties)
+http://ns.adobe.com/exif/1.0/
+exif
+EXIF (EXIF-specific Properties)
+http://ns.adobe.com/xap/1.0/PLUS/
+xmpPLUS
+XMP Photographic Licensing Universal System
+http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/
+Iptc4xmpCore
+IPTC Core
+http://web.resource.org/cc/
+Creative Commons
+http://ns.adobe.com/iX/1.0/
+http://ns.adobe.com/xmp/Identifier/qual/1.0/
+xmpidq
+http://ns.adobe.com/xap/1.0/g/img/
+xapGImg
+http://ns.adobe.com/xap/1.0/sType/Dimensions#
+stDim
+http://ns.adobe.com/xap/1.0/sType/ResourceEvent#
+stEvt
+http://ns.adobe.com/xap/1.0/sType/ResourceRef#
+stRef
+http://ns.adobe.com/xap/1.0/sType/Version#
+stVer
+http://ns.adobe.com/xap/1.0/sType/Job#
+stJob
+license
+CountryCode
+CreatorContactInfo
+IntellectualGenre
+Location
+Scene
+SubjectCode
+CreditLineReq
+ReuseAllowed
+ExifVersion
+FlashpixVersion
+ColorSpace
+ComponentsConfiguration
+CompressedBitsPerPixel
+PixelXDimension
+PixelYDimension
+MakerNote
+UserComment
+RelatedSoundFile
+DateTimeOriginal
+DateTimeDigitized
+ExposureTime
+FNumber
+ExposureProgram
+SpectralSensitivity
+ISOSpeedRatings
+OECF
+ShutterSpeedValue
+ApertureValue
+BrightnessValue
+ExposureBiasValue
+MaxApertureValue
+SubjectDistance
+MeteringMode
+LightSource
+Flash
+FocalLength
+SubjectArea
+FlashEnergy
+SpatialFrequencyResponse
+FocalPlaneXResolution
+FocalPlaneYResolution
+FocalPlaneResolutionUnit
+SubjectLocation
+ExposureIndex
+SensingMethod
+FileSource
+SceneType
+CFAPattern
+CustomRendered
+ExposureMode
+WhiteBalance
+DigitalZoomRatio
+FocalLengthIn35mmFilm
+SceneCaptureType
+GainControl
+Contrast
+Saturation
+Sharpness
+DeviceSettingDescription
+SubjectDistanceRange
+ImageUniqueID
+GPSVersionID
+GPSLatitude
+GPSLongitude
+GPSAltitudeRef
+GPSAltitude
+GPSTimeStamp
+GPSSatellites
+GPSStatus
+GPSMeasureMode
+GPSDOP
+GPSSpeedRef
+GPSSpeed
+GPSTrackRef
+GPSTrack
+GPSImgDirectionRef
+GPSImgDirection
+GPSMapDatum
+GPSDestLatitude
+GPSDestLongitude
+GPSDestBearingRef
+GPSDestBearing
+GPSDestDistanceRef
+GPSDestDistance
+GPSProcessingMethod
+GPSAreaInformation
+GPSDifferential
+ImageWidth
+ImageLength
+BitsPerSample
+Compression
+PhotometricInterpretation
+Orientation
+SamplesPerPixel
+PlanarConfiguration
+YCbCrSubSampling
+YCbCrPositioning
+XResolution
+YResolution
+ResolutionUnit
+TransferFunction
+WhitePoint
+PrimaryChromaticities
+YCbCrCoefficients
+ReferenceBlackWhite
+DateTime
+ImageDescription
+Make
+Model
+Software
+Artist
+Copyright
+AuthorsPosition
+CaptionWriter
+Category
+City
+Country
+Credit
+DateCreated
+Headline
+Instructions
+Source
+State
+SupplementalCategories
+TransmissionReference
+Urgency
+Keywords
+PDFVersion
+Producer
+MaxPageSize
+NPages
+JobRef
+DerivedFrom
+DocumentID
+History
+ManagedFrom
+Manager
+ManageTo
+ManageUI
+ManagerVariant
+RenditionClass
+RenditionParams
+VersionID
+Versions
+LastURL
+RenditionOf
+SaveID
+Certificate
+Marked
+Owner
+UsageTerms
+WebStatement
+Advisory
+BaseURL
+CreateDate
+CreatorTool
+Identifier
+MetadataDate
+ModifyDate
+NickName
+Thumbnails
+contributor
+coverage
+creator
+date
+description
+format
+identifier
+language
+publisher
+relation
+rights
+source
+subject
+title
+type
+Import XMP from File
+gtk-cancel
+gtk-open
+destroy
+response
+Export XMP to File
+gtk-save
+mgui != NULL
+metadata-message
+Open failed
+Cannot create file
+Some error occurred while saving
+Save failed
+Could not close the file
+metadata
+_Export XMP...
+_Import XMP...
+Image Properties
+gimp-metadata
+gtk-ok
+plug-in-metadata-editor
+gtk-edit
+gimp-wilber
+Description
+property-name
+http://purl.org/dc/elements/1.1/
+schema-uri
+xmp-model
+title
+Image _title:
+creator
+_Author:
+description
+_Description:
+http://ns.adobe.com/photoshop/1.0/
+CaptionWriter
+Description _writer:
+http://ns.adobe.com/pdf/1.3/
+Keywords
+_Keywords:
+Empty
+Copyright
+Origin
+Camera 1
+Camera 2
+thumbnail
+gimp-question
+Thumbnail
+Advanced
+xalign
+Property
+weight-set
+weight
+text
+visible
+pixbuf
+edited
+Value
+editable
+realize
+export_dialog_response
+import_dialog_response
+metadata_dialog_response
+?schema-uri
+property-name
+xmp-model
+gimp-xmp-model-widget-private
+GimpXmpModelWidgetInterface
+gimpxmpmodelwidget.c
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'
+property
+property-changed::%s:%s
+gimp-wilber
+gtk-edit
+changed
+GimpXmpModelEntry
+end-user-action
+GimpXmpModelText
+http://ns.adobe.com/exif/1.0/
+exif-data
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strcmp
+strlen
+strncmp
+vfprintf
+_write
+_close
+gimp_image_attach_parasite
+gimp_image_get_filename
+gimp_image_get_parasite
+gimp_install_procedure
+gimp_main
+gimp_plugin_menu_register
+gimp_any_to_utf8
+gimp_locale_directory
+gimp_parasite_data
+gimp_parasite_data_size
+gimp_parasite_free
+gimp_parasite_new
+gimp_dialog_new
+gimp_frame_new
+gimp_standard_help_func
+gimp_table_attach_aligned
+exif_content_foreach_entry
+exif_data_foreach_content
+exif_data_new_from_data
+exif_entry_get_value
+exif_tag_get_name
+gdk_pixbuf_get_type
+g_assertion_message_expr
+g_base64_decode_step
+g_error_free
+g_error_new
+g_file_get_contents_utf8
+g_free
+g_intern_static_string
+g_log
+g_malloc
+g_markup_escape_text
+g_markup_parse_context_end_parse
+g_markup_parse_context_get_element
+g_markup_parse_context_get_position
+g_markup_parse_context_new
+g_markup_parse_context_parse
+g_once_init_enter
+g_once_init_leave
+g_open
+g_printerr
+g_propagate_error
+g_quark_from_static_string
+g_quark_from_string
+g_realloc
+g_return_if_fail_warning
+g_slice_alloc0
+g_slice_free1
+g_slist_delete_link
+g_slist_free
+g_slist_prepend
+g_str_has_prefix
+g_strconcat
+g_strdup
+g_strdup_printf
+g_strdup_vprintf
+g_string_append
+g_string_append_printf
+g_string_free
+g_string_insert_c
+g_string_new
+g_strjoin
+g_strjoinv
+g_strndup
+g_cclosure_marshal_VOID__BOXED
+g_object_class_override_property
+g_object_get_data
+g_object_interface_install_property
+g_object_new
+g_object_set
+g_object_set_data_full
+g_object_unref
+g_param_spec_object
+g_param_spec_string
+g_signal_connect_data
+g_signal_emit
+g_signal_new
+g_type_add_interface_static
+g_type_check_class_cast
+g_type_check_instance_cast
+g_type_check_instance_is_a
+g_type_class_adjust_private_offset
+g_type_class_peek_parent
+g_type_init
+g_type_interface_peek
+g_type_name
+g_type_register_static
+g_type_register_static_simple
+g_value_dup_object
+g_value_dup_string
+g_value_set_object
+g_value_set_string
+gtk_box_get_type
+gtk_box_pack_start
+gtk_cell_renderer_pixbuf_new
+gtk_cell_renderer_text_new
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_run
+gtk_dialog_set_alternative_button_order
+gtk_dialog_set_default_response
+gtk_entry_get_text
+gtk_entry_get_type
+gtk_entry_set_text
+gtk_file_chooser_dialog_new
+gtk_file_chooser_get_filename_utf8
+gtk_file_chooser_get_type
+gtk_file_chooser_set_do_overwrite_confirmation
+gtk_image_new_from_pixbuf
+gtk_label_new
+gtk_main
+gtk_main_quit
+gtk_message_dialog_new
+gtk_notebook_append_page
+gtk_notebook_get_type
+gtk_notebook_new
+gtk_notebook_set_tab_pos
+F	gtk_scrolled_window_get_type
+I	gtk_scrolled_window_new
+L	gtk_scrolled_window_set_policy
+M	gtk_scrolled_window_set_shadow_type
+gtk_table_get_type
+gtk_table_new
+gtk_table_set_col_spacings
+gtk_table_set_row_spacings
+gtk_text_buffer_get_bounds
+gtk_text_buffer_get_text
+gtk_text_buffer_set_text
+gtk_text_view_get_buffer
+gtk_text_view_get_type
+gtk_tree_iter_get_type
+gtk_tree_model_foreach
+gtk_tree_model_get
+gtk_tree_model_get_iter
+gtk_tree_model_get_iter_first
+gtk_tree_model_get_type
+gtk_tree_model_iter_children
+gtk_tree_model_iter_next
+gtk_tree_model_iter_parent
+gtk_tree_path_free
+gtk_tree_path_new_from_string
+gtk_tree_store_append
+gtk_tree_store_get_type
+gtk_tree_store_iter_depth
+gtk_tree_store_remove
+gtk_tree_store_set
+gtk_tree_store_set_column_types
+gtk_tree_view_column_get_type
+gtk_tree_view_column_set_clickable
+gtk_tree_view_expand_all
+gtk_tree_view_get_column
+gtk_tree_view_get_model
+gtk_tree_view_get_type
+gtk_tree_view_insert_column_with_attributes
+gtk_tree_view_new_with_model
+gtk_tree_view_set_rules_hint
+gtk_widget_destroy
+gtk_widget_destroyed
+gtk_widget_get_type
+gtk_widget_render_icon
+gtk_widget_show
+gtk_widget_show_all
+gtk_window_get_type
+gtk_window_present
+gtk_window_set_default_size
+gtk_window_set_role
+gtk_window_set_title
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libexif-12.dll
+libgdk_pixbuf-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+metadata.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gtk_tree_store_append
+__imp_gtk_tree_store_iter_depth
+__imp_gtk_message_dialog_new
+__imp_g_propagate_error
+__imp_GetStartupInfoA
+__imp_gtk_table_new
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp_g_markup_parse_context_parse
+__imp_g_type_interface_peek
+__imp__fmode
+__imp_g_quark_from_static_string
+__imp_gtk_cell_renderer_pixbuf_new
+__imp__lock
+__imp_gimp_parasite_free
+__imp_g_slist_free
+__imp_RtlVirtualUnwind
+__imp_gtk_notebook_get_type
+__imp_gtk_tree_store_get_type
+__imp_g_slist_prepend
+__imp_calloc
+__imp_gtk_tree_model_get_iter_first
+__imp_gtk_window_get_type
+__imp_g_quark_from_string
+__imp_gtk_tree_view_set_rules_hint
+__imp_gtk_text_buffer_set_text
+__imp_exif_entry_get_value
+__imp_g_type_add_interface_static
+__imp_gtk_notebook_append_page
+__imp_gimp_dialog_new
+__imp_g_strdup_vprintf
+_head_libgimpwidgets_2_0_0_dll
+__imp_gtk_tree_path_new_from_string
+__imp_gimp_standard_help_func
+__imp___dllonexit
+__imp_gimp_image_get_filename
+libgimpui_2_0_0_dll_iname
+__imp__acmdln
+__imp_DeleteCriticalSection
+__imp_gimp_parasite_new
+libintl_8_dll_iname
+__imp_gimp_main
+__imp__amsg_exit
+__imp_exif_data_foreach_content
+__imp_g_markup_parse_context_get_position
+__imp_g_string_insert_c
+__imp_g_strdup
+__imp_gtk_tree_store_set_column_types
+__imp_g_object_get_data
+__imp_gimp_install_procedure
+__imp_g_str_has_prefix
+__imp_g_object_set_data_full
+__imp_g_intern_static_string
+__imp_g_return_if_fail_warning
+libglib_2_0_0_dll_iname
+__imp_gtk_widget_destroyed
+__imp_g_printerr
+__imp_gtk_tree_model_get
+__imp_g_object_interface_install_property
+__imp_GetCurrentThreadId
+__imp_gtk_label_new
+__imp_g_once_init_enter
+__imp_gimp_parasite_data
+__imp_gtk_cell_renderer_text_new
+__imp_strcmp
+__imp_gtk_tree_model_iter_parent
+__imp___C_specific_handler
+__imp_GetLastError
+__imp_free
+__imp_gimp_window_set_transient
+__imp_gtk_main_quit
+__imp_gtk_tree_model_iter_children
+__imp_RtlLookupFunctionEntry
+__imp_gtk_tree_view_column_set_clickable
+__imp_gtk_tree_view_new_with_model
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_gtk_tree_view_expand_all
+__imp_gtk_notebook_set_tab_pos
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_g_object_new
+__imp_exif_tag_get_name
+__imp_g_strndup
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+__imp_g_value_dup_string
+__imp_gtk_tree_view_get_type
+__imp_GetTickCount
+__imp_gtk_tree_model_iter_next
+__imp_g_base64_decode_step
+__imp_g_string_free
+__imp_gtk_tree_view_column_get_type
+__imp_gimp_table_attach_aligned
+__imp_g_type_register_static
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_gtk_tree_model_get_iter
+__imp_gimp_any_to_utf8
+__imp_gtk_window_set_title
+__imp_gtk_tree_view_insert_column_with_attributes
+__imp_write
+__imp_gtk_window_set_role
+__imp_gtk_dialog_run
+__imp_gtk_text_view_get_type
+__imp_gtk_widget_get_type
+__imp_gtk_scrolled_window_new
+__imp_gimp_parasite_data_size
+__imp_g_slice_alloc0
+__IAT_end__
+__imp_memcpy
+__imp_gtk_tree_store_remove
+_head_libgobject_2_0_0_dll
+__imp_g_assertion_message_expr
+__imp_g_string_new
+__imp_gimp_ui_init
+__imp_gtk_table_set_col_spacings
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_g_type_class_peek_parent
+__imp_gtk_widget_show_all
+__imp_gtk_text_buffer_get_text
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp___getmainargs
+_head_lib64_libkernel32_a
+__imp_g_object_class_override_property
+_head_libgdk_pixbuf_2_0_0_dll
+_head_lib64_libmsvcrt_a
+__imp_g_param_spec_string
+__imp_g_signal_emit
+__imp_EnterCriticalSection
+__imp_g_markup_parse_context_end_parse
+__imp_gtk_tree_store_set
+__imp_GetCurrentProcessId
+__imp_exif_data_new_from_data
+__imp_gtk_tree_iter_get_type
+__imp___lconv_init
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_g_slice_free1
+__imp_g_markup_escape_text
+__imp_g_signal_new
+__imp_g_malloc
+__imp_signal
+_head_libgimp_2_0_0_dll
+__imp_gtk_table_set_row_spacings
+__imp_g_type_check_class_cast
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gtk_container_get_type
+libgdk_pixbuf_2_0_0_dll_iname
+__imp_strlen
+__imp_malloc
+__imp_g_object_unref
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_gimp_image_attach_parasite
+libexif_12_dll_iname
+__imp_gtk_file_chooser_get_filename_utf8
+__imp_exif_content_foreach_entry
+__imp_InitializeCriticalSection
+__imp_gtk_dialog_get_type
+__imp_gtk_entry_set_text
+__imp_gtk_image_new_from_pixbuf
+__imp_g_type_init
+__imp_exit
+__imp_vfprintf
+__imp___initenv
+__imp_gtk_main
+__imp_gimp_image_get_parasite
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_g_strjoin
+__imp_gtk_scrolled_window_set_shadow_type
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_gtk_tree_view_get_column
+__imp_SetUnhandledExceptionFilter
+__imp_g_slist_delete_link
+__imp_gimp_plugin_menu_register
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp__onexit
+__imp_libintl_gettext
+__imp_gtk_window_set_default_size
+__imp_gtk_box_get_type
+__imp_gtk_scrolled_window_get_type
+__imp___argv
+__imp_Sleep
+__imp_g_markup_parse_context_get_element
+__imp_g_value_set_string
+__imp___setusermatherr
+__imp_gtk_tree_model_foreach
+__imp_gimp_locale_directory
+__imp_g_once_init_leave
+__imp_g_param_spec_object
+__imp_g_free
+__imp_gtk_widget_destroy
+__imp_TlsGetValue
+__imp_gtk_tree_view_get_model
+__imp_fprintf
+__imp_g_value_dup_object
+__imp_gtk_window_present
+__imp_g_type_class_adjust_private_offset
+__imp_gtk_tree_model_get_type
+__imp_VirtualProtect
+__imp_gdk_pixbuf_get_type
+__imp_g_type_check_instance_is_a
+_head_libintl_8_dll
+__imp_g_object_set
+__imp_gtk_file_chooser_dialog_new
+__imp_gtk_entry_get_text
+__imp_g_strconcat
+__imp_g_value_set_object
+__imp_VirtualQuery
+__imp__initterm
+__imp___iob_func
+_head_libexif_12_dll
+__imp_g_markup_parse_context_new
+__imp_g_type_register_static_simple
+__imp_strncmp
+__imp_g_file_get_contents_utf8
+__imp_g_strjoinv
+__imp_gtk_notebook_new
+__imp_gtk_container_set_border_width
+__imp_close
+__imp_gtk_dialog_set_default_response
+__imp_gtk_file_chooser_get_type
+__imp_gtk_tree_path_free
+__imp_g_string_append_printf
+__imp__unlock
+__imp_gtk_text_buffer_get_bounds
+__imp___set_app_type
+__imp_gtk_scrolled_window_set_policy
+__imp_g_string_append
+__imp_gtk_entry_get_type
+__imp_gtk_file_chooser_set_do_overwrite_confirmation
+__imp_gtk_widget_render_icon
+__imp_gtk_table_get_type
+__imp_g_open
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_g_cclosure_marshal_VOID__BOXED
+__imp_g_error_free
+__imp_gtk_container_add
+__imp_g_type_name
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_text_view_get_buffer
+__imp_GetCurrentProcess
+__imp_g_realloc
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_g_strdup_printf
+__lib64_libmsvcrt_a_iname
+__imp_g_error_new
+__imp_g_log
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+fy^;X
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510152213Z0#
+N0L0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+,Oi6
+"\Rt
+x~XQq
+Ub>t
+0^>z
+e`>#
+.b8}lv
+A#Y9
+20170510155417Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155417Z0+
+6R}O
+o!`We`$
+oFA4
+coHw
+.ONO
+Vq+w

@@ -1,0 +1,56 @@
+CC&8
+u3SQR
+D	.	y	9	
+	b	'
+T	Z	U
+F+6{
+I,"t
+"<\u
+!r.RP
+PRPR&
+ub&9W
+&)7P&
+t4O~1
+!r$RP
+?+u!
+(	P&
+YY=<
+uu+~
+Borland C++ - Copyright 1991 Borland Intl.
+Divide error
+Abnormal program termination
+VeRsIoN=1.00, FSYNONYM Mercury file import synonym database builder.
+CoPyRiGhT=Copyright (c) 1992-98 David Harris, all rights reserved.
+FSYNONYM: Mercury File Import Synonym Database Builder v1.00
+Copyright (c) 1992-98, David Harris, all rights reserved.
+  Usage:  FSynonym <input_file> <output_file>
+     - input_file:  the source text file to import
+     - output_file: the name of the Mercury/Charon Synonym Database
+  FSynonym always appends to the filename specified -  this allows
+  a single synonym file to be put together for multiple contexts.
+Warning: line %d is malformed and has been skipped.
+Warning: synonym too long on line %d - skipped.
+Warning: missing username on line %d - skipped.
+Error: unable to write to synonym database.
+Error opening source file '%s
+Creating Mercury Synonym Database '%s'...
+Mercury Synonym Database
+Appending to file '%s'...
+Error opening or creating database file.
+Importing records...
+%d entr%s with synonyms found: merge-sorting...
+Merge sort failed. Check TEMP and TMP directories.
+Synonym database %s successfully updated.
+TEMP
+%04x%04x.$$$
+MALIAS: Failed creating subfile '%s'
+         !!!!!                  
+@@@@@@@@@@@@@@@
+@@@@@@@
+@@@@@@
+@@@@ 
+),(((((),(((
+*(((
+.$$$
+(null)
+print scanf : floating point formats not linked

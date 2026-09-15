@@ -1,0 +1,264 @@
+#!/bin/bash
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+TIER_ROOT="$(cd -- "$SCRIPT_DIR/../../.." && pwd)"
+BASE_DIR="${MAB_DATASET_DIR:-$TIER_ROOT/runtime/datasets/MAB}"
+SCAN_SCRIPT="$SCRIPT_DIR/ember_scan.py"
+
+PARENT_DIRS=("evasive" "minimal")
+TRUE_LABELS=("Locker" "Mediyes" "Winwebsec" "Zbot" "Zeroaccess")
+PRED_LABELS=("Benign" "Locker" "Mediyes" "Winwebsec" "Zbot" "Zeroaccess")
+
+declare -A CM
+declare -A TOTAL
+declare -A CORRECT
+declare -A EVADED
+declare -A PRED_BENIGN
+
+normalize_label() {
+    local raw="$1"
+
+    raw=$(echo "$raw" | tr -d '\r' | xargs | tr '[:upper:]' '[:lower:]')
+
+    case "$raw" in
+        benign) echo "Benign" ;;
+        locker) echo "Locker" ;;
+        mediyes) echo "Mediyes" ;;
+        winwebsec) echo "Winwebsec" ;;
+        zbot) echo "Zbot" ;;
+        zeroaccess) echo "Zeroaccess" ;;
+    esac
+}
+
+get_pred_label() {
+    local file="$1"
+
+    python3 "$SCAN_SCRIPT" "$file" 2>/dev/null \
+        | awk -F ':' '
+            BEGIN { IGNORECASE=1 }
+            /Predicted label/ {
+                gsub(/^[ \t]+|[ \t]+$/, "", $2)
+                print $2
+                exit
+            }
+        '
+}
+
+calc_percent() {
+    local num="$1"
+    local den="$2"
+
+    if [ "$den" -eq 0 ]; then
+        echo "0.00%"
+    else
+        awk -v n="$num" -v d="$den" 'BEGIN { printf "%.2f%%", n * 100 / d }'
+    fi
+}
+
+scan_one_parent() {
+    local parent="$1"
+    local parent_dir="$BASE_DIR/$parent"
+
+    echo
+    echo "============================================================"
+    echo "BAT DAU QUET THU MUC: $parent_dir"
+    echo "============================================================"
+
+    for true_label in "${TRUE_LABELS[@]}"; do
+        local label_dir="$parent_dir/$true_label"
+
+        mapfile -d '' files < <(find "$label_dir" -type f -print0)
+        local total_files="${#files[@]}"
+        local current=0
+
+        echo
+        echo "[+] Dang quet label that: $true_label ($total_files file)"
+        echo "------------------------------------------------------------"
+
+        for file in "${files[@]}"; do
+            ((current++))
+
+            echo -ne "Progress [$parent/$true_label]: [$current/$total_files] $(basename "$file")\033[0K\r"
+
+            raw_label=$(get_pred_label "$file")
+            pred_label=$(normalize_label "$raw_label")
+
+            if [ -z "$pred_label" ]; then
+                echo
+                echo "[ERROR] Khong parse duoc label."
+                echo "File: $file"
+                echo "Raw label: [$raw_label]"
+                echo "Output goc:"
+                python3 "$SCAN_SCRIPT" "$file"
+                exit 1
+            fi
+
+            key="$parent|$true_label|$pred_label"
+            total_key="$parent|$true_label"
+
+            ((CM[$key]++))
+            ((TOTAL[$total_key]++))
+
+            if [ "$pred_label" = "$true_label" ]; then
+                ((CORRECT[$total_key]++))
+            else
+                ((EVADED[$total_key]++))
+
+                if [ "$pred_label" = "Benign" ]; then
+                    ((PRED_BENIGN[$total_key]++))
+                fi
+            fi
+        done
+
+        echo -e "\n[+] Xong label: $true_label"
+    done
+}
+
+print_confusion_matrix() {
+    local parent="$1"
+
+    echo
+    echo "============================================================"
+    echo "CONFUSION MATRIX - $parent"
+    echo "Hang = nhan that, Cot = nhan EMBER predict"
+    echo "============================================================"
+
+    printf "%-15s" "True\Pred"
+    for pred in "${PRED_LABELS[@]}"; do
+        printf "| %-12s" "$pred"
+    done
+    printf "| %-10s\n" "Total"
+
+    printf "%-15s" "---------------"
+    for pred in "${PRED_LABELS[@]}"; do
+        printf "+ %-12s" "------------"
+    done
+    printf "+ %-10s\n" "----------"
+
+    for true_label in "${TRUE_LABELS[@]}"; do
+        printf "%-15s" "$true_label"
+
+        row_total=0
+
+        for pred in "${PRED_LABELS[@]}"; do
+            key="$parent|$true_label|$pred"
+            count="${CM[$key]:-0}"
+            row_total=$((row_total + count))
+            printf "| %-12s" "$count"
+        done
+
+        printf "| %-10s\n" "$row_total"
+    done
+}
+
+print_detail_stats() {
+    local parent="$1"
+
+    echo
+    echo "============================================================"
+    echo "BANG THONG KE CHI TIET - $parent"
+    echo "Evasion = predict sai nhan that"
+    echo "============================================================"
+
+    printf "%-12s | %-8s | %-8s | %-10s | %-10s | %-11s | %-8s\n" \
+        "TrueLabel" "Total" "Correct" "Accuracy" "Evaded" "EvasionRate" "Benign"
+
+    echo "--------------------------------------------------------------------------------"
+
+    grand_total=0
+    grand_correct=0
+    grand_evaded=0
+    grand_benign=0
+
+    for true_label in "${TRUE_LABELS[@]}"; do
+        key="$parent|$true_label"
+
+        total="${TOTAL[$key]:-0}"
+        correct="${CORRECT[$key]:-0}"
+        evaded="${EVADED[$key]:-0}"
+        benign="${PRED_BENIGN[$key]:-0}"
+
+        accuracy=$(calc_percent "$correct" "$total")
+        evasion_rate=$(calc_percent "$evaded" "$total")
+
+        printf "%-12s | %-8s | %-8s | %-10s | %-10s | %-11s | %-8s\n" \
+            "$true_label" "$total" "$correct" "$accuracy" "$evaded" "$evasion_rate" "$benign"
+
+        grand_total=$((grand_total + total))
+        grand_correct=$((grand_correct + correct))
+        grand_evaded=$((grand_evaded + evaded))
+        grand_benign=$((grand_benign + benign))
+    done
+
+    echo "--------------------------------------------------------------------------------"
+
+    total_acc=$(calc_percent "$grand_correct" "$grand_total")
+    total_evasion=$(calc_percent "$grand_evaded" "$grand_total")
+
+    printf "%-12s | %-8s | %-8s | %-10s | %-10s | %-11s | %-8s\n" \
+        "TOTAL" "$grand_total" "$grand_correct" "$total_acc" "$grand_evaded" "$total_evasion" "$grand_benign"
+}
+
+print_per_label_breakdown() {
+    local parent="$1"
+
+    echo
+    echo "============================================================"
+    echo "CHI TIET PREDICT THEO TUNG NHAN - $parent"
+    echo "============================================================"
+
+    for true_label in "${TRUE_LABELS[@]}"; do
+        key_total="$parent|$true_label"
+        total="${TOTAL[$key_total]:-0}"
+
+        echo
+        echo "Label that: $true_label"
+        echo "Tong file: $total"
+        echo "------------------------------------------------"
+
+        printf "%-15s | %-10s | %-10s\n" "Predicted" "Count" "Rate"
+        echo "------------------------------------------------"
+
+        for pred in "${PRED_LABELS[@]}"; do
+            key="$parent|$true_label|$pred"
+            count="${CM[$key]:-0}"
+            rate=$(calc_percent "$count" "$total")
+
+            marker=""
+            if [ "$pred" = "$true_label" ]; then
+                marker=" <- correct"
+            elif [ "$count" -gt 0 ]; then
+                marker=" <- evasion"
+            fi
+
+            printf "%-15s | %-10s | %-10s%s\n" "$pred" "$count" "$rate" "$marker"
+        done
+
+        echo "------------------------------------------------"
+
+        evaded="${EVADED[$key_total]:-0}"
+        evasion_rate=$(calc_percent "$evaded" "$total")
+        echo "Evasion cua $true_label: $evaded/$total = $evasion_rate"
+    done
+}
+
+echo "============================================================"
+echo "EMBER DETECTION + EVASION STATISTICS - MAB"
+echo "BASE_DIR    : $BASE_DIR"
+echo "SCAN_SCRIPT : $SCAN_SCRIPT"
+echo "============================================================"
+
+for parent in "${PARENT_DIRS[@]}"; do
+    scan_one_parent "$parent"
+done
+
+for parent in "${PARENT_DIRS[@]}"; do
+    print_confusion_matrix "$parent"
+    print_detail_stats "$parent"
+    print_per_label_breakdown "$parent"
+done
+
+echo
+echo "============================================================"
+echo "HOAN TAT"
+echo "============================================================"

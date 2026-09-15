@@ -1,0 +1,268 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+3{5tc
+,		o
++. `
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+[&s$
+<Module>
+TsWpfWrp.exe
+BuildInfo
+Microsoft.Internal
+DllImport
+TsWpfWrapper
+TsWpfWrapperNameSpace
+mscorlib
+System
+Object
+WCP_PUBLIC_KEY_TOKEN
+WCP_PUBLIC_KEY_STRING
+WCP_VERSION
+WCP_VERSION_SUFFIX
+MIL_VERSION_SUFFIX
+PresentationCore
+PresentationCFFRasterizer
+PresentationFontCache
+PresentationFramework
+PresentationUI
+PresentationFrameworkLuna
+PresentationFrameworkRoyale
+PresentationFrameworkAero
+PresentationFrameworkClassic
+ReachFramework
+SystemPrinting
+SystemWindowsPresentation
+FontCachePortName
+FontCacheServiceName
+PresentationNative
+PresentationCFFRasterizerNative
+MilCore
+Wininet
+WindowsCodecs
+WindowsCodecsExt
+Mscms
+PrntvPt
+Main
+System.Printing
+PrintQueue
+WaitForJobToBePrinted
+PrintXPSDocument
+GetPrintQueue
+.ctor
+System.Reflection
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblyFileVersionAttribute
+AssemblyCompanyAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyVersionAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Security.Permissions
+SecurityPermissionAttribute
+SecurityAction
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+TsWpfWrp
+STAThreadAttribute
+args
+String
+op_Equality
+Console
+WriteLine
+Concat
+System.IO
+File
+Delete
+Exception
+myPrinter
+interactiveMode
+DateTime
+MinValue
+PrintJobInfoCollection
+GetPrintJobInfoCollection
+System.Collections.Generic
+IEnumerator`1
+PrintSystemJobInfo
+GetEnumerator
+get_Current
+get_TimeJobSubmitted
+op_LessThan
+System.Collections
+IEnumerator
+MoveNext
+IDisposable
+Dispose
+PrintSystemObject
+get_Name
+Int32
+Microsoft.Win32
+Registry
+GetValue
+TimeSpan
+FromMinutes
+ToString
+get_Now
+System.Threading
+Thread
+Sleep
+Refresh
+get_IsPrinted
+get_IsDeleted
+op_Subtraction
+System.Security
+SecurityException
+printQueueName
+xpsFileName
+System.Windows.Xps
+XpsDocumentWriter
+CreateXpsDocumentWriter
+XpsDocumentNotificationLevel
+Write
+PrinterFullName
+StringComparison
+StartsWith
+LastIndexOf
+Substring
+PrintServer
+LocalPrintServer
+UnverifiableCodeAttribute
+RSA1
+`!g-
+Bd:\sp1qfe.public.amd64fre\internal\strongnamekeys\fake\windows.snk
+6.0.6001.17014
+Microsoft Corporation
+9Copyright (c) Microsoft Corporation. All rights reserved.
+*Microsoft (R) Windows (R) Operating System
+WrapNonExceptionThrows
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SkipVerification
+RSDS
+W>NM
+TsWpfWrp.pdb
+_CorExeMain
+mscoree.dll
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+150320173203Z
+160620173203Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service0
+o!6(
+f3:f
+(4JC2
+4N}o
+T*9Q
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+8QAr
+@#X,
+(}fBS
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+140422173900Z
+150722173900Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+ a@S1
+pI'^|g
+LpE8-
+F0D1
+MOPR1301
+*31595+b4218f13-6fca-490f-9c47-3fc557dfc4400
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1604
+http://microsoft.com0
+_p"y
+S`(31
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+150507113801Z0#
+1wY|P

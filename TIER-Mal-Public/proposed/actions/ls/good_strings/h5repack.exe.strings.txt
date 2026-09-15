@@ -1,0 +1,1758 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+T$ M
+D$ A
+UWVSH
+compact
+contiguoH
+chunked
+invalid H
+layout
+[^_]
+L$0H
+L$ H
+L$(H
+T$ A
+T$ A
+T$ M
+T$0H
+T$ M
+NONEf
+GZIPf
+SZIPf
+SHUFf
+FLETf
+NBITf
+SCALEOFFH
+SET 
+dset    H
+UWVH
+E H)
+@^_]
+UWVH
+D$ I
+	v6H
+	v6H
+ v6H
+Et=H
+@8H9
+T$ A
+@8H9
+D$ A
+T$(L
+D$ A
+T$(L
+D$ A
+T$(H
+T$ A
+T$(H
+T$ A
+T$(H
+T$ A
+T$(H
+T$ A
+L$ H
+UWVH
+T$0H
+T$ M
+L$ H
+D$0L
+L$ M
+H;E(u
+T$ M
+H;E0u
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ M
+L$8D
+T$ A
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+D$0H
+L$ E
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ E
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$HH
+L$@H
+L$8H
+L$0H
+L$(H
+L$HH
+L$@H
+L$8H
+L$0H
+L$(H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$(H
+L$ H
+T$8H
+T$0H
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$(L
+L$ E
+L$@H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$HH
+L$0H
+L$(H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$(L
+T$ H
+L$@H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+T$PH
+T$8H
+T$0H
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8H
+L$0H
+L$(H
+L$ H
+L$8H
+L$0H
+L$(H
+L$ H
+ v{H
+L$8D
+T$ A
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$0H
+T$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$hH
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$0H
+T$ E
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$0H
+T$ E
+L$8D
+T$ A
+L$8D
+T$ A
+ v{H
+L$8D
+T$ A
+T$ A
+T$ A
+L$8D
+T$ A
+L$0H
+T$ H
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+ vrH
+L$8D
+T$ A
+T$0H
+L$8D
+T$ A
+L$ H
+L$ H
+L$8D
+T$ A
+L$ H
+L$8D
+T$ A
+T$ I
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+T$(H
+T$ M
+L$8D
+T$ A
+T$(H
+T$ M
+L$8D
+T$ A
+T$(H
+T$ M
+T$ M
+T$(H
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$(H
+T$ M
+T$ M
+L$8D
+T$ A
+T$(H
+T$ M
+T$ M
+L$8D
+T$ A
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$ M
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$(H
+D$ L
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+L$8D
+T$ A
+T$(H
+T$ M
+L$8D
+T$ A
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$ L
+T$(H
+T$ M
+T$(H
+T$ E
+T$(H
+T$ M
+T$(H
+T$ M
+L$0H
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+L$(H
+L$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+L$0H
+T$(H
+T$ L
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ L
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+L$ H
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$ M
+T$(H
+T$ M
+T$0H
+T$(H
+T$ M
+;E t
+;E |
+T$0H
+D$ L
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+UWVSH
+D$ I
+T$(H
+T$ M
+T$ E
+T$(H
+T$ M
+T$ E
+T$(H
+T$ M
+T$(H
+T$ M
+T$(H
+T$ M
+[^_]
+E(H;E
+E(H;E
+}  ~
+T$(L
+L$ E
+T$(L
+L$ E
+T$(L
+L$ E
+UWVSH
+H[^_]
+<-u%
+<=u;
+<*u}
+<-t=
+T$8H
+D$0H
+D$ A
+L$ M
+L$ M
+T$(H
+T$ E
+T$0H
+T$(H
+D$ A
+@0H;E
+D$ A
+@8H9
+@8H9
+</u#H
+T$0H
+T$(H
+L$ M
+D$ I
+D$ A
+T$ E
+@uXH
+@u7H
+T$ A
+?~	H
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+maximum number of filters exceeded for <%s>
+invalid layout input: 'all' option                             is present with other objects <%s>
+cannot read into memory
+h5repack
+attr
+  %-27s %s
+Objects to modify layout are...
+invalid layout
+ Apply %s layout to all
+with dimension [
+ <%s> with chunk size 
+NONE (contigous)
+ <%s> %s
+invalid chunking input: 'all' option                            is present with other objects
+Objects to apply filter are...
+ Uncompress all
+ All with %s
+ All with %s, parameter %d
+ User Defined %d
+ <%s> with %s filter
+invalid compression input: 'all' option                            is present with other objects
+invalid maximum number of links to store as header messages
+invalid minimum number of links to store in the indexed format
+minimum indexed size is greater than the maximum compact size
+invalid shared message size
+Warning: user block size missing for file %s. Assigning a default size of 1024...
+file name missing for user block
+alignment for H5Pset_alignment missing
+unable to open file
+<%s>: %s
+Opening file <%s>. Searching for objects to modify...
+ <%s>
+%s Could not find <%s> in file <%s>. Exiting...
+...Found
+ <warning: SZIP settins, chunk size is smaller than pixels per block>
+NONE
+GZIP
+SZIP
+SHUFFLE
+FLETCHER32
+NBIT
+SOFF
+unable to open file
+<%s>: %s
+failed to retrieve file creation property list
+failed to retrieve userblock size
+failed to close property list
+fail to create a file creation property list
+failed to set non-default userblock size
+fail to adjust group creation parameters for root group
+fail to set the number of shared object header message indexes
+fail to configure the specified shared object header message index
+Could not create file access property list
+Could not set property for using latest version of the format
+failed to set userblock size
+failed to set alignment
+failed to set metadata block size
+Making file <%s>...
+<%s>: Could not create file
+Could not copy user block. Exiting...
+<%s>: Could not copy data to: %s
+h5repack: <%s>: Could not copy data to: %s
+-----------------------------------------
+ Type     Filter (Compression)     Name
+group
+ %-27s %s
+ warning: could not create dataset <%s>. Applying original settings
+failed
+H5Dread
+%s %s -- %s
+H5Dwrite
+ <warning: filter not applied to %s. dataset smaller than %d bytes>
+ <warning: could not apply the filter to %s>
+dset
+type
+link
+  (%.3f:1)
+cannot insert the filter in this object.        Maximum capacity exceeded
+not enough memory for options table
+chunk information already inserted for <%s>
+could not allocate object list
+input Error: Invalid compression type in <%s>
+SZIP
+compression parameter not digit in <%s>
+szip mask must be 'NN' or 'EC' 
+SOFF
+compression parameter is not a digit in <%s>
+scale type must be 'IN' or 'DS' 
+filter number parameter is not a digit in <%s>
+NONE
+GZIP
+missing compression parameter in <%s>
+SHUF
+extra parameter in SHUF <%s>
+FLET
+extra parameter in FLET <%s>
+NBIT
+extra parameter in NBIT <%s>
+incorrect number of compression parameters in <%s>
+invalid filter type in <%s>
+invalid compression parameter in <%s>
+pixels_per_block is not even in <%s>
+pixels_per_block is too large in <%s>
+in parse layout, no characters after : in <%s>
+COMPA
+CONTI
+CHUNK
+in parse layout, not a valid layout in <%s>
+in parse layout,  <%s> Chunk dimensions missing
+in parse layout, <%s> Not a valid character in <%s>
+in parse layout, <%s> conversion to number in <%s>
+cannot read into memory
+cannot allocate memory
+dset
+ %-27s %s
+object <%s> object reference created to <%s>
+object <%s> region reference created to <%s>
+object <%s> reference created to <%s>
+unable to open file
+<%s>: %s
+property lists for <%s> are different
+hVvf:l:m:e:nLc:d:s:u:b:M:t:a:i:o:
+help
+version
+verbose
+filter
+layout
+minimum
+file
+native
+latest
+compact
+indexed
+ssize
+ublock
+block
+metadata_block_size
+threshold
+alignment
+infile
+outfile
+usage: %s [OPTIONS] file1 file2
+  file1                    Input HDF5 File
+  file2                    Output HDF5 File
+  OPTIONS
+   -h, --help              Print a usage message and exit
+   -v, --verbose           Verbose mode, print object information
+   -V, --version           Print version number and exit
+   -n, --native            Use a native HDF5 type when repacking
+   -L, --latest            Use latest version of file format
+   -c L1, --compact=L1     Maximum number of links in header messages
+   -d L2, --indexed=L2     Minimum number of links in the indexed format
+   -s S[:F], --ssize=S[:F] Shared object header message minimum size
+   -m M, --minimum=M       Do not apply the filter to datasets smaller than M
+   -e E, --file=E          Name of file E with the -f and -l options
+   -u U, --ublock=U        Name of file U with user block data to be added
+   -b B, --block=B         Size of user block to be added
+   -M A, --metadata_block_size=A  Metadata block size for H5Pset_meta_block_size
+   -t T, --threshold=T     Threshold value for H5Pset_alignment
+   -a A, --alignment=A     Alignment value for H5Pset_alignment
+   -f FILT, --filter=FILT  Filter type
+   -l LAYT, --layout=LAYT  Layout type
+    M - is an integer greater than 1, size of dataset in bytes (default is 0) 
+    E - is a filename.
+    S - is an integer
+    U - is a filename.
+    T - is an integer
+    A - is an integer greater than zero
+    B - is the user block size, any value that is 512 or greater and is
+        a power of 2 (1024 default)
+    F - is the shared object header message type, any of <dspace|dtype|fill|
+        pline|attr>. If F is not specified, S applies to all messages
+    FILT - is a string with the format:
+      <list of objects>:<name of filter>=<filter parameters>
+      <list of objects> is a comma separated list of object names, meaning apply
+        compression only to those objects. If no names are specified, the filter
+        is applied to all objects
+      <name of filter> can be:
+        GZIP, to apply the HDF5 GZIP filter (GZIP compression)
+        SZIP, to apply the HDF5 SZIP filter (SZIP compression)
+        SHUF, to apply the HDF5 shuffle filter
+        FLET, to apply the HDF5 checksum filter
+        NBIT, to apply the HDF5 NBIT filter (NBIT compression)
+        SOFF, to apply the HDF5 Scale/Offset filter
+        UD,   to apply a user defined filter
+        NONE, to remove all filters
+      <filter parameters> is optional filter parameter information
+        GZIP=<deflation level> from 1-9
+        SZIP=<pixels per block,coding> pixels per block is a even number in
+            2-32 and coding method is either EC or NN
+        SHUF (no parameter)
+        FLET (no parameter)
+        NBIT (no parameter)
+        SOFF=<scale_factor,scale_type> scale_factor is an integer and scale_type
+            is either IN or DS
+        UD=<filter_number,cd_value_count,value_1[,value_2,...,value_N]>
+            required values for filter_number,cd_value_count,value_1
+            optional values for value_2 to value_N
+        NONE (no parameter)
+    LAYT - is a string with the format:
+      <list of objects>:<layout type>=<layout parameters>
+      <list of objects> is a comma separated list of object names, meaning that
+        layout information is supplied for those objects. If no names are
+        specified, the layout type is applied to all objects
+      <layout type> can be:
+        CHUNK, to apply chunking layout
+        COMPA, to apply compact layout
+        CONTI, to apply contiguous layout
+      <layout parameters> is optional layout information
+        CHUNK=DIM[xDIM...xDIM], the chunk size of each dimension
+        COMPA (no parameter)
+        CONTI (no parameter)
+Examples of use:
+1) h5repack -v -f GZIP=1 file1 file2
+   GZIP compression with level 1 to all objects
+2) h5repack -v -f dset1:SZIP=8,NN file1 file2
+   SZIP compression with 8 pixels per block and NN coding method to object dset1
+3) h5repack -v -l dset1,dset2:CHUNK=20x10 -f dset3,dset4,dset5:NONE file1 file2
+   Chunked layout, with a layout size of 20x10, to objects dset1 and dset2
+   and remove filters to objects dset3, dset4, dset5
+4) h5repack -L -c 10 -s 20:dtype file1 file2 
+   Using latest file format with maximum compact group size of 10 and
+   and minimum shared datatype size of 20
+5) h5repack -f SHUF -f GZIP=1 file1 file2 
+   Add both filters SHUF and GZIP in this order to all datasets
+6) h5repack -f UD=307,1,9 file1 file2 
+   Add bzip2 filter to all datasets
+cannot open options file %s
+could not add compression option
+could not add chunck option
+bad file format for %s
+in parsing filter
+in parsing layout
+invalid minimum compress size <%s>
+dspace
+dtype
+fill
+pline
+attr
+invalid alignment size
+missing file names
+h5repack
+file names cannot be the same
+file names missing
+sec2
+family
+split
+multi
+%d.%d.%d
+HDF5:tools
+H5tools
+Failure in tools library
+error in function
+closing rawattrstream
+closing rawdatastream
+closing rawinstream
+closing rawoutstream
+closing rawerrorstream
+-r.h5
+-m.h5
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-hdf5/hdf5-1.8.14/tools/lib/h5tools.c
+H5Tget_size failed
+H5Tget_class failed
+fwrite failed
+NULL string
+H5Tget_nmembers of compound failed
+render_bin_output of compound member failed
+render_bin_output failed
+H5Dget_space failed
+Could not allocate buffer for dims
+H5Screate_simple failed
+Could not allocate region buffer
+Could not allocate buffer for start
+Could not allocate buffer for count
+H5Sselect_hyperslab failed
+H5Dread failed
+H5Sget_simple_extent_dims failed
+render_bin_output of data region failed
+H5Sclose failed
+H5Sget_select_hyper_nblocks failed
+H5Sget_simple_extent_ndims failed
+Could not allocate buffer for ptdata
+H5Rget_select_hyper_blocklist failed
+H5Dget_type failed
+H5Tget_native_type failed
+H5Tclose failed
+Could not allocate buffer for region
+render_bin_output of data points failed
+H5Sget_select_elem_npoints failed
+render_bin_output
+render_bin_output_region_data_blocks
+render_bin_output_region_blocks
+render_bin_output_region_data_points
+render_bin_output_region_points
+%hhd
+ %llu
+DATASET %s 
+standardformat
+HDF5
+SUPER_BLOCK
+GROUP
+DATASET
+ATTRIBUTE
+DATATYPE
+DATASPACE
+DATA
+SOFTLINK
+EXTERNAL_LINK
+USERDEFINED_LINK
+SUBSET
+START
+STRIDE
+COUNT
+BLOCK
+Error in writing binary stream
+NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-hdf5/hdf5-1.8.14/tools/lib/h5tools_dump.c
+H5Rget_name failed
+invalid region type
+H5Sclose failed
+H5Rget_region failed
+H5Dclose failed
+H5Rdereference failed
+H5Dget_space failed
+Could not allocate buffer for dims
+H5Screate_simple failed
+H5Tget_size failed
+Could not allocate region buffer
+Could not allocate buffer for start
+Could not allocate buffer for count
+H5Sselect_hyperslab failed
+H5Dread failed
+H5Sget_simple_extent_dims failed
+H5Sget_select_hyper_nblocks failed
+H5Sget_simple_extent_ndims failed
+REGION_TYPE BLOCK  
+Could not allocate buffer for ptdata
+H5Rget_select_hyper_blocklist failed
+%s%llu
+H5Dget_type failed
+H5Tget_native_type failed
+%s %s 
+H5Tclose failed
+Could not allocate buffer for region
+H5Sget_select_elem_npoints failed
+REGION_TYPE POINT  
+H5Sget_select_elem_pointlist failed
+ndims and sm_size comparision failed
+H5Sget_select_npoints failed
+Could not allocate buffer for strip-mine
+H5Sget_select_bounds failed
+h5tools_dump_simple_data failed
+nothing to print
+ctx->ndims > NELMTS(sm_size) failed
+ctx->ndims > NELMTS(ctx->p_min_idx) failed
+H5Sis_simple failed
+H5Tget_class failed
+"/#%llu"
+"%s"
+unknown committed type.
+H5T_STD_I8BE
+H5T_STD_I8LE
+H5T_STD_I16BE
+H5T_STD_I16LE
+H5T_STD_I32BE
+H5T_STD_I32LE
+H5T_STD_I64BE
+H5T_STD_I64LE
+H5T_STD_U8BE
+H5T_STD_U8LE
+H5T_STD_U16BE
+H5T_STD_U16LE
+H5T_STD_U32BE
+H5T_STD_U32LE
+H5T_STD_U64BE
+H5T_STD_U64LE
+H5T_NATIVE_SCHAR
+H5T_NATIVE_UCHAR
+H5T_NATIVE_SHORT
+H5T_NATIVE_USHORT
+H5T_NATIVE_INT
+H5T_NATIVE_UINT
+H5T_NATIVE_LONG
+H5T_NATIVE_ULONG
+H5T_NATIVE_LLONG
+H5T_NATIVE_ULLONG
+ little-endian
+ big-endian
+ mixed-endian
+ unknown-byte-order
+ unsigned
+ unknown-sign
+%lu-bit%s%s integer
+H5T_IEEE_F32BE
+H5T_IEEE_F32LE
+H5T_IEEE_F64BE
+H5T_IEEE_F64LE
+H5T_VAX_F32
+H5T_VAX_F64
+H5T_NATIVE_FLOAT
+H5T_NATIVE_DOUBLE
+H5T_NATIVE_LDOUBLE
+%lu-bit%s floating-point
+H5T_TIME: not yet implemented
+H5T_STRING %s
+STRSIZE
+%s H5T_VARIABLE;
+%s %d;
+STRPAD
+H5T_STR_NULLTERM;
+H5T_STR_NULLPAD;
+H5T_STR_SPACEPAD;
+H5T_STR_UNKNOWN;
+H5T_STR_ERROR;
+ERROR;
+CSET
+H5T_CSET_ASCII;
+H5T_CSET_UTF8;
+H5T_CSET_UNKNOWN;
+H5T_CSET_ERROR;
+CTYPE
+H5T_C_S1;
+H5Tset_order failed
+H5T_FORTRAN_S1;
+unknown_one_character_type;
+H5T_STD_B8BE
+H5T_STD_B8LE
+H5T_STD_B16BE
+H5T_STD_B16LE
+H5T_STD_B32BE
+H5T_STD_B32LE
+H5T_STD_B64BE
+H5T_STD_B64LE
+undefined bitfield
+H5T_OPAQUE %s
+H5Tget_tag failed
+OPAQUE_TAG "%s";
+H5Tget_nmembers failed
+H5T_COMPOUND %s
+ "%s";
+H5Tget_member_type failed
+H5T_REFERENCE
+ { H5T_STD_REF_DSETREG }
+ { H5T_STD_REF_OBJECT }
+H5Tget_super failed
+H5T_ENUM %s
+H5T_VLEN %s 
+H5T_ARRAY { 
+[%llu]
+H5Tget_array_dims2 failed
+H5Tget_array_ndims failed
+unknown datatype
+H5Sget_simple_extent_type failed
+SCALAR
+%s %s
+SIMPLE
+%s %s { %s %llu
+, %llu
+ %s / 
+H5S_UNLIMITED
+%s %llu
+, %s
+ %s }
+%s unknown dataspace %s
+H5Tget_size(type) failed
+H5Tget_sign failed
+Could not allocate buffer for member name
+Could not allocate buffer for member value
+H5Tget_member_value failed
+H5Tconvert failed
+%*s 
+%02x
+%llu
+%lld
+Could not close datatype's super class
+<empty>
+OBJECTID
+%s %s %d %s
+STORAGE_LAYOUT
+CHUNKED
+SIZE %llu (%.3f:1 COMPRESSION)
+SIZE %llu
+COMPACT
+CONTIGUOUS
+EXTERNAL
+FILENAME %s SIZE %llu
+ OFFSET %ld
+OFFSET %llu
+FILTERS
+COMPRESSION DEFLATE
+%s %s %s %d %s
+LEVEL
+PREPROCESSING SHUFFLE
+CHECKSUM FLETCHER32
+COMPRESSION SZIP
+PIXELS_PER_BLOCK %d
+HARDWARE
+MODE %s
+ENTROPY
+CODING %s
+NEAREST NEIGHBOUR
+BYTE_ORDER %s
+HEADER %s
+COMPRESSION NBIT
+COMPRESSION SCALEOFFSET
+MIN BITS
+USER_DEFINED_FILTER
+FILTER_ID %d
+COMMENT %s
+PARAMS
+NONE
+FILLVALUE
+FILL_TIME 
+H5D_FILL_TIME_ALLOC
+H5D_FILL_TIME_NEVER
+H5D_FILL_TIME_IFSET
+VALUE 
+H5D_FILL_VALUE_UNDEFINED
+ALLOCATION_TIME %s
+H5D_ALLOC_TIME_EARLY
+H5D_ALLOC_TIME_INCR
+H5D_ALLOC_TIME_LATE
+COMMENT "%s"
+%s "%s" %s
+unable to open attribute "%s"
+Packed Bit not valid for this datatype
+Packed Bit offset+length value(%d) too large. Max is %d
+OFFSET
+PACKED_BITS
+%s %s=%d %s=%d
+LENGTH
+DEFAULT
+(%s): 
+unable to print data
+h5tools_dump_simple_data
+h5tools_print_region_data_blocks
+h5tools_dump_region_data_blocks
+h5tools_print_region_data_points
+h5tools_dump_region_data_points
+h5tools_print_simple_subset
+h5tools_dump_simple_subset
+h5tools_dump_simple_dset
+h5tools_dump_simple_mem
+h5tools_dump_mem
+h5tools_print_datatype
+h5tools_print_dataspace
+h5tools_print_enum
+%llu
+%s: 
+%s%llu
+%%%02x
+           
+\%03o
+%%%sd
+%%%su
+0x%02x
+%02x
+NULL
+%s%c
+%c repeats %d times
+%hhd
+%s%02x
+GROUP
+DATASET
+DATATYPE
+h5tools
+warning: could not create overflow file.  Output may be truncated.
+%s error: 
+%s warning: 
+Try '-h' or '--help' for more information or 
+see the <%s> entry in the 'HDF5 Reference Manual'.
+%s: option required for "--%s" flag
+%s: no option required for "%s" flag
+%s: unknown option "%s"
+%s: unknown option "%c"
+%s: value expected for option "%c"
+error: the indentation exceeds the number of cols.
+%s: Version %u.%u.%u%s%s
+Warning: link <%s> doesn't exist 
+Warning: unable to get link info from <%s>
+Warning: unable to get link value from <%s>
+Warning: unable to get object information for <%s>
+Warning: target object of <%s> is unknown type
+H5TOOLS_BUFSIZE
+%s/%s
+%s%s
+attribute
+ %-10s %s%s
+ %-10s %s/%s
+group
+ %-10s %s
+dataset
+datatype
+unknown object type
+ -> %s
+link
+ %-10s %s -> %s
+ %-10s %s ->
+ext link
+ %-10s %s -> %s %s
+unknown type of UD link
+ %-10s %s -> ???
+warning: dataset <%s> cannot be read, %s filter is not available
+user defined
+SZIP
+unable to construct reference path table
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+H5Aclose
+H5Acreate2
+H5Aget_name
+H5Aget_space
+H5Aget_type
+H5Aiterate_by_name
+H5Aopen_by_idx
+H5Aread
+H5Awrite
+H5Dclose
+H5Dcreate2
+H5Dget_create_plist
+H5Dget_offset
+H5Dget_space
+H5Dget_space_status
+H5Dget_storage_size
+H5Dget_type
+H5Dopen2
+H5Dread
+H5Dvlen_reclaim
+H5Dwrite
+H5Eauto_is_v2
+H5Eclose_msg
+H5Eclose_stack
+H5Ecreate_msg
+H5Ecreate_stack
+H5Eget_auto1
+H5Eget_auto2
+H5Eget_msg
+H5Eprint2
+H5Epush2
+H5Eregister_class
+H5Eset_auto1
+H5Eset_auto2
+H5Eunregister_class
+H5Ewalk2
+H5Fclose
+H5Fcreate
+H5Fget_create_plist
+H5Fopen
+H5Gclose
+H5Gcreate2
+H5Gget_create_plist
+H5Gopen2
+H5Iget_file_id
+H5Iinc_ref
+H5Lcopy
+H5Lcreate_hard
+H5Lexists
+H5Lget_info
+H5Lget_val
+H5Literate_by_name
+H5Lunpack_elink_val
+H5Lvisit_by_name
+H5Oclose
+H5Ocopy
+H5Oexists_by_name
+H5Oget_comment
+H5Oget_info
+H5Oget_info_by_name
+H5P_CLS_FILE_ACCESS_ID_g
+H5P_CLS_FILE_CREATE_ID_g
+H5P_CLS_GROUP_CREATE_ID_g
+H5P_CLS_LINK_ACCESS_ID_g
+H5P_CLS_OBJECT_COPY_ID_g
+H5Pclose
+H5Pcopy
+H5Pcreate
+H5Pequal
+H5Pfill_value_defined
+H5Pget_alloc_time
+H5Pget_chunk
+H5Pget_external
+H5Pget_external_count
+H5Pget_fill_time
+H5Pget_fill_value
+H5Pget_filter2
+H5Pget_layout
+H5Pget_link_creation_order
+H5Pget_nfilters
+H5Pget_userblock
+H5Premove_filter
+H5Pset_alignment
+H5Pset_alloc_time
+H5Pset_chunk
+H5Pset_copy_object
+H5Pset_deflate
+H5Pset_elink_fapl
+H5Pset_fapl_family
+H5Pset_fapl_multi
+H5Pset_fapl_sec2
+H5Pset_fapl_split
+H5Pset_filter
+H5Pset_fletcher32
+H5Pset_layout
+H5Pset_libver_bounds
+H5Pset_link_creation_order
+H5Pset_link_phase_change
+H5Pset_meta_block_size
+H5Pset_nbit
+H5Pset_scaleoffset
+H5Pset_shared_mesg_index
+H5Pset_shared_mesg_nindexes
+H5Pset_shuffle
+H5Pset_szip
+H5Pset_userblock
+H5Rcreate
+H5Rdereference
+H5Rget_name
+H5Rget_region
+H5SL_create
+H5SL_destroy
+H5SL_insert
+H5SL_search
+H5Sclose
+H5Screate_simple
+H5Sget_select_bounds
+H5Sget_select_elem_npoints
+H5Sget_select_elem_pointlist
+H5Sget_select_hyper_blocklist
+H5Sget_select_hyper_nblocks
+H5Sget_select_npoints
+H5Sget_select_type
+H5Sget_simple_extent_dims
+H5Sget_simple_extent_ndims
+H5Sget_simple_extent_type
+H5Sis_simple
+H5Sselect_all
+H5Sselect_hyperslab
+H5Sset_extent_simple
+H5T_C_S1_g
+H5T_FORTRAN_S1_g
+H5T_IEEE_F32BE_g
+H5T_IEEE_F32LE_g
+H5T_IEEE_F64BE_g
+H5T_IEEE_F64LE_g
+H5T_NATIVE_DOUBLE_g
+H5T_NATIVE_FLOAT_g
+H5T_NATIVE_INT_g
+H5T_NATIVE_LDOUBLE_g
+H5T_NATIVE_LLONG_g
+H5T_NATIVE_LONG_g
+H5T_NATIVE_SCHAR_g
+H5T_NATIVE_SHORT_g
+H5T_NATIVE_UCHAR_g
+H5T_NATIVE_UINT_g
+H5T_NATIVE_ULLONG_g
+H5T_NATIVE_ULONG_g
+H5T_NATIVE_USHORT_g
+H5T_STD_B16BE_g
+H5T_STD_B16LE_g
+H5T_STD_B32BE_g
+H5T_STD_B32LE_g
+H5T_STD_B64BE_g
+H5T_STD_B64LE_g
+H5T_STD_B8BE_g
+H5T_STD_B8LE_g
+H5T_STD_I16BE_g
+H5T_STD_I16LE_g
+H5T_STD_I32BE_g
+H5T_STD_I32LE_g
+H5T_STD_I64BE_g
+H5T_STD_I64LE_g
+H5T_STD_I8BE_g
+H5T_STD_I8LE_g
+H5T_STD_REF_DSETREG_g
+H5T_STD_REF_OBJ_g
+H5T_STD_U16BE_g
+H5T_STD_U16LE_g
+H5T_STD_U32BE_g
+H5T_STD_U32LE_g
+H5T_STD_U64BE_g
+H5T_STD_U64LE_g
+H5T_STD_U8BE_g
+H5T_STD_U8LE_g
+H5T_VAX_F32_g
+H5T_VAX_F64_g
+H5Tclose
+H5Tcommit_anon
+H5Tcommitted
+H5Tconvert
+H5Tcopy
+H5Tdetect_class
+H5Tenum_nameof
+H5Tequal
+H5Tget_array_dims2
+H5Tget_array_ndims
+H5Tget_class
+H5Tget_cset
+H5Tget_member_name
+H5Tget_member_offset
+H5Tget_member_type
+H5Tget_member_value
+H5Tget_native_type
+H5Tget_nmembers
+H5Tget_order
+H5Tget_sign
+H5Tget_size
+H5Tget_strpad
+H5Tget_super
+H5Tget_tag
+H5Tis_variable_str
+H5Topen2
+H5Tset_cset
+	H5Tset_order
+	H5Tset_size
+	H5Tset_strpad
+<	H5Zfilter_avail
+	H5close
+	H5free_memory
+	H5open
+	HDfprintf
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_close
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_open
+_read
+_strdup
+_unlock
+_vsnprintf
+_write
+abort
+atoi
+atol
+calloc
+exit
+fclose
+feof
+ferror
+fflush
+fopen
+fprintf
+fputs
+free
+fscanf
+fwrite
+getenv
+isprint
+malloc
+memcpy
+memmove
+memset
+perror
+printf
+putc
+putchar
+puts
+realloc
+signal
+sprintf
+strcat
+strchr
+strcmp
+strcpy
+strlen
+strncmp
+strncpy
+strstr
+strtok
+strtol
+tmpfile
+vfprintf
+vprintf
+libhdf5-9.dll
+KERNEL32.dll
+msvcrt.dll

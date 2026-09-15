@@ -1,0 +1,719 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+SQLManageDataSources
+RSDS_qh^
+odbcad32.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+%`@@
+D$LPh0
+D$8L
+D$lPhL
+D$8P
+D$D+D$<j
+D$P+D$H
+_^[3
+xGSVW
+_^[]
+u#j@h
+5\3@
+h0#@
+h,0@
+5P3@
+h 0@
+j\h`&@
+=l3@
+=p3@
+t%hp3@
+5p3@
+XPVj
+=(0@
+=(0@
+5 1@
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+FreeLibrary
+LoadLibraryExW
+RegisterApplicationRestart
+GetModuleFileNameW
+HeapSetInformation
+KERNEL32.dll
+MoveWindow
+DefWindowProcW
+UpdateWindow
+RegisterClassW
+MessageBoxW
+CreateWindowExW
+ShowWindow
+LoadStringW
+GetDesktopWindow
+BringWindowToTop
+LoadIconW
+FindWindowW
+SetForegroundWindow
+GetLastActivePopup
+IsIconic
+OpenIcon
+GetWindowRect
+DestroyWindow
+USER32.dll
+_wsplitpath_s
+_wmakepath_s
+_XcptFilter
+__p__commode
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+_ismbblead
+__setusermatherr
+_initterm
+_acmdln
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+Sleep
+GetStartupInfoA
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+GetSystemDirectoryW
+GetProcAddress
+_vsnwprintf_s
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"  xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+    <assemblyIdentity
+            processorArchitecture="x86"
+            name="ODBCAD32"
+            version="6.0.0.0"
+            type="win32"/>
+    <description>Microsoft ODBC Administrator</description>
+    <!--Identify the application security requirements-->
+    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+        <security>
+            <requestedPrivileges>
+                <requestedExecutionLevel
+                        level="highestAvailable"
+                        uiAccess="false"/>
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+    <asmv3:application>
+       <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+            <autoElevate>true</autoElevate>
+       </asmv3:windowsSettings>
+    </asmv3:application>
+    <dependency>
+        <dependentAssembly>
+          <assemblyIdentity
+              type="win32"
+              name="Microsoft.Windows.Common-Controls"
+              version="6.0.0.0"
+              processorArchitecture="*"
+              publicKeyToken="6595b64144ccf1df"
+              language="*"
+          />
+        </dependentAssembly>
+    </dependency>
+</assembly>
+wwwwx
+wwwwwwwp
+wwwwwwwwwx
+wwwwwwwwwwww
+wwwwwwwwwwwww
+wwwwwwwwwwwwwww
+wwxwwwwwwwwwwwwww
+wwwwwwwwwwwwxwxp
+wwwwwwwwwwwwwwwp
+wwwwwwwwx
+wwwww
+wwwx
+wwwww
+wwwwwwww
+wwwwwwww
+wwwwwwwww
+wwwwww
+wwwwwww
+wwwwwwww
+wwwwwwww
+xwwww
+wwwx
+ffffffffffffffffffff
+wwwwwwwwwwwwwwwwwwwv
+wwwwwwwwwwwwwwwwwwwv
+wwwwwwwwwwwwwwwwwwwv
+ffffffffffffffffffff
+wwwwwwwwwwwwwwwwwwwwwp
+wwww
+wwwwww
+wwwwwwww
+wwwwwwwwww
+wwwwwww
+wwwww
+wwww
+wwwwwwww
+wwwww
+ffffffffffffff`
+gwwwwwwwwwwwww`
+gwwwwwwwwwwwww`
+gwwwwwwwwwwwww`
+ffffffffffffff`
+wwwwwww
+wwwwwww
+wwwwwww
+wwwww
+wwww
+wwwx
+ffffffffgwwwwwwvgwwwwwwvffffffff
+}=!0
+iC4444!
+wH44844440!!
+wDCCCCC>884444##
+n[CCFHHFCCCCC>844444
+xxxx
+wHDHH`b`HHHHHFCCCC>88444
+nHHbbnnnlbbbb`HHHHFCCCCC8888
+xinxx
+xxxxnnnnlbbbb[HHHDCCC>888
+xxxwnnnibbb4
+HDCCCC88
+xxxnnni[kk
+FFDCCCC
+wxxxxxxx!
+xxxnn[
+FHDCCCD8nnxxxxxxD
+xxx[
+HHix
+nnwwnnn[
+b88b
+nnnnn[
+b848CCC
+wibb[
+nw$$Dbb[HHHC
+8C8D
+wF[iv
+wwwbbb[[[H
+448C8b
+w[nx
+xxxwwwnnib!
+!444=8vV
+ww$$w
+wbbH
+!048C[
+wibbH[H!
+!!8T
+vibnlbb[[[bC!
+Db`[[HH[H!
+ibb[aiw
+a[[[w
+)))))))))))))))))))))))))))))))))))))))))
+)***+,,,,-.///<<KKLLLMNNNNQQQQQQQQQQQQQQ)
+)***+,,,,-.///<<KKLLLNNNNNQQQQQQQQQQQQQQ)
+)***+,,,,-.///<<KKLLLMNNNNPQQQQQQQQQQQQQ)
+)))))))))))))))))))))))))))))))))))))))))
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+\7****
+Z55555-***
+b>>>>>><555--*
+lhnn
+bZZ___^ZZZ>>><55/-*
+nillT
+hxnnnnhhb__ZZZ<<<55/-
+nhlhT
+|nnhh__Z
+*>>5-*
+hhhhT
+||xnhhT
+ZZddZ7nbbhT
+|{x|b
+|hZ7n|i^T
+55-55
+-Z||T
+n_ZZ
+ZZZZT
+**5bT
+Z_hn|||{{{xih_Z-
+|bi_bb
+xihZTT-
+|lbT
+TZTT7-7x
+|{nn
+ZTZZZbv
+ !!!%&&11@AAAEEEIJJJJJJ
+!!!%&&11@AAAEEEIJJJJJJ
+!!!%&&11@AAAEEEEJJJJJJ
+&&&&&&
+------A
+B$4)##*)(%##
+##B$4@?>=<:9863.)#B$$10,*)(%#####;B$$B2
+22BB$$BB7"
+"7BBBB$$B222B222B222BB$$DDDDDDDDDDDDDD$
+IHDR
+IDATx
+{43;
+Uyb%
+@53^
+h.q^
+yVxi
+AWH'Z*
+[`fv
+.&&F@
+AK_^
+N03;
+~]xe
+xV@5
+_K:2
+J3~7Z
+7uO}1
+'	Sg
+:'0 
+"z-- e"
+T55g
+Bvu`G
+j|eC
+1@S>+t
+ LOW
+3eWi
+k(Kx
+UTQw
+V`fI
+LtXX&
+6Mlr
+L9lzH
+2vn6D
+L<Vv>
+k"e>
+$J;cN
+=0mt
+8-%P
+_')R
+/\T*
+td+Y]>F
+TEyY5
+=;&o
+tS!3
+<bDN
+	tcX)i
+rF6g8
+3-S*
+v6fn
+X"cR
+CTvv
+iqSF
+cAjM
+{>	*
+Ww^1<',
+n]IN)
+bFy)
+5X}C
+\aW96
+7.@v
+(P`#cm&
+\N(\
+A.%6*
+~yc]
+Xt\T<
+B`=_z
+133C__
+={8{
+$F)E
+284Dgg
+$I8q
+tuuQ
+T*tuu111
+T:;8
+CG8x
+~&FG
+2nEww7
+,,,0??
+WYXX
+)CWW
+}	T#
+K+@Q
+nz{{3C
+IDAT
+_\ffv
+tww;
+%:::
+ed|L
+0,!Je"
+!dLoo
+Lod2;3
+.:;:
+QoPo4
+W^aii
+G,--9Z
+G&+}2;3
+X\\dvv
+`KKK,--
+Z#bi~
+LNNr
+`xp 
+!:;;
+U]\(
+WJef
+29>F9
+fg87;
+7BP*
+nS.!
+l,4Y
+XZZB)
+o164
+DR.)
+>}MkW)
+p-R*
+=Jog
+wn',
+?ihyi
+A@OW'c
+a>};ld
+e/8'
+z=B)XXX
+%:+%*a
+Q7,	
+8W!#
+Q)1:4
+;NX*144B
+3ggy
+\.Q*
+$c)h
+FH)I
+KT*eJa
+ladh
+$Rfb
+JGYox
+H__/R
+  4.
+s{yg
+SS[9t|
+kwl_k?i
+>K`E
+Lnbrl
+pnAh6
+jbq[
+Eab	
+d&_E~-
+cMt|
+azLh
+M,A!U
+8f`p
+-377
+L+)O
+-@8W
+$DqD
+DJJe
+&Otm2
+1::*,-.s
+<&N'A
+A(Bm
+w.A&	
+#w$<
+tv 	
+:&PN
+J (	DPBf
+Y\\d~v
+"sO)
+P.Iw
+!t,"
+MgF.
+!GkIx
+JAH(
+$FIL
+w:}^
+^SzU
+J17;
+$IBX*
+1>^c
+IIO].I
+@oGn
+bvvNk|
+c/--
+L(%Z
+,..P
+tvt0?7
+rW*J
+TRBO
+	Ys7
+q@,CB
+T!Pz
+=w22
+^dcc
+1Z$0
+R"EH
+IDAT
+4fE9
+_gyq
+^  ?
+89uJ
+VXX^
+$IXZJ
+8;=M
+-[PIBwO/
+a~312s
+0~`x
+gL{k	
+nkMU
+5+8}
+!H2}]0<:
+/2:6N
+ZkmH
+0q`m\!
+9uRo.*
+	Jee
+?z?3g
+	6MN
+*BoN
+yQbb
+Vzzz}
+Y^ne
+//2}n
+Rf7w
+sip5'$
+D)E),e,
+G	dC
+%X3q
+HXfSF
+J}u2
+B`MX
+FP+s
+1:>F__
+8&jD$q
+	<a`
+K=S'
+2a)4
+xk@)
+{f9d
+_)	Z
+O7[]~$_e
+r&yFX(
+u|W'
+D0>1
+c~=@f$
+j*	6
+T,bvZ
+P;U(`F]
+LFO""
+R,_1
+=}X98
+Vkr+
+y[V#O)"
+f033
+===X54
+Y)95y
+J3k&
+[/>_
+2MW;
+011a
+kuT+edr
+~LNL
+K(W*D
+{z1t
+)LLL`rb
+K/azf
+2y$D
+BL'R
+=}=8}j
+~tGe
+D8iP-D
+M5"p
+>!}X
+51;7
+s;^=t
+71S/bzf
+hNT:H
+YnM)
+w|"e
+V`*'
+V&IF
+9Z:H
+3tm"i?Y
+v{uS
+,vOu
+ALMN
+Sc8w
+%K0|
+`IG;
+iLOMKM
+S|u~"
+J;3e
+6eJlq
+kY)	
+f055
+~wo7
+@=%x
+P$&1
+LivvN
+F(zz
+GWo7
+hooG__
+cS4(
+0](`
+zz{  p
+^G{{;
+  j?
+lT7L
+ lUP
+IDAT
+: 	3
+E51	&
+Ylc3
+LFBq~
+2fgf
+	&y)
+ <m.
+?7~M+%
+@J.A
+3K_k-
+H @tO
+D+tAOIK
+W=7*
+u}.V
+z*ld
+HmHX
+QS$r
+N:/^v
+z(Ga`
+pl}.
+yNPO5
+}~5+%9V
+h8@`
+PtAN
+0&]G
+u.A[
+G`Tv
+UNfI'
+0|%a
+{Mm|v
+SQYV!0p'
+hb('
+-c(T*
+86vA
+wU_"
+l>g4
+@4M&
+b{MAo
+S`vwZ
+=J?N
+tJ3c6~]
+DSV80O
+CIE7
+6 eq
+Ntuu
+;$ ;
+V7E,
+>S9}#
+nCaj
+y1	$
+$V=$
+Sg )
+>j,_
+2$xne
+EQN1
+S`w[
+9o2D
+}ncp
+5N<-
+es9d
+^<[@
+yPF@
+mvfz
+wbR8w
+mcRHg#
+i|F.
+Yd3YDq
+zBA+llw
+6=RRn
+M3}b
+qRk54i
+{N_&
+09qi
+pidtwf
+T@"c
+FFwg
+-LNN
+e Nq
+e:<T
+>vT|W-
+rIDAT
+J(LN
+" $gp;
+G'/^|
+xo,-2
+qwS$K
+8rX:
+xo>Z
+T<=q
+EzCh
+9yC+
+IEND
+]VM	ibX?ng\mjcZ7
+ph^	og]
+jcYPunc
+{ti[ng^
+ph^-vncw{sh
+{uj2
+wocC|sh
+yrhxMG@
+^XP/
+?;6E
+g_U0og]jqi_I
+wod0ypeZumb{wpd
+~sr{tj
+xm	tla&|sg_
+e^U8
+TOHE
+0P0T04585@5H5
+7)8/8a8x8
+9$979K9P9W9r9}9
+:$:+:6:=:`:j:~:
+<2<><J<k<s<
+=H=T=Z=g=}=
+>!>&>+>0>6>>>b>y>
+?$?,?4?J?R?Y?
+0Q0t0
+1#1*11181?1G1O1W1c1l1q1w1
+192Q2W2f2r2
+5(505K5Z5e5
+6X6t6x6

@@ -1,0 +1,139 @@
+"""
+Tier-aware shaped reward for hybrid PE mutation RL.
+
+Four components:
+  R_score  — score-reduction shaping + efficiency-scaled evasion bonus
+  R_size   — penalizes file-size bloat from overlay/section actions
+  R_tier   — encourages multi-surface perturbation (structural + API + code)
+  R_func   — penalizes mutations that break binary's core functionality
+"""
+
+import inspect
+
+from proposed.actions.integrity import check_functional_integrity
+from proposed.actions.modifier import ACTION_TIER, NUM_TIERS
+
+# ── defaults (overridable via constructor) ────────────────────────────────────
+DEFAULT_BONUS = 10.0
+DEFAULT_LAMBDA_Q = 0.1     # query-efficiency scaling on bonus
+DEFAULT_LAMBDA_S = 0.5     # size-penalty weight
+DEFAULT_LAMBDA_D = 1.0     # tier-diversity bonus weight
+DEFAULT_LAMBDA_F = 15.0    # functional-integrity penalty weight
+
+
+def _default_check_func(binary, action_name=None, action_context=None):
+    """Use legacy behavior without context, hybrid integrity with context.
+
+    Old callers did not supply action metadata, so they remain compatible.
+    """
+    if action_name is None:
+        return True
+    return check_functional_integrity(binary, action_name, action_context)
+
+
+def _call_check_func(check_func, binary, action_name, action_context):
+    """Invoke context-aware checkers while preserving one-argument checkers."""
+    try:
+        inspect.signature(check_func).bind(binary, action_name, action_context)
+    except (TypeError, ValueError):
+        return check_func(binary)
+    return check_func(binary, action_name, action_context)
+
+
+class TierAwareReward:
+    """Compute reward for one episode step.
+
+    Parameters
+    ----------
+    R_bonus    : float  – base reward for successful evasion
+    lambda_q   : float  – fraction of bonus deducted per turn used
+                          (reward = R_bonus * (1 - lambda_q * t/T_max))
+    lambda_s   : float  – weight for file-size inflation penalty
+    lambda_d   : float  – weight for tier-diversity bonus at episode end
+    lambda_f   : float  – weight for functional-integrity penalty
+    check_func : callable – returns True when binary is functionally valid
+    """
+
+    def __init__(
+        self,
+        R_bonus=DEFAULT_BONUS,
+        lambda_q=DEFAULT_LAMBDA_Q,
+        lambda_s=DEFAULT_LAMBDA_S,
+        lambda_d=DEFAULT_LAMBDA_D,
+        lambda_f=DEFAULT_LAMBDA_F,
+        check_func=None,
+    ):
+        self.R_bonus = R_bonus
+        self.lambda_q = lambda_q
+        self.lambda_s = lambda_s
+        self.lambda_d = lambda_d
+        self.lambda_f = lambda_f
+        self.check_func = check_func if check_func is not None else _default_check_func
+
+    def __call__(
+        self,
+        score,
+        original_score,
+        threshold,
+        turn,
+        maxturns,
+        original_size,
+        current_size,
+        binary,
+        tiers_used,
+        action_name=None,
+        action_context=None,
+    ):
+        """
+        Returns
+        -------
+        reward      : float
+        episode_over: bool
+        """
+        # ── 1. Score component ────────────────────────────────────────────────
+        if score < threshold:
+            efficiency = 1.0 - self.lambda_q * (turn - 1) / maxturns
+            r_score = self.R_bonus * max(efficiency, 0.1)
+            episode_over = True
+        elif turn >= maxturns:
+            r_score = float(original_score - score)
+            episode_over = True
+        else:
+            r_score = float(original_score - score)
+            episode_over = False
+
+        # ── 2. Size penalty (continuous, every step) ──────────────────────────
+        if original_size > 0:
+            inflation = (current_size - original_size) / original_size
+            r_size = -self.lambda_s * max(0.0, inflation)
+        else:
+            r_size = 0.0
+
+        # ── 4. Functional-integrity penalty (every step) ──────────────────────
+        try:
+            is_broken = not bool(
+                _call_check_func(
+                    self.check_func,
+                    binary,
+                    action_name,
+                    action_context,
+                )
+            )
+        except Exception as exc:
+            import warnings
+
+            warnings.warn(f"check_func raised {exc!r}; treating binary as OK")
+            is_broken = False
+        r_func = -self.lambda_f if is_broken else 0.0
+
+        # ── 3. Tier diversity bonus (only at episode end) ─────────────────────
+        r_tier = 0.0
+        if episode_over:
+            tier_coverage = len(tiers_used) / NUM_TIERS
+            r_tier = self.lambda_d * tier_coverage
+
+        return float(r_score + r_size + r_tier + r_func), bool(episode_over)
+
+
+def get_action_tier(action_name):
+    return ACTION_TIER.get(action_name, 1)

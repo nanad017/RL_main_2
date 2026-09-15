@@ -1,0 +1,512 @@
+!This program cannot be run in DOS mode.
+RichO
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+generic
+unknown error
+iostream
+iostream stream error
+system
+NetSetupMockInstallSubordinate
+NetSetupMockUninstallSubordinate
+invalid string position
+string too long
+p0-@
+MAp}
+[w(!@
+K\F\
+%\F\
+%\0M
+NULL
+hNotifyHost != nullptr
+hNotifyObject != nullptr
+NetSetupShimExecuteInfSection
+|Wvector<T> too long
++9"G
+RSDS@
+NetCfgNotifyObjectHost.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+.data
+.data$r
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+QRj+
+PQRj+
+j6Gj
+PPWP
+_^[]
+wM9q
+VWj,3
+h '@
+t-f9
+t	f9
+t#f9
+t	f9
+QSWj
+h '@
+0_^[
+VRQh '@
+ _^]
+>Hostt
+>NObjt
+D$,VW
+L$4_^3
+Host
+D$ S
+L$,_^[3
+D$0d
+L$0d
+Y_^[
+D$tVW
+L$|_^3
+NObjQ
+D$(d
+L$(d
+PQQV
+PQQV
+D$0d
+L$0d
+D$(d
+L$(d
+PQQV
+D$(SVW
+D$@d
+L$@d
+Y_^[
+L$(3
+D$,VW
+L$4_^3
+D$0d
+L$0d
+Y_^[
+D$,VW
+L$4_^3
+Q8t"
+D$ SVW
+D$8d
+L$8d
+Y_^[
+L$ 3
+hL(@
+SVW3
+h@'@
+PQhL(@
+C f9
+KLPh,(@
+QQSQ
+QQSQ
+QQSQ
+QQSQ
+jePQQ
+jfPQ
+jgPQ
+jhPQ
+?PSV
+~_^]
+[_^]
+w19q
+j2PQ
+@<Rh<(@
+j2PQ
+@<Rh
+j2PQ
+@<Rh
+j2PQ
+@<Rh
+s8+1S
+h\(@
+_^[]
+Rhp(@
+t#h$
+Y__^[
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVHResultException@@
+.?AVexception@@
+.?AVWin32Exception@@
+.?AVbad_alloc@std@@
+.?AVlength_error@std@@
+SetErrorMode
+FreeLibrary
+WaitForSingleObject
+SetEvent
+LoadLibraryW
+GetModuleFileNameW
+GetLastError
+GetProcAddress
+CreateEventW
+RtlCaptureStackBackTrace
+HeapSetInformation
+CloseHandle
+KERNEL32.dll
+memmove
+wcsrchr
+_purecall
+??3@YAXPAX@Z
+?what@exception@@UBEPBDXZ
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+??0exception@@QAE@ABV0@@Z
+swscanf_s
+wcscpy_s
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+??0exception@@QAE@ABQBD@Z
+??0exception@@QAE@ABQBDH@Z
+malloc
+_callnewh
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+EtwTraceMessage
+NtSetInformationProcess
+RtlReportException
+ntdll.dll
+CoUninitialize
+CoInitializeEx
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+ResetEvent
+RpcServerInterfaceGroupDeactivate
+RpcServerInterfaceGroupClose
+RpcServerInterfaceGroupActivate
+RpcServerInterfaceGroupCreateW
+NdrServerCall2
+LoadLibraryExW
+CoFreeUnusedLibraries
+CoCreateInstance
+EventWrite
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+RPCRT4.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+vswprintf_s
+free
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+ReleaseSRWLockShared
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Network.NetCfgHost"
+    type="win32"
+<description>Host Process for Network Driver Configuration Plugins</description>
+ <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"> 
+  <application> 
+   <!-- Windows 10 --> 
+   <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/> 
+  </application> 
+ </compatibility> 
+ <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+  <security>
+   <requestedPrivileges>
+    <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+   </requestedPrivileges>
+  </security>
+ </trustInfo>
+</assembly>
+0$0(0T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+0 0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1(1,10181H1x1|1
+1(2,20242
+6T9X9`9h9
+<>=G=
+=!>H>q>
+>,?5?`?g?
+020^0z0
+1>1c1q1v1
+252K2g2~2
+3-3M3X3d3
+4@4K4Y4f4
+4<5K5V5n5
+:):.:>:]:c:h:x:
+;$;P;^;
+<	<H<T<f<
+<>=_=h=
+>!>&>7>J>d>
+?"?(?A?Q?
+0i0{0
+1!1/1X1b1i1
+292\2x2
+5'585S5k5y5
+8G8S8`8
+9K9[9
+;%<[<j<
+<>=M=[=
+=g>v>
+$020y0
+0I1X1^1o1
+2R3`3y3
+3L4[4a4
+4:5Z5
+5!6/6
+<'<-<2<B<R<_<d<t<
+=+=0=@=_=e=j=z=
+>$>4>U>c>h>x>
+? ?:?W?\?l?
+0,02070G0X0r0
+1"121?1D1T1d1j1o1
+1 2.232C2b2h2m2}2
+3"3'373X3f3k3{3
+4#4=4Z4_4o4
+5/555:5J5[5u5
+6%656B6G6W6g6m6r6
+7#7B7H7M7]7m7z7
+888F8K8[8z8
+9:9?9O9p9~9
+:*:;:U:r:w:
+;";';7;G;M;R;b;s;
+<"<(<-<=<M<Z<_<o<
+=!=B=P=U=e=
+>'>D>I>Y>z>
+?$?4?E?`?}?
+0 0-020B0R0X0]0m0~0
+1-13181H1X1e1j1z1
+202R2
+3E3S3f3
+5H5S5
+566>6L6Z6_6
+7@7K7
+8%8s8{8
+8+939A9O9T9
+97:B:
+;J;R;`;n;s;
+;a<l<
+<#=.=t=|=
+=(>0>>>L>Q>
+0o1+262e2r2z2
+353@3o3|3
+4;4m4r4
+5?5q5v5
+616c6h6
+757g7l7
+898k8p8
+9A9L9
+:$:F:x:}:
+;(;I;~;
+2 2%262O2g2t2
+3-3H3U3Z3s3
+4=4[4y4
+475U5p5
+667W7e7
+9'9=9F9P9Y9c9o9u9|9
+:%:G:R:d:l:q:v:
+;#;B;H;R;X;a;f;
+<5<=<a<j<
+=*=x=
+>(>4>@>
+>7?l?
+0!0'0
+1(111F1[1h1p1
+1"2'2C2L2W2^2u2{2
+3 30363A3G3S3c3l3
+485S5s5
+6;6x6
+6,7L7l7
+848T8t8
+9<9\9|9
+; <@<H<P<X<`<l<t<
+=4=<=D=L=T=\=d=l=t=
+><>D>L>X>x>
+?(?4?T?\?h?
+04080T0X0t0x0
+14181T1X1t1x1
+24282H2P2
+3$3,343<3D3L3T3\3l3x3
+4L4T4\4d4l4t4|4
+5$545@5H5h5
+6$6,646<6D6L6T6\6l6x6
+7L7T7\7d7l7t7|7
+8$848@8H8|8
+9$9,949<9D9L9T9d9p9x9
+:D:L:T:\:d:l:t:|:
+;$;4;@;H;|;
+<$<,<4<<<D<L<T<d<p<x<
+=(=0=8=@=H=P=\=d=
+>4>8>D>L>
+?,?0?L?P?l?p?
+0<0D0L0T0`0
+1 141<1P1X1`1h1l1p1x1
+2$2(2D2H2P2X2`2t2|2
+0<0\0|0

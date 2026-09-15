@@ -1,0 +1,832 @@
+!This program cannot be run in DOS mode.
+BRich
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+__TESTCODE__
+1000
+second
+minute
+hour
+week
+incoming calls
+disconnections
+IDLE
+OFFERING
+ACCEPTED
+DIALTONE
+DIALING
+RINGBACK
+BUSY
+SPECIALINFO
+CONNECTED
+PROCEEDING
+ONHOLD
+CONFERENCED
+ONHOLDPENDCONF
+ONHOLDPENDTRANSFER
+DISCONNECTED
+UNKNOWN
+<SUCCESS>
+ALLOCATED
+BADDEVICEID
+BEARERMODEUNAVAIL
+CALLUNAVAIL
+COMPLETIONOVERRUN
+CONFERENCEFULL
+DIALBILLING
+DIALDIALTONE
+DIALPROMPT
+DIALQUIET
+INCOMPATIBLEAPIVERSION
+INCOMPATIBLEEXTVERSION
+INIFILECORRUPT
+INUSE
+INVALADDRESS
+INVALADDRESSID
+INVALADDRESSMODE
+INVALADDRESSSTATE
+INVALAPPHANDLE
+INVALAPPNAME
+INVALBEARERMODE
+INVALCALLCOMPLMODE
+INVALCALLHANDLE
+INVALCALLPARAMS
+INVALCALLPRIVILEGE
+INVALCALLSELECT
+INVALCALLSTATE
+INVALCALLSTATELIST
+INVALCARD
+INVALCOMPLETIONID
+INVALCONFCALLHANDLE
+INVALCONSULTCALLHANDLE
+INVALCOUNTRYCODE
+INVALDEVICECLASS
+INVALDEVICEHANDLE
+INVALDIALPARAMS
+INVALDIGITLIST
+INVALDIGITMODE
+INVALDIGITS
+INVALEXTVERSION
+INVALGROUPID
+INVALLINEHANDLE
+INVALLINESTATE
+INVALLOCATION
+INVALMEDIALIST
+INVALMEDIAMODE
+INVALMESSAGEID
+INVALPARAM
+INVALPARKID
+INVALPARKMODE
+INVALPOINTER
+INVALPRIVSELECT
+INVALRATE
+INVALREQUESTMODE
+INVALTERMINALID
+INVALTERMINALMODE
+INVALTIMEOUT
+INVALTONE
+INVALTONELIST
+INVALTONEMODE
+INVALTRANSFERMODE
+LINEMAPPERFAILED
+NOCONFERENCE
+NODEVICE
+NODRIVER
+NOMEM
+NOREQUEST
+NOTOWNER
+NOTREGISTERED
+OPERATIONFAILED
+OPERATIONUNAVAIL
+RATEUNAVAIL
+RESOURCEUNAVAIL
+REQUESTOVERRUN
+STRUCTURETOOSMALL
+TARGETNOTFOUND
+TARGETSELF
+UNINITIALIZED
+USERUSERINFOTOOBIG
+REINIT
+ADDRESSBLOCKED
+BILLINGREJECTED
+INVALFEATURE
+NOMULTIPLEINSTANCE
+ADDRESSSTATE
+CALLDEVSPECIFIC
+CALLDEVSPECIFICFEATURE
+CREATEDIALOGINSTANCE
+CLOSE
+DEVSPECIFIC
+DEVSPECIFICFEATURE
+GATHERDIGITS
+GENERATE
+LINEDEVSTATE
+MONITORDIGITS
+MONITORMEDIA
+MONITORTONE
+CREATE
+REMOVE
+SENDDIALOGINSTANCEDATA
+BUTTON
+STATE
+ESPServiceThread: enter
+ESPevent
+esplpc
+ncalrpc
+RpcStringBindingCompose failed: err=%d, szNetAddr='%s'
+RpcBindingFromStringBinding failed, err=%d, szBinding='%s'
+ESPServiceThread: waiting for esp init event
+ESPServiceThread: esp init event signaled, EXCEPTION while trying to attach to esp
+ESPServiceThread: esp init event signaled, attached to esp
+ESPServiceThread: EXCEPTION while calling ESPGetDebugOutput()
+ESPServiceThread: EXCEPTION while calling ESPGetWidgetEvents()
+TSPIVersion
+AutoClose
+NumLines
+NumAddrsPerLine
+NumCallsPerAddr
+NumPhones
+DebugOutput
+Completion
+DisableUI
+AutoGatherGenerateMsgs
+MS Sans Serif
+cxWnd
+cxList1
+Left
+Right
+Bottom
+LoadLibraryExW(tapi32.dll) failed, err=%d
+lineAddProvider
+lineGetProviderList
+lineRemoveProvider
+GetProcAddr(tapi32,lineAddProvider) failed, err=%d
+ESP (Un)Install: error, lineGetProviderList returned x%x
+esp32.tsp
+ESP Install: already installed
+ESP Install: success, ProviderID=%d
+ESP Install: error, lineAddProvider returned x%x
+ESP Uninstall: success
+ESP Uninstall: error, lineRemoveProvider returned x%x
+ESP Uninstall: not installed
+TSPI Version
+Num lines
+Num addrs per line
+Num calls per addr
+Num phones
+Default values
+ESP Defaults
+New values will not take effect until provider is shutdown and reinitialized
+htLine
+htCall
+dwMsg
+dwParam1
+dwParam2
+dwParam3
+Line event
+htPhone
+Phone event
+<under construction>
+Line%d properties
+Call state
+Call state mode
+Call x%x properties
+Phone%d properties
+lResult
+Completing request
+%s %s per %s
+ReqID=x%x
+Line%d (CLOSED)
+Line%d, hd=x%x, ht=x%x
+  hdCall=x%x, ht=x%x, %s Addr=%d
+Phone%d (CLOSED)
+Phone%d, hd=x%x, ht=x%x
+UpdateESPOptions: EXCEPTION while calling ESPSetOptions()
+Error: MyAlloc () failed
+edit
+NUL (dwXxxSize=0)
+Valid string
+0000000
+%08lx
+ffffffff
+select none
+select all
+00000000
+!e_/G
+('8PW
+700PP
+```hhh
+xppwpp
+RSDS
+espexe.pdb
+SjfP
+CShX
+j"Sj
+SWWWWh
+WPj0V
+jdh|
+VWP3
+PWWhXQ@
+tpP3
+=H}@
+PVQj
+5D}@
+5H}@
+5@}@
+tESPh
+t"SPh
+h99@
+@PhX
+h}=@
+=4}@
+50}@
+5T}@
+HtsH
++5L}@
+=<}@
++5L}@
+5@}@
+5D}@
+5H}@
+5@}@
+hX}@
+hX}@
+'uRh
+Hu6PV
+t.Ht
+'ueh
+HuIPV
+vxj 
+PGWh
+=4}@
+5p}@
+5p}@
+SShG
+5p}@
+IIt8It
+5x}@
+5x}@
+5x}@
+VVh7
+5x}@
+5x}@
+5p}@
+u@QSh
+5x}@
+5x}@
+5x}@
+5t}@
+95|}@
+5p}@
+5x}@
+SShK
+5p}@
+90tK
+5x}@
+5x}@
+SShG
+5p}@
+58}@
+=|}@
+5p}@
+@SPhN
+5p}@
+90tF
+5p}@
+5p}@
+t"Phd
+5p}@
+5p}@
+5p}@
+=|}@
+5|}@
+VVhG
+5p}@
+58}@
+=|}@
+90vR
+5t}@
+t.)M
+AHKB
+QPh,
+54}@
+FVhX
+Ph  @
+PhD @
+Phh @
+= z@
+hfa@
+jXh0d@
+SWhH
+G9=L
+XPVSh
+Y__^[
+h:Z@
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+8csm
+8csm
+h3^@
+hXd@
+t?!E
+_^[]
+hxd@
+Y_^[
+Y_^[
+v	N+D$
+UQPXY]Y[
+ABSTRACT:
+    ESP is a TAPI Service Provider that supports
+multiple virtual line and phone devices. It is
+configurable, requires no special hardware,
+and implements the entire Telephony Service
+Provider Interface (including Win95 TAPI
+extensions). ESP will work in both Windows 3.1/
+TAPI 1.0 and Windows95/TAPI 1.1 systems.
+GETTING STARTED:
+    1. Choose 'File/Install' to install ESP.
+    2. Start a TAPI application and try to make
+a call on one of ESP's line devices (watch for
+messages appearing in the ESP window).
+    *. Choose 'File/Uninstall' to uninstall ESP.
+MORE INFO:
+    *  Double-click on a line, call, or phone
+widget (in upper-left listbox) to view/modify
+properties. The 'hd'widget field is the driver
+handle; the 'ht' field is the TAPI handle.
+    *  Press the 'LEvt' or 'PEvt' button to
+indicate a line or phone event to TAPI.DLL.
+Press the 'Call+' button to indicate an incoming
+ call.
+    *  Choose 'Options/Default values...' to
+modify provider paramters (SPI version, etc.)
+    *  All parameter values displayed in
+hexadecimal unless specified otherwise (strings
+displayed by contents).
+    *  Choose 'Options/Complete async requests/Xxx'
+to specify async requests completion behavior.
+Manually-completed requests appear in lower-left
+listbox.
+ESP32
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+CloseHandle
+GetLastError
+HeapSetInformation
+WaitForSingleObject
+CreateEventA
+GetCurrentProcessId
+CreateThread
+SetThreadPriority
+ExitThread
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+LocalAlloc
+LocalFree
+WaitForMultipleObjects
+GetProfileIntA
+GetProfileStringA
+WriteProfileStringA
+KERNEL32.dll
+CreateFontA
+DeleteObject
+GetStockObject
+LineTo
+SetBkColor
+MoveToEx
+GDI32.dll
+GetMessageA
+TranslateMessage
+DispatchMessageA
+SendMessageA
+PostMessageA
+PostQuitMessage
+DestroyWindow
+ShowWindow
+SetWindowPos
+IsIconic
+CreateDialogParamA
+DialogBoxParamA
+EndDialog
+GetDlgItem
+SetDlgItemTextA
+GetDlgItemTextA
+SendDlgItemMessageA
+SetFocus
+GetFocus
+SetCapture
+ReleaseCapture
+EnableWindow
+LoadAcceleratorsA
+DestroyAcceleratorTable
+TranslateAcceleratorA
+GetSystemMetrics
+GetMenu
+CheckMenuItem
+EnableMenuItem
+DrawIcon
+BeginPaint
+EndPaint
+InvalidateRect
+SetWindowTextA
+GetWindowTextA
+GetWindowTextLengthA
+GetClientRect
+GetWindowRect
+MessageBoxA
+SetCursor
+GetCursorPos
+MapWindowPoints
+FillRect
+GetClassNameA
+GetWindow
+LoadCursorA
+LoadIconA
+DestroyIcon
+USER32.dll
+_stricmp
+strstr
+_vsnprintf
+memcmp
+_XcptFilter
+__p__commode
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+_ismbblead
+__setusermatherr
+_initterm
+_acmdln
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+RpcBindingFree
+RpcBindingFromStringBindingA
+RpcStringBindingComposeA
+RpcStringFreeA
+I_RpcExceptionFilter
+NdrClientCall2
+RPCRT4.dll
+Sleep
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoA
+RtlUnwind
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+3#363<3J3T3a3k3q3x3
+4'444<4B4H4O4V4l4r4
+5*545D5N5^5h5x5
+516B6H6S6a6g6l6r6
+7"7'70757:7C7L7Q7V7\7f7
+8-8;8i8r8
+9;9S9j9s9
+:$:/:8:J:
+;!;=;c;u;
+<2<B<S<Z<j<z<
+===M=c=i=
+?!?;?O?[?
+0"0(050I0P0\0i0|0
+1B1l1
+272?2I2V2d2j2x2
+3=3H3U3i3s3
+4$4+42494g4
+5L5Y5^5l5
+6"696R6X6q6
+727A7P7V7\7u7}7
+8$8<8I8R8_8e8m8x8
+9):S:x:
+;D;I;W;^;d;j;q;w;
+<$<;<B<L<`<i<p<
+=%=5=B=J=X=c=
+>1>=>
+>3?=?Z?`?u?{?
+070A0V0
+1b1l1x1
+2"2(2C2c2
+3$3C3N3[3a3}3
+4'4/474?4G4O4V4f4p4z4
+5	595H5Z5k5
+6V6\6b6s6{6
+7$7,757Q7X7x7
+8.858J8m8s8y8
+9F9L9\9b9
+:7:>:L:Z:`:e:k:
+;$;F;[;s;
+;#<8<><h<
+=$=9=?=G=R=g=l=r=
+=!>4>A>I>O>U>c>u>}>
+[1e1q1|1
+202E2T2_2k2q2v2
+3!3.34393G3N3a3g3s3y3
+5 5%5G5\5
+686=6]6b6
+7#7/757B7X7a7k7t7~7
+8E8\8|8
+9"969;9y9
+:<:Q:n:
+;#;8;];i;u<U=]=t=l>|>
+0=0Q0W0
+1/1D1Q1Y1z1
+2$2.282B2K2P2U2Z2_2g2o2
+2O3X3
+4$4(4D4H4P4T4l4p4
+0$0,040<0D0L0T0\0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+9$9,949<9D9L9T9\9d9l9t9|9
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+\}0Z
+1L0J
+ http://www.microsoft.com/windows0
++o,:
+XC('W
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120726032409Z0#
+o8+^
+45"M
+Sjl!
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1L0J
+ http://www.microsoft.com/windows0
+%p)%v
+i19q
+ a%(
+20120726032411.786Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213540Z
+130409214540Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service0
+E;k+z!-@
+ *Er
+Ahu#
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+	5:L
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7D2E-3782-B0F71%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120726002814Z
+20120727002814Z0t0:
+1,0*0
+1(0&0
+i;Z%
+xR(@/
+ 19Z
+`KZc~5
+!n v
+(vR)t
+$_g{Mx 
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+}1l6

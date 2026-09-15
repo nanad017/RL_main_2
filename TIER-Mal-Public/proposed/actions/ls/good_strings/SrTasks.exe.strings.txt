@@ -1,0 +1,891 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+@USVWAUAVAWH
+D!mHE3
+D9mHt<H
+9}@vjL
+UPL9
+;}@s>
+9]@v
+;]@r
+`A_A^A]_^[]
+UVWATAUAVAWH
+L$HE
+D!t$03
+D!t$HH
+L$8f
+D$LE
+\$8f
+D$LH
+\$8f
+D$LH
+\$8f
+D$@H
+D$ H
+\$@H
+L$L;
+9t$0
+\$@H
+L$0H
+t$ E
+t$Hf
+t$HH
+\$@H
+\$8H
+M H3
+A_A^A]A\_^]
+9_Xv H
+;_Xr
+UVWATAUAVAWH
+;]@r
+pA_A^A]A\_^]
+@USVWATAUAVAWH
+l$ L
+l$pL
+l$0L
+l$xM
+D$8W
+l$8H
+D$<E
+L$ f
+D$<L
+D$(3
+\$(L
+L$xL
+l$8H+\$ L
+T$pf
+D$<H
+D$<A
+D$xH
+<$I#
+D$0H
+D$pH
+L$0L
+\$8H
+A_A^A]A\_^[]
+@USVWAWH
+!uD!u8!u<H!uHH
+H!u0H
+D$ H
+H+EHH
+pA__^[]
+|$ UAVAWH
+A_A^]
+x UH
+L$pA
+|$hA
+|$P@
+|$X@
+\$pf
+|$pH
+T$hf
+D$tH
+L$df
+T$\f
+D$tH
+D$Tf
+D$tH
+T$4H
+L$Pf
+D$tL
+D$HH
+T$@H
+L$`f
+D$tL
+D$1H
+T$XH
+D$tL
+D$hA
+D$<3
+\$pH
+t$fE9
+\$0H
+D$(L
+L$ D
+t$fE9
+\$@L
+T$0H
+D$(L
+L$ D
+L$ D
+t"fA9:u
+fA9<Bu
+fA9:H
+|$PH
+L$@H
+\$8L
+T$0D
+\$(H
+\$pH
+\$0H
+@USVWAWH
+rzL9E8rt
+pA__^[]
+UWATAUAWH
+D$4H
+D$(H
+D$49|$ 
+\$(H;C(
+H;C0
+D$pH
+T$pH
+x;fD
+;|$ s
+D$6H
+L$ H
+\$0H
+M0H3
+A_A]A\_]
+UVWATAUAVAWH
+D$ H
+]wI;
+u2I;
+D$ L
+9}ov6D
+;Uor
+tfHi
+EofD
+A_A^A]A\_^]
+UATAUAVAWH
+|$8H
+|$@E
+D$LH
+D$LH
+D$8L
+D$ H
+\$8H
+\$8H
+\$8H
+L$8H
+T$@E3
+D$LD9|$@
+D$LH
+\$ A
+D$LA
+D$LD
+|$H3
+D$ H
+D8|$1tzE
+T$0A
+D8|$0tS
+L$8H
+t$HH
+\$8H
+A_A^A]A\]
+D$HH
+\$8L
+D$8H
+\$@H
+@USVWAVAWH
+L$0D
+!E@3
+H!}XH
+\$hH
+D$jH
+D$zf
+D$~M
+!D$0L
+D$43
+L$hH
+D$xf
+D$ L
+D$4H
+D$4H
+D$43
+t$0f
+D$6H
+A_A^_^[]
+UVWAVAWH
+D!u0E3
+9u0t/I;
+`A_A^_^]
+@USVWATAVAWH
+UXE3
+D8e@u
+D$ H
+L98v
+D$(H
+D9fXv&H
+;^Xr
+A_A^A\_^[]
+D8eHt
+t$ WAVAWH
+fD94Qu
+A_A^_
+UVWATAUAVAWH
+D$ A
+D$ M
+D$ H
+D9mwv
+;]wr
+A_A^A]A\_^]
+UVWH
+H!}(E3
+u(H;
+`_^]
+x UH
+D$(L
+M#E3
+D$(L
+UVWH
+EgE3
+L$ A
+D$$H
+D$$H
+\$pH
+t$ UWAVH
+D$(H
+A^_]
+L$ UVWH
+D$(H
+p_^]
+L$0A
+\$0f
+D$4A
+D$4H
+D$ H
+t$@H
+\$0H
+l$8H
+t.SH
+t8SH
+t)SH
+sPH9s`t/
+9sXv
+;{Xr
+sXH9
+\$0H
+t$8H
+D$0L
+T$(H
+D$ A
+UVWAVAWH
+D$hD
+t$p3
+|$4H
+t$0f
+D$4H
+D9t$pt
+L$hD
+t$0f
+|$hH
+D$4D
+D$6H
+\$(L
+t$0D
+D$4H
+D$6H
+\$(H
+D$ L
+t$0D
+D$4H
+D$6H
+\$(H
+D$ L
+\$0H
+A_A^_^]
+x UH
+L$b3
+\$ f
+t$ H
+D$$D
+T$`H
+t$ H
+L$`f
+D$$H
+\$ f
+\$ H
+L$r3
+|$pA
+\$0f
+|$0A
+D$4H
+T$pf
+|$0H
+L$pf
+D$4H
+@USVWAVAWH
+D$0H
+A_A^_^[]
+UVWH
+E/H!]'H
+D$0H
+M7H3
+UWAVH
+D$ E3
+] I;
+pA^_]
+\$ D
+\$@H
+x AVH
+\$0H
+t$@H
+|$HH
+\$@H
+UVWATAUAVAWH
+L$(E
+\$hA
+D$(W
+l$(f
+D$,D
+l$xA
+|$xD
+l$(f
+D$,I
+\$hD
+l$(f
+D$,I
+D$,I
+D$,A
+D$ E9nP
+D$,H
+D$,3
+D$pA9E v[I
+T$`H
+D$,H
+T$`H
+D$pA;E r
+D$ A;FP
+E(E9npvWI
+T$`A
+D$,H
+T$`H
+D$,E;~pr
+E8E9n`
+~hM9
+A;N`s~
+D$.E3
+T$`A
+D$,H
+T$`H
+D$,E;o
+D$,J
+D$,I
+t$(A
+\$hH
+|$hA
+L$xH
+MpH3
+A_A^A]A\_^]
+UWAVH
+D$ D
+D$(H
+E'I;F0u
+E/I;F8u	3
+M7H3
+A^_]
+UVWATAUAVAWH
+E9D$XviA
+EPE9F vC
+EPA;F r
+E;|$Xr
+`A_A^A]A\_^]
+t<D9C
+x AVH
+|$HH
+l$8H
+t$@H
+x AVH
+|$HH
+l$8H
+t$@H
+x AVH
+|$HH
+l$8H
+t$@H
+x AVH
+tDE3
+l$8H
+t$@H
+|$HH
+USVWAVH
+L!6H
+pA^_^[]
+L$XE
+|$PH
+|$XL
+L$Pf
+D$\L
+|$XL
+L$Pf
+D$\L
+\$P3
+|$XL
+L$Pf
+D$\L
+\$P3
+|$XL
+L$Pf
+D$\L
+\$P3
+|$XL
+L$Pf
+D$\L
+\$P3
+|$Xf
+D$\L
+C|H9}
+|$XH
+D$\H
+|$XE3
+D$\H
+D$\A
+|$@H
+|$0E3
+\$(E3
+|$Xf
+D$\H
+\$XH
+|$ UH
+D$ #
+UVWATAVH
+\$(L
+d$ H
+d$ H
+M'H3
+A^A\_^]
+t!fA9
+\$pH
+\$hI
+T$`L
+\$XL
+T$PL
+\$HL
+T$@L
+D$8L
+D$0H
+L$(I
+L$ D
+D$(L
+L$HL
+D$@L
+L$8L
+D$0L
+T$(A
+T$hL
+L$`L
+T$XL
+L$PL
+D$HL
+D$@H
+T$8H
+D$0H
+L$ I
+l$8H
+\$0H
+t$@H
+x AVH
+D$8D
+L$0L
+L9s(tLH
+L$ I
+fD9s
+A L9s
+l$XH
+t$`H
+|$hL
+\$PH
+@SUVWAVAWH
+D$XH
+L$4E
+D$@I
+D$4D
+t$8D
+D$0E
+D$(A
+L$XH3
+hA_A^_^][
+@USVWATAVAWH
+|$@H
+|$PM
+L$PA
+D$8H
+L$0I
+D$(H
+D$PD
+L$@H
+L$0H
+A_A^A\_^[]
+L$ E
+D$$H
+D$ W
+D$&3
+\$ H
+\$pH
+@USVWATAUAVAWH
+D$xL
+D$`H
+D$ A
+D$hL
+D$(W
+L$xf
+D$(A
+L$`H
+D$pH;
+L$`H
+fD9$Xu
+d$(f
+D$ A
+D$xD
+\$(H
+A_A^A]A\_^[]
+|$ UH
+\$0H
+\$8L
+D$0H
+\$(H
+x UH
+\$ L
+USVWATAVAWH
+D$ M
+D$ H
+A_A^A\_^[]
+h UAVAWH
+A_A^]
+|$ H
+|$ E
+D$ H
+ waH
+x3fD
+USVWATAVAWH
+EPD9}@
+A_A^A\_^[]
+D$ H
+T$ E3
+D$ D
+D$4H
+@SUVWH
+t$8H
+t$0H
+t$(D
+D$DH
+_^][
+\$xH
+\$0H
+|$@H
+H99t	H
+\$0H
+UWAVH
+D$h3
+D$pH
+|$8H
+t$0H
+T$8A
+L$`L
+fA9<@u
+fD94HA
+fE90u
+fE90t
+fE94@A
+D$ H
+A^_]
+UVWAVAWH
+D$XfD
+t!I;
+\$`H
+ A_A^_^]
+t#9Q
+x ATAVAWH
+w	u"fE
+\$@H
+t$PH
+|$XH
+ A_A^A\
+L$ H
+T$XH
+D$ L
+L$HD
+D$HI
+T$PL
+L$HH
+D$HH
+T$ D
+L$XH
+T$0H
+D$\H
+D$0L
+L$XH
+WATAUAVAWH
+|$pM
+t$`H
+l$XH
+ A_A^A]A\_
+\$0H
+D$H3
+|$HH
+T$HH
+\$0H
+T$8D
+<P\u
+\$0H
+ve9{
+\$0H
+WATAUAVAWH
+:uJA
+\$PH
+t$`H
+ A_A^A]A\_
+WAVAWH
+t$8E3
+D$0$
+D$(A
+H!|$ H
+A_A^_
+\$0H
+` AVH
+D$ I;
+D$ H
+\$@H
+t$HH
+|$PL
+d$XH
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+`_ZN
+CheckSREnabled
+GetSnapshotsCount
+IsRpScoped
+GetRestorePointsCount
+GetBootVolumeSizeStats
+GetMainenanceTaskFrequency
+GetRegistryKeySettings
+PublishMaintenanceTasksSQM
+NULL
+_CheckRecentSPPCheckpoint
+_DeletePartialSPPGroups
+_DeleteOldSPPGroups
+_ExecuteScheduledSPPCreation
+IsSafeDocsTaskRunning
+ExecuteScheduledSPPCreation
+_ExecuteScopeRestorePoint
+GetRestorePointIndexToWaitFor
+GetTimeToWaitForRestorePointToAppear
+WaitForRestorePointToAppear
+ExecuteScopeRestorePoint
+GetAndEnsureTracingDirectory
+::DeleteFile( strTracingDirectory )
+dwErr
+SrPropStartTracing
+SrPropStopTracing
+vg5,b
+]X}G
+aSxRegReadDWORD
+SxRegReadULONGLONG
+SxRegWriteULONGLONG
+SxQueryGroupPolicy
+SxGetUniqueVolumeForPath
+::GetVolumePathName( strPath, STRING_CCH_PARAM( wszRootPath ) )
+::GetVolumeNameForVolumeMountPoint( wszRootPath, STRING_CCH_PARAM( wszVolume ) )
+::GetVolumeNameForVolumeMountPoint( wszVolume, pwszUnique, cchUnique )
+SxIsBootVolume
+SxGetBootVolume
+GetDiffAreaInfo
+SxIsShadowCopyScoped
+SxShouldCreateScopedSnapshots
+SrConvertSppGroupToSrRpProp
+SrValidateRestorePoint
+SrTranslatePath
+GetWMIBackupTask
+SxInitializeCOMSecurityForSPP
+QSxClearDifficultAttributes
+SxDeleteFile
+_GetFileAttributesTag
+sh.IsValid()
+SxSetFileAttributes
+GFAILED[TRACK]
+FAILED
+f#|Go
+SxAllocateEventTraceProp
+SxQueryTraceSession
+SxGet0XLogFileCount
+SxCompressLogFile
+SxCheckWBDiagSession
+SxMergeExtraLogs
+SxRotateLogs
+SxStartTracing
+SxStopTracing
+SxEnableTraceDefault
+SxEnableTraceCustom
+aeiouyAEIOUY
+RSDSI
+srtasks.pdb
+GCTL
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.rsrc$01
+.rsrc$02
+TraceMessage
+RegOpenKeyExW
+RegCloseKey
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+ADVAPI32.dll
+GetDiskFreeSpaceExW
+GetSystemTimeAsFileTime
+GetModuleHandleW
+GetLastError
+HeapSetInformation
+GetCommandLineW
+LocalFree
+GetTickCount64
+Sleep
+GetFileAttributesW
+DeleteFileW
+CreateDirectoryW
+KERNEL32.dll
+_wcsnicmp
+_wtol
+free
+malloc
+_callnewh
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_fmode
+_commode
+msvcrt.dll
+?terminate@@YAXXZ
+WinSqmAddToStreamEx
+NtSetInformationProcess
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+SppFreeGroupPropArray
+SxTracerGetThreadContextRetail
+SxTracerShouldTrackFailure
+SxTracerDebuggerBreak
+SPP.dll
+SRSetRestorePointW
+SRCLIENT.dll
+SrFreeRpPropArray
+SRCORE.dll
+RegQueryValueExW
+RegSetValueExW
+CreateWellKnownSid
+InitializeSecurityDescriptor
+SetEntriesInAclW
+SetSecurityDescriptorOwner
+SetSecurityDescriptorGroup
+SetSecurityDescriptorDacl
+ControlTraceW
+StartTraceW
+EnableTraceEx2
+LoadStringW
+USER32.dll
+CoTaskMemFree
+CoCreateInstance
+CoTaskMemAlloc
+CoInitializeEx
+CoUninitialize
+CoTaskMemRealloc
+CoInitializeSecurity
+ole32.dll
+CommandLineToArgvW
+SHELL32.dll
+OLEAUT32.dll
+CreateVssBackupComponentsInternal
+VssFreeSnapshotPropertiesInternal
+VSSAPI.DLL
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+CreateFileW
+DeviceIoControl
+GetVolumePathNameW
+GetVolumeNameForVolumeMountPointW
+ExpandEnvironmentStringsW
+CloseHandle
+FindFirstFileW
+FindNextFileW
+MoveFileExW
+FindClose
+_wcsicmp
+_vsnwprintf
+_vscwprintf
+EtwTraceMessage
+RtlNtStatusToDosError
+RtlGetLastNtStatus
+NtQueryInformationFile
+NtSetInformationFile
+RegisterEventSourceW
+ReportEventW
+DeregisterEventSource
+strchr
+memcpy
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"  xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+<assemblyIdentity
+    name="SrTasksLUAManifest"
+    processorArchitecture="amd64"
+    version="1.0.0.0"
+    type=""/>
+<description>SrTasks.exe</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>

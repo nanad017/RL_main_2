@@ -1,0 +1,646 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+ATUWVSH
+|$pH
+ [^_]A\H
+ [^_]A\
+WVSH
+)t$ H
+(t$ H
+0[^_
+AWAVAUATUWVSH
+D$4A
+D$PD9
+|$TH
+t$4A
+l$<;t$8
+D$@1
+D$LH
+T$HH
+D$ A
+|$PH
+|$PH
+[^_]A\A]A^A_
+D$80
+D$LH
+D$PH
+WVSH
+L$8L
+L$ E1
+t$ H
+|$(A
+@[^_
+WVSH
+|$ I
+0[^_
+WVSH
+|$ I
+0[^_
+WVSH
+|$ I
+0[^_
+WVSH
+|$ I
+0[^_
+WVSH
+|$ I
+0[^_
+D$(H
+t{~=
+AWAVAUATUWVSH
+l$ A
+x[^_]A\A]A^A_
+t$PM
+HcD$<Ic
+D$LH
++D$<
+L$ H
+WVSH
+0[^_
+0[^_
+T$HH
+T$HL
+D$PL
+L$XH
+WVSH
+ [^_
+AWAVAUATUWVSH
+l$ I
+\$|L
+T$xE1
+\$(L
+T$ D
+d$0L
+\$hL
+D$xH
+T$XL
+D$P+
+l$ L
+D$L+
+\$hL
+T$`I
+d$0L
+\$(L
+[^_]A\A]A^A_
+D$Tt2H
+T$PL
+ATUWVSH
+D$`H
+D$xH
+T$`E1
+L$PL
+D$PH
+D$XH
+[^_]A\
+T$XL
+D$HH
+D$HH
+L$HL
+D$XH
+D$XH
+D$HH
+UWVSH
+([^_]
+([^_]
+|$0H
+D$0H
+D$HH
+D$PH
+T$0H
+ATUWVSH
+)t$`
+)|$pD
+VUUUH
+(t$`
+(|$pD
+[^_]A\
+T$@L
+D$PH
+*T$T
+*L$P
+*T$\
+*L$X
+t$(f
+D$ f
+l$(f
+d$ f
+*T$T
+*L$P
+*T$\
+*L$X
+t$(f
+t$ f
+l$(f
+l$ fA
+T$8fD
+*t$X
+*L$P
+l$ f
+*D$\
+*\$X
+*T$T
+*L$P
+d$ f
+*\$H
+*T$D
+*L$@
+*D$L
+D$XH
+T$0H
+AUATUWVSH
+d$0H
+l$(I
+H[^_]A\A]
+UWVSH
+([^_]
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-Ay
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+;5Wv
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+AWAVAUATUWVSH
+l$tL
+T$tH
+t$ M
+D$PH
+D$|H
+D$8H
+L$|H
+D$xH
+L$tI
+L$xD
+D$tH
+D$(L
+t$ M
+D$xL
+|$(I
+L$tH
+D$hE1
+D$PH
+D$|H
+D$8H
+L$|H
+D$xD
+L$tI
+[^_]A\A]A^A_
+1.40.3
+pango
+%s (%s) %s
+Linked Pango library has a different version: %s
+Argument for %s must be one of %s
+%d%*[ ,]%d%*[ ,]%d%*[ ,]%d
+Argument for --margin must be one to four space-separated numbers
+none
+auto
+full
+Argument for --hinting must be one of none/auto/full
+Argument for %s must be a color name like red, or CSS-style #rrggbb / #rrggbbaa
+transparent
+Available --backend options are: %s
+%s: %s
+%s: %s (%d dpi)
+The backend does not support rotated text
+Pango backend to use for rendering 
+(default: %s)
+(only available: %s)
+(no backends found!)
+no-auto-dir
+No layout direction according to contents
+backend
+background
+Set the background color
+red/#rrggbb/#rrggbbaa/transparent
+no-display
+Do not display (just write to file or whatever)
+Set the resolution
+number
+align
+Text alignment
+left/center/right
+ellipsize
+Ellipsization mode
+start/middle/end
+font
+Set the font description
+description
+foreground
+Set the text color
+red/#rrggbb/#rrggbbaa
+gravity
+Base gravity: glyph rotation
+south/east/north/west/auto
+gravity-hint
+Gravity hint
+natural/strong/line
+header
+Display the options in the output
+height
+Height in points (positive) or number of lines (negative) for ellipsizing
++points/-numlines
+hinting
+Hinting style
+none/auto/full
+indent
+Width in points to indent paragraphs
+points
+justify
+Align paragraph lines to be justified
+language
+Language to use for font selection
+en_US/etc
+margin
+Set the margin on the output in pixels
+CSS-style numbers in pixels
+markup
+Interpret text as Pango markup
+output
+Save rendered image to output file
+file
+pangorc
+Deprecated
+pixels
+Use pixel units instead of points (sets dpi to 72)
+Set base direction to right-to-left
+rotate
+Angle at which to rotate results
+degrees
+runs
+Run Pango layout engine this many times
+integer
+single-par
+Enable single-paragraph mode
+text
+Text to display (instead of a file)
+string
+version
+Show version numbers
+waterfall
+Create a waterfall display
+width
+Width in points to which to wrap lines or ellipsize
+wrap
+Text wrapping mode (needs a width to be set)
+word/char/word-char
+- FILE
+Option parse error
+When specifying --text, no file should be given
+Usage: %s [OPTION...] FILE
+No viewer backend found
+Cannot parse input as markup: %s
+pango-view
+%s viewer backend does not support writing
+Cannot open output file %s: %s
+convert
+When running ImageMagick 'convert' command: %s
+display
+-title
+%s viewer backend does not support displaying or writing
+When running ImageMagick 'display' command: %s
+viewer-main.c
+view->id
+main
+CairoFile
+CairoImage
+annotate
+Annotate the output
+1 or 2
+Options understood by the cairo backend
+Cairo backend options:
+cairo
+viewer-pangocairo.c
+surface
+pangocairo_view_render
+PangoCairo
+?333333
+333333
+?ffffff
+?ffffff
+333333
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+pango_alignment_get_type
+pango_color_parse
+pango_context_get_base_dir
+pango_context_get_gravity
+pango_context_get_matrix
+pango_context_set_base_dir
+pango_context_set_base_gravity
+pango_context_set_gravity_hint
+pango_context_set_language
+pango_context_set_matrix
+pango_ellipsize_mode_get_type
+pango_font_description_copy
+pango_font_description_free
+pango_font_description_from_string
+pango_font_description_set_size
+pango_font_description_to_string
+pango_font_description_unset_fields
+pango_font_map_create_context
+pango_gravity_get_type
+pango_gravity_hint_get_type
+pango_gravity_to_rotation
+pango_language_from_string
+pango_language_get_default
+pango_layout_context_changed
+pango_layout_get_context
+pango_layout_get_extents
+pango_layout_get_font_description
+pango_layout_get_height
+pango_layout_get_iter
+pango_layout_get_pixel_extents
+pango_layout_get_width
+pango_layout_iter_free
+pango_layout_iter_get_baseline
+pango_layout_iter_get_line
+pango_layout_iter_next_line
+pango_layout_new
+pango_layout_set_alignment
+pango_layout_set_auto_dir
+pango_layout_set_ellipsize
+pango_layout_set_font_description
+pango_layout_set_height
+pango_layout_set_indent
+pango_layout_set_justify
+pango_layout_set_markup
+pango_layout_set_single_paragraph_mode
+pango_layout_set_text
+pango_layout_set_width
+pango_layout_set_wrap
+pango_matrix_copy
+pango_matrix_free
+pango_matrix_rotate
+pango_matrix_transform_pixel_rectangle
+pango_parse_enum
+pango_parse_markup
+pango_version
+pango_version_string
+pango_wrap_mode_get_type
+pango_cairo_context_set_font_options
+pango_cairo_font_map_new
+pango_cairo_font_map_set_resolution
+pango_cairo_show_layout
+pango_cairo_update_context
+cairo_close_path
+cairo_create
+cairo_debug_reset_static_data
+cairo_destroy
+cairo_fill
+cairo_fill_preserve
+cairo_font_options_create
+cairo_font_options_destroy
+cairo_font_options_set_hint_style
+cairo_get_line_width
+cairo_get_target
+cairo_image_surface_create
+cairo_matrix_init_identity
+cairo_move_to
+cairo_paint
+cairo_pattern_add_color_stop_rgba
+cairo_pattern_create_linear
+cairo_pdf_surface_create
+cairo_ps_surface_create
+cairo_ps_surface_set_eps
+cairo_rectangle
+cairo_rel_line_to
+cairo_restore
+cairo_rotate
+cairo_save
+cairo_scale
+cairo_set_matrix
+cairo_set_operator
+cairo_set_source
+cairo_set_source_rgb
+cairo_set_source_rgba
+cairo_stroke
+cairo_surface_destroy
+cairo_surface_flush
+cairo_surface_reference
+cairo_surface_write_to_png_stream
+cairo_svg_surface_create
+cairo_translate
+g_ascii_strcasecmp
+g_assertion_message_expr
+g_file_get_contents_utf8
+g_fopen
+g_free
+g_get_prgname
+g_option_context_add_group
+g_option_context_add_main_entries
+g_option_context_free
+g_option_context_new
+g_option_context_parse
+g_option_error_quark
+g_option_group_add_entries
+g_option_group_new
+g_printerr
+g_printf
+g_set_error
+g_set_prgname
+g_slice_alloc
+g_slice_free1
+g_spawn_async_with_pipes_utf8
+g_spawn_close_pid
+g_str_has_suffix
+g_strdup
+g_strdup_printf
+g_strdup_vprintf
+g_strerror
+g_string_append
+g_string_append_printf
+g_string_free
+g_string_insert_c
+g_string_new
+g_string_truncate
+g_object_unref
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_stricmp
+_unlock
+abort
+calloc
+exit
+fclose
+fprintf
+free
+fwrite
+malloc
+memcpy
+setlocale
+signal
+sscanf
+strlen
+strncmp
+strrchr
+vfprintf
+_fdopen
+libpango-1.0-0.dll
+libpangocairo-1.0-0.dll
+libcairo-2.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll

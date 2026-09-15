@@ -1,0 +1,847 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+'O&W
+-A	,0
+]3)	-&
+p	{$
+p	{$
+,[r-
+*.rt
+*.r(
+*.rp
+*.rT
+*.rD
+*F~Q
+*.rB
+*2rX
+*2rn
+*F~[
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3agSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+ControlService
+HiddenWindow
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+|5qW
+'The name of the computer to connect to.
+computer_name
+Display this usage information.
+Pause the service.
+Restart the service.
+Resume the service.
+#The name of the service to control.
+service_name
+Start the service.
+Stop the service.
+Version
+value
+[{0} [-computer computer_name -service service_name -(start|stop|pause|resume|restart)] [-?]
+Usage: 
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+0Value '{0}' for option '{1}' cannot be accepted.
+>Option '{0}' was specified twice. Please remove one occurence.
+"Option '{0}' is missing its value.
+Unexpected value '{0}' found.
+ Unrecognized option '{0}' found.
+No action was specified.
+NOnly one action (start, stop, pause, resume, or restart) is allowed at a time.
+Could not locate the service.
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+V	9	
+h	9	
+<Module>
+ControlService.exe
+AssemblyVersionInfo
+CommandLineParser
+Microsoft.SqlServer.Management.CommandLineParser
+ArgumentMemberInfo
+ApplicationCommandLineParser
+ArgumentAttribute
+ArgumentExpectsValue
+CommandLineArgumentException
+ValueArgumentAttribute
+FileNameArgumentAttribute
+FlagArgumentAttribute
+OptionalFileNameArgumentAttribute
+OptionalValueArgumentAttribute
+ValueListArgumentAttribute
+HiddenWindow
+Microsoft.SqlServer.Management.ControlService
+ShowException
+Program
+Keys
+SRError
+mscorlib
+System
+Object
+Attribute
+Enum
+ApplicationException
+System.Windows.Forms
+Form
+MulticastDelegate
+VersionString
+MajorVersion
+MinorVersion
+BuildVersion
+SPLevel
+ProductVersionString
+ProductNameString
+SqlEngineUsageMetricsRoleGuidString
+ProductNameBrandingString
+LongProductNameBrandingString
+ProductNameShortcutBrandingString
+VersionLocationString
+ProductVersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+ProductLicenseFile
+ProductUpdateCategory
+SqlProductFamilyCode
+ProductDiscoveryId
+SqlInstanceIDPrefix
+AsInstanceIDPrefix
+RsInstanceIDPrefix
+MaxMaintenanceVersion
+evalTimeBombValue
+currentReleaseTimeBombValue
+WerEventNameSetupMsi
+WerEventNameSetupConfig
+ASUsageMetricsRoleGuidString
+VersionBIDSHelpNamespace
+VisualStudioShellVersion
+get_VersionHelpNamespace
+VersionHelpNamespace
+ComponentName
+System.Reflection
+Assembly
+InitializeResourceManager
+System.Resources
+ResourceManager
+GetResourceManager
+GetModuleName
+GetUsage
+Tokenize
+Parse
+ValidateArguments
+TryParse
+get_Help
+showHelp
+GetMembers
+GetVersionInfo
+GetAssemblyTitle
+GetCompanyName
+GetCopyright
+GetFileVersion
+GetVersionAttribute
+AttributeType
+FindArgument
+Show
+ShowError
+ShowVersionInfo
+members
+resourceManager
+.ctor
+Help
+MemberInfo
+Info
+computerName
+serviceName
+start
+stop
+restart
+pause
+resume
+get_ComputerName
+get_ServiceName
+get_StartService
+get_StopService
+get_RestartService
+get_PauseService
+get_ResumeService
+ComputerName
+ServiceName
+StartService
+StopService
+RestartService
+PauseService
+ResumeService
+get_Description
+Name
+IgnoreCase
+Optional
+get_ValueName
+set_ValueName
+Matches
+get_IsFound
+get_IsCollection
+get_ExpectsValue
+ConsumeValue
+GetShortUsage
+GetLongUsage
+found
+ConsumeValueHelper
+GetShortUsageHelper
+GetLongUsageHelper
+Type
+ReadFromString
+description
+defaultValueName
+Description
+ValueName
+IsFound
+IsCollection
+ExpectsValue
+value__
+Exception
+System.Runtime.Serialization
+SerializationInfo
+StreamingContext
+emptyValue
+expectsMoreValues
+options
+succeeded
+Timer
+timer
+ObjectExplorer
+Microsoft.SqlServer.Management.UI.VSIntegration.ObjectExplorer
+Service
+service
+DateTime
+startTime
+TimeSpan
+maxTimeToFindService
+progressShown
+lockObject
+get_Succeeded
+OnCreateControl
+InitializeTimer
+CreateServiceObjectOnBackgroundThread
+CreateServiceObject
+ShowExceptionMessageBox
+EventArgs
+OnTick
+ShowProgress
+System.ComponentModel
+IContainer
+components
+Dispose
+InitializeComponent
+Succeeded
+Invoke
+IAsyncResult
+AsyncCallback
+BeginInvoke
+EndInvoke
+Main
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+get_DefaultValueName
+get_Usage
+get_CommandLineParserVersion
+get_CommandLineParameter_Computer_Description
+get_CommandLineParameter_Computer_Value
+get_CommandLineParameter_Service_Description
+get_CommandLineParameter_Service_Value
+get_CommandLineParameter_Help_Description
+get_CommandLineParameter_Pause_Description
+get_CommandLineParameter_Restart_Description
+get_CommandLineParameter_Resume_Description
+get_CommandLineParameter_Start_Description
+get_CommandLineParameter_Stop_Description
+ShortUsage
+Culture
+DefaultValueName
+Usage
+CommandLineParserVersion
+CommandLineParameter_Computer_Description
+CommandLineParameter_Computer_Value
+CommandLineParameter_Service_Description
+CommandLineParameter_Service_Value
+CommandLineParameter_Help_Description
+CommandLineParameter_Pause_Description
+CommandLineParameter_Restart_Description
+CommandLineParameter_Resume_Description
+CommandLineParameter_Start_Description
+CommandLineParameter_Stop_Description
+_culture
+GetString
+get_OnlyOneActionAllowed
+get_NoActionSpecified
+get_WmiTimeout
+ArgUnknown
+ArgUnexpected
+ArgDuplicated
+ArgMissingValue
+ArgCannotInterpretValue
+OnlyOneActionAllowed
+NoActionSpecified
+WmiTimeout
+resourceName
+assembly
+commandLine
+args
+commandLineArgs
+name
+info
+attribute
+value
+defaultName
+container
+prefix
+valueName
+type
+message
+innerException
+context
+state
+exception
+sender
+disposing
+object
+method
+callback
+result
+application
+arg0
+argument
+arg1
+System.Runtime.InteropServices
+ComVisibleAttribute
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyKeyFileAttribute
+AssemblyDelaySignAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyConfigurationAttribute
+AssemblyCultureAttribute
+CLSCompliantAttribute
+NeutralResourcesLanguageAttribute
+AssemblyKeyNameAttribute
+AssemblyTrademarkAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+ControlService
+GetEntryAssembly
+op_Inequality
+get_Location
+System.IO
+Path
+GetFileName
+String
+Empty
+System.Collections
+ArrayList
+get_Chars
+get_Length
+Remove
+Char
+IsWhiteSpace
+Substring
+get_Count
+RemoveAt
+RuntimeTypeHandle
+GetTypeFromHandle
+Array
+ToArray
+System.Text
+StringBuilder
+get_Message
+Append
+get_InnerException
+ToString
+GetType
+BindingFlags
+MemberTypes
+get_MemberType
+GetCustomAttributes
+Environment
+get_NewLine
+get_Name
+get_Title
+get_Company
+get_Copyright
+Replace
+get_Version
+get_Assembly
+Console
+WriteLine
+.cctor
+op_Equality
+ArgumentNullException
+get_MachineName
+IsNullOrEmpty
+AttributeUsageAttribute
+AttributeTargets
+get_CurrentCulture
+get_InvariantCulture
+Compare
+PropertyInfo
+FieldInfo
+GetValue
+IList
+get_FieldType
+Binder
+SetValue
+get_PropertyType
+TargetInvocationException
+Math
+IndexOf
+LastIndexOf
+Insert
+Microsoft.SqlServer.SString
+Microsoft.SqlServer.Common
+SqlSecureString
+TypeDescriptor
+TypeConverter
+GetConverter
+ITypeDescriptorContext
+ConvertFromString
+SerializableAttribute
+GetFullPath
+IFormatProvider
+Format
+get_Now
+set_Interval
+EventHandler
+add_Tick
+set_Enabled
+System.Threading
+WaitCallback
+ThreadPool
+QueueUserWorkItem
+AllocateServiceNoLookup
+BeginServiceLookup
+Control
+get_InvokeRequired
+Delegate
+Microsoft.NetEnterpriseServers.ExceptionMessageBox
+Microsoft.NetEnterpriseServers
+ExceptionMessageBox
+DialogResult
+IWin32Window
+ServiceState
+get_State
+Stop
+op_Subtraction
+op_GreaterThan
+TimeoutException
+Close
+Monitor
+Enter
+Exit
+ServiceControlProgress
+ShowProgressInCenterOfScreen
+StartServiceAndShowProgress
+StopServiceAndShowProgress
+RestartServiceAndShowProgress
+PauseServiceAndShowProgress
+ResumeServiceAndShowProgress
+IDisposable
+ComponentResourceManager
+SuspendLayout
+ApplyResources
+ContainerControl
+AutoScaleMode
+set_AutoScaleMode
+set_Name
+set_ShowIcon
+set_ShowInTaskbar
+ResumeLayout
+STAThreadAttribute
+SqlWorkbench.Interfaces
+Microsoft.SqlServer.Management.UI.VSIntegration
+SsmsInformation
+Microsoft.Win32
+RegistryKey
+get_TopLevelRegistryKey
+get_AppidRegistryRootName
+OpenSubKey
+Load
+MethodInfo
+GetMethod
+MethodBase
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+CompilerGeneratedAttribute
+get_FullName
+Module
+get_Module
+Microsoft.SqlServer.Management.ControlService.HiddenWindow.resources
+Microsoft.SqlServer.Management.ControlService.SR.resources
+Microsoft.SqlServer.Management.ControlService.SRError.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+%CommandLineParameter_Help_Description
+Name
+)CommandLineParameter_Computer_Description
+Name
+computerT
+	ValueName#CommandLineParameter_Computer_Valuek
+(CommandLineParameter_Service_Description
+Name
+serviceT
+	ValueName"CommandLineParameter_Service_Value8
+&CommandLineParameter_Start_Description
+Name
+start6
+%CommandLineParameter_Stop_Description
+Name
+stop<
+(CommandLineParameter_Restart_Description
+Name
+restart8
+&CommandLineParameter_Pause_Description
+Name
+pause:
+'CommandLineParameter_Resume_Description
+Name
+resume
+Microsoft SQL Server
+$Microsoft Corp. All rights reserved.
+Microsoft Corporation
+'11.0.2100.60 ((SQL11_RTM).120210-1846 )
+11.0.2100.60
+0e:\sql11_main_t\\sql\Common\SNK\SQL2003SNKEY.snk
+*Microsoft SQL Server Local Service Control
+en-US
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+WrapNonExceptionThrows
+RSDS
+ControlService.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+  <assemblyIdentity version="10.0.0.0"
+     processorArchitecture="X86"
+     name="ControlService"
+     type="win32"/> 
+  <description>Microsoft SQL Server Local Service Controller</description> 
+  <!-- Identify the application security requirements. -->
+    <asmv2:trustInfo xmlns:asmv2="urn:schemas-microsoft-com:asm.v2">
+        <asmv2:security>
+            <asmv2:requestedPrivileges>
+                <asmv2:requestedExecutionLevel
+                  level="requireAdministrator"
+                  uiAccess="false" />
+            </asmv2:requestedPrivileges>
+        </asmv2:security>
+    </asmv2:trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1D0B
+http://www.microsoft.com/sql0
+T"wR
+*tqt
+'J2c
+b	f;
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181238Z0#
+C1!!:}
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+_l0R
+1D0B
+http://www.microsoft.com/sql0
+a%w}(
+: kZ
+o&	Hoh7
+a(JE
+dc?}
+]Wn)
+0!0	
+O1&"W
+20120211181239.528Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+\}?:qze
+; E>
+Dh}p

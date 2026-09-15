@@ -1,0 +1,754 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+AVAUATUWVSH
+l$ H
+.exe
+D$&f%
+D$&f%
+`[^_]A\A]A^
+.exe
+WVSH
+ [^_
+AUATUWVSH
+<\t5</t1
+([^_]A\A]
+\$XH
+T$XL
+D$`L
+L$hH
+\$(t
+ATUWVSH
+|$pH
+D$pL
+L$xH
+|$(H
+0[^_]A\
+UWVSH
+|$hH
+T$hL
+D$pL
+L$xH
+|$(t(H
+8[^_]
+ATUWVSH
+|$hH
+T$hL
+D$pL
+L$xH
+|$(H
+|$(I
+0[^_]A\
+|$(I
+AUATUWVSH
+l$(H
+l$(I
+8[^_]A\A]
+l$(I
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+t$ I
+.exe
+ATUWVSH
+|$0M
+D$(H
+@[^_]A\
+t7E1
+t7E1
+T$,H
+D$xH
+ATUWVSH
+<=t,8
+ [^_]A\
+UAWAVAUATWVSH
+\$PH
+8\u&H
+\u1H
+9\u-O
+UXE1
+t$HH
+T$@H
+T$(H
+[^_A\A]A^A_]
+AWAVAUATUWVSH
+L$DI
+tLE1
+l$(D
+d$ L
+|$0L
+L$PA
+L$@A
+L$DA
+L$@A
+L$DA
+[^_]A\A]A^A_
+L$DI
+D$HH
+|$0H
+l$(D
+t$HH
+WVSH
+ [^_
+UWVSH
+([^_]
+WVSH
+|$ I
+WVSH
+ [^_
+\$0H
+L$(I
+AWAVAUATUWVSH
+Q0D9QP
+{P;{0
+l$0L
+;{0|
+H[^_]A\A]A^A_
+HcS0H
+WVSH
+twE1
+ [^_
+ [^_
+ [^_
+UWVSH
+([^_]
+AWAVAUATUWVSH
+D$h1
+D$hH
+x[^_]A\A]A^A_
+D$hE1
+C(E1
+T$`A
+l$dE1
+HcKpH
+D$@M
+l$0H
+T$PH
+|$(H
+D$ H
+HcS0H
+T$`A
+D$`D
+D$8H
+D$xH
+D$0H
+D$pH
+UWVSH
+([^_]
+([^_]
+WVSH
+0[^_
+T$ H
+T$$H
+0[^_
+T$$H
+L$$L
+D$(1
+WVSH
+tJHcF09
+V@Lc
+0[^_
+L$$L
+D$(1
+WVSH
+tEHcF09
+0[^_
+L$$L
+D$(1
+WVSH
+0[^_
+L$$L
+AUATUWVSH
+L$ 1
+HcL$$HcD$ H
+8[^_]A\A]
+8[^_]A\A]
+ATUWVSH
+ccXXXXXXH
+ [^_]A\
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+*!Nb
+D$ H
+D$ D
+D$ D
+D$ H
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+UWVSH
+[^_]
+[^_]
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+D$PL
+D$PL
+L$XL
+ATUWVSH
+D$(H
+D$LI
+D$8H
+P[^_]A\
+T$H1
+\$(H
+|$ A
+, core dumped
+GCC_EXEC_PREFIX
+gcc-ranlib
+x86_64-w64-mingw32
+../../../../
+4.9.4
+PATH
+liblto_plugin-0.dll
+%s: Cannot find plugin '%s'
+ranlib
+%s: Cannot find binary '%s'
+--plugin
+gcc-
+Error running %s: %s
+%s terminated with signal %d [%s]%s
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/bin/
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/libexec/gcc/
+/scratch/jwe/mxe-octave/4.2.1/w64-32/usr/x86_64-w64-mingw32/lib/gcc/
+Looking for '%s'
+  - found: absolute path
+  - failed to locate using absolute path
+  - failed: no entries in prefix list
+Convert string '%s' into prefixes, separator = '%c'
+  - add prefix: %s
+PATH
+pex_get_status failed
+WaitForSingleObject
+.com
+PATH
+CONOUT$
+CreateProcess
+.exe
+.bat
+.cmd
+SIGINT
+Signal %d
+%s: unknown signal
+%s: %s
+Interrupt
+SIGILL
+Illegal instruction
+SIGABRT
+Aborted
+SIGFPE
+Arithmetic exception
+SIGSEGV
+Segmentation fault
+SIGTERM
+Terminated
+%s%sout of memory allocating %lu bytes
+XXXXXX
+closing pipeline input file
+open temporary file
+pipeline already complete
+could not create temporary file
+pipe
+open temporary output file
+both ERRNAME and PEX_STDERR_TO_PIPE specified.
+PEX_STDERR_TO_PIPE used in the middle of pipeline
+open error file
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+XXXXXX
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+Cannot create temporary file in %s: %s
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+CloseHandle
+CreateFileA
+CreateProcessA
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeProcess
+GetFullPathNameA
+GetLastError
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTempPathA
+GetTickCount
+GetTimeZoneInformation
+GetVersionExA
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetHandleInformation
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WaitForSingleObject
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_access
+_acmdln
+_amsg_exit
+_cexit
+_close
+_dup
+_errno
+_fmode
+_get_osfhandle
+_initterm
+_lock
+_onexit
+_open
+_pipe
+_read
+_unlock
+abort
+calloc
+exit
+fclose
+fopen
+fprintf
+fputc
+free
+fwrite
+getenv
+localeconv
+malloc
+memcpy
+memset
+qsort
+realloc
+remove
+signal
+sprintf
+strcat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strncpy
+strrchr
+tolower
+vfprintf
+wcslen
+_stat64
+_strdup
+_open
+_getpid
+_fdopen
+_close
+_access
+CharLowerBuffA
+KERNEL32.dll
+msvcrt.dll
+USER32.dll

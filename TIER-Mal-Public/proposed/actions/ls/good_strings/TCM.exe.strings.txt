@@ -1,0 +1,1705 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+`Gbv5
+sX w"
+,6(#
+*f((
+z	r{
+,;(p
+3Kr&
++9	o
++9	o
+.((p
++&(p
++'	-
+*^~T
+*Rr#
+*.r-
+*jr=
+*jrI
+*jrQ
+*fr=
+jr/	
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+}#q?y'
+c4!!
+60l86 
+9m6&;
+z}sbk
+5/build and /builddefinition must be present together.
+MUnable to find a build that matches the build number and definition provided.
+>Cannot execute test run '{0}' because it is a manual test run.
+&Category name not allowed to contain !
+[Category field name {0} must exist on the test case work item and it must be a string type.
+JCategory filter can have either & conditions or | conditions, but not both
+., is an invalid character for category filter.
+Specified category is empty.
+>Clone operation {0} has failed with the following error: 
+Clone operation {0} is in progress. 
+Total test cases:   {1,4:D}
+Processed:          {2,4:D}
+Progress:           {3,4:D}%
+Started clone operation with id {0}. 
+Use /status:{0} to get progress and completion information of the operation.
+Clone operation {0} has succeeded. Summary information:
+Started on:           {1}
+Started by:           {2}
+Test cases cloned:    {3}
+Shared steps cloned:  {4}
+Completed on:         {5}
+,TCM - Test Case Management Tool, Version {0}
+Command {0} was not found
+Type tcm help <command name> for command line description.  
+When you run any tcm command, you must either specify
+/collection:teamprojectcollectionurl /teamproject:project on the command line 
+or you can specify values for these options in the tcm.exe.config file.
+Commands:
+tcm bugfieldmapping  Imports or exports the mappings of auto generated bug 
+                     fields
+tcm configs          Lists test configurations
+tcm plans            Lists test plans
+tcm run              Creates, deletes, lists, aborts, publishes,
+                     exports, or runs a group of tests.
+tcm suites           Provides operations to list and clone test suites
+tcm testenvironments Lists test environments
+tcm testcase         Imports testcases from a specified assembly or a test file
+#Configuration Created with ID: {0}.
+ /configid parameter is required.
+'Did not find configuration with ID {0}.
+:Copyright (c) Microsoft Corporation.  All rights reserved.
+xDestination suite with id {0} is not a static suite. Specify id of a static suite from a different plan for destination.
+/status parameter is required
+*Are you sure you want to delete run [{0}]?
+)/destinationsuiteid parameter is required
+!Did not find suite with id [{0}].
+Executing run: {0}
+Completed export {0}
+Starting export
+Specified file does not exist.
+Specified file already exists.
+#/mappingfile parameter is required.
+The bugfieldmapping command provides the ability to import or
+export the XML file that maps auto generated bug fields to work item
+fields.  The options available for each of these actions are listed 
+below.
+tcm bugfieldmapping /export /mappingfile:path 
+                    /collection:teamprojectcollectionurl 
+                    /teamproject:project [/login:username,[password]]
+tcm bugfieldmapping /import /mappingfile:path 
+                    /collection:teamprojectcollectionurl 
+                    /teamproject:project [/login:username,[password]]
+    
+Options available for configs command
+tcm configs /list [/querytext:query] /collection:teamprojectcollectionurl 
+            /teamproject:project [/login:username,[password]]
+EProvides help description for passed in command
+tcm help <command>
+Options available for plans command
+tcm plans /list [/querytext:query] /collection:teamprojectcollectionurl 
+          /teamproject:project [/login:username,[password]]
+The run command provides the ability to create, delete, list,
+abort, execute, export, and publish runs.  The options
+available for each of these actions are listed below.
+tcm run /delete /id:id [/noprompt] /collection:teamprojectcollectionurl 
+        /teamproject:project [/login:username,[password]]
+tcm run /abort /id:id /collection:teamprojectcollectionurl /teamproject:project  
+        [/login:username,[password]]
+tcm run /export 
+        /id:id 
+        /resultsfile:path 
+        /collection:teamprojectcollectionurl 
+        /teamproject:project 
+        [/login:username,[password]]
+        [/attachment:attachmentname] 
+tcm run /list 
+        /collection:teamprojectcollectionurl 
+        /teamproject:project
+        [/planid:id  |  /querytext:query] 
+        [/login:username,[password]]
+tcm run /create         
+        /title:title 
+        /planid:id 
+        /collection:teamprojectcollectionurl 
+        /teamproject:project
+        (/suiteid:id /configid:configid  |  /querytext:query)
+        [/settingsname:name]        
+        [/owner:owner]
+        [/build:buildnumber /builddefinition:builddefinition]
+        [/flavor:flavor]
+        [/platform:platform] 
+        [/builddir:directory]	
+        [/testenvironment:name]   
+        [/login:username,[password]]  
+        [/include]
+tcm run /publish 
+        /suiteid:id 
+        /configid:id 
+        /resultowner:owner 
+        /resultsfile:path
+        /collection:teamprojectcollectionurl 
+        /teamproject:project
+        [/title:runtitle]
+        [/runowner:owner]
+        [/build:buildnumber /builddefinition:builddefinition]
+        [/flavor:flavor]
+        [/platform:platform]
+        [/assignfailurestouser:user]
+        [/login:username,[password]]
+        [/buildverification]
+        
+tcm run /execute
+        /id:id 
+        /collection:teamprojectcollectionurl 
+        /teamproject:project 
+        [/login:username,[password]]
+Options available for suites command
+tcm suites /list [/planid:id  |  /querytext:query] /collection:teamprojectcollectionurl 
+           /teamproject:project [/login:username,[password]]
+tcm suites /clone  
+           /suiteid:id /destinationsuiteid:id 
+               [ /overridefieldname:name /overridefieldvalue:value ]
+           /collection:teamprojectcollectionurl /teamproject:project 
+           [/login:username,[password]]
+tcm suites /clone  
+           /status:cloneoperationid           
+           /collection:teamprojectcollectionurl /teamproject:project 
+           [/login:username,[password]]
+The /list command allows enumerating suites in the specified plan, and 
+retrieving the suite name and id.
+The /clone /suiteid /destinationsuiteid command starts a clone operation in TFS
+to clone all test cases from a suite to a different destination suite. The destination
+suite has to be in a different plan. All contained suites and test cases are cloned. 
+Optionally, a test case field and its value can be specified as an override to 
+distinguish cloned test cases from the original. The command returns an operation id 
+that can be used to track status and completion of the clone operation.
+The /clone /status command allows tracking status and completion of a 
+clone operation based on its id.
+Example:
+tcm suites /list  /planid:2
+tcm suites /clone /suiteid:1 /destinationsuiteid:2 
+           /overridefieldname:"Iteration Path" 
+           /overridefieldvalue:"Project1\Iteration 2"
+tcm suites /clone /status:1
+    
+Creates/Updates test management tests for tests in the storage file.  You can
+have these added to a TestSuite by specifying the /syncsuite option. By default, the
+ignored tests are excluded. Use /include option if you also want them in the TestSuite.
+tcm testcase /import /collection:teamprojectcollectionurl /teamproject:project 
+             /storage:path 
+             [/maxpriority:priority]
+             [/minpriority:priority]
+             [/category:filter]
+             [/syncsuite:id [/include]]
+             [/login:username,[password]]
+Options available for testenvironment command
+tcm testenvironments /list /collection:teamprojectcollectionurl /teamproject:project 
+                     [/login:username,[password]]
+/id parameter is required.
+Completed import {0}
+/import parameter is required
+Starting import
+Added
+Failed
+3The following tests were not imported successfully:
+Ignored
+Updated
+Removed
+Summary
+Error
+	Test Name
+Error
+	File Name
+Title
+Total
+Modification
+>/include option cannot be specified without /syncsuite option.
+MInvalid combination of options for bugfieldmapping command.  Please see help.
+CInvalid combination of options for clone command.  Please see help.
+AInvalid combination of options for run command.  Please see help.
+CInvalid combination of options for suite command.  Please see help.
+Unable to parse /configid.
+"Unable to parse clone operation id
+UUnable to parse /destinationsuiteid. Specify the positive integer id of a test suite.
+Unable to parse maxpriority.
+/minpriority cannot be greater than maxpriority.
+Unable to parse minpriority
+OverrideFieldName is invalid
+OverrideFieldValue is invalid
+Unable to parse /planid.
+Unable to parse /runid.
+JUnable to parse /suiteid. Specify the positive integer id of a test suite.
+Unable to parse /syncsuite.
+Name
+Description
+/list parameter is required
+Name
+Date Completed
+Title
+Owner
+Name
+Name
+^One of the following options must be specified for the bugfieldmapping command: export, import
+NOne of the following options must be specified for the run command: list,clone
+sOne of the following options must be specified for the run command: abort,create,delete,execute,export,list,publish
+/name parameter is required.
+No tests found to import.
+(/OverrideFieldName parameter is required
+)/OverrideFieldValue parameter is required
+Unable to find owner {0}.
+/owner parameter is required.
+1/planid and /querytext cannot be present together
+/planid is required
+Could not find test plan with ID {0}. Make sure the test plan exists under team project '{1}' and you have the right permissions.
+,Completed Publish, run created with ID: {0}.
+Starting Publish.
+</querytext cannot be used with either /suiteid or /configid.
+#/resultowner parameter is required.
+#/resultsfile parameter is required.
+3Run with ID [{0}] and title [{1}] has been aborted.
+Run created with ID: {0}.
+Run [{0}] has been deleted.
+Did not find run with ID: {0}.
+;Run with ID [{0}] and title [{1}] has already been aborted.
+Results
+Failed:
+Inconclusive:
+Passed:
+Total:
+!/collection parameter is required
+;/settingsname and /settingsfile cannot be present together.
+EThe following tests were not in the test plan and were not published:
+8Run [{0}] is already complete.  Here are the statistics:
+4Unable to find file specified by /storage parameter.
+/storage parameter is required.
+)Must specify both /suiteid and /configid.
+/suiteid parameter is required.
+Could not find test suite with ID {0}. Make sure the test suite exists under team project '{1}' and you have the right permissions.
+*syncsuiteid must reference a static suite.
+LTeam Foundation Server {0} does not exist or is not accessible at this time.
+Did not find team project: {0}.
+"/teamproject parameter is required
+There are multiple test environments found with display name {0}.
+Use the fully-qualified name of the environment, as displayed by tcm.exe environments /list.
+Test environment not found: {0}
+	Test Name
+/Did not find any test settings from file '{0}'.
++Did not find test settings with name '{0}'.
+BA Visual Studio testing sku must be installed to use this command.
+/title parameter is required.
+=Unable to execute a run which is configured for a controller.
+,Unable to find tests in the following files:
+User [{0}] was not found.
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUW
+UUUUUUUUUUUUUU
+uUUUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUW
+UUUUUxuUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUUUxUUUU
+UUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUUW
+UUUUUUUUUUUU
+uUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUU
+uUUWUUX
+UUWUUX
+UUUUUU
+uUUUUUUUUUUUUUUUUU
+IHDR
+	pHYs
+IDATx
+#1F4
+g^k-
+	g4W
+#%o<
+p*-=
+MNO~
+ 6L~
+BQwI
+%MsM
+,ZQ?
+PYU!
+y${T
+KHkK
+-@Hl8
+@p.p
+u5E}
+bK`7
++{7u
+9q4kr
+ p|(#
+ p|(#{7u
+F39y
+b4e~
+_:dx
+@(Z[
+7	}B
+9`z8%!
+Ig'}>
+@21(
+KDaD 
+%"2a
+IEND
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+v,d,
+.-d,
+K-d,
+X.E.
+y:M:&
+6<d,
+2=&=
+>?-?
+c@J@
+.CE.
+<E	!
+88P	
+C>J	
+	0	8	x	
+<Module>
+Tcm.exe
+TestManagementCommand
+Microsoft.TeamFoundation.TestManagement.CommandLine
+CommandBugMapping
+CommandExportBugMapping
+CommandImportBugMapping
+CommandRun
+CommandAbortRun
+CommandDeleteRun
+CommandTestcase
+CommandCreateRun
+CommandExecuteRun
+CommandExportTrx
+CommandHelp
+CommandConfigs
+CommandPlans
+CommandListRuns
+CommandSuitesBase
+CommandSuitesList
+CommandCloneSuiteStart
+CommandCloneSuiteShowStatus
+CommandPublishResults
+CommandTestEnvironment
+TestManagementCommandLine
+CommandCreator
+CommandEntry
+CommandAliasEntry
+CancelEventHandler
+MeasurementBlockProxy
+Microsoft.TeamFoundation.TestManagement.Client.Runtime
+Resources
+Microsoft.TeamFoundation.TestManagement
+TabularDisplay2
+Column
+Validator
+Microsoft.TeamFoundation.Client
+Microsoft.TeamFoundation.Client.CommandLine
+Command
+CommandLine
+mscorlib
+System
+MulticastDelegate
+ValueType
+Object
+Microsoft.TeamFoundation.TestManagement.Client
+IMeasurementBlockProxy
+IDisposable
+TeamFoundationServer
+TeamProject
+m_teamProjectName
+ITestManagementTeamProject
+m_teamProject
+ITestManagementService
+m_manager
+Arguments
+.ctor
+GetUsage
+ValidateParameters
+Options
+GlobalOptionIDs
+Initialize
+SetTestCaseManager
+SetTeamProject
+SetTeamFoundationServer
+CheckTestSkuAvailable
+ITestConfiguration
+GetConfiguration
+GetBuildUri
+Microsoft.TeamFoundation.Build.Client
+IBuildDetail
+GetBuild
+ITestPlan
+GetTestPlan
+ITestSuiteBase
+GetTestSuite
+GetTeamProject
+LogCategory
+get_LogCategory
+get_TeamFoundationProject
+set_TeamFoundationProject
+get_TestManagementService
+set_TestManagementService
+EventArgs
+Cancel
+TeamFoundationProject
+TestManagementService
+Create
+ValidateAvailableOptions
+System.Collections.Generic
+IList`1
+GetAllowedOptions
+OptionIDs
+m_file
+m_id
+m_prompt
+TestCategoryFieldName
+m_testCategoryFieldName
+m_storage
+m_minPriority
+m_maxPriority
+m_suiteId
+m_categoryFilter
+m_categoryContainsAnd
+m_containsWildCards
+m_excludeDisabledTests
+KeyValuePair`2
+m_invalidStorageFiles
+m_failedTests
+headerDisplayed
+m_tabularDisplay
+m_added
+m_updated
+m_removed
+m_ignored
+Microsoft.TeamFoundation.TestManagement.Controller
+TcmTestManagerEventArgs
+manager_TcmTestManagerEvent
+WriteSummary
+ParseSuiteId
+ParseCategories
+ParseMinPriority
+ParseMaxPriority
+m_title
+m_planId
+m_configId
+Microsoft.TeamFoundation.Framework.Client
+TeamFoundationIdentity
+m_owner
+m_buildIDir
+m_settingsName
+m_settingsFile
+m_queryText
+m_testEnvironment
+m_excludeBlockedPoints
+m_buildDefinition
+m_buildNumber
+m_flavor
+m_platform
+ITestEnvironment
+GetTestEnvironment
+ITestSettings
+GetTestSettingsFromServer
+GetTestSettingsFromFile
+TcmRunner
+m_runner
+ITestRun
+ReportRunStats
+m_runFile
+m_resultsFile
+TrxManager
+AttachmentDownloadErrorEventArgs
+OnAttachmentDownloadError
+DisplayBanner
+GetSuiteTitle
+m_sourceSuiteId
+m_destinationSuiteId
+CloneOptions
+m_cloneOptions
+m_operationId
+m_runOwner
+m_assignFailuresToUser
+m_buildUri
+m_loader
+m_isBvt
+ParseUser
+CommandCanceled
+add_CommandCanceled
+remove_CommandCanceled
+m_instance
+Main
+get_Instance
+System.Drawing
+Icon
+GetApplicationIcon
+RunCommand
+FireCommandCanceled
+LookupCommand
+ConsoleCancelEventArgs
+CancelKeyPressed
+ToCommaSeparatedList
+m_commandBugFieldMapping
+m_commandHelp
+m_commandRun
+m_commandSuites
+m_commandConfigs
+m_commandTestcase
+m_commandPlans
+m_commandTestEnvironment
+m_commandAliasTable
+Instance
+Invoke
+IAsyncResult
+AsyncCallback
+BeginInvoke
+EndInvoke
+CreateCommand
+HelpTopic
+Alias
+CmdEntry
+c_beginOperation
+c_stepOperation
+c_endOperation
+c_markOperation
+InitializeMeasurementBlockProxyHooks
+Mark
+BeginNew
+get_IsRunning
+Begin
+Step
+Dispose
+Microsoft.VisualStudio.Diagnostics.Measurement
+MeasurementBlock
+InitializeMeasurementBlockLoggingEventHandlers
+GetActualMeasurementBlock
+Trace
+m_mb
+s_mbForWebServiceCall
+IsRunning
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_BuildNumberAndDefinitionRequired
+get_BuildNumberOrDefinitionInvalid
+get_CannotExecuteManualRun
+get_CategoryContainsNot
+get_CategoryFieldNameError
+get_CategoryFilterHasAndsAndOrs
+get_CategoryFilterHasCommas
+get_CategoryIsEmpty
+get_CloneOperationFailed
+get_CloneOperationInProgress
+get_CloneOperationStarted
+get_CloneOperationSuceeded
+get_CommandLineBanner
+get_CommandNotFound
+get_CommandReference
+get_ConfigCreated
+get_ConfigIdRequired
+get_ConfigurationNotFound
+get_Copyright
+get_DeepCopyDestinationSuiteNotStatic
+get_DeepCopyJobIdRequired
+get_DeleteRunQuestion
+get_DestinationSuiteIdRequired
+get_DidNotFindSuiteError
+get_ExecutingRun
+get_ExportComplete
+get_ExportStarting
+get_FileDoesNotExist
+get_FileExists
+get_FileRequired
+get_Help_BugFieldMapping
+get_Help_Configs
+get_Help_Help
+get_Help_Plans
+get_Help_Runs
+get_Help_Suites
+get_Help_Testcase
+get_Help_Testenvironment
+get_IdRequired
+get_ImportComplete
+get_ImportParameterRequired
+get_ImportStarting
+get_ImportTestAdded
+get_ImportTestFailed
+get_ImportTestFailedTestSummary
+get_ImportTestIgnored
+get_ImportTestOverwrite
+get_ImportTestRemoved
+get_ImportTestsModification
+get_ImportTestSummary
+get_ImportTestSummaryFailedTestError
+get_ImportTestSummaryFailedTestTitle
+get_ImportTestSummaryInvalidFileError
+get_ImportTestSummaryInvalidFileTitle
+get_ImportTestTitle
+get_ImportTestTotal
+get_IncludeOptionWithoutSyncSuite
+get_InvalidCombinationOfOptionsForBugFieldMappingCommand
+get_InvalidCombinationOfOptionsForDeepCopyCommand
+get_InvalidCombinationOfOptionsForRunCommand
+get_InvalidCombinationOfOptionsForSuiteCommand
+get_InvalidConfigurationIdFormat
+get_InvalidDeepCopyJobId
+get_InvalidDestinationSuiteId
+get_InvalidMaxPriority
+get_InvalidMinMaxPriorityCombination
+get_InvalidMinPriority
+get_InvalidOverrideFieldName
+get_InvalidOverrideFieldValue
+get_InvalidPlanId
+get_InvalidRunIdFormat
+get_InvalidSuiteIdFormat
+get_InvalidSyncSuiteId
+get_ListConfigHeaderId
+get_ListConfigHeaderName
+get_ListEnvironmentDesc
+get_ListParameterRequired
+get_ListPlansHeaderId
+get_ListPlansHeaderName
+get_ListRunsCompleteDate
+get_ListRunsHeaderRunId
+get_ListRunsHeaderTitle
+get_ListRunsOwner
+get_ListSuitesHeaderId
+get_ListSuitesHeaderName
+get_ListTestEnvironmentName
+get_MissingArgumentForBugFieldMappingCommand
+get_MissingArgumentForListCommand
+get_MissingArgumentForRunCommand
+get_NameRequired
+get_NoTestsFound
+get_OverrideFieldNameRequired
+get_OverrideFieldValueRequired
+get_OwnerNotFound
+get_OwnerRequired
+get_PlanIdAndQueryTextBothPresent
+get_PlanIdRequired
+get_PlanNotFound
+get_PublishComplete
+get_PublishStarting
+get_QueryTextAndSuiteOrConfigError
+get_ResultOwnerRequired
+get_ResultsFileRequired
+get_RunAborted
+get_RunCreated
+get_RunDeleted
+get_RunNotFound
+get_RunPreviouslyAborted
+get_RunResults
+get_RunResultsFailed
+get_RunResultsInconclussive
+get_RunResultsPassed
+get_RunResultsTotal
+get_ServerRequired
+get_SettingsNameAndSettingsFileBothPresent
+get_SomeTestsWereNotPublished
+get_SpecifiedRunAlreadyComplete
+get_StorageParameterNotFound
+get_StorageParameterRequired
+get_SuiteIdAndConfigIdRequiredForRun
+get_SuiteIdRequired
+get_SuiteNotFound
+get_SyncSuiteIsNotStaticError
+get_TabularDisplayColumnSeparator
+get_TeamFoundationServerNotAccessible
+get_TeamProjectNotFound
+get_TeamProjectRequired
+get_TestEnvironmentMultipleDisplayNameMatches
+get_TestEnvironmentNotFound
+get_TestName
+get_TestSettingsNotFoundInFile
+get_TestSettingsNotFoundWithName
+get_TestSkuNotAvailable
+get_TitleRequired
+get_UnableToExecuteRunOnController
+get_UnableToFindTests
+get_UserNotFound
+Culture
+BuildNumberAndDefinitionRequired
+BuildNumberOrDefinitionInvalid
+CannotExecuteManualRun
+CategoryContainsNot
+CategoryFieldNameError
+CategoryFilterHasAndsAndOrs
+CategoryFilterHasCommas
+CategoryIsEmpty
+CloneOperationFailed
+CloneOperationInProgress
+CloneOperationStarted
+CloneOperationSuceeded
+CommandLineBanner
+CommandNotFound
+CommandReference
+ConfigCreated
+ConfigIdRequired
+ConfigurationNotFound
+Copyright
+DeepCopyDestinationSuiteNotStatic
+DeepCopyJobIdRequired
+DeleteRunQuestion
+DestinationSuiteIdRequired
+DidNotFindSuiteError
+ExecutingRun
+ExportComplete
+ExportStarting
+FileDoesNotExist
+FileExists
+FileRequired
+Help_BugFieldMapping
+Help_Configs
+Help_Help
+Help_Plans
+Help_Runs
+Help_Suites
+Help_Testcase
+Help_Testenvironment
+IdRequired
+ImportComplete
+ImportParameterRequired
+ImportStarting
+ImportTestAdded
+ImportTestFailed
+ImportTestFailedTestSummary
+ImportTestIgnored
+ImportTestOverwrite
+ImportTestRemoved
+ImportTestsModification
+ImportTestSummary
+ImportTestSummaryFailedTestError
+ImportTestSummaryFailedTestTitle
+ImportTestSummaryInvalidFileError
+ImportTestSummaryInvalidFileTitle
+ImportTestTitle
+ImportTestTotal
+IncludeOptionWithoutSyncSuite
+InvalidCombinationOfOptionsForBugFieldMappingCommand
+InvalidCombinationOfOptionsForDeepCopyCommand
+InvalidCombinationOfOptionsForRunCommand
+InvalidCombinationOfOptionsForSuiteCommand
+InvalidConfigurationIdFormat
+InvalidDeepCopyJobId
+InvalidDestinationSuiteId
+InvalidMaxPriority
+InvalidMinMaxPriorityCombination
+InvalidMinPriority
+InvalidOverrideFieldName
+InvalidOverrideFieldValue
+InvalidPlanId
+InvalidRunIdFormat
+InvalidSuiteIdFormat
+InvalidSyncSuiteId
+ListConfigHeaderId
+ListConfigHeaderName
+ListEnvironmentDesc
+ListParameterRequired
+ListPlansHeaderId
+ListPlansHeaderName
+ListRunsCompleteDate
+ListRunsHeaderRunId
+ListRunsHeaderTitle
+ListRunsOwner
+ListSuitesHeaderId
+ListSuitesHeaderName
+ListTestEnvironmentName
+MissingArgumentForBugFieldMappingCommand
+MissingArgumentForListCommand
+MissingArgumentForRunCommand
+NameRequired
+NoTestsFound
+OverrideFieldNameRequired
+OverrideFieldValueRequired
+OwnerNotFound
+OwnerRequired
+PlanIdAndQueryTextBothPresent
+PlanIdRequired
+PlanNotFound
+PublishComplete
+PublishStarting
+QueryTextAndSuiteOrConfigError
+ResultOwnerRequired
+ResultsFileRequired
+RunAborted
+RunCreated
+RunDeleted
+RunNotFound
+RunPreviouslyAborted
+RunResults
+RunResultsFailed
+RunResultsInconclussive
+RunResultsPassed
+RunResultsTotal
+ServerRequired
+SettingsNameAndSettingsFileBothPresent
+SomeTestsWereNotPublished
+SpecifiedRunAlreadyComplete
+StorageParameterNotFound
+StorageParameterRequired
+SuiteIdAndConfigIdRequiredForRun
+SuiteIdRequired
+SuiteNotFound
+SyncSuiteIsNotStaticError
+TabularDisplayColumnSeparator
+TeamFoundationServerNotAccessible
+TeamProjectNotFound
+TeamProjectRequired
+TestEnvironmentMultipleDisplayNameMatches
+TestEnvironmentNotFound
+TestName
+TestSettingsNotFoundInFile
+TestSettingsNotFoundWithName
+TestSkuNotAvailable
+TitleRequired
+UnableToExecuteRunOnController
+UnableToFindTests
+UserNotFound
+AlignText
+WriteHeadings
+WriteHorizontalLine
+WriteRow
+Write
+WriteLine
+StartNewRow
+List`1
+get_Columns
+m_columns
+m_totalRowWidth
+m_previousColumnsOverflow
+Columns
+get_Heading
+set_Heading
+get_Width
+set_Width
+get_AllowTruncation
+set_AllowTruncation
+m_heading
+m_width
+m_allowTruncation
+Heading
+Width
+AllowTruncation
+ParseOwner
+ParseRunId
+ParseConfig
+ParseSuite
+ParseDestinationSuite
+ParseOverrideFieldName
+ParseOverrideFieldValue
+ParsePlan
+ParseInt
+ParseStringOption
+arguments
+configId
+buildDefinition
+buildNumber
+planId
+suiteId
+manager
+teamProject
+tfsName
+value
+sender
+possibleOptions
+name
+path
+isAutomated
+suite
+ownerParam
+args
+commandName
+showExitCode
+System.Runtime.InteropServices
+OutAttribute
+invokedAs
+object
+method
+callback
+result
+createCommand
+optionIDs
+helpTopic
+alias
+cmdEntry
+category
+size
+parent
+proxy
+operation
+text
+values
+message
+heading
+width
+allowTruncation
+testManagementService
+testProject
+required
+mustExist
+option
+optionRequiredString
+invalidOptionString
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+ConsoleHost
+ThrowIfCanceled
+TfsConnection
+get_TfsConnection
+GetService
+Microsoft.VisualStudio.QualityTools.Common
+Microsoft.VisualStudio.TestTools.Diagnostics
+EqtTrace
+Exception
+Error
+get_CurrentCulture
+get_Uri
+String
+IFormatProvider
+Format
+UIHost
+WriteError
+InvalidOperationException
+m_arguments
+GetOptionValue
+IsNullOrEmpty
+System.Configuration
+ConfigurationManager
+System.Collections.Specialized
+NameValueCollection
+get_AppSettings
+get_Item
+Environment
+GetEnvironmentVariable
+ArgumentListException
+GetCollectionOptionValue
+Microsoft.VisualStudio.TestTools.Utility
+LicenseHelper
+Microsoft.VisualStudio.TestTools.Common
+ProductFeature
+AreFeaturesEnabled
+ApplicationException
+ITestConfigurationHelper
+get_TestConfigurations
+Find
+Int32
+Info
+get_AbsoluteUri
+IBuildServer
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+IBuildDetailSpec
+CreateBuildDetailSpec
+QueryOptions
+set_QueryOptions
+set_BuildNumber
+Microsoft.TeamFoundation.Build.Common
+InformationTypes
+ConfigurationSummary
+set_InformationTypes
+BuildStatus
+set_Status
+IBuildQueryResult
+QueryBuilds
+get_Builds
+ITestPlanHelper
+get_TestPlans
+get_TeamProjectName
+ArgumentException
+ITestSuiteHelper
+get_TestSuites
+get_IsValid
+IsTfsSet
+TfsTeamProjectCollection
+CreateTfs
+set_TfsConnection
+.cctor
+Contains
+IEnumerable`1
+AddRange
+Console
+IBugFieldMappingHelper
+get_BugFieldMappings
+IBugFieldMapping
+Query
+Export
+System.IO
+File
+Exists
+CreateFromFile
+Update
+ITestRunHelper
+get_TestRuns
+TestRunState
+get_State
+IIdentifiable`1
+get_Id
+ITestRunBase
+get_Title
+Abort
+Empty
+QuestionResponse
+QuestionType
+AskQuestion
+Delete
+TestSuiteType
+get_TestSuiteType
+IStaticTestSuite
+TcmTestManager
+TcmTestManagerEventHandler
+add_TcmTestManagerEvent
+ImportTests
+TcmTestManagerEventType
+get_EventType
+get_EventData
+ICollection`1
+ITestCaseHelper
+get_TestCases
+ITestCase
+ITestBase
+Microsoft.TeamFoundation.WorkItemTracking.Client
+WorkItem
+get_WorkItem
+FieldCollection
+get_Fields
+Field
+FieldDefinition
+get_FieldDefinition
+get_SystemType
+op_Inequality
+get_Count
+get_InvariantCulture
+ToString
+IEnumerator`1
+GetEnumerator
+get_Current
+get_Value
+get_Message
+get_Key
+System.Collections
+IEnumerator
+MoveNext
+Path
+GetDirectoryName
+GetFileName
+Directory
+SearchOption
+GetFiles
+Char
+IndexOfAny
+Parse
+FormatException
+IndexOf
+Split
+Trim
+StringComparison
+StartsWith
+get_Length
+CreateTestRun
+set_BuildUri
+get_BuildNumber
+get_DropLocation
+set_BuildDirectory
+IBuildInformation
+get_Information
+IBuildInformationNode
+GetNodesByType
+BuildTypeConstants
+AnyCpu
+Equals
+get_BuildDirectory
+Combine
+ITestPointCollection
+QueryTestPoints
+ITestPoint
+ITestPointProperties
+TestPointState
+AddTestPoint
+set_Title
+set_Owner
+get_BuildUri
+op_Equality
+GetFullPath
+set_BuildFlavor
+set_BuildPlatform
+Microsoft.TeamFoundation.TestManagement.Controller.TestSettings
+TestSettingsHelper
+SetDefaultTestSettings
+get_IsAutomated
+CopyTestSettings
+Guid
+set_TestEnvironmentId
+get_ControllerName
+set_Controller
+Save
+ITestEnvironmentHelper
+get_TestEnvironments
+get_Name
+get_DisplayName
+ITestSettingsHelper
+get_TestSettings
+Microsoft.VisualStudio.TestTools.Common.Xml
+XmlFilePersistence
+TestRunConfiguration
+LoadTestRunConfiguration
+set_Name
+get_Description
+set_Description
+set_IsAutomated
+System.Xml
+XmlElement
+SaveTestRunConfiguration
+set_Settings
+get_Controller
+Verbose
+get_Canceled
+ITestRunStatistics
+get_Statistics
+get_TotalTests
+get_PassedTests
+get_FailedTests
+get_InconclusiveTests
+EventHandler`1
+add_AttachmentDownloadError
+ExportTrx
+remove_AttachmentDownloadError
+ErrorMessage
+WriteWarning
+FreeArguments
+Assembly
+GetExecutingAssembly
+Attribute
+GetCustomAttribute
+get_Version
+ITestConfigurationCollection
+ITestPlanCollection
+get_Owner
+DateTime
+MinValue
+get_DateCompleted
+ToShortDateString
+ITestSuiteCollection
+Stack`1
+Push
+get_Parent
+get_IsRoot
+System.Text
+StringBuilder
+Append
+BeginCloneOperation
+set_OverrideFieldName
+set_OverrideFieldValue
+CloneOperationInformation
+GetCloneOperationInformation
+CloneOperationState
+get_TotalTestCaseCount
+get_ClonedTestCaseCount
+get_CreationDate
+get_StartedByName
+get_ClonedSharedStepCount
+get_CompletionDate
+set_Configuration
+set_RunOwner
+set_Flavor
+set_Platform
+TestResult
+ImportTrxForSuite
+Refresh
+set_IsBvt
+Enumerator
+TestResultMessage
+ITfsIdentityStore
+get_TfsIdentityStore
+FindByAccountName
+FindByDisplayName
+Delegate
+System.Threading
+Interlocked
+CompareExchange
+Remove
+STAThreadAttribute
+get_TraceInfo
+HelpRequested
+GetHelpCommandName
+ArgumentParser
+get_Arguments
+NoPromptState
+get_NoPrompt
+Option
+AppendOption
+set_ExitCode
+IsNoPromptSpecified
+Authenticate
+get_ExitCode
+Microsoft.TeamFoundation.Common
+Microsoft.TeamFoundation
+TeamFoundationServerUnauthorizedException
+Compare
+UnrecognizedCommandException
+Warning
+set_Canceled
+ConsoleSpecialKey
+get_SpecialKey
+Thread
+Sleep
+set_Cancel
+StructLayoutAttribute
+LayoutKind
+MeasurementBlockProxyFactory
+MeasurementBlockProxyCreator
+SetCreator
+get_Category
+get_Size
+TfsConnectionWebServiceCallEventArgs
+<InitializeMeasurementBlockLoggingEventHandlers>b__0
+TfsConnectionWebServiceCallEventHandler
+CS$<>9__CachedAnonymousMethodDelegate2
+CompilerGeneratedAttribute
+<InitializeMeasurementBlockLoggingEventHandlers>b__1
+CS$<>9__CachedAnonymousMethodDelegate3
+get_ComponentName
+get_MethodName
+get_RequestId
+Int64
+add_WebServiceCallBegin
+add_WebServiceCallEnd
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+Math
+Substring
+PadRight
+get_Chars
+PadLeft
+get_OutputWidth
+get_AuthorizedIdentity
+Microsoft.TeamFoundation.TestManagement.Resources.resources
+Microsoft.TeamFoundation.TestManagement.CommandLine.tf.ico
+RSA1
+(]b,
+=t]o-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+TCM Utility
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\vset\commandline.csproj_1770616930\objr\x86\Tcm.pdb
+_CorExeMain
+mscoree.dll
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUW
+UUUUUUUUUUUUUU
+uUUUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUW
+UUUUUxuUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUUUxUUUU
+UUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUUW
+UUUUUUUUUUUU
+uUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUU
+uUUWUUX
+UUWUUX
+UUUUUU
+uUUUUUUUUUUUUUUUUU
+IHDR
+	pHYs
+IDATx
+#1F4
+g^k-
+	g4W
+#%o<
+p*-=
+MNO~
+ 6L~
+BQwI
+%MsM
+,ZQ?
+PYU!
+y${T
+KHkK
+-@Hl8
+@p.p
+u5E}
+bK`7
++{7u
+9q4kr
+ p|(#
+ p|(#{7u
+F39y
+b4e~
+_:dx
+@(Z[
+7	}B
+9`z8%!
+Ig'}>
+@21(
+KDaD 
+%"2a
+IEND
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222558Z
+130409222558Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+Cz-?
+cw{0
+b%MS%
+5S#6w
+L!=v0
+es)H'
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+\J-h
+E/]E
+m5#g
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1,0*
+http://microsoft.com0
+WdM%
+"\P%JX
+#Zgv
+mC3e
+::z_
+9@:s
+%JA4B
+GH#4V
+(U1}
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023042Z0#
+"ptLC
+5#Mn|
+Iy.V
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+mx0:
+1,0*
+http://microsoft.com0
+6LaK
+_lYT~
+QN6 ~y
+;8gV4
+V9 O
+20120727023044.863Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+H]~|
+8djU

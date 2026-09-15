@@ -1,0 +1,2183 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.idata
+.tls
+.rsrc
+@.reloc
+Y__^[
+@_^[]
+P,h-
+11.0.50727.1
+4xVC
+WVRQP
+C,hl0
+_^[3
+t@SW
+KFJu
+QVWj
+E$VW
+PVSW
+vLj#
+t$$F
+09\$
+D$LP
+D$HP
+Vhl0
+tCVP
+L$0Q
+D$4P
+SWth
+t@SWj
+ SVW
+D$0d
+!t$8
+L$0d
+Y_^[
+Xf;D$
+f;D$$
+L$ f
+QSV3
+@Qm6t
+0YYP
+PVSW
+f9~<
+f9~<
+t$ F
+09\$
+PSSSSSS
+L$0Q
+t$<3
+92uRG
+[f9\N
+@^[]
+Ph\{
+WWWWWWj
+$f9}
+QSVW
+tx_^
+j\Xf;
+QQVW
+@^_[]
+0SSSSV
+t%WV
+D$0P
+Y__^[
+u2G;~
+N ^[
+ttf9
+sEVR
+s-VP
+_^[]
+VWhl0
+_^[]
+QSVW
+_^[]
+zQPR
+\t%3
+t,+7
+SVW3
+G 9X
+u"f;
+QSVW
+j"[f9
+D$@P
+L$@Q
+L$@Q
+D$DP
+D$LP
+L$@Q
+D$ P
+D$$P
+L$@Q
+L$@Q
+L$@Q
+_^[]
+_^[]
+_ SQ
+_^[]
+zQPR
+QQSVW
+QQV3
+O$_^
+FLh\
+QVWjh
+_^[]
+j,h 
+WWWj
+WWWj
+_^[]
+_^[]
+w!QSWP
+ORWV
+Xhl0
+QQSV
+tOVW
+j\[f;
+_^[]
+VWj	
+PShx
+t.f98t)P
+xA;u
+^_[]
+L$,f
+L$0Q
+t$<3
+Chl0
+@SVW
+D$Pd
+L$Pd
+Y_^[
+[^_]
+E8hl0
+YPhx
+SPVW
+RhL\
+SVW3
+ShH]
+9~(t
+PWh|
+u}9u
+uU9u
+PWhh
+QQVW
+_^[]
+CdPj
+_^[3
+QSVW
+L_cC
+PIPF
+s6Tm
+hg{Hu
+Z3q4nV%6
+^`|eC
+"Dy>
+B2GqU
+s>T/
+_T#-
+UM'U
+%R#-
+%l6"
+_xD0
+2?Z4/
+u8c%R
+EW*p
+7[&l
+SZQx
+3i?TIH
+xk5jGc
+@Ez~L
+wL,^
+uN/MuZ
+UeYn
+THp,j
+7t.v
+*+GO
+vU~+kR
+U0+o
+@6kF
+Rv;c
+U8^C
+`ek<
+d?%_
+"Dy>
+tuA7
+h]W>
+Pj@V
+0hx6
+0h`0
+0hT0
+0hh0
+0h|6
+uhh6#
+u>WS
+0hh0
+_^[]
+3Q?|@
+ke5N
+SWj/[j\_f;
+t"f;
+tDVVVVj
+VVWPj
+SVW3
+dtrR
+Gj WR
+tdh<
+CreateInterface
+0j2P
+t	9V
+D$ PSSSSSSSSSS
+D$$P
+_^[3
+D$2P
+D$(h
+D$4SP
+PQVh
+PQVh
+PRVW
+uH+u
+QQSVW
+VhL!
+Wh0!
+nrJF
+^_[]
+Vhl0
+LSVW
+SVWQ
+t_VW
+_^[]
+;A(}D
+_^[]
+D$0Q
+PSPR
+PSPR
+PSPR
+PSPR
+PSPR
+PSPR
+_^[]
+(SVW
+~$SV
+0YYV
+0_[^]
+x3hx
+x	9^T
+WVhx9
+Qhp@
+PPPP
+Php@
+QQVWh
+D$0Q
+SVWP
+0h <
+0h 1
+Y_^[
+VStudioTerm
+Pj SV
+0SVW
+7_^[
+yp`H
+Ph`^
+t6h|^
+VStudioMain
+PQQQQQQQQ
+D$ PQQQ
+D$ P
+D$<PQ
+D$(P
+w<SQh
+PQVh
+t&Ph
+0h,R
+t&Ph
+0h,R
+t5h,_
+0hLg
+GHPh
+SVW3
+j	[u
+Rj@QP
+t 9^
+N,^V
+RhL\
+Pj@h
+0hx6
+0h`0
+0hT0
+0h|6
+0hh0
+F@\c
+FDDc
+0hQl
+_InitPerf@4
+_PerfCodeMarker@12
+_UnInitPerf@4
+_BeginLogging@4
+_WriteLog@4
+SVWj
+SSSSSj
+j _j	Yf;
+j Yf;
+j	Yf;
+@_^[
+90t!
+0YYV
+QQSV
+YPhT
+F95dD
+95dD
+j Z2
+j"Yf;
+u69]
+uA9u
+Ht!H
+0uz3
+uC9]
+PSSSS
+N hl0
+SVW3
+CPWP
+ _^[]
+^[Y]
+QVhD
+0AQP
+RIEPQKDJAHCMZ391208T
+F@\c
+FDDc
+tOVW
+SSSS
+SSSS
+Y98u
+GenuuV
+ineIuM
+nteluD3
+t*=`
+t#=p
+SetCurrentProcessExplicitAppUserModelID
+x9hx
+[_^]
+tsWV
+G09X
+G,9X
+w8SQ
+PQVh
+t@9{
+tFSW
+PPVP
+QQSV
+t4h,_
+ConfigurationChanged
+tSVW
+GdPSS
+QSVW3
+^[_]
+PSSj
+0u4P
+f9\F
+_^[]
+tfSh
+j	Y3
+D$0d
+D$$P
+L$0d
+GetMonitorInfoA
+GetSystemMetrics
+MonitorFromWindow
+MonitorFromRect
+MonitorFromPoint
+EnumDisplayMonitors
+EnumDisplayDevicesW
+GetMonitorInfoW
+0VW3
+L$0h
+D$LPSSS
+D$(P
+D$|PV
+D$TP
+D$lP
+_^[3
+Vh,R
+t&f9
+D$pP
+D$pP
+RegDeleteKeyExW
+F ^]
+D$`SVW
+D$xd
+t$,h
+VVVP
+D$,VP
+T$(RP
+x_9t$0uT
+L$xd
+Y_^[
+L$`3
+SVWj
+8TIJ
+u\9G
+x 97t
+0SVW
+D$@d
+D$ P
+L$@d
+Y_^[
+9>t3
+>f9~
+\$X9
+L$$h
+HtvH
+0hl0
+L$$h
+0h 1
+devenv.ver
+Software\Microsoft\VisualStudio\11.0
+N@.G
+Ht;H
+bad allocation
+F<PW
+f9~<
+tfhl0
+AQVQ
+t-Ht&H
+j Xf
+0j^XP
+SSSj
+SSSj
+0WSh8~
+0WSh8~
+t%PPPP
+QPPPPPP
+uzj@
+PQQj
+QQQS
+YPh 
+YPhh
+QhP(
+C49x
+Wh@-
+Wh@-
+t.CS
+Phx3
+D$pP
+D$pP
+tcjx
+QhpC
+j\Yf;
+PhPE
+0hPE
+0hPE
+PVVVVVVVVVV
+Ph,R
+PPPP
+*hPH
+WhxI
+SWWWW
+F Pj
+D$hP
+\$$f
+D$hP3
+D$hP
+\$4V
+Vh0f
+6hPm
+0h4p
+SetProcessDEPPolicy
+whpD
+VVVVV
+j	^t
+s(+N
+Ph,|
+PhD|
+j&Xf
+:<jt
+j;Xf
+uM9E
+tH!E
+C(Pj
+;(rW3
+PVj0
+K(Qj
+DISPLAY
+VPh,
+u	}A
+a0!r
+u	9]
+sm8L
+5'OH
+rr)C
+5'OH
+rr)C
+nLaDp
+24\a
+nLaDp
+daoN
+lE2zf
+59A0FD6B-B4A4-34C6-AE4D-8A2D410FDCC6
+8818E626-D2BD-3F77-932E-88568A17E955
+05078163-F4A8-3733-84A7-E4E5D2C799F5
+05928CD9-A22F-3393-9CD5-89D22EBEEAEA
+A6EB9A26-0A71-32FF-87A5-D790FFECAF13
+9224E83E-7DE6-3703-A4BB-CD883E083C39
+6CC89D27-F443-3DBA-84AD-70602908020B
+1B30F725-D878-310E-B76B-94B5933C9881
+33677497-1C6C-3110-8BD3-22B34D917692
+7EFE824E-BC58-37AB-9A8A-E44CA286E4FA
+CDF879ED-A46A-378F-9588-7314BCDB8B0D
+D7DC288A-79A5-336B-B2CF-8B555E795D0C
+B5024818-DB92-34A0-A301-4CC3326A6338
+BCCA5D09-0C66-3061-9E90-D4917E70127E
+A65C1A89-9EBA-315F-AB2E-109882532A47
+5B73E5EB-8596-3DD5-8D9F-0D5CFB04397D
+EO>R
+9A(t
+9A,t
+9A0t
+9A4t
+FDllGetClassObject
+_^[]
+tLVW3
+t5hl
+RegOpenKeyTransactedW
+SSSP
+t#~	
+VWjT
+PjTS
+PVVV
+tlj#P
+QPRW
+QPRV
+ SVW
+t!Whh
+SVW3
+RRRRR
+QRRRR
+0RRQ
+RVRh
+0RRP
+t}WWWWWWW
+PWWW
+vOQQ
+_^[]
+QQPS
+y:Sh8
+t	VP
+tFPhl
+t	VP
+9>t(PWW
+YYWV
+vOnL
+ SVW
+to9]
+0Ph`
+tTQ@P
+zu@3
+PPPP
+^_[]
+x|hl0
+tR9>t7
+N\hl0
+N4hl0
+9>t.h
+t-h0
+t	_^]
+@_^]
+RegDeleteKeyTransactedW
+9>t;h
+@_^]
+RegCreateKeyTransactedW
+0PShX
+t(WWWWV
+MiniDumpWriteDump
+PSSj
+t3f;
+](VW
+0RRQ
+0RRQ
+zu93
+_^[]
+RTMREL
+tR9>t7
+t(SW
+AKFJu
+QVW3
+t$9Q
+~^!U
+uVW3
+QWWWWWWW
+PPPP
+_$9_ t'
+Ph0)
+PPWSj
+{7651A703-06E5-11D1-8EBD-00A0C90F26EA}
+Rhh/
+RhX/
+0hH/
+Ql9]
+@Qm6t
+Yj/f
+j/Xf
+QSVW
+0j;S
+t+h,1
+GetCurrentProcessExplicitAppUserModelID
+f;.h5}3
+0SVW
+D$`P
+t	j;
+0Y;E
+SVW3
+Pht@
+RWPV
+S@P3
+SWj_X
+j__f
+7h4C
+x\hP
+1h<F
+$SVW
+_^[]
+@_^[
+8Aht
+A49p
+tN;x
+p(hpW
+r5f;
+r#f;
+_^[]
+tGIIt!
+_^[]
+{pj\
+QQQQ
+{pj\
+Qhh`
+FpPtI
+ SVW
+uCPV
+G 8g
+QRRPRRR
+$SVW
+PWPR
+PWPR
+PWPR
+PWPR
+PWPR
+x[9}
+PWPR
+PWPR
+PWPR
+D$8Q
+0YY=
+PPWVS
+PPPPS
+PPWVS
+j0Yj
+9>t;h,}
+tMhH}
+t=WW
+CreateFileTransactedW
+t%WhX
+8csm
+8csm
+_^[]
+Y_^[
+Y_^[
+0hP0
+;F0u
+_^[]
+_^[]
+ItKIt)IIt
+_^[]
+ahl0
+0RRQ
+_^[]
+^[_]
+HVWj
+j%Yf
+uQ9]
+uZ9]
+0HPW
+PVVSj
+jehD
+t(9X
+t#Sh
+tk9X
+SVWh
+]tT=
+t)=W
+0_^]
+0;1u
+yG,TU
+P,_^]
+x1h0
+CLRCreateInstance
+CorBindToRuntimeEx
+Vj@Q
+0RSW
+PjA3
+PPPP
+GetRequestedRuntimeInfo
+VWh$
+QQVWhl0
+QPWW
+QQSV3
+0unh
+VVh 
+>#g/
+uz!E
+)+c6
+] VWh
+QRPh
+QRPh
+u~9s
+t-9s
+<8PE
+;|84u
+mscoree.dll
+sqmapi.dll
+StrongNameTokenFromAssemblyEx
+StrongNameSignatureVerificationEx
+StrongNameErrorInfo
+StrongNameFreeBuffer
+SqmSet
+SqmEndSession
+SqmGetSession
+RSDS
+devenv.pdb
+.?AVtype_info@@
+.?AV<lambda_bbdc1a870e15ce75e0ce7548152d5c89>@@
+.?AVCAtlException@ATL@@
+.?AVexception@std@@
+.?AVbad_alloc@std@@
+VERSION.dll
+SHLWAPI.dll
+SHELL32.dll
+CRYPT32.dll
+GDI32.dll
+MSVCP110.dll
+gdiplus.dll
+OLEAUT32.dll
+ole32.dll
+USER32.dll
+atl110.DLL
+MSVCR110.dll
+KERNEL32.dll
+ADVAPI32.dll
+CryptDestroyHash
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+RegSetValueExW
+CryptDestroyKey
+CryptReleaseContext
+CheckTokenMembership
+AllocateAndInitializeSid
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+ConvertSidToStringSidW
+IsValidSid
+GetTokenInformation
+OpenProcessToken
+RegEnumKeyW
+RegQueryInfoKeyA
+RegEnumValueW
+RegEnumValueA
+RegEnumKeyExA
+RegDeleteValueA
+RegQueryValueExA
+RegOpenKeyExA
+RegCreateKeyExA
+RegDeleteKeyW
+CryptVerifySignatureW
+CryptHashData
+CryptCreateHash
+CryptImportKey
+CryptAcquireContextW
+RegEnumKeyExW
+RegQueryInfoKeyW
+RegCreateKeyExW
+RegDeleteValueW
+FreeSid
+IsValidCodePage
+GetFileSize
+FlushFileBuffers
+GetSystemPreferredUILanguages
+GetUserDefaultUILanguage
+GetSystemDefaultUILanguage
+SwitchToThread
+MoveFileW
+CreateDirectoryW
+GetVersionExA
+GetACP
+LoadLibraryExA
+CreateFileA
+OpenEventW
+SetFilePointer
+GetLogicalDrives
+GetDriveTypeW
+GetDiskFreeSpaceExW
+ReleaseSemaphore
+CreateSemaphoreW
+GetTempFileNameW
+GetTempPathW
+FindClose
+FindNextFileW
+FindFirstFileW
+GetLongPathNameW
+GetFullPathNameW
+ExpandEnvironmentStringsW
+SetEnvironmentVariableW
+FileTimeToSystemTime
+CopyFileW
+GetFileAttributesExW
+LocalFree
+SetLastError
+VirtualQuery
+VirtualProtect
+VirtualAlloc
+FlushInstructionCache
+SetThreadContext
+GetThreadContext
+SuspendThread
+InterlockedCompareExchange
+FindAtomW
+AddAtomW
+GetModuleHandleA
+RaiseException
+GetVersion
+SetDllDirectoryW
+HeapSetInformation
+InterlockedIncrement
+InterlockedDecrement
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+GetLastError
+FindResourceExW
+FreeLibrary
+LoadLibraryW
+MultiByteToWideChar
+GetModuleHandleW
+GetProcAddress
+InterlockedExchange
+LockResource
+SizeofResource
+LoadResource
+FindResourceW
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount64
+EnterCriticalSection
+LeaveCriticalSection
+HeapDestroy
+HeapAlloc
+HeapReAlloc
+HeapFree
+HeapSize
+GetProcessHeap
+CloseHandle
+CreateEventW
+ResetEvent
+SetEvent
+DuplicateHandle
+GetCurrentProcess
+GetSystemInfo
+GetFileAttributesW
+SetThreadPriority
+ResumeThread
+GetModuleFileNameW
+CreateThread
+WaitForSingleObject
+lstrlenW
+DeleteFileW
+lstrlenA
+LoadLibraryExW
+WideCharToMultiByte
+GetCurrentProcessId
+OpenProcess
+CreateFileW
+GetSystemTime
+SystemTimeToFileTime
+WerRegisterFile
+VirtualQueryEx
+SetThreadStackGuarantee
+SetUnhandledExceptionFilter
+UnhandledExceptionFilter
+OutputDebugStringW
+GlobalLock
+GlobalUnlock
+UnmapViewOfFile
+GlobalAlloc
+GlobalFree
+CreateFileMappingW
+MapViewOfFile
+GetTickCount
+CompareStringA
+CompareStringW
+GetCurrentThread
+ReadFile
+GetEnvironmentVariableW
+GetStdHandle
+WriteFile
+Sleep
+GetCommandLineW
+CreateProcessW
+CompareFileTime
+GetVersionExW
+DeleteAtom
+_swab
+_itow_s
+malloc
+_callnewh
+??3@YAXPAX@Z
+_purecall
+free
+_except_handler4_common
+_controlfp_s
+_invoke_watson
+__crtSetUnhandledExceptionFilter
+__crtTerminateProcess
+__crtUnhandledException
+_crt_debugger_hook
+?terminate@@YAXXZ
+__CxxFrameHandler3
+_onexit
+__dllonexit
+_calloc_crt
+_recalloc
+memset
+wcsnlen
+_vscwprintf
+vswprintf_s
+_wcsnicmp
+_unlock
+??0exception@std@@QAE@ABQBDH@Z
+??0exception@std@@QAE@ABV01@@Z
+?what@exception@std@@UBEPBDXZ
+_resetstkoflw
+_wsplitpath_s
+_wmakepath_s
+wcsstr
+_strlwr_s
+_ultow_s
+wcsrchr
+calloc
+_vsnwprintf
+swprintf_s
+_set_purecall_handler
+strcpy_s
+swscanf_s
+_wtoi
+wcschr
+memmove
+_wfullpath
+wcspbrk
+_wcslwr_s
+_wfopen_s
+fgetws
+wcsspn
+wcscspn
+memcpy
+_CxxThrowException
+_wcsupr_s
+iswspace
+tolower
+_ui64tow_s
+wcsncmp
+_wfsopen
+ferror
+fputws
+ceil
+wcscat_s
+_wtol
+memcmp
+_lock
+??1type_info@@UAE@XZ
+_commode
+wmemcpy_s
+memcpy_s
+wcsncpy_s
+wcscpy_s
+fopen_s
+fprintf
+fclose
+_wcsicmp
+memmove_s
+??_V@YAXPAX@Z
+_XcptFilter
+__crtGetShowWindowMode
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_ismbblead
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+_acmdln
+_fmode
+isprint
+??1exception@std@@UAE@XZ
+CharNextW
+UnregisterClassW
+LoadStringW
+MessageBoxW
+MsgWaitForMultipleObjectsEx
+PeekMessageW
+TranslateMessage
+DispatchMessageW
+LoadIconW
+LoadImageW
+DestroyWindow
+RegisterClassW
+CreateWindowExW
+ShowWindow
+IsWindowVisible
+KillTimer
+SetTimer
+GetMessageTime
+UpdateLayeredWindow
+DefWindowProcW
+SetForegroundWindow
+SystemParametersInfoA
+GetSystemMetrics
+CoCreateInstance
+IIDFromString
+CLSIDFromString
+CoTaskMemAlloc
+StringFromCLSID
+CoCreateGuid
+CoUninitialize
+CoInitialize
+CoTaskMemFree
+OleUninitialize
+CoInitializeSecurity
+OleInitialize
+CoDisconnectObject
+CoMarshalInterface
+CoReleaseMarshalData
+StringFromGUID2
+CreateStreamOnHGlobal
+GdipDeleteFontFamily
+GdipCreateFontFamilyFromName
+GdipDrawString
+GdipSetTextRenderingHint
+GdipStringFormatGetGenericDefault
+GdipSetStringFormatAlign
+GdipDeleteStringFormat
+GdipCreateStringFormat
+GdipCreateSolidFill
+GdipCloneBrush
+GdipCreateFont
+GdiplusStartup
+GdipCreateHBITMAPFromBitmap
+GdipCreateBitmapFromResource
+GdipCreateBitmapFromStream
+GdipCreateBitmapFromFile
+GdipGetImageWidth
+GdipCloneImage
+GdipReleaseDC
+GdipGetDC
+GdipDeleteGraphics
+GdipGetImageGraphicsContext
+GdipDisposeImage
+GdipGetImageEncoders
+GdipGetImageEncodersSize
+GdipCreateBitmapFromHBITMAP
+GdipCreateBitmapFromScan0
+GdipSaveImageToStream
+GdipGetFontHeight
+GdipDeleteBrush
+GdipDeleteFont
+GdipAlloc
+GdipFree
+GdiplusShutdown
+GdipSetStringFormatLineAlign
+GdipGetImageHeight
+?_Xbad_alloc@std@@YAXXZ
+?_Xbad_function_call@std@@YAXXZ
+DeleteObject
+CreateCompatibleDC
+DeleteDC
+GetObjectW
+SelectObject
+CryptUnprotectData
+SHGetFileInfoW
+SHCreateDirectoryExW
+SHGetFolderPathW
+SHFileOperationW
+StrToInt64ExW
+AssocQueryStringW
+PathIsRelativeW
+PathRemoveBlanksW
+PathRemoveBackslashW
+PathIsFileSpecW
+PathStripPathW
+PathMatchSpecW
+PathFindExtensionW
+PathRenameExtensionW
+PathIsDirectoryW
+PathAddBackslashW
+PathRemoveExtensionW
+PathFileExistsW
+PathFindFileNameW
+PathAppendW
+PathCombineW
+PathRemoveFileSpecW
+SHCreateStreamOnFileEx
+StrToIntW
+StrToIntExW
+GetFileVersionInfoW
+GetFileVersionInfoSizeW
+VerQueryValueW
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
+    <xsl:output method="html"  encoding="utf-16"/>
+    <xsl:template match="activity">
+        <head>
+        <title>Activity Monitor Log</title>
+        <style type="text/css">
+            body{ text-align: left; width: 100%;  font-family: Verdana, sans-serif; }
+            table{ border: none;  border-collapse: separate;  width: 100%; }
+            tr.title td{ font-size: 24px;  font-weight: bold; }
+            th{ background: #d0d0d0;  font-weight: bold;  font-size: 10pt;  text-align: left; }
+            tr{ background: #eeeeee}
+            td, th{ font-size: 8pt;  padding: 1px;  border: none; }
+            tr.info td{}
+            tr.warning td{background-color:yellow;color:black}
+            tr.error td{background-color:red;color:black}
+            
+            span {text-decoration:underline}
+            a:hover{text-transform:uppercase;color: #9090F0;}
+        </style>
+        </head>
+        <body>      
+        <table>
+            <tr class="title">
+                <td colspan="7">Activity Monitor Log</td>
+            </tr>             
+            <tr>
+                <td colspan="2">infos</td>
+                <td colspan="5"><xsl:value-of select="count(entry[type='Information'])"/></td>
+            </tr>
+            <tr>
+                <td colspan="2">warnings</td>
+                <td colspan="5"><xsl:value-of select="count(entry[type='Warning'])"/></td>
+            </tr>
+            <tr>
+                <td colspan="2">errors</td>
+                <td colspan="5"><xsl:value-of select="count(entry[type='Error'])"/></td>
+            </tr>
+            <tr>
+                <th width="20">#</th>
+                <th width="50">Type</th>
+                <th>Description</th>
+                <th width="280">GUID</th>
+                <th>Hr</th>                
+                <th>Source</th>
+                <th>Time (UTC)</th>
+            </tr>               
+            <xsl:apply-templates/>
+        </table>
+        </body>
+    </xsl:template>
+    <xsl:template match="entry">
+        <!-- example 
+        
+          <entry>
+            <record>136</record>
+            <time>2004/02/26 00:42:59.706</time>
+            <type>Error</type>
+            <source>Microsoft Visual Studio</source>
+            <description>Loading UI library</description>
+            <guid>{00000000-0000-0000-0000-000000000000}</guid>
+            <hr>800a006f</hr>
+            <path></path>
+        </entry>
+        
+        -->
+        <xsl:choose>
+            <xsl:when test="type='Information'">
+                    <tr id="info" class="info">
+                        <td><xsl:value-of select="record"/></td>
+                        <td></td>
+                        <xsl:call-template name="row"/>
+                    </tr>                
+            </xsl:when>                
+            <xsl:when test="type='Warning'">
+                    <tr id="warning" class="warning">
+                        <td><xsl:value-of select="record"/></td>
+                        <td>Warning</td>
+                        <xsl:call-template name="row"/>
+                    </tr>                
+            </xsl:when>             
+            <xsl:when test="type='Error'">
+                    <tr id="error" class="error">
+                        <td><xsl:value-of select="record"/></td>
+                        <td>ERROR</td>
+                        <xsl:call-template name="row"/>
+                    </tr>                
+            </xsl:when>                
+        </xsl:choose>  
+    </xsl:template>
+    
+    <xsl:template name="row">
+                <td id="description"><xsl:value-of select="description"/><xsl:if test="path"><br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<xsl:value-of select="path"/></xsl:if></td>
+                <td id="guid"><xsl:value-of select="guid"/></td>    
+                <td id="hr"><xsl:value-of select="hr"/></td>    
+                <td><xsl:value-of select="source"/></td>    
+                <td><xsl:value-of select="time"/></td>
+    </xsl:template>            
+</xsl:stylesheet>(
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUW
+UUUUUUUUUUUUUU
+uUUUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUW
+UUUUUxuUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUU
+UUUUUxUUUU
+UUUUUUUUUUW
+UUUUUUUUUUU
+UUUUUUUUUUUW
+UUUUUUUUUUUU
+uUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUU
+uUUWUUX
+UUWUUX
+UUUUUU
+uUUUUUUUUUUUUUUUUU
+IHDR
+	pHYs
+IDATx
+#1F4
+g^k-
+	g4W
+#%o<
+p*-=
+MNO~
+ 6L~
+BQwI
+%MsM
+,ZQ?
+PYU!
+y${T
+KHkK
+-@Hl8
+@p.p
+u5E}
+bK`7
++{7u
+9q4kr
+ p|(#
+ p|(#{7u
+F39y
+b4e~
+_:dx
+@(Z[
+7	}B
+9`z8%!
+Ig'}>
+@21(
+KDaD 
+%"2a
+IEND
+UUU_
+UxU_
+wwwww
+wwwww
+UXU_
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwww
+wwwwww
+wwwwww
+				
+				
+				
+				
+				
+				
+						
+												
+												
+IHDR
+8IDATx
+$TXX
+H$TX
+ D.6
+2E555
+2EMMMZ
+pi^ 
+5</0
+(,*TQQa
+M2;/@
+^M.-
+H$488h
+1>/PP@
+8qr#
+7~-W
+=~FO-
+mijgH
+[{KJ
+v7Y;
+b5n\
+@fg_>
+UO/U
+4WB 
+IkuDQWW
+'4Snzs
+.#0/
+^M.-
+GYUm
+?IzDR_x%
+$-J&
+MSUm
+p_(oP*
+oP@l
+9Byd
+ALB 
+"K!pH
+IEND
+PAD(
+UUU_
+UxU_
+UXU_
+wwww
+wwwwwww
+wwwwww
+wwwwww
+UwXU
+UwXU
+wwww
+wwww
+IHDR
+IDATx
+olUe
+qKv`
+:43%K
+K	!n
+d#F I
+DKKK
+x477
+~tww
+(((@cc#
+]477c
+UUU8u
+JJJPRR
+cpkL6
+DYYY
+dcxx
+^&RY
+n?^|
+d*ig
+a\~.~
+_i]YY
+o`k}
+e,UUU(**
+(214x
+OU`qS
+Gz]@
+(y}2
+3*'?o
+SgN	
+14xC
+D~W`
+gTF 
+{kon~
+G6]"
+=Odt
+.CEm
+a\~n
+y^}8#
+AG:G`r
+JQQ[
+/Y3B
+1K#p
+wX]t
+"{	!J
+IEND
+wwww
+wwww
+wwwwwwwwww
+wwwwwwwwww
+wwwwww
+wwwww
+wwwwww
+wwwww
+wwwwww
+wwwwww
+wwwwwwwwww
+wwwwwwwwww
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="devenv" type="win32"></assemblyIdentity><description>Microsoft Visual Studio</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity></dependentAssembly></dependency><dependency><dependentAssembly><assemblyIdentity type="win32" name="coloader80.dll" processorArchitecture="X86" version="1.0.0.0"></assemblyIdentity></dependentAssembly></dependency><dependency><dependentAssembly><assemblyIdentity type="win32" name="debuggerproxy.dll" processorArchitecture="X86" version="1.0.0.0"></assemblyIdentity></dependentAssembly></dependency><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.VisualStudio.CompilerHostObjectsProxy.dll" processorArchitecture="X86" version="1.0.0.0"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo><asmv3:application><asmv3:windowsSettings><dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware><disableWindowFiltering xmlns="http://schemas.microsoft.com/SMI/2011/WindowsSettings">true</disableWindowFiltering></asmv3:windowsSettings></asmv3:application></assembly>P
+0 0$0(0,0004080<0@0D0H0
+1(181<1^1
+5F5M5
+6)6S6
+7#7A7z7
+8 8$8(8,8
+?+?a?
+04080<0@0D0H0L0P0T0X0\0
+3@4T4
+6"606H6L6P6T6X6u6
+7-787g7
+8<8c8
+>Y?o?s?w?{?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0`0d0h0l0p0t0x0|0
+1>1h1l1p1t1x1|1
+282<2@2D2H2k2r2
+213=3X3^3
+474C4U4
+5"5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7(8~8
+?\?}?
+90P0
+1'2s2
+2D3H3L3P3T3X3\3`3d3h3l3p3
+7T8s8
+82989f9o9
+;(;c;{;
+= =$=(=,=0=4=8=@=Z=f=
+1c1t1
+2h3s3
+4E4}5;6a6g6m6
+7C7q8
+8P9}9E:
+;7;y;
+=;=J=b=q=
+0<0@0D0H0\0
+2'202K2
+9N9T9
+9(:,:0:4:8:<:@:D:H:L:P:U:r:
+<S>~>
+191Z1
+2_2w2
+3 3x3
+7*777=7P7
+9";i;
+>,?0?4?8?<?@?D?H?L?P?T?
+7#8x8
+;0<v<
+=X>\>`>d>h>l>p>t>}>
+10I0`0
+04181@1D1
+:*:H:
+<S=X=
+F0c1
+1,2k2
+3$3S3
+37495B5{5
+6&6o6
+7(7v7
+8A9U9]9
+9	:(:K:|:
+=Z=l=
+1`1u1
+1#2:2c2x2
+2"313
+6(6>6Y6e6
+8 9e9
+:0;5;
+=Z=y=
+>a>z>
+>P?n?{?
+70P0
+1/1H1
+203>3G3
+4,454O4`4
+7n8v8
+9&;8;B;
+;Z<c<s<
+=C=P=
+3F3[3`3t3y3
+4'4,4@4E4Y4^4r4w4
+6"6-6E6P6h6s6
+7!797C7[7f7~7
+8-888P8Z8r8}8
+;3<?<~=
+>t>z>
+>+?R?{?
+0-0q0v0
+1!2O3_3
+3C4r4
+5%5+51575=5P5Z5_5l5}5
+6/6_6
+889t9
+:+:@:U:j:
+=1>b>
+324?4L4
+=4>8><>@>l>
+0-0:0
+2 2$2(2,2024282
+2K3^3
+5;5#6[6
+7F8t8
+9&9,9
+:f:w:
+:6;H;
+='>Q>h?
+0 0$0(0,0004080F0O0X0
+6$6K6U6v6|6
+7%7C7X7o7|7
+8#8-8>8J8P8d8
+9%929N9d9q9~9
+:):9:E:K:`:l:w:
+<'<<<O<V<[<f<
+=2?C?I?O?]?c?i?o?u?{?
+0(0Y0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+;*;0;<;J;
+<!<1<o<
+=$=0=[=
+040q0
+2r2(3/3
+4/5_5d5
+8O8Z8`8l8q8
+9L9P9T9X9\9
+:+:4:8:<:@:D:H:L:W:k:z:
+:";:;T;h;o;y;
+<%<4<H<L<T<Y<
+=0=6=A=
+>O>a>h>
+?*?A?R?
+0a0q0
+0 1I1M1R1
+1]2s2
+2@3N3i3r3x3
+4'4F4
+5$5)5=5B5V5[5o5t5
+607?7O7V7g7y7
+838A8T8~8
+9'9]9q9z9
+9L:o:
+;%;+;0;5;:;?;E;M;\;a;g;k;p;v;
+<#</<;<G<T<Z<`<s<
+=%=,=2=9=?=G=M=S=
+>$>*>/>5>:>@>E>K>P>V>[>a>f>l>q>w>|>
+>[?w?
+0P1W1j1
+2Q2~2
+3:3m3y3
+3T6e6{6
+7 8:8?8I8d8}8
+979g9
+:5;E;d;
+< =6=K=
+> >;>S>]>b>m>r>}>
+?8?i?
+0:0r0
+606I6U6^6c6h6}6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7+828T8
+8K9V9y9
+9Q:g:
+<'<1<:<D<J<S<Y<^<c<h<p<u<
+===G=z=
+>(>2><>F>K>U>_>i>n>y>
+>;?E?W?[?a?e?k?o?|?
+1"171K1t1
+1+2A2o2
+5$6-6\6|6"7;7E7
+7.8=8P8i8p8w8~8
+9@9N9
+:-:@:}:
+>&>.>;>I>b>k>
+>H?P?U?d?j?r?x?
+7I7~7
+8o9y9
+93:B:
+<$=e=p=
+1:2\2
+303<3W3
+6.676g6o6
+7.7:7I7k7
+:2:=:
+;F<N<U<f<
+<#=Q=h=
+>T>e>x>
+1$191?1
+4 4<4U4
+595k5
+6 6.6:6B6T6
+6$7+72787`7
+8*8D8e8
+8'9y9
+;,<Z=y=
+=0C0L0S0X0^0i0
+3	4L4s4
+6!6;6K6d6
+:0:K:Z:f:
+<0<O<i<z<
+=o=v=
+>R>~>
+?'?1?6?E?i?
+0(070f0q0
+1(1t1
+3%3R3a3
+;5;K;
+=!>8>\?
+0^0o0
+0Q1j1o1
+464{4
+74797@7
+9F9r9
+;b<t<
+=I=T=a=
+50[0
+1 1>1
+4D4R4
+6"6)6.6C6J6
+6)727^7
+989U:d:
+:N;u;
+<$<2<?<M<Z<h<t<
+</?O?^?
+60F0R0l0
+0-1C1X1o1
+2H3W3
+4	5)5C5R5
+:T:m:|:
+:!;0;f;
+=	>(>:>b>
+1<1e1
+;8;K;S;r;
+<k=r=y=q>
+3K4{4
+747`7o7
+85:G:Z:i:C;T;Z;i;
+=Q?`?p?
+2h3w3
+3[6n6
+778W8f8
+87:j:y:
+;,;7;
+=b>k>
+0"0,060@0J0
+3#3A3_3y3
+4"424H4R4&555I5b5
+;$;a;f;
+;9<S<
+0I0O0]0
+1%10151:1\1g1}1
+5-535F5l5
+:=:O:
+=1=V=b=u=
+>?>K>\>k>
+1H1U1t1j2o2t2y2~2
+3P3~3
+5V5_5
+6!6(6@6Q6X6i6x6
+6@7T7b7v7
+7;8h8
+9g:q:
+;R;~;
+<(<.<
+?,?0?
+?4?T?t?
+040T0t0D3H3L3P3|9
+=8=<=D=\=
+>0>=>D>
+?B?~?
+9a9j9
+;1<?<
+<.=M=
+= >&>/>6>_>
+>C?J?
+70F0X0x0
+041^1s1y1
+222<2
+5(5:5Q5f5l5y5
+5	6!6N6e6q6
+959Q9
+:5;d;r;
+;!<J<R<a<
+=-=Y=o=
+=(>7>
+040[0
+1)181H1]1u1
+324B4
+5+6u6
+9%:T:X:p:
+<$<@<
+= =4=M=z=
+><?_?l?
+0T0z0
+031L1l1
+2B3K3j3
+5V5n5
+5=6D6t6
+898O8c8y8
+819C9u9
+g0p0
+0:1U1~1
+2%242D2{2
+3'3:3
+7+7P7r7H8
+8W9E:
+:R;1<
+?"?K?a?q?
+60B0R0c0
+0:1z1
+2?3n3
+4.5^5
+6J7]7|7
+8Z9m9
+:4:L:Z:
+;%<|<
+<(=l=
+0"0V0\0e0l0
+2 242n2y2
+2?3E3X3i3
+424<4H5
+506L6R6x6
+6M7R7^7p7~7
+8*8u8
+9X9\9`9d9h9l9p9t9x9|9
+:":*:;:L:R:e:v:
+; ;&;T;X;{;
+<R=p=
+> >t>
+?>?i?
+2(323<3p4&565_5p5
+606B6
+<"<I<
+10O0]0k0y0
+1@1K1Q1Z1a1f1m1s1{1
+1;2C2M2
+2"383b3
+5G6[6
+;(;.;2;7;<;@;D;H;Q;m;
+;)<;<z<
+?#?=?E?K?i?
+0+1M1
+3n4u4
+6A7M7u7|7
+9 :I:
+;[<j<
+<s=~=
+131T1{1
+1\3r3w3
+3 5J5O5^546\6
+;U;b;l;
+>8?t?
+050D0
+2F2R2J3}3
+5k6y6
+7*787P7a7
+8-8b8
+9i:~;
+=R=D>
+2$2j4
+4,5L5_5p5
+6#6X6
+6<7v7
+7*8P8Z8
+8R9h9
+:U:z:
+;S;y;
+?!?'?-?4?<?D?L?X?a?f?l?v?
+0$0*00070?0G0O0Z0_0e0o0y0
+04191K1i1}1
+2E2J2Z2`2f2l2r2x2~2
+3U3_3h3o3x3~3
+3,404X4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=5=H=
+1;2\2
+3#30353?3
+3 4>4b4
+6-6@6k6
+747F7
+:8:@:U:b:t:
+:T;};
+<1<9<Y<s<
+<[=t=
+?M?[?
+1%2Z2|2
+5%5C5
+6K7_7
+;:;[;
+>P>r>
+?+?M?l?
+1:1{1
+2(2?2T2l2q2'3\3
+565T5
+6.696P6V6b6p6|6
+8L879
+:E:[:`:
+>'>4>=>B>H>[>w>
+?$?S?s?
+0:0@0]0l0s0x0
+1%1@1J1q1{1
+272X2h2
+4(4O4
+445K5
+6,6;6l6
+6H7i7
+979^9j9r9
+:$:O:\:
+:N;`;
+<N<`<
+=e>x>
+>D?X?
+0(0J1\1
+1*2<2
+2`3t3
+3+4Z4l4
+5V5h5,6@6
+9$9b9t9
+:0:n:
+:4;H;t;
+;?<P<m<|<
+=N=`=
+=&>8>
+?,?B?T?
+0R0d0
+101X1n1
+1^2p2
+3V3h3
+4 4H4h4|4
+4&585
+6.6@6h6~6
+7O7`7
+8(8>8P8
+;*;<;d;
+<K=\=
+>J>\>
+?D?d?x?
+000X0n0
+1 1H1^1p1
+2c2t2
+2+3<3
+4:4L4T4
+525D5l5
+6"646u6
+7(7v7
+7(8<8h8
+9,9J9\9d9y9
+:$:9:b:t:|:
+: ;4;\;|;
+;$<G<X<
+<6=H=
+=&>8>v>
+?&?8?p?
+&080
+0b1x1
+2,2T2j2|2
+3k3|3
+3(4<4Y4
+4	525D5L5l5
+6"646U6
+7.7@7h7~7
+8"848r8
+8#949\9r9
+:,:\:r:
+<<<\<p<
+<<=P=x=
+>B>T>
+0 0(00080@0H0P0X0h0p0
+1 1(10181@1H1P1X1`1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9,9H9P9X9`9h9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;(;8;@;\;l;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>@>P>`>h>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+0D0L0l0p0t0 1$10141@1D1L1P1T1\1`1d1l1p1t1|1
+2 2$20242@2D2L2P2T2\2`2l2p2|2
+3 3$30343@3D3P3T3\3`3d3l3p3t3
+4 4$4,40444@4D4
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1200
+http://microsoft.com0
+9ffB\
+p	p*W
+&5$o
+#7p;
+#,<t
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014710Z0#
+2d]+L@
+N0L0
+y@5>
+&)Etd
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1200
+http://microsoft.com0
+)saU
+E8Rl?
+20120727014711.752Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213537Z
+130409214537Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service0
+re;!
+^Kh_
+AN>I
+@Cm'
+>N$$8R
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ni()
+E2yv
+e`Ki
+1x]*
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120727002639Z
+20120728002639Z0t0:
+1,0*0
+1(0&0
+n2*?
+.i'EKq
+btM1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+GcgA
+s]mm
+~xpc
+`kd&
+{N%2y<B

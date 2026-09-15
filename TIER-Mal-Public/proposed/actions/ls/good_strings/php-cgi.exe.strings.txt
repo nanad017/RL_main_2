@@ -1,0 +1,656 @@
+!This program cannot be run in DOS mode.
+Rich\
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+D$DPj
+D$(P
+D$<P
+D$Hh
+D$ h
+D$(P
+t*VW
+t\Ph
+D$(h
+trj P
+D$$h
+D$,@P
+QPh(
+D$,h
+D$(h
+D$$VP
+t$$;
+D$$_^[3
+t(SWh\
+_^][
+_^][
+D$,P
+t$,U
+]_^[
+_^y#[
+\$ UVWS
+L$0Q
+D$@Pj
+D$,;
+</t,<\t(Sj
+D$$;
+D$,S
+D$,S
+D$,Sj j
+_^][
+1</t><\t:
+T$(U
+_^[]Y
+_^[3
+t,</t
+D$PSU
+D$0Pj
+D$<Pj
+D$0Pj
+D$DPj
+D$<Pj	ht
+D$HPj
+D$TPj
+D$$Pj
+D$0Pj
+</t&<\t"
+t$ j
+D$<P
+D$B%
+t+Uh
+t+Sh
+t\RU
+D$$Pj
+D$4P
+t+Sh
+j	ht
+t+Uh
+D$$Pj
+D$0Pj
+L$`_^][3
+t+<_u
+9CONT
+ENT_ut
+TYPEuk
+>CONTuf
+ENT_u]
+TYPEuT
+]^[3
+G< t
+u?h0
+t|j=P
+j=Q+
+y4Vh
+tsh<
+tDh<
+y-hT
+B;Ux|
+;ux}G
+F;ux|
+>#uP
+t|97uq9o
+t$ V
+t$(V
+t$(V
+ua9o
+_^][Y
+9/uY9_
+_^]3
+Ph@Z@
+D$XVWj
+L$X3
+D$,P
+D$(P
+D$ P
+D$LP
+D$HP
+D$$Ph
+D$DPh
+L$X3
+[_^3
+D$@Pf
+D$@j
+D$ Pj
+D$DPV
+L$,f
+D$ Pj
+VWhL"
+T$$V
+_^]3
+D$,+
+u"UP
+D$,Pj
+It,It I
+j	hL
+j	hX
+D$,+
+u"UP
+_^][3
+\$43
+D$(P
+D$,+
+D$,+
+D$,PV
+t$,3
+_^[3
+SUVW
+_^]3
+T$,;
+o(^[_
+l$,;
+G(^[_
+D$ t
+l$(3
+l$,t-
+w(^[_
+_[^]
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+Y__^[
+Out of memory
+interactive
+bindpath
+no-chdir
+php-ini
+define
+profile-info
+file
+help
+info
+syntax-check
+modules
+no-php-ini
+no-header
+syntax-highlight
+syntax-highlighting
+strip
+usage
+version
+zend-extension
+timing
+Continue
+Switching Protocols
+Created
+Accepted
+Non-Authoritative Information
+No Content
+Reset Content
+Partial Content
+Multiple Choices
+Moved Permanently
+Moved Temporarily
+See Other
+Not Modified
+Use Proxy
+Bad Request
+Unauthorized
+Payment Required
+Forbidden
+Not Found
+Method Not Allowed
+Not Acceptable
+Proxy Authentication Required
+Request Time-out
+Conflict
+Gone
+Length Required
+Precondition Failed
+Request Entity Too Large
+Request-URI Too Large
+Unsupported Media Type
+Precondition Required
+Too Many Requests
+Request Header Fields Too Large
+Unavailable For Legal Reasons
+Internal Server Error
+Not Implemented
+Bad Gateway
+Service Unavailable
+Gateway Time-out
+HTTP Version not supported
+Network Authentication Required
+HTTP/
+Status:%s
+Status:
+Status: %d %s
+Status: %d
+Content-Type:
+%s=%s
+HTTP_COOKIE
+PATH_INFO
+PHP_SELF
+SERVER_NAME
+DOCUMENT_ROOT
+cgi-fcgi
+CGI/FastCGI
+extension_filename
+Usage: %s [-q] [-h] [-s] [-v] [-i] [-f <file>]
+       %s <file> [args...]
+  -a               Run interactively
+  -b <address:port>|<port> Bind Path for external FASTCGI Server mode
+  -C               Do not chdir to the script's directory
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No php.ini file will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse <file>.  Implies `-q'
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -q               Quiet-mode.  Suppress HTTP Header output.
+  -s               Display colour syntax highlighted source.
+  -v               Version number
+  -w               Display source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+  -T <count>       Measure execution time of script repeated <count> times.
+SCRIPT_FILENAME
+PATH_TRANSLATED
+CONTENT_LENGTH
+CONTENT_TYPE
+SCRIPT_NAME
+SERVER_SOFTWARE
+Microsoft-IIS
+ORIG_PATH_INFO
+REDIRECT_URL
+ORIG_SCRIPT_NAME
+ORIG_SCRIPT_FILENAME
+ORIG_PATH_TRANSLATED
+REQUEST_METHOD
+QUERY_STRING
+HTTP_AUTHORIZATION
+cgi.rfc2616_headers
+cgi.nph
+cgi.check_shebang_line
+cgi.force_redirect
+cgi.redirect_status_env
+cgi.fix_pathinfo
+cgi.discard_path
+fastcgi.logging
+fastcgi.impersonate
+Content-Type
+Content-Length
+apache_child_terminate
+apache_request_headers
+apache_response_headers
+getallheaders
+API20131226,TS,VC11
+GATEWAY_INTERFACE
+REDIRECT_STATUS
+HTTP_REDIRECT_STATUS
+<b>Security Alert!</b> The PHP CGI cannot be accessed directly.
+<p>This PHP CGI binary was compiled with force-cgi-redirect enabled.  This
+means that a page will only be served up if the REDIRECT_STATUS CGI variable is
+set, e.g. via an Apache Action directive.</p>
+<p>For more information as to <i>why</i> this behaviour exists, see the <a href="http://php.net/security.cgi-bin">manual page for CGI security</a>.</p>
+<p>For more information about changing this behaviour or re-enabling this webserver,
+consult the installation file that came with this distribution, or visit 
+<a href="http://php.net/install.windows">the manual page</a>.</p>
+PHP_FCGI_BACKLOG
+Couldn't create FastCGI listen socket on port %s
+PHP_FCGI_MAX_REQUESTS
+PHP_FCGI_MAX_REQUESTS is not valid
+Interactive mode enabled
+[PHP Modules]
+[Zend Modules]
+19:48:19
+Jan 18 2017
+5.6.30
+PHP %s (%s) (built: %s %s)
+Copyright (c) 1997-2016 The PHP Group
+Access denied.
+No input file specified.
+No syntax errors detected in %s
+Errors parsing %s
+Elapsed time: %d.%06d sec
+2147483648
+2147483648
+FCGI_MPXS_CONNS
+_FCGI_SHUTDOWN_EVENT_
+_FCGI_MUTEX_
+Cannot resolve host name '%s'!
+Host '%s' has multiple addresses. You must choose one explicitly!
+Cannot bind/listen socket - [%d] %s.
+FCGI_WEB_SERVER_ADDRS
+Wrong IP address '%s' in FCGI_WEB_SERVER_ADDRS
+RESPONDER
+FCGI_ROLE
+AUTHORIZER
+FILTER
+WaitForSingleObject() failed
+Connection from disallowed IP address '%s' is dropped.
+Windows_NT
+RSDS
+C:\php-sdk\php56\vc11\x86\obj\Release_TS\php-cgi.pdb
+zend_llist_sort
+zend_unregister_ini_entries
+php_output_write_unbuffered
+php_ini_activate_config
+zend_hash_apply_with_argument
+_php_stream_seek
+php_request_shutdown
+tsrm_startup
+zend_llist_destroy
+_estrndup
+zend_hash_sort
+zend_qsort
+_erealloc
+open_file_for_scanning
+php_fopen_primary_script
+php_output_shutdown
+zend_hash_find
+zend_highlight
+sapi_startup
+_php_stream_getc
+sapi_get_request_time
+php_parse_user_ini_file
+php_import_environment_variables
+_zend_hash_init
+zend_extensions
+ts_resource_ex
+php_ini_activate_per_dir_config
+zend_parse_parameters
+php_request_startup
+php_output_deactivate
+sapi_globals_id
+php_print_info
+zif_dl
+tsrm_shutdown
+zend_dirname
+zend_llist_get_first_ex
+php_module_startup
+tsrm_realpath
+zend_error
+add_assoc_string_ex
+php_printf
+module_registry
+php_lint_script
+add_assoc_stringl_ex
+_estrdup
+_php_stream_tell
+zend_load_extension
+zend_hash_clean
+zend_llist_copy
+php_output_end_all
+zend_wrong_param_count
+php_url_decode
+zend_hash_destroy
+php_strlcat
+php_ini_activate_per_host_config
+sapi_module
+php_handle_auth_data
+_emalloc
+zend_file_handle_dtor
+executor_globals_id
+ts_allocate_id
+zend_str_tolower
+OnUpdateString
+php_get_highlight_struct
+_zval_copy_ctor_func
+display_ini_entries
+zend_strip
+_efree
+php_handle_aborted_connection
+zend_llist_apply_with_argument
+OnUpdateBool
+php_execute_script
+core_globals_id
+zend_hash_copy
+_zend_hash_add_or_update
+php_ini_has_per_dir_config
+php_module_shutdown
+php_output_write
+compiler_globals_id
+config_zval_dtor
+zend_llist_get_next_ex
+get_zend_version
+sapi_shutdown
+gettimeofday
+_array_init
+php_getopt
+ap_php_slprintf
+php_module_shutdown_wrapper
+zend_hash_num_elements
+zend_register_ini_entries
+php_register_variable_safe
+php_ini_has_per_host_config
+zend_printf
+_zval_dtor_func
+zend_strndup
+php5ts.dll
+WS2_32.dll
+WaitForSingleObject
+ConnectNamedPipe
+CreateEventA
+GetNamedPipeInfo
+DisconnectNamedPipe
+FlushFileBuffers
+GetStdHandle
+GetLastError
+CreateNamedPipeA
+SetNamedPipeHandleState
+ReleaseMutex
+CloseHandle
+CreateThread
+KERNEL32.dll
+GetSidSubAuthority
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+InitializeAcl
+ImpersonateNamedPipeClient
+AddAccessAllowedAce
+RevertToSelf
+GetSidLengthRequired
+InitializeSid
+ADVAPI32.dll
+feof
+_environ
+strncmp
+free
+_open
+malloc
+rewind
+strstr
+__iob_func
+strchr
+fflush
+atoi
+_errno
+fgetc
+isalnum
+fgets
+printf
+_read
+fopen
+isalpha
+fread
+fprintf
+_fileno
+ferror
+_fmode
+fwrite
+strrchr
+_setmode
+ftell
+_lseek
+_stat32
+realloc
+atol
+_write
+fseek
+getenv
+fclose
+clearerr
+exit
+_close
+calloc
+strerror
+strncpy
+_open_osfhandle
+_get_osfhandle
+MSVCR110.dll
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+_XcptFilter
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+__initenv
+_commode
+?terminate@@YAXXZ
+__crtSetUnhandledExceptionFilter
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+_invoke_watson
+_controlfp_s
+_except_handler4_common
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+DecodePointer
+_putenv
+_strdup
+_fdopen
+_strnicmp
+_stricmp
+_setjmp3
+memcpy
+memset
+php-cgi.exe
+OPENSSL_Applink
+wwwwwwwwwwwwwwww
+wwwx
+wwwwwwx
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"> 
+       <application> 
+           <!-- Windows Vista -->
+           <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS> 
+           <!-- Windows 7 -->
+           <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"></supportedOS>
+           <!-- Windows 8 -->
+           <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>
+           <!-- Windows 8.1 -->
+           <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"></supportedOS>
+           <!-- Windows 10 -->
+           <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"></supportedOS>
+       </application> 
+   </compatibility>
+</assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0"020B0R0b0
+1!1&1+10161:1@1D1J1N1T1X1^1b1h1l1r1v1|1
+1,2;2F2N2T2_2k2r2
+3(3/3:3d3j3
+4*4E4W4e4
+4	565G5b5y5
+6(636C6e6
+6!7p7
+7V8p8
+849^9v9
+;.<h<
+<"=D=j=r=
+>->:>[>
+?%?>?E?\?}?
+10L0Q0s0y0
+121A1T1g1
+2"262E2U2q2
+3L3R3\3g3|3
+4B4b4
+5&5,555>5c5
+6!6/6;6[6
+838=8
+:;:_:z:
+;3;g;
+<!<;<[<w< ===C=I=
+>!>*>1>6><>H>
+>*?A?^?t?
+060L0_0
+1*1@1S1b1v1
+2W2n2
+4/4B4L4V4c4i4r4
+4"5=5S5f5y5
+6*656O6j6x6
+7)7/7A7V7a7v7
+979e9
+:<:K:
+:);5;Z;q;
+;/<y<
+=<=P=b=
+>'>/>5>F>L>U>i>
+?.?h?z?
+0'0[0a0g0z0
+10161=1B1P1U1b1
+2*23282=2C2c2v2
+3 3+3d3o3
+4"4(424P4X4c4q4
+5 5(5.5=5E5k5{5
+5*6L6}6
+7 7&7`7f7r7w7|7
+848:8F8L8f8u8
+8V9d9
+:-:\:t:
+;*;6;C;M;g;
+<K<[<c<
+>%>3>H>^>i>u>
+?B?L?d?
+0(0:0[0a0f0k0r0w0}0
+1A1H1O1X1z1
+2.282@2_2
+263E3Y3c3k3~3
+3,424<4D4Y4b4h4
+5 5$5(5,50545a5
+8H:N:c:r:y:
+;$;6;<;N;\;r;z;
+<><g<z<
+=?=R=
+>$>=>s>
+?,???L?R?d?
+0&070A0^0n0y0
+1-1]1
+1+3@3
+5	636L6U6\6
+7"8L8\8
+909F9
+;1;E;
+<&<I<Q<]<y<
+=4=D=N=V=^=
+>D>S>q>
+0 070G0O0_0j0
+2&3=3Q3Y3
+6 636E6W6a6
+7(7`7f7l7r7x7~7
+8+848e8k8q8w8}8
+9!9-939E9O9X9b9h9q9w9|9
+: :::Z:l:t:y:~:
+;$;.;M;S;];c;l;q;
+;V<[<m<
+<H=k=w=
+>%>+>>>S>^>t>
+>:?@?Q?n?
+0n0t0z0
+4$404<4H4T4`4l4x4
+545<5D5L5p5x5
+5$6,646<6`6h6p6x6
+6\7p7t7x7
+8$8,848<8D8L8T8\8d8l8t8|8
+0 0$0(0,00040<0@0H0P0T0X0\0$1(1,101<1h1

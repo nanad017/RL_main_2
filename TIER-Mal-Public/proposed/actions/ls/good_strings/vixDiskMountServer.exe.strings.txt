@@ -1,0 +1,4611 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+$t6F
+hd6F
+hh6F
+h`6F
+5|6F
+5d6F
+5h6F
+5`6F
+8csm
+h84E
+_^[]
+hX4E
+Y_^[
+Y_^[
+Y__^[
+VVVVV
+%x7F
+-t7F
+SVWP
+Y_^[
+@PVR
+gfff
+=<PE
+4?@;
+j QS
+gfff
+;$u3;}
+;$u6;}
+<3u4
+t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+ t1;u
+t1;u
+t1;u
+t1;u
+ t1;u
+t1;u
+@t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+ t1;u
+t1;u
+t1;u
+t5;u
+t5;u
+t5;u
+ t5;u
+t5;u
+;$u+
+;$u=
+<3u@
+tqBA
+|<9U
+|69U
+|=9}
+!!!!!!!!!	
+!!!!!!!!
+!! !
+SVWh]
+_^[]
+t9Vh(
+F4@B
+w#SQP
+uhVW
+uPVh
+HtQh
+^XWV
+^XWV
+VXRh8
+=|QE
+(SVW
+RPQh
+P(Rt
+P RPh,
+FTPh
+WSRP
+xPTQ
+P0RS
+FRPj
+Fu";u
+~	;S
+PQWV
+st	;C
+PQjnj
+hxQE
+PQjxj
+hxQE
+QSVW3
+VWPh
+SVWh
+QHPRh
+u9Wj
+WVhL
+QPhX
+hp{@
+BRPQh
+PQRh
+Wj.V
+QRWV
+_^[]
+_^[]
+_^[]
+SPSh
+i@PV
+>_[^
+_^[]
+SVWP3
+QPRh
+QRVh
+SVWj
+RPWj
+QRPW
+PVh 
+WQh4
+VRShX
+[VhX
+VPShx
+[_Vhx
+3jdj
+H,[Vh
+SVWj
+[^_]
+SVWP
+PWSh
+SVWP
+PVSh
+PVh8
+uMVWS
+_^[]
+u&F;
+SVWP3
+t*SW
+PVh$
+VWSj
+@_^[]
+hH:F
+hH:F
+hH:F
+hH:F
+WVU3
+v	N+D$
+v	N+D$
+QSVWh
+t-Vh
+SVWj
+SVWj
+PWVQ
+QSVWh
+RPVQ
+QSVW3
+RPWQ
+PWVh
+RPQh
+RPhx
+V.PQRhH
+QPh 
+HPFVW
+tIVC
+QRWh
+SVWP
+Y_^[
+udVj 
+_^[]
+_^[]
+NHQh
+V8Rh
+SVWjPj
+u8VWP
+_^[]
+_^[]
+Vj(j
+6t	P
+SVHW
+7_^[
+RVh "D
+RVh "D
+8"u+
+QRVh
+PQVhH!D
+8"u5
+QRVh
+RPVhh D
+$QVh
+up_^
+u._^
+j@hp%D
+QjOjOhh%D
+QVWP
+@PWV
+h|%D
+t#Vj
+H8V3
+(_^]
+SVWPhX&D
+PWhH&D
+I8W3
+PWhH&D
+Php&D
+PShh&D
+hd&D
+$SVW
+I8h\
+Php&D
+hh&D
+RWhh&D
+=\CF
+h|%D
+=\CF
+u[VWj`
+h|%D
+tRWj
+h|%D
+h|%D
+SVWj
+5XCF
+Y,_^[]
+p8^]
+H8R3
+RPPh<'D
+?(udj)GW
+ht'D
+ @;C
+h|%D
+ht'D
+ @;C
+h|%D
+8SVW
+utWh
+h|)D
+t Wj
+j/hlCF
+tCPj
+QPWS
+h@*D
+(SVWhd
+hl*D
+_^[f
+h@4D
+hp3D
+h`1D
+hp0D
+hx/D
+h8.D
+h\-D
+hx,D
+hL+D
+@u"h
+hp6D
+hD6D
+ht5D
+h\5D
+hD5D
+PQhP7D
+h<7D
+h(7D
+hx;D
+h`;D
+hT;D
+h<;D
+h0;D
+hp:D
+hd:D
+h8:D
+h :D
+ t)h
+ht9D
+hT9D
+h@9D
+h 9D
+hx8D
+h`8D
+hD8D
+h 8D
+Au/h
+ZuTh
+ht7D
+hl7D
+h`7D
+h4<D
+hX<D
+PQRhL<D
+hL*D
+hL*D
+Phl=D
+hP=D
+Phl=D
+h4=D
+RPVj
+Phl=D
+vSPSh
+?SPSh
+HPSV
+hd?D
+h@?D
+h`>D
+h(>D
+vSPSh
+?SPSh
+HPSV
+h`@D
+h@@D
+ulWj
+PhHAD
+PWQh
+7_^]
+h DF
+h$DF
+h$DF
+h(DF
+SVWj
+_^[]
+t2SV
+_^[]
+>$u,
+u=h\
+h\BD
+h(BD
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+VSQR
+ZY[^
+N8Qh
+SVWjHj
+t&Ph
+h,DD
+h(FD
+=X.F
+SRVWQP
+h0FD
+h(FD
+=X.F
+=X.F
+=X.F
+PQhD
+h0FD
+=X.F
+h0FD
+h0FD
+RWPj
+=X.F
+hHFD
+hdFD
+hHFD
+vcSV
+WPQR
+WSPV
+hxOD
+N$QhXOD
+V@RhLOD
+Ph8OD
+u<Vj
+SLWR
+PhXPD
+h<PD
+PhPPD
+h<PD
+h`PD
+h$QD
+3j@V
+VhXQD
+u/hhQD
+PQRV
+Ph4RD
+h RD
+PWhP
+VhLEF
+VhLEF
+SVWj
+_^[]
+VPQR
+<%u(
+HPRQ
+AQP+
+H<0r
+<9v@<.t<<#t8<-t4< t0<+t,<'t(<Lt$<lt <ht
+hPuD
+VPQu$j
+u>h+
+hPuD
+<3u:
+:Nu"
+tbFA
+!!!!!!!!!	
+!!!!!!!!
+!! !
+;.u@C
+U,_^
+RWSPQ
+SWRP
+hPuD
+RPQhTvD
+hPuD
+hPuD
+hPuD
+SWQRh
+SWQRPhpuD
+hPuD
+SVWP
+Qh@QA
+GWhhwD
+t"PhLwD
+h,wD
+hPuD
+RPVQ
+RPQVh
+QRPVh
+SVW3
+RPSQ
+PQWR
+zu)j
+QRPV
+SVWP
+PRSQ
+PRSQ
+~	_^2
+j\W3
+QVRS
+;slW
+Cl;sl}5
+;~l|B
+Fl;~l[}
+0j;S
+h$xD
+JR@P
+} j\V
+h$xD
+h$xD
+U QR
+j	h8xD
+h,xD
+tYj/W
+utj-W
+SQWRP
+SRWPQ
+SRWPQ
+tKSV
+^[_]
+5(FF
+t"<\u
+=,FF
+9~8t
+@8WQ
+3^[3
+1VWS
+QRSV
+8^!u	V
+PWVQ
+~!;M
+\2L@B;E
+v	;u
+U$^_
+KDQVR
+~%;u
+\Atf
+;_^2
+\Atf
+\Qt@B;E
+E$^[
+uTWj
+WVPQ
+8E4u=
+8PEu
+8PEu
+=1FF
+=1FF
+=1FF
+=1FF
+PQRt
+=1FF
+PQRt
+hH|D
+RQh`|D
+PQh(6F
+;O$}w
+;C$}
+;K ~
+7@_;
+w(VQ
+upW3
+N(QR
+~(WQ
+<Cu@
+Du.8J
+<Tu0
+VWS3
+PQh4
+x	nu
+SVWP
+<}iF
+t=<,u
+^[_]
+u	9]
+[_^]
+[_^]
+u|VW
+x	vu
+=8HF
+=8HF
+tiSF
+uD8E
+5 HF
+RPSj
+QRWP
+Qf;E
+RQSPV
+RQPV
+f;\z
+f;LB
+tF[_2
+:C<~
+C<_[^
+(SVW
+~#Sj
+_^[]
+_^[]
+4SVW
+t#+U
+LSVW
+t	9]
+uh9U
+SPRW
+_^[]
+<?w3
+Ff;E
+Af;E
+qBt)
+f;Qp
+PQRVS
+J?9}
+t~} 
+xBt"S
+f9Xp[w
+tP8]
+j\W2
+PWVVh`
+QWVVh`
+@^_[
+PQRh
+PQRh
+tJWj
+h@HF
+5@HF
+hDHF
+5DHF
+Pj V
+@hpuB
+h0tB
+u(h"
+QVhH
+QSVW3
+VVVVVVh
+jHh,
+SVW3
+WRhH
+SVW3
+WVhH
+QSVW3
+=H5F
+jFhx
+WSSS
+VSRP
+SVW3
+t7VW
+] WVS
+WVWVPQR
+S@PQ
+hxKF
+_^[]
+t$WV
+t$WV
+jhPR
+	jhPQ
+j\PR
+	j\PQ
+(SVW
+, G<^
+<	uo<+t)f
+^wv<&t)f
+&F;u
+L:%u
+B8;]
+\:%;
+}+;E
+s';U
+sD;}
+Wu&Sj
+u&Wj
+[_^]
+sD;M
+Wu&Sj
+[_^]
+u4GC
+RVtS
+x0_^[
+y0_^[
+z0_^[
+uC;{
+9J,t
+9J,t
+^0^[
+^0^[
+ SVW
+t	9U
+u7;M
+u-;U
+P|M=
+~	;U
+~	;]
+wr;}
+u+;E
+X,[]
+_^[]
+Q0Wf
+P,_^t
+tQ;P
+tN;P
+ _^[]
+S$tQ
+S8[]
+S8_^[]
+XKt'
+_^[]
+,h<@s
+,h<@s
+u"+]
+WShd
+:_[]
+^_[]
+9H0ui
+9X8t
+^[_]
+8YPt
+< r=O
+QVR2
+QVR2
+u3;F
+jTPS
+9Q@u
+t?V3
+xckuH
+t,8^?u
+PQVR
+E`$E
+:Z:t
+u	8S6
+s&;{
+O$Vj
+,!<>
+,!F:
+W8PS
+t	;]
+w*;]
+ue;U
+u	_[
+ul;}
+< |t
+:\>6t2
+:W:t(
+G$Sj
+9N@uF
+8O4t
+G8Qj
+V(_^
+S(PR
+_^[]
+Gc<ct
+$_^[]
+WPt/
+PhH,E
+Rh8,E
+90}-
+QSVW
+AQVS
+u!_[3
+RVWS=
+~%WQ
+] PQR
+AB;M
+F%WP
+f;<Cs
+f;<Kv
+f;<Kv
+f;<Kv
+^}	f;<Ku
+;P,|
+t9x%
+u[[^3
+PQSVRW
+W#QR
+U$PR
+GC_^2
+QRSP
+E BRP
+@;E(
+_^[]
+SQRWVP
+_<]v"
+_<]w
+U ;u
+} ;U
+h xD
+Php.E
+hL.E
+Php.E
+h,.E
+Php.E
+h xD
+<$Xf
+bad allocation
+build-2949415
+VMware-mount
+vmount
+-driver
+%s:%d Buffer too small 0x%x
+d:/build/ob/bora-2949415/bora/lib/string/str.c
+NOT_IMPLEMENTED %s:%d
+0123456789abcdef?
+0123456789ABCDEF?
+d:/build/ob/bora-2949415/bora/lib/string/bsd_vsnprintf.c
+(null)
+-inf
+0123456789abcdef0123456789ABCDEF
+Looping pid=%d
+kernel32.dll
+Win32 object usage: GDI %d, USER %d
+GetGuiResources
+user32.dll
+Exiting
+Panic loop
+NOT_REACHED %s:%d
+# make sure that no VMware virtual machines are running.
+# If you must edit this file in spite of our recommendations, please first
+# This file is automatically generated and maintained by VMware products.
+# DO NOT EDIT THIS FILE.
+msg.dictionary.error
+preferenceLock
+PREF early PreferenceGet(%s), using default
+vmware
+logLock_%p
+@&!*@*@(msg.log.openFailed)Cannot open or create the log file '%s': %s
+@&!*@*@(msg.log.switchFailed)Unable to open the log file "%s". Make sure that the path specified for the log file is valid, and that you have write privileges in this directory.
+%c%02d:%02d
+.%03d
+%04d-%02d-%02dT%02d:%02d:%02d
+%s%s
+%s%s%s
+%c%03d%s 
+%sHost is %s
+Log creation time is %s
+Host codepage=%s encoding=%s
+The process is %Iu-bit.
+Log for %s pid=%d version=%s build=%s option=%s
+Release
+>>> Error writing log, %I64u bytes discarded. Disk full?
+<<< %s Throttled >>>
+*LONG LINE TRUNCATION*
+unknown
+kernel32
+%s: Couldn't get a temporary directory
+FileGetTmpDir
+%s\Temp
+tmpDirectory
+%s\%S
+%s: Out of memory error.
+FileFindExistingSafeTmpDir
+%s\%s-%s-*
+%s: Failed to create a safe temporary directory, path "%s". The maximum number of attempts was exceeded.
+%s: malloc failure.
+FileCreateSafeTmpDir
+%s\%s-%s-%u
+%s\%s-%s
+%s: GetUserName failed.
+%s: FileGetTmpDir failed.
+File_GetSafeTmpDir
+d:/build/ob/bora-2949415/bora/lib/file/fileTempWin32.c
+getSafeTmpDirLock
+@&!*@*@(button.cancel)Cancel
+@&!*@*@(button.file.create.overwrite)Overwrite
+@&!*@*@(button.file.create.retry)Retry
+%s\%s
+d:/build/ob/bora-2949415/bora/lib/file/file.c
+fileSimpleRandomLock
+OFILE: %s: failed to rename %s -> %s: %s
+FILE: %s: failed to remove %s: %s
+FileRotateByRename
+%s-%d%s
+FILE: %s: failed to get base dir for path '%s'.
+FILE: %s: failed to rename %s -> %s failed: %s
+%s/%s-%d%s
+FILE: %s: failed to read the directory '%s'.
+%s-%%d%s%%n
+FILE: %s: failed to get full path for '%s'.
+FileRotateByRenumber
+WININIT.INI
+[Rename]
+FILE: %s:  _wfullpath failed on (%s): %d
+File_FullPath
+FILE: %s: retry time expired (%u, %s); last error %d
+FILE: %s: FindNextFile failure (%d) on (%s)
+FILE: %s: FindClose failure (%d) on (%s)
+FileListDirectoryRetry
+\*.*
+FILE: %s: Couldn't realloc
+FILE: %s: Cannot get the directory's security descriptor.Directory is "%S", error is %d.
+FILE: %s: Unable to check access rights (error %d).
+FILE: %s: Cannot get the process access token (error %d).
+FILE: %s: Unable to impersonate self (error %d).
+FILE: %s: Cannot get the thread access token (error %d).
+FileIsWritableDir
+FILE: %s unmapped error code %d
+FileDeletionRetry
+FileCreateDirectoryRetry
+FileAttributesRetry
+FILE: %s: GetVolumeInformation failed: %d
+File_DoesVolumeSupportAcls
+@&!*@*@X
+MEM_ALLOC %s:%d
+d:/build/ob/bora-2949415/bora/lib/unicode/unicodeSimpleBase.c
+UTF-8
+iscii-gur
+x-iscii-pa
+Windows-57011
+x-iscii-guj
+x-iscii-gu
+Windows-57010
+iscii-mlm
+x-iscii-ma
+Windows-57009
+iscii-knd
+x-iscii-ka
+Windows-57008
+iscii-ori
+x-iscii-or
+Windows-57007
+x-iscii-as
+Windows-57006
+iscii-tlg
+x-iscii-te
+Windows-57005
+iscii-tml
+x-iscii-ta
+Windows-57004
+iscii-bng
+x-iscii-be
+Windows-57003
+ibm-4902
+iscii-dev
+x-iscii-de
+Windows-57002
+Windows-51950
+Windows-50939
+Windows-50937
+Windows-50936
+Windows-50935
+Windows-50933
+Windows-50931
+Windows-50930
+Windows-50229
+iso-8859-8-i
+x-Europa
+Windows-29001
+Windows-21027
+ibm-1025_P100-1995
+1025
+ibm-1025
+cp1025
+x-cp20949
+Windows-20949
+x-EBCDIC-KoreanExtended
+Windows-20833
+x-cp20269
+Windows-20269
+x-IA5-Norwegian
+Windows-20108
+x-IA5-Swedish
+Windows-20107
+x-IA5-German
+Windows-20106
+x-IA5
+Windows-20105
+x-cp20005
+Windows-20005
+x-cp20004
+Windows-20004
+x-cp20003
+Windows-20003
+x_Chinese-Eten
+Windows-20002
+x-cp20001
+Windows-20001
+x-Chinese_CNS
+Windows-20000
+x-mac-croatian
+Windows-10082
+macos-35-10.2
+mactr
+x-mac-turkish
+Windows-10081
+x-mac-icelandic
+Windows-10079
+macos-29-10.2
+x-mac-centraleurroman
+maccentraleurope
+macce
+x-mac-ce
+Windows-10029
+x-mac-thai
+Windows-10021
+x-mac-ukrainian
+Windows-10017
+x-mac-romanian
+Windows-10010
+x-mac-chinesesimp
+Windows-10008
+macos-7_3-10.2
+mac-cyrillic
+maccy
+x-mac-cyrillic
+Windows-10007
+macos-6_2-10.4
+macgr
+x-mac-greek
+Windows-10006
+x-mac-hebrew
+Windows-10005
+x-mac-arabic
+Windows-10004
+x-mac-korean
+Windows-10003
+x-mac-chinesetrad
+Windows-10002
+x-mac-japanese
+Windows-10001
+Windows-10000
+Johab
+Windows-1361
+ibm-875_P100-1995
+IBM875
+ibm-875
+cp875
+ibm-737_P100-1997
+cp737
+IBM737
+Windows-737
+ibm-720_P100-1997
+ibm-720
+DOS_720
+DOS-720
+Windows-720
+Windows-710
+BCON_V4
+ASMO-449+
+Windows-709
+MS874
+windows-874-2000
+ibm-1258_P100-1997
+ibm-1258
+cp1258
+ibm-5354
+ibm-5354_P100-1998
+windows-1258
+ibm-5353_P100-1998
+ibm-5353
+cp1257
+ibm-9449
+ibm-9449_P100-2002
+windows-1257
+ibm-5352_P100-1998
+ibm-5352
+cp1256
+ibm-9448
+ibm-9448_X100-2005
+windows-1256
+ibm-5351_P100-1998
+ibm-5351
+cp1255
+ibm-9447
+ibm-9447_P100-2002
+windows-1255
+ibm-1254_P100-1995
+ibm-1254
+cp1254
+ibm-5350
+ibm-5350_P100-1998
+windows-1254
+ibm-1253_P100-1995
+ibm-1253
+cp1253
+ibm-5349
+ibm-5349_P100-1998
+windows-1253
+ibm-1252
+ibm-1252_P100-2000
+cp1252
+ibm-5348
+ibm-5348_P100-1997
+windows-1252
+ibm-1251
+ibm-1251_P100-1995
+ANSI1251
+cp1251
+ibm-5347
+ibm-5347_P100-1998
+windows-1251
+ibm-1250
+ibm-1250_P100-1995
+cp1250
+ibm-5346
+ibm-5346_P100-1998
+windows-1250
+csTSCII
+TSCII
+csBRF
+KOI7-switched
+Ami-1251
+Amiga1251
+Ami1251
+Amiga-1251
+Cyrillic-Asian
+CP154
+PT154
+csPTCP154
+PTCP154
+ibm-1047_P100-1995
+1047
+cp1047
+IBM-1047
+IBM1047
+hkbig5
+MS950_HKSCS
+ibm-5471
+ibm-5471_P100-2006
+HKSCS-BIG5
+big5hk
+ibm-1375
+ibm-1375_P100-2007
+Big5-HKSCS
+ibm-1149_P100-1997
+cp1149
+ibm-1149
+ebcdic-is-871+euro
+CP01149
+CCSID01149
+IBM01149
+ibm-1148_P100-1997
+cp1148
+ibm-1148
+ebcdic-international-500+euro
+CP01148
+CCSID01148
+IBM01148
+ibm-1147_P100-1997
+cp1147
+ibm-1147
+ebcdic-fr-297+euro
+CP01147
+CCSID01147
+IBM01147
+ibm-1146_P100-1997
+cp1146
+ibm-1146
+ebcdic-gb-285+euro
+CP01146
+CCSID01146
+IBM01146
+ibm-1145_P100-1997
+cp1145
+ibm-1145
+ebcdic-es-284+euro
+CP01145
+CCSID01145
+IBM01145
+ibm-1144_P100-1997
+cp1144
+ibm-1144
+ebcdic-it-280+euro
+CP01144
+CCSID01144
+IBM01144
+ibm-1143_P100-1997
+cp1143
+ibm-1143
+ebcdic-se-278+euro
+ebcdic-fi-278+euro
+CP01143
+CCSID01143
+IBM01143
+ibm-1142_P100-1997
+cp1142
+ibm-1142
+ebcdic-no-277+euro
+ebcdic-dk-277+euro
+CP01142
+CCSID01142
+IBM01142
+ibm-1141_P100-1997
+cp1141
+ibm-1141
+ebcdic-de-273+euro
+CP01141
+CCSID01141
+IBM01141
+ibm-1140_P100-1997
+cp1140
+ibm-1140
+ebcdic-us-37+euro
+CP01140
+CCSID01140
+IBM01140
+ebcdic-Latin9--euro
+CP00924
+CCSID00924
+IBM00924
+ibm-858_P100-1997
+cp858
+ibm-858
+PC-Multilingual-850+euro
+CP00858
+CCSID00858
+IBM00858
+ibm-1168_P100-2002
+ibm-1168
+KOI8-U
+ibm-775_P100-1996
+csPC775Baltic
+cp775
+IBM775
+ibm-866_P100-1995
+csIBM866
+cp866
+IBM866
+HZ-GB-2312
+ibm-878_P100-1996
+ibm-878
+cp878
+koi8
+csKOI8R
+KOI8-R
+csVIQR
+VIQR
+csVISCII
+VISCII
+csMnem
+MNEM
+csMnemonic
+MNEMONIC
+csUnknown8BiT
+UNKNOWN-8BIT
+csEBCDICUS
+EBCDIC-US
+csEBCDICUK
+EBCDIC-UK
+csEBCDICESS
+EBCDIC-ES-S
+csEBCDICESA
+EBCDIC-ES-A
+csEBCDICES
+EBCDIC-ES
+csEBCDICPT
+EBCDIC-PT
+csEBCDICIT
+EBCDIC-IT
+csEBCDICFR
+EBCDIC-FR
+csEBCDICFISEA
+EBCDIC-FI-SE-A
+csEBCDICFISE
+EBCDIC-FI-SE
+csEBCDICDKNOA
+EBCDIC-DK-NO-A
+csEBCDICDKNO
+EBCDIC-DK-NO
+csEBCDICCAFR
+EBCDIC-CA-FR
+csEBCDICATDEA
+EBCDIC-AT-DE-A
+csIBMEBCDICATDE
+EBCDIC-AT-DE
+1026
+ibm-1026_P100-1995
+csIBM1026
+CP1026
+IBM1026
+ibm-918_P100-1995
+csIBM918
+ebcdic-cp-ar2
+CP918
+IBM918
+csIBM905
+ebcdic-cp-tr
+CP905
+IBM905
+csIBBM904
+cp904
+IBM904
+csIBM903
+cp903
+IBM903
+csIBM891
+cp891
+IBM891
+csIBM880
+EBCDIC-Cyrillic
+cp880
+IBM880
+ebcdic-is
+ibm-871_P100-1995
+csIBM871
+ebcdic-cp-is
+CP871
+IBM871
+ibm-870_P100-1995
+csIBM870
+ebcdic-cp-yu
+ebcdic-cp-roece
+CP870
+IBM870
+ibm-869_P100-1995
+csIBM869
+cp-gr
+cp869
+IBM869
+ibm-868_P100-1995
+csIBM868
+cp-ar
+CP868
+IBM868
+ibm-865_P100-1995
+csIBM865
+cp865
+IBM865
+ibm-864_X110-1999
+csIBM864
+cp864
+IBM864
+ibm-863_P100-1995
+csIBM863
+cp863
+IBM863
+ibm-861_P100-1995
+csIBM861
+cp-is
+cp861
+IBM861
+ibm-860_P100-1995
+csIBM860
+cp860
+IBM860
+ibm-857_P100-1995
+csIBM857
+cp857
+IBM857
+csPCp855
+ibm-855_P100-1995
+csIBM855
+cp855
+IBM855
+ibm-852_P100-1995
+csPCp852
+cp852
+IBM852
+csPC851
+ibm-851_P100-1995
+csIBM851
+cp851
+IBM851
+ibm-500_P100-1995
+csIBM500
+ebcdic-cp-ch
+ebcdic-cp-be
+CP500
+IBM500
+ibm-437_P100-1995
+csPC8CodePage437
+cp437
+IBM437
+ibm-424_P100-1995
+csIBM424
+ebcdic-cp-he
+cp424
+IBM424
+csIBM423
+ebcdic-cp-gr
+cp423
+IBM423
+ibm-420_X120-1999
+csIBM420
+ebcdic-cp-ar1
+cp420
+IBM420
+cpibm297
+ibm-297_P100-1995
+csIBM297
+ebcdic-cp-fr
+cp297
+IBM297
+ibm-290_P100-1995
+csIBM290
+EBCDIC-JP-kana
+cp290
+IBM290
+csIBM285
+ebcdic-cp-gb
+CP285
+IBM285
+cpibm284
+ibm-284_P100-1995
+csIBM284
+ebcdic-cp-es
+CP284
+IBM284
+csIBM281
+cp281
+EBCDIC-JP-E
+IBM281
+ibm-280_P100-1995
+csIBM280
+ebcdic-cp-it
+CP280
+IBM280
+ebcdic-sv
+ibm-278_P100-1995
+csIBM278
+ebcdic-cp-se
+ebcdic-cp-fi
+CP278
+IBM278
+ebcdic-dk
+cp277
+ibm-277_P100-1995
+csIBM277
+EBCDIC-CP-NO
+EBCDIC-CP-DK
+IBM277
+csIBM275
+cp275
+EBCDIC-BR
+IBM275
+csIBM274
+CP274
+EBCDIC-BE
+IBM274
+ebcdic-de
+ibm-273_P100-1995
+csIBM273
+CP273
+IBM273
+csIBM038
+cp038
+EBCDIC-INT
+IBM038
+cp37
+cpibm37
+ibm-37
+ibm-37_P100-1995
+csIBM037
+ebcdic-cp-nl
+ebcdic-cp-wt
+ebcdic-cp-ca
+ebcdic-cp-us
+cp037
+IBM037
+x-macroman
+macroman
+macos-0_2-10.2
+csMacintosh
+macintosh
+ibm-1373
+ibm-1373_P100-2002
+x-big5
+windows-950-2000
+windows-950
+csBig5
+Big5
+ibm-1383_VPUA
+hp15CN
+ibm-eucCN
+EUC-CN
+1383
+cp1383
+ibm-1383
+ibm-1383_P110-1999
+csGB2312
+GB2312
+csWindows31J
+Windows-31J
+csMicrosoftPublishing
+Microsoft-Publishing
+csVenturaMath
+Ventura-Math
+csHPDesktop
+HP-DeskTop
+csHPPSMath
+Adobe-Symbol-Encoding
+csHPMath8
+HP-Math8
+csHPPiFont
+HP-Pi-font
+csHPLegal
+HP-Legal
+ibm-9030
+cp838
+IBM838
+ibm-838
+ibm-838_P100-1995
+csIBMThai
+IBM-Thai
+csIBMSymbols
+IBM-Symbols
+csPC8Turkish
+PC8-Turkish
+DOS-862
+ibm-862_P100-1995
+csPC862LatinHebrew
+cp862
+IBM862
+csPC8DanishNorwegian
+PC8-Danish-Norwegian
+ibm-850_P100-1995
+csPC850Multilingual
+cp850
+IBM850
+csDECMCS
+DEC-MCS
+csVenturaInternational
+Ventura-International
+csVenturaUS
+Ventura-US
+ibm-1276
+ibm-1276_P100-1995
+csAdobeStandardEncoding
+Adobe-Standard-Encoding
+ibm-1051
+ibm-1051_P100-1995
+csHPRoman8
+roman8
+hp-roman8
+csWindows31Latin5
+ISO-8859-9-Windows-Latin-5
+csWindows31Latin2
+ISO-8859-2-Windows-Latin-2
+csWindows31Latin1
+ISO-8859-1-Windows-3.1-Latin-1
+csWindows30Latin1
+ISO-8859-1-Windows-3.0-Latin-1
+ibm-1215
+ibm-1214
+csBOCU-1
+BOCU-1
+ibm-1235
+ibm-1234
+UTF32_LittleEndian
+UTF-32LE
+ibm-9424
+ibm-1233
+ibm-1232
+UTF32_BigEndian
+UTF-32BE
+UTF-32
+ibm-9400
+csCESU-8
+CESU-8
+UTF-16
+UnicodeLittleUnmarked
+UTF16_LittleEndian
+ibm-29875
+ibm-29874
+ibm-25779
+ibm-25778
+ibm-21683
+ibm-21682
+ibm-17587
+ibm-17586
+ibm-13491
+ibm-13490
+ibm-1203
+ibm-1202
+x-utf-16le
+UTF-16LE
+UnicodeBigUnmarked
+UTF16_BigEndian
+cp1201
+cp1200
+ibm-61956
+ibm-61955
+ibm-29873
+ibm-29872
+ibm-25777
+ibm-25776
+ibm-21681
+ibm-21680
+ibm-17585
+ibm-17584
+ibm-13489
+ibm-13488
+ibm-1201
+ibm-1200
+x-utf-16be
+UTF-16BE
+UTF-7
+ibm-1213
+ibm-1212
+SCSU
+csUnicode11
+UNICODE-1-1
+csUnicodeIBM1265
+ISO-Unicode-IBM-1265
+csUnicodeIBM1264
+ISO-Unicode-IBM-1264
+csUnicodeIBM1276
+ISO-Unicode-IBM-1276
+csUnicodeIBM1268
+ISO-Unicode-IBM-1268
+csUnicodeIBM1261
+ISO-Unicode-IBM-1261
+ISO-10646-J-1
+ISO-10646
+csUnicodeLatin1
+ISO-10646-Unicode-Latin1
+csUnicodeASCII
+ISO-10646-UCS-Basic
+ucs-4
+ibm-1237
+ibm-1236
+csUCS4
+ISO-10646-UCS-4
+ucs-2
+unicode
+ibm-1205
+ibm-1204
+csUnicode
+ISO-10646-UCS-2
+csKZ1048
+RK1048
+STRK1048-2002
+KZ-1048
+csISO115481
+ISO_TR_11548-1
+ISO_11548-1
+ISO-11548-1
+OSD_EBCDIC_DF04_1
+OSD_EBCDIC_DF03_IRV
+OSD_EBCDIC_DF04_15
+ibm-1392
+GB18030
+ibm-1386_VSUB_VPUA
+cp1386
+ibm-1386
+ibm-1386_P100-2001
+windows-936-2000
+windows-936
+MS936
+CP936
+latin10
+ISO_8859-16
+ISO_8859-16:2001
+iso-ir-226
+ISO-8859-16
+eucTH
+tis620.2533
+TIS-620
+ibm-9066
+cp874
+ibm-874_P100-1995
+ibm-874
+iso8859_15_fdis
+cp923
+csisolatin9
+csisolatin0
+latin0
+8859_15
+ibm-923
+ibm-923_P100-1998
+Latin-9
+ISO_8859-15
+ISO-8859-15
+iso-celtic
+latin8
+ISO_8859-14
+ISO_8859-14:1998
+iso-ir-199
+ISO-8859-14
+cp921
+8859_13
+ibm-921
+ibm-921_P100-1995
+ISO-8859-13
+cp1208
+ibm-17593
+ibm-17592
+ibm-13497
+ibm-13496
+ibm-5305
+ibm-5304
+ibm-1209
+ibm-1208
+ISO-2022-CN-EXT
+csISO2022CN
+ISO-2022-CN
+csUnicode11UTF7
+UNICODE-1-1-UTF-7
+csKSC5636
+ISO646-KR
+KSC5636
+csDKUS
+dk-us
+csUSDK
+us-dk
+csISO646Danish
+ISO646-DK
+DS2089
+DS_2089
+csISO159JISX02121990
+iso-ir-159
+x0212
+JIS_X0212-1990
+csISO158Lap
+iso-ir-158
+latin-lap
+csISO10367Box
+iso-ir-155
+ISO_10367-box
+csISO8859Supp
+latin1-2-5
+iso-ir-154
+ISO_8859-supp
+csISO153GOST1976874
+iso-ir-153
+ST_SEV_358-88
+GOST_19768-74
+csISO6937Add
+iso-ir-152
+ISO_6937-2-25
+csISO151Cuba
+ISO646-CU
+iso-ir-151
+cuba
+NC_NC00-10:81
+csISO150GreekCCITT
+csISO150
+iso-ir-150
+greek-ccitt
+csISO147Macedonian
+iso-ir-147
+macedonian
+JUS_I.B1.003-mac
+csISO146Serbian
+serbian
+iso-ir-146
+JUS_I.B1.003-serb
+csISO143IECP271
+iso-ir-143
+IEC_P27-1
+csISO141JUSIB1002
+ISO646-YU
+iso-ir-141
+JUS_I.B1.002
+csISO139CSN369103
+iso-ir-139
+CSN_369103
+ISO-8859-8-I
+csISO88598I
+ISO_8859-8-I
+ISO-8859-8-E
+csISO88598E
+ISO_8859-8-E
+csISO128T101G2
+iso-ir-128
+T.101-G2
+ISO-8859-6-I
+csISO88596I
+ISO_8859-6-I
+ISO-8859-6-E
+csISO88596E
+ISO_8859-6-E
+csISO123CSAZ24341985gr
+iso-ir-123
+CSA_Z243.4-1985-gr
+csISO122Canadian2
+csa7-2
+ISO646-CA2
+iso-ir-122
+CSA_Z243.4-1985-2
+csISO121Canadian1
+csa7-1
+ISO646-CA
+iso-ir-121
+CSA_Z243.4-1985-1
+csISO111ECMACyrillic
+KOI8-E
+iso-ir-111
+ECMA-cyrillic
+csISO103T618bit
+iso-ir-103
+T.61
+T.61-8bit
+csISO102T617bit
+iso-ir-102
+T.61-7bit
+csISO99NAPLPS
+NAPLPS
+CSA_T500-1983
+iso-ir-99
+ANSI_X3.110-1983
+csISO2033
+e13b
+iso-ir-98
+ISO_2033-1983
+csISO96JISC62291984kana
+iso-ir-96
+JIS_C6229-1984-kana
+csISO95JIS62291984handadd
+jp-ocr-hand-add
+iso-ir-95
+JIS_C6229-1984-hand-add
+csISO94JIS62291984hand
+jp-ocr-hand
+iso-ir-94
+JIS_C6229-1984-hand
+csISO93JIS62291984badd
+jp-ocr-b-add
+iso-ir-93
+JIS_C6229-1984-b-add
+csISO92JISC62991984b
+jp-ocr-b
+ISO646-JP-OCR-B
+iso-ir-92
+JIS_C6229-1984-b
+csISO91JISC62291984a
+jp-ocr-a
+iso-ir-91
+JIS_C6229-1984-a
+csISO90
+iso-ir-90
+csISO89ASMO449
+iso-ir-89
+arabic7
+ISO_9036
+ASMO_449
+csISO88Greek7
+iso-ir-88
+greek7
+csISO87JISX0208
+JIS_X0208-1983
+x0208
+iso-ir-87
+JIS_C6226-1983
+csISO86Hungarian
+ISO646-HU
+iso-ir-86
+MSZ_7795.3
+csISO85Spanish2
+ISO646-ES2
+iso-ir-85
+csISO84Portuguese2
+ISO646-PT2
+iso-ir-84
+csISO70VideotexSupp1
+iso-ir-70
+videotex-suppl
+csISO61Norwegian2
+iso-ir-61
+ISO646-NO2
+NS_4551-2
+GB2312.1980-0
+gb2312-1980
+ibm-5478
+ibm-5478_P100-1995
+csISO58GB231280
+chinese
+iso-ir-58
+GB_2312-80
+csISO57GB1988
+ISO646-CN
+iso-ir-57
+GB_1988-80
+csISO5428Greek
+iso-ir-55
+ISO_5428:1980
+ISO5427Cyrillic1981
+iso-ir-54
+ISO_5427:1981
+csISO51INISCyrillic
+iso-ir-51
+INIS-cyrillic
+csISO50INIS8
+iso-ir-50
+INIS-8
+csISO49INIS
+iso-ir-49
+INIS
+csISO47BSViewdata
+iso-ir-47
+BS_viewdata
+csISO42JISC62261978
+iso-ir-42
+JIS_C6226-1978
+csISO5427Cyrillic
+iso-ir-37
+ISO_5427
+csISO27LatinGreek1
+iso-ir-27
+Latin-greek-1
+csISO25French
+ISO646-FR1
+iso-ir-25
+NF_Z_62-010_(1973)
+csISO19LatinGreek
+iso-ir-19
+latin-greek
+csISO18Greek7Old
+iso-ir-18
+greek7-old
+csISO16Portuguese
+ISO646-PT
+iso-ir-16
+csISO14JISC6220ro
+ISO646-JP
+iso-ir-14
+JIS_C6220-1969-ro
+csISO13JISC6220jp
+x0201-7
+katakana
+iso-ir-13
+JIS_C6220-1969
+JIS_C6220-1969-jp
+csISO2022JP2
+ISO-2022-JP-2
+ibm-5054
+ISO-2022-JP-1
+csISO2022JP
+ISO-2022-JP
+csISO2022KR
+ISO-2022-KR
+ibm-1363_VSUB_VPUA
+cp1363
+ibm-1363
+ibm-1363_P11B-1998
+ms949
+iso-ir-149
+korean
+csKSC56011987
+KS_C_5601-1989
+windows-949-2000
+ibm-970_VPUA
+cp970
+5601
+KSC_5601
+ibm-eucKR
+csEUCKR
+EUC-KR
+ibm-970
+ibm-970_P110_P110-2006_U2
+KS_C_5601-1987
+csISO10Swedish
+ISO646-SE
+ISO646-FI
+iso-ir-10
+SEN_850200_B
+csNATSDANOADD
+iso-ir-9-2
+NATS-DANO-ADD
+csNATSDANO
+iso-ir-9-1
+NATS-DANO
+csNATSSEFIADD
+iso-ir-8-2
+NATS-SEFI-ADD
+csNATSSEFI
+iso-ir-8-1
+NATS-SEFI
+csISO2IntlRefVersion
+iso-ir-2
+ISO_646.irv:1983
+csINVARIANT
+INVARIANT
+csISO646basic1983
+ISO_646.basic:1983
+csISO10646UTF1
+ISO-10646-UTF-1
+csISO69French
+ISO646-FR
+iso-ir-69
+NF_Z_62-010
+csISO60Norwegian1
+csISO60DanishNorwegian
+ISO646-NO
+iso-ir-60
+NS_4551-1
+csISO21German
+ISO646-DE
+iso-ir-21
+DIN_66003
+csISO17Spanish
+ISO646-ES
+iso-ir-17
+csISO15Italian
+ISO646-IT
+iso-ir-15
+csISO11SwedishForNames
+ISO646-SE2
+iso-ir-11
+SEN_850200_C
+csISO4UnitedKingdom
+ISO646-GB
+iso-ir-4
+BS_4730
+csEUCFixWidJapanese
+Extended_UNIX_Code_Fixed_Width_for_Japanese
+IBM-eucJP
+ibm-33722_VPUA
+ibm-5050
+ibm-33722
+ibm-33722_P12A_P12A-2004_U2
+ujis
+eucjis
+X-EUC-JP
+ibm-954
+ibm-954_P101-2007
+EUC-JP
+csEUCPkdFmtJapanese
+Extended_UNIX_Code_Packed_Format_for_Japanese
+ibm-943_VASCII_VSUB_VPUA
+cp943
+ibm-943_P130-1999
+ibm-943_VSUB_VPUA
+sjis
+ms932
+IBM-943C
+cp943c
+cp932
+x-ms-cp932
+x-sjis
+ibm-943
+ibm-943_P15A-2003
+csShiftJIS
+MS_Kanji
+Shift_JIS
+csJISEncoding
+JIS_Encoding
+csHalfWidthKatakana
+X0201
+JIS_X0201
+csISOTextComm
+iso-ir-142
+ISO_6937-2-add
+iso-8859_10-1998
+latin6
+csISOLatin6
+ISO_8859-10:1992
+iso-ir-157
+ISO-8859-10
+turkish8
+turkish
+ECMA-128
+cp920
+8859_9
+ibm-920
+ibm-920_P100-1995
+csISOLatin5
+latin5
+ISO-8859-9
+ISO_8859-9
+iso-ir-148
+ISO_8859-9:1989
+hebrew8
+8859_8
+ibm-5012
+ibm-5012_P100-1999
+csISOLatinHebrew
+hebrew
+ISO-8859-8
+ISO_8859-8
+iso-ir-138
+ISO_8859-8:1988
+8859_7
+cp813
+ibm-813
+ibm-813_P100-1995
+sun_eu_greek
+ibm-9005
+ibm-9005_X110-2007
+csISOLatinGreek
+greek8
+greek
+ECMA-118
+ELOT_928
+ISO-8859-7
+ISO_8859-7
+iso-ir-126
+ISO_8859-7:1987
+1089
+cp1089
+8859_6
+ibm-1089
+ibm-1089_P100-1995
+csISOLatinArabic
+arabic
+ASMO-708
+ECMA-114
+ISO-8859-6
+ISO_8859-6
+iso-ir-127
+ISO_8859-6:1987
+cp915
+8859_5
+ibm-915
+ibm-915_P100-1995
+csISOLatinCyrillic
+cyrillic
+ISO-8859-5
+ISO_8859-5
+iso-ir-144
+ISO_8859-5:1988
+cp914
+8859_4
+ibm-914
+ibm-914_P100-1995
+csISOLatin4
+latin4
+ISO-8859-4
+ISO_8859-4
+iso-ir-110
+ISO_8859-4:1988
+cp913
+8859_3
+ibm-913
+ibm-913_P100-2000
+csISOLatin3
+latin3
+ISO-8859-3
+ISO_8859-3
+iso-ir-109
+ISO_8859-3:1988
+cp912
+8859_2
+ibm-912
+ibm-912_P100-1995
+csISOLatin2
+latin2
+ISO-8859-2
+ISO_8859-2
+iso-ir-101
+ISO_8859-2:1987
+8859_1
+csISOLatin1
+CP819
+IBM819
+latin1
+ISO-8859-1
+ISO_8859-1
+iso-ir-100
+ISO_8859-1:1987
+ascii7
+csASCII
+cp367
+IBM367
+US-ASCII
+ISO646-US
+ASCII
+ISO_646.irv:1991
+ANSI_X3.4-1986
+iso-ir-6
+ANSI_X3.4-1968
+%s: Did not find an IANA match for encoding "%s"
+UnicodeIANALookup
+Windows-
+windows-
+d:/build/ob/bora-2949415/bora/lib/unicode/unicodeSimpleTypes.c
+%s: Unknown encoding %d.
+Unicode_EncodingEnumToName
+PANIC %s:%d
+d:/build/ob/bora-2949415/bora/lib/unicode/unicodeCommon.c
+%s: Couldn't convert invalid buffer [%s] from %s to Unicode.
+Unicode_AllocWithLength
+(couldn't escape bytes)
+%s: invalid UTF8 string @ %p
+Unicode_FindSubstrInRange
+Unicode_FindLastSubstrInRange
+Unicode_Substr
+d:/build/ob/bora-2949415/bora/lib/unicode/unicodeSimpleOperations.c
+- -!-"-#-$-%-
+! !!!"!#!$!%!
+'!(!)!k
+,!-!.!/!0!1!N!3!4!5!6!7!8!9!:!;!<!=!>!?!@!A!B!C!D!E!F!G!H!I!J!K!L!M!N!O!P!Q!R!S!T!U!V!W!X!Y!Z![!\!]!^!_!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+$ $!$"$#$$$%$&$'$($)$*$+$,$-$.$/$0$1$2$3$4$5$6$7$8$9$:$;$<$=$>$?$@$A$B$C$D$E$F$G$H$I$J$K$L$M$N$O$P$Q$R$S$T$U$V$W$X$Y$Z$[$\$]$^$_$`$a$b$c$d$e$f$g$h$i$j$k$l$m$n$o$p$q$r$s$t$u$v$w$x$y$z${$|$}$~$
+$0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,/,0,1,2,3,4,5,6,7,8,9,:,;,<,=,>,?,@,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,[,\,],^,_,a,a,k
+e,f,h,h,j,j,l,l,m,n,o,p,q,r,s,t,v,v,w,x,y,z,{,|,},~,
+5.5.3
+VMware vCenter Converter Standalone
+d:/build/ob/bora-2949415/bora/lib/productState/productState.c
+productStateLock
+SOFTWARE\VMware, Inc.\%s
+%s %s
+bora\lib\misc\win32u.c
+%s: String with invalid encoding: %s
+Win32U_OutputDebugString
+@&!*@*@(msg.panic.response)We will respond on the basis of your support entitlement.
+@&!*@*@(msg.panic.requestSupport.vmSupport.vmx86)
+To collect data to submit to VMware technical support, run "vm-support".
+@&!*@*@(msg.panic.requestSupport.vmSupport.windowsOrLinux)
+To collect data to submit to VMware support, choose "Collect Support Data" from the Help menu.
+You can also run the "vm-support" script in the Workstation folder directly.
+@&!*@*@(msg.panic.requestSupport.withoutLog)You can request support.  
+@&!*@*@(msg.panic.haveLog)A log file is available in "%s".  
+@&!*@*@(msg.log.error.unrecoverable)%s%s unrecoverable error: (%s)
+EnumProcessModules
+GetModuleInformation
+SymGetModuleBase64
+SymFunctionTableAccess64
+StackWalk64
+CoreDump: Failed to resolve dbghelp.dll symbols. No backtrace.----
+CoreDump: SymInitializeW() failed: %d
+CoreDump: No debug provider found!
+  file version %u.%u.%u.%u
+  image file %S
+  checksum %#010x timestamp %#010x
+CoreDump: including module base 0x%#010I64x size 0x%#010x
+CoreDump: Including thread %d
+CoreDump: Including threadex %d
+Reserved virtual address space for CoreDump(addr:%p, size:%IuKB)
+panic.addrSpaceReservedKB
+panic.commitAddrSpaceReserved
+%s\%s-%d-%d.dmp
+%s\%s-%d.dmp
+CoreDump: unable to determine app data path
+backtrace[%02d] frame %#010I64x IP %#010I64x params %#I64x %#I64x %#I64x %#I64x %s
+Minidump failed: %s
+CoreDump: Writing minidump to %s
+CoreDump: No available minidump filename, quitting...
+CoreDump: Cannot open minidump file %s: %s
+CoreDump: dbghelp.dll missing minidump support: %s
+MiniDumpWriteDump
+%s: faking exception to get context
+CoreDump_CoreDump
+0123456789ABCDEF
+Backtrace for bugNr=%d
+Backtrace:
+%s: Zero reference count upon exit
+MXUser_ControlRecLock
+	vmmLock %p
+	address of owner data %p
+	lock count %d
+	reference count %u
+	serial number %u
+	rank 0x%X
+	name %s
+	signature 0x%X
+%s: Recursive lock @ %p
+MXUserDumpRecLock
+%s: unknown stats mode: %d!
+MXUserCreateRecLock
+R-%p
+%s: Destroy of an acquired recursive lock
+MXUserCondDestroyRecLock
+MXUser_AcquireRecLock
+default
+bora\lib\user\dictionary.c
+false
+true
+ASSERT %s:%d bugNr=%d
+HMAC-SHA-1
+FALSE
+TRUE
+auto
+dontcare
+@&!*@*@(msg.dictionary.notFloat)Value "%s" for variable "%s" is not a valid floating point value. Using value "%f".
+@&!*@*@(msg.dictionary.notInteger64)Value "%s" for variable "%s" is not a valid integer value. Using value "%I64d".
+@&!*@*@(msg.dictionary.integer64TooBig)Value "%s" for variable "%s" is too large. Using value "%I64d".
+@&!*@*@(msg.dictionary.notInteger)Value "%s" for variable "%s" is not a valid integer value. Using value "%d".
+@&!*@*@(msg.dictionary.integerTooBig)Value "%s" for variable "%s" is too large. Using value "%d".
+@&!*@*@(msg.dictionary.notTristate)Value "%s" for variable "%s" is not a valid tristate value. Using value "%s".
+@&!*@*@(msg.dictionary.notBoolean)Value "%s" for variable "%s" is not a valid boolean value. Using value "%s".
+@&!*@*@(msg.msg.homePageInfo)Home page information
+@&!*@*@(msg.msg.extendLicenseInfo)Extend license information
+@&!*@*@(msg.msg.extendLicenseError)Extend license error
+@&!*@*@(msg.msg.getLicenseError)Get license error
+@&!*@*@(msg.msg.configEditor)Configuration editor
+@&!*@*@(msg.msg.error)Error
+@&!*@*@(msg.msg.warning)Warning
+@&!*@*@(msg.msg.info)Information
+@&!*@*@(button.abort)Cancel
+@&!*@*@(button.retry)_Retry
+@&!*@*@(button.ok)OK
+@&!*@*@(button.no)_No
+@&!*@*@(button.yes)_Yes
+%-*.*s
+%.*s (%d%%)
+bora\lib\user\msg.c
+----------------------------------------
+%s:%s%s
+%s: Using builtin default '%s' as the answer for '%s'
+msg.autoAnswer
+%s: Using config default '%s' as the answer for '%s'
+MsgIsAnswered
+answer.%s
+%d) %s
+%s %s:
+@&!*@*@(msg.msg.chooseNumber)Select a number from 0-%d: 
+@&!*@*@(msg.msg.question)Question
+@&!*@*@(msg.msg.hint)Hint
+msgLock
+A@&!*@*@(msg.msg.systemError)Error %d [%s]
+@&!*@*@(msg.msg.systemErrorWindows)Error %d (0x%x) [%s]
+(button.
+MSG: %s
+msg.noOKnoWarning
+msg.noOK
+Msg_Post
+%s error: %s
+format <%s>
+Unrecoverable memory allocation failure
+???GENERIC_READ
+???GENERIC_WRITE
+???GENERIC_EXECUTE
+???GENERIC_ALL
+SYNCHRONIZE
+WRITE_OWNER
+WRITE_DAC
+READ_CONTROL
+DELETE
+FILE_WRITE_ATTRIBUTES
+FILE_READ_ATTRIBUTES
+FILE_DELETE_CHILD
+FILE_TRAVERSE,FILE_EXECUTE
+FILE_WRITE_EA
+FILE_READ_EA
+FILE_ADD_SUBDIRECTORY,FILE_APPEND_DATA
+FILE_ADD_FILE,FILE_WRITE_DATA
+FILE_LIST_DIRECTORY,FILE_READ_DATA
+VMware
+bora\lib\misc\vthreadBase.c
+host-%Iu
+VThreadBase reinitialization, old: %d %s, new: %d %s.
+VThreadBase detected multiple threads.
+vthread-%u
+bora\lib\misc\hostinfoWin32.c
+GetNativeSystemInfo
+IsWow64Process
+GetProductInfo
+winVista
+Windows Vista
+winVista-64
+Windows Vista x64 Edition
+, 32-bit
+, 64-bit
+Windows Server 2008 Web Server Edition
+winServer2008Web-32
+winServer2008Web-64
+Windows Vista Ultimate Edition
+winVistaUltimate-32
+winVistaUltimate-64
+Windows Server 2008 Storage Server Workgroup
+winServer2008StorageWorkgroup-32
+winServer2008StorageWorkgroup-64
+Windows Server 2008 Storage Server Standard
+winServer2008StorageStandard-32
+winServer2008StorageStandard-64
+Windows Server 2008 Storage Server Express
+winServer2008StorageExpress-32
+winServer2008StorageExpress-64
+Windows Server 2008 Storage Server Enterprise
+winServer2008StorageEnterprise-32
+winServer2008StorageEnterprise-64
+Windows Server 2008 Standard Edition (core installation)
+winServer2008StandardCore-32
+winServer2008StandardCore-64
+Windows Server 2008 Standard Edition
+winServer2008Standard-32
+winServer2008Standard-64
+Windows Vista Starter Edition
+winVistaStarter-32
+winVistaStarter-64
+Windows Server 2008 Small Business Server Premium Edition
+winServer2008SmallBusinessPremium-32
+winServer2008SmallBusinessPremium-64
+Windows Server 2008 Small Business Server
+winServer2008SmallBusiness-32
+winServer2008SmallBusiness-64
+Windows Server 2008 for Windows Essential Server Solutions
+winServer2008ForSmallBusiness-32
+winServer2008ForSmallBusiness-64
+Windows Essential Business Server Security Server
+winServer2008MediumSecurity-32
+winServer2008MediumSecurity-64
+Windows Essential Business Server Messaging Server
+winServer2008MediumMessaging-32
+winServer2008MediumMessaging-64
+Windows Essential Business Server Management Server
+winServer2008MediumManagement-32
+winServer2008MediumManagement-64
+Windows Vista Home Premium Edition
+winVistaHomePremium-32
+winVistaHomePremium-64
+Windows Vista Home Basic Edition
+winVistaHomeBasic-32
+winVistaHomeBasic-64
+Windows Server 2008 Enterprise Edition for Itanium-based Systems
+winServer2008EnterpriseItanium-32
+winServer2008EnterpriseItanium-64
+Windows Server 2008 Enterprise Edition (core installation)
+winServer2008EnterpriseCore-32
+winServer2008EnterpriseCore-64
+Windows Server 2008 Enterprise Edition
+winServer2008Enterprise-32
+winServer2008Enterprise-64
+Windows Vista Enterprise Edition
+winVistaEnterprise-32
+winVistaEnterprise-64
+Windows Server 2008 Datacenter Edition (core installation)
+winServer2008DatacenterCore-32
+winServer2008DatacenterCore-64
+Windows Server 2008 Datacenter Edition
+winServer2008Datacenter-32
+winServer2008Datacenter-64
+Windows Server 2008 Cluster Server Edition
+winServer2008Cluster-32
+winServer2008Cluster-64
+Windows Vista Business Edition
+winVistaBusiness-32
+winVistaBusiness-64
+Windows 7 Enterprise
+Windows 7 Professional
+Windows 7 Ultimate
+Windows 7 Home Premium
+Windows 7 Home Basic
+Windows 7 Starter
+Windows Web Server 2008 R2 Edition
+Windows Server 2008 R2 Datacenter Edition
+Windows Server 2008 R2 Standard Edition
+Windows Server 2008 R2 Enterprise Edition
+Windows Server 2008 R2 Foundation Edition
+windows7srv-64
+Windows 7
+windows7
+windows7-64
+Windows Server 2012
+windows8srv-64
+Windows 8
+windows8
+windows8-64
+windowsUnknown
+windowsUnknown-64
+%s Version %d.%d 
+Windows Unknown
+Windows 32s
+winMe
+Windows Me
+win98
+Windows 98
+OSR2
+win95
+Windows 95
+%s%s (Build %d)
+Service Pack 6a
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Hotfix\Q246009
+Service Pack 6
+Advanced Server
+Server
+Workstation
+win2000Serv
+Windows 2000 Server
+win2000AdvServ
+Windows 2000 Advanced Server
+win2000DataCentServ
+Windows 2000 Data Center Server
+ (64 bit)
+winNetStandard
+Windows Server 2003 Standard Edition
+winNetBusiness
+Windows Server 2003 Small Business
+winNetStorageSvr
+Windows Storage Server 2003
+winNetComputeCluster
+Windows Server 2003 Compute Cluster Edition
+winNetWeb
+Windows Server 2003 Web Edition
+winNetEnterprise
+Windows Server 2003 Enterprise Edition
+winNetDatacenter
+Windows Server 2003 Datacenter Edition
+win2000Pro
+Windows 2000 Professional
+winXPPro
+Windows XP Professional
+winXPHome
+Windows XP Home Edition
+winXPPro-64
+Windows XP Professional x64 Edition
+Workstation 4.0
+win2000
+Windows 2000
+winXP
+Windows XP
+winNT
+Windows NT
+win2003
+Windows 2003
+%s: invalid privilege parameter
+Hostinfo_GetModulePath
+HOSTINFO
+%s: Bad Windows performance counter frequency: %I64d
+%s: Unable to get Windows performance counter: %d
+%s: Unable to get Windows performance counter frequency: %d
+HostinfoPCInit
+%s: GetTokenInformation: %d
+%s: OpenProcessToken: %d
+%s: OpenThreadToken: %d
+W32Util_GetCurrentUserSid
+%s: AllocateAndInitializeSid: %d
+W32Util_GetLocalAdminGroupSid
+%s: Failed directory attributes check, "%s"
+%s: Couldn't get local admin or user SID
+%s: Failed cur user and admin ACE presence check, "%s"
+%s: Failed trustee SID identity check, "%s"
+%s: Failed DACL num entries check, "%s"
+%s: GetExplicitEntriesFromAclW failed: %d
+%s: Failed DACL inherit check, "%s"
+%s: GetSecurityDescriptorControl failed: %d
+%s: Failed owner SID match, "%s"
+%s: Failed DACL presence check, "%s"
+%s: GetNamedSecurityInfoW failed: %d
+W32Util_IsDirectorySafe
+%s: Couldn't add SID to DACL
+%s: CreateDirectoryW failed: %d
+%s: SetSecurityDescriptorControl failed: %d
+SetSecurityDescriptorControl
+%s: SetSecurityDescriptorOwner failed: %d
+%s: InitializeSecurityDescriptor failed: %d
+%s: Couldn't init ACL
+W32Util_MakeSafeDirectory
+bora\lib\misc\win32util2_misc.c
+%s: InitializeCriticalSectionAndSpinCount failure: %u
+W32Util_GetSingletonCriticalSection
+hostd.
+vpxd.
+vpxa.
+vob.
+msg.
+[%s] %s%s
+bora\lib\misc\msgList.c
+MsgList_VAppend
+@&!*@*@(msg.literal)%s
+d:\build\ob\bora-2949418\bora\lib\misc\posixInt.h
+GetModuleHandleExW
+%s: Cannot allocate memory to expand "%s" in "%s".
+%s: Cannot allocate memory for the expansion of "%s".
+Environment variable '%s' not defined in '%s'.
+USER
+%s: Filename "%s" has too many chunks.
+Util_ExpandString
+build
+coreLocation
+logFile
+%08X:%08X%08X%08X%08X-
+AuthenticAMD
+GenuineIntel
+HOSTINFO: No CPUID information available.
+%s: Exclusive lock @ %p
+MXUserDumpExclLock
+MXUser_CreateExclLock
+X-%p
+%s: Destroy of an acquired exclusive lock
+MXUser_DestroyExclLock
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+volatile
+UUIDHost
+No Expire
+icudt44l
+bora\lib\misc\codeset.c
+bora\lib\misc\hashTable.c
+%s only takes powers of 2 
+HashTable_Alloc
+0123456789ABCDEF'\
+'"'"
+ReleaseSRWLockExclusive
+AcquireSRWLockExclusive
+ReleaseSRWLockShared
+AcquireSRWLockShared
+InitializeSRWLock
+	holderCount %d
+	count %d
+	address of native lock 0x%p
+%s: Read-write lock @ 0x%p
+MXUserDumpRWLock
+MXUser_CreateRWLock
+RWemul-%p
+RW-%p
+%s: Destroy on an acquired read-write lock
+MXUser_DestroyRWLock
+%s: AcquireFor%s after AcquireFor%s
+MXUserAcquisition
+Write
+Read
+%s: Release of an unacquired read-write lock
+MXUser_ReleaseRWLock
+?RtlCaptureStackBackTrace
+SymGetSymFromAddr64
+SymSetSearchPathW
+SymLoadModuleExW
+SymCleanup
+SymFromAddrW
+D:\build\ob\bora-2949418\bora\lib\public\codeset.h
+SymInitializeW
+CoreDump: Failed to resolve dbghelp.dll symbols (ver. 6.3 required!) No backtrace.----
+CoreDump: Can't find RtlCaptureStackBackTrace!
+??? %s
+%s + %#06I64x
+[no module data]
+[%s base %#010I64x %#06x:%#010x]
+AES-128
+@&!*@*@(msg.keysafe.param)Incorrect parameter
+@&!*@*@(msg.keysafe.locator)Key locator error
+@&!*@*@(msg.keysafe.io)I/O error
+@&!*@*@(msg.keysafe.empty)Key safe contains no locators
+@&!*@*@(msg.keysafe.locked)This operation is not valid on locked key safe
+@&!*@*@(msg.keysafe.unknown)Unknown error
+@&!*@*@(msg.keysafe.badFormat)The import data format is not recognized
+@&!*@*@(msg.keysafe.needKey)Required key was not supplied
+@&!*@*@(msg.keysafe.failed)Encryption failed
+@&!*@*@(msg.keysafe.mem)Memory exhausted
+@&!*@*@(msg.keysafe.success)The operation completed successfully
+@&!*@*@(msg.crypto.lockFailure)Locking failure
+@&!*@*@(msg.crypto.noCrypto)Cryptography not supported
+@&!*@*@(msg.crypto.name)Name not found in dictionary
+@&!*@*@(msg.crypto.unknown)Unknown error
+@&!*@*@(msg.crypto.io)I/O error
+@&!*@*@(msg.crypto.badPass)Incorrect password supplied
+@&!*@*@(msg.crypto.password)Password required for operation
+@&!*@*@(msg.crypto.mem)Memory exhausted
+@&!*@*@(msg.crypto.invalid)Invalid operation
+@&!*@*@(msg.crypto.buffer)Input or output buffer invalid size
+@&!*@*@(msg.crypto.algorithm)The specified algorithm is unknown
+@&!*@*@(msg.crypto.failed)Cryptographic operation failed
+@&!*@*@(msg.crypto.success)The operation completed successfully
+bora\lib\misc\msgfmt.c
+MsgFmtGetArg1: %%%c not understood, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: %%n not supported, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: incompatible specifiers for argument %d, old type %d, new type %d, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: %%%c%c not supported, pos "%.*s", type "%.*s"
+MsgFmtGetArg1: out of memory at arg %d
+MsgFmtGetArg1: bad specifier, status %d, pos "%.*s", type "%.*s"
+MsgFmt_GetArgs: error in format string
+MsgFmt_GetArgs: out of memory
+MsgFmt_GetArgs: error %d
+MsgFmt_GetArgs: gap in arguments at position %d
+%s ((x * %u) >> %u) + %I64d
+%s %I64u @ %I64uHz -> %I64u @ %I64uHz
+Unknown error %d (0x%x)
+windows-%u
+.dat
+ICUDATA-
+icudt44l-
+ICUDATA
+ Copyright (C) 2010, International Business Machines Corporation and others. All Rights Reserved. 
+ICU_DATA
+en_US
+windows-%d
+ISO_2022,locale=ko,version=0
+ibm-1363_P110-1997
+ibm-949_P110-1999
+ibm-944_P100-1995
+ibm-33722_P120-1999
+ibm-946_P100-1995
+ibm-942_P120-1999
+ibm-897_P100-1995
+=@>x?
+CLD~E
+I>JlK
+PAQiR
+W#XFYgZ
+a:bUcnd
+m2nCoTpdqtr
+AES-256
+AES-192
+crypto.noaesni
+can't use %u-bit key with %u-bit cipher
+0123456789ABCDEFabcdef
+seeding not supported
+hash outputs %u bytes but buffer is %u bytes
+SHA-256
+SHA-1
+server
+adminRecovery
+adminIdent
+obfuscation
+pair
+list
+role
+script
+ldap
+phrase
+rawkey
+null
+PBKDF2-HMAC-SHA-1
+HMAC-SHA-256
+HMAC-SHA-1-128
+output size (%u bytes) greater than block size (%u bytes)
+keyedHash outputs %u bytes but buffer is %u bytes
+uprv_mapFile: MapViewOfFile failed for %s (%d)
+uprv_mapFile: CreateFileMapping failed for %s (%d)
+uprv_mapFile: CreateFileA failed for %s (%d)
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones\
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GMT
+SOFTWARE\Microsoft\Windows\CurrentVersion\Time Zones
+SYSTEM\CurrentControlSet\Control\TimeZoneInformation\
+StandardName
+ Standard Time
+zu_ZA
+zh_CN@collation=stroke
+zh_Hans_CN@collation=stroke
+zh_TW@collation=stroke
+zh_Hant_TW@collation=stroke
+zh_TW
+zh_Hant
+zh_Hant_TW
+zh_SG
+zh_Hans_SG
+zh_MO
+zh_Hant_MO
+zh_HK
+zh_Hant_HK
+zh_Hans_CN
+zh_CN
+zh_Hans
+yo_NG
+xh_ZA
+wo_SN
+dsb_DE
+hsb_DE
+wen_DE
+vi_VN
+ve_ZA
+uz_Latn
+uz_Latn_UZ
+uz_UZ
+uz_Cyrl
+uz_Cyrl_UZ
+ur_PK
+ur_IN
+uk_UA
+ug_CN
+tzm_Latn_DZ
+tzm_Latn
+tt_RU
+tr_TR
+tn_BW
+tk_TM
+ti_ET
+ti_ER
+th_TH
+tg_Cyrl_TJ
+tg_Cyrl
+te_IN
+ta_IN
+syr_SY
+sw_KE
+sv_SE
+sv_FI
+sq_AL
+so_ET
+sl_SI
+sk_SK
+si_LK
+sms_FI
+smn_FI
+smj_SE
+smj_NO
+sma_SE
+sma_NO
+se_SE
+se_NO
+se_FI
+sd_PK
+sd_IN
+sah_RU
+sa_IN
+rw_RW
+ru_RU
+root
+ro_RO
+rm_CH
+qut_GT
+qu_PE
+qu_EC
+qu_BO
+pt_PT
+pt_BR
+ps_AF
+pl_PL
+pa_PK
+pa_IN
+or_IN
+om_ET
+oc_FR
+nso_ZA
+no_NO_NY
+nn_NO
+no_NO
+nb_NO
+nl_NL
+nl_BE
+ne_NP
+ne_IN
+my_MM
+mt_MT
+ms_MY
+ms_BN
+mr_IN
+moh_CA
+mni_IN
+mn_Cyrl
+mn_CN
+mn_Mong_CN
+mn_Mong
+mn_MN
+ml_IN
+mk_MK
+mi_NZ
+lv_LV
+lt_LT
+lo_LA
+lb_LU
+la_IT
+ky_KG
+ks_Arab_IN
+ks_IN
+kr_NG
+kok_IN
+ko_KR
+ko_KP
+kn_IN
+km_KH
+kl_GL
+kk_KZ
+ka_GE
+ja_JP
+iw_IL
+iu_Latn
+iu_Latn_CA
+iu_Cans
+iu_Cans_CA
+it_IT
+it_CH
+is_IS
+ii_CN
+ig_NG
+id_ID
+hy_AM
+hu_HU
+sr_Cyrl
+sr_Cyrl_RS
+sr_Cyrl_ME
+sr_Cyrl_CS
+sr_Cyrl_BA
+sr_Latn
+sr_Latn_CS
+sr_Latn_BA
+sr_Latn_RS
+sr_Latn_ME
+hr_HR
+hr_BA
+bs_Cyrl
+bs_Cyrl_BA
+bs_BA
+bs_Latn
+bs_Latn_BA
+hi_IN
+he_IL
+haw_US
+ha_Latn_NG
+ha_Latn
+gsw_FR
+gn_PY
+gu_IN
+gl_ES
+gd_GB
+ga_IE
+fy_NL
+fr_SN
+fr_RE
+fr_ML
+fr_MC
+fr_MA
+fr_LU
+fr_HT
+fr_FR
+fr_CM
+fr_CI
+fr_CH
+fr_CD
+fr_CA
+fr_BE
+fo_FO
+fil_PH
+fi_FI
+fa_AF
+fa_IR
+eu_ES
+et_EE
+es@collation=traditional
+es_ES@collation=traditional
+es_VE
+es_UY
+es_US
+es_SV
+es_PY
+es_PR
+es_PE
+es_PA
+es_NI
+es_MX
+es_HN
+es_GT
+es_ES
+es_EC
+es_DO
+es_CR
+es_CO
+es_CL
+es_BO
+es_AR
+en_UM
+en_MP
+en_MH
+en_GU
+en_AS
+en_029
+en_ZW
+en_ZA
+en_VI
+en_US_POSIX
+en_TT
+en_SG
+en_PH
+en_NZ
+en_MY
+en_JM
+en_IN
+en_IE
+en_GB
+en_CA
+en_BZ
+en_AU
+el_GR
+dv_MV
+de@collation=phonebook
+de_DE@collation=phonebook
+de_LU
+de_LI
+de_DE
+de_CH
+de_AT
+da_DK
+cy_GB
+cs_CZ
+chr_US
+co_FR
+ca_ES
+br_FR
+bo_CN
+bo_BT
+bn_IN
+bn_BD
+bg_BG
+ber_Latn
+ber_Latn_DZ
+ber_Arab
+ber_Arab_DZ
+be_BY
+ba_RU
+az_AZ
+az_Latn
+az_Latn_AZ
+az_Cyrl
+az_Cyrl_AZ
+arn_CL
+am_ET
+as_IN
+ar_YE
+ar_TN
+ar_SY
+ar_SA
+ar_QA
+ar_OM
+ar_MA
+ar_LY
+ar_LB
+ar_KW
+ar_JO
+ar_IQ
+ar_EG
+ar_DZ
+ar_BH
+ar_AE
+af_ZA
+.<(+|&
+!$*);^-/
+,%_>?
+`:#@'="
+abcdefghi
+jklmnopqr
+~stuvwxyz
+{ABCDEFGHI
+}JKLMNOPQR
+STUVWXYZ
+0123456789
+7-./
+<=2&
+lP}M]\Nk`Ka
+z^L~no
+utf8
+utf7
+utf32platformendian
+utf32oppositeendian
+utf32le
+utf32be
+utf32
+utf16platformendian
+utf16oppositeendian
+utf16le
+utf16be
+utf16
+usascii
+scsu
+lmbcs8
+lmbcs6
+lmbcs5
+lmbcs4
+lmbcs3
+lmbcs2
+lmbcs19
+lmbcs18
+lmbcs17
+lmbcs16
+lmbcs11
+lmbcs1
+iso88591
+iso2022
+iscii
+imapmailboxname
+cesu8
+bocu1
+swaplfnl
+version=
+locale=
+cnvalias
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+,swaplfnl
+jips
+JIPS
+keis
+KEIS
+gb18030
+18030
+%s\lib\%s
+%s\lib\%s\%s
+%s\lib\%s-i386\%s
+6k3l8
+vRO==
+6k3l8
+ySQ,
+kF:z6z
+\jRB
+[+^:
+(kpq:
+%&'0
+SSL wrapper: invoked uninitialized function CRYPTO_num_locks!
+SSL wrapper: invoked uninitialized function ERR_get_error!
+SSL wrapper: invoked uninitialized function COMP_zlib!
+SSL wrapper: invoked uninitialized function SSL_library_init!
+SSL wrapper: invoked uninitialized function SSL_COMP_add_compression_method!
+SSL wrapper: invoked uninitialized function SSLv23_method!
+SSL wrapper: invoked uninitialized function SSL_CTX_new!
+SSL wrapper: invoked uninitialized function SSL_CTX_ctrl!
+SSL wrapper: invoked uninitialized function SSL_CTX_set_cipher_list!
+SSL wrapper: invoked uninitialized function RAND_status!
+SSL wrapper: invoked uninitialized function RAND_set_rand_method!
+SSL wrapper: invoked uninitialized function BIO_new!
+SSL wrapper: invoked uninitialized function BIO_s_mem!
+SSL wrapper: invoked uninitialized function BIO_free!
+SSL wrapper: invoked uninitialized function PEM_read_bio_DHparams!
+SSL wrapper: invoked uninitialized function BIO_new_mem_buf!
+SSL wrapper: invoked uninitialized function BIO_new_file!
+SSL wrapper: invoked uninitialized function BIO_ctrl!
+SSL wrapper: invoked uninitialized function RSA_size!
+SSL wrapper: invoked uninitialized function RSA_public_encrypt!
+SSL wrapper: invoked uninitialized function RSA_private_decrypt!
+SSL wrapper: invoked uninitialized function RSA_generate_key!
+SSL wrapper: invoked uninitialized function RSA_sign!
+SSL wrapper: invoked uninitialized function RSA_verify!
+SSL wrapper: invoked uninitialized function EVP_PKEY_new!
+SSL wrapper: invoked uninitialized function EVP_PKEY_set1_RSA!
+SSL wrapper: invoked uninitialized function EVP_PKEY_set1_DSA!
+SSL wrapper: invoked uninitialized function PEM_read_bio_RSAPrivateKey!
+SSL wrapper: invoked uninitialized function PEM_read_bio_RSAPublicKey!
+SSL wrapper: invoked uninitialized function PEM_read_bio_DSAPrivateKey!
+SSL wrapper: invoked uninitialized function PEM_write_bio_RSAPublicKey!
+SSL wrapper: invoked uninitialized function PEM_write_bio_PKCS8PrivateKey!
+SSL wrapper: invoked uninitialized function EVP_aes_128_cbc!
+SSL wrapper: invoked uninitialized function SSL_get_ex_new_index!
+SSL wrapper: invoked uninitialized function DSA_sign!
+SSL wrapper: invoked uninitialized function DSA_verify!
+SSL wrapper: invoked uninitialized function DSA_generate_key!
+SSL wrapper: invoked uninitialized function d2i_DSA_PUBKEY!
+SSL wrapper: invoked uninitialized function i2d_DSA_PUBKEY!
+SSL wrapper: invoked uninitialized function DSA_generate_parameters!
+SSL wrapper: invoked uninitialized function DSA_size!
+SSL wrapper: invoked uninitialized function AES_set_encrypt_key!
+SSL wrapper: invoked uninitialized function AES_set_decrypt_key!
+SSL wrapper: invoked uninitialized function BN_num_bits!
+SSL wrapper: invoked uninitialized function CRYPTO_get_locking_callback!
+SSL wrapper: invoked uninitialized function PEM_ASN1_read_bio!
+SSL wrapper: invoked uninitialized function PEM_ASN1_write_bio!
+SSL wrapper: invoked uninitialized function aesni_set_encrypt_key!
+SSL wrapper: invoked uninitialized function aesni_set_decrypt_key!
+SSL wrapper: invoked uninitialized function ERR_error_string_n!
+SSL wrapper: invoked uninitialized function SSL_load_error_strings!
+SSL wrapper: invoked uninitialized function SSL_CTX_set_quiet_shutdown!
+SSL wrapper: invoked uninitialized function SSL_CTX_set_tmp_dh_callback!
+SSL wrapper: invoked uninitialized function DH_free!
+SSL wrapper: invoked uninitialized function CRYPTO_set_locking_callback!
+SSL wrapper: invoked uninitialized function CRYPTO_set_id_callback!
+SSL wrapper: invoked uninitialized function CRYPTO_set_add_lock_callback!
+SSL wrapper: invoked uninitialized function RSA_free!
+SSL wrapper: invoked uninitialized function EVP_PKEY_free!
+SSL wrapper: invoked uninitialized function OpenSSL_add_all_ciphers!
+SSL wrapper: invoked uninitialized function DSA_free!
+SSL wrapper: invoked uninitialized function AES_ecb_encrypt!
+SSL wrapper: invoked uninitialized function AES_cbc_encrypt!
+SSL wrapper: invoked uninitialized function OPENSSL_add_all_algorithms_noconf!
+SSL wrapper: invoked uninitialized function ENGINE_register_all_ciphers!
+SSL wrapper: invoked uninitialized function ENGINE_register_all_digests!
+SSL wrapper: invoked uninitialized function aesni_ecb_encrypt!
+SSL wrapper: invoked uninitialized function aesni_cbc_encrypt!
+sslStateLock
+SSL Error: %s
+bora\lib\ssl\ssl.c
+GetProcAddress: Failed to resolve %s: %d
+SSLeay
+%*.*s\%s
+%s: Valid path not specified (%s).
+SSLOpenLibrariesDerived
+libeay32.dll
+ssleay32.dll
+aesni_set_decrypt_key
+aesni_set_encrypt_key
+X509_VERIFY_PARAM_set_flags
+PEM_ASN1_write_bio
+PEM_ASN1_read_bio
+MD4_Final
+MD4_Init
+MD5_Final
+MD5_Init
+PKCS12_parse
+d2i_PKCS12_fp
+d2i_PKCS7_fp
+RAND_bytes
+UI_OpenSSL
+RAND_file_name
+RAND_egd
+ENGINE_by_id
+ENGINE_load_private_key
+ENGINE_init
+ENGINE_set_default
+ENGINE_get_id
+ENGINE_get_next
+ENGINE_get_first
+ENGINE_free
+ENGINE_finish
+CRYPTO_malloc
+ASN1_STRING_to_UTF8
+ASN1_STRING_type
+X509_NAME_ENTRY_get_data
+X509_NAME_get_entry
+X509_NAME_get_index_by_NID
+ASN1_STRING_length
+ASN1_STRING_data
+sk_value
+sk_num
+X509_get_ext_d2i
+SSL_get_privatekey
+SSL_get_certificate
+TLSv1_client_method
+SSLv2_client_method
+SSLv3_client_method
+SSLv23_client_method
+SSL_get_shutdown
+MD4_Update
+MD5_Update
+EVP_PKEY_copy_parameters
+SSL_CTX_callback_ctrl
+SSL_get_version
+X509_CRL_verify
+X509_STORE_get_by_subject
+X509_REQ_sign
+X509_REQ_set_pubkey
+X509_REQ_set_subject_name
+X509_REQ_set_version
+SSL_state
+CRYPTO_get_locking_callback
+EVP_MD_CTX_create
+PEM_read_PrivateKey
+SSL_COMP_get_compression_methods
+EVP_CIPHER_CTX_block_size
+EVP_CIPHER_iv_length
+EVP_MD_size
+EVP_MD_CTX_md
+PEM_read_bio_PKCS7
+CRYPTO_set_mem_functions
+PEM_read_bio_X509_CRL
+PKCS7_cert_from_signer_info
+X509_STORE_add_crl
+ASN1_get_object
+X509_get_serialNumber
+s2i_ASN1_INTEGER
+ASN1_INTEGER_get
+ASN1_INTEGER_cmp
+ASN1_STRING_print
+X509_LOOKUP_file
+EVP_md5
+PKCS7_get_signer_info
+PKCS7_verify
+X509_STORE_new
+X509_LOOKUP_hash_dir
+X509_NAME_new
+X509_NAME_add_entry
+X509_NAME_add_entry_by_txt
+X509_verify_cert
+X509_check_issued
+X509_STORE_CTX_init
+X509_STORE_CTX_new
+X509_cmp
+X509_NAME_cmp
+X509_digest
+EVP_DigestFinal_ex
+BN_num_bits
+BN_bn2bin
+BN_bin2bn
+EVP_SignFinal
+EVP_DigestFinal
+EVP_DigestInit
+EVP_DigestUpdate
+EVP_MD_CTX_cleanup
+X509_get_pubkey
+X509_REQ_new
+X509_new
+EVP_PKEY_get1_RSA
+RSA_new
+AES_set_decrypt_key
+AES_set_encrypt_key
+EVP_get_digestbyname
+EVP_sha512
+EVP_sha384
+EVP_sha256
+EVP_sha224
+EVP_sha1
+SHA512
+SHA256
+SHA1
+HMAC
+DES_set_key
+DSA_size
+DSA_generate_parameters
+i2d_DSAPrivateKey
+i2d_DSA_PUBKEY
+d2i_DSAPrivateKey
+d2i_DSA_PUBKEY
+DSA_generate_key
+DSA_verify
+DSA_sign
+SSL_get_ex_new_index
+X509_get_ex_new_index
+RSA_get_ex_new_index
+CRYPTO_get_ex_new_index
+i2d_X509
+SSL_CTX_set_ex_data
+SSL_CTX_get_ex_data
+SSL_set_ex_data
+SSL_get_ex_data
+SSL_get_ex_data_X509_STORE_CTX_idx
+CRYPTO_set_ex_data
+CRYPTO_get_ex_data
+X509_set_ex_data
+X509_get_ex_data
+RSA_set_ex_data
+RSA_get_ex_data
+X509_STORE_CTX_get_ex_data
+BUF_strlcpy
+TLSv1_method
+EVP_aes_128_cbc
+EVP_des_ede3_cbc
+EVP_bf_cbc
+EVP_des_cbc
+EVP_DecryptFinal_ex
+EVP_DecryptFinal
+EVP_DecryptUpdate
+EVP_DecryptInit_ex
+EVP_DecryptInit
+EVP_EncryptFinal_ex
+EVP_EncryptFinal
+EVP_EncryptUpdate
+EVP_EncryptInit_ex
+EVP_EncryptInit
+EVP_CIPHER_CTX_cleanup
+EVP_CIPHER_CTX_set_padding
+PEM_write_bio_X509_REQ
+PEM_write_bio_X509_CRL
+PEM_write_bio_X509
+PEM_write_bio_PUBKEY
+PEM_write_bio_PKCS8PrivateKey
+PEM_write_bio_RSAPublicKey
+PEM_read_bio_PrivateKey
+PEM_read_bio_PUBKEY
+PEM_read_bio_DSAPrivateKey
+PEM_read_bio_RSAPublicKey
+PEM_read_bio_RSAPrivateKey
+EVP_VerifyFinal
+EVP_PKEY_set1_DSA
+EVP_PKEY_set1_RSA
+EVP_PKEY_type
+EVP_PKEY_size
+EVP_PKEY_assign
+d2i_X509
+d2i_PublicKey
+d2i_PrivateKey
+i2d_PublicKey
+i2d_PrivateKey
+EVP_PKEY_bits
+EVP_PKEY_new
+EVP_sha
+RSA_get_default_method
+RSA_set_method
+RSA_verify
+RSA_sign
+RSA_generate_key
+RSA_private_decrypt
+RSA_public_decrypt
+RSA_private_encrypt
+RSA_public_encrypt
+RSA_size
+RSA_padding_add_PKCS1_OAEP
+BIO_test_flags
+BIO_ctrl_pending
+BIO_ctrl
+BIO_read
+BIO_push
+BIO_new_bio_pair
+BIO_new_socket
+BIO_new_file
+BIO_new_fp
+BIO_f_ssl
+BIO_f_base64
+BIO_f_buffer
+BIO_f_md
+BIO_new_mem_buf
+i2d_X509_AUX
+X509_NAME_print_ex
+X509_NAME_oneline
+X509_LOOKUP_ctrl
+X509_verify_cert_error_string
+X509_STORE_add_lookup
+X509_STORE_add_cert
+X509_print_fp
+X509_get_subject_name
+X509_NAME_get_text_by_NID
+X509_get_issuer_name
+PEM_read_X509
+PEM_read_bio_RSA_PUBKEY
+PEM_read_bio_X509
+X509_STORE_CTX_get_chain
+X509_STORE_CTX_get_current_cert
+X509_STORE_CTX_get_error
+X509_STORE_CTX_get_error_depth
+PEM_read_bio_DHparams
+BIO_s_file
+BIO_free
+BIO_write
+BIO_s_mem
+BIO_new_ssl_connect
+BIO_new_connect
+BIO_new
+RAND_get_rand_method
+RAND_set_rand_method
+RAND_load_file
+RAND_status
+SSL_CIPHER_get_name
+SSL_CTX_set_cipher_list
+SSL_set_cipher_list
+SSL_CTX_use_certificate_ASN1
+SSL_use_certificate_ASN1
+SSL_clear
+SSL_want
+SSL_pending
+SSL_shutdown
+SSL_write
+SSL_read
+SSL_do_handshake
+SSL_accept
+SSL_connect
+SSL_set_fd
+SSL_ctrl
+SSL_new
+SSL_CTX_set_session_id_context
+SSL_CTX_check_private_key
+SSL_CTX_use_certificate
+SSL_CTX_use_PrivateKey
+SSL_CTX_set_default_verify_paths
+SSL_CTX_load_verify_locations
+SSL_CTX_use_PrivateKey_file
+SSL_CTX_use_certificate_file
+SSL_CTX_use_certificate_chain_file
+SSL_CTX_ctrl
+SSL_CTX_new
+SSLv23_server_method
+TLSv1_server_method
+SSLv3_server_method
+SSLv2_server_method
+SSLv23_method
+SSLv3_method
+SSLv2_method
+SSL_set_session
+SSL_get1_session
+SSL_peek
+SSL_COMP_add_compression_method
+SSL_library_init
+SSL_get_peer_certificate
+SSL_get_verify_result
+SSL_get_error
+SSL_get_fd
+SSL_CIPHER_get_version
+SSL_CIPHER_get_bits
+SSL_get_current_cipher
+SSL_load_client_CA_file
+SSL_alert_type_string_long
+X509V3_add_standard_extensions
+DH_generate_parameters
+SSL_add_dir_cert_subjects_to_stack
+OBJ_obj2txt
+SSL_state_string_long
+DH_size
+DH_new
+SSL_version
+OBJ_txt2nid
+OBJ_obj2nid
+X509_NAME_ENTRY_get_object
+X509V3_EXT_d2i
+SSL_CTX_get_cert_store
+OBJ_nid2sn
+X509_NAME_add_entry_by_NID
+X509_NAME_hash
+X509_NAME_entry_count
+X509_get_ext_by_NID
+sk_push
+sk_new_null
+SSL_alert_desc_string_long
+X509_get_ext
+X509_STORE_set_flags
+COMP_zlib
+ERR_reason_error_string
+ERR_func_error_string
+ERR_lib_error_string
+ERR_get_error_line_data
+ERR_get_error_line
+ERR_get_error
+ERR_error_string
+ERR_peek_error
+CRYPTO_num_locks
+SSL_get_verify_mode
+SSL_get_verify_callback
+SSL_CTX_get_verify_callback
+SSL_CTX_use_RSAPrivateKey_file
+aesni_cbc_encrypt
+aesni_ecb_encrypt
+DES_set_odd_parity
+PKCS12_free
+PKCS12_PBE_add
+RAND_add
+ENGINE_load_builtin_engines
+CRYPTO_cleanup_all_ex_data
+EVP_cleanup
+ERR_free_strings
+GENERAL_NAMES_free
+CRYPTO_free
+X509_OBJECT_free_contents
+X509_REQ_free
+ERR_load_BIO_strings
+EVP_MD_CTX_destroy
+X509_STORE_CTX_set0_crls
+ASN1_INTEGER_free
+ASN1_OBJECT_free
+X509_STORE_CTX_trusted_stack
+sk_zero
+SSL_CTX_set_client_cert_cb
+BIO_vfree
+BIO_free_all
+BIO_clear_flags
+BIO_set_flags
+ENGINE_cleanup
+ENGINE_register_all_digests
+ENGINE_register_all_ciphers
+PKCS7_free
+X509_CRL_free
+X509_STORE_CTX_set_error
+SSL_set_tmp_dh_callback
+X509_STORE_CTX_set_verify_cb
+X509_STORE_CTX_free
+X509_STORE_CTX_cleanup
+X509_STORE_free
+sk_free
+SSL_CTX_set_tmp_rsa_callback
+SSL_CTX_set_client_CA_list
+X509_NAME_free
+EVP_MD_CTX_init
+EVP_CIPHER_CTX_init
+ERR_load_crypto_strings
+OPENSSL_add_all_algorithms_noconf
+DES_ecb_encrypt
+AES_cbc_encrypt
+AES_ecb_encrypt
+AES_decrypt
+AES_encrypt
+ERR_clear_error
+DSA_free
+SSL_set_verify
+OpenSSL_add_all_digests
+OpenSSL_add_all_ciphers
+sk_pop_free
+EVP_PKEY_free
+RSA_free
+X509_free
+CRYPTO_set_add_lock_callback
+CRYPTO_set_id_callback
+CRYPTO_set_locking_callback
+CRYPTO_lock
+SSL_set_bio
+SSL_CTX_set_verify_depth
+BUF_MEM_free
+DH_free
+SSL_CTX_set_cert_verify_callback
+SSL_CTX_set_verify
+SSL_CTX_set_default_passwd_cb_userdata
+SSL_CTX_set_default_passwd_cb
+SSL_SESSION_free
+SSL_free
+SSL_set_accept_state
+SSL_set_connect_state
+SSL_CTX_free
+SSL_CTX_set_tmp_dh_callback
+SSL_CTX_set_quiet_shutdown
+SSL_load_error_strings
+RAND_seed
+ERR_remove_state
+ERR_error_string_n
+ERR_print_errors
+CONF_modules_unload
+%s: Failed to load OpenSSL libraries. libdir is %s
+SSLLoadSharedLibraries
+%s: locking callback overwritten! Expected %p, saw %p
+SSLCheckLockingCallback
+Error opening DH parameter file "%s".
+Error reading DH parameter file "%s".
+AES256-SHA,AES128-SHA
+Error Starting Up Default SSL context
+dh1024.pem
+dh512.pem
+rui.key
+rui.crt
+sslLock_%u
+DSA-1024
+bora\lib\crypto\dsaCipher.c
+DSA PUBLIC KEY
+%s: call to PEM_write_bio_PKCS8PrivateKey failed, error code = 0x%x
+%s: call to PEM_write_bio_DSAPublicKey failed, error code = 0x%x
+%s: call to PEM_read_bio_DSAPublicKey failed, error code = 0x%x
+%s: call to PEM_read_bio_DSAPrivateKey failed, error code = 0x%x
+%s: call to BIO_new failed, error code = 0x%x
+%s: call to BIO_new_mem_buf failed, error code = 0x%x
+CryptoDSA_Export
+%s: CryptoKey_Create failed.
+%s: CryptoCipher_FromString failed.
+DSA-%d
+%s: bit number not supported.
+%s: PEM_write_bio_PKCS8PrivateKey, error code = 0x%x
+%s: call to EVP_PKEY_new, error code = 0x%x
+%s: PEM_write_bio_DSAPublicKey, error code = 0x%x
+%s: PEM_read_bio_DSAPublicKey failed, error code = 0x%x
+CryptoDSA_Import
+RSA-4096
+RSA-2048
+RSA-1024
+RSA-512
+bora\lib\crypto\rsaCipher.c
+%s: PEM_write_bio_PKCS8PrivateKey failed, error code = 0x%x
+%s: PEM_write_bio_RSAPublicKey failed, error code = 0x%x
+%s: call to PEM_write_bio_RSAPublicKey failed, error code = 0x%x
+%s: call to PEM_read_bio_RSAPublicKey failed, error code = 0x%x
+%s: call to PEM_read_bio_RSAPrivateKey failed, error code = 0x%x
+CryptoRSA_Export
+RSA-%d
+%s: call to PEM_write_bio_PKCS8PrivateKey, error code = 0x%x
+%s: call to PEM_write_bio_RSAPublicKey, error code = 0x%x
+CryptoRSA_Import
+PBKDF2: at least one round required (%d requested)
+randGetBytesLock
+bora\lib\crypto\randomDefault.c
+randSeedLock
+NULL callback prevents locator follow.
+KeyLocator module not initialized.
+Crypto operation failed.
+Invalid element building URL.
+Illegal locator type.
+Exported key locator is invalid.
+Key locator is of the wrong type.
+Exported cache is bad.
+Collision in key locator cache.
+Key locator cache not enabled.
+Unknown error.
+Memory exhausted.
+The operation completed successfully.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+?456789:;<=
+ !"#$%&'()*+,-./0123
+UTF-7
+IMAP-mailbox-name
+UTF-7,version=1
+UTF-8
+CESU-8
+UTF-32BE
+UTF-32LE
+UTF-32
+UTF-16BE
+UTF-16LE
+UTF-16
+UTF-16BE,version=1
+UTF-16LE,version=1
+UTF-16,version=1
+BOCU-1
+ISO-8859-1
+US-ASCII
+	 	!	"	#	$	%	&	'	(	)	*	+	,	-	.	/	_	0	1	2	3	4	5	6	7	8	9	
+ >	?	@	A	B	C	F	G	H	E	J	K	L	I	M	<	d	
+f	g	h	i	j	k	l	m	n	o	
+ISCII
+ISCII,version=
+SCSU
+SCSU,locale=ja
+zhTW
+windows-949
+windows-932
+windows-874
+ibm-852
+ibm-851
+ibm-850
+lmb-excp
+  ! 
+" $ 
+% % 
+& & 
+' ' 
+0 0 
+1 1 
+2 3 
+5 5 
+9 : 
+; ; 
+< < 
+t t 
+!!!!
+"!&!
++!+!
+5!5!
+S!T!
+[!^!
+`!y!
+ " "
+#"*"
++"="
+E"H"
+L"L"
+R"R"
+`"a"
+b"e"
+f"o"
+f&f&
+g&i&
+j&j&
+k&l&
+m&m&
+n&n&
+o&o&
+LMBCS-1
+LMBCS-2
+LMBCS-3
+LMBCS-4
+LMBCS-5
+LMBCS-6
+LMBCS-8
+LMBCS-11
+LMBCS-16
+LMBCS-17
+LMBCS-18
+LMBCS-19
+!"#$%&'
+#!V!W!"!&!r%!%#%%%'%)%c%e%g%C%<!"%$%&%(%*%+%-%/%1%3%5%7%9%;%=%?%A%D%F%H%J%K%L%M%N%O%R%U%X%[%^%_%`%a%b%d%f%h%i%j%k%l%m%o%s%+!,!
+ISO_2022
+ISO_2022_JP
+ISO_2022_KR
+ISO_2022_CN
+ISO_2022,locale=zh,version=0
+ISO_2022,locale=zh,version=1
+cns-11643-1992
+iso-ir-165
+ISO_2022,locale=ko,version=1
+ibm-949
+icu-internal-25546
+ISO_2022,locale=ja,version=
+ksc_5601
+jisx-212
+Shift-JIS
+ISO8859_7
+%s: CryptReleaseContext failed %d
+%s: CryptGenRandom failed %d
+%s: CryptAcquireContext failed %d
+RandomBytesHost
+vRQ>
+8STs
+LwH'
+ucol_strcollIter
+ucol_nextSortKeyPart
+ucol_getLocale
+ucol_getSortKey
+ucol_strcoll
+ucol_close
+ucol_open
+ucnv_unload
+ucnv_load
+ucnv_flushCache
+ucnv_close
+ucnv_clone
+ucnv_openAlgorithmic
+ucnv_openPackage
+ucnv_open
+u_cleanup
+u_init
+Returns.
+Returns %d.
+Returns.  Status = %d.
+Returns %d.  Status = %d.
+Returns %d.  Status = %p.
+0123456789abcdef
+<5IkQ
+s1q4
+<5IkQ
+<5IkQ
+RSDS
+d:\build\ob\bora-2949415\bora\build\release\apps\vixDiskMountApi\vixDiskMountServer\vixDiskMountServer.pdb
+_amsg_exit
+__getmainargs
+_cexit
+_exit
+_XcptFilter
+exit
+__initenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+_encode_pointer
+__set_app_type
+?terminate@@YAXXZ
+MSVCR90.dll
+_unlock
+__dllonexit
+_lock
+_onexit
+_decode_pointer
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+_crt_debugger_hook
+InterlockedExchange
+Sleep
+InterlockedCompareExchange
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+IsDebuggerPresent
+KERNEL32.dll
+VixDiskMount_RunServer
+vixDiskMountApi.dll
+__CxxFrameHandler3
+memset
+memcpy
+memchr
+strncat
+free
+realloc
+abort
+memmove
+malloc
+_strupr
+_strlwr
+islower
+_stricmp
+wcrtomb
+localeconv
+_fcvt_s
+_ecvt_s
+fprintf
+__iob_func
+fputs
+strncmp
+_get_osfhandle
+strncpy
+strchr
+sscanf
+strrchr
+qsort
+_errno
+_wfullpath
+wcsncmp
+strstr
+tolower
+isalnum
+isdigit
+_snprintf
+FreeLibrary
+GetProcAddress
+OutputDebugStringA
+GetLastError
+SetLastError
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+FlushFileBuffers
+GetModuleHandleA
+CloseHandle
+FindClose
+FindNextFileW
+FindFirstFileW
+CreateFileW
+GetFileAttributesW
+GetCurrentThread
+DeleteFileW
+CreateDirectoryW
+GetFileAttributesExW
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingA
+CreateFileA
+GetVolumeInformationW
+AccessCheck
+MapGenericMask
+GetFileSecurityW
+RevertToSelf
+ImpersonateSelf
+OpenThreadToken
+ADVAPI32.dll
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??$?8DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@PBD@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z
+MSVCP90.dll
+fflush
+strtod
+_strtoui64
+strtoul
+strtol
+strcspn
+fgetc
+printf
+fgets
+scanf
+calloc
+_strdup
+_wopen
+_wrename
+_wunlink
+_wgetenv
+_getpid
+frexp
+getenv
+sprintf
+_close
+_dup2
+_write
+GetModuleFileNameW
+LoadLibraryExW
+GetModuleHandleW
+GetTempPathW
+LocalFree
+FormatMessageW
+LoadLibraryW
+VirtualAlloc
+GetSystemInfo
+VirtualFree
+EnterCriticalSection
+LeaveCriticalSection
+TlsSetValue
+TlsGetValue
+RaiseException
+TlsAlloc
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+TryEnterCriticalSection
+TlsFree
+GetExitCodeThread
+OpenThread
+GetVersionExA
+lstrcmpiA
+QueryPerformanceFrequency
+WideCharToMultiByte
+MultiByteToWideChar
+VirtualQuery
+GetShortPathNameW
+IsBadReadPtr
+GetACP
+InitializeCriticalSection
+MessageBoxW
+USER32.dll
+SHGetFolderPathW
+SHELL32.dll
+CryptAcquireContextW
+GetUserNameW
+ReportEventW
+SetSecurityDescriptorOwner
+SetSecurityDescriptorDacl
+AddAccessAllowedAce
+InitializeAcl
+GetLengthSid
+InitializeSecurityDescriptor
+FreeSid
+AllocateAndInitializeSid
+OpenProcessToken
+RegCloseKey
+RegQueryValueExW
+RegOpenKeyExA
+GetTokenInformation
+EqualSid
+GetExplicitEntriesFromAclW
+RegOpenKeyExW
+GetSecurityDescriptorControl
+GetNamedSecurityInfoW
+SetSecurityDescriptorControl
+CryptReleaseContext
+CryptGenRandom
+                0000000000000000
+Dateline Standard Time
+Samoa Standard Time
+Hawaiian Standard Time
+Alaskan Standard Time
+Pacific Standard Time
+Mountain Standard Time
+Mountain Standard Time (Mexico)
+US Mountain Standard Time
+Central Standard Time
+Canada Central Standard Time
+Central Standard Time (Mexico)
+Central America Standard Time
+Eastern Standard Time
+US Eastern Standard Time
+SA Pacific Standard Time
+Atlantic Standard Time
+SA Western Standard Time
+Pacific SA Standard Time
+Newfoundland Standard Time
+E. South America Standard Time
+SA Eastern Standard Time
+Greenland Standard Time
+Mid-Atlantic Standard Time
+Azores Standard Time
+Cape Verde Standard Time
+GMT Standard Time
+Greenwich Standard Time
+W. Europe Standard Time
+Central Europe Standard Time
+Central European Standard Time
+Romance Standard Time
+W. Central Africa Standard Time
+E. Europe Standard Time
+Egypt Standard Time
+FLE Standard Time
+GTB Standard Time
+Israel Standard Time
+South Africa Standard Time
+Russian Standard Time
+Arab Standard Time
+E. Africa Standard Time
+Arabic Standard Time
+Iran Standard Time
+Arabian Standard Time
+Caucasus Standard Time
+Afghanistan Standard Time
+Ekaterinburg Standard Time
+West Asia Standard Time
+India Standard Time
+Nepal Standard Time
+Central Asia Standard Time
+Sri Lanka Standard Time
+N. Central Asia Standard Time
+Myanmar Standard Time
+SE Asia Standard Time
+North Asia Standard Time
+China Standard Time
+Singapore Standard Time
+Taipei Standard Time
+W. Australia Standard Time
+North Asia East Standard Time
+Korea Standard Time
+Tokyo Standard Time
+Yakutsk Standard Time
+AUS Central Standard Time
+Cen. Australia Standard Time
+AUS Eastern Standard Time
+E. Australia Standard Time
+Tasmania Standard Time
+Vladivostok Standard Time
+West Pacific Standard Time
+Central Pacific Standard Time
+Fiji Standard Time
+New Zealand Standard Time
+Tonga Standard Time
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="VMware.VMware.vixDiskMountServer" type="win32"></assemblyIdentity><description>&quot;Virtual disk mount utility&quot;</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.30729.4148" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>PADPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+0"0'0,020:0N0i0r0
+12171=1E1K1Q1^1d1m1
+1#2)21282=2C2I2Q2W2^2e2u2}2
+3*3?3J3b3x3
+4`5f5m5
+5!6D6Q6]6e6m6y6
+7 7'7.757<7C7K7S7[7g7p7u7{7
+888n8
+969s9x9}9
+:>;C;
+;T<Y<
+2/363h<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>Z>
+4;8B8R8Y8i8p8/:=:E:
+3d3H4
+5 5$5(5,5054585<5@5D5H5L5P5
+9!9*949A9Q9c9j9w9
+:":/:;:]:~:
+;N<S<
+W0j0
+2,2Q2b2k2u2
+3<4N4
+5'5B5
+6"6B6a6
+717Q7i7
+7S8x8
+;:<'=F=
+=*>i>
+&010<0
+141W1q1
+2)282U2
+3#4J4]4h4m4|4
+545@5F5_5d5x5}5
+626Y6^6
+6*717<7R7x9}9
+:#:a:
+;(<-<n<
+= =;=g=
+>Z>{>
+? ???[?
+0Z0}0j1|1W2
+2n3{3
+4A4c4
+5!5&5]5b5
+6.6G6L6a6k6q6v6
+798@8I8[8m8
+9!939S9g9y9
+;2;L;Q;`;
+<%<E<O<o<
+=<=J=f=1>v>
+?.?7?
+051:1
+4#4K4V4g4
+4>5D5
+586A6Q6q6z6
+7#727E7J7\7a7t7{7
+7@8D8H8L8P8T8
+9&9+979D9I9
+?;?@?X?]?m?y?
+050:0K0X0x0}0
+1$1*10161<1B1H3R3X3^3d3
+6H6|6
+:.:3:Y:^:~:
+:&;|;
+<!<.<H<O<a<
+=&=,=2=:=I=P=
+=H>T>
+?#?)?3?A?P?a?p?
+0L0U0z0
+1+1T1j1
+1!20252;2U2\2h2m2
+2!3X3z3
+4)4G4j4s4
+5$565=5P5Z5i5p5
+7 7;7K7[7l7
+8.898p8
+9%939K9Y9j9
+:(:T:Y:
+<>=C=L=P=T=X=\=`=d=
+>>>M>\>k>z>
+?J?{?
+0,0M0t0
+1K1f1
+4=4B4Q4V4`4d4h4l4p4t4x4|4
+5 5*575v5
+6?6D6
+747R7~7
+8>8L8Q8r8~8
+9&9F9V9b9j9
+: :':
+;$;?;O;[;c;~;
+<'<6<R<[<a<u<
+=-=@=E=J=Z=i=n=y=
+>*>E>J>u>
+>j?{?
+]0t0
+1A1H1_1
+2$282
+3-3k3w3
+4!4&464E4X4r4
+7K7P7
+8#8(818B8N8X8c8t8y8
+9(9.959B9^9h9s9
+:K:Y:p:
+;9;>;T;l;};
+< <?<w<
+=5=G=N=d=v=}=
+>#>5><>R>g>n>
+?&?-?C?U?\?r?
+010C0J0`0r0y0
+1.151K1Z1a1w1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2
+3"3,3<3T3d3|3
+4*4G4Y4l4p4t4x4|4
+5&5C5S5s5x5
+9;9K9{9
+:@:`:
+;';A;d;t;
+;'<7<e<
+=%=J=Q=z=
+=!>1>E>
+?A?F?
+0&0F0h0x0
+1f1r1{1
+10252
+3?3L3Q3_3s3y3
+4'4,4<4P4]4
+5Z5a5k5|5
+6"606g6
+7	8f8p8v8{8
+9(9-9D9N9T9Y9x9}9
+:&:+:2:7:M:R:
+<><H<N<S<p<y<
+=3=8=?=D=
+?.?\?
+0<1`1
+242@253x3
+3(444
+4w;};
+<6<T<
+<X=p=
+2!2P2v2
+2r3w3
+5j5u556:6D6I6P6U6\6a6Y8
+889o9
+9,:1:E:^:c:
+:;;@;
+2"2)22282>2G2N2U2
+2;3P3
+596@6F6K6P6i6z6
+7$7@74898f8
+8Z9f9m9}9
+:$:-:5:<:E:S:\:j:s:
+; ;&;,;4;C;J;Z;
+<g<n<
+<$=+=T=
+=	>4>E>
+?0?B?b?u?
+&0:0c0
+2E4J4T4X4\4`4
+=$=:=F=
+=#>,?p?
+9.:-;p;
+> >$>(>
+0(0,0004080<0@0X0\0`0d0h0l0p0
+2-222G2N2l2
+213a3
+9\9`9d9h9l9p9t9x9|9(:m:);F;v;
+;a<6>F>
+2s3J4T4]4
+4]5i5
+;';0;
+;%<@<E<]<s<{<
+1,2B2[2
+5'585U5[5k5
+;3<F<|<
+	0c0
+1 1,171L1U1[1`1f1o1s1
+1<4|4%5
+5+;2;9;L;m;~;
+< =5=
+=1>^>t>
+>0o0
+4+5\5m7
+8s;|;
+>+>5>G>V>\>g>u>
+?'?7?I?m?
+070?0H0R0_0w0
+191G1Q1g1l1v1
+575>5L5V5v5
+8R9{9
+:#:x:
+<&=Q=w=
+><>A>K>R>i>
+>*?S?
+5$515[5l5q5v5
+6 646=6C6L6R6[6a6j6p6v6
+6.7g7
+7)8V8
+8#9:9N9b9
+:p:x:
+d1`3d3h3l3p3t3@4l5z7
+:.>5>
+081<192>2P2b2
+1090F1T1f2
+:1?:?Q?Z?q?z?
+0$0-0D0M0a0j0
+1$1-1D1M1d1m1
+2$2-2A2J2d2m2
+3$3-3A3J3d3m3
+4$4-4D4M4d4m4
+5$5-5D5M5d5m5
+6$6-6D6M6d6m6
+7!7*7A7J7a7j7
+9$979[9
+9':,:<:R:v:{:
+;F;q;
+<"<*<4<:<?<I<N<V<`<f<k<v<{<
+=)=.=6=@=F=K=U=Z=b=l=r=w=
+>%>*>5>:>B>L>R>W>a>f>n>x>~>
+?!?+?1?6?A?F?N?X?^?c?m?r?z?
+0 0%0-070=0B0M0R0Z0d0j0o0y0~0
+1!1,11191C1I1N1Y1^1f1p1v1{1
+2"2(2-282=2E2O2U2Z2e2j2r2|2
+3$3.34393D3I3Q3[3a3f3q3v3~3
+4#4(404:4@4E4P4U4]4g4m4r4}4
+5 5%5/545<5F5L5Q5\5a5i5s5y5~5
+6&6,616;6@6H6R6X6]6h6m6u6
+7 7(72787=7G7L7T7^7d7i7t7y7
+8'8,848>8D8I8S8X8`8j8p8u8
+9#9(93989@9J9P9U9_9d9l9v9|9
+:):/:4:?:D:L:V:\:a:k:p:x:
+;#;+;5;;;@;K;P;X;b;h;m;w;|;
+<*</<7<A<G<L<W<\<d<n<t<y<
+= =&=+=6=;=C=M=S=X=c=h=p=z=
+>">,>2>7>B>G>O>Y>_>d>o>t>|>
+?!?&?.?8?>?C?N?S?[?e?k?p?{?
+0#0-020:0D0J0O0Z0_0g0q0w0|0
+1$1*1/191>1F1P1V1[1f1k1s1}1
+2&20262;2E2J2R2\2b2g2r2w2
+3%3*323<3B3G3Q3V3^3h3n3s3~3
+4!4&41464>4H4N4S4]4b4j4t4z4
+5'5-525=5B5J5T5Z5_5i5n5v5
+6!6)63696>6I6N6V6`6f6k6u6z6
+7(7-757?7E7J7U7Z7b7l7r7w7
+8$8)84898A8K8Q8V8a8f8n8x8~8
+9 9*90959@9E9M9W9]9b9m9r9z9
+:$:,:6:<:A:L:Q:Y:c:i:n:y:~:
+;!;+;0;8;B;H;M;X;];e;o;u;z;
+<"<(<-<7<<<D<N<T<Y<d<i<q<{<
+=$=.=4=9=C=H=P=Z=`=e=p=u=}=
+>#>(>0>:>@>E>O>T>\>f>l>q>|>
+?$?/?4?<?F?L?Q?[?`?h?r?x?}?
+0%0+000;0@0H0R0X0]0g0l0t0~0
+1'11171<1G1L1T1^1d1i1s1x1
+2&2+232=2C2H2S2X2`2j2p2u2
+3"3'32373?3I3O3T3_3d3l3v3|3
+4(4.434>4C4K4U4[4`4k4p4x4
+5"5*545:5?5J5O5W5a5g5l5w5|5
+6)6.666@6F6K6V6[6c6m6s6x6
+7 7&7+757:7B7L7R7W7b7g7o7y7
+8"8,82878A8F8N8X8^8c8n8s8{8
+9!9&9.989>9C9M9R9Z9d9j9o9z9
+:":-:2:::D:J:O:Y:^:f:p:v:{:
+;#;);.;9;>;F;P;V;[;e;j;r;|;
+<%</<5<:<E<J<R<\<b<g<q<v<~<
+=$=)=1=;=A=F=Q=V=^=h=n=s=}=
+> >%>0>5>=>G>M>R>]>b>j>t>z>
+?&?,?1?<?A?I?S?Y?^?i?n?v?
+0 0(02080=0H0M0U0_0e0j0u0z0
+1'1,141>1D1I1T1Y1a1k1q1v1
+2$2)23282@2J2P2U2`2e2m2w2}2
+3 3*30353?3D3L3V3\3a3l3q3y3
+4$4,464<4A4K4P4X4b4h4m4x4}4
+5 5+50585B5H5M5W5\5d5n5t5y5
+6!6'6,676<6D6N6T6Y6c6h6p6z6
+7#7-73787C7H7P7Z7`7e7o7t7|7
+8"8'8/898?8D8O8T8\8f8l8q8{8
+9#9.939;9E9K9P9[9`9h9r9x9}9
+:$:*:/:::?:G:Q:W:\:g:l:t:~:
+;&;0;6;;;F;K;S;];c;h;s;x;
+<%<*<2<<<B<G<R<W<_<i<o<t<
+="='=1=6=>=H=N=S=^=c=k=u={=
+>(>.>3>=>B>J>T>Z>_>j>o>w>
+?"?*?4?:???I?N?V?`?f?k?v?{?
+0)0.060@0F0K0U0Z0b0l0r0w0
+1%1*151:1B1L1R1W1a1f1n1x1~1
+2!2+21262A2F2N2X2^2c2m2r2z2
+3 3%3-373=3B3M3R3Z3d3j3o3y3~3
+4B5T5{5
+5>6I6
+7#797C7c7t7
+8 8%8*878A8Z8n8x8}8
+91969@9F9W9]9u9z9
+:):.:
+?,?1?J?O?y?~?
+:0?0n0!1J1O1
+1+202Z2_2z2
+3:3Z3_3
+7c7h7
+9W:\:
+;?;D;m;r;
+<I=N=
+>2>7>q>v>
+?=?B?
+1A1Z1
+2L2i2
+3%3*30363b3h3v3|3
+3C4S4
+5!5+52575b5h5p5
+6*6/6v6{6
+83:K:
+<0=?=
+=4>Y>i>
+?1?d?x?
+011f1
+889^9
+93;p;'<
+455J5
+5x6Q7
+4v6{9
+:@;D;H;L;P;
+0k0r0
+0*1<1
+182<2@2D2H2
+273j3
+4.5c5
+9@>e>x>
+>&?0?:?C?
+1=2F2
+=l>u>
+4181<1@1D1H1L1
+3-4Q4l4u4
+9x:|:
+9R:2=A=n=
+>x?|?
+3#4l4
+;l>p>t>x>|>
+:":A<
+ 0$0(0,000W0
+4?5V5u5
+717Q7X7b7
+858C8
+7`8d8h8l8'<
+?5???E?J?
+w1w2
+3$3(3,3\3`3h7l7p7t7x7
+5 5$5,50585<5@5D5H5L5P5T5X5
+1$1,141<1D1
+=$=,=4=<=D=L=T=\=d=l=
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>,>4><>D>L>T>\>d>l>t>|>
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2
+3 3(30383@3H3P3X3`3h3p3x3
+6 6$6(6,60646<6D6L6P6T6`6d6h6l6p6t6x6|6
+6@8H8P8X8
+9d:l:p:t:x:|:
+=(>0>
+? ?$?<?
+0`1h1X2\2`2d2h2|2
+5@6H6$7,7074787<7@7H7T7
+8p9x9
+;p<t<x<|<
+>,>4>
+4 4(4,4
+6 6$6(6,686@6D6
+7p8x8
+9(=0=8=@=H=P=X=`=h=p=x=
+>(>,>
+H0P0,10181<1@1D1X1\1
+3\4`4h4l4p4t4
+6 6$6
+7@8H8$9(9094989<9P9T9
+:p;x;T<X<`<d<h<l<
+80@0p5t5x5|5
+5X6`6<7@7D7H7L7P7T7`7d7h7l7
+9l:p:t:x:|:
+: ;(;
+1 1$1,1014181<1@1D1l3p3,404P4l4p4x4
+1<2@2D2H2L2P2T2X2\2`2d2h2l2
+3 3$3(3,3034383t3x3|3
+4D4H4L4P4T4X4\4`4d4h4l4
+5L6P6T6X6\6`6d6h6l6p6
+7 7$7(7,70747
+7T8X8\8
+8$9(9,909
+:\:`:
+:,;0;4;8;<;
+<d<h<l<p<t<
+<4=8=<=@=D=
+>l>p>
+><?@?D?
+0t0x0|0
+0D1H1L1P1T1X1\1`1d1h1l1
+2 2$2(2|2
+2L3P3
+4 4$4(4,404
+4T5X5\5
+5$6(6,606
+6\7`7d7
+7,80848
+9d9h9l9
+94:8:<:@:D:
+;l;p;t;
+;<<@<D<H<
+=t=x=|=
+=D>H>
+? ?$?|?
+L0P0T0X0
+1 1$1(1
+1T2X2\2`2
+2$3(3,3034383
+3\4`4d4
+4,50545
+6d6h6l6
+64787<7
+8l8p8t8x8
+8<9@9D9
+:t:x:|:
+:D;H;L;P;
+<L=P=
+?T?X?\?`?d?h?l?
+$0(0,0004080<0
+1\1`1d1h1
+2d3h3l3p3
+34484<4@4D4H4
+5l5p5t5
+5<6@6
+7t7x7
+7D8H8
+: :L:
+;T<X<\<`<
+<$=(=
+=\>`>d>h>l>p>
+>,?0?
+0d0h0l0p0t0
+04181<1@1D1H1
+2l2p2t2x2|2
+2<3@3
+4t4x4
+4D5H5
+6 6$6(6,6064686|6
+6L7P7T7X7\7`7
+8 8$8(8
+8T9X9\9`9
+9$:(:,:0:4:8:<:@:
+;\;`;d;h;l;p;t;
+;,<0<4<8<<<
+=d=h=l=p=
+=4>8><>@>D>
+?l?p?t?x?|?
+<0@0D0H0L0
+1 1t1x1|1
+1D2H2L2P2T2
+3 3$3(3|3
+3L4P4T4X4
+5 5$5
+5T6X6\6`6d6
+6$7(7
+7\8`8
+8,909
+:d:h:
+:4;8;
+<l<p<
+<<=@=
+>t>x>
+>D?H?L?P?T?X?
+0 0$0|0
+0L1P1T1X1\1`1d1
+2 2$2(2,20242
+3T3X3\3`3d3h3l3p3
+3$4(4,4044484<4
+5\5`5d5h5l5p5t5
+5,6064686<6
+7d7h7l7p7t7
+9l9p9t9x9|9
+9<:@:D:H:L:P:
+; ;t;x;|;
+;D<H<L<P<T<X<
+=L>P>T>X>\>
+? ?$?(?,?
+T0X0
+0$1(1
+1\2`2d2h2
+2,303
+4d4h4
+44585
+6l6p6
+6<7@7
+8t8x8
+8D9H9
+:L;P;
+14282<2@2
+3l3p3t3
+3<4@4D4
+5t5x5|5
+586<6@6D6H6L6x6
+64:8:<:D:H:T:X:\:`:d:h:l:p:t:
+; ;$;(;,;0;4;8;<;@;D;X;\;t;x;|;
+\>`>d>h>l>p>t>x>
+3 3$3,30343T3X3`3p3t3|3
+4 4$4(4,44484<4X4h4l4p4t4
+5 5$5(5,5054585H5X5\5`5d5p5t5x5|5
+6 6$6(64686<6@6D6
+>0<0
+0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+131017000000Z
+161115235959Z0
+California1
+	Palo Alto1
+VMware, Inc.1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+VMware, Inc.0
+#:7C
+tlEy
+M5Su
+90705
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+e0c0$
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+	|7X
+ePBPc
+U	+a
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222192517Z
+210222193517Z0
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+CcjRK
+{]KV
+3130
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+,N<jPl
+3BH8Q:|8
+$"(@
+:'jI
+#(2v
+wha3
+\J$jg
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+0];x)
+http://www.vmware.com/0
+V/BH
+=MY!"v
+O =&7k54
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+150814210315Z0#
+hC];
+5tn)i
+it]K
+3yd@
+z/{k
