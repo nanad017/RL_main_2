@@ -1,0 +1,14 @@
+Created: 2026-09-15
+Bundle path: /home/rl/RL/RL_main_2/detector_source_bundle_20260915
+Type: source-code-only detector bundle
+
+Excluded:
+- virtual environments
+- datasets
+- generated results/logs
+- model artifacts/checkpoints
+- .git object databases
+- __pycache__
+
+File count at creation: 99 files before adding this manifest and README
+Size at creation: 2.1M before adding this manifest and README

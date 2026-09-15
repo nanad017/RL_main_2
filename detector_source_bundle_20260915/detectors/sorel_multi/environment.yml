@@ -1,0 +1,34 @@
+name: sorel-malware-detector
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - numpy>=1.21
+  - scipy>=1.7
+  - scikit-learn>=1.0
+  - matplotlib>=3.5
+  - tqdm
+  - joblib
+  - pip
+
+  # PyTorch CPU — xoá "cpuonly" và thêm cudatoolkit=11.8 nếu có GPU
+  - pytorch>=1.12
+  - cpuonly
+
+  - pip:
+      # LMDB + serialization (không có trên conda channels)
+      - lmdb>=1.3.0
+      - msgpack>=1.0.0
+
+      # LightGBM
+      - lightgbm>=3.3.0
+
+      # PE parsing + EMBER v2 features
+      - pefile>=2022.5.30
+      - git+https://github.com/elastic/ember.git
+
+      # SQLAlchemy (optional)
+      - sqlalchemy>=1.4

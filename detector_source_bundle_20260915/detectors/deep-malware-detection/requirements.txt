@@ -1,0 +1,10 @@
+torch
+tqdm
+scikit-learn
+pandas
+seaborn
+matplotlib
+numpy
+requests
+beautifulsoup4
+pefile
