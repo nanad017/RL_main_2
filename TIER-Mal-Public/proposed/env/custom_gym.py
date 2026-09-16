@@ -30,7 +30,6 @@ class CustomDetectorEnv(gym.Env):
         url_path="http://127.0.0.1:8000",
         shared_root=default_shared_root,
         threshold=0.5,
-        memory_path="runtime/memory/custom",
         reward_fn=None,
     ):
         super().__init__()
@@ -43,6 +42,7 @@ class CustomDetectorEnv(gym.Env):
             shape=(2381,),
             dtype=np.float32,
         )
+        self.observation = None
         self.maxturns = maxturns
         self.model = custom_api.CustomAPIModel(url_path, shared_root, threshold)
         self.threshold = threshold
@@ -52,11 +52,7 @@ class CustomDetectorEnv(gym.Env):
         self.history = OrderedDict()
         self.sample_iteration_index = 0
         self.queries = 0
-        self.mem_obs = []
-        self.mem_score = []
         self.skipped = 0
-        self.memory_path = str(PROJECT_ROOT / memory_path)
-        os.makedirs(self.memory_path, exist_ok=True)
 
         self.output_path = str(PROJECT_ROOT / output_path)
         self.save_data = save_modified_data
@@ -68,14 +64,9 @@ class CustomDetectorEnv(gym.Env):
     def step(self, action_ix):
         self.turns += 1
         action_name = self._take_action(action_ix)
-        self.observation_space = self.feature_extractor(self.bytez)
+        self.observation = self.feature_extractor(self.bytez)
         self.score = self.model.predict_sample(self.bytez, self.sha256)
         self.queries += 1
-        self.mem_obs.append(self.observation_space)
-        self.mem_score.append(int(self.score >= self.threshold))
-
-        np.save(os.path.join(self.memory_path, "observations"), np.array(self.mem_obs))
-        np.save(os.path.join(self.memory_path, "scores"), np.array(self.mem_score))
 
         self.tiers_used.add(get_action_tier(action_name))
 
@@ -117,7 +108,7 @@ class CustomDetectorEnv(gym.Env):
                 f"queries until now {self.queries}"
             )
 
-        return self.observation_space, reward, episode_over, self.history[self.sha256]
+        return self.observation, reward, episode_over, self.history[self.sha256]
 
     def _take_action(self, action_ix):
         action = ACTION_LOOKUP[int(action_ix)]
@@ -143,7 +134,7 @@ class CustomDetectorEnv(gym.Env):
             self.history[self.sha256] = {"actions": [], "evaded": False}
             self.bytez = interface.fetch_sample(self.sha256)
 
-            self.observation_space = self.feature_extractor(self.bytez)
+            self.observation = self.feature_extractor(self.bytez)
             self.original_score = self.model.predict_sample(self.bytez, self.sha256)
             self.original_size = len(self.bytez)
             if self.original_score < self.threshold:
@@ -152,7 +143,7 @@ class CustomDetectorEnv(gym.Env):
 
             break
         print(f"Sample: {self.sha256}")
-        return self.observation_space
+        return self.observation
 
     def render(self, mode="human", close=False):
         pass

@@ -27,7 +27,7 @@ Các script chỉ cài package, **không tải dataset hay model**.
 | Custom detector | 3.10–3.11 | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh custom-xgboost` |
 | Sorel | 3.9 | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh sorel` |
 | DeepMal | 3.9 | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh deepmal` |
-| CNN | 3.7 | `PYTHON_BIN=python3.7 bash scripts/setup_detector_env.sh cnn` |
+| CNN | 3.12 | `PYTHON_BIN=python3.12 bash scripts/setup_detector_env.sh cnn` |
 | EMBER2024 | >=3.10 | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh ember` |
 
 `git` cần có khi cài Sorel vì dependency `ember` được lấy từ Git. Cài Python
@@ -44,8 +44,8 @@ dùng để tạo các script này.
 | --- | --- | --- | --- |
 | EMBER2024 | `https://github.com/futurecomputing4ai/EMBER2024` | README gốc: `git clone https://github.com/FutureComputing4AI/EMBER2024.git`, `cd EMBER2024/`, `pip install .`; `pyproject.toml` yêu cầu Python `>=3.10` | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh ember` |
 | DeepMal | `https://github.com/jaketae/deep-malware-detection` | README gốc: `python -m venv venv`, `source venv/bin/activate`, `pip install -U pip wheel`, `pip install -r requirements.txt` | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh deepmal` |
-| CNN | `https://github.com/cridin1/malware-classification-CNN` | README gốc mô tả dataset/model, không có lệnh venv đầy đủ; repo public dùng `detectors/evaluation/malware-classification-CNN/requirements.txt` để pin TensorFlow/Keras runtime | `PYTHON_BIN=python3.7 bash scripts/setup_detector_env.sh cnn` |
-| Sorel | `https://github.com/sophos/SOREL-20M` và implementation local `sorel_multi` | Folder local không có README; dependency nằm trong `requirements.txt` và `environment.yml`; `environment.yml` dùng Python `3.9`, PyTorch, LightGBM, `pefile`, và `git+https://github.com/elastic/ember.git` | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh sorel` |
+| CNN | `https://github.com/cridin1/malware-classification-CNN` | README gốc mô tả dataset/model, không có lệnh venv đầy đủ; repo public dùng `detectors/evaluation/malware-classification-CNN/requirements.txt` để pin TensorFlow/Keras runtime đã kiểm tra với Python `3.12` | `PYTHON_BIN=python3.12 bash scripts/setup_detector_env.sh cnn` |
+| Sorel | `https://github.com/sophos/SOREL-20M` và implementation local `sorel_multi` | Folder local không có README; dependency nằm trong `requirements.txt` và `environment.yml`; `environment.yml` dùng Python `3.9`, PyTorch, LightGBM, `pefile`, và EMBER từ Git revision đã kiểm tra | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh sorel` |
 | Custom XGBoost | implementation custom trong `detectors/custom_rl/xgboost` | Không phải detector upstream; dependency nằm trong `detectors/custom_rl/xgboost/requirements.txt` | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh custom-xgboost` |
 
 ## Artifact ngoài repository
@@ -65,6 +65,24 @@ Các đường dẫn trên nằm trong `.gitignore`, nên không bị đưa lên
 dùng đặt artifact vào đó. Dữ liệu RL mặc định là
 `runtime/datasets/main_dataset/RL/virus` và `runtime/datasets/main_dataset/test`;
 có thể đổi bằng `MALWARE_RL_TRAIN_DIR` và `MALWARE_RL_TEST_DIR`.
+
+## Tài nguyên cho action
+
+Các action overlay/section sử dụng benign PE trong
+`proposed/actions/trusted` và chuỗi trích xuất trong
+`proposed/actions/good_strings`. Repository có kèm một tập nhỏ để chạy lại,
+nhưng có thể tái tạo từ corpus benign hợp pháp của người dùng:
+
+```bash
+python scripts/build_action_resources.py \
+  --benign-dir /path/to/benign_pe \
+  --trusted-dir proposed/actions/trusted \
+  --strings-dir proposed/actions/good_strings \
+  --recursive
+```
+
+Script này chỉ copy file benign và chạy lệnh hệ thống `strings`; nó không tải
+hoặc cung cấp executable bên ngoài.
 
 ## Chạy custom detector với RL và STOKE
 

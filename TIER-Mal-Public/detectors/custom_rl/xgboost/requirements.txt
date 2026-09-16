@@ -1,6 +1,7 @@
 fastapi>=0.95,<1
 uvicorn[standard]>=0.22,<1
 joblib>=1.2
+xgboost==2.0.3
 numpy>=1.21
 pefile>=2023.2.7
 scikit-learn>=1.0
