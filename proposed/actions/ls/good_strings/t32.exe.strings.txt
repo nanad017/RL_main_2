@@ -1,0 +1,552 @@
+!This program cannot be run in DOS mode.
+KSw$KV
+KSw%K8
+KSw!KI
+KRichH
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+,Wh@
+SVW3
+D$xPj	S
+YYjp
+D$tPj	S
+jD^V
+D$4WP
+D$,PWWWj
+t$4W
+QSVW
+>"h 
+f9;u 
+woVW
+t/9u
+t*9u
+@uoW
+AWf;
+tRHtC
+tEHt0
+u%	U
+f9>t
+f9>t
+>=uu
+f9>t
+f9>t
+PPPPP
+Y__^[
+9csm
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+RhF0@
+_^[]
+uTVWh7a@
+PPPPP
+<v*V
+^SSSSS
+j@j ^V
+SWf9M
+j@j 
+u,9E
+~,WPV
+98t^
+tVPV
+t/9U
+ SW3
+8CSVh_
+8"uY
+WVh_
+8"u%
+_^[]
+ SW3
+8CSVh
+8"u]
+8"u'
+_^[]
+t$WV
+Ht%C
+Ht(f
+uNSW
+@u^V
+t%HHt
+HHt$HHt
+RPWS
+90tW
+?If90t
+YYt.
+8csm
+t?VSP
+Y[_^
+PPPPP
+>"u&
+< tK<	tG
+wf93t
+f90u
+f90u
+VVV+
+@PSVV
+t*VV
+F\=x
+Y;=(
+h'c@
+tCHt(Ht 
+3t(;
+SSSSS
+t(9}
+SW9E
+t?f;
+Vuy3
+_^[]
+Y_^[
+Y_^[
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+j hh
+t!Ht
+_^[]
+t'Ou
+VVhU
+@u^V
+t$HHt
+HHt$HHt
+RPWS
+90tX
+YYt.
+_^[]
+to=H
+Y_^[]
+Fpt"
+~%9M
+QVj	
+r 8^
+v	N+D$
+j0Xf
+RPWS
+80tS
+j Yf
+YYt/
+_^[]
+j@j 
+QSWVj
+SVW3
+_^[u
+9]$u
+9](SS
+t"SS9] u
+9] SS
+v4;5|
+vL;5
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+PPPPPPPP
+t&:a
+PPPPPPPP
+CorExitProcess
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+('8PW
+700PP
+`h`hhh
+xppwpp
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Fatal error in launcher: %s
+Failed to open executable
+Unable to find an appended archive.
+Unable to read from file
+Job information querying failed
+Job information setting failed
+stdin duplication failed
+stdout duplication failed
+stderr duplication failed
+Unable to create process using '%s'
+Failed to get exit code of process
+Expected to find a command ending in '.exe' in shebang line.
+Expected terminating double-quote for executable in shebang line.
+Terminating quote without starting quote for executable in shebang line.
+Failed to find shebang
+Expected to find terminator in shebang line
+Expected to decode shebang line using UTF-8
+Expected to find '#' at start of shebang line
+Expected to find '!' following '#' in shebang line
+Expected to find executable in shebang line
+Expected to find arguments (even if empty) in shebang line
+Expected to be able to allocate command line memory
+RSDS
+C:\Users\Vinay\Projects\simple_launcher\Release\CLISimpleLauncher.pdb
+ExitProcess
+GetCommandLineW
+SetInformationJobObject
+CreateProcessW
+GetCurrentProcess
+WaitForSingleObject
+GenerateConsoleCtrlEvent
+AssignProcessToJobObject
+GetExitCodeProcess
+GetModuleFileNameW
+QueryInformationJobObject
+MultiByteToWideChar
+CreateJobObjectA
+GetStdHandle
+GetLastError
+SetConsoleCtrlHandler
+DuplicateHandle
+CloseHandle
+KERNEL32.dll
+StrStrIW
+SHLWAPI.dll
+HeapFree
+HeapAlloc
+EnterCriticalSection
+LeaveCriticalSection
+GetStringTypeW
+GetCommandLineA
+HeapSetInformation
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+InitializeCriticalSectionAndSpinCount
+EncodePointer
+DecodePointer
+RtlUnwind
+HeapCreate
+GetProcAddress
+GetModuleHandleW
+WriteFile
+SetHandleCount
+GetFileType
+GetStartupInfoW
+DeleteCriticalSection
+Sleep
+ReadFile
+SetFilePointer
+GetModuleFileNameA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+CreateFileW
+LoadLibraryW
+HeapReAlloc
+GetConsoleCP
+GetConsoleMode
+FlushFileBuffers
+GetCPInfo
+GetACP
+GetOEMCP
+IsValidCodePage
+SetStdHandle
+IsProcessorFeaturePresent
+SetEndOfFile
+GetProcessHeap
+HeapSize
+WriteConsoleW
+LCMapStringW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ww||
+wwww
+wwwww|
+wwwwww
+wwwwww
+wwwww
+ffffff
+ffffffl
+ffffff
+ffffff
+ffff
+lffl
+_fffk
+UUU_kJqO
+wwwww{
+_______
+CCBABAD
+L*(%$""&G
+ABJIIDDJC??AD_-(''%$GG#_
+DIJIIJIIIDIJDD_+)(''%GG _
+JMCEJ?ABAECA?BA_,+)('%%"!_
+IM@AJACDCIDI____.,++>________
+JMJJJJJJJJJF
+_..,+)('%$"! #G
+IMCEJJJI?J_
+_...,+(('%$"! &_
+JM?AJJJJCJ_
+_...,+)(''%$"  _
+IMJJJJJJJJ_
+K=...,++(''%$! _
+JMCDJJJJAJ_
+K_______L*%$"!_
+I_?AMNJJEJ_
+L'%$"_
+I_MMMMMMJJ_
+_('%%_
+I_CEMIJJMEM
+_(''*_
+I_?BMDJEMDMF
+_)(-L
+I_MMMCMMMMM_________<
+____
+I_CEM1;MACDMEJM_
+I_?A_D1@IJJMJMM_
+I__6
+_@/EMMMNMM_
+0EJDMJCJF
+?:AA2
+0?_M_MIEM______M
+IC4BC/
+N______MMMMJIDA
+I_9/
+HJJMMJMMMJ??BA
+I_A7503	
+IJMMCBCBA44CC
+I___BAO;
+6___C_MJIDIDM
+I_CI___O;
+@__C_C?J?AJ
+I_?A_DJJI@
+O_CM?;I?J
+I_________H
+9MAIJJIJ
+I_CD_____JJI73C;IJIJ
+I_?AMDJJDIMJIE5:JIJ
+I__________MMIA:IJ
+JJJJJJJJJJJJJJJMJ
+%///*
+"(%%'%/
+!#''///
+/+/+
+"*(/
+!%(/
+  (*/
+(///)
+"/////
+'#+//+'
+!%*++$++!+!
+    !!!
+&			&
++<<</
+&&&#
+[[[?6666
+BBB3
+mmm3
+!!!4
+777&
+}___E
+OpppD
+Z2226
+DDD(
+###5
+222"
+&&&2
+   4
+888&
+$$$5
+333"
+!!!4
+888&
+%%%5
+444"
+"""4
+888&
+%%%5
+555"
+"""4
+:::&
+%%%5
+555"
+"""4
+;;;&
+QQQJnnn
+888T
+---6fffnddd
+&&&5
+&&&2
+"""4
+888&
+$$$6
+666"
+"""4
+;;;&
+444]ttt|
+&&&5
+555"
+"""4
+;;;&
+%%%5
+555"
+"""4
+:::&
+%%%5
+!!!0\\\JeeeQ666D555A
+vvvj&&&D
+uuun{{{j
+wwwn}}}j
+yyyn
+zzzn
+|||n
+>>>3@@@y
+~~~obbb
+---U
+lllg|||s
+---{bbb
+|||n
+zzzn
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0A0Z0z0
+2#2M2b2n2
+3?3T3q3
+4)474<4{4
+5$5K5|5
+6.6>6
+7w859;9M9
+92:8:R:a:n:z:
+;B;u;
+;}>(?
+W0o0	1}1
+465;5E5
+6$6+62696@6G6N6U6]6e6m6y6
+:/:Y:j:w:~:
+;<<C<P<V<
+<!=>=
+=l>t>
+>%?1?
+<0m0y0
+2'2=2H2b2m2u2
+3&3-3X3
+4f4~4
+5F5c5
+6A6g6m6
+6?7I7t7
+8>8a8g8
+8+949@9Y9z9
+<1<7<@<S<w<
+=+=l>
+3;4l4
+6e7t7
+= >/>J>
+_1U2
+3,4X4y4]6
+939M9
+95:r:|:
+;K=Z=
+d0j0
+1;1@1a1h1t1z1
+242Z2
+4Z4`4v4{4
+5#5)51565>5C5K5P5W5f5k5q5z5
+6&626[6c6n6
+959G9Z9l9
+<#=C=M=d=
+=Y>y?
+11171
+3*3/34393I3x3~3
+4$4)474
+4/5>5N5U5]5
+6D7g7r7x7
+8H8b8|8~:
+:*;B;c;
+1@1V1
+2'3Q3q3
+5,5R5
+s0w0{0
+1	2m2
+3@3W3
+5)575@5J5~5
+5$6Y6l6
+7E8Q8d8v8
+9@9i9z9
+9):q:
+;.<H<Y<
+=F>Q>
+2>2G5
+7	858W8@:
+<$=_=r=
+=%>>>Z>
+?D?V?
+0&0d0
+1#1(1,101Y1
+393@3D3H3L3P3T3X3\3
+5r7y7
+'292K2]2o2
+3%373I3[3m3
+L1P1T1X1\1h1l1
+;$;,;4;
+<>@>
+?(?H?h?
+0(040P0p0
+1 1<1@1\1`1
+2 2@2`2
+0`6d6h6l6
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=
+> >$>(>0>H>L>P>T>X>\>`>d>h>l>x>|>

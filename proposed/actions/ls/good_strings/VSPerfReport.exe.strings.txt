@@ -1,0 +1,1287 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+6o(W
+,'sA
+,'sA
+*.(<
+D&((
+	,,((
+-,((
+4,((
+, rE
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+*V(8
+-+((
+. ((
+-,((
+-(((
+-(((
+-%((
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP-N
+VYK/
+RG`WW	
+kzWFoaEYo
+MError: VSP1820: Error creating output file {0}. Access Denied. Skipping file.
+Analysis completed
+/Error: VSP1800: A bad start time was specified.
+=Error: VSP1801: Bad time range, start time is after end time.
+3Error: VSP1822: /calltrace does not take arguments.
+EWarning: VSP1825: CallTrace will be generated in CSV format, not XML.
+CWarning: VSP1821: /CALLTRACE flag ignored for sample based reports.
+@Warning: VSP1828: /CALLTRACE switch ignored for summary reports.
+YError: VSP1826: Incompatible switch usage.  Switch /XML is not supported with /CALLTRACE.
+'Error: VSP1817: Command line error: {0}
+;Individual analysis completed.  Beginning Diff calculation.
+?Error: VSP1802: Diff mode requires 2 file names to be specified
+Starting analysis of each file
+/Error: VSP1803: An input file name is required.
+3Error: VSP1804: Did not successfully open the file.
+Successfully opened the file.
+File opened
+)Error: VSP1805: Error writing to file {0}
+0Error: VSP1829: Summary files cannot be filtered
+FOR INTERNAL USE ONLY
+iError: VSP1830: Diff table '{0}' does not exist or has no data. Use /querydifftables to see valid tables.
+EError: VSP1833: An invalid value was specified for the diff threshold
+-Error: VSP1806: Input parameters are invalid.
+(Error: VSP1816: Invalid output path: {0}
+8Error: VSP1823: Output path is in an invalid format: {0}
+mMicrosoft (R) VSPerf Report Generator, Version {0}
+Copyright (C) Microsoft Corporation. All rights reserved.
+nError: VSP1834: An negative value was specified for the diff threshold. Diff threshold values must be positive
+)This report doesn't have any summary data
+`Error: VSP1835: Lifetime summary was requested, but no lifetime data was collected in this file.
+<Error: VSP1812: This report contains no process information.
+=Warning: VSP1807: Non-numeric process ID specified, ignoring.
+<Warning: VSP1808: Non-numeric thread ID specified, ignoring.
+ This report is not serializable.
+-Error: VSP1818: Output file name is too long.
+Mark: {0},{1}
+(Error: VSP1813: Process Id {0} not found
+Column: {0} -- ({1})
+&Available Tables and Columns for Diff:
+Table: {0}
+:Error: VSP1832: The two diff files are incompatible types.
+'A report file, {0}, has been generated.
+There are no diffable views.
+@Warning: VSP1824: /thread flag ignored for sample based reports.
+YUsage: vsperfreport vspfile [switches]
+vsperfreport /diff vspfile1 vspfile2 [switches]
+    
+'Error: VSP1809: VSPerfReport error: {0}
++Error: VSP1810: Summary option {0} unknown.
+XError: VSP1831: Analyzed data from summary files cannot be saved as another summary file
+'Error: VSP1814: Thread Id {0} not found
+.Error: VSP1827: Too many file names specified.
+2Error: VSP1811: Command line option '{0}' unknown.
+Error: VSP1815: Unknown Error
+                   ---- Usage ----
+&Usage: vsperfreport vspfile [switches]
+0          ip            - Shows all instructions
+B          life          - Shows the lifetimes of allocated objects
+0          line          - Shows all source lines
+;          header        - Shows the file header information
+)          mark          - Shows all marks
++          module        - Shows all modules
+-          process       - Shows all processes
++          thread        - Shows all threads
+3          type          - Shows all allocated types
+/          contention    - Shows all contentions
+       vsperfreport /diff vspfile1 vspfile2 [switches]
+7          rulewarnings  - Shows all the rule warnings
+/userrulesdirectory   Optional argument to specify the path to search for user-defined
+                      rules. Ignored unless /summary:all or /summary:rulewarnings
+                      are specified
+N/xml                  Output summary reports in xml format as opposed to csv
+/calltrace            Generates a report of collection events in sequential order.
+                      Instrumentation only.
+1/?                    Display usage information
+=/nologo               Hide version information when running
+F/symbolpath:[sympath] The symbol path to use when searching for pdbs
+C/debugsympath         Print symbol loading diagnostic information
+r/packsymbols          Save symbol information in the vsp for later analysis 
+                      without pdbs
+l/clearpackedsymbols   Clears the symbol information previously packed
+                      in a vsp file
+                   ---- General ----
+p/summaryfile          Analyze and save the analyzed information in a .vsps
+                      summary file
+t/printmarks           Show the names and timestamps for all marks in the 
+                      specified vspfile
+D/output:[name]        Output all reports using the given file name
+5/u                    Output all reports in Unicode
+                   ---- Just My Code ----
+|/justmycode                         Show only User code
+                                    (Do not show any System code)
+/justmycode:callee                  Show User code plus one level of System 
+                                    code called by User code
+/justmycode:caller                  Show User code plus one level of System 
+                                    code calling into User code
+/justmycode:caller,callee           Show User code plus one level of System 
+                                    code calling into or called by User code
+                   ---- Filtering ----
+>/summary:[types,]     Creates one or more types of CSV reports
+/starttime:[value]                  Only show data collected after value 
+                                    (in milliseconds)
+/endtime:[value]                    Only show data collected before value 
+                                    (in milliseconds)
+/msfilter:[starttime,duration]      Only show data from starttime until the 
+                                    length of duration (in milliseconds)
+M/process:[pid]                      Only show data from the specified process
+L/thread:[threadid]                  Only show data from the specified thread
+/thread:[threadid,processid]        Only show data from the specified thread 
+                                    associated with the specified process
+                   ---- File Diffing ----
+/diff                     Activate diffing mode for comparing two vsp files 
+                          (summary options will be ignored in diff mode)
+/diffthreshold:[value]    Below this value of difference the differ will regard
+                          two values as the same. Also, new data with values 
+                          under this threshold will not be shown.
+/difftable:[tablename]    Use this specific table to perform diffing. 
+                          The default is the functions table.
+8    type  all           - All report types are generated
+/diffcolumn:[columnname]  Use this specific column to perform diffing. 
+                          The default is the exclusive samples percent column.
+}/querydifftables          List the valid diff tables and columns for the two vsp
+                          files provided.
+I          callercallee  - Shows all function parent / child relationships
+A          calltree      - Shows the hierarchy of functions called
+C          counter       - Shows all marks along with counter values
+-          function      - Shows all functions
+    
+Rules file corrupt: {0}
+Rules file not found: {0}
+0Error: VSP1819: /xml specified without /summary.
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+h!I!
+h#U#
+k%X%
+J,U#
+L303
+h303
+<Module>
+VSPerfReport.exe
+AnalysisDriver
+Microsoft.VisualStudio.PerformanceTools.CommandLineReport
+CallTraceCallback
+ThreadData
+ProcessData
+CommandLineParser
+FlatDiffReporter
+Reporter
+Report
+ReportException
+mscorlib
+System
+Object
+IDisposable
+VSPerfReader
+ITraceCallback
+Exception
+.ctor
+_cmdLineParser
+_filename
+_successfulOpen
+VSPerfPresentation
+ProfileDataProvider
+_provider
+_analyzeError
+_disposed
+get_Provider
+Open
+Analyze
+OpenAndAnalyze
+StatusMessageEventArgs
+provider_OnStatusMessage
+CompletedEventArgs
+provider_OnCompleted
+provider_OnAnalysisCompleted
+ReadErrorEventArgs
+provider_OnReadError
+ConstructOutputPrefix
+Dispose
+Finalize
+Provider
+VSPerfAnalysis
+OptionStore
+TraceRow
+FrameChange
+GetProcess
+_filePrefix
+_is64Bit
+_counterNames
+_options
+System.Collections.Generic
+Dictionary`2
+_processes
+System.IO
+StreamWriter
+get_CallTraceFile
+_callTraceFile
+CallTraceFile
+GetThread
+_threads
+_upid
+get_Options
+_diffMode
+get_DiffMode
+List`1
+_fileNames
+System.Collections.ObjectModel
+ReadOnlyCollection`1
+get_FileNames
+get_UserRulesDirectory
+set_UserRulesDirectory
+_outputPrefix
+get_OutputPrefix
+_filterFile
+get_FilterFile
+get_ShowLogo
+_queryDiffTables
+get_QueryDiffTables
+_diffThreshold
+get_DiffThreshold
+_diffThresholdSpecified
+get_DiffThresholdSpecified
+_diffColumn
+get_DiffColumn
+_diffTable
+get_DiffTable
+_startMS
+get_StartMS
+_durationMS
+get_DurationMS
+_startTime
+get_StartTime
+_endTime
+get_EndTime
+_processIdSpecified
+get_ProcessIdSpecified
+set_ProcessIdSpecified
+_threadIdSpecified
+get_ThreadIdSpecified
+set_ThreadIdSpecified
+_showUsage
+get_ShowUsage
+_printMarks
+get_PrintMarks
+set_PrintMarks
+_readCommandLine
+AdjustSummaryOptions
+_parseArgument
+_parseSummary
+ExtractValues
+BuildFilter
+_showLogo
+<UserRulesDirectory>k__BackingField
+Options
+DiffMode
+FileNames
+UserRulesDirectory
+OutputPrefix
+FilterFile
+ShowLogo
+QueryDiffTables
+DiffThreshold
+DiffThresholdSpecified
+DiffColumn
+DiffTable
+StartMS
+DurationMS
+StartTime
+EndTime
+ProcessIdSpecified
+ThreadIdSpecified
+ShowUsage
+PrintMarks
+GenerateReport
+VSPerfPresentation.Diff
+FlatDiffEngine
+_diffEngine
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_AccessDeniedOutputFileError
+get_AnalysisCompleted
+get_BadStartTime
+get_BadTimeRange
+get_CallTraceNoArguments
+get_CallTraceNotInXmlFormatWarning
+get_CallTraceSamplingWarning
+get_CallTraceSummaryWarning
+get_CantUseXmlWithCallTraceError
+get_CommandLineError
+get_DiffCompleted
+get_DiffRequiresTwoFilesError
+get_DiffStarted
+get_FileNameRequired
+get_FileOpened
+get_FileOpenFailure
+get_FileOpenSuccess
+get_FileWriteFailureError
+get_FilterSummaryError
+get_InternalUseNotice
+get_InvalidDiffTable
+get_InvalidDiffThreshold
+get_InvalidInputParameters
+get_InvalidOutputPath
+get_InvalidPathFormat
+get_MicrosoftCopyrightNotice
+get_NegativeDiffThreshold
+get_NoExportableData
+get_NoLifetimeData
+get_NonNumericProcessId
+get_NonNumericThreadId
+get_NoProcessInfo
+get_NotSerializable
+get_OutputFilenameError
+get_PrintMarksFormat
+get_ProcIdNotFound
+get_QueryDiffColumnFormat
+get_QueryDiffHeader
+get_QueryDiffTableFormat
+get_ReportDiffFilesIncompatible
+get_ReportFileGeneratedFormat
+get_ReportHasNoDiffableView
+get_SamplingThreadWarning
+get_ShortUsageExternal
+get_ShortUsageInternal
+get_SummaryIOExceptionFormat
+get_SummaryOptionUnknownError
+get_SummarySummaryError
+get_ThreadIdNotFound
+get_TooManyFileNames
+get_UnknownCommandLineOptionError
+get_UnspecifiedError
+get_UsageInformationExternal0
+get_UsageInformationExternal1
+get_UsageInformationExternal10
+get_UsageInformationExternal11
+get_UsageInformationExternal12
+get_UsageInformationExternal13
+get_UsageInformationExternal14
+get_UsageInformationExternal15
+get_UsageInformationExternal16
+get_UsageInformationExternal17
+get_UsageInformationExternal18
+get_UsageInformationExternal19
+get_UsageInformationExternal2
+get_UsageInformationExternal20
+get_UsageInformationExternal21
+get_UsageInformationExternal22
+get_UsageInformationExternal23
+get_UsageInformationExternal24
+get_UsageInformationExternal25
+get_UsageInformationExternal26
+get_UsageInformationExternal27
+get_UsageInformationExternal28
+get_UsageInformationExternal29
+get_UsageInformationExternal3
+get_UsageInformationExternal30
+get_UsageInformationExternal31
+get_UsageInformationExternal32
+get_UsageInformationExternal33
+get_UsageInformationExternal34
+get_UsageInformationExternal35
+get_UsageInformationExternal36
+get_UsageInformationExternal37
+get_UsageInformationExternal38
+get_UsageInformationExternal39
+get_UsageInformationExternal4
+get_UsageInformationExternal40
+get_UsageInformationExternal41
+get_UsageInformationExternal42
+get_UsageInformationExternal43
+get_UsageInformationExternal44
+get_UsageInformationExternal45
+get_UsageInformationExternal46
+get_UsageInformationExternal47
+get_UsageInformationExternal48
+get_UsageInformationExternal49
+get_UsageInformationExternal5
+get_UsageInformationExternal50
+get_UsageInformationExternal51
+get_UsageInformationExternal6
+get_UsageInformationExternal7
+get_UsageInformationExternal8
+get_UsageInformationExternal9
+get_UsageInformationInternal
+get_XmlFileCorrupt
+get_XmlFileMissing
+get_XmlNoSummaryError
+Culture
+AccessDeniedOutputFileError
+AnalysisCompleted
+BadStartTime
+BadTimeRange
+CallTraceNoArguments
+CallTraceNotInXmlFormatWarning
+CallTraceSamplingWarning
+CallTraceSummaryWarning
+CantUseXmlWithCallTraceError
+CommandLineError
+DiffCompleted
+DiffRequiresTwoFilesError
+DiffStarted
+FileNameRequired
+FileOpened
+FileOpenFailure
+FileOpenSuccess
+FileWriteFailureError
+FilterSummaryError
+InternalUseNotice
+InvalidDiffTable
+InvalidDiffThreshold
+InvalidInputParameters
+InvalidOutputPath
+InvalidPathFormat
+MicrosoftCopyrightNotice
+NegativeDiffThreshold
+NoExportableData
+NoLifetimeData
+NonNumericProcessId
+NonNumericThreadId
+NoProcessInfo
+NotSerializable
+OutputFilenameError
+PrintMarksFormat
+ProcIdNotFound
+QueryDiffColumnFormat
+QueryDiffHeader
+QueryDiffTableFormat
+ReportDiffFilesIncompatible
+ReportFileGeneratedFormat
+ReportHasNoDiffableView
+SamplingThreadWarning
+ShortUsageExternal
+ShortUsageInternal
+SummaryIOExceptionFormat
+SummaryOptionUnknownError
+SummarySummaryError
+ThreadIdNotFound
+TooManyFileNames
+UnknownCommandLineOptionError
+UnspecifiedError
+UsageInformationExternal0
+UsageInformationExternal1
+UsageInformationExternal10
+UsageInformationExternal11
+UsageInformationExternal12
+UsageInformationExternal13
+UsageInformationExternal14
+UsageInformationExternal15
+UsageInformationExternal16
+UsageInformationExternal17
+UsageInformationExternal18
+UsageInformationExternal19
+UsageInformationExternal2
+UsageInformationExternal20
+UsageInformationExternal21
+UsageInformationExternal22
+UsageInformationExternal23
+UsageInformationExternal24
+UsageInformationExternal25
+UsageInformationExternal26
+UsageInformationExternal27
+UsageInformationExternal28
+UsageInformationExternal29
+UsageInformationExternal3
+UsageInformationExternal30
+UsageInformationExternal31
+UsageInformationExternal32
+UsageInformationExternal33
+UsageInformationExternal34
+UsageInformationExternal35
+UsageInformationExternal36
+UsageInformationExternal37
+UsageInformationExternal38
+UsageInformationExternal39
+UsageInformationExternal4
+UsageInformationExternal40
+UsageInformationExternal41
+UsageInformationExternal42
+UsageInformationExternal43
+UsageInformationExternal44
+UsageInformationExternal45
+UsageInformationExternal46
+UsageInformationExternal47
+UsageInformationExternal48
+UsageInformationExternal49
+UsageInformationExternal5
+UsageInformationExternal50
+UsageInformationExternal51
+UsageInformationExternal6
+UsageInformationExternal7
+UsageInformationExternal8
+UsageInformationExternal9
+UsageInformationInternal
+XmlFileCorrupt
+XmlFileMissing
+XmlNoSummaryError
+DEFAULT_DIFF_TABLE
+Main
+Collection`1
+Microsoft.VisualStudio.PerformanceTools.RulesEngine
+Microsoft.VisualStudio.PerformanceTools.RulesEngine.CodeModel
+Rule
+LoadRules
+WriteAllProcesses
+IList`1
+ProcessRow
+ProfiledProcesses
+WriteOneProcess
+PrintExceptionSource
+Diff
+ProviderContainsDiffTable
+ProviderContainsDiffColumn
+WriteSummary
+WriteGlobalSummaries
+WriteSummaries
+UpidFromPid
+UtidFromTid
+GetException
+System.Runtime.Serialization
+SerializationInfo
+StreamingContext
+GetObjectData
+cmdLineParser
+filename
+sender
+outputPrefix
+disposing
+filePrefix
+is64Bit
+counterNames
+options
+upid
+fileStream
+utid
+args
+value
+summaryValue
+origProvider
+newProvider
+table
+column
+percentThreshold
+userRulesDirectory
+analysisDriver
+provider
+procRow
+suffix
+provider1
+provider2
+invariantName
+outputSuffix
+message
+innerException
+error
+info
+context
+System.Runtime.Versioning
+TargetFrameworkAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+VSPerfReport
+EventHandler`1
+add_OnOpenFileCompleted
+add_OnAnalyzeCompleted
+add_OnStatusMessage
+add_OnReadError
+set_EnableNoiseReduction
+Path
+GetExtension
+String
+StringComparison
+Compare
+set_IsSerializedVSP
+Deserialize
+OpenFile
+get_Message
+Console
+WriteLine
+IMark
+get_Marks
+IEnumerable`1
+IEnumerator`1
+GetEnumerator
+get_Current
+get_CurrentCulture
+get_Timestamp
+get_InvariantCulture
+UInt64
+IFormatProvider
+ToString
+get_Text
+Format
+System.Collections
+IEnumerator
+MoveNext
+get_CallTrace
+ProfilerMode
+get_Mode
+TextWriter
+get_Error
+get_Item
+IDictionary`2
+VspProperty
+get_HeaderProperties
+get_NumberOfCounters
+GetCounterName
+get_Is64Bit
+SetCallTraceCallback
+AnalysisException
+TimestampConverter
+get_TimestampConverter
+GetStartTime
+GetEndTime
+TimeRangeFilter
+IFilter
+get_Filter
+FilterAND
+set_Filter
+IsNullOrEmpty
+BuildFilterFromFile
+get_ShouldAnalyze
+MessageLevel
+get_Level
+Char
+TrimEnd
+get_Success
+GetFileNameWithoutExtension
+Directory
+Exists
+Concat
+GetCurrentDirectory
+SuppressFinalize
+IsLong
+get_ProcessId
+get_ThreadId
+ToStringCsv
+ContainsKey
+set_Item
+UInt32
+get_UnicodeOutput
+ProfileReporter
+CreateUnicodeStreamWriter
+set_AutoFlush
+HeaderCsv
+UnauthorizedAccessException
+IOException
+Clear
+CompilerGeneratedAttribute
+get_ClearPackedSymbols
+get_PackSymbols
+set_CallTrace
+get_Length
+StartsWith
+Substring
+Contains
+Split
+ToUpper
+<PrivateImplementationDetails>{D51DE5EE-76C1-498B-8D86-C9DCE93FC970}
+$$method0x6000031-1
+TryGetValue
+set_XmlOutput
+TryParse
+set_ProcessId
+set_ThreadId
+Single
+set_SerializeVSP
+set_SymbolPaths
+set_ClearPackedSymbols
+set_DebugSymPath
+set_PackSymbols
+set_UnicodeOutput
+JustMyCodeTypes
+get_JustMyCode
+set_JustMyCode
+op_Equality
+get_CurrentUICulture
+$$method0x6000032-1
+SummaryAll
+set_OutputRuleWarnings
+set_CallerCalleeSummary
+set_FunctionSummary
+set_CounterSummary
+set_ModuleSummary
+set_CallTreeSummary
+set_ThreadSummary
+set_ContentionSummary
+set_TypeSummary
+set_IPSummary
+set_LineSummary
+set_LifetimeSummary
+set_ProcessSummary
+set_HeaderSummary
+set_EtwSummary
+set_MarkSummary
+UPidFilter
+UTidFilter
+CalcDiff
+DiffRow
+get_DiffRows
+get_ColumnName
+File
+CreateText
+DiffRowType
+get_Type
+get_Name
+IComparable
+get_OldValue
+get_NewValue
+get_Delta
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+get_Count
+Initialize
+PresentationException
+get_XmlOutput
+get_SummarySpecified
+get_SerializeVSP
+get_IsSummary
+get_IsSerializable
+Serialize
+get_QueryAvailableExportableViewers
+ICollection`1
+Empty
+NonGlobalSummary
+get_OutputRuleWarnings
+RuleWarningsViewer
+Register
+Microsoft.VisualStudio.PerformanceTools.RulesEngine.Evaluator
+RulesEvaluator
+set_Rules
+PresentationFacade
+RuleWarning
+IPresentationFacade
+Evaluate
+set_RuleWarnings
+GetExecutingAssembly
+get_Location
+GetDirectoryName
+RuleSerializer
+Enumerator
+KeyValuePair`2
+get_Key
+get_Value
+Int32
+BaseViewer
+GetViewer
+ProcessDataViewer
+IProfileRow
+GetRows
+get_Id
+get_UniqueId
+CallTreeCollection
+get_CallTrees
+CallTree
+GetCallTreeByUniqueProcessId
+get_HasEtw
+CallTreeNode
+get_Root
+get_Callees
+ConditionalAttribute
+get_Source
+get_StackTrace
+GetDiffableViews
+ProfileDataViewer
+IDiffableViewer
+get_DefaultDiffColumnInvariantName
+get_DefaultDiffThreshold
+ColumnState
+GetDiffableColumns
+get_InvariantName
+Write
+Equals
+ProfileXmlReporter
+ProfileCsvReporter
+set_UniqueProcessId
+WriteReport
+Close
+GetFileName
+DirectoryNotFoundException
+PathTooLongException
+ArgumentException
+NotSupportedException
+get_HeaderSummary
+get_MarkSummary
+get_EtwSummary
+get_ProcessSummary
+get_ThreadSummary
+get_FunctionSummary
+get_CallerCalleeSummary
+get_CallTreeSummary
+get_TypeSummary
+get_IsAllocation
+get_ContentionSummary
+get_IsResourceContention
+get_LineSummary
+get_IPSummary
+get_LifetimeSummary
+get_IsLifetime
+get_SummaryAllSpecified
+get_ModuleSummary
+GetCallingAssembly
+AssemblyName
+GetName
+Version
+get_Version
+ThreadDataViewer
+GetCounter
+SerializableAttribute
+System.Security.Permissions
+SecurityPermissionAttribute
+SecurityAction
+Microsoft.VisualStudio.PerformanceTools.CommandLineReport.Reporter.resources
+RSA1
+(]b,
+=t]o-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+DEBUG
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+SerializationFormatter
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+VSPerfReport.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS97
+f:\binaries\Intermediate\icecap\commandlinereport.csproj_44621166\objr\x86\VSPerfReport.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1>0<
+http://microsoft.com0
+K_@#
+k7-q
+1qf'
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014751Z0#
+NHJJ
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+)vXA
+hf+0L
+1>0<
+http://microsoft.com0
+7b!si
+BB]d
+SQ[7
+ohQj
+Vdu*>
+ ,/Bz--5
+*$	7R
+20120727014753.042Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+*76H
+.b-lK
+07=~

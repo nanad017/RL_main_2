@@ -1,12 +1,11 @@
 import glob
 import json
 import os.path
-import re
-import sys
 from collections import defaultdict
 
-module_path = os.path.dirname(os.path.abspath(sys.modules[__name__].__file__))
-SAMPLE_PATH = os.path.join(module_path, "samples")
+from proposed.paths import RUNTIME_DIR
+
+SAMPLE_PATH = str(RUNTIME_DIR / "samples")
 _SAMPLE_ROOT_BY_ID = {}
 
 

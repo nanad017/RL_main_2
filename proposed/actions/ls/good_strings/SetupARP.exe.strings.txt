@@ -1,0 +1,896 @@
+!This program cannot be run in DOS mode.
+O.uH
+.text
+`.rsrc
+@.reloc
+f	9H
+*.rE
+*.rg
+*2rs
+*^([
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+-Browse for SQL Server 2008 installation media
+8The selected folder is not a valid installation folder. 
+'{0}' is not a valid folder.
+The folder is not valid.
+)'{0}' is not a valid installation folder.
+XUnable to run the installed bootstrap program as the provided path '{0}' does not exist.
+#SQL Server 2008 Installation Center
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Icon, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089wSystem.Windows.Forms.DockStyle, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPBj
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+width
+height
+'"r6#cb6
+'sscbr6#
+xw&w3''6
+(zx#v:rc
+1ssss5
+373s9s
+7w117
+yy3{x
+ys77
+sys8
+wy79w
+ssb60
+zzzp
+{yq7
+@v}X
+Ne_X
+qtpnmo 
+~[!!!!!!!
+B]`K%
+-QC,
+E]S<'
+$62@[Q;
+D=0#
+%LI8./1;
+^a9*
+*J3356>
+|cH+(2GWdwuQ
+Nfzz^^
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+SQL Server 2008
+	ARPDialog
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+controlHostPanel
+$this
+sSystem.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3awSystem.Windows.Forms.DockStyle, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089uSystem.Windows.Forms.ImeMode, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.Padding, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.TableLayoutSettings, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089P&
+cR<h^V<
+Zf<H%
+RXUdjZQ
+Tyf=
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ARPDialogControls
+ySystem.Windows.Forms.UserControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+addFeatureDesciptLabel
+tableLayoutPanel1
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+addFeatureLinkLabel
+tableLayoutPanel1
+wSystem.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+addFeaturePictureBox
+tableLayoutPanel1
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+label1
+tableLayoutPanel1
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+layoutManager
+Microsoft.SqlServer.Management.Controls.SqlStudioLayoutManager, Microsoft.SqlServer.Management.Controls, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+removeFeaturesLinkLabel
+tableLayoutPanel1
+wSystem.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+removeFeaturesPictureBox
+tableLayoutPanel1
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+repairDescriptLabel
+tableLayoutPanel1
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+repairLinkLabel
+tableLayoutPanel1
+wSystem.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+repairPictureBox
+tableLayoutPanel1
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+tableLayoutPanel1
+$this
+~System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+#Choose this option to add features.
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+AddC
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+)Choose this option to remove the product.
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+RemoveC
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+)Choose this option to repair the product.
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+RepairC
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DockStyle
+value__
+WSystem.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+(System.Windows.Forms.TableLayoutSettings
+SerializedString
+<?xml version="1.0" encoding="utf-16"?><TableLayoutSettings><Controls><Control Name="removeFeaturesPictureBox" Row="4" RowSpan="2" Column="0" ColumnSpan="1" /><Control Name="repairLinkLabel" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="addFeaturePictureBox" Row="0" RowSpan="2" Column="0" ColumnSpan="1" /><Control Name="addFeatureLinkLabel" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="addFeatureDesciptLabel" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="repairPictureBox" Row="2" RowSpan="2" Column="0" ColumnSpan="1" /><Control Name="repairDescriptLabel" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="removeFeaturesLinkLabel" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /><Control Name="label1" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /></Controls><Columns Styles="AutoSize,0,Percent,100" /><Rows Styles="AutoSize,0,AutoSize,0,AutoSize,0,AutoSize,0,AutoSize,0,AutoSize,0,Percent,100" /></TableLayoutSettings>
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD@S
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+sRGB
+gAMA
+ cHRM
+IDATXG
+,Adl
+t/_b
+?.).
+xZ*G
+BImg
+IhIpX
+gDx8S
+Rg/|
+EUlz
+az>x$
+#F]`
++noX
+mk8h
+BL&n%
+;}vA
+g2q#
+Vn9h
+IEND
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+sRGB
+gAMA
+ cHRM
+IDATXG
+{PSW
+KH $
+eU]H
+H@?E
+Qna)
+"(2m=E<
+32sPP
+=}Chm
+_$\\
+w^xc
+JD&\
+5?4f
+xX.CRz
+S\ 4&
+]{~o
+s=$VR
+R*0VT
+-+.[
+}y=|O_
+PAPE
+$Z;fCN
+@:+Q
+y3z"
+@,C[
+9om`j
+eK>F
+3xE3
+T	T>H
+IEND
+QSystem.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+IHDR
+sRGB
+gAMA
+ cHRM
+tIDATXG
+FIJ4H$
+5;3'
+$`$&@
+"#cs'
+*wr	pX
+L(tRr
+(=[o
+UM@7!
+B,i}
+GkJ(
+4csG
+!|rp
+(?+We
++D/y{
+m`OX
+y<<<
+\:(	
+z)rg
+IEND
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+SetupARP.exe
+Microsoft.SqlServer.Configuration.ARPDialog
+Keys
+AssemblyVersionInfo
+ARPDialog
+ARPSetup
+ARPDialogControls
+Resources
+mscorlib
+System
+Object
+System.Windows.Forms
+Form
+UserControl
+.ctor
+System.Globalization
+CultureInfo
+get_Culture
+set_Culture
+get_BrowseForMedia
+get_InvalidFolderTitle
+get_InvalidEmptyPath
+get_Title
+MissingBootstrapFile
+InvalidInstallFolder
+InvalidFolder
+Culture
+BrowseForMedia
+InvalidFolderTitle
+InvalidEmptyPath
+Title
+System.Resources
+ResourceManager
+resourceManager
+_culture
+GetString
+VersionString
+MajorVersion
+BuildVersion
+ProductVersionString
+ProductNameString
+ProductNameBrandingString
+VersionLocationString
+VersionHelpKeywordPrefix
+VersionHelpSettingsToken
+SetupSupportFolder
+evalTimeBombValue
+currentReleaseTimeBombValue
+VersionBIDSHelpNamespace
+get_VersionHelpNamespace
+VersionHelpNamespace
+SetupLaunchingFileName
+Microsoft.SqlServer.Chainer.Infrastructure
+ConfigActionScenario
+action
+installmediaPath
+System.Collections.Generic
+List`1
+chainerCommandLineArguments
+control
+Microsoft.SqlServer.Configuration.Sco
+CustomFolderBrowser
+folderBrowser
+get_InstallmediaPath
+AddFeatures
+RemoveFeatures
+Repair
+ExecuteARPAction
+LaunchBootstrapAction
+TextBoxValidationFailedEventArgs
+folderBrowser_ValidationFailed
+DialogResult
+MessageBoxButtons
+ShowError
+System.ComponentModel
+IContainer
+components
+Dispose
+InitializeComponent
+Panel
+controlHostPanel
+InstallmediaPath
+Main
+host
+set_Host
+LinkLabelLinkClickedEventArgs
+addFeatureLinkLabel_LinkClicked
+repairLinkLabel_LinkClicked
+removeFeaturesLinkLabel_LinkClicked
+Microsoft.SqlServer.Management.Controls
+SqlStudioLayoutManager
+layoutManager
+TableLayoutPanel
+tableLayoutPanel1
+PictureBox
+addFeaturePictureBox
+LinkLabel
+addFeatureLinkLabel
+Label
+addFeatureDesciptLabel
+repairPictureBox
+removeFeaturesPictureBox
+repairLinkLabel
+repairDescriptLabel
+removeFeaturesLinkLabel
+label1
+Host
+resourceMan
+resourceCulture
+get_ResourceManager
+System.Drawing
+Bitmap
+get_SLP033_MaintenanceAddOrRemoveFeatures_32
+get_SLP035_MaintenanceRepair_32
+get_SLP039_UninstallIcon_32
+SLP033_MaintenanceAddOrRemoveFeatures_32
+SLP035_MaintenanceRepair_32
+SLP039_UninstallIcon_32
+System.Runtime.InteropServices
+GuidAttribute
+ComVisibleAttribute
+System.Reflection
+AssemblyCultureAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+AssemblyTitleAttribute
+AssemblyInformationalVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyVersionAttribute
+AssemblyTrademarkAttribute
+AssemblyCopyrightAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+SetupARP
+CompilerGeneratedAttribute
+value
+path
+folderName
+arg0
+get_CurrentCulture
+String
+IFormatProvider
+Format
+.cctor
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+get_FullName
+Module
+get_Module
+Assembly
+get_Assembly
+IEnumerable`1
+AddRange
+Control
+ControlCollection
+get_Controls
+SetChildIndex
+DockStyle
+set_Dock
+set_Description
+EventHandler`1
+add_ValidationFailed
+MediaPath
+CommonDialog
+ShowDialog
+get_SelectedPath
+SetPath
+get_HasValidPath
+get_FullPath
+Empty
+StringComparison
+Equals
+Exception
+get_Message
+IsNullOrEmpty
+MediaPathException
+GetExecutingAssembly
+get_CodeBase
+get_LocalPath
+System.IO
+Path
+GetDirectoryName
+Combine
+File
+Exists
+ChainerInvalidOperationException
+System.Text
+StringBuilder
+ToString
+Append
+EndsWith
+get_Count
+Enumerator
+GetEnumerator
+get_Current
+MoveNext
+IDisposable
+ProcessStartInfo
+Close
+Process
+Start
+WaitForExit
+sender
+get_EditText
+CancelEventArgs
+set_Cancel
+message
+caption
+button
+MessageBox
+IWin32Window
+MessageBoxIcon
+Show
+disposing
+ComponentResourceManager
+SuspendLayout
+ApplyResources
+SystemColors
+Color
+get_ControlText
+set_ForeColor
+set_Name
+ContainerControl
+AutoScaleMode
+set_AutoScaleMode
+AutoValidate
+set_AutoValidate
+get_Window
+set_BackColor
+FormBorderStyle
+set_FormBorderStyle
+set_MaximizeBox
+set_MinimizeBox
+SizeGripStyle
+set_SizeGripStyle
+ResumeLayout
+STAThreadAttribute
+args
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+PictureBoxSizeMode
+set_SizeMode
+Image
+set_Image
+Container
+ISupportInitialize
+BeginInit
+TableLayoutControlCollection
+set_TabStop
+SqlStudioLayoutIndent
+SetVerticalIndent
+LinkLabelLinkClickedEventHandler
+add_LinkClicked
+SetHorizontalIndent
+SetRowSpan
+SetIsRootControl
+EndInit
+PerformLayout
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+GetObject
+EditorBrowsableAttribute
+EditorBrowsableState
+Microsoft.SqlServer.Configuration.ARPDialog.SR.resources
+Microsoft.SqlServer.Configuration.ARPDialog.ARPDialog.resources
+Microsoft.SqlServer.Configuration.ARPDialog.ARPDialogControls.resources
+Microsoft.SqlServer.Configuration.ARPDialog.Resources.resources
+RSA1
+<=\]
+RmRo
+#V{-
+|};(
+3System.Resources.Tools.StronglyTypedResourceBuilder
+2.0.0.0
+$90351bae-470a-4137-b3db-1d646337d419
+	ARPDialog
+10.0.1600.22
+,10.0.1600.22 ((SQL_PreRelease).080709-1414 )
+HMicrosoft SQL Server is a registered trademark of Microsoft Corporation.
+$Microsoft Corp. All rights reserved.
+Microsoft SQL Server
+Microsoft Corporation
+WrapNonExceptionThrows
+O.uH
+RSDS,$}ku_
+SetupARP.pdb
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright 
+ 1981-2001 Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"
+ manifestVersion="1.0"> 
+  <assemblyIdentity version="1.0.0.0"
+     processorArchitecture="amd64"
+     name="SetupARP"
+     type="win32"/> 
+  <description>SQL Setup</description> 
+  <!-- Identify the application security requirements. -->
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel
+          level="asInvoker"
+          uiAccess="false"/>
+        </requestedPrivileges>
+       </security>
+  </trustInfo>
+</assembly>
+Z0X03
+>0!0	
+_FOp
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+970110070000Z
+201231070000Z0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+ >|Q
+kzb#
+`-wL
+zmtN
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
++7%-
+Z38nM
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+970110070000Z
+201231070000Z0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+ >|Q
+kzb#
+`-wL
+zmtN
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
++7%-
+Z38nM
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+070823002313Z
+090223003313Z0t1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+WDv\
+ 90q
+PtA/
+$j!kI
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+@WoSg
+ytwO
+&`W	K
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+060916015300Z
+110916020300Z0
+Washington1
+Redmond1
+Microsoft Corporation1'0%
+nCipher DSE ESN:D8A9-CFCC-579C1'0%
+Microsoft Timestamping Service0
+2;7:
+'H~C
+O6kS
+n:."C
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+e&>d
+3|._
+P{a1
+2t+z
+73:r
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+060916015300Z
+110916020300Z0
+Washington1
+Redmond1
+Microsoft Corporation1'0%
+nCipher DSE ESN:D8A9-CFCC-579C1'0%
+Microsoft Timestamping Service0
+2;7:
+'H~C
+O6kS
+n:."C
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+e&>d
+3|._
+P{a1
+2t+z
+73:r
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1L0J
+http://www.microsoft.com/ 0
+1xp'
+'BmWggf
+HHQ*
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+080710122311Z0#
+6F*(}1L
+)Ouw5x
+'_S^V
+u&x[

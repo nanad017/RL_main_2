@@ -1,0 +1,508 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+)t$ f
+(t$ H
+H`fI
+)t$ 
+(t$ 
+(t$ A
+)t$0
+)|$@f
+(t$0
+(|$@H
+t$ A
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-!
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+D$PL
+L$LH
+D$8H
+T$PH
+T$PH
+)t$Pf
+D$HfH
+L$8f
+(t$PH
+(t$PH
+\$8f
+t$ H
+(t$PH
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+D$4f
+D$0A
+D$8A
+l$ f
+L$ f
+WVSH
+D$pfD
+D$tf
+t$ f
+t)fL
+\$hfE
+t$PH
+|$@fA
+l$PH
+\$PH
+t$@fD
+\$hfE
+t,fH
+\$hfE
+ttfH
+)t$pf
+D$hfH
+\$0H
+L$PH
+(t$pH
+\$0H
+t$ H
+(HcA
+AWAVAUATUWVSH
+T$<L
+T$<A)
+T$8H
+T$8H
+D$<A)
+H[^_]A\A]A^A_
+T$8H
+D$<H
+T$8H
+T$<H
+T$<H
+AWAVAUATUWVSH
+D$@H
+[^_]A\A]A^A_
+0u%H
+D$PL
+T$HI
+	w:M
+\$\G
+\$HD
+\$\L
+D$HL+D$PI
+T$DE
+L$XE)
+|$lt
+|$lt
+D$lf
+|$@5
+HcL$h
+	w4E
++D$@
+9D$P
+t$ A
+D$pH
+T$Hu
+9D$@
+L$DH
+L$P9
+t$`E
+9D$Hu1
+d$DE
+t$pA
+T$xL
+D$\D
++\$@)
+9\$P~
++\$P
+D$`H
+L$DE
+9D$@
+t$\)
+T$P9
+D$@~:E
+D$@1
+~"Hc
+|$@H
+D$XL
+l$@)
+L$h)
+9T$P
+D$@H
+T$XE
+\$XE
+\$DE
+T$PA
+D$PA
+T$DE
+T$@9T$H
+9T$P
+AUATUWVSH
+([^_]A\A]
+)t$P
+)|$`
+D$Hf
+L$HA
+tofH
+(t$P
+(|$`H
+T$<f
+(t$P
+(|$`H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B:T 
+UWVSH
+[^_]
+[^_]
+AWAVAUATUWVSH
+D$<H
+T$0H
+D$(M
+D$(M9
+H[^_]A\A]A^A_
+D$0H
+D$0H
++L$<H
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+WVSH
+)t$@H
+T$8H
+T$<H
+D$8+D$<fH
+~>fH
+(t$@H
+P[^_
+uFI9
+AWAVAUATUWVSH
+D$8H
+t$xH
+D$(L
+T$ H
+T$`<yu
+T$`H
+T$`E
+D$hE
+L$lE
+D$Hf
+D$pE
+D$Hf
+[^_]A\A]A^A_
+t$ A
+L$ A
+ET$@
+D$`H
+D$t9
+D$D1
+d$Dt
+D$DL
+D$`D
+T$DE
+\$tE
+D$h9
+D$HfA
+D;\$xu
+|$`N
+D$HE
+L$HH
+L$\A
+|$xA
+L$`E1
+u E1
+D$`1
+D$`H
+H`fM
+~OfA
+l$\E
+|$DHc
+*|$h
+L$xf
+|$DHc
+L$xH
+D$PH
+-rbox- generate various point distributions.  Default is random in cube.
+args (any order, space separated):                    Version: 2001/06/24
+  3000    number of random points in cube, lens, spiral, sphere or grid
+  D3      dimension 3-d
+  c       add a unit cube to the output ('c G2.0' sets size)
+  d       add a unit diamond to the output ('d G2.0' sets size)
+  l       generate a regular 3-d spiral
+  r       generate a regular polygon, ('r s Z1 G0.1' makes a cone)
+  s       generate cospherical points
+  x       generate random points in simplex, may use 'r' or 'Wn'
+  y       same as 'x', plus simplex
+  Pn,m,r  add point [n,m,r] first, pads with 0
+  Ln      lens distribution of radius n.  Also 's', 'r', 'G', 'W'.
+  Mn,m,r  lattice (Mesh) rotated by [n,-m,0], [m,n,0], [0,0,r], ...
+          '27 M1,0,1' is {0,1,2} x {0,1,2} x {0,1,2}.  Try 'M3,4 z'.
+  W0.1    random distribution within 0.1 of the cube's or sphere's surface
+  Z0.5 s  random points in a 0.5 disk projected to a sphere
+  Z0.5 s G0.6 same as Z0.5 within a 0.6 gap
+  Bn      bounding box coordinates, default %2.2g
+  h       output as homogeneous coordinates for cdd
+  n       remove command line from the first line of output
+  On      offset coordinates by n
+  t       use time as the random number seed (default is command line)
+  tn      use n as the random number seed
+  z       print integer coordinates, default 'Bn' is %2.2g
+rbox input error: coordinate %2.2g is too large.  Reduce 'Bn'
+%6.16g 
+%d %d
+%6.16g %6.16g
+%d %d %d
+%6.16g %6.16g %6.16g
+integer
+real
+.EXE
+.exe
+rbox error: dim %d too large or too small
+rbox warning: assuming 'M3,4,5' since mesh args are not integers or reals
+rbox warning: unknown flag %s.
+Execute 'rbox' without arguments for documentation.
+rbox error: can not combine 'Ln' with 'Zn'
+rbox error: lens radius %.2g should be greater than 1.0
+rbox error: missing count
+rbox error: can only specify one of 'l', 's', 'x', 'Ln', or 'Mn,m,r' ('Ln s' is ok).
+begin
+        %d %d %s
+%d %s
+rbox error: missing comma after coordinate in %s
+rbox error: %d coordinates instead of %d coordinates in %s
+insufficient memory for simplex
+rbox error: regular points can be used only in 2-d and 3-d
+rbox error: spiral distribution is available only in 3d
+hull
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+sqrt
+?cos
+inity
+__powi
+ABCDEF
+abcdef
+0123456789
+vH7B
+W4vC
+[%Co
+O8M2
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_time64
+_unlock
+abort
+asin
+atof
+atoi
+calloc
+exit
+fprintf
+fputc
+free
+fwrite
+localeconv
+malloc
+memcpy
+printf
+signal
+sprintf
+strcat
+strcpy
+strlen
+strncmp
+strrchr
+strstr
+vfprintf
+KERNEL32.dll
+msvcrt.dll

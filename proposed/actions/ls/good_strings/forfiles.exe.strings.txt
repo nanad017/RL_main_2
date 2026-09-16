@@ -1,0 +1,351 @@
+!This program cannot be run in DOS mode.
+Richi
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+PARSER2
+BUFFER
+PARSER2
+RSDS
+forfiles.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+u>jW
+j0Xf;
+j9Xf;
+jAXf;
+jFXf;
+u>jW
+PSSh`
+G	Ph`
+PSSSSSS
+@_^[
+SVW3
+uGjW
+@_^[
+u>jW
+Fj%Y
+tbj%YQP
+@_^[
+QSVW3
+j Xf;
+j Xj"Yf;
+j"Yf;
+SVWj
+j\Xf;
+uAf;C
+t,PS
+j\Yf;
+j+Yj-^f;
+t5f;
+t	j/W
+u>jW
+@[^_
+PPtF
+PPh(
+PPhD
+PPhD
+PPh(
+j\Yf;LF
+u?jW
+WPj!V
+jdYf;
+j/Sf
+jMYf;
+jyYf;
+j/SW
+	j/W
+f97t
+t	RQ
++tKH
+_^[]
+j/[SP
+u;jW
+u;jW
+7@^[_
+u?jW
+_@[^
+QQSV
+uqjW
+tkVV
+uvWj
+j RP
+QQSV
+WPSV
+PVSVh
+t:9u
+tjWW
+>-PVu
+QVW3
+tc9}
+>-tX
+8"t'
+u*jW
+_^[]
+f9>u
+rSVQ
+8	t8S
+PVWS
+t!;u
+QQQQVPQ
+HPVj
+u$jW
+u|jW
+PjPV
+SVWj
+tiQQj|Z
+r8SV
+QSVWj
+QQSVW
+QQj:Z
+Pj	Y
+t>Sj
+L$$;
+T$,j
+;D$(s
+D$8P
+L$$;L$(
+H_^]
+w&t@=
+KVWR
+t=V3
+@^[_]
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+GetDateFormatW
+SearchPathW
+CreateProcessW
+WaitForSingleObject
+GetTimeFormatW
+FileTimeToSystemTime
+MultiByteToWideChar
+GetLastError
+SetLastError
+CloseHandle
+FileTimeToLocalFileTime
+FindFirstFileW
+SetErrorMode
+GetLocaleInfoW
+GetCurrentDirectoryW
+FindClose
+GetLocalTime
+SetCurrentDirectoryW
+HeapSetInformation
+FindNextFileW
+LocalFree
+FileTimeToDosDateTime
+KERNEL32.dll
+_ultow
+_ui64tow
+_vsnwprintf
+toupper
+wcstoul
+_XcptFilter
+__p__commode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+VerSetConditionMask
+RtlVerifyVersionInfo
+ntdll.dll
+GetFileVersionInfoSizeExW
+GetFileVersionInfoExW
+VerQueryValueW
+VERSION.dll
+CharLowerW
+LoadStringW
+CharUpperW
+USER32.dll
+WS2_32.dll
+PathRelativePathToW
+StrRChrW
+StrPBrkW
+StrStrW
+StrChrW
+StrDupW
+StrChrIW
+StrStrIW
+SHLWAPI.dll
+Sleep
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+SetThreadUILanguage
+FormatMessageW
+WideCharToMultiByte
+GetFileType
+GetConsoleMode
+GetStdHandle
+GetUserDefaultLCID
+lstrlenW
+CompareStringW
+GetThreadLocale
+CompareStringA
+WriteConsoleW
+ExitProcess
+GetConsoleOutputCP
+GetProcessHeap
+HeapFree
+HeapValidate
+HeapAlloc
+HeapReAlloc
+HeapSize
+GetModuleFileNameW
+__iob_func
+_memicmp
+_errno
+wcstod
+wcstol
+_fileno
+_get_osfhandle
+fprintf
+fflush
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.Filesystem.ForFiles"
+    type="win32"
+<description>ForFiles - Executes a command on selected files</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+0@0D0
+4 4(4^6
+9R9Y9c9
+;%;/;A;\;};
+<@<P<k<
+=3=D=^=m=
+> >0>D>O>T>g>r>
+>	?$?6?N?`?x?}?
+040D0W0h0z0
+0-1G1V1
+192S2]2v2
+3T3j3
+394N4m4w4
+5#505T5o5
+5V6p6
+7(7b7z7
+8(8/8p8{8
+9.9S9
+:':::Z:
+;A;P;h;
+"0=0W0_0i0t0}0
+122]2w2
+425_5
+636G6[6o6
+8)878y8
+9'9d9s9
+9,:G:X:s:
+:+;1;D;_;
+=L=_=e=}=
+=1>L>
+>	?<?F?M?a?l?
+0.0R0
+2"3j4
+5(5q5
+6E6}6
+8#8b8
+9(9K9j9
+:Q:z:
+:2;q;
+<R<j<
+>I>a>
+?H?{?
+2 2$2B2u2
+2;3V3
+4/4J4
+6 6/6]6c6u6
+7W7^7
+7>8W8i8u8
+8>9J9w9
+;(;9;[;g;
+<%<D<a<
+<,=:=G=S=s=
+>2>>>w>
+?2?G?
+0$0p0x0
+061d1
+2,242=2L2X2{2
+4*414<4H4
+5\5b5
+6$6/666E6J6Q6X6v6
+697E7O7l7
+8.8H8b8p8~8
+9$9?9
+:(:4:H:V:
+<=<t<
+=D=a=
+>+>=>x>
+?;?G?n?{?
+2"2&2*2.22262:2>2P2v2
+393E3
+3D4S4
+4"5Q6
+8"9D9
+9/:i:
+=(=D=
+4(545:5G5]5f5p5y5
+6+6E6g6r6
+7 7&73797C7b7h7r7x7
+8'82898P8V8\8b8h8n8u8|8
+9"9.9>9G9
+9G:|:
+;-;A;G;	<$<0<?<H<Q<f<{<
+<2=7=Y=v=
+>$>(>D>H>d>h>

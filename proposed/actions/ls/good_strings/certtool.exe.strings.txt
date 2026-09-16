@@ -1,0 +1,4015 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+AWAVAUATUWVSH
+L$HH
+L$HH
+D$XH
+l$`H
+D$XH
+L$HH
+L$HH
+d$PH
+T$PH9
+|$0H
+D$HH
+x[^_]A\A]A^A_
+L$HL
+L$HH
+L$HH
+L$HH
+L$HD
+L$HI
+D$`H
+D$`H
+L$HH
+L$H1
+L$HH
+L$HE1
+L$HH
+L$8H
+D$`L
+L$XH
+L$HD
+L$HH
+T$(L
+D$(H
+L$(E1
+D$0H
+D$8L
+L$0H
+D$ H
+D$ E1
+D$ H
+L$ H
+AUATUWVSH
+L$hA
+l$xH
+l$pH
+T$HH
+T$DH
+T$@H
+l$pD
+D$HH
+T$XE1
+D$DH
+T$`E1
+t$@D
+l$DD
+l$ E
+D$@H
+T$PH
+L$hL
+D$8H
+\$ H
+T$LH
+L$h1
+9\$@w
+L$P1
+9\$Dw
+[^_]A\A]
+l$pD
+d$xH
+L$hE1
+T$@H
+L$PL
+t$HL
+l$pD
+D$@H
+T$PH
+L$hA
+D$(H
+D$LH
+AWAVAUATUWVSH
+l$(H
+d$ H
+l$@E1
+D$ H
+L$0M
+l$0H
+[^_]A\A]A^A_
+unnumber
+t$ H
+L$`H
+T$`H
+L$ E1
+D$ H
+L$ E1
+L$ E1
+T$(H
+t$8H
+\$0L
+L$`H
+T$0A
+T$`H
+L$ E1
+L$ H
+D$0H
+D$ t.
+D$ H
+WVSH
+L$(H
+L$(E1
+D$(H
+0[^_
+AWAVAUATUWVSH
+T$lH
+D$lH
+D$(H
+D$ L
+[^_]A\A]A^A_
+\$pH
+\$@L
+T$0H
+l$8M
+|$(L
+t$ M
+\$XL
+T$PL
+\$@L
+T$0H
+l$8L
+|$(L
+\$(H
+t$(L
+\$ M
+WVSH
+L$8H
+@[^_
+T$4E1
+D$4H
+D$4H
+D$8H
+D$8H
+D$(H
+L$ H
+L$ H
+L$0E1
+D$0A
+\$HH
+T$HH
+L$@H
+L$@L
+D$<1
+D$<A
+D$,H
+L$@L
+D$`1
+D$`H
+AWAVAUATUWVSH
+D$XH
+L$XL
+D$(H
+D$ L
+;\$d
+\$(I
+T$ I
+d$8L
+\$xL
+T$pH
+\$xL
+D$hM
+d$0L
+l$(L
+;\$d
+D$XH
+D$(H
+[^_]A\A]A^A_
+\$ M
+d$0L
+\$xL
+T$pH
+\$xL
+L$hM
+\$(L
+D$XH
+\$ M
+d$0L
+l$(I
+\$xL
+T$pH
+D$hH
+T$pL
+d$(L
+l$ L
+\$xL
+T$pH
+T$pL
+AUATUWVSH
+l$8H
+T$8H
+L$(H
+L$(M
+L$0H
+X[^_]A\A]
+T$(H
+L$ H
+T$(H
+L$ H
+ATUWVSH
+L$ A
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+L$ H
+T$(H
+L$ E1
+0[^_]A\
+L$ H
+L$(A
+L$ H
+L$XL
+D$HH
+T$@H
+L$PH
+D$<H
+L$PH
+T$XE1
+L$<L
+D$pE1
+D$pH
+AWAVAUATUWVSH
+L$xH
+L$xH
+D$PH
+d$XL
+D$HH
+D$HH
+D$XH
+D$HH
+T$PH
+L$xA
+L$lL
+DD$PH
+T$`H
+l$ H
+D$HH
+D$HH
+D$PH
+L$xL
+D$`H
+ATUWVSH
+l$HH
+T$HH
+L$@L
+D$0H
+ATUWVSH
+T$8I
+T$01
+L$(H
+H;T$8H
+L$(H
+H;T$0H
+L$(H
+L$(L
+D$HL
+L$@A
+UWVSH
+T$4A
+D$4H
+D$4H
+D$8H
+D$8H
+D$(H
+H[^_]
+AWAVAUATUWVSH
+D$PH
+D$0H
+T$tA
+	D$tH
+D$0H
+D$8D
+D$tH
+T$PH
+D$tH
+|$hL
+|$`L
+D$8H
+D$@H
+L$t1
+l$(H
+D$ H
+D$0H
+|$hH
+L$xH
+[^_]A\A]A^A_
+UWVSH
+D$XH
+|$pD
+D$@L
+L$DH
+D$8H
+D$LH
+D$H 
+D$PA
+D$0H
+D$HH
+D$ I
+D$HH
+L$`L
+D$PH
+L$HH
+L$LH
+[^_]
+D$XH
+L$XH
+[^_]
+UWVSH
+L$@H
+D$PH
+L$@H
+h[^_]
+T$<E1
+D$<D
+L$@H
+AWAVAUATUWVSH
+D$(H
+D$`H
+t$hH
+D$PH
+D$HH
+D$xH
+D$XL
+D$ L
+|$hH
+D$PL
+L$HH
+D$0H
+D$(H
+D$HH
+T$XL
+D$XH
+T$pH
+[^_]A\A]A^A_
+T$8H
+T$Ht-H
+L$@E1
+T$(H
+L$ H
+D$@H
+L$ tD
+D$HH
+D$@H
+AWAVAUATUWVSH
+l$ L
+D$(L
+D$(L
+D$(~
+8[^_]A\A]A^A_
+L$(1
+AWAVAUATUWVSH
+l$HH
+T$HH
+T$<H
+L$@L
+D$@L
+D$HH
+D$@H
+D$@H
+L$@H
+h[^_]A\A]A^A_
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+T$p1
+l$`I
+L$XM
+L;L$`L
+L$XH
+L$XH
+D$`H
+L$XH
+T$8H
+T$0H
+D$8H
+D$0H
+D$(1
+D$X 
+L$HL
+L$XI
+\$pH
+D$XH
+L$pL
+D$PH
+L$`H
+D$`@
+|$pH
+D$`H
+L$pL
+D$XH
+T$PH
+T$DH
+L$HL
+D$PL
+D$PL
+L$XL
+L$(E1
+D$(H
+WVSH
+ [^_
+D$PL
+D$PL
+L$XL
+UWVSH
+L$(uSI
+L$(H
+D$(H
+8[^_]
+8[^_]
+WVSH
+ [^_
+ [^_
+UWVSH
+\$pE
+([^_]
+T$HH
+T$HL
+D$PL
+L$XH
+D$(@
+L$0L
+D$(H
+L$8H
+L$8E1
+D$8H
+T$4E1
+D$4H
+L$8H
+D$ D
+T$(H
+T$8tZH
+L$0H
+L$0H
+WVSH
+T$HH
+|$PD
+L$@E1
+D$@H
+`[^_
+T$<E1
+D$<H
+L$@H
+D$ D
+T$<E1
+D$<H
+L$@H
+D$ D
+UWVSH
+T$<L
+D$@H
+l$HH
+D$<H
+X[^_]
+X[^_]
+WVSH
+H9\$(w
+0[^_
+UWVSH
+T$<L
+D$@H
+l$HH
+D$<H
+X[^_]
+X[^_]
+T$(H
+L$ H
+D$ H
+T$(H
+T$8tTH
+L$0H
+L$0H
+T$(H
+L$ H
+D$ H
+T$8H
+L$0H
+D$0H
+L$@H
+L$@E1
+D$@H
+\$ A
+\$(H
+t$ A
+WVSH
+L$(H
+L$(E1
+D$(H
+0[^_
+0[^_
+AVAUATUWVSH
+ [^_]A\A]A^
+ATUWVSH
+ [^_]A\
+ATUWVSH
+t$xH
+l$pH
+ [^_]A\
+AWAVAUATUWVSH
+D$ L
+T$(H
+D$ A
+|$(H
+8[^_]A\A]A^A_
+8[^_]A\A]A^A_
+WVSH
+D$0H
+@[^_
+UWVSH
+T$8H
+D$PH
+T$PH
+D$8H
+|$pH
+t$`H
+L$@L
+L$4I
+[^_]
+L$HL
+L$@H
+D$HH
+L$4I
+ATUWVSH
+l$`H
+t$PH
+L$@L
+L$<I
+p[^_]A\
+D$PH
+T$XH
+T$hH
+D$`H
+l$`H
+t$PH
+L$@I
+D$PH
+T$XH
+T$hH
+L$HL
+L$@H
+D$HH
+D$PH
+T$XH
+T$hH
+L$<I
+D$PH
+T$XH
+T$hH
+D$PH
+T$XH
+T$hH
+D$PL
+D$PL
+L$XL
+AWAVAUATUWVSH
+D$LH
+\$`D
+|$hH
+d$PH
+L$`H
+\$PD
+T$8E1
+D$LH
+D$ D
+L$`H
+x[^_]A\A]A^A_
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+WVSH
+P[^_
+t$@H
+|$0H
+P[^_
+L$ I
+|$(H
+L$ E1
+L$ I
+T$(H
+D$PL
+D$PL
+L$XL
+AVAUATUWVSH
+ [^_]A\A]A^
+T$@H
+L$,A
+L$,L
+D$0E1
+T$0H
+T$,1
+AWAVAUATUWVSH
+h[^_]A\A]A^A_
+T$<H
+L$@E1
+L$@L
+|$HH
+L$@E1
+T$<H
+L$<I
+D$<H
+D$H1
+t$@L
+|$PH
+D$ H
+L$ H
+L$@E1
+D$HH
+D$(H
+;\$<
+L$@E1
+L$@M
+D$PH
+D$HH
+L$ H
+L$@I
+D$PH
+L$@I
+WVSH
+ [^_
+AVAUATUWVSH
+D$8!
+D$8H
+T$8H
+l$4L
+d$@H
+[^_]A\A]A^
+T$HH
+l$4L
+d$@L
+l$4L
+l$4L
+l$4L
+d$@t}
+T$4H
+T$$H
+L$(E1
+L$(L
+T$$H
+T$$H
+L$(E1
+L$(L
+T$0H
+T$0H
+AWAVAUATUWVSH
+L$`L
+D$XH
+|$PL
+d$@H
+L$PE1
+l$(H
+L$AD
+D$@H
+D$ H
+L$`I
+L$`H
+L$`H
+L$`H
+L$`H
+L$`H
+x[^_]A\A]A^A_
+|$XL
+t$`L
+l$@L
+d$(H
+|$ M
+L$AD
+D$@H
+D$ H
+L$`H
+L$XH
+L$8H
+ATUWVSH
+us<*uoH
+ [^_]A\
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+D$PL
+D$PL
+L$XL
+t&Hi
+UWVSH
+T$(E1
+8[^_]
+H9|$(H
+8[^_]
+ATUWVSH
+L$0H
+[^_]A\
+d$0H
+|$@L
+D$0A
+L$ E1
+D$ H
+WVSH
+ [^_
+AWAVAUATUWVSH
+D$(f
+[^_]A\A]A^A_
+T$(H
+UWVSH
+D$0<
+[^_]
+T$ H
+UWVSH
+D$0<
+[^_]
+T$ H
+UWVSH
+D$ A
+Yt9A
+[^_]
+[^_]
+[^_]
+UWVSH
+([^_]
+([^_]
+teE1
+D$ I
+WVSH
+D$ I
+0[^_
+0[^_
+WVSH
+D$ I
+0[^_
+0[^_
+D$ I
+D$ I
+D$ I
+WVSH
+\$01
+L$(I
+\$01
+L$(I
+\$01
+L$(I
+\$01
+L$(I
+T$(A
+@[^_
+D$ I
+UWVSH
+D$ I
+8[^_]
+WVSH
+ [^_
+WVSH
+|$ H
+T$ H
+0[^_
+WVSH
+|$ H
+T$ H
+0[^_
+D$ I
+UWVSH
+t$0H
+H[^_]
+UWVSH
+8[^_]
+UWVSH
+D$ I
+D$ I
+D$ I
+D$ I
+8[^_]
+UWVSH
+8[^_]
+AVAUATUWVSH
+l$ E1
+T$ H
+D$@H
+D$(H
+[^_]A\A]A^
+UWVSH
+8[^_]
+WVSH
+ [^_
+ [^_
+D$ I
+WVSH
+D$ I
+0[^_
+0[^_
+WVSH
+D$ I
+0[^_
+0[^_
+D$ I
+D$ I
+D$ I
+D$ I
+UWVSH
+D$ I
+8[^_]
+UWVSH
+[^_]
+D$ H
+iD$(
+AWAVAUATUWVSH
+L$0D
+D$,D
+L$(D
+D$,u
+HcT$0H
+H[^_]A\A]A^A_
+	wYE
+AWAVAUATUWVSH
+|$@H
+d$P<:
+|$8H
+D$(tpE
+X[^_]A\A]A^A_
+|$8H
+t$0H
+D$@H
+T$HI
+L$8H
+D$(H
+D$@t=
+D$HD
+QpLc
+T$8D
+T$0D
+T$(D
+T$(I
+WVSH
+ [^_
+uFf.
+ [^_
+D$PL
+D$PL
+L$XL
+AWAVAUATUWVSH
+D$pH
+D$hH
+D$xG
+D$`<WHc
+L$XwJH
+D$`L
+\$XH)
+	fE9
+F&H9
+[^_]A\A]A^A_
+vy< tuD
+D$8H
+D$8H
+T$pH
+D$8H
+D$8H
+D$8H
+D$ D
+D$XE1
+D$XE1
+T$pH
+D$8H
+T$hL
+0u=H
+T$hA
+L+T$hI
+t	@0
+\$XH
+L$`H
+L$hA
+T$hL
+\$XH
+T$XD
+t$hH
+T$XH
+L$hL
+L$`H
+\$XH
+D$hA
+L$hL
+T$XH
+D$hE1
+L$hD
+L$XL
+T$`H
+T$hL
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+T$|u"M
+T$tH
+T$pH
+D$pL
+l$pL
+D$xH
+L$0H
+|$PE
+L$ L
+L$0A
+\$@H
+L$0L
+D$pH
+D$xH
+\$|F
+D$|E1
+L$PL
+d$PDk
+D$xA+P
+D$tA+@
+D$pA+
+D$<H
+AWAVAUATUWVSH
+D$&f%
+h[^_]A\A]A^A_
+\$8H9
+UWVSH
+([^_]
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+t$0M
+WVSH
+ [^_
+ [^_
+UWVSH
+L$xH
+T$ L
+L$xH
+T$ H
+\$ t\H9
+8[^_]
+UWVSH
+<+=t
+([^_]
+([^_]
+L$XL
+L$XL
+UAWAVAUATWVSH
+D$@H
+M8H9
+E L9
+E8L9
+[^_A\A]A^A_]
+M M9
+L$(L
+D$0L
+L$ H
+D$(D
+D$0H
+D$ H
+D$ H
+MhH9M0
+]hL+]0L
+w"L;
+L$ N
+D$(D
+D$ L
+D$ H
+L9] H
+L9] 
+t!H9
+D$(H
+D$ L
+Ext^E
+exH;
+}hH9}0
+H+}0H
+}hH9}0H
+([^H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B8<	
+B84	vXM
+AWAVAUATUWVSH
+T$@H
+\$(I)
+uyI9
+[^_]A\A]A^A_
+D$8L
+t$8I
+AWAVAUATUWVSH
+$)L9
+D$(f
+H[^_]A\A]A^A_
+\$8H9
+D$8H
+l$8H
+AWAVAUATUWVSH
+D$0I
+D$ M
+X[^_]A\A]A^A_
+<-t1<+t8< tD<#tP<0uR
+<Ltl<ltx<jtT
+ZtJ<ttF<I
+H9L$0t
+0<	v
+l$8H
+D$8I9
+0<	w
+0<	v
+V8H)
+\$ H9
+~PI9
+H;L$(I
+T$@H
+T$@I
+D$(H
+D$(H
+T$@H
+H9L$0
+T$@I
+D$0I;D$
+H9L$0t
+T$HH
+L$@I9
+L$@L
+T$HI
+T$@H
+T$@I
+|$8H
+T$@I
+\$8H
+T$HI
+T$@H
+T$0I
+T$@I
+T$@I
+T$@I
+T$@I
+T$HD
+L$@I
+T$HI
+T$@I
+T$@I
+T$@I
+UWVSH
+([^_]
+WVSH
+ [^_
+D$PL
+D$PL
+L$XL
+AUATUWVSH
+8[^_]A\A]
+T$(E1
+H;l$(A
+D$(I
+T$(A
+Gti~m
+D$(L
+tAH)
+ATUWVSH
+t$PH
+ [^_]A\
+L$XL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+AWAVAUATUWVSH
+D$8H
+X[^_]A\A]A^A_
+d$@L
+D$8H
+D$8H
+D$8H
+D$ L
+AWAVAUATUWVSH
+T$(E1
+wGI9
+8[^_]A\A]A^A_
+<-t H
+AUATUWVSH
+l$0L
+d$(H
+l$ A
+H[^_]A\A]
+D$PL
+D$PL
+L$XL
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+<t H
+t&H9
+ [^_]A\
+tyvR
+L$(H
+AWAVAUATUWVSH
+L$(L
+L$8H
+T$8A
+|$8H
+L$(L
+H[^_]A\A]A^A_
+UWVSH
+t$ I
+\$ H
+D$ H
+8[^_]
+\$(1
+T$(A
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+\$(H
+l$"H
+|$(H
+t$ A
+t$(f
+t$(f
+T$ H
+t$(f
+T$ H
+AUATUWVSH
+E5Ft
+t$ E
+8[^_]A\A]
+UWVSH
+fA;B
+H[^_]
+H[^_]
+l$ H
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+T$,H
+T$,H
+WVSH
+ [^_
+ [^_
+ [^_
+@t4D
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+8-u7
+8-tt
+ATUWVSH
+H+FxH
+H+FxH
+L+fxH
+ [^_]A\
+AUATUWVSH
+<:B8<
+([^_]A\A]
+([^_]A\A]
+UWVSH
+tNLc
+([^_]
+t;Lc
+AWAVAUATUWVSH
+t$8A
+X[^_]A\A]A^A_
+L$HA
+xt]H
+T$0L
+t$8H
+UWVSH
+([^_]
+AWAVAUATUWVSH
+}PE1
+}XE9
+t'E1
+hH;l$ u
+D9d$,w!H
+X[^_]A\A]A^A_
+l$0D
+AVAUATUWVSH
+H9C8
+CHtqH
+ [^_]A\A]A^
+AWAVAUATUWVSH
+l$@H
+H;\$8tWH
+H;\$8u
+h[^_]A\A]A^A_
+AWAVAUATUWVSH
+l$0H
+D$6f%
+[^_]A\A]A^A_
+D$pH
+D$6f%
+tBH)
+L$pI
+D$6f%
+T$6H
+\$ M
+|$ A
+AWAVAUATUWVSH
+d$0E1
+D$/E1
+D$/A
+$</u2O
+D$/H
+[^_]A\A]A^A_
+ATUWVSH
+0[^_]A\
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$0E
+AWAVAUATUWVSH
+D$8H
+D$@H
+D$0D
+t?D9
+L$8L
+L$0H
+D$(H
+D$0H
+L$8L
+[^_]A\A]A^A_
+L$0L
+L$0L
+AWAVAUATUWVSH
+	w^Mc
+\$(L
+T$ L
+\$(E
+8[^_]A\A]A^A_
+L$(E8
+L$(A
+AWAVAUATUWVSH
+l$0H
+\$01
+L$0A
+\$0D
+\$0D
+huiA
+D$0H
+\$0D
+H[^_]A\A]A^A_
+t$ I
+\$ H
+D$ H
+suKA
+\$(1
+T$(A
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+T$(H
+D$(H
+|$8H
+\$8A
+<:uWA
+\$8H
+|$8H
+t$0L
+D$4A
+D$0H
+t$8f
+T$0H
+t$8f
+T$0H
+UWVSH
+([^_]
+([^_]
+UWVSH
+	wDH
+([^_]
+([^_]
+0uuH
+T$(E1
+T$(1
+u#H9
+UWVSH
+([^_]
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+L$ A
+L$ 1
+AVAUATUWVSH
+D$,H
+\t~E
+0[^_]A\A]A^
+0[^_]A\A]A^
+'tYA
+9w'L
+<*t'</ucH
+t+H9
+AWAVAUATUWVSH
+D$pH
+D$HH
+D$8H
+[^_]A\A]A^A_
+D$TH
+L+t$@I
+L$@H
+D$HH
+T$@H
+T$pH
+L$XL
+L$XM
+T$@H
+T$`L
+L$XL
+T$`<
+tbE1
+T$`L
+L$XL
+T$@L
+L$ M
+T$X<
+L$`H
+T$XL
+T$@L
+L$`J
+L$@H9
+T$hH
+T$`L
+D$XH
+T$`L
+T$hM9
+T$@M
+T$`L
+T$`L
+T$@I
+|$ I
+T$ H
+D$8H
+D$8H
+L$ M
+AWAVAUATUWVSH
+D$XA
+D$8H
+D$`H
+[^_]A\A]A^A_
+L#r 
+I#l$ I
+I#D$ I
+T$8E1
+Hc|$HH
+4?H9
+|$@I
+l$ M
+H!D$0I
+H	D$0
+H1D$0
+H!D$0H
+D$0I
+AWAVAUATUWVSH
+h[^_]A\A]A^A_
+t_L)
+T$ L
+D$&f%
+T$ L
+T$ L
+D$&f%
+@tRH
+AWAVAUATUWVSH
+$tNE
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$ L
+D$&f%
+[^_]A\A]A^A_
+AWAVAUATUWVSH
+|$@1
+L$8H
+H9S8t.
+hH9P8u
+D$Ff%
+D$XH
+D$XI
+D$XI)
+D$Xt
+P0H9
+@x tvA
+[^_]A\A]A^A_
+WVSH
+ [^_
+ [^_
+ [^_
+ATUWVSH
+0[^_]A\
+D$ L
+0[^_]A\H
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+GHA)
+8[^_]A\A]A^A_
+\$ H
+D$(H
+@t	H
+WVSH
+ [^_
+AVAUATUWVSH
+ [^_]A\A]A^
+UWVSH
+([^_]
+AWAVAUATUWVSH
+|$HI
+t2f;
+X[^_]A\A]A^A_
+D$8f
+L;d$8u
+\$ M
+AWAVAUATUWVSH
+L$PHc
+D$HHc
+d$8A
+l$ I
+[^_]A\A]A^A_
+d$@Mc
+L$HK
+L$HH
+<-u@H
+T$(H
+T$(H
+WVSH
+|$0H
+P[^_
+P[^_
+P[^_
+t$0H
+D$0f
+D$,H
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+WVSH
+T$0H
+P[^_
+UWVSH
+H[^_]
+|$ H
+D$0ua
+H[^_]
+ATUWVSH
+D$ H
+T$ H
+@[^_]A\
+D$ H
+AUATUWVSH
+program
+([^_]A\A]
+([^_]A\A]
+AVAUATUWVSH
+ [^_]A\A]A^
+ATUWVSH
+0[^_]A\
+UWVSH
+([^_]
+S`E1
+K(H9
+UWVSH
+D$&f%
+h[^_]
+D$8H
+h[^_]
+h[^_]
+AWAVAUATUWVSH
+D$4H
+D$HH
+D$PH
+D$@H
+D$XH
+D$`H
+D$hH
+D$4A
+[^_]A\A]A^A_
+L$PI
+T$HH
+D$pH
+L$pL
+D$HH
+T$pI
+L$xL
+\$xH
+D$xI9
+D$xA
+T$@I
+t(<\
+T$pI
+D$`H
+D$pH
+T$@E
+D$ L
+T$pH
+D$xA
+L;\$HH
+<$;u
+L$XA
+T$xI
+AWAVAUATUWVSH
+d$pL
+t$0L
+[^_]A\A]A^A_
+D$6f%
+L$(H
+L$(L
+T$ K
+WVSH
+ [^_
+T$ H
+D$&f%
+ATUWVSH
+t$ H
+P[^_]A\
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+t$/H
+'t#E
+D$/t
+\t5E
+t>w%
+0[^_]A\
+0[^_]A\
+0[^_]A\
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$PH
+\$0M
+D$0E
+\$0tO
+L$(A
+D$0H
+L$0A
+AWAVAUATUWVSH
+ t H
+t f=
+h[^_]A\A]A^A_
+l$@D
+L$8A9
+d$ I
+|$ M
+L$Tt|
+L$8M
+D$@L
+T$(ud
+AWAVAUATUWVSH
+ u,H
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+UWVSH
+L$0H
+L$(ug
+L$(H
+D$0help
+L$(H
+L$(H
+L$0H
+D$0-h
+D$1-
+D$0-L
+L$0H
+L$2A
+D$0-
+D8	t
+UWVSHcl$P1
+HcD$XH
+RHcT$`I
+HcT$pI
+HcD$hI)
+HcD$HL
+[^_]
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]H
+T$HD
+T$@D
+T$8D
+AWAVAUATUWVSH
+D$`H
+D$xD
+D$\H
+D$(F
+D$hH
+D$hH
+T$pL
+D$\E
+T$`H
+D$0H
+|$ L
+[^_]A\A]A^A_
+xGHc
+D$\E
+T$`H
+|$ H
+D$0H
+T$pL
+D$hL
+D$xH
+T$hI
+D$PL
+D$PL
+L$XL
+ATUWVSH
+ [^_]A\
+UWVSH
+L$xL
+L$xI
+8[^_]
+AUATUWVSH
+8[^_]A\A]
+WVSH
+ [^_
+D$PL
+D$PL
+L$XL
+WVSH
+ [^_
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-q
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+WVSH
+|$ H
+UWVSH
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+|`t.H
+*!Nb
+D$ H
+D$ D
+D$ D
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+<XtH
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ATUWVSH
+|$@1
+t$0D
+d$(H
+\$ I
+[^_]A\
+UWVSH
+D$,H
+D$,E
+8[^_]
+T$hu
+T$LD
+L$(H
+T$8L
+D$h1
+WVSH
+D$ H
+0[^_
+AVAUATUWVSH
+0[^_]A\A]A^
+0[^_]A\A]A^
+0[^_]A\A]A^
+\$ u!
+0[^_]A\A]A^
+DD$(H
+D$ H
+t$ I
+L$ H
+L$ H
+D$ H
+ATUWVSH
+$t1H
+ [^_]A\
+D$HL
+L$ L
+L$DH
+D$(H
+D$8M
+C$9C(~
+ u#HcC$H
+AVAUATUWVSH
+t$,L
+@[^_]A\A]A^
+WVSH
+ [^_
+ [^_
+L$ E
+D$ -L
+D$ +L
+D$  L
+L$ I
+UATWVSH
+t_HcF
+\$ H
+[^_A\]
+[^_A\]
+ATUWVSH
+VUUU
+VUUU
+ [^_]A\
+ [^_]A\
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HH
+L$HI
+UAUATWVSH
+d$ t
+[^_A\A]]
+VUUU
+WVSH
+gfffI
+gfff
+ [^_
+T$0L
+|$PH
+D$PH
+D$0H
+D$XH
+D$8H
+D$HH
+D$LH
+L$HI
+L$HI
+T$@L
+|$`H
+D$`H
+D$@H
+D$hH
+D$HH
+D$XH
+D$\H
+D$<D)
+L$XH
+L$XI
+L$XI
+UAVAUATWVSH
+[^_A\A]A^]
+VUUU
+AUATUWVSH
+L$0D
+T$8H
+D$0H
+l$@E
+D$@.D
+l$.w3
+D$.t
+D$0A
+l$@H
+gfff
+gfff
+h[^_]A\A]
+h[^_]A\A]
+AWAVAUATUWVSH
+D$41
+t$nL
+|$(H
+|$PH
+t$8H
+|$ D
+[^_]A\A]A^A_
+<lu,H
+L$ L
+L$ L
+L$ L
+L$(M
+L$ L
+L$(I
+T$LL
+L$(H
+\$@D
+T$L~
+T$nf
+D$pI
+L$pI
+D$pH
+L$pH
+AWAVAUATUWVSH
+D$,H
+D$,H
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+L$(M
+[^_]A\A]A^A_
+\$0f
+L$01
+w-HcD$0H
+L$xD
+\$pL
+D$8t%
+D$8t
++D$8
+L$hf
+\$`A
+T$HH
+D$(D	8H
+HcD$0;E
+\$hH
+l$8f
+l$0E1
+D$HA
+L$`E
+\$hA)
+D$hA
++T$XE1
+)D$P)
+L$@D
+D$XE
+D$pH
+T$XD)
++D$@
+t$hE
+\$hE
+L$`D
+\$hL
+\$HA
+D$0)D$P
+T$`E
+\$HL
+d$@L
+D$h9
+d$@H
+D$XA
+\$P1
+T$XH
+\$HD
+L$@H
+9T$h
+T$8E
+T$8D
++\$h
+L$0A
+d$@L
+d$@H
+L$0L
+d$@H
+UWVSH
+[^_]
+[^_]
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+UWVSH
+l$ A
+H[^_]
+H[^_]
+H[^_]
+L$ L
+l$ A
+H[^_]
+UWVSH
+D$NH
+D$NH
+D$8H
+D$8L
+D$ H
+X[^_]
+AWAVAUATUWVSH
+l$(D
+d$ I)
+u%H9
+H[^_]A\A]A^A_
+D$>t
+l$(D
+d$ I
+UWVSH
+D$>H
+D$ I
+H[^_]
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+=str
+=num
+=KWd
+=T/F
+PKCS #8 Encrypted key
+Empty
+PKCS #8 Key
+Certificate
+Encrypted
+Secret
+Unknown
+|<%d>| %s
+crt_init: %s
+missing --load-privkey
+Please enter the details of the certificate's distinguished name. Just press enter to ignore a field.
+set_proxy_dn: %s
+This field should not be used in new certificates.
+set_key: %s
+set_crq: %s
+serial: %s
+Activation/Expiration time.
+set_activation: %s
+Expiration time: %s
+CA expiration time: %s
+Warning: The time set exceeds the CA's expiration time
+Is it ok to proceed? (y/N): 
+set_expiration: %s
+Extensions.
+1.3.6.1.5.5.7.21.1 ::= id-ppl-inheritALL
+1.3.6.1.5.5.7.21.2 ::= id-ppl-independent
+set_proxy: %s
+basic_constraints: %s
+1.3.6.1.5.5.7.3.2
+key_kp: %s
+1.3.6.1.5.5.7.3.1
+warning: this algorithm does not support encryption; disabling the encryption flag
+1.3.6.1.5.5.7.3.17
+1.3.6.1.5.5.7.3.9
+1.3.6.1.5.5.7.3.3
+1.3.6.1.5.5.7.3.8
+key_usage: %s
+set_subject_key_id: %s
+set_authority_key_id: %s
+set_version: %s
+crt_get_preferred_hash_algorithm: %s
+gnutls_pubkey_import_x509: %s
+crl_print: %s
+crl_export: %s
+Not verified.
+Verified.
+error: %s
+gnutls_x509_trust_list_init: %s
+Error loading system trust: %s
+Loaded system trust (%d CAs available)
+error parsing CRTs: %s
+error parsing CAs: %s
+gnutls_x509_trust_add_cas: %s
+gnutls_x509_trust_add_crls: %s
+Loaded %d certificates, %d CAs and %d CRLs
+gnutls_x509_trusted_list_verify_crt: %s
+Chain verification output: 
+gnutls_x509_crt_get_issuer_dn: %s
+gnutls_x509_crt_get_dn: %s
+	Subject: %s
+	Issuer: %s
+	Checked against: %s
+gnutls_x509_crl_get_issuer_dn: %s
+gnutls_hex_encode: %s
+	Checked against CRL[%s] of: %s
+	Output: 
+file
+standard input
+pubkey_init: %s
+pubkey_import_x509: %s
+pubkey_import_x509_crq: %s
+pubkey_import_privkey: %s
+BEGIN CERTIFICATE
+BEGIN X509
+crt_import: %s
+pubkey_import: %s
+crq_print: %s
+Self signature: FAILED
+Self signature: verified
+crq_export: %s
+3des
+3des-pkcs12
+arcfour
+aes-128
+aes-192
+aes-256
+rc2-40
+unknown cipher %s
+Is the above information ok? (y/N): 
+privkey_init: %s
+Generating a %d bit %s private key...
+Note that ECDSA keys with size less than 256 are not widely supported.
+Note that DSA keys with size over 1024 may cause incompatibility problems when used with earlier than TLS 1.2 versions.
+privkey_generate: %s
+privkey_verify_params: %s
+Public Key Info:
+	Public Key Algorithm: 
+	Key Security Level: %s (%u bits)
+Error in key RSA data export: %s
+Error in key DSA data export: %s
+Error in key ECC data export: %s
+Error in key id calculation: %s
+Public Key ID: %s
+Public key's random art:
+privkey_export: %s
+privkey_export_pkcs8: %s
+gnutls_hex_encode2: %s
+%s: %s
+Generating a self signed certificate...
+Signing certificate...
+crt_sign: %s
+crt_export: %s
+openpgp_crt_init: %s
+import error: %s
+verify signature error: %s
+Self Signature verification: failed
+Self Signature verification: ok (%x)
+export error: %s
+privkey_get_subkey_count: %s
+Subkey[%d]:
+	Key Security Level: %s
+Public key ID: %s
+Error in fingerprint calculation: %s
+Fingerprint: %s
+Fingerprint's random art:
+openpgp_keyring_init: %s
+Keyring contains %d OpenPGP certificates
+keyring error: %s
+crl_init: %s
+crq_init: %s
+Generating a PKCS #10 certificate request...
+privkey_init: %s
+privkey_import_x509: %s
+set_pass: %s
+set_basic_constraints: %s
+sign: %s
+CA certificate:
+crt_get_dn: %s
+	Subject: %s
+Verification output: 
+verification error: %s
+Not verified. 
+p7_init: %s
+Could not open %s
+Error reading CA list
+Error reading CRL list
+error loading trust list
+Error reading data file
+Signers:
+	Signer's issuer DN
+	Signer's serial
+	Signer's issuer key ID
+	Signing time: %s
+	Signature Algorithm: %s
+	Signed Attributes:
+		%s
+	Unsigned Attributes:
+error getting embedded data: %s
+	Signature status: verification failed: %s
+	Signature status: ok
+gnutls_x509_trust_add_trust_mem: %s
+Loaded CAs (%d available)
+Error signing: %s
+pkcs7_export: %s
+Error adding cert: %s
+Error adding CRL: %s
+Generating a PKCS #8 key structure...
+key_export: %s
+Generating a PKCS #12 structure...
+pkcs12_init: %s
+bag_init: %s
+set_crt[%d]: %s
+bag_set_friendly_name: %s
+key_id[%d]: %s
+bag_set_key_id: %s
+bag_encrypt: %s
+set_bag: %s
+key_export[%d]: %s
+bag_set_data: %s
+generate_mac: %s
+pkcs12_export: %s
+PKCS #8 information:
+	Schema: unsupported (%s)
+PKCS #8 read error: %s
+%sPKCS #8 information:
+%s	Cipher: %s
+%s	Schema: %s (%s)
+hex encode error: %s
+%s	Salt: %s
+%s	Salt size: %u
+%s	Iteration count: %u
+Encrypted structure detected...
+** Private key parameters validation failed **
+CERTIFICATE
+PRIVATE KEY
+ENCRYPTED PRIVATE KEY
+p12_init: %s
+p12_import: %s
+MAC info:
+	MAC: unknown (%s)
+	MAC: %s (%s)
+	Salt: %s
+	Salt size: %u
+	Iteration count: %u
+verify_mac: %s
+bag_count: %s
+BAG #%d
+	Type: %s
+PKCS #12 bag read error: %s
+	Cipher: %s
+	Schema: %s (%s)
+	Iteration count: %u
+	Decrypting...
+bag_decrypt: %s
+encrypted bag_count: %s
+get_count: %s
+	Elements: %d
+get_type: %s
+get_data: %s
+get_friendly_name: %s
+	Friendly name: %s
+get_key_id: %s
+	Key ID: %s
+There were errors parsing the structure
+no embedded data are available
+printing error: %s
+cannot find RFC 2822 header/body separator
+message has RFC 2822 header but no body
+-----BEGIN PKCS7-----
+-----END PKCS7-----
+find public key error
+cannot output multiple certificates in DER format; using PEM instead
+Warning: MD5 is broken, and should not be used any more for digital signatures.
+sha1
+sha256
+sha224
+sha384
+sha512
+rmd160
+invalid hash: %s
+Setting log level to %d
+global_init: %s
+Assuming PKCS #8 format...
+Generating a signed certificate...
+Generating a proxy certificate...
+Generating a signed CRL...
+load_crl: too many CRLs present
+crl_set_crt: %s
+this_update: %s
+Update times.
+next_update: %s
+crl set_number: %s
+crl_privkey_sign: %s
+Activation/Expiration time.
+Error reading chain
+Error reading certificate chain
+too many certificates (%d).
+no certificates were found.
+hex_encode: %s
+Cannot calculate key ID with the provided hash
+privkey_init: %s
+importing key: %s: %s
+const unsigned char %s[%u] =
+const unsigned char %s[] =
+char
+\x%.2x
+%.2x
+%.2x:
+ /* recommended key length: %d bytes */
+Recommended key length: %d bits
+generator
+prime
+none
+memory error
+Loading secret key...
+missing --secret-key
+hex_decode: %s
+import error: could not find a valid PEM header; check if your key is PKCS #12 encoded
+importing --load-privkey: %s: %s
+missing --load-privkey
+reading --load-privkey: %s
+import error: could not find a valid PEM header; check if your key is PEM encoded
+Loading certificate list...
+missing --load-certificate
+Could not open %s
+Error loading certificates: %s
+Loaded %d certificates.
+Loading CRL list...
+missing --load-crl
+Error loading CRLs: %s
+Loaded %d CRLs.
+crq_init: %s
+reading --load-request: %s
+import error: could not find a valid PEM header
+importing --load-request: %s: %s
+missing --load-ca-privkey
+reading --load-ca-privkey: %s
+missing --load-ca-certificate
+crt_init: %s
+error reading --load-ca-certificate: %s
+importing --load-ca-certificate: %s: %s
+missing --load-pubkey
+Error in %s:%d: %s
+Error in %s:%d: %s: %s
+reading --load-pubkey: %s
+import error: could not find a valid PEM header; check if your key has the PUBLIC KEY header
+importing --load-pubkey: %s: %s
+gnutls_pubkey_init: %s
+legacy
+normal
+medium
+high
+ultra
+future
+Unknown security parameter string: %s
+HIGH
+** Note: You may use '--sec-param %s' instead of '--bits %d'
+private key
+public key
+Unsupported curve: %s
+Available curves:
+	- %s
+/* curve: %s */
+curve:	%s
+modulus
+public exponent
+private exponent
+prime1
+prime2
+coefficient
+exp1
+exp2
+pubkey_print error: %s
+export error: %s
+Error in dh parameter initialization
+Error parsing dh params: %s
+Error exporting parameters: %s
+Error: %s
+Generating DH parameters (%d bits)...
+(might take long time)
+Retrieving DH parameters...
+Error generating parameters: %s
+_load_url_pubkey
+Loading private key list...
+missing --load-privkey
+privkey_init: %s
+privkey_import: %s
+---END
+Loaded %d private keys.
+- %sEC Diffie-Hellman parameters
+ - Using curve: %s
+ - Curve size: %d bits
+- %sDiffie-Hellman parameters
+ - Using prime: %d bits
+ - Secret key: %d bits
+ - Peer's public key: %d bits
+gnutls_dh_get_group %d
+gnutls_dh_params_init %d
+gnutls_dh_params_import_raw %d
+gnutls_dh_params_export_pkcs3 %d
+gnutls_malloc %d
+gnutls_dh_params_export_pkcs3-2 %d
+ - PKCS#3 format:
+%.*s
+%02X%s
+(empty)
+(too large)
+- Peer did not send any certificate.
+- Could not verify certificate (err: %s)
+- Could not print verification flags (err: %s)
+- Status: %s
+- Server has requested a certificate.
+No certificates found!
+- Certificate type: X.509
+- Got a certificate list of %d certificates.
+Decoding error: %s
+- Certificate[%d] info:
+gnutls_malloc
+Encoding error: %s
+- Certificate type: OpenPGP
+- %s
+Unknown type
+Unknown
+[ignored]
+- Description: %s
+- Session ID: %s
+Anonymous 
+- SRP authentication. Connected as '%s'
+- PSK authentication. PSK hint '%s'
+- PSK authentication. Connected as '%s'
+Ephemeral 
+- TLS/IA authentication
+- Given server name[%d]: %s
+- No certificate was sent to peer
+- Version: %s
+- Key Exchange: %s
+- Server Signature: %s
+- Client Signature: %s
+- Cipher: %s
+- MAC: %s
+- Compression: %s
+- Options:
+ extended master secret,
+ safe renegotiation,
+ EtM,
+ OCSP status request%s,
+- SRTP profile: %s
+- Application protocol: %.*s
+Channel binding error: %s
+- Channel binding 'tls-unique': 
+%02x
+- X.509 cert: %s
+- OpenPGP cert: %s
+Cipher suites for %s
+Syntax error at: %s
+%-50s	0x%02x, 0x%02x	%s
+Certificate types: 
+none
+CTYPE-%s
+Protocols: 
+VERS-%s
+Compression: 
+COMP-%s
+Elliptic curves: 
+CURVE-%s
+PK-signatures: 
+SIGN-%s
+Cipher suites:
+	Key exchange: %s
+	Cipher: %s
+	MAC: %s
+Ciphers: 
+MACs: 
+Digests: 
+Key exchange algorithms: 
+Public Key Systems: 
+*** Processing %u bytes command: %s
+**REHANDSHAKE**
+*** Sending rehandshake request
+**HEARTBEAT**
+No heartbeat in this session
+ping: %s
+GNUTLS_SO_PIN
+security officer
+GNUTLS_PIN
+user
+*** This is the final try before locking!
+*** Only few tries left before locking!
+*** Wrong PIN has been provided!
+Token '%s' with URL '%s' 
+requires %s PIN
+Too long PIN given
+Re-using cached PIN for token '%s'
+No PIN given.
+Cannot continue with a wrong password in the environment.
+note: when operating in batch mode, set the GNUTLS_PIN or GNUTLS_SO_PIN environment variables
+Enter PIN: 
+(unknown)
+certtool 3.4.17
+Copyright (C) 2000-2016 Free Software Foundation, and others, all rights reserved.
+This is free software. It is licensed for use, modification and
+redistribution under the terms of the GNU General Public License,
+version 3 or later <http://gnu.org/licenses/gpl.html>
+certtool is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option)
+any later version.
+certtool is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+details.
+You should have received a copy of the GNU General Public License along
+with this program.  If not, see <http://www.gnu.org/licenses/>.
+Enable debugging
+DEBUG
+debug
+More verbose output
+VERBOSE
+verbose
+Input file
+INFILE
+infile
+Output file
+OUTFILE
+outfile
+Generate a self-signed certificate
+GENERATE_SELF_SIGNED
+generate-self-signed
+Generate a signed certificate
+GENERATE_CERTIFICATE
+generate-certificate
+Generates a proxy certificate
+GENERATE_PROXY
+generate-proxy
+Generate a CRL
+GENERATE_CRL
+generate-crl
+Update a signed certificate
+UPDATE_CERTIFICATE
+update-certificate
+Generate a private key
+GENERATE_PRIVKEY
+generate-privkey
+Generate a PKCS #10 certificate request
+GENERATE_REQUEST
+generate-request
+Verify a PEM encoded certificate chain
+VERIFY_CHAIN
+verify-chain
+Verify a PEM encoded certificate chain using a trusted list
+VERIFY
+verify
+Verify a CRL using a trusted list
+VERIFY_CRL
+verify-crl
+Specify a hostname to be used for certificate chain verification
+VERIFY_HOSTNAME
+verify-hostname
+Specify a email to be used for certificate chain verification
+VERIFY_EMAIL
+verify-email
+Specify a purpose OID to be used for certificate chain verification
+VERIFY_PURPOSE
+verify-purpose
+Generate PKCS #3 encoded Diffie-Hellman parameters
+GENERATE_DH_PARAMS
+generate-dh-params
+Get the included PKCS #3 encoded Diffie-Hellman parameters
+GET_DH_PARAMS
+get-dh-params
+Print information PKCS #3 encoded Diffie-Hellman parameters
+DH_INFO
+dh-info
+Loads a private key file
+LOAD_PRIVKEY
+load-privkey
+Loads a public key file
+LOAD_PUBKEY
+load-pubkey
+Loads a certificate request file
+LOAD_REQUEST
+load-request
+Loads a certificate file
+LOAD_CERTIFICATE
+load-certificate
+Loads the certificate authority's private key file
+LOAD_CA_PRIVKEY
+load-ca-privkey
+Loads the certificate authority's certificate file
+LOAD_CA_CERTIFICATE
+load-ca-certificate
+Loads the provided CRL
+LOAD_CRL
+load-crl
+Loads auxilary data
+LOAD_DATA
+load-data
+Password to use
+PASSWORD
+password
+Enforce a NULL password
+NULL_PASSWORD
+null-password
+Enforce an empty password
+EMPTY_PASSWORD
+empty-password
+Print big number in an easier format to parse
+HEX_NUMBERS
+hex-numbers
+In certain operations it prints the information in C-friendly format
+CPRINT
+cprint
+Print information on the given certificate
+CERTIFICATE_INFO
+certificate-info
+Print the fingerprint of the given certificate
+FINGERPRINT
+fingerprint
+Print the key ID of the given certificate
+KEY_ID
+key-id
+Print certificate's public key
+CERTIFICATE_PUBKEY
+certificate-pubkey
+Print information on the given OpenPGP certificate
+PGP_CERTIFICATE_INFO
+pgp-certificate-info
+Print information on the given OpenPGP keyring structure
+PGP_RING_INFO
+pgp-ring-info
+Print information on the given CRL structure
+CRL_INFO
+crl-info
+Print information on the given certificate request
+CRQ_INFO
+crq-info
+Do not use extensions in certificate requests
+NO_CRQ_EXTENSIONS
+no-crq-extensions
+Print information on a PKCS #12 structure
+P12_INFO
+p12-info
+The PKCS #12 friendly name to use
+P12_NAME
+p12-name
+Generate a PKCS #7 structure
+P7_GENERATE
+p7-generate
+Signs using a PKCS #7 structure
+P7_SIGN
+p7-sign
+Signs using a detached PKCS #7 structure
+P7_DETACHED_SIGN
+p7-detached-sign
+The signer's certificate will be included in the cert list.
+P7_INCLUDE_CERT
+no-p7-include-cert
+Will include a timestamp in the PKCS #7 structure
+P7_TIME
+p7-time
+Will show the embedded data in the PKCS #7 structure
+P7_SHOW_DATA
+no-p7-show-data
+Print information on a PKCS #7 structure
+P7_INFO
+p7-info
+Verify the provided PKCS #7 structure
+P7_VERIFY
+p7-verify
+Print information on a PKCS #8 structure
+P8_INFO
+p8-info
+Convert S/MIME to PKCS #7 structure
+SMIME_TO_P7
+smime-to-p7
+Print information on a private key
+KEY_INFO
+key-info
+Print information on an OpenPGP private key
+PGP_KEY_INFO
+pgp-key-info
+Print information on a public key
+PUBKEY_INFO
+pubkey-info
+Generate an X.509 version 1 certificate (with no extensions)
+Generate a PKCS #12 structure
+TO_P12
+to-p12
+Generate a PKCS #8 structure
+TO_P8
+to-p8
+Use PKCS #8 format for private keys
+PKCS8
+pkcs8
+Generate RSA key
+Generate DSA key
+Generate ECC (ECDSA) key
+an alias for the 'ecc' option
+ecdsa
+Hash algorithm to use for signing
+HASH
+hash
+Use DER format for input certificates, private keys, and DH parameters
+INDER
+no-inder
+an alias for the 'inder' option
+inraw
+Use DER format for output certificates, private keys, and DH parameters
+OUTDER
+no-outder
+an alias for the 'outder' option
+outraw
+Specify the number of bits for key generate
+BITS
+bits
+Specify the curve used for EC key generation
+CURVE
+curve
+Specify the security level [low, legacy, medium, high, ultra]
+SEC_PARAM
+sec-param
+No effect
+DISABLE_QUICK_RANDOM
+disable-quick-random
+Template file to use for non-interactive operation
+TEMPLATE
+template
+Print information to stdout instead of stderr
+STDOUT_INFO
+stdout-info
+Enable interaction for entering password when in batch mode.
+ASK_PASS
+ask-pass
+Cipher to use for PKCS #8 and #12 operations
+PKCS_CIPHER
+pkcs-cipher
+Specify the PKCS #11 provider library
+PROVIDER
+provider
+display extended usage information and exit
+help
+extended usage information passed thru pager
+more-help
+output version information and exit
+version
+CERTTOOL
+certtool - GnuTLS certificate tool
+Usage:  %s [ -<flag> [<val>] | --<name>[{=| }<val>] ]...
+bugs@gnutls.org
+Tool to parse and generate X.509 certificates, requests and private keys.
+It can be used interactively or non interactively by specifying the
+template command line option.
+The tool accepts files or URLs supported by GnuTLS.  In case PIN is
+required for the URL access you can provide it using the environment
+variables GNUTLS_PIN and GNUTLS_SO_PIN.
+certtool 3.4.17
+certtool [options]
+certtool --help for usage instructions.
+Overflow while parsing days
+Trailing garbage ignored: `%s'
+Integer out of range: `%s' (max: %llu)
+error in get_serial()!
+%s (default: %llu): 
+Cannot parse date: %s
+Error in IPv6 address %s
+Error in IPv4 address %s
+The certificate will expire in (days): 
+configFileLoad
+Error loading template: %s
+unit
+Warning: multiple options found for '%s'; only the first will be taken into account.
+organization
+locality
+state
+issuer_unique_id
+error in hex ID: %s
+subject_unique_id
+challenge_password
+password
+pkcs9_email
+country
+expiration_date
+activation_date
+crl_revocation_date
+crl_this_update_date
+crl_next_update_date
+policy%d
+policy%d_url
+policy%d_txt
+dns_name
+ip_address
+email
+key_purpose_oid
+nc_exclude_dns
+nc_exclude_email
+nc_permit_dns
+nc_permit_email
+dn_oid
+Error parsing %s
+Error (2) parsing %s
+crl_dist_points
+pkcs12_key_name
+serial
+overflow in number
+expiration_days
+crl_next_update
+crl_number
+path_len
+proxy_policy_language
+ocsp_uri
+ca_issuers_uri
+honor_crq_extensions
+tls_www_client
+tls_www_server
+signing_key
+encryption_key
+cert_signing_key
+crl_signing_key
+code_signing_key
+ocsp_signing_key
+time_stamping_key
+ipsec_ike_key
+data_encipherment
+key_agreement
+non_repudiation
+Warning: skipping unknown option '%s'
+set_dn: %s
+Enter password: 
+Password mismatch, try again.
+Confirm password: 
+Enter a challenge password: 
+Enter the URI of the CRL distribution point: 
+gnutls_x509_crt_set_crl_dist_points: %s
+2.5.4.6
+Country name (2 chars): 
+2.5.4.10
+Organization name: 
+2.5.4.11
+Organizational unit name: 
+2.5.4.8
+State or province name: 
+2.5.4.7
+Locality name: 
+2.5.4.3
+set_dn_by_oid: %s
+Common name: 
+set_dn: %s at: %s
+nc_init: %s
+error adding constraint: %s
+error setting constraints: %s
+error setting subject unique ID: %s
+error setting issuer unique ID: %s
+0.9.2342.19200300.100.1.1
+UID: 
+dn_oid: %s does not have an argument.
+set_dn_oid: %s
+set_key_purpose_oid (%s): %s
+set OCSP URI (%s): %s
+set CA ISSUERS URI (%s): %s
+1.2.840.113549.1.9.1
+E-mail: 
+Enter the certificate's serial number in decimal
+Does the certificate belong to an authority? (y/N): 
+Do you want to honour the extensions from the request? (y/N): 
+CRL Number
+Path length constraint (decimal, %d for no constraint): 
+Anonymous
+Enter a name for the key: 
+Is this a TLS web client certificate? (y/N): 
+Is this a TLS web server certificate? (y/N): 
+Error parsing address: %s
+Enter the IP address of the subject of the certificate: 
+set_subject_alt_name: %s
+Enter the e-mail of the subject of the certificate: 
+0.9.2342.19200300.100.1.25
+Enter the subject's domain component (DC): 
+Enter a dnsName of the subject of the certificate: 
+set_policy: %s
+Enter a URI of the subject of the certificate: 
+Will the certificate be used for signing (DHE ciphersuites)? (Y/n): 
+Will the certificate be used for signing (required for TLS)? (Y/n): 
+Will the certificate be used for encryption (RSA ciphersuites)? (Y/n): 
+Will the certificate be used for encryption (not required for TLS)? (Y/n): 
+Will the certificate be used to sign other certificates? (y/N): 
+Will the certificate be used to sign CRLs? (y/N): 
+Will the certificate be used to sign code? (y/N): 
+Will the certificate be used to sign OCSP requests? (y/N): 
+Will the certificate be used for time stamping? (y/N): 
+Will the certificate be used for IPsec IKE operations? (y/N): 
+1.3.6.1.5.5.7.21.1
+Enter the OID of the proxy policy language: 
+1.3.6.1.5.5.7.21.2
+Reading non-standard proxy policy not supported.
+policy*
+0123456789abcdef
+XXX%s%ld:%02d
+JANUARY
+YEAR
+TOMORROW
+TZ="
+WEST
+BRST
+CLST
+AKST
+AKDT
+HAST
+HADT
+CEST
+MEST
+MESZ
+EEST
+SAST
+NZST
+NZDT
+YESTERDAY
+TODAY
+LAST
+THIS
+NEXT
+FIRST
+THIRD
+FOURTH
+FIFTH
+SIXTH
+SEVENTH
+EIGHTH
+NINTH
+TENTH
+ELEVENTH
+TWELFTH
+HENCE
+MONTH
+FORTNIGHT
+WEEK
+HOUR
+MINUTE
+SECOND
+FEBRUARY
+MARCH
+APRIL
+JUNE
+JULY
+AUGUST
+SEPTEMBER
+SEPT
+OCTOBER
+NOVEMBER
+DECEMBER
+SUNDAY
+MONDAY
+TUESDAY
+TUES
+WEDNESDAY
+WEDNES
+THURSDAY
+THUR
+THURS
+FRIDAY
+SATURDAY
+A.M.
+P.M.
+         !"####$$$%%&''((((((())))*********+,,,---------------------....../0011223455
+OCDEFGH:IdkJKenL12efqM;N=>?@AB=>?@ABee\oZ[jpXo
+345678
+9=>?@AB<0P/
+TUVW^_`Yiabc
+ !"#gh$%&'()*+,	
+UWTV
+8;ADI>Q%#
+-69?BE<'$Z KLNOPM7:@CF=(
+YGH!
+"+02
+(NULL)
+exit %d
+keyword
+set-membership
+true
+false
+</%s>
+ [arg]
+   -%c
+no memory for char-mapper span map
+%s/%s
+PATH
+%s=%s
+--%s%s
+%s%s
+YMWD
+stat
+open
+fopen
+SHELL
+/bin/bash
+fstat
+freopen
+readonly %s_
+reset.c
+0 == 1
+AUTOOPTS_USAGE
+read
+libopts
+POSIXLY_CORRECT
+--help
+41.1
+%%-%us %%s
+LONGUSAGE
+USAGE
+VERSION
+autoopts
+no_misuse_usage
+misuse_usage
+compute
+amp;
+bel;
+space;
+quot;
+apos;
+amp;
+quot;
+apos;
+genshellopt 1
+Copyright (C) 1999-2014 Bruce Korb, all rights reserved.
+This is free software. It is licensed for use, modification and
+redistribution under the terms of the GNU Lesser General Public License,
+version 2 or later <http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html>
+The genshellopt library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Library General Public License as
+published by the Free Software Foundation; either version 2 of the License,
+or (at your option) any later version.
+This library is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public
+License for more details.
+You should have received a copy of the GNU Library General Public License
+along with this library; if not, see
+<http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html>
+Output Script File
+SCRIPT
+script
+Shell name (follows "#!" magic)
+SHELL
+no-shell
+display extended usage information and exit
+help
+extended usage information passed thru pager
+more-help
+output version information and exit
+version
+GENSHELLOPT
+genshellopt - Generate Shell Option Processing Script - Ver. 1
+Usage:  %s [ -<flag> [<val>] | --<name>[{=| }<val>] ]...
+autogen-users@lists.sourceforge.net
+Note that 'shell' is only useful if the output file does not already exist.
+If it does, then the shell name and optional first argument will be
+extracted from the script file.
+If the script file already exists and contains Automated Option Processing
+text, the second line of the file through the ending tag will be replaced
+by the newly generated text.  The first '#!' line will be regenerated.
+genshellopt 1
+type
+words
+cooked
+members
+uncooked
+keep
+bool
+string
+boolean
+hierarchy
+nested
+integer
+  %s%s
+auto-options
+program
+%%-%ds %%s
+=file
+=Mbr
+=Cplx
+[=arg]
+--%2$s%1$s
+=Tim
+none
+#  preset/initialization file
+#  %s#
+ %3s %-14s %s
+				- 
+				  
+				-- and 
+				%s
+      
+     
+%s_%s_%d=
+        ;;
+</%s>
+  %s
+%%-%ds
+export %s_%s_%d
+false
+    -* )
+flag
+INVALID-%d
+*INVALID*
+    --* )
+LONGUSAGE
+            %s
+\%03o
+more
+<%s type=nested>
+OPT_ARG_NEEDED=NO
+<%s/>
+OPT_ARG_NEEDED=OK
+<%s>
+option
+export %s_%s
+%s_%s=
+PAGER
+%1$s %2$s ; rm -f %2$s
+  puts(_(%s));
+'%s'
+ -- %s
+%s_%s_TEXT='
+#! %s
+env | grep '^%s_'
+=%1$lu # 0x%1$lX
+stdout
+%A %B %e, %Y at %r %Z
+TMPDIR
+%s/use-%u.XXXXXX
+true
+<%s type=%s>
+VERSION
+#x%02X;
+OPT_ARG_NEEDED=YES
+'\''
+ '%s'
+libopts misguessed length of string
+OPTION_CT=0
+set --
+/tmp
+            ;;
+        '%c' )
+        '%s' )
+        '%s' | \
+<%1$s type=boolean>%2$s</%1$s>
+#  From the %s option definitions
+echo 'Warning:  Cannot load options files' >&2
+echo 'Warning:  Cannot save options files' >&2
+echo 'Warning:  Cannot suppress the loading of options files' >&2
+<%1$s type=integer>0x%2$lX</%1$s>
+%1$s_%2$s_TEXT='no %2$s text'
+%1$s_%2$s_MODE='%3$s'
+export %1$s_%2$s_MODE
+%1$s_%2$s='%3$s'
+export %1$s_%2$s
+%1$s_%2$s_CT=%3$d
+export %1$s_%2$s_CT
+OPTION_CT=%d
+export OPTION_CT
+%1$s_%2$s=%3$s
+export %1$s_%2$s
+%1$s_%2$s=%3$d # 0x%3$X
+export %1$s_%2$s
+        case "${OPT_CODE}" in
+            if [ $%1$s_%2$s_CT -gt %3$u ] ; then
+                echo 'Error:  more than %3$d %2$s options'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+test ${%1$s_%2$s_CT-0} -ge %3$u || {
+    echo %1$s_%2$s has not been set
+    exit 1
+} 1>&2
+test -n "$%1$s_%2$s" || {
+    echo %1$s_%2$s has not been set
+    exit 1
+} 1>&2
+            echo "$%s_%s_TEXT"
+            exit 0
+# # # # # # # # # #
+#  END OF AUTOMATED OPTION PROCESSING
+# # # # # # # # # # -- do not modify this marker --
+    if [ -n "${OPT_ARG_VAL}" ]
+    then
+        eval %1$s_${OPT_NAME}${OPT_ELEMENT}="'${OPT_ARG_VAL}'"
+        export %1$s_${OPT_NAME}${OPT_ELEMENT}
+    fi
+done
+OPTION_COUNT=`expr $ARG_COUNT - $#`
+OPERAND_COUNT=$#
+unset OPT_PROCESS || :
+unset OPT_ELEMENT || :
+unset OPT_ARG     || :
+unset OPT_ARG_NEEDED || :
+unset OPT_NAME    || :
+unset OPT_CODE    || :
+unset OPT_ARG_VAL || :
+        OPT_CODE=`echo "X${OPT_ARG}"|sed 's/^X-*//'`
+        shift
+        OPT_ARG=$1
+        case "${OPT_CODE}" in *=* )
+            OPT_ARG_VAL=`echo "${OPT_CODE}"|sed 's/^[^=]*=//'`
+            OPT_CODE=`echo "${OPT_CODE}"|sed 's/=.*$//'` ;; esac
+        OPT_CODE=`echo "X${OPT_ARG}" | sed 's/X-\(.\).*/\1/'`
+        OPT_ARG=` echo "X${OPT_ARG}" | sed 's/X-.//'`
+ARG_COUNT=$#
+OPT_PROCESS=true
+OPT_ARG=$1
+while ${OPT_PROCESS} && [ $# -gt 0 ]
+    OPT_ELEMENT=''
+    OPT_ARG_VAL=''
+    case "${OPT_ARG}" in
+    -- )
+        OPT_PROCESS=false
+        shift
+        ;;
+        case "${OPT_ARG_NEEDED}" in
+        NO )
+            OPT_ARG_VAL=''
+            ;;
+        YES )
+            if [ -z "${OPT_ARG_VAL}" ]
+            then
+                if [ $# -eq 0 ]
+                then
+                    echo No argument provided for ${OPT_NAME} option
+                    echo "$%s_USAGE_TEXT"
+                    exit 1
+                fi >&2
+                OPT_ARG_VAL=${OPT_ARG}
+                shift
+                OPT_ARG=$1
+            fi
+            ;;
+        OK )
+            if [ -z "${OPT_ARG_VAL}" ] && [ $# -gt 0 ]
+            then
+                case "${OPT_ARG}" in -* ) ;; * )
+                    OPT_ARG_VAL=${OPT_ARG}
+                    shift
+                    OPT_ARG=$1 ;; esac
+            fi
+            ;;
+        esac
+            %1$s_%2$s_CT=`expr ${%1$s_%2$s_CT} + 1`
+            OPT_ELEMENT="_${%1$s_%2$s_CT}"
+            OPT_NAME='%2$s'
+if test -z "${%1$s_%2$s}"
+then
+  %1$s_%2$s_CT=0
+  export %1$s_%2$s_CT
+else
+  %1$s_%2$s_CT=1
+  %1$s_%2$s_1=${%1$s_%2$s}
+  export %1$s_%2$s_CT %1$s_%2$s_1
+    * )
+         OPT_PROCESS=false
+         ;;
+    esac
+            %1$s_%2$s_CT=0
+            OPT_ELEMENT=''
+            %1$s_%2$s='%3$s'
+            export %1$s_%2$s
+            OPT_NAME='%2$s'
+            if [ -n "${%1$s_%2$s}" ] && ${%1$s_%2$s_set} ; then
+                echo 'Error:  duplicate %2$s option'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+            %1$s_%2$s_set=true
+            %1$s_%2$s='%3$s'
+            export %1$s_%2$s
+            OPT_NAME='%2$s'
+ARG_COUNT=$#
+OPT_ARG=$1
+while [ $# -gt 0 ]
+    OPT_ELEMENT=''
+    OPT_ARG_VAL=''
+    OPT_ARG=${1}
+        case "${OPT_ARG_NEEDED}" in
+        NO )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG=-${OPT_ARG}
+            else
+                shift
+                OPT_ARG=$1
+            fi
+            ;;
+        YES )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG_VAL=${OPT_ARG}
+            else
+                if [ $# -eq 0 ]
+                then
+                    echo No argument provided for ${OPT_NAME} option
+                    echo "$%s_USAGE_TEXT"
+                    exit 1
+                fi >&2
+                shift
+                OPT_ARG_VAL=$1
+            fi
+            shift
+            OPT_ARG=$1
+            ;;
+        OK )
+            if [ -n "${OPT_ARG}" ]
+            then
+                OPT_ARG_VAL=${OPT_ARG}
+                shift
+                OPT_ARG=$1
+            else
+                shift
+                if [ $# -gt 0 ]
+                then
+                    case "$1" in -* ) ;; * )
+                        OPT_ARG_VAL=$1
+                        shift ;; esac
+                    OPT_ARG=$1
+                fi
+            fi
+            ;;
+        esac
+            echo "$%s_LONGUSAGE_TEXT" | ${PAGER-more}
+            exit 0
+%s OF %s
+#  From here to the next `-- do not modify this marker --',
+#  the text has been generated %s
+            eval %1$s_%2$s${OPT_ELEMENT}=true
+            export %1$s_%2$s${OPT_ELEMENT}
+            if [ -n "${%1$s_%2$s}" ] && ${%1$s_%2$s_set} ; then
+                echo 'Error:  duplicate %2$s option'
+                echo "$%1$s_USAGE_TEXT"
+                exit 1
+            fi >&2
+            %1$s_%2$s_set=true
+            OPT_NAME='%2$s'
+%1$s_%2$s=${%1$s_%2$s-'%3$s'}
+%1$s_%2$s_set=false
+export %1$s_%2$s
+%1$s_%2$s=${%1$s_%2$s}
+%1$s_%2$s_set=false
+export %1$s_%2$s
+# # # # # # # # # # -- do not modify this marker --
+#  DO NOT EDIT THIS SECTION
+        * )
+            echo Unknown %s: "${OPT_CODE}" >&2
+            echo "$%s_USAGE_TEXT" >&2
+            exit 1
+            ;;
+        esac
+allocation of %d bytes failed
+AutoOpts function called without option descriptor
+	This exceeds the compiled library version:  
+Automated Options Processing Error!
+	%s called AutoOpts function with structure version %d:%d:%d.
+realloc of %d bytes at 0x%p failed
+	This is less than the minimum library version:  
+Automated Options version %s
+	Copyright (C) 1999-2014 by Bruce Korb - all rights reserved
+(AutoOpts bug):  %s.
+optionResetOpt() called, but reset-option not configured
+could not locate the 'help' option
+optionProcess() was called with invalid data
+invalid argument type specified
+defaulted to option with optional arg
+aliasing option is out of range.
+%s error:  the keyword '%s' is ambiguous for %s
+  The following options match:
+%s: ambiguous option name: %s (matches %d options)
+%s: Command line arguments required
+%d %s%s options allowed
+%s error %d (%s) calling %s for '%s'
+interprocess pipe
+error: version option argument '%c' invalid.  Use:
+	'v' - version only
+	'c' - version and copyright
+	'n' - version and full copyright notice
+%s error:  the '%s' and '%s' options conflict
+%s: The '%s' option has been disabled.
+-equivalence
+%s: illegal option -- %c
+%s: illegal option -- %s
+%s: unknown vendor extension option -- %s
+  or an integer from %d through %d
+%s error:  invalid option descriptor for %s
+%s: invalid option name: %s
+%s: The '%s' option requires an argument.
+(AutoOpts bug):  Equivalenced option '%s' was equivalenced to both
+	'%s' and '%s'.
+%s error:  The %s option is required
+%s: The '%s' option cannot have an argument.
+%s: Command line arguments are not allowed.
+error %d (%s) creating %s
+%s error:  '%s' does not match any %s keywords.
+%s error: The '%s' option requires an argument.
+error %d (%s) stat-ing %s
+%s error: no saved option state
+'%s' is not a command line option.
+%s error:  '%s' is not a recognizable date/time.
+'%s' not defined
+%s error:  '%s' is not a recognizable time duration.
+%s error:  The %s option must appear %d times.
+%s error:  '%s' is not a recognizable number.
+%s error:  %s exceeds %s keyword count
+Try '%s %s' for more information.
+one %s%s option allowed
+standard output
+standard error
+write
+%s error:  %s option value %ld is out of range.
+%s error:  %s option requires the %s option
+%s warning:  cannot save options - %s not regular file
+				- an alternate for '%s'
+Version, usage and configuration options:
+				- default option for unnamed options
+				- disabled as '--%s'
+ --- %-14s %s
+This option has been disabled
+				- enabled by default
+%s error:  only 
+ - examining environment variables named %s_*
+				- file must not pre-exist
+				- file must pre-exist
+Options are specified by doubled hyphens and their name or by a single
+hyphen and the flag character.
+= = = = = = = =
+This incarnation of genshell will produce
+a shell script to parse the options for %s:
+  or an integer mask with any of the lower %d bits set
+				- is a set membership option
+				- must appear between %d and %d times
+Options are specified by single or double hyphens and their name.
+				- may appear multiple times
+				- may not be preset
+   Arg Option-Name    Description
+  Flg Arg Option-Name    Description
+ %3s %s
+The '-#<number>' option may omit the hash char
+All arguments are named options.
+ - reading file %s
+Please send bug reports to:  <%s>
+				- may NOT appear - preset only
+The following option preset mechanisms are supported:
+prohibits these options:
+prohibits the option '%s'
+%s%ld to %ld
+%sgreater than or equal to %ld
+%s%ld exactly
+%sit must lie in one of the ranges:
+%sit must be in the range:
+, or
+%sis scalable with a suffix: k/K/m/M/g/G/t/T
+%sless than or equal to %ld
+Operands and options may be intermixed.  They will be reordered.
+requires the option '%s'
+requires these options:
+   Arg Option-Name   Req?  Description
+  Flg Arg Option-Name   Req?  Description
+or you may use a numeric representation.  Preceding these with a '!'
+will clear the bits, specifying 'none' will clear all bits, and 'all'
+will set them all.  Multiple entries may be passed as an option
+argument list.
+				- may appear up to %d times
+The valid "%s" option keywords are:
+The next option supports vendor supported extra options:
+These additional options are:
+41:1:16
+memory exhausted
+Unknown system error
+: %s
+%s: 
+%s:%u: 
+A NULL argv[0] was passed through an exec system call.
+/.libs/
+Unknown error %d
+Success
+Text file busy
+No data available
+Out of streams resources
+Device not a stream
+Timer expired
+Other error
+Socket type not supported
+Protocol family not supported
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Host is down
+Too many processes
+Too many users
+Disk quota exceeded
+Stale NFS file handle
+Object is remote
+Overlapped operation aborted
+Overlapped I/O event object not in signaled state
+Overlapped operations will complete later
+Network subsystem is unavailable
+Winsock.dll version out of range
+Successful WSAStartup not yet performed
+Graceful shutdown in progress
+No more results
+Call was canceled
+Procedure call table is invalid
+Service provider is invalid
+Service provider failed to initialize
+System call failure
+Service not found
+Class type not found
+Database query was refused
+Host not found
+Nonauthoritative host not found
+Nonrecoverable error
+Valid name, no data record of requested type
+No message of desired type
+Identifier removed
+Link has been severed
+Multihop attempted
+Bad message
+State not recoverable
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+(null)
+PRINTF_EXPONENT_DIGITS
+Infinity
+?aCoc
+<2ZGU
+vH7B
+W4vC
+[%Co
+O8M2
+_set_output_format
+_get_output_format
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+gnutls_alpn_get_selected_protocol
+gnutls_auth_get_type
+gnutls_certificate_client_get_request_status
+gnutls_certificate_get_ours
+gnutls_certificate_get_peers
+gnutls_certificate_type_get
+gnutls_certificate_type_get_name
+gnutls_certificate_type_list
+gnutls_certificate_verification_status_print
+gnutls_certificate_verify_peers
+gnutls_cipher_get
+gnutls_cipher_get_name
+gnutls_cipher_list
+gnutls_cipher_suite_info
+gnutls_compression_get
+gnutls_compression_get_name
+gnutls_compression_list
+gnutls_dh_get_group
+gnutls_dh_get_peers_public_bits
+gnutls_dh_get_prime_bits
+gnutls_dh_get_secret_bits
+gnutls_dh_params_deinit
+gnutls_dh_params_export_pkcs3
+gnutls_dh_params_export_raw
+gnutls_dh_params_generate2
+gnutls_dh_params_import_pkcs3
+gnutls_dh_params_import_raw
+gnutls_dh_params_init
+gnutls_digest_get_name
+gnutls_digest_list
+gnutls_ecc_curve_get
+gnutls_ecc_curve_get_name
+gnutls_ecc_curve_get_size
+gnutls_ecc_curve_list
+gnutls_free
+gnutls_global_deinit
+gnutls_global_init
+gnutls_global_set_log_function
+gnutls_global_set_log_level
+gnutls_heartbeat_ping
+gnutls_hex_decode
+gnutls_hex_decode2
+gnutls_hex_encode
+gnutls_hex_encode2
+gnutls_kx_get
+gnutls_kx_get_name
+gnutls_kx_list
+gnutls_load_file
+gnutls_mac_get
+gnutls_mac_get_name
+gnutls_mac_list
+gnutls_malloc
+gnutls_ocsp_status_request_is_checked
+gnutls_openpgp_crt_deinit
+gnutls_openpgp_crt_export
+gnutls_openpgp_crt_import
+gnutls_openpgp_crt_init
+gnutls_openpgp_crt_print
+gnutls_openpgp_crt_verify_self
+gnutls_openpgp_keyring_deinit
+gnutls_openpgp_keyring_get_crt
+gnutls_openpgp_keyring_get_crt_count
+gnutls_openpgp_keyring_import
+gnutls_openpgp_keyring_init
+gnutls_openpgp_privkey_deinit
+gnutls_openpgp_privkey_export
+gnutls_openpgp_privkey_export_dsa_raw
+gnutls_openpgp_privkey_export_rsa_raw
+gnutls_openpgp_privkey_export_subkey_dsa_raw
+gnutls_openpgp_privkey_export_subkey_rsa_raw
+gnutls_openpgp_privkey_get_fingerprint
+gnutls_openpgp_privkey_get_key_id
+gnutls_openpgp_privkey_get_pk_algorithm
+gnutls_openpgp_privkey_get_subkey_count
+gnutls_openpgp_privkey_get_subkey_fingerprint
+gnutls_openpgp_privkey_get_subkey_id
+gnutls_openpgp_privkey_get_subkey_pk_algorithm
+gnutls_openpgp_privkey_import
+gnutls_openpgp_privkey_init
+gnutls_openpgp_privkey_sec_param
+gnutls_pem_base64_encode2
+gnutls_pk_algorithm_get_name
+gnutls_pk_bits_to_sec_param
+gnutls_pk_list
+gnutls_pkcs12_bag_decrypt
+gnutls_pkcs12_bag_deinit
+gnutls_pkcs12_bag_enc_info
+gnutls_pkcs12_bag_encrypt
+gnutls_pkcs12_bag_get_count
+gnutls_pkcs12_bag_get_data
+gnutls_pkcs12_bag_get_friendly_name
+gnutls_pkcs12_bag_get_key_id
+gnutls_pkcs12_bag_get_type
+gnutls_pkcs12_bag_init
+gnutls_pkcs12_bag_set_crt
+gnutls_pkcs12_bag_set_data
+gnutls_pkcs12_bag_set_friendly_name
+gnutls_pkcs12_bag_set_key_id
+gnutls_pkcs12_deinit
+gnutls_pkcs12_export
+gnutls_pkcs12_generate_mac
+gnutls_pkcs12_get_bag
+gnutls_pkcs12_import
+gnutls_pkcs12_init
+gnutls_pkcs12_mac_info
+gnutls_pkcs12_set_bag
+gnutls_pkcs12_verify_mac
+gnutls_pkcs7_deinit
+gnutls_pkcs7_export
+gnutls_pkcs7_export2
+gnutls_pkcs7_get_attr
+gnutls_pkcs7_get_embedded_data
+gnutls_pkcs7_get_signature_info
+gnutls_pkcs7_import
+gnutls_pkcs7_init
+gnutls_pkcs7_print
+gnutls_pkcs7_set_crl
+gnutls_pkcs7_set_crt
+gnutls_pkcs7_sign
+gnutls_pkcs7_signature_info_deinit
+gnutls_pkcs7_verify
+gnutls_pkcs7_verify_direct
+gnutls_pkcs8_info
+gnutls_pkcs_schema_get_name
+gnutls_pkcs_schema_get_oid
+gnutls_priority_certificate_type_list
+gnutls_priority_compression_list
+gnutls_priority_ecc_curve_list
+gnutls_priority_get_cipher_suite_index
+gnutls_priority_init
+gnutls_priority_protocol_list
+gnutls_priority_sign_list
+gnutls_privkey_deinit
+gnutls_privkey_import_url
+gnutls_privkey_import_x509
+gnutls_privkey_import_x509_raw
+gnutls_privkey_init
+gnutls_protocol_get_name
+gnutls_protocol_get_version
+gnutls_protocol_list
+gnutls_psk_client_get_hint
+gnutls_psk_server_get_username
+gnutls_pubkey_deinit
+gnutls_pubkey_export
+gnutls_pubkey_get_key_id
+gnutls_pubkey_get_pk_algorithm
+gnutls_pubkey_get_preferred_hash_algorithm
+gnutls_pubkey_import
+gnutls_pubkey_import_privkey
+gnutls_pubkey_import_url
+gnutls_pubkey_import_x509
+gnutls_pubkey_import_x509_crq
+gnutls_pubkey_init
+gnutls_pubkey_print
+gnutls_random_art
+gnutls_rehandshake
+gnutls_rnd
+gnutls_safe_renegotiation_status
+gnutls_sec_param_get_name
+gnutls_sec_param_to_pk_bits
+gnutls_server_name_get
+gnutls_session_channel_binding
+gnutls_session_etm_status
+gnutls_session_ext_master_secret_status
+gnutls_session_get_desc
+gnutls_session_get_id
+gnutls_sign_algorithm_get
+gnutls_sign_algorithm_get_client
+gnutls_sign_get_name
+gnutls_sign_list
+gnutls_srp_1024_group_generator
+gnutls_srp_1024_group_prime
+gnutls_srp_1536_group_generator
+gnutls_srp_1536_group_prime
+gnutls_srp_2048_group_generator
+gnutls_srp_2048_group_prime
+gnutls_srp_3072_group_generator
+gnutls_srp_3072_group_prime
+gnutls_srp_4096_group_generator
+gnutls_srp_4096_group_prime
+gnutls_srp_server_get_username
+gnutls_srtp_get_profile_name
+gnutls_srtp_get_selected_profile
+gnutls_strerror
+gnutls_url_is_supported
+gnutls_x509_crl_deinit
+gnutls_x509_crl_export2
+gnutls_x509_crl_get_issuer_dn
+gnutls_x509_crl_get_number
+gnutls_x509_crl_import
+gnutls_x509_crl_init
+gnutls_x509_crl_list_import2
+gnutls_x509_crl_print
+gnutls_x509_crl_privkey_sign
+gnutls_x509_crl_set_authority_key_id
+gnutls_x509_crl_set_crt
+gnutls_x509_crl_set_next_update
+gnutls_x509_crl_set_number
+gnutls_x509_crl_set_this_update
+gnutls_x509_crl_set_version
+gnutls_x509_crl_verify
+gnutls_x509_crq_deinit
+gnutls_x509_crq_export
+gnutls_x509_crq_import
+gnutls_x509_crq_init
+gnutls_x509_crq_print
+gnutls_x509_crq_privkey_sign
+gnutls_x509_crq_set_basic_constraints
+gnutls_x509_crq_set_challenge_password
+gnutls_x509_crq_set_dn
+gnutls_x509_crq_set_dn_by_oid
+gnutls_x509_crq_set_key_purpose_oid
+gnutls_x509_crq_set_key_usage
+gnutls_x509_crq_set_pubkey
+gnutls_x509_crq_set_subject_alt_name
+gnutls_x509_crq_verify
+gnutls_x509_crt_cpy_crl_dist_points
+gnutls_x509_crt_deinit
+gnutls_x509_crt_export
+gnutls_x509_crt_get_dn
+gnutls_x509_crt_get_expiration_time
+gnutls_x509_crt_get_fingerprint
+gnutls_x509_crt_get_issuer_dn
+gnutls_x509_crt_get_key_id
+gnutls_x509_crt_get_pk_algorithm
+gnutls_x509_crt_get_subject_key_id
+gnutls_x509_crt_import
+gnutls_x509_crt_init
+gnutls_x509_crt_list_import
+gnutls_x509_crt_list_import2
+gnutls_x509_crt_print
+gnutls_x509_crt_privkey_sign
+gnutls_x509_crt_set_activation_time
+gnutls_x509_crt_set_authority_info_access
+gnutls_x509_crt_set_authority_key_id
+gnutls_x509_crt_set_basic_constraints
+gnutls_x509_crt_set_crl_dist_points
+gnutls_x509_crt_set_crq
+gnutls_x509_crt_set_crq_extensions
+gnutls_x509_crt_set_dn
+gnutls_x509_crt_set_dn_by_oid
+gnutls_x509_crt_set_expiration_time
+gnutls_x509_crt_set_issuer_unique_id
+gnutls_x509_crt_set_key_purpose_oid
+gnutls_x509_crt_set_key_usage
+gnutls_x509_crt_set_name_constraints
+gnutls_x509_crt_set_policy
+gnutls_x509_crt_set_proxy
+gnutls_x509_crt_set_proxy_dn
+gnutls_x509_crt_set_pubkey
+gnutls_x509_crt_set_serial
+gnutls_x509_crt_set_subject_alt_name
+gnutls_x509_crt_set_subject_key_id
+gnutls_x509_crt_set_subject_unique_id
+gnutls_x509_crt_set_version
+gnutls_x509_dn_deinit
+gnutls_x509_dn_get_str
+gnutls_x509_dn_import
+gnutls_x509_dn_init
+gnutls_x509_name_constraints_add_excluded
+gnutls_x509_name_constraints_add_permitted
+gnutls_x509_name_constraints_deinit
+gnutls_x509_name_constraints_init
+gnutls_x509_privkey_deinit
+gnutls_x509_privkey_export
+gnutls_x509_privkey_export_dsa_raw
+gnutls_x509_privkey_export_ecc_raw
+gnutls_x509_privkey_export_pkcs8
+gnutls_x509_privkey_export_rsa_raw2
+gnutls_x509_privkey_generate
+gnutls_x509_privkey_get_key_id
+gnutls_x509_privkey_get_pk_algorithm2
+gnutls_x509_privkey_import2
+gnutls_x509_privkey_import_pkcs8
+gnutls_x509_privkey_init
+gnutls_x509_privkey_sec_param
+gnutls_x509_privkey_verify_params
+gnutls_x509_trust_list_add_cas
+gnutls_x509_trust_list_add_crls
+gnutls_x509_trust_list_add_system_trust
+gnutls_x509_trust_list_add_trust_mem
+gnutls_x509_trust_list_deinit
+gnutls_x509_trust_list_init
+gnutls_x509_trust_list_verify_crt
+gnutls_x509_trust_list_verify_crt2
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileAttributesA
+GetLastError
+GetModuleFileNameW
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+GetTimeZoneInformation
+InitializeCriticalSection
+IsDBCSLeadByteEx
+LeaveCriticalSection
+MultiByteToWideChar
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WideCharToMultiByte
+__C_specific_handler
+___lc_codepage_func
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_ctime64
+_environ
+_errno
+_exit
+_findclose
+_findfirst64
+_fmode
+_fstat64
+_fullpath
+_get_osfhandle
+_getch
+_gmtime64
+_initterm
+_localtime64
+_lock
+_lseeki64
+_onexit
+_snwprintf
+_stricmp
+_strnicmp
+_time64
+_unlock
+abort
+atoi
+calloc
+exit
+fclose
+ferror
+fflush
+fgetpos
+fgets
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+freopen
+fseek
+ftell
+fwprintf
+fwrite
+getc
+getenv
+islower
+isspace
+isupper
+localeconv
+malloc
+memcmp
+memcpy
+memmove
+memset
+perror
+putc
+raise
+realloc
+signal
+strchr
+strcmp
+strcpy
+strerror
+strftime
+strlen
+strncmp
+strncpy
+strpbrk
+strrchr
+strstr
+strtol
+strtoul
+tolower
+toupper
+vfprintf
+wcscpy
+wcslen
+_stat64
+_findnext64
+_tzname
+_write
+_unlink
+_umask
+_strdup
+_read
+_open
+_fileno
+_close
+_access
+regcomp
+regexec
+regfree
+MessageBoxW
+libgnutls-30.dll
+KERNEL32.dll
+msvcrt.dll
+libpcreposix-0.dll
+USER32.dll

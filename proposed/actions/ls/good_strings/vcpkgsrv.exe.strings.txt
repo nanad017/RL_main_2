@@ -1,0 +1,959 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.orpc
+`.data
+.idata
+.tls
+.rsrc
+Y__^[
+t%Whr<A
+~_^]
+u	9^
+[_^]
+D$8SVW
+D$Pd
+L$Pd
+Y_^[
+L$83
+	`!@
+\/Zh
+K\F\
+K\F\
+\[/Z
+K\HI
+K\F\
+K\F\
+6@\[
+K\F\
+K\F\
+8Ou	
+_^[]
+QSVW3
+F,;}
+_[^]
+WRSQ
+uW8]
+N8uI
+u'j h`=@
+h%<A
+Y__^[
+Sj@SP
+VWPh
+Ht%Ht
+j h`=@
+L$,Q
+L$$Q
+Zf9TX
+v	f;
+v	f;
+j$hxO@
+SSSj
+SSSj
+IEdgeSnapshotSession
+IMemberListInfo
+ITranslationUnit
+IEdgeUpdateHandler
+IEdgeFileBuffer
+IEdgeHost
+IEdgeSymbol
+IEdgeServer
+IEdgeFileBufferEvents
+h Y@
+_^[]
+s9+1W
+9s(t
+D$$P
+Cd+C`WV
+L$<_
+{x9{|
+QQSV
+Fid@
+h0e@
+QSVWh`
+FThHl@
+hSVW
+QSVW
+"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^
+`abcdefghijklmnopqrstuvwxyz{|}
+jHXf
+SVWh`
+j6Xf
+s	9C
+h q@
+SWh`
+HtbH
+[_^]
+s	WP
+F !F,
+SVWh`
+public : 
+t$<R
+L$D_
+VWh`
+QQSVWh`
+GT9p
+QQSVWh`
+GT9p
+D$H+D$D
+t$P3
+;t$H
+;t$H
+D$@D
+D$hP
+D$l4}@
+D$h+D$d
+D$h+D$d3
+,PSQ
+D$d3
+L$x;D$h
+w(9w,t
+SVWh`
+QQSVWh`
+CT9p
+SVWh`
+D$$P
+L$hP
+PPPPPPW
+D$,P
+SPPj
+_^[]
+~(&uC
+t 9^
+N,^V
+<"=K
+D$`SVW
+D$xd
+D$XP
+L$xd
+Y_^[
+L$`3
+9wtt
+VVVV
+_^[]
+2OoU
+SVhX
+h%<A
+Ht,-
+!D$8
+D$(3
+D$(s
+D$(W
+D$8H
+T$83
+D$ ;
+D$$s
+D$$s
+D$(+
+D$HP
+D$@P
+T$8;
+D$HP
+D$@P
+CONOUT$
+vcpkgsrv
+Attach Debugger Dialog
+Ht=Ht
+Ht7Hu4
+j h`=@
+Fd+F`RQ
+u8!u
+f;D$|u
+f;D$|u
+K(hX
+D$0d
+D$4+D$0
+D$4+D$0
+;t$4tu3
+Z;t$4u
+D$P|
+D$$+D$ 
+;t$$
+Y;t$$
+L$PQ
+D$X+D$T
+;t$X
+Z;t$X
+::*)
+const volatile
+const
+volatile
+protected : 
+private : 
+j\Zf
+invalid map/set<T> iterator
+map/set<T> too long
+t=j!Z;
+j_[;
+j~Yf;
+SetProcessDEPPolicy
+VVVVV
+w#;}
+SSQV
+unknown error
+invalid string position
+vector<T> too long
+string too long
+generic
+iostream
+iostream stream error
+system
+s89>w4+>j
+[_^]
+t!QW
+x_Sj
+YY_^
+8_^[
+0^[]
+_^[]
+_^[]
+QQSVh`
+SVWh`
+D$<P
+D$@P
+D$D4}@
+D$XP
+D$<P
+D$ P
+t$$+
+D$ h
+D$0S
+D$PP
+dSVW
+D$DP
+4SVW
+<SVW
+;C,t{
+D$<PW
+D$PP
+D$$+D$ j
+L$ 3
+T$4j
+D$4S
+t$0+~
+L$ 3
+D$,P
+L$pP
+|SVWh`
+L$XP
+h` A
+D$,PW
+D$@P
+QQSVW
+GT9p
+u@j0
+[_^]
+s$93w +3j
+_^[]
+th;}
+_^[]
+t\_9~
+wQ_9~
+wW_9~
+wN9~
+T$4Y
+D$4j
+D$HY
+D$lP
+D$0P
+Y_^[
+_^[]
+QSVW
+9^lv
+;^lr
+3VWj
+zuA3
+^_[]
+tL9>t4;E
+hH8A
+8csm
+8csm
+_^[]
+h%<A
+Y_^[
+Y_^[
+hx=A
+Phx@A
+#\'G7
+#\'G7
+PSWV
+s/j=Xf;
+,0<	w
+jaYf;
+jAYf;
+jaYf;
+hTBA
+*h\BA
+hdBA
+HEAD
+META
+BODY
+HHt~
+A<-t
+_^[]
+A<-u
+Ph`FA
+hlFA
+Ph|FA
+j	Vh
+j	Vh
+F<;uh;
+F<=u%;
+http-equiv
+Content-Type
+content
+text/html
+text-html
+charset
+</t'<?u(C
+<"t'<'t#<-t
+_[^]
+j-Yf;
+j:Yf;
+_[^]
+8f;}
+s'j'_f98t
+j"_f98t
+RQPj
+QQSVW
+j<Xf;
+j?Xf;A
+jxZf;
+jXZf;
+jmZf;
+jMZf;
+jlZf;
+jLZf;
+j Xf;A
+Zj'^f;
+tdf;
+sRj Zf9
+s@j?Zf;
+s2j>Zf;
+HWPQ
+tMj-_f
+zwIf;
+tOj-Z
+zwNf;
+_[^]
+RSDSW
+VCPkgSrv.pdb
+.?AVtype_info@@
+.?AVCAtlModule@ATL@@
+.?AU_ATL_MODULE70@ATL@@
+.?AVCEdgeSvrModule@@
+.?AV?$CAtlModuleT@VCComModule@ATL@@@ATL@@
+.?AVCComModule@ATL@@
+.?AVCEdgeTranslationUnit@@
+.?AV?$CComCoClass@VCEdgeTranslationUnit@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+.?AUIUnknown@@
+.?AVCTranslationUnitBase@@
+.?AVfile_buffer@edge@@
+.?AUITranslationUnit@@
+.?AVCSrvFileBuf@@
+.?AV?$CComObject@VCSrvFileBuf@@@ATL@@
+.?AV?$CComObjectRootEx@VCComMultiThreadModel@ATL@@@ATL@@
+.?AUIEdgeFileBufferEvents@@
+.?AVCComObjectRootBase@ATL@@
+.?AV?$CComCoClass@VCSrvFileBuf@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+.?AV?$CComObject@VCEdgeTranslationUnit@@@ATL@@
+.?AUhost@edge@@
+.?AV?$_Ref_count@VCSrvDirectBuf@@@std@@
+.?AVCEdgeSymbol@@
+.?AUIEdgeServer@@
+.?AUIMemberListInfo@@
+.?AV?$CComCoClass@VCEdgeServer@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+.?AV?$CComObject@VCEdgeSymbol@@@ATL@@
+.?AVCMemberListInfo@@
+.?AVCEdgeServer@@
+.?AUIEdgeSymbol@@
+.?AV_Ref_count_base@std@@
+.?AV?$CComObject@VCEdgeServer@@@ATL@@
+.?AV?$CComCoClass@VCMemberListInfo@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+.?AV?$CComCoClass@VCEdgeSymbol@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+.?AV?$CComObject@VCMemberListInfo@@@ATL@@
+.?AU_Container_base0@std@@
+.?AUallocator@edge@@
+.?AU?$list@PAUsymbol@edge@@@edge@@
+.?AVCEdgeAllocator@@
+.?AV?$CComObjectStack@VCMemberListInfo@@@ATL@@
+.?AVCComClassFactory@ATL@@
+.?AUIClassFactory@@
+.?AV?$_Vector_val@U?$_Simple_types@USymWithName@@@std@@@std@@
+.?AVCEdgeSymWithNameList@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@USymWithName@@V?$allocator@USymWithName@@@std@@@std@@@std@@
+.?AV?$vector@USymWithName@@V?$allocator@USymWithName@@@std@@@std@@
+.?AV?$_Ref_count@Vintellisense_operation@edge@@@std@@
+.?AV?$CEdgeBufferImpl@E@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAUsymbol@edge@@V?$allocator@PAUsymbol@edge@@@std@@@std@@@std@@
+.?AU?$buffer@E@edge@@
+.?AV?$_Vector_val@U?$_Simple_types@PAUsymbol@edge@@@std@@@std@@
+.?AV?$vector@PAUsymbol@edge@@V?$allocator@PAUsymbol@edge@@@std@@@std@@
+.?AV?$CEdgeList@PAUsymbol@edge@@@@
+.?AV?$CEdgeList@PAUparameter_symbol@edge@@@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAUparameter_symbol@edge@@V?$allocator@PAUparameter_symbol@edge@@@std@@@std@@@std@@
+.?AV?$_Vector_val@U?$_Simple_types@PAUparameter_symbol@edge@@@std@@@std@@
+.?AU?$list@PAUparameter_symbol@edge@@@edge@@
+.?AV?$vector@PAUparameter_symbol@edge@@V?$allocator@PAUparameter_symbol@edge@@@std@@@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AVCWideBuffer@@
+.?AV?$_String_alloc@$0A@U?$_String_base_types@GV?$allocator@G@std@@@std@@@std@@
+.?AV?$_String_val@U?$_Simple_types@G@std@@@std@@
+.?AV?$CComObjectNoLock@VCComClassFactory@ATL@@@ATL@@
+.?AU?$buffer@G@edge@@
+.?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@
+.?AVCAtlException@ATL@@
+.?AU?$list@PBUsymbol@edge@@@edge@@
+.?AU?$list@PBE@edge@@
+.?AV?$task_handle@V<lambda_a081ef64d04c9577dd0c06398a311190>@@@Concurrency@@
+.?AV?$_Vector_val@U?$_Simple_types@PBUsymbol@edge@@@std@@@std@@
+.?AV?$CEdgeList@PAUconstant@edge@@@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAUconstant@edge@@V?$allocator@PAUconstant@edge@@@std@@@std@@@std@@
+.?AV?$CEdgeList@PAUtemplate_parameter@edge@@@@
+.?AV?$vector@PBUsymbol@edge@@V?$allocator@PBUsymbol@edge@@@std@@@std@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PBEV?$allocator@PBE@std@@@std@@@std@@
+.?AV?$vector@Ucall_site@edge@@V?$allocator@Ucall_site@edge@@@std@@@std@@
+.?AU_Chore@details@Concurrency@@
+.?AU?$list@Ucall_site@edge@@@edge@@
+.?AV?$_Vector_val@U?$_Simple_types@PAUtemplate_arg_entry@edge@@@std@@@std@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@Ucall_site@edge@@V?$allocator@Ucall_site@edge@@@std@@@std@@@std@@
+.?AV?$CEdgeList@PBUsymbol@edge@@@@
+.?AV?$vector@PBEV?$allocator@PBE@std@@@std@@
+.?AUtemplate_instantiation_info@edge@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PBUsymbol@edge@@V?$allocator@PBUsymbol@edge@@@std@@@std@@@std@@
+.?AV?$vector@PAUconstant@edge@@V?$allocator@PAUconstant@edge@@@std@@@std@@
+.?AV?$CEdgeList@PAUtemplate_arg_entry@edge@@@@
+.?AV?$_Vector_val@U?$_Simple_types@PBE@std@@@std@@
+.?AU?$list@PAUtemplate_parameter@edge@@@edge@@
+.?AVmissing_wait@Concurrency@@
+.?AV_UnrealizedChore@details@Concurrency@@
+.?AV?$_Vector_val@U?$_Simple_types@PAUconstant@edge@@@std@@@std@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAUtemplate_parameter@edge@@V?$allocator@PAUtemplate_parameter@edge@@@std@@@std@@@std@@
+.?AV?$CEdgeList@Ucall_site@edge@@@@
+.?AV?$_Vector_val@U?$_Simple_types@Ucall_site@edge@@@std@@@std@@
+.?AVCEdgeBufferBSTR@@
+.?AV?$CEdgeList@PBE@@
+.?AU?$list@PAUtemplate_arg_entry@edge@@@edge@@
+.?AVexception@std@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAUtemplate_arg_entry@edge@@V?$allocator@PAUtemplate_arg_entry@edge@@@std@@@std@@@std@@
+.?AV?$_Vector_val@U?$_Simple_types@PAUtemplate_parameter@edge@@@std@@@std@@
+.?AV?$vector@PAUtemplate_arg_entry@edge@@V?$allocator@PAUtemplate_arg_entry@edge@@@std@@@std@@
+.?AUtyped_symbol@edge@@
+.?AV?$_Ref_count@Vscoped_query_manager@edge@@@std@@
+.?AU?$list@PAUconstant@edge@@@edge@@
+.?AU_AllocBase@details@Concurrency@@
+.?AV?$task_handle@V<lambda_342801d568fe60bfe729eac8ae0e04d3>@@@Concurrency@@
+.?AV?$vector@PAUtemplate_parameter@edge@@V?$allocator@PAUtemplate_parameter@edge@@@std@@@std@@
+RPCRT4.dll
+cpfe.dll
+OLEAUT32.dll
+USER32.dll
+ole32.dll
+atl110.DLL
+MSVCP110.dll
+MSVCR110.dll
+KERNEL32.dll
+ADVAPI32.dll
+EventUnregister
+EventRegister
+EventWrite
+AllocConsole
+SetUnhandledExceptionFilter
+InterlockedIncrement
+InterlockedDecrement
+GetCurrentProcess
+SetEvent
+GetModuleHandleW
+OpenProcess
+InitializeCriticalSectionAndSpinCount
+Sleep
+TerminateProcess
+MultiByteToWideChar
+GetLastError
+GetProcAddress
+GetProcessId
+CreateEventW
+WaitForMultipleObjects
+DeleteCriticalSection
+CloseHandle
+GetCPInfo
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+GetACP
+EnterCriticalSection
+SetConsoleTitleW
+GetVersion
+HeapSize
+GetSystemInfo
+CompareStringW
+GetVersionExA
+GetFileAttributesW
+CreateFileA
+IsValidCodePage
+WideCharToMultiByte
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingW
+GetProcessHeap
+HeapFree
+HeapReAlloc
+HeapAlloc
+HeapDestroy
+ReadFile
+GetFileSize
+CreateFileW
+GetTickCount64
+GetSystemTimeAsFileTime
+GetCurrentThreadId
+QueryPerformanceCounter
+IsProcessorFeaturePresent
+IsDebuggerPresent
+DecodePointer
+EncodePointer
+??3@YAXPAX@Z
+_CxxThrowException
+__RTDynamicCast
+_except_handler4_common
+_controlfp_s
+_invoke_watson
+__crtSetUnhandledExceptionFilter
+__CxxFrameHandler3
+??1type_info@@UAE@XZ
+??1reader_writer_lock@Concurrency@@QAE@XZ
+??0reader_writer_lock@Concurrency@@QAE@XZ
+__crtTerminateProcess
+__crtUnhandledException
+_crt_debugger_hook
+_onexit
+__dllonexit
+_calloc_crt
+_unlock
+_lock
+?terminate@@YAXXZ
+_commode
+_fmode
+__winitenv
+_initterm
+_initterm_e
+__setusermatherr
+_configthreadlocale
+_cexit
+_exit
+exit
+__set_app_type
+__wgetmainargs
+_amsg_exit
+_XcptFilter
+_fdopen
+__uncaught_exception
+?_CheckTaskCollection@_UnrealizedChore@details@Concurrency@@IAEXXZ
+?_Schedule@_StructuredTaskCollection@details@Concurrency@@QAEXPAV_UnrealizedChore@23@@Z
+?_RunAndWait@_StructuredTaskCollection@details@Concurrency@@QAG?AW4_TaskCollectionStatus@23@PAV_UnrealizedChore@23@@Z
+?_Abort@_StructuredTaskCollection@details@Concurrency@@AAEXXZ
+?_CleanupToken@_StructuredTaskCollection@details@Concurrency@@AAEXXZ
+?Free@Concurrency@@YAXPAX@Z
+??0missing_wait@Concurrency@@QAE@XZ
+?Get@CurrentScheduler@Concurrency@@SAPAVScheduler@2@XZ
+_time64
+getc
+fclose
+wcscpy_s
+fseek
+_vsnwprintf_s
+wcscat_s
+ftell
+memcpy_s
+fread
+_ungetc_nolock
+_wstat64i32
+_wfsopen
+_ismbblead
+_wsplitpath_s
+ungetc
+_filbuf
+qsort
+_wsopen_s
+??0exception@std@@QAE@ABV01@@Z
+??1exception@std@@UAE@XZ
+?what@exception@std@@UBEPBDXZ
+feof
+_wcsicmp
+??2@YAPAXI@Z
+freopen_s
+_set_invalid_parameter_handler
+_purecall
+wprintf
+_wgetenv_s
+_resetstkoflw
+__iob_func
+malloc
+free
+_wtoi
+memmove
+_recalloc
+memset
+calloc
+_swab
+memcpy
+_stricmp
+_strnicmp
+wcstoul
+memcmp
+?_Winerror_map@std@@YAPBDH@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+CoRegisterPSClsid
+CoCreateInstance
+CLSIDFromString
+CoInitializeSecurity
+CoInitializeEx
+CoRevokeClassObject
+CoRegisterClassObject
+CoTaskMemFree
+CoTaskMemAlloc
+CoUninitialize
+MessageBoxA
+?update@file_buffer@edge@@IAEXIII@Z
+?opened_in_editor@file_buffer@edge@@IAEXXZ
+??0a_find_all_refs_operation@edge@@QAE@PAUallocator@1@PAUIntermediateSymbol@@PAVtranslation_unit@1@W4a_far_filter_mode@1@@Z
+install_host
+??1scoped_query_manager@edge@@QAE@XZ
+??0scoped_query_manager@edge@@QAE@PAUallocator@1@PAVtranslation_unit@1@PAUIEdgeSnapshotSession@@_N@Z
+?get_inactive_regions_for_file@translation_unit@edge@@QBEXPAUallocator@2@PAUIEdgeSnapshotSession@@PBG_NPAUInactiveRegionArray@@@Z
+??1file_buffer@edge@@MAE@XZ
+?get_semantic_tokens_for_fragments_in_view@translation_unit@edge@@QBE_NPAUallocator@2@PAUIEdgeSnapshotSession@@PBGPAUSemanticTokenArray@@@Z
+?update_range@translation_unit@edge@@QAEXPAUallocator@2@PAUIEdgeSnapshotSession@@Ufile_position@2@2_N3332PAI4@Z
+?get_errors_for_file@translation_unit@edge@@QBEXPAUallocator@2@PAUIEdgeSnapshotSession@@PBGPAUIsenseErrorArray@@@Z
+?get_errors_for_tu@translation_unit@edge@@QBEXPAUallocator@2@PAUIEdgeSnapshotSession@@PAUIsenseErrorArray@@@Z
+?get_output_pch_file@translation_unit@edge@@QBE_NPAU?$buffer@G@2@@Z
+?get_input_pch_file@translation_unit@edge@@QBE_NPAU?$buffer@G@2@@Z
+?contains_source_file@translation_unit@edge@@QBE_NPBG@Z
+?get_preparse_snapshot_session@translation_unit@edge@@QBEPAUIEdgeSnapshotSession@@XZ
+?preparse_successful@translation_unit@edge@@QBE_NXZ
+??1translation_unit@edge@@QAE@XZ
+??0translation_unit@edge@@QAE@HPAPBGPBG1PAUIEdgeSnapshotSession@@@Z
+??0file_position@edge@@QAE@XZ
+??0file_buffer@edge@@IAE@XZ
+?get_reference_highlights@translation_unit@edge@@QBE_NPAUallocator@2@PAUIEdgeSnapshotSession@@PBGPAUReferenceHighlightArray@@@Z
+?resolve_candidate@a_find_all_refs_operation@edge@@QAE?AW4a_far_resolution_kind@2@PAUIEdgeSnapshotSession@@ABUfile_position@2@PAK2@Z
+??0a_find_def_operation@edge@@QAE@PAUallocator@1@@Z
+??1a_find_def_operation@edge@@QAE@XZ
+?find_definition@a_find_def_operation@edge@@QAE?AW4an_error_code@12@PAUIntermediateSymbol@@0PAVtranslation_unit@2@PAUIEdgeSnapshotSession@@@Z
+?canonicalize@edge@@YAPBGPBG_N@Z
+?get_host@edge@@YAPAUhost@1@XZ
+??1a_find_all_refs_operation@edge@@QAE@XZ
+?fill_in_intermediate@edge@@YAXPAUIntermediateSymbol@@PAUsymbol@1@@Z
+?get_param_help_overloads@intellisense_operation@edge@@QAEXPAU?$list@PAUsymbol@edge@@@2@PAW4arg_list_entry_kind@2@PAUfile_position@2@@Z
+?get_auto_complete_members@intellisense_operation@edge@@QAEXPAU?$list@PAUsymbol@edge@@@2@W4member_list_kind@12@_NAA_N3@Z
+?get_auto_complete_members@intellisense_operation@edge@@QAEXPAU?$list@PAUsymbol@edge@@@2@W4member_list_kind@12@@Z
+?last_error_code@intellisense_operation@edge@@QBE?AW4error_code@12@XZ
+?call_sites_in_enclosing_function_scope@intellisense_operation@edge@@QAEXPAU?$list@Ucall_site@edge@@@2@@Z
+?function_scope_enclosing_cursor@intellisense_operation@edge@@QAEPAUfunction_symbol@2@XZ
+?scope_at_cursor@intellisense_operation@edge@@QAEPAUscope_entry@2@PAPAUmember_selection_entry@2@@Z
+?function_call_at_cursor@intellisense_operation@edge@@QAE_NPAUcall_site@2@@Z
+?symbol_at_cursor@intellisense_operation@edge@@QAEPAUsymbol@2@PAU?$list@PAUsymbol@edge@@@2@@Z
+??1intellisense_operation@edge@@QAE@XZ
+??0intellisense_operation@edge@@QAE@PAUallocator@1@PAVtranslation_unit@1@PAUIEdgeSnapshotSession@@ABUfile_position@1@_N@Z
+?get_intermediate_symbols@a_get_symbol_operation@edge@@QBE?AW4an_error_code@12@PAVtranslation_unit@2@PAUIEdgeSnapshotSession@@W4a_symbol_filter@2@PAUIntermediateSymbolArray@@@Z
+??1a_get_symbol_operation@edge@@QAE@XZ
+??0a_get_symbol_operation@edge@@QAE@PAUallocator@1@ABUfile_line_column@1@@Z
+CStdStubBuffer_DebugServerQueryInterface
+NdrCStdStubBuffer_Release
+NdrDllGetClassObject
+CStdStubBuffer_AddRef
+IUnknown_QueryInterface_Proxy
+NdrOleFree
+NdrOleAllocate
+CStdStubBuffer_CountRefs
+IUnknown_Release_Proxy
+CStdStubBuffer_Connect
+CStdStubBuffer_QueryInterface
+CStdStubBuffer_Invoke
+CStdStubBuffer_IsIIDSupported
+CStdStubBuffer_Disconnect
+CStdStubBuffer_DebugServerRelease
+IUnknown_AddRef_Proxy
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="VCPkgSrv" type="win32"></assemblyIdentity><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>PA
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+120109222558Z
+130409222558Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+Cz-?
+cw{0
+b%MS%
+5S#6w
+L!=v0
+es)H'
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+\J-h
+E/]E
+m5#g
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1604
+http://microsoft.com0
+36?0
+7)xL
+TJ!u
+Nc1a
+eD$!
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014637Z0#
+{kn"
+|w>$
+ b2U
+D{nD
+.bZ@
+P[rv
+xj &A=G2
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1604
+http://microsoft.com0
+JEMG
+20120727014640.019Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213531Z
+130409214531Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service0
+GV"{ 
+Je;X
+[~p)B
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
++h;>
+})5 
+^K_tf
+-p8q
+L09(GPT
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service
+q&eS'
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120727002333Z
+20120728002333Z0t0:
+1,0*0
+1(0&0
+7VAA
+oNSu
+78d'
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+`(/)
+q&eS'0
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+l>P0
+>| !
+nV9 

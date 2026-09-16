@@ -1,0 +1,2932 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+Y_^[
+SVWP
+Y_^[
+SVWP
+Y_^[
+j@j 
+Y_^[
+Y_^[
+hHUH
+hHUH
+Lh|4G
+hHUH
+Y_^[
+$SVW
+Y_^[
+$SVW
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+h05G
+h4\H
+h05G
+h4\H
+h,^H
+h,^H
+h,^H
+h,^H
+u:h(
+h05G
+u:h(
+h05G
+h4\H
+Y_^[
+B(t6G
+B(t6G
+h05G
+h4\H
+hSVW
+Y_^[
+@(t6G
+h05G
+h4\H
+hSVW
+Y_^[
+@t j
+h$7G
+h,7G
+h<7G
+h@7G
+hL7G
+h\7G
+hl7G
+hPgG
+h`gG
+RjDQ
+h hG
+u)h8hG
+hThG
+h`hG
+hphG
+@t&j
+h|hG
+Pj0Q
+h$iG
+hDiG
+hTiG
+hdiG
+h<lG
+hplG
+h4mG
+hTmG
+hpmG
+h<nG
+QhLnG
+hhnG
+QhxnG
+h8oG
+hhoG
+hLpG
+Qh\pG
+h@qG
+hlqG
+hTrG
+hlrG
+htrG
+h|rG
+Rh(sG
+h8sG
+hXsG
+h`sG
+h|sG
+h$tG
+hTtG
+hltG
+Q(RQ
+H(QQ
+H(QQ
+H(QQ
+H(QQ
+Q(RQ
+Q(RQ
+H(QQ
+H(QQ
+H(QQ
++A$P
+B(PQ
+B(PQ
+H(QQ
+Q(RQ
+B(PQ
+Q(RQ
+B(PQ
+H(QQ
+B(PQ
+H(QQ
+t6hp
+w=hh
+hP6B
+JWEY
+Pj2j
+:JWEYt
+$SVW
+Y_^[
+ SVW
+Y_^[
+Y_^[
+<SVW
+Y_^[
+4SVW
+Y_^[
+SVWP
+Y_^[
+t{hp
+Y_^[
+DSVW
+Y_^[
+;B<s!
+H<+M
+9B<w	
+9A<s
+9A<s
+9A<s
+9B<s
+`SVW
+Y_^[
+hSVW
+Y_^[
+tSVW
+Y_^[
+Y_^[
+LSVW
+Y_^[
+HSVW
+Y_^[
+h05G
+h4\H
+u4h`
+E0Pje
++E P
++U R
+M0+M
+U0Rje
+U0+U
+;E$v
+M$+M
+jZhP
+j|hx
+h,^H
+ SVW
+Y_^[
+PSVW
+Y_^[
+Y_^[
+LSVW
+Y_^[
+4SVW
+Y_^[
+% LC
+Y_^[
+h,^H
+,SVW
+Y_^[
+hP`C
+<SVW
+Y_^[
+HSVW
+Y_^[
+Y_^[
+h05G
+h4\H
+Y_^[
+QQSV
+9~0~
+G;~0|
+@_^]
+9csm
+t h`
+BBFFf
+AABBf
+QQSVWd
+QSVW
+@@Iu
+SSSSS
+uZ9]
+@@Iu
+tR9]
+BG;U
+QSSSj
+^SSSSS
+VVVVV
+BBFF
+PPPPP
+SVW3
+t$9}
+WWWWW
+t)9u
+VVVVV
+WWWWW
+@uwV
+WWWWW
+WWWWW
+@uwV
+WWWWW
+@WuyV
+WWWWW
+[_^]
+VVVVV
+0WWWWW
+X_^]
+WWWWW
+@uwV
+WWWWW
+WWWWW
+@uwV
+WWWWW
+WWWWW
+WWWWW
+VVVVV
+VVVVV
+SSSSS
+~,WPV
+98t^
+tVPV
+t/9U
+_^[]
+_^[]
+WWWWW
+_^[]
+WWWWW
+h,^H
+tG9}
+0WWWWW
+@AA;E
+t	VP
+SSSSS
+VVVVV
+SSSSS
+SSSSS
+HH_^[
+VVVVV
+VVVVV
+SSSSS
+@PVh
+8"uk
+8"u5
+SSSSS
+_^[]
+Sj Z
+0;1t|
+QSVW
+SSSSS
+7GG9]
+u)jAXf;
+u+9u
+8csm
+8csm
+t!9}
+WWWW
+VVVV
+PPPPP
+t79u
+t29u
+VVVVV
+SSSSS
+VVVVV
+VVVVV
+f93u 
+_VVVVV
+GGBBf
+AAf9
+VVVVV
+VVVVV
+Ar	f
+Ar	f
+ CCGG
+t8f;
+QCPC
+VVVVV
+Ar	f
+Ar	f
+ GGBB
+^_[3
+SSSSS
+PPPPPPPP
+jXh8
+YQPVh
+Y__^[
+SSSSS
+_^[]
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+hK+D
+_^[]
+_^[]
+Y_^[
+Y_^[
+@_^]
+=MOC
+=csm
+8csm
+9csm
+>csm
+8csm
+98uu
+98u[
+~SSV
+>csm
+~@;H
+>csm
+taSV
+YYPV
+t)SV
+Hu4j
+=MOC
+>csm
+I=csm
+@_^[
+>MOC
+s[S;7|G;w
+9>u&
+YYhp
+tR99u2
+r,9Y
+@_^[]
+PPPPP
+PPPPP
+0A@@Ju
+Y_^[]
+_^[]
+Wj6Y
+Fpt"
+VVVVV
+SSSSS
+^_[]
+<.u4
+SSSSS
+PVj@
+_trP
+,uRP
+PPPPP
+_^[]
+SSSSS
+PPPPP
+^H_[
+>CuW
+VVVVV
+@PVW
+VVVVV
+VVVVV
+PPPPP
+VVVVV
+vSSSh
+VWw$
+SSSSS
+G	PS
+QQQQQ
+QQQQQ
+t&:a
+VVVVV
+VVVVV
+VVhU
+WWWWW
+VVVVV
+j@j ^V
+[j@j 
+WWWWW
+WWWWW
+u,9E
+u,9E
+SSSSS
+0SSSSS
+_^[]
+WWWWW
+uWS3
+VVVVV
+VVVVV
+ueSj
+@_^[
+j?Y;
+VVVVV
+VVVVV
+ VW}
+j?^;
+WWWW
+j0Xf
+RPSW
+90tN
+j Xf
+WSj0
+PPPPP
+ji_jdZf;
+tef;
+ot4f
+ut.f
+xt(f
+Xt"f;
+Xupf;
+t!f;
+t!f;
+u53E
+SSSSS
+8$u+
+j*Yf
+dtFf
+it@f
+ot:f
+ut4f
+xt.f
+VVVVV
+j0Xf
+Kf90t
+j Xf
+WSj0
+It.It+It!It
+It"IIuQ
+PPPPP
+SSSSS
+PPPPP
+VVVV
+0H(H
+j0Xf
+RPSW
+90tN
+j Xf
+WSj0
+VVVVV
+PPPPP
+<v8V
+VVVVV
+VVVVV
+VVVVV
+QWVP
+SSSSS
+,0GG
+WWWWW
+VVVVV
+VVVVV
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+Af#E
+SSSSS
+SSSSS
+tl9]
+tC9]
+Ht$C
+CC@@
+Ht(f
+CC+]
+VVVVV
+WWWWW
+tVHtG
+tCHt/
+u%	U
+FFf9
+FFf9
+PPPPP
+@u^V
+, <Xw
+t%HHt
+HHtXHHt
+HHty+
+RPSW
+90tV
+>If90t
+WSj0
+WSj 
+SSSSS
+VVVVV
+SSSSS
+SSSSS
+HH_^[
+SSSSS
+SSSSS
+SSSSS
+@PVh
+8"ue
+8"u/
+SSSSS
+_VVVVV
+SSSSS
+80t.
+SSSSS
+^WWWWW
+SQRP
+jdRP
+PPPPP
+Wj0V
+SSSSS
+SSSSS
+|-;E
+VVVVV
+8csm
+S99t
+ w	f
+"u	3
+>=Yt1j
+tPVWP
+PPPPP
+Y[_^
+j"@@
+@@Bf
+8"u8
+j\Yf
+t$9U
+QQSVWh
+@@f9
+@@f9
+wIVSP
+FVSj
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+Y__^[
+u8SS3
+GWhl
+9] u
+9]$SS
+t)9]
+t"SS9]
+9] u
+FVhl
+9] SS
+Pj1Q3
+F Pj*
+F$Pj+
+F(Pj,
+F,Pj-
+F0Pj.
+F4Pj/
+F8PjD
+F<PjE
+F@PjF
+FDPjG
+FHPjH
+FLPjI
+FPPjJ
+FTPjK
+FXPjL
+F\PjM
+F`PjN
+FdPjO
+FhPj8
+FlPj9
+FpPj:
+FtPj;
+FxPj<
+F|Pj=
+_^[]
+{>Vj
+v$;5
+C PjPV
+C$PjQV
+C(Pj
+C)Pj
+C*PjTV
+C+PjUV
+C,PjVV
+C-PjWV
+C.PjRV
+C/PjSV
+~-8]
+@@8X
+QW@Ph
+W@Ph
+~S8]
+PPPPP
+PPPPP
+_^[t
+PPPPP
+PPPPP
+_^[t
+$SVW
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+PPPPP
+.;1s(N
+tIHt$
+HHt4HHt
+Ht\Ht,
+SV9}
+98tl
+PSVj
+WWWWW
+teHtFHt&Hu
+SV9}
+@_^[
+<'tE
+SSSSS
+SSSSS
+ty<%tA
+twF3
+tBF9]
+u 9]
+SSSSS
+0SSSSS
+_^[]
+_^[]
+0SSSSS
+|FVW
+,aB<
+u49^
+u	9F
+@hC.E
+hO/E
+h!1E
+Vj@h
+@hC.E
+PPPPP
+j@Sh
+t,j@
+C@Ph
+_^[]
+tR:Q
+t<:Q
+t&:Q
+PPPPPPPP
+9_u	A
+QufA
+HHt*HHt
+t=HHt
+!<9u
+[_^]
+7_^]
+>	t6W
+tBHj
+tK<_t<<$t8<<t4<>t0<-t,<a|
+<z~$<A|
+t;BA
+9	t	
+<0|O<9
+tU<A|B<P
+WQ8E
+hd%H
+h\%H
+hT%H
+hL%H
+h@%H
+tY<@tO<Zt
+hl%H
+tA<Zu
+v,j,
+t5j]
+t\<@tXj'
+8@u"
+<@uq
+<_u`
+PWje
+YPWh
+Yt*j
+Du h
+h %H
+Ft,Nt	NtFNt#NuV
+8Xu2@
+hl%H
+hl%H
+YtNj
+9	t	
+kt@;
+8?u(
+YtNj
+j@h,
+9	t	
+t.<@t5V
+TtUHtKHtAHt
+HuShl&H
+Dh`&H
+hX&H
+hP&H
+hH&H
+h@&H
+h1&H
+8?u'@
+0t-HHt
+hl%H
+h|&H
+lSVW3
+@99t
+uUj,
+hp'H
+u-j,
+hd'H
+hX'H
+h4'H
+t?9U
+u#8H
+h,&H
+tfHH
+8_uF
+dj@h,
+9	t?
+<@t=j
+h,&H
+t*j)
+YYj)
+`<`t
+<$u.
+ttj	
+h,&H
+uI9u
+98tI
+99t)P
+j PQ
+:?uO
+<@u$
+.<$u 
+<_uN
+jdh8
+jdhX
+$SVW
+h@(H
+h8(H
+h4(H
+h,(H
+h$(H
+hl%H
+hL%H
+CtMj
+Ph@%H
+Ph@%H
+t.Ht
+AtIHt0Hu
+hl%H
+WWWWW
+WWWWW
+VVVVV
+VVVVV
+~%9M
+QVj	
+r 8^
+VW|[;
+_^[]
+VVVVV
+j@j 
+WWWWW
+uaVj
+uL9=
+VVVVV
+VVVVV
+v	N+D$
+tM<it-<ot)<ut%<xt!<Xt
+Xu^:
+u;3E
+WWWWW
+@u^V
+, <Xw
+8$u%9
+t%HHt
+<dty<itu<otq<utm<xti<Xte
+gu!;
+@tO9
+@tD9
+RPSW
+HIf98t
+WSj0
+WSj 
+PPPPP
+@u^V
+t$HHt
+HHtYHHt
+HHty+
+RPSW
+90tW
+WSj0
+WSj 
+VVVV
+9~\u'
+t#Hu
+PPPPP
+j h 
+t+Ht
+PPPPP
+VVVVV
+u,VVWV
+u#9u
+t VV9u
+_VVVVV
+h()H
+_VVVVV
+VVVVV
+SSSSS
+tGHt.Ht&
+^SSSSS
+;t0;
+VVVVV
+t+9u
+8VVVVV
+t(9u
+VVVVV
+Ar	f
+Ar	f
+ CCGG
+t=f;
+CCGG
+VVVVV
+Ar	f
+Ar	f
+ GGBB
+AABB
+t	@@
+t	AA
+^SSSSS
+j"^SSSSS
+QSWVj
+SSSSW
+SSSj
+SSSSW
+PPPPP
+0SSSSS
+@PWV
+_^[]
+PPPPP
+WVU3
+v	N+D$
+_VVVVV
+SVW3
+0WWWWW
+_^[]
+AAFFf;
+WWWWV
+t<Vj
+t+WWVPV
+VVVVV
+VVVVV
+VVVVV
+t:9]
+^SSSSS
+^SSSSS
+_^[]
+SSSSS
+SSSSS
+SSSSS
+hx)H
+t!PV
+SSSSS
+PSj?
+PSj?
+SSSSS
+>:u8FV
+SSSSS
+jd_Fj
+PPPPP
+VVVVV
+Pf95X
+PVVRV
+Pf95
+VVVVVQRSSj
+VVVVV
+SSSSS
+SSSSS
+u09u
+VVVVV
+VW9]
+SSSSS
+SSSSS
+u99u
+VVVVV
+^SSSSS
+^SSSSS
+0SSSSS
+h|)H
+uNSW
+WWWWW
+WWWWW
+<Xt	
+u+9u
+SVW3
+0WWWWW
+_^[u
+PPPPP
+VVVVV
+SSSSS
+r"9U
+1_^[
+r"9U
+r"9U
+u	9K
+9]$u
+SSSSS
+<+t(<-t$:
++t HHt
+_^[]
+VVVVV
+VVVVV
+u	9p
+u	9E
+K<5}
+;9u	
+0K;]
+VVVVV
+_^[t
+@^[t
+<8=u
+^SSSSS
+t*;E
+SSSSS
+_^[]
+QVW3
+^WWWWW
+WWWWW
+VVVVV
+0SSSSS
+t	9]
+t.;E
+SSSSS
+8VVVVV
+VVVVV
+SSSSS
+<Xt	
+u>9u
+@tH9
+SSSSS
+SSSSS
+QQSV3
+VVVVj
+tCVV
+@A;E
+SVW3
+t{~Bj
+t1SW
+SSSSS
+SSSSS
+SSSSS
+tSj=V
+u`9]
+Y|R9
+?sjj
+@Y@P
+t\VV
+@Y@PW
+SSSSS
+SSSSS
+_^[]
+SSSSS
+uXj4
+YY^]
+_^[]
+PQVj
+SVWj>3
+_^[]
+Y~-3
+Y~(3
+YPWj	
+<xt.<Xu,
+<Xt	
+-u.=
+_^[]
+-u?;
+_^[]
+(SV3
+<xt.<Xu,
+<Xt	
+RPQV
+_9>t&j
+D$,d
+D$@P
+t$<j
+L$,d
+D$,SUVW
+D$Dd
+|$T3
+\$0h
+t$L;
+L$(s
+L$(s
+D$8;
+L$(s
+<1.u
+D$(P
+\$(U
+L$Dd
+Y_^][
+L$,3
+SSSSS
+uH9]
+t!F9]
+1SSj
+^SSSSS
+tH;E
+j"^SSSSS
+PPPPP
+9^$u
+SSSSS
+_^[]
+_VVVVV
+VVVVV
+WWWWQ
+CreateAssemblyCache
+bad allocation
+game_cate
+LANG_TITLE
+WINSERVICE_HINT
+GM_app_ini
+launcher_exe
+LANG_TITLE
+UPDATE_ERROR
+LANG_TITLE
+SERVICE_HINT
+vcruntime_exe
+LANG_TITLE
+VC_DLL_ERROR
+LANG_TITLE
+VC_DLL_ERROR
+LANG_TITLE
+SERVICE_HINT
+vcruntime_2012_exe
+LANG_TITLE
+VC_DLL_ERROR
+LANG_TITLE
+VC_DLL_ERROR
+game_cate
+langID
+version_file
+version
+version
+update_url
+game_path
+game_data
+game_data
+game_cate
+GM_exe
+GM_exe
+GM_exe
+GM_exe
+GM_exe
+GM_exe
+game_data
+IM_installer
+LANG_TITLE
+LANG_ASK_INSTALL
+GM_exe
+LANG_TITLE
+LANG_IM_INSTALL_ERROR
+GM_webaddress
+LANG_TITLE
+LANG_IM_NOT_EXIST
+GM_webaddress
+launcher_exe
+create_param
+install_param
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,const class std::locale &)
+cannot open file
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,const class std::locale &)
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int,const class std::locale &)
+cannot open file
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int,const class std::locale &)
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+read error
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+unmatched '['
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate section name
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+'=' character not found in line
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+key expected
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate key name
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+ptree has data on root
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+mixed data and children
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+ptree is too deep
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+void __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::put_value<int,class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>>(const int &,class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>)
+" to data failed
+conversion of type "
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+void __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::put_value<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >)
+" to data failed
+conversion of type "
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::detail::check_dupes<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate key
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/string_path.hpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall boost::property_tree::string_path<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::reduce(void)
+Path syntax error
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::get_value<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >>(struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >) const
+" failed
+conversion of data to type "
+0-+eE.
+ios_base::eofbit set
+ios_base::failbit set
+ios_base::badbit set
+vector<T> too long
+invalid map/set<T> iterator
+bad cast
+bad lexical cast: source type value could not be interpreted as target
+false
+true
+bad allocation
+map/set<T> too long
+bad allocation
+bad allocation
+last_login.name
+last_login.name
+last_login.status
+last_login.status
+app.path
+app.path
+app.ver_number
+app.dir
+app.dir
+app.lang
+app.lang
+app.theme
+app.ver
+intl
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,const class std::locale &)
+cannot open file
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,const class std::locale &)
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int,const class std::locale &)
+cannot open file
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int,const class std::locale &)
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+read error
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+unmatched '['
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate section name
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+'=' character not found in line
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+key expected
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::read_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_istream<char,struct std::char_traits<char> > &,class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate key name
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+ptree has data on root
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+mixed data and children
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::write_ini<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(class std::basic_ostream<char,struct std::char_traits<char> > &,const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,int)
+ptree is too deep
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+void __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::put_value<int,class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>>(const int &,class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>)
+" to data failed
+conversion of type "
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+void __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::put_value<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >>(const class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >)
+" to data failed
+conversion of type "
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/ini_parser.hpp
+void __cdecl boost::property_tree::ini_parser::detail::check_dupes<class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >>(const class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+duplicate key
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+class boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &__thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::get_child(const class boost::property_tree::string_path<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &)
+No such node
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/string_path.hpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall boost::property_tree::string_path<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::reduce(void)
+Path syntax error
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::get_value<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >>(struct boost::property_tree::id_translator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >) const
+" failed
+conversion of data to type "
+D:\Software\Libraries\boost_1_48_0\boost/property_tree/detail/ptree_implementation.hpp
+int __thiscall boost::property_tree::basic_ptree<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >::get_value<int,class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>>(class boost::property_tree::stream_translator<char,struct std::char_traits<char>,class std::allocator<char>,int>) const
+" failed
+conversion of data to type "
+Unable to load config file
+Fatal
+<unspecified file>
+raB3G
+0123456789abcdefABCDEF
+bad allocation
+/4*&{
+b@J7<
+{FL!m
+z)zR88
+jc(=
+e.{ 
+P($I
+tXT9bq^F
+Lb`w
+YFDAt
+4mc-N
+S[bH
+]/qNnN
+YcwN
+kjO}
+O}N8
+J9*`+
+hxUr
+1 J#
+y#uL
+p#_y
+THxV
+Tn9{
+9mG-
+(O\i
+I}!<
+GFVX
+=$?x
+A8L"k1
+</hXt
+$<;{d
+F0:s
+#3:O4j
+F0:s
+Dw=I
+RX0e
+ne |
+~2]r
+;?B@
+O(hHj
+N$XA
+dX&L
+>Yz(
+A'qQU
+W'tVa
+I-`:
+/B{N
+#t9J
+3\.Q
+L\l%
+hsxD
+WJ?,C
+|<ho'r
+_P>k
+X7iii9P
+p4Bf
+r?RJ
+t&1Zs
+2/>r
+BeUNO
+{_41
+	49Z
+dn0@D
+T&<rskO
+)47$D
+hlRO
+.|uU
+550D
+Vh`D
+=L9o<
+bad allocation
+Unknown exception
+bad exception
+EncodePointer
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6034
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+R6033
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+R6032
+- not enough space for locale information
+R6031
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+R6030
+- CRT not initialized
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+CorExitProcess
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+e+000
+GAIsProcessorFeaturePresent
+KERNEL32
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+am/pm
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+slovak
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+czech
+china
+britain
+america
+swiss
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ ?? 
+{flat}
+{for 
+`non-type-template-parameter
+unsigned 
+long 
+int 
+short 
+char 
+void
+<ellipsis>
+,<ellipsis>
+,...
+ throw(
+`template-parameter
+NULL
+cli::pin_ptr<
+cli::array<
+void 
+`anonymous namespace'
+generic-type-
+template-parameter-
+`unknown ecsu'
+union 
+struct 
+class 
+enum 
+coclass 
+cointerface 
+extern "C" 
+[thunk]:
+public: 
+protected: 
+private: 
+virtual 
+static 
+`template static data member destructor helper'
+`template static data member constructor helper'
+`local static destructor helper'
+`adjustor{
+`vtordisp{
+`vtordispex{
+const 
+volatile 
+CV: 
+volatile
+ volatile
+const
+signed 
+double
+UNKNOWN
+__int128
+bool
+wchar_t
+__int64
+__int16
+__int32
+__int8
+__w64 
+float
+long
+short
+char
+('8PW
+700PP
+`h`hhh
+xppwpp
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SystemFunction036
+ADVAPI32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONIN$
+CONOUT$
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+string too long
+invalid string position
+invalid string argument
+0123456789abcdefghijklmnopqrstuvwxyz
+					
+0123456789abcdefghijklmnopqrstuvwxyz
+generic
+system
+Unknown error
+Visual C++ CRT: Not enough memory to complete call to strerror.
+Illegal byte sequence
+Directory not empty
+Function not implemented
+No locks available
+Filename too long
+Resource deadlock avoided
+Result too large
+Domain error
+Broken pipe
+Too many links
+Read-only file system
+Invalid seek
+No space left on device
+File too large
+Inappropriate I/O control operation
+Too many open files
+Too many open files in system
+Invalid argument
+Is a directory
+Not a directory
+No such device
+Improper link
+File exists
+Resource device
+Bad address
+Permission denied
+Not enough space
+Resource temporarily unavailable
+No child processes
+Bad file descriptor
+Exec format error
+Arg list too long
+No such device or address
+Input/output error
+Interrupted function call
+No such process
+No such file or directory
+Operation not permitted
+No error
+RSDS
+D:\Workspace\im\trunk\gamelauncher\Release\GameLauncher.pdb
+FreeLibrary
+GetProcAddress
+LoadLibraryW
+LocalAlloc
+GetLastError
+CloseHandle
+CreateMutexW
+GetModuleFileNameW
+WaitForSingleObject
+CreateProcessW
+SetCurrentDirectoryW
+CreateFileW
+CreateDirectoryW
+GetFileAttributesW
+GetPrivateProfileStringW
+WideCharToMultiByte
+RemoveDirectoryW
+MoveFileExW
+WritePrivateProfileStringW
+FindNextFileW
+FindFirstFileW
+MultiByteToWideChar
+FindResourceW
+SizeofResource
+LockResource
+LoadResource
+FindResourceExW
+GetACP
+FormatMessageW
+CreateEventW
+ResetEvent
+IsBadWritePtr
+IsBadReadPtr
+SetEvent
+WaitForMultipleObjects
+GetTickCount
+WritePrivateProfileStringA
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSection
+DeleteCriticalSection
+KERNEL32.dll
+MessageBoxW
+wsprintfW
+MessageBoxA
+USER32.dll
+ChangeServiceConfigW
+QueryServiceConfigW
+CloseServiceHandle
+OpenServiceW
+OpenSCManagerW
+ADVAPI32.dll
+SHGetSpecialFolderPathW
+ShellExecuteW
+ShellExecuteExW
+SHELL32.dll
+CoUninitialize
+CoInitializeEx
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+PathRemoveFileSpecW
+SHLWAPI.dll
+InternetSetOptionW
+InternetCloseHandle
+InternetSetStatusCallbackW
+HttpSendRequestW
+HttpAddRequestHeadersW
+HttpEndRequestW
+InternetWriteFile
+HttpSendRequestExW
+HttpQueryInfoW
+InternetReadFileExA
+InternetOpenUrlW
+InternetOpenW
+HttpOpenRequestW
+InternetConnectW
+InternetCrackUrlW
+WININET.dll
+HeapDestroy
+HeapAlloc
+HeapFree
+HeapReAlloc
+HeapSize
+GetProcessHeap
+RaiseException
+RtlUnwind
+DeleteFileA
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+GetStartupInfoW
+GetModuleHandleW
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetCurrentThreadId
+InterlockedDecrement
+GetCurrentThread
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+WriteFile
+GetConsoleCP
+GetConsoleMode
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+ReadFile
+SetFilePointer
+Sleep
+FlushFileBuffers
+FatalAppExitA
+HeapCreate
+VirtualFree
+VirtualAlloc
+GetModuleFileNameA
+ExitProcess
+GetModuleHandleA
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+GetCommandLineW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+GetTimeFormatA
+GetDateFormatA
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+SetStdHandle
+InitializeCriticalSectionAndSpinCount
+SetConsoleCtrlHandler
+LoadLibraryA
+GetLocaleInfoW
+InterlockedExchange
+GetTimeZoneInformation
+CreateFileA
+SetEndOfFile
+CompareStringA
+CompareStringW
+SetEnvironmentVariableA
+InterlockedCompareExchange
+LocalFree
+FormatMessageA
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ofstream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AVCAtlException@ATL@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVexception@std@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_cast@std@@
+.?AV?$ctype@D@std@@
+.?AUctype_base@std@@
+.?AVfacet@locale@std@@
+.?AVbad_alloc@std@@
+.?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVbad_lexical_cast@boost@@
+.?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$codecvt@DDH@std@@
+.?AVcodecvt_base@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$clone_impl@U?$error_info_injector@Vbad_lexical_cast@boost@@@exception_detail@boost@@@exception_detail@boost@@
+.?AU?$error_info_injector@Vbad_lexical_cast@boost@@@exception_detail@boost@@
+.?AVexception@boost@@
+.?AVclone_base@exception_detail@boost@@
+.?AV?$numpunct@D@std@@
+.?AV?$numpunct@_W@std@@
+.?AUThank_you@Define_the_symbol__ATL_MIXED@@
+.?AVCUpdateConfig@@
+.?AVCConfig@@
+.?AVCHttpClient@@
+.?AVIHttpClient@@
+.?AVCHttp_Is_File_Exist@@
+.?AVini_parser_error@ini_parser@property_tree@boost@@
+.?AVfile_parser_error@property_tree@boost@@
+.?AVptree_error@property_tree@boost@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_ifstream@DU?$char_traits@D@std@@@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AU?$error_info_injector@Vini_parser_error@ini_parser@property_tree@boost@@@exception_detail@boost@@
+.?AVbad_numeric_cast@numeric@boost@@
+.?AV?$clone_impl@U?$error_info_injector@Vini_parser_error@ini_parser@property_tree@boost@@@exception_detail@boost@@@exception_detail@boost@@
+.?AVptree_bad_data@property_tree@boost@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AVptree_bad_path@property_tree@boost@@
+.?AU?$error_info_injector@Vptree_bad_data@property_tree@boost@@@exception_detail@boost@@
+.?AV?$clone_impl@U?$error_info_injector@Vptree_bad_data@property_tree@boost@@@exception_detail@boost@@@exception_detail@boost@@
+.?AU?$error_info_injector@Vptree_bad_path@property_tree@boost@@@exception_detail@boost@@
+.?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$clone_impl@U?$error_info_injector@Vptree_bad_path@property_tree@boost@@@exception_detail@boost@@@exception_detail@boost@@
+.?AV?$holder@V?$string_path@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$id_translator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@property_tree@boost@@@property_tree@boost@@@any@boost@@
+.?AVplaceholder@any@boost@@
+.?AV?$string_path@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$id_translator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@property_tree@boost@@@property_tree@boost@@
+.?AV?$holder@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@any@boost@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AVtype_info@@
+.?AVbad_typeid@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_exception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+.?AV_Locimp@locale@std@@
+.?AVinvalid_argument@std@@
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVerror_category@system@boost@@
+.?AVnoncopyable@noncopyable_@boost@@
+.?AVsystem_error_category@?A0x2bdd8c78@@
+.?AVgeneric_error_category@?A0x2bdd8c78@@
+GGGGGGgGl
+ggglllgGggg
+Glssllss
+```xx
+N]FFYIIIIIIIIIIIIIIIIIIIIIIII]X
+F]IND|
+xNZvQ^
+HmRvLHXKtzjG
+IZqQ^}
+QMhLHXFJ
+\HLhRF
+{#^MhZHXFJ
+kHZqMMY
+bRh^HXFJz
+NXHLQVrtx
+hQLHHPJz
+NPHZQVib
+#^QUZHXJ
+NPXZvVO^
+KQq^HXD
+DFPHqMOT}
+|DDt}
+vvLZHD
+DFPHqMOT
+qRVmRT^Y
+ZvLZHD
+Ed`DFPHUMOT}[
+FiSS_OOOOOiQ
+bULZHD
+`DKPHUMOT}
+fWWS_OVVVViOVTI
+LLZHD
+Ed`DKFHUMOT
+wWWSOVVMMMMMVVRP
+XLZHD
+`DKFHUMOT}~
+OVMRccccRRRQPt
+PZZHD
+`DKFXUMOT
+wWS_OmRcQQQQQQhhqHFHZHHD
+Eo`DKFXUROT
+wWS_VMcQhvvqqqqUULZZHHXD
+[DKFXUROT}[
+fWS_VRQhvUUULLLLZZHHHHXDy
+EoxDKFXUROT
+fWS_VcQvULL^ZZZZHHXXXXPD
+Eo`DKFXUMOT
+fSSOmQhqULZZHHHHXPPFPPFJn
+DKFXUROT
+pzfSSOMQvULZZHHHHXPFKKFFFJ
+DKFXLROT
+fSSOMQvU^ZHHHHXPFK]]KKb|y
+Eo`DKFXLROT
+qSSOMQqLZZHHHXPPK]YYY]Y|n
+EoxDKFXLROT
+qSSOMQULZHHHXXPFKYIIIIItn
+DKFXLROT
+wSSOMQULZHHXXPFK]YI\\\\t
+Eo[J]FXLROT}
+qSSOMQULZHHXPPFKYI\kkkNe
+`J]FPLROT}[[
+fSSOMQU^HHXXPFK]YIkNNNNey
+[J]FXLROT
+fSSOMQULHHXPPFKYI\NNDDDe
+Ed`J]FXLROT
+fSSOMQULHHPPFK]YIkNDDDDey
+`J]FXLROT
+fSSOMQqLHHPFFK]I\NDDDDDey
+Ed`J]FXUMOT
+zfSSOMQqLHXPFK]YIkNDDDDJ
+JKFHUMOT
+fSSOMQqLHXFKKYI\NNDDDDJ
+JKPHqMOT
+$j{{
+fSSOmQvLHPFK]YI\NDDDDDJ
+DKXZhV_T}[~
+zqSSOVcvLHPF]YI\NNDDDDDJ
+DFHLQV_q
+SS_VRhUZPF]YI\NNDDDDDJ
+DPZURiOF
+FSS_VMQqZHF]YI\NDDDDJJJ
+DPZvMir
+RS_OVRhUHPKYI\NDDDJJJJ
+DXLhMRI
+`Ym__VMQqZXF]I\NNDDJJJJ
+DXLQRF
+xbm_OVcvLHF]I\NDDJJJJJ
+xJXLhU
+VVMQqZXKY\NDDJJJJJ|
+DYK]
+HHXF]INJ|tteeeeeee
+uaauEGGGG
+GGGGGGGGGGGGGGEGGEEEaEEuaEaEEGEEE
+EOPJ7
+P444JOJ444Y
+^^oooo^^^
+VVVVVV
+N62:
+hN2Sz
+K2?U
+A2CU
+}H6A
+ASCD3
+:86@3
+UUD3i
+4Q:86<3W
+UD@DUDh
+CKa_
+4M:86<3\
+<;TT;D}
+JM:56<3
+9D;N????
+g|6K
+E:56<3\r
+I9@N?HHHHCB622A
+M:56<3krub
+lI9<N
+C666|288SA7q
+4Q:5|<3\
+]I9;?H6|22S8558:7E
+JQ:5|<3W
+x]I9;?C622S8[LL~R7E
+M:5|<3k
+B|2S8fLGFG
+p:5|<3k
+]I9;H622
+8[GFdF
+JMR52<3W
+yw]I9;H62S85LFd>>
+4MR5|<3W
+62g5[Gd>11c7X
+4Mz5|<3
+uyw]I9;
+628fLFd111=YX
+4QR56@3W
+]I9;?6S5[GF>111=7E
+R86D3krv
+]I9<?6S[LFd>111=7Q
+:2HU3\
+]I9<?CS
+GF>1111=
+9DNH2[Gd>11Z1=
+JQAC;
+;?6fGF>11ZZ=7O
+DTHS
+F>11Z1=
+cc===
+nmEp
+QEXXXXXEqq7___
+4_``
+stuvwxyz{|}~
+cdefghijklmnopqrSTUVWXYZ[\]^_`abCDEFGHIJKLMNOPQR3456789:;<=>?@AB#$%&'()*+,-./012
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>
+0;0@0F0M0
+011K1U1h1
+1(222?2I2W2a2z2
+3:3J3[3
+404>4S4
+4F5Y5g5x5
+6A6R6m6~6
+667H7
+7)8@8x8
+8<9S9
+:#:::r:
+;+;c;z;
+<J<W<d<p<u<
+<	= =K=
+=J>]>m>z>
+?1?`?e?{?
+"0f0u0
+1;1N1
+5 6H6d6
+787I7T7h7-8t8
+<T<p<
+=">9>b>
+F0X0l0
+2{2^3
+3*4O4
+7;7L7o7
+8#8@8Z8k8
+8#9:9c9
+<F=X=
+050I0v0
+151I1v1
+252I2s2y2
+393?3
+6;6R6
+6/7F7q7
+8 8v8
+9(9S9{9
+:f:u:
+:$;K;
+<#<F<[<e<o<v>
+61C1
+1&494
+4<5\5q6F7Y7
+869C9
+:%:J:
+;&;3;K;
+F5U5
+748T8
+8F9S9~9
+:H:f:s:
+:8;q;
+065C5
+7V7c7
+<$=F>S>
+L3V5i5
+5V7e7}7
+062E2V2v2
+3&434^4
+<6===l=p=t=x=6>I>,?@?
+3&3R3r3
+.0F7S7
+9f:x:
+<V=c=
+=\>|>
+6V6c6}6
+7X7|7
+;V=e=
+>)>X>l>
+0.0x0
+2F4U4f6u6
+7V7h7
+=F>Y>
+9W9a9
+;&;\;
+7f7s7
+7F9S9~9
+=6>E>
+292C2|2
+3)333
+4V6e6
+7V9c9
+F3U3t3
+5	6)6O6w6
+6:7u7Z8
+<7=z=
+1&181L1s2
+768E8
+0-0e0&151
+6&868
+1'2i2
+2 3B3Y3}3
+3%4<4`4
+7&989
+: :B:u:
+<&<\<
+474O4g4
+4/5e5
+7+7=7U7g7
+7w8V9h9
+090V0
+3V;h;
+=L=j=
+F2U2
+2*3<3
+0&181
+7f9x9
+:T;q;
+=*>W>h>
+3D3K3P3i3{3
+3)4B4Q4j4
+4F5U5m5
+6g6x6
+,1V1f1
+363I369E9
+1&454V7c7^:];
+>f?s?
+8f:s:
+3&454
+9T9l9
+;L;o;
+<F=U=
+5F7V7}7
+?0?W?k?
+0(0H0h0
+101o1
+1	2_2
+3I3V3
+7e7r7
+7)8I8y8
+9&989Q:
+;K;[;8<H<
+>">C>n>
+)0L0[0
+1%1v1
+2V3e3&454
+5b6J788
+61I1
+7F8Y8
+8&9R9
+</<@<E<Y<^<h<
+=)=.=8=V=i=G>L>T>`>
+>@?f?u?
+8M8h8
+f0u0
+1t2y2
+6V7i7
+9*949y9
+9f:s:
+2X3b3V5e5
+6#6J6
+96:E:j:
+:V<i<
+7D8I8(9-9c9
+9k:q:
+;F<U<w<
+5f6u6
+7>7v7
+:';L;
+<_=x=
+0l1f2x2
+1+1A1F1
+7F8U8
+9F:S:
+:6;C;v=
+=F>U>
+13181
+4(4A4F4
+667C7
+>J>O>
+164E4
+9&:8:
+<J=O=y=~=
+>b?y?
+4G5Q5
+5X6f7u7
+>9>C>
+\0f0p0
+;V<e<V=i=#>6?E?
+8]8v8{8
+9f:x:
+>f?y?
+1F3Y3
+9h:m:~:
+;T<Y<j<o<t<
+<f>u>
+0%0V2e2
+3R6f6u6
+F1U1
+:!:F:S:~:
+=L=V=`=
+70V0i0
+1f2u2
+2&333V3
+3	4!5
+:&;9;
+<f=u=
+0f0s0
+1%1F1U1
+4#4V4e4
+4&585
+7X7f7u7
+8&858
+9*9h9v9
+9,:v:
+:f;s;
+0f1u1
+F8U8
+<=<v<
+=6=H=
+>B>e>
+>A?w?
+20363<3B3H3N3T3Z3`3f3l3r3x3~3
+4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
+8.8k8{8
+:':?:
+;);8;
+;l<t<
+B2b2
+5(737d8v8H9R9_9z9
+D031
+8=9U9m9
+:":V:}:
+=+=a>~>
+b061_1
+1"292i2
+>#>'>+>/>3>7>;>?>C>G>K>O>S>W>[>_>c>g>k>o>s>w>{>
+>A?Z?
+0O0h0o0w0|0
+1^1d1h1l1p1
+212[2
+4C4a4h4l4p4t4x4|4
+4F5Q5l5s5x5|5
+6 6j6p6t6x6|6
+9!9e9
+6*6>7P7z7
+8i8s8
+8A9^9):5:A;
+<=<Q<W<
+= =(=0=<=E=J=P=Z=c=n=z=
+>a?{?
+9,>S>`>
+^0Y1q1w1
+2%292@2X2i2o2z2
+3!393H3O3\3
+4*404L4d4
+5'515i5q5
+6&6,656<6W6\6d6j6q6w6~6
+7$7/747A7O7U7b7
+8B8M8
+99:v:
+<K<X<b<p<y<
+=&=]=
+>2>z>
+0+0D0`0i0o0x0}0
+1#1@1
+2/2z2
+5 5+535]5i5
+6|6Y7
+8R8t8
+8G9`9q9
+;D<'>W>
+&0.0
+3@3J3V3_3
+3@4]4b455U5Z5
+9U:u:e;
+;u=U>
+?O?e?
+0n1t1
+2+292N2X2~2
+3%393Z3`3
+314;4c4|4
+4Q5W5{5
+;,;F;z;
+="=9=?=_=h=t=
+>K>T>`>
+>5???
+0!050;0I0\0o0
+0(1H1
+2-2C2I2s2y2
+5Q5V5d5l5x5
+696G6~6
+6.9<9B9\9a9p9y9
+:&:-:A:H:N:\:c:h:q:~:
+?1?=?K?Q?W?\?e?
+3'333f3
+0J2N2R2V2Z2^2b2f2t4
+7 7$7
+9$<h=
+)1P3T3X3\3`3d3h3l3|3
+3n4{4
+5=5F5M5V5
+6 686J6`6s6
+7'8:8C8{8
+8'9B9H9Q9X9z9
+9;:Q:Y:l:w:|:
+;%;e;r;
+0#1Y1
+3X4g4
+96:Y:{:
+; ;0;B;G;
+>a>t>
+;y;K<t<
+C0{0
+9#9*9
+9V:\:u:{:C;N;
+;+<6<@<Q<\<o<
+=]>d>y>
+?&?I?V?b?j?r?~?
+101d1j1v1
+1A2M2
+1/1A1z1
+2`3r3
+6R6c6
+:%:P:X:
+25y5
+5R7h7!=5=K=\=y=
+?X?}?
+*1i1
+1N2W2
+203v3
+3+4:4
+6C6S6b6z6
+7%7P8f8
+;(;,;0;4;8;<;@;D;H;M;X;e;s;
+<&<4<|< >1>g>
+?$?*?/?5?;?D?J?T?Y?_?i?y?
+445a5V6
+93:B:
+;4;@;k;z;
+=&>M>R>Y>`>g>t>}>
+>$?F?L?X?_?
+0-0_0h0
+161@1
+1 292
+3"40474s4~4
+5&5A5U5f5s5
+9?9e9
+:(:/:Q:V:r:
+: ;.;];w;
+<2=n=
+>E>R>
+070G0T0t0
+1=1D1M1W1^1j1p1
+2#2)2/2X2b2}2
+323B3g3
+4/5P5e5
+6 666[6
+:;;S;s;
+<N<n<{<
+2N2`2
+3'3s3
+4V4j4p4
+5Z5j5
+5"616i6z6
+:(;v;
+;&<Y<	=
+=_=|=
+>1>l?
+0&03090C0Q0{0
+2D2n2
+3!3W3^3c3m3w3
+424S4]4g4
+5:5A5H5O5m5z5
+5=6O6c6
+7&7m7
+848A8Q8a8
+8f9s9
+;-;;;C;P;n;x;
++1>1O1t1
+1P2a2
+3L3Z3c3
+4$4L4~4
+405:5
+646@6g6t6y6
+7!7}7
+7E8f8
+9J:x;
+>	?/?
+1R2p2
+909U95;T=X=\=`=d=h=l=p=}=
+=7>f>
+0"0:0B0Z0
+1T1Y1`1e1l1q1
+3"3,3:3z3
+4-444
+8)959
+;H<X<
+=,=s=
+30F0b0t0
+364_4|4
+9G:e:
+?,?6?
+0<3Y3
+8(898>8D8U8Z8g8o8~8
+:=;H;
+<$<*<q<y<
+=*=8=
+>.>;>]>
+596@6
+8/8L8h8
+:,;?;-<9<
+<F=M=
+>:>m>,?
+0M0[0
+:Z;<<
+=3>J>
+4`7m7
+$1(1,1014181<1@1D1H1L1P1]1)2
+3,3X3
+184@7X:
+6-6]6
+618@8>9[9d9p9z9
+>C>S>
+?(?7?k?w?
++0P0
+3"3(3.343:3@3F3N3
+4I4p4y4
+5S5`5j5o5
+666>6
+7 727V7s7
+7K8Q8W8]8
+:":?:P:Z:w:
+;0;|;
+1B1M1
+9,939>9D9O9T9t9
+:$:*:0:B:j:e;t;
+<#</<G<O<T<b<f<s<
+<f=m=
+024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2P3T3X3\3t3x3|3
+334D4]4k4r4w4
+5c5r5
+7B7H7N7T7Z7`7f7l7r7x7~7
+8 8&8,82888>8D8J8P8V8\8b8h8n8t8z8
+>x?~?
+0N0+1
+4=5j5
+5*6Z6
+7G7w7
+7#8J8z8
+9:9t9
+:B:b:
+:+;R;z;
+<*<k<
+>:>j>
+?:?j?
+1J1z1
+3*3Z3
+3%4R4z4
+5J5r5
+5%6X6
+6*7M7s7
+9!:U:x:
+;A;d;
+=9>_>
+?-?Z?
+0:0j0
+051b1
+1)2c2k2
+2-3A3I3`3
+434=4E4\4f4n4
+6,7m7
+798m8
+9.:Z:
+:3;Z;
+;S<z<
+=%>t>
+4*5`5
+5-6z6
+8:8|8
+9-:y:
+;C;b;
+;:<t<
+@0u0
+2:2j2
+3M3z3
+3-4b4
+5=5b5
+6J6z6
+6$7J7}7
+8:8j8
+849d9
+9$:T:
+<"<U<
+=*=E=h=
+>.>Q>t>
+0$090I0Y0d0n0
+141D1N1f1
+2)292D2N2f2
+3%3*343@3J3V3b3l3x3
+4$444D4P4[4_4e4p4t4y4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4
+5$5(5,5<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+t>|>
+1`2d2d3h3l3p3t3x3|3
+989<9H9L9P9T9X9\9`9d9h9l9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:x:|:
+p2t2x2|2
+3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3(4044484<4@4D4H4L4P4T4X4\4`4d4h4l4
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=
+@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+9D;H;L;P;T;X;\;`;d;h;l;p;t;x;
+;\?`?
+0$04080<0D0\0l0p0x0
+1(1,1014181@1X1\1t1x1
+2 24282H2L2\2`2d2l2
+3,3034383@3X3\3t3
+4 4$4,4D4H4`4p4t4x4
+5$54585H5L5P5T5\5t5x5
+6(6,606D6H6X6\6l6p6t6x6
+7(787<7L7P7T7X7\7`7d7h7p7
+8(8,8<8@8P8T8d8h8x8|8
+949D9H9X9\9`9h9
+:,:0:D:H:X:\:l:p:t:x:
+; ;$;(;,;4;L;\;`;d;h;|;
+<,<0<4<8<<<@<D<H<L<P<X<p<
+=$=4=8=H=L=P=T=X=\=d=|=
+>(>,>D>T>X>h>l>|>
+?0?@?D?T?X?h?l?|?
+0(0,0004080<0@0H0`0d0|0
+1 1$14181H1L1\1`1d1h1l1p1t1|1
+2$2(2,2024282<2@2D2L2d2t2x2
+3 30343D3H3L3T3l3|3
+4$4(484<4L4P4`4d4h4p4
+5$54585H5L5P5X5p5
+6(686<6D6\6l6p6
+= =(=4=\=l=x=
+> >(>0>P>d>p>x>
+?$?0?P?X?d?
+0$0,040<0D0L0T0\0d0l0x0
+1 1(10181@1H1P1X1`1h1p1x1
+20282D2d2p2
+3$383@3\3d3|3
+4<4H4h4t4
+5 5,5L5T5\5d5l5x5
+6(646T6`6
+707<7\7h7
+888D8L8l8
+9$989@9L9l9x9
+:<:P:X:d:
+; ;,;L;P;T;\;p;
+<8<@<H<T<t<x<
+=$=,=8=X=`=h=p=x=
+>0>8>@>D>L>`>l>
+?8?D?d?p?
+0<0`0l0t0
+1 1$1(1,1014181@1T1\1p1x1
+2$2,282X2`2h2t2
+383D3l3
+4$404P4X4d4
+5(545\5
+60686D6d6l6t6
+7,747<7H7h7p7|7
+8 8(848T8`8
+9$9,949<9D9L9T9\9d9l9t9|9
+: :@:H:T:t:
+;<;D;L;T;`;
+<$<,<8<\<|<
+=$=0=P=X=`=h=t=
+>$>,>4>@>`>h>p>x>
+?(?0?<?\?d?p?
+0$000P0X0d0
+1,141<1D1L1T1\1d1p1
+2$202P2X2d2
+3 3@3L3l3x3
+444H4X4|4
+545@5`5l5
+6,6<6D6\6p6
+7$7H7h7p7x7
+8(80888@8L8l8t8
+90989D9l9
+:,:8:X:d:
+;(;4;T;`;
+< <(<H<\<d<
+=,=4=H=T=\=t=|=
+>$>8>D>L>d>l>t>
+?<?D?L?T?\?d?l?t?
+0$0D0P0p0|0
+1$101P1\1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,383X3d3
+4<4H4h4p4|4
+585@5H5P5X5`5h5p5x5
+6(606H6P6X6d6
+70787L7T7h7p7x7
+8(8H8P8X8d8
+90989@9H9P9X9`9h9p9|9
+:(:0:<:\:h:
+;(;H;T;t;|;
+<$<<<H<h<t<
+= =,=L=X=x=
+>(>L>l>t>|>
+?(?<?D?`?h?
+00080@0H0P0X0d0
+1(1H1P1\1|1
+242@2`2l2
+3034383<3@3D3H3L3T3h3p3
+484D4d4p4
+4$585@5\5d5
+6$6L6`6h6p6
+7(7H7P7X7d7
+8(848<8T8`8
+909<9\9d9p9
+:4:@:`:l:
+;@;`;h;p;x;
+<8<D<d<p<
+= =@=H=T=t=|=
+>D>h>t>|>
+? ?(?0?8?@?H?P?X?d?
+0(0H0h0
+101P1p1
+202L2P2X2\2t2x2
+3 3<3@3\3`3p3
+4 4(40484<4D4X4x4
+5(5H5h5t5
+606P6p6
+707P7p7
+808P8p8
+989X9t9x9
+:8:X:x:
+;8;X;x;
+<8<@<L<l<t<
+=$=,=4=@=`=d=h=p=
+> >(>0><>
+0<0X0t0
+0(1d1
+2$2D2`2|2
+2(343`3
+585X5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:4:8:<:@:D:X:
+;8;<;|;
+;0<l<
+4\4p4t4
+5$5(5
+;H<X<h<x<
+1$1,141<1D1L1T1\1d1l1t1|1
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3P4T4
+8 8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:
+>0<0
+0!0	
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+110413100000Z
+280128120000Z0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+dZF/
+0Erm9
+b'_o
+@0>0<
+0402
+&https://www.globalsign.com/repository/03
+,0*0(
+"http://crl.globalsign.net/root.crl0
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+130823000000Z
+240923000000Z0`1
+GMO GlobalSign Pte Ltd100.
+'GlobalSign TSA for MS Authenticode - G10
+YR;B
+1R(n]@r<
+`,OX
+.ob]
+)N=S
+E0C0A
+0402
+&https://www.globalsign.com/repository/0	
+;0907
+1http://crl.globalsign.com/gs/gstimestampingg2.crl0T
+H0F0D
+8http://secure.globalsign.com/cacert/gstimestampingg2.crt0
+.XWdA
+[q)a
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+150113000000Z
+171224235959Z0u1
+	Singapore1
+	Singapore1
+Garena Online Pte Ltd1
+Garena Online Pte Ltd0
+YiVE
+s:Zz
+^tkC
+	ufoo
+$0"0 
+http://sv.symcb.com/sv.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+KQyG
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+HzH!
+R[~7c
+Liqn
+0h0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+150115044600Z0#
+(-	,
+9^.1
+;4;0l0V
+T0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+QXAf
+>.*6+"V
+N0L0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+150113000000Z
+171224235959Z0u1
+	Singapore1
+	Singapore1
+Garena Online Pte Ltd1
+Garena Online Pte Ltd0
+YiVE
+s:Zz
+^tkC
+	ufoo
+$0"0 
+http://sv.symcb.com/sv.crl0f
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0
+K0I0
+http://sv.symcd.com0&
+http://sv.symcb.com/sv.crt0
+KQyG
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+131210000000Z
+231209235959Z0
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA0
+XM#bj
+1-=n
++ojr\`
+#0!0
+http://s2.symcb.com0
+e0c0a
+0R0&
+http://www.symauth.com/cps0(
+http://www.symauth.com/rpa00
+)0'0%
+http://s1.symcb.com/pca3-g5.crl0
+SymantecPKI-1-5670
+3130
+5/3X
+Symantec Corporation1
+Symantec Trust Network100.
+'Symantec Class 3 SHA256 Code Signing CA
+dfvj^9y\
+BH1%
+i)%hPlao
+E%k}lALc
+20150115044605Z
+[0Y1
+GMO GlobalSign Pte Ltd1)0'
+ GlobalSign TSA for Standard - G1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+130823000000Z
+240923000000Z0Y1
+GMO GlobalSign Pte Ltd1)0'
+ GlobalSign TSA for Standard - G10
+M7Sx4o
+E0C0A
+0402
+&https://www.globalsign.com/repository/0	
+;0907
+1http://crl.globalsign.com/gs/gstimestampingg2.crl0T
+H0F0D
+8http://secure.globalsign.com/cacert/gstimestampingg2.crt0
+H)PK
+nLsZ
+jv;r
+"g-.
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+110413100000Z
+280128120000Z0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+dZF/
+0Erm9
+b'_o
+@0>0<
+0402
+&https://www.globalsign.com/repository/03
+,0*0(
+"http://crl.globalsign.net/root.crl0
+0h0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+150115044605Z0#
+U?0l0V
+T0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+$iua

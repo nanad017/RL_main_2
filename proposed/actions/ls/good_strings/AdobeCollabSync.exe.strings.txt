@@ -1,0 +1,5174 @@
+!This program cannot be run in DOS mode.
+Ir?pI
+IRich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+t$=p
+=`cL
+t-=LcL
+=0cL
+=tcL
+w$PS
+W QRP
+_^[Y
+D$ PSV
+u	_^
+9@,t
+t99v,u.
+9v,u
+9@4u
+t*9v4u%
+9v4u
+PQVW
+9@4u
+QRPV
+u	_^
+_^][
+w$PS
+W QRP
+_^[Y
+D$ PSV
+u	_^
+{(h cL
+w$PS
+Rh cL
+h cL
+W QRP
+_^[Y
+D$ PSV
+u	_^
+h cL
+{(h<cL
+w$PS
+Rh<cL
+h<cL
+W QRP
+_^[Y
+D$ PSV
+u	_^
+h<cL
+{(hXcL
+w$PS
+RhXcL
+hXcL
+W QRP
+_^[Y
+D$ PSV
+u	_^
+hXcL
+{(hlcL
+w$PS
+RhlcL
+hlcL
+W QRP
+_^[Y
+D$ PSV
+u	_^
+hlcL
+PQRV
+N0Qj
+F0;D$
+F,PQ
+V,QWR
+Qj6W
+9F0v
+;F0r
+UPWQ
+Pj\S
+9F0v
+;F0r
+UQSR
+T$(P
+F RP
+V0Rj
+D$(WPj
+_^[Y
+C(PS
+Chs[
+_^[]Y
+_^[]Y
+_^[]Y
+D$ ;
+j@VW
+Clj@WS
+_^[]Y
+D$(}K
+#\$ 
+t$(#
+l$$3
+#\$(
+#l$$#
+t$0#t$ 
+3t$4
+|$$3
+\$0#
+3\$4
+\$,#
+l$ #
+#\$$3
+#\$ 
+#l$,
+l$$3
+l$,#
+#l$$#
+#\$,
+|$ #
+3T$4
+T$0#
+3T$4
+#\$(
+#\$$#
+#\$(
+_^][
+{h8|#
+Slj@VS
+@l`-@
+Cl`-@
+T$(R
+T$ RP
+^_][
+^_][
+D$,PQ
+T$$SUP
+D$4Q
+_^][
+_^][
+u	_[
+q 9^
+9n u
+^_[]
+tR9n(
+F0^_[
+RPQV
+htdL
+9A@u
+D$$WQRP
+F WQ
+_^][
+_^][
+\$Pjd
+D$XPS
+L$TVjdPQ
+V RS
+N(QS
+F0PS
+T$XR
+L$PPQS
+@DpU@
+j@RP
+|$(QWSRUV
+L$ R
+WDPSQ
+W\SQPP
+G@QRS
+W@PQ
+ODRUP
+W\QPP
+QRPP
+W@PQ
+OXRP
+NXUR
+WXPQ
+QRPP
+QRPP
+QRPP
+OXRUP
+ODRP
+NPSR
+WXPQ
+_^][
+\$,W
+|$8Q
+O@RPS
+ODRP
+GDQSR
+T$ P
+GDQR
+\$(U
+L$$R
+W@PQ
+ODRPS
+WDPQU
+T$ UP
+ODRP
+WXPSQ
+GXQUR
+W(QS
+W0PQ
+O(PU
+O0RP
+T$8P
+ODRP
+T$4Ru
+t&]_[^
+T$$P
+ODRP
+G@QR
+GDQR
+GDQR
+W@PQ
+V\SP
+GXQR
+W$QSS
+OXRP
+ODRP
+ODRP
+NLUR
+WXPQ
+D$8PUj
+u"9D$8t
+G(UR
+O Uj
+]_[^
+W(PQ
+N,WUR
+WpPQV
+V,WUPQR
+9\$(VW
+;\$0
+_^][
+\$ U
+l$(W
+L$(R
+W<PQ
+GPQR
+W@PQ
+OHRP
+WHPQ
+T$ UP
+GHQR
+^_][Y
+N<QR
+O8RP
+G8QR
+W8PQ
+G,QR
+D$$P
+WlPQ
+O8RP
+]_^[Y
+3u	^_
+D$DP
+L$0QR
+D$<PVS
+C,QR
+F8PQ
+F8PQ
+KtRPV
+D$ S
+9t$(s
+L$ P
+]_^3
+OhURWP
+WhUPWQ
+WxQP
+O@RP
+G@QR
+GDQR
+W@PQ
+QRPP
+W\PQ
+O\RP
+O@RP
+W\QPP
+O\RP
+O@RP
+G@QR
+W@PQ
+QRPP
+W\PQ
+O\RP
+O@RP
+W\PQS
+GXQRS
+GDQR
+QRPP
+W\PQ
+l$ V
+_^]3
+\$$SW
+|CWS
+u3SW
+\$ VS
+|$(WVS
+\$$SW
+T$(R
+|$,VW
+PQVW
+L$XPWQ
+T$(VR
+D$<P
+L$(Q
+T$ R
+D$TP
+L$dQ
+D$DP
+T$,U
+L$8QW
+T$ RS
+\$(S
+9\$0u
+L$,Q
+T$,R
+D$$P
+L$ QW
+T$ R
+D$0P
+L$8Q
+T$8R
+D$8P
+L$8Q
+T$0R
+D$DP
+L$<QR
+D$,P
+L$HQ
+D$$P
+L$ QW
+T$DR
+L$(Q
+T$ R
+D$HP
+L$DQR
+D$@P
+L$8Q
+T$HR
+D$ P
+D$DP
+L$$Q
+L$HQ
+T$hR
+L$PQ
+T$<R
+D$hPWU
+L$,Q
+T$<R
+D$(P
+L$ Q
+T$TR
+^]_[
+T$0QR
+D$<Pj
+\$4VS
+L$<Qj
+T$@RS
+D$<Pj
+L$@QP
+D$,P
+l$HUS
++\$$
+L$DQ
+L$8Q
+9T$$
+;T$$|
+L$0j
+D$<P
+D$$Qj
+T$<RP
+D$,P
+;D$$|
+t;y5
+L$(Q
+^_][
+T$ R
+}=9>}
+t;;V
+][_^
+t,;\$
+<+9>
+D$ u]
+D$ uH
+_^][
+_^]3
+ ^[_3
+^[_]
+SWx"
+UVW|
+_^][
+t$(9.}
+L$(Q
+^_][
+^_][
+_^][Y
+D$ _^]
+_^]3
+<+9>}
+_^]3
+_^][Y
+l$$V
+8VUR
+|$(t
+S|	V
+_^][
+D$ _^][
+PSUV
+D$,W
+L$@Q
+T$\R
+D$TP
+L$4Q
+\$xWS
+T$0RS
+D$<PW
+L$0QW
+T$<RS
+D$TPU
+L$tQP
+\$tSW
+D$DP
+L$<Q
+D$XP
+T$(RW
+D$8P
+L$`Q
+T$0RW
+D$DSP
+T$49t
+D$XP
+T$(RW
+D$8P
+L$`Q
+T$<RW
+D$8PS
+T$@9t
+D$XP
+T$(RW
+D$8P
+L$`Q
+T$DR
+D$<P
+D$4P
+L$@Q
+T$HRPU
+L$$Q
+T$LSR
+D$$P
+L$LSQ
+T$HRW
+D$,SP
+uG9D$
+L$$Q~
+D$(P
+T$(R
+D$HPU
+u UW
+L$HWQ
+T$0R
+D$@P
+L$\Q
+T$TR
+D$4P
+r&uy
+r>u{
+r2uo
+r&uc
+r&uM
+VWj`j
+VWj@j
+h,aL
+h<aL
+hDcJ
+hPcJ
+h\cJ
+h8cJ
+hpcJ
+hlbL
+hdbL
+hDcJ
+hPcJ
+h\cJ
+h8cJ
+hpcJ
+htbL
+h|bL
+hDcJ
+hPcJ
+h\cJ
+h8cJ
+hpcJ
+hDcJ
+hPcJ
+h\cJ
+h8cJ
+hpcJ
+PPPPh<
+h|uJ
+hDcJ
+hPcJ
+h\cJ
+h8cJ
+hpcJ
+VWh 
+VWh 
+t-jd
+O_^[]
+SVW3
+QSVWj
+KAJu
+PTYY
+PPPh
+NWx"
+@_^[]
+PPPh
+%h`L
+%L`L
+%0`L
+0;5,
+0;5<
+0;50
+0;58
+0;54
+PPPP
+0;5D
+_^[]
+_^[]
+t	9p
+t	9H
+t.;2u
+O`SS
+F(^[
+QQQh$
+u.Vj
+u.Vj
+_^[]
+_^[]
+K,Wh
+tQ9~(t
+K,Wh
+;0u,9E
+u!j0
+;C4t
+;K4t
+;K(t
+9FXt
+j@hH
+^t	3
+r%Wj
+;w4t&
+GH9E
+G@QP
+N@Pj
+P Sj
+YYWh
+t,j@
+u"9~
+9~0t
+u<9~
+;>t2
+xu	3
+QQSV
+WSSj
+tZSj
+tISSj
+QRPh\4L
+QRPh|4L
+u~9s
+t-9s
+<8PE
+;|84u
+~_^]
+F93t
+Y_^[
+[_^]
+PS@P
+u	;N
+_[^]
+u	;N
+_[^]
+f9<B
+_^[]
+_^[]
+AF@;G
+>_^]
+u	9E
+_^[]
+u	9E
+_^[]
+_@^]
+t+HHt
+SVWj
+_^[]
+RRVh
+uFWj
+_u\S
+:u4W
+_^[]
+tXj4
+t3Vj
+s,9>w(+>
+CSRP
+j\j/
+F(PQ
+SVW3
+QSVW3
+YSPj
+PPPPS
+Y_^[
+SVW3
+PPPPj
+SVW3
+PPPPj
+QQSV
+YSPj
+PPPPS
+Y_^[
+QSW3
+u VP
+Wj Xj
+PShp
+AHJu
+QQSVh
+QSSh
+t.9]
+t&WhH
+5$aL
+t{Wh
+t4SV
+5$aL
+Y_^[
+t?9~
+t99s
+tg@f9
+ua9A
+u\9Y
+f9\F
+QSSSP
+QVSSP
+f9\F
+uIWj
+j\j/
+QQQPh
+uMVj
+u4Pj
+=TUU
+t5;p
+,;0u
+8_^[]
+SS8]
+;8u%
+F(^[
+Y_^]
+_^[]
+_^[]
+SVuA
+;0u,9E
+WWh,
+WWh\
+WWht
+rWWh
+WWhD
+t9A;
+sD9>w@+>
+=UUU
+9_^[]
+x"SSW
+t =I
+t5;p
+,;0u
+8_^[]
+t5;p
+,;0u
+_^[]
+_^[]
+;0u,9E
+;0u,9E
+_^[]
+PVSS
+_^[]
+;0u,9E
+PWh<
+SVhd
+t'Sh
+^xSj
+SWhH
+SWhT
+SWhd
+SWht
+SWh|
+9^4v1
+9^Lv$
+9^dv
+9^|w
+SWhT
+t"h$
+SWh8
+t=h$
+vMSj
+=fff
+=UUU
+t5;p
+,;0u
+8_^[]
+SS8]
+;8u%
+F(^[
+F(^[
+Dzv3
+u]VV
+u%VV
+F90t
+SWhD
+SWhX
+h(	J
+hX	J
+h|	J
+h4	J
+h(	J
+h4	J
+hX	J
+h|	J
+uZ!M
+_^[]
+_^[]
+_^[]
+Wj0[
+_^[]
+_^[]
+;0u,9E
+;0u,9E
+;0u,9E
+s?9>w;+>
+uASWWj
+QWWj
+Qh~f
+F 9x
+QQPQQQQh
+L9$;
+t>j?j
+t:j#j
+<>"#
+{}|\
+^[]'
+8"uQ
+tKSj
+SQSW
+[_^]
+RPPj%Q
+]u#j]j
+;0v1
+YPWh 
+YPWh$
+YPh(
+YPWh,
+ud!}
+YPWh4
+t;Wj
+9C8s
+C,+M
+C0+M
+9G8s
+G,+M
+G0+M$
+YYPV
+9Q8v
+9A8s
+7_^]
+6;7u
+6;7u
+_^[]
++3;C
+_^[]
+_^[]
+_^[]
+j8[jx
+PhHaL
+W	YYj
+D9[Ku
+@uV3
+QZ^&
+t!</t
+VWWW
+VWWW
+_^[]
+j>X]
+/j?Z
+[_^]
+Nt9NuT
+==_^[
+F(^[
+j/_v 
+j/Yf;
+j/Yf;
+j/XP
+v S9s t
+Z;0t	j&
+w 9F
+Fv8W
+0rCW
+QQSVW
+	w-j
+t+QR
+t5;p
+,;0u
+8_^[]
+=TUU
+t5;p
+,;0u
+8_^[]
+t5;p
+,;0u
+8_^[]
+=TUU
+t5;p
+,;0u
+8_^[]
+;8u'
+;8u'
+;8u'
+;8u'
+F(^[
+F(^[
+F(^[
+8Ou	
+_^[]
+,0<	w5
+,0<	w8j
+Y_^[]
+Y_[]
+;0u,9E
+tGSj]
+$SVW
+EuC@
+s(9>w$+>
+s?< ra<\u%;
+u%Sj
+YWVh\
+WVh`
+WVht
+VWSP
+YY_^]
+YY_^]
+YY_^]
+t(Vj
+v+SW
+Yv+SW
+=TUU
+t5;p
+,;0u
+8_^[]
+t5;p
+,;0u
+8_^[]
+t5;p
+,;0u
+t5;p
+,;0u
+SS8]
+;8u%
+t.;2u
+SS8]
+;8u%
+F(^[
+F(^[
+h,4J
+hD4J
+h4GJ
+h@JJ
+h(GJ
+h GJ
+hLGJ
+hXGJ
+hhGJ
+hxGJ
+;0t(
+h|,J
+;0t(
+h@GJ
+;0t(
+;0t(
+u:Vj
+u8Sj
+hp3J
+90u&
+hh2J
+h$HJ
+htEJ
+htEJ
+h8MJ
+9s,t
+hDMJ
+h8BJ
+Vr$j
+h,%J
+h@>J
+hX J
+h`(J
+Sh $J
+hx0J
+tSSj
+hT)J
+hT)J
+h07J
+WhX7J
+h<-J
+hp-J
+h8@J
+J\u~j
+WVht,J
+WVh\MJ
+WVhdMJ
+h >J
+h(>J
+hp.J
+6AQj
+u5Pj
+P,Sj
+u%Pj
+ht/J
+h .J
+ugPj
+h(LJ
+9~,t
+Wh('J
+Wh@'J
+Wh`'J
+Wh|'J
+9~,t@9>t<Wj
+h$(J
+h8(J
+Wr$j
+h,%J
+hLLJ
+hTLJ
+h\LJ
+htLJ
+h|LJ
+h AJ
+hhAJ
+9VTu
+!~\_^]
+h<0J
+h,%J
+Vht,J
+Vh|,J
+h,%J
+j4hH%J
+hH%J
+h,%J
+j<h|%J
+h|%J
+hPCJ
+hp1J
+hp1J
+SSSP
+hD&J
+u%Pj
+u3Pj
+u3Pj
+hX5J
+Wr$j
+h,%J
+u;Pj
+RhH<J
+u9Pj
+hH*J
+h@HJ
+hPIJ
+h GJ
+h(GJ
+(Pj	
+hLGJ
+hXGJ
+hhGJ
+h GJ
+h(GJ
+h4GJ
+h|,J
+h@GJ
+hLGJ
+hXGJ
+hhGJ
+hxGJ
+hXKJ
+h@GJ
+h4GJ
+hH1J
+_^[]
+_^[]
+~%Wj
+hlMJ
+t4Wj
+;0u,9E
+htEJ
+NttN
+s#9>w
+sD9>w@+>
+s&9>w"+>;F
+_^[]
+h GJ
+h(GJ
+hLGJ
+hXGJ
+hhGJ
+hxGJ
+=TUU
+t5;p
+,;0u
+t5;p
+,;0u
+8_^[]
+F(^[
+GVWh
+PWhXPJ
+WSh(OJ
+h0RJ
+h4RJ
+~%Wj
+hlMJ
+t4Wj
+hhRJ
+hdRJ
+hPRJ
+YY_^]
+t]Wj
+h|,J
+_^[]
+t5;p
+,;0u
+8_^[]
+SS8]
+;8u%
+F(^[
+h|dJ
+h|dJ
+h dJ
+VWh\
+^VSh
+h,cJ
+Vh dJ
+SVh0dJ
+VhDdJ
+SVh\dJ
+VhldJ
+_^[]
+;0u,9E
+s?9>w;+>
+h(eJ
+t;Wj.
+t-PS
+h(fJ
+PSh|fJ
+SWhLgJ
+WhXgJ
+SWh(hJ
+SWh0hJ
+SWhDhJ
+SWhLhJ
+WhThJ
+SWh`hJ
+WhhhJ
+SWhthJ
+Wh|hJ
+_^[]
+YYSSj
+hxiJ
+VVVVV
+;F,u
+SSS3
+hDiJ
+hxiJ
+u;SVh(iJ
+t5HuV3
+h(iJ
+h(iJ
+uN9^DtE
+9^Du
+u;SVh(iJ
+mt!=
+hDiJ
+hXiJ
+u7SVh(iJ
+hdiJ
+_^[]
+t5;p
+,;0u
+t	8h
+h<mJ
+h\mJ
+h4kJ
+h`kJ
+hPlJ
+h<lJ
+h|nJ
+h8nJ
+hXoJ
+h,nJ
+h\jJ
+htjJ
+h$jJ
+h,lJ
+htoJ
+hllJ
+h8oJ
+hhnJ
+hDjJ
+hTnJ
+h|mJ
+htlJ
+FdSP
+_^[]
+F(^[
+F(^[
+h(vJ
+_^[]
+_^[]
+u5Pj
+h<qJ
+YYSW
+h(rJ
+;0tJSWh(rJ
+SWh4rJ
+SWh<
+SWh@uJ
+SWhLrJ
+SWh`
+;8t=Sj
+hLrJ
+h@uJ
+uJSj
+h(rJ
+vJSj
+vFSj
+h(rJ
+VhPuJ
+SVhHpJ
+SVhduJ
+SVhluJ
+tp;8t
+h,pJ
+htuJ
+h uJ
+h4uJ
+;0u,9E
+;0u,9E
+h0RJ
+h4RJ
+h0RJ
+h sJ
+h0sJ
+h@sJ
+h@sJ
+hXsJ
+hxsJ
+hxsJ
+h(tJ
+OhTtJ
+hxtJ
+h<qJ
+h(qJ
+u0Sj
+h(qJ
+h<pJ
+h0qJ
+h<qJ
+h0qJ
+hPqJ
+h<pJ
+hHpJ
+hHpJ
+h<pJ
+h`qJ
+u/Pj
+h\pJ
+h\pJ
+hpqJ
+u+Pj
+PtWS
+SVh rJ
+SVh(rJ
+SVh(rJ
+SVh4rJ
+VhLrJ
+VhLrJ
+VhLrJ
+SVh\rJ
+SVh|rJ
+u+Pj
+}	WS
+h<pJ
+h<pJ
+h<pJ
+Q;0t
+h,pJ
+h<pJ
+hHpJ
+h@pJ
+hPpJ
+h\pJ
+hdpJ
+htpJ
+h\pJ
+YYj&
+h<pJ
+YYVj
+h$qJ
+h|qJ
+h|qJ
+h(qJ
+t3Wj
+hHpJ
+u0Pj
+u+Pj
+h\pJ
+hpqJ
+u0Sj
+PdVW
+u0Sj
+PhVW
+h|qJ
+h|qJ
+u0Sj
+h(qJ
+SWh4
+SWh4
+WSh4
+twVj
+SWhluJ
+Wh|uJ
+SWhluJ
+SWh4
+t_SW
+_^[]
+HtRHtFHt:Ht.Ht"Ht
+HHt	
+X+F`
+X+FX+FP
++NPX+
+VW95
+_^[]
+t5;p
+,;0u
+F(^[
+tSSj
+;A`t
+h,xJ
+R$^]
+N\t)
+uK9E
+@;5P
+P,RPW
+{(;{,
+90tRS
+_^[]
+v:SP
+u.!E
+v9SPj
+u,!E
+t$QW
+h(yJ
+h<yJ
+hhyJ
+h(yJ
+FDSP
+GDPj
+SVWh
+h0zJ
+h0zJ
+GDPj
+_^[]
+WSSS
+SSSj
+SSPPPPh
+%SSS
+f99t
+Ph$|J
+PhP{J
+PhP{J
+tFHt7Ht(Ht
+tAHt2
+t!HHt
+QPSW
+j@jn
+_[^]
+B9NXu
+NX^]
+t f9
+u	f9
+Y__^[
+t%Wh
+Y__^[
+F95 
+WVU3
+v	N+D$
+WVS3
+8csm
+8csm
+_^[]
+Y_^[
+Y_^[
+VVVVV
+~4_^
+9FHr3j
+9FHsAj
+RPj 
+u.Sj
+tMPj
+AQWP
+u.Sj
+uUSj
+SVP3
+9^ u%Sj
+9F u
+;N,u
+t5;p
+,;0u
+8_^[]
+s&9>w"+>;F
+;3t#W
+QSVW
+;C8t
+QRPh
+tD9~
+t?Wj
+=DDD
+9_^[]
+t5;p
+,;0u
+SS8]
+;8u%
+5 bL
+5$bL
+5(bL
+58bL
+5<bL
+5@bL
+54bL
+F(^[
+_^[]
+5LbL
+5PbL
+5TbL
+5`bL
+5HbL
+5XbL
+5\bL
+9FXv\S
+_[^]
+Y;7u
+	;F0u
+SQWS
+h<pJ
+5DbL
+h<pJ
+WSh<pJ
+SSj/
+WSh(
+h<pJ
+t!h<
+9~xuB
+WSh<
+WShP
+WShl
+WShd
+sD9>w@+>
+_^[]
+u0jP
+h~;F
+h3<F
+hj;F
+h4;F
+DhO;F
+h{<F
+hM<F
+Vhh<F
+t5;p
+,;0u
+8_^[]
+;8u#
+_^[]
+tnSj
+u<Sj
+;0u,9E
+_^[]
+h@GJ
+h4GJ
+_^[]
+jcY;
+ueVj
+h GJ
+hLGJ
+F(^[
+F(^[
+t.Vj
+j/j\
+t.Sj
+;w$u
+Q$+Q V
+;w$u
+;w$u
+ SVW
+t	9]
+W,YY_^
+;w$u
+K Vj
+<00|4
+<8 t
+;w$u
+P$;w$u
+jcZ;
+j\^Vj/
+j/Yf;
+VShx
+u	;H`
+u_Sj
+SVh$
+_^[]
+t =Kh/
+VVS9wd
+tzVV
+taVV
+u<VV
+u)VV
+^_[]
+_^[]
+^SSQ
+tYSj
+^SSQ
+;0tFSj
+;0tBSj
+tNSj
+sD9>w@+>
+>_^]
+;s$u
+VPj+
+VPj,
+Xf9E
+WShp
+WShx
+_^[]
+SSSP
+tNSj
+tMSj
+R\h@
+ueh4
+VVVP
+ttHt=Ht
+sD9>w@+>
+t?WV
+PSh,
+jcZ;
+uSPj
+t;hl
+t)h|
+hluJ
+tnPj
+;F(t
+h rJ
+VhLGJ
+u.Sj
+Wh4GJ
+N,WP
+SWhLGJ
+SWh(GJ
+P8SWh@GJ
+FVWh
+hLGJ
+h GJ
+hLGJ
+h(GJ
+h@GJ
+t0j,
+hxGJ
+t=Vj
+t=Vj
+VhhGJ
+VhhGJ
+PVhLGJ
+VhXGJ
+VhXGJ
+PVhLGJ
+hLGJ
+_^[]
+udSS
+uQSS
+u>SS
+u+SS
+_^[]
+dv0j
+;0t/3
+SW8X
+SWh8
+SWh8
+VhLGJ
+h(GJ
+t.Wj
+P8^]
+_^[]
+u.Sj
+Vh+@G
+Vh?@G
+Wh4GJ
+N,WP
+tvSWh(GJ
+tYSWh GJ
+tASj
+h GJ
+tYSWh GJ
+tASj
+h GJ
+h@GJ
+t`Vj
+h@GJ
+JVWh
+tZSj
+h@GJ
+hLGJ
+C`9x
+PPPPh@
+WWWP
+cw23
+ucVj
+tYh,
+hxGJ
+Wh+@G
+Wh?@G
+t2j$
+SWh,
+SWh0
+SWhH
+SWhT
+(SSP
+h(GJ
+tBVj
+h@GJ
+O VP
+h GJ
+h(GJ
+h GJ
+h(GJ
+;0t3j
+N(PP
+h GJ
+h(GJ
+Vh GJ
+h GJ
+h GJ
+h GJ
+u4Wj
+WVh GJ
+@PPPP
+SSh(
+SShx
+@PPPP
+v\Sj
+t VW
+VhhGJ
+PVhLGJ
+VhXGJ
+PVhLGJ
+jcY;
+hLGJ
+h(GJ
+WSh(GJ
+ueVj
+h GJ
+hLGJ
+u+PVh
+h(GJ
+YYPVW
+VPj+
+VPj,
+VVVV
+VVVV
+twSj
+h(GJ
+tWPj
+h GJ
+h GJ
+tWQj
+h GJ
+h GJ
+{SWh
+;SWh8
+h(GJ
+h(GJ
+tySWh$
+t>SWh0
+tsSWh$
+t8SWh0
+Wh,cJ
+h|dJ
+h(GJ
+h(GJ
+VWh GJ
+VWh|,J
+VWh4GJ
+h0dJ
+h\dJ
+VWh GJ
+Wh|,J
+VWh4GJ
+h GJ
+h|,J
+h4GJ
+h GJ
+h|,J
+h4GJ
+h GJ
+h|,J
+h4GJ
+VhxGJ
+SVh4
+VWh4
+VWh GJ
+Wh|,J
+VWh4GJ
+h GJ
+h|,J
+h4GJ
+h GJ
+h|,J
+h4GJ
+h GJ
+h|,J
+h4GJ
+SVh(GJ
+v$j/
+SVh GJ
+SVh|,J
+SVh4GJ
+Wh|,J
+VWh4GJ
+h(GJ
+uGWj
+h GJ
+hXGJ
+hhGJ
+WVh|,J
+WVh4GJ
+h(GJ
+r!=+
+cw	j@
+;0t/3
+hLGJ
+h(GJ
+t.Wj
+P8^]
+_^[]
+u.Sj
+Vh+@G
+Vh?@G
+Wh4GJ
+N,WP
+SWh@GJ
+Wh@GJ
+JVWh
+tZSWh@GJ
+hLGJ
+90tV
+h(GJ
+uZWj
+90tV
+h(GJ
+h(GJ
+cw?j
+h(GJ
+hxGJ
+Wh+@G
+Wh?@G
+t2j$
+hldJ
+h|dJ
+Sh,cJ
+PWh|dJ
+tzSj
+SVh4
+SVhH
+SVhL
+SVh4
+SVht
+F,	H\
+(SSP
+@t	j
+h(GJ
+tBVj
+cw[SV3
+^[_]
+h@GJ
+h GJ
+h(GJ
+h GJ
+;0t3j
+N(PP
+h GJ
+h(GJ
+Vh GJ
+h GJ
+h GJ
+h GJ
+u4Wj
+WVh GJ
+t~9]
+tyShx
+t<Sj
+v\Sj
+VhhGJ
+PVhLGJ
+VhXGJ
+PVhLGJ
+hLGJ
+h(GJ
+WSh(GJ
+ueVj
+h GJ
+hLGJ
+u,Pj
+h(GJ
+_^[]
+j<^Vj
+uFWj
+SVWP
+P$Sj
+Y_^[
+9^,t49^0v/S
+SWSSSP
+VWj@
+F(^[
+PShH
+PShL
+<z~$<A|
+[SWP
+j/Z3
+h(rJ
+>_^]
+Y_^[
+bad allocation
+BIBStringInterface
+BIBErrorInterface
+Invalid CBIBError
+NewStringAtom
+BIBNewStringAtomProc
+DeleteStringAtom
+BIBDeleteStringAtomProc
+GetCString
+BIBGetCStringProc
+AddRef
+BIBAddRefStringAtomProc
+BIBMemoryInterface
+BIBCacheInterface
+BIBContainerInterface
+BIBRegisterProcAddress
+BIBReportError
+BIBUnregisterInterface
+BIBGetUnregisterCountAddr
+BIBIsMultiThreaded
+NewCacheID
+BIBCacheNewCacheIDProc
+BIBCacheAddRefProc
+Release
+BIBCacheReleaseProc
+Attach
+BIBCacheAttachProcV2
+BIBCacheAddProc
+UpdateCost
+BIBCacheUpdateCostProc
+ReturnCost
+BIBCacheReturnCostProc
+MarkNoPurge
+BIBCacheMarkNoPurgeProcV2
+MarkPurge
+BIBCacheMarkPurgeProc
+GetCacheTime
+BIBCacheGetCacheTimeProc
+CurrentCacheSize
+BIBCurrentCacheSizeProc
+NewCachePurge
+BIBCacheNewCachePurgeProc
+PurgeNextBlock
+BIBCachePurgeNextBlockProc
+DeleteCachePurge
+BIBCacheDeleteCachePurgeProc
+PurgeAll
+BIBCachePurgeAllProc
+PurgeAllStaticCaches
+BIBCachePurgeAllStaticCachesProc
+AddClientPurge
+BIBCacheAddRemoveClientPurgeProcV2
+RemoveClientPurge
+NewCacheSet
+BIBCacheNewCacheSetProc
+AddRefCacheSet
+BIBCacheAddRefCacheSetProc
+DeleteCacheSet
+BIBCacheDeleteCacheSetProc
+SearchForID
+BIBCacheSearchForIDProc
+RemoveID
+BIBCacheRemoveIDProc
+RemoveIDs
+BIBCacheRemoveIDsProc
+NewError
+BIBNewErrorProc
+GetCoreError
+BIBGetCoreErrorProc
+BIBErrorAddRefProcV2
+BIBErrorReleaseProc
+GetErrorMessage
+BIBErrorGetMessageProc
+GetComponent
+BIBErrorGetComponentProc
+GetID
+BIBErrorGetIDProc
+GetErrorInfo
+BIBGetErrorInfoProc
+Missing Interface
+Alloc
+BIBMemAllocProc
+Realloc
+BIBMemReallocProc
+Free
+BIBMemFreeProc
+GetBlockSize
+BIBMemGetBlockSizeProc
+NewFullContainer
+BIBNewFullContainerV5Proc
+NewContainer
+BIBNewContainerV2Proc
+CloneContainer
+BIBCloneContainerProc
+BIBAddRefContainerV2Proc
+BIBReleaseContainerProc
+DecrementWithoutDelete
+BIBDecrementWithoutDeleteProc
+DeleteUnownedContainer
+BIBDeleteUnownedContainerProc
+RegisterInterface
+BIBRegisterInterfaceV2Proc
+RegisterInstance
+BIBRegisterInstanceV2Proc
+GetMethod
+BIBGetMethodV3Proc
+GetParentMethod
+BIBGetParentMethodV2Proc
+GetInstance
+BIBGetInstanceProc
+NGetInstance
+BIBNGetInstanceProc
+GetSignature
+BIBGetSignatureProc
+DebugGetRefCountAddr
+BIBGetRefCountAddrProc
+GetOffsetToPrimaryInstance
+BIBGetOffsetToPrimaryInstProc
+GetBuffer
+GetSize
+GetBlock
+BIBDataStoreGetBlockProcV2
+BIBSizedDataStoreGetSizeProc
+GetNextBlock
+BIBDataBlockStreamGetNextBlockProc
+Rewind
+BIBDataBlockStreamRewindProc
+ZAXE8ExpatInterface
+DefaultCurrent
+AXE8Expat_DefaultCurrent
+ErrorString
+AXE8Expat_ErrorString
+ExpatVersion
+AXE8Expat_ExpatVersion
+ExpatVersionInfo
+AXE8Expat_ExpatVersionInfo
+GetBase
+AXE8Expat_GetBase
+AXE8Expat_GetBuffer
+GetCurrentByteCount
+AXE8Expat_GetCurrentByteCount
+GetCurrentByteIndex
+AXE8Expat_GetCurrentByteIndex
+GetCurrentColumnNumber
+AXE8Expat_GetCurrentColumnNumber
+GetCurrentLineNumber
+AXE8Expat_GetCurrentLineNumber
+GetErrorCode
+AXE8Expat_GetErrorCode
+GetExtendedErrorCode
+AXE8Expat_GetExtendedErrorCode
+GetFeatureList
+AXE8Expat_GetFeatureList
+GetIdAttributeIndex
+AXE8Expat_GetIdAttributeIndex
+GetInputContext
+AXE8Expat_GetInputContext
+GetSpecifiedAttributeCount
+AXE8Expat_GetSpecifiedAttributeCount
+GetUserData
+AXE8Expat_GetUserData
+Parse
+AXE8Expat_Parse
+ParseBuffer
+AXE8Expat_ParseBuffer
+ParserCreate
+AXE8Expat_ParserCreate
+ParserCreateMM
+AXE8Expat_ParserCreateMM
+ParserCreateNS
+AXE8Expat_ParserCreateNS
+ExternalEntityParserCreate
+AXE8Expat_ExternalEntityParserCreate
+FreeContentModel
+AXE8Expat_FreeContentModel
+ExpatMemMalloc
+AXE8Expat_ExpatMemMalloc
+ExpatMemRealloc
+AXE8Expat_ExpatMemRealloc
+ExpatMemFree
+AXE8Expat_ExpatMemFree
+ParserFree
+AXE8Expat_ParserFree
+ParserReset
+AXE8Expat_ParserReset
+SetBase
+AXE8Expat_SetBase
+SetUserData
+AXE8Expat_SetUserData
+SetUserHandlerError
+AXE8Expat_SetUserHandlerError
+UseForeignDTD
+AXE8Expat_UseForeignDTD
+UseParserAsHandlerArg
+AXE8Expat_UseParserAsHandlerArg
+SetAttlistDeclHandler
+AXE8Expat_SetAttlistDeclHandler
+SetElementDeclHandler
+AXE8Expat_SetElementDeclHandler
+SetEntityDeclHandler
+AXE8Expat_SetEntityDeclHandler
+SetXmlDeclHandler
+AXE8Expat_SetXmlDeclHandler
+SetCdataSectionHandler
+AXE8Expat_SetCdataSectionHandler
+SetCharacterDataHandler
+AXE8Expat_SetCharacterDataHandler
+SetCommentHandler
+AXE8Expat_SetCommentHandler
+SetDefaultHandler
+AXE8Expat_SetDefaultHandler
+SetDefaultHandlerExpand
+AXE8Expat_SetDefaultHandlerExpand
+SetDoctypeDeclHandler
+AXE8Expat_SetDoctypeDeclHandler
+SetDocTypeNameHandler
+AXE8Expat_SetDocTypeNameHandler
+SetDocTypePublicIDHandler
+AXE8Expat_SetDocTypePublicIDHandler
+SetDocTypeSystemIDHandler
+AXE8Expat_SetDocTypeSystemIDHandler
+SetElementHandler
+AXE8Expat_SetElementHandler
+SetEncoding
+AXE8Expat_SetEncoding
+SetEndCdataSectionHandler
+AXE8Expat_SetEndCdataSectionHandler
+SetEndDoctypeDeclHandler
+AXE8Expat_SetEndDoctypeDeclHandler
+SetEndElementHandler
+AXE8Expat_SetEndElementHandler
+SetEndNamespaceDeclHandler
+AXE8Expat_SetEndNamespaceDeclHandler
+SetExternalEntityRefHandler
+AXE8Expat_SetExternalEntityRefHandler
+SetExternalEntityRefHandlerArg
+AXE8Expat_SetExternalEntityRefHandlerArg
+SetExtErrorParmHandler
+AXE8Expat_SetExtErrorParmHandler
+SetInternalEntityDeclHandler
+AXE8Expat_SetInternalEntityDeclHandler
+SetNamespaceDeclHandler
+AXE8Expat_SetNamespaceDeclHandler
+SetNotationDeclHandler
+AXE8Expat_SetNotationDeclHandler
+SetNotStandaloneHandler
+AXE8Expat_SetNotStandaloneHandler
+SetParamEntityParsing
+AXE8Expat_SetParamEntityParsing
+SetProcessingInstructionHandler
+AXE8Expat_SetProcessingInstructionHandler
+SetPrologTokenRoleHandler
+AXE8Expat_SetPrologTokenRoleHandler
+SetReturnNSTriplet
+AXE8Expat_SetReturnNSTriplet
+SetSkippedEntityHandler
+AXE8Expat_SetSkippedEntityHandler
+SetStartCdataSectionHandler
+AXE8Expat_SetStartCdataSectionHandler
+SetStartDoctypeDeclHandler
+AXE8Expat_SetStartDoctypeDeclHandler
+SetStartElementHandler
+AXE8Expat_SetStartElementHandler
+SetStartNamespaceDeclHandler
+AXE8Expat_SetStartNamespaceDeclHandler
+SetUnknownEncodingHandler
+AXE8Expat_SetUnknownEncodingHandler
+SetUnparsedEntityDeclHandler
+AXE8Expat_SetUnparsedEntityDeclHandler
+SetNamespaceResolverHandler
+AXE8Expat_SetNamespaceResolverHandler
+GetLimit
+AXE8Expat_GetLimit
+SetLimit
+AXE8Expat_SetLimit
+SetLimitHandler
+AXE8Expat_SetLimitHandler
+IsValidXMLName
+AXE8Expat_IsValidXMLName
+CAXE_VERSION_8_EXPAT=3.9.0
+CAXE_VERSION_8_EXPAT_BIB=1.2.10
+generic
+unknown error
+iostream
+iostream stream error
+system
+CreateActCtxW
+ActivateActCtx
+DeactivateActCtx
+FindActCtxSectionStringW
+QueryActCtxW
+GetModuleHandleExW
+IsolationAware function called after IsolationAwareCleanup
+Kernel32.dll
+inprogress
+sync
+SYNC
+reader
+ACRD
+ACRO
+17.0
+size overflow
+Size overflow exception
+adobesynchronizersLockObj
+could not find BIB
+invalid axe version
+could not find AXE
+Could not load AXE
+DBRecoveryOptions
+DeleteDB
+NeedsVaccum
+VACUUM
+string too long
+invalid string position
+vector<T> too long
+Unable to create connection
+Invalid schema, recreate database
+map/set<T> too long
+AXE8SharedExpat.dll
+BIB.dll
+Invalid start position
+Unsupported encoding
+index out of bounds
+&lt;
+&gt;
+&amp;
+&quot;
+Invalid encoding
+unable to join thread
+unable to open file 
+Invalid Parameters.
+GetModuleFileNameW failed with error code: 
+File path too big 
+file size larger than 4GB encountered
+File size too large
+unable to create tls index
+thread should be able to acquire semaphore
+must own monitor prior to calling exit()
+must own monitor prior to calling wait()
+must own monitor prior to notify
+likely unbalanced enter/exit monitor pair (extra exit)
+unable to set tls value
+unable to create tls data
+\Shell32.dll
+SHGetKnownFolderPath
+AppVEntSubsystems32.dll
+AppVEntSubsystems64.dll
+Reader
+Acrobat
+Acrobat.exe
+\\?\
+Unable to find user path
+Adobe
+Synchronizer
+PrefSync
+Commands
+Notification
+0BjF
+\ieframe.dll
+IEIsProtectedModeProcess
+error setting key 
+out of memory while setting key 
+progress
+cancel
+authInfoValid
+displayInProgressToast
+displayOpCompleteToast
+operationList
+ResourceID
+ParamsMap
+SpaAcrobatURL
+lastOperationSuccessCount
+parentResourceID
+urlWhiteList
+blockURLWhiteListAddition
+timeSince
+list<T> too long
+basic
+digest
+ntlm
+NTLM
+realm
+auth
+auth-int
+Basic 
+algorithm
+MD5-sess
+nonce
+Unable to form valid digest value without a nonce
+%08X
+Digest username="
+", realm="
+", nonce="
+", uri="
+", qop=auth, 
+algorithm=MD5-sess, 
+, cnonce="Adobe", response="
+opaque
+", opaque="
+https://services.acrobat.com/account/wsapi/
+https://services.acrobat.com
+false
+true
+Acrobat.com
+ActiveSettings
+Acrobat.com/
+ApiKey
+Secret
+BaseURL
+HostURL
+TOBURL
+RengaURL
+UseRengaAuth
+Acrobat.com.v2
+Acrobat.com.v2/
+SecretSync
+ApiKeySync
+SecretAcRd
+ApiKeyAcRd
+https://api2.acrobat.com
+https://v4.services.acrobat.com/
+https://v3.services.acrobat.com/
+https://api2.acrobat.com/webservices
+bmkzNDZEcnp7WmdFZ35mRntQQnZ8RxdIU3teeW5PaFVJQE9DcG8fYWNbXkRsLg==
+a01HTX9LM0E9RXt4eEZJZyF+JGdUYRdOTWp0V1FVbFZlbEBJQlB0TVB+fn5KLg==
+MmFmPTY+Mj4wM2g4azc3KXNwK3Ihcicrfyt/LComekIhR0YXE0ARSUwYGx5LSxsEAAJXAgxSVAoKX1pZBVpdeSNC
+OGQyNzNnZTpsPDxqO2s3dnd2ISUicHN+L3t4K3svJ0IhQBUcQEJDHBscEx4UFk4BAQtQA1QDVFoLDwgIDwtdIndC
+https://api.share.acrobat.com/webservices/api/v1/
+https://api.share.acrobat.com
+https://tob.acrobat.com/TOB/
+AdobeAuth 
+apikey="
+sessionid="
+,data="
+",sig="
+<request>
+<username>
+</username>
+<password>
+</password>
+<auxReq code="Brio2Mtg">
+REQCREATE
+</auxReq>
+<auxReq code="RMT">RMT_RENGA</auxReq>
+</request>
+<authtoken type="
+</authtoken>
+<auxReq code="RMT">
+https://WebServiceJob/
+auth/
+account/wsapi/auth/v1
+POST
+.docid
+https://PrefSyncJob
+<request><file>
+<createpdf>true</createpdf>
+<name>
+</name>
+<description>
+</description>
+<renditions>
+</renditions>
+<behavior><![CDATA[<datafolderid>
+</datafolderid>]]></behavior>
+</file></request>
+<request><authtoken>
+</authtoken></request>
+read
+delete
+QuickTools
+Apps
+members
+name
+md5_digest
+null
+PrefSyncTestTrack
+UseTestProductVersion
+TestProductVersion
+Beta
+Prod
+Trunk
+[AcroApp][Favorites]
+[AVGeneral][FavoritesCommandsDesktop]
+#cab
+CachedJson.txt
+LocalJson.txt
+ServerJson.txt
+[Annots]
+[Identity]
+[RememberedViews][RememberView#int]
+[Originals][SaveAsLinearized#bool]
+[Originals][OpenInPlace#bool]
+[Originals][NoteOpacity#int]
+[Originals][HoveringPopups#bool]
+[OptionalContent][AutoSetLayers#bool]
+[AVGeneral][AllowDocsToHideUI#bool]
+[AVGeneral][MaxMRUCntToBeStored#int]
+[AVGeneral][HidePopupIfShowSummary#bool]
+[AVGeneral][PopupsScrollWithPage#bool]
+[AVGeneral][ShowAnnotConnector#bool]
+[AutoSaveDocs][AutoSaveDocsEnabled#bool]
+[AutoSaveDocs][AutoSaveDocsInterval#int]
+[Comments]
+[AVConversionFromPDF]
+[AVConversionToPDF]
+[AVGeneral][Dockables]
+[AVGeneral][OnBoarding]
+[AVGeneral][ShowQuickTools#bool]
+[PaperCapturePlugin]
+[AcroApp][Custom_Apps]
+[Annots][Prefs][copyTextToDrawAnnot#bool]
+[Annots][Prefs][copyTextToMarkupAnnot#bool]
+[Annots][Prefs][favoriteStamps]
+UserPrefs
+ValidPrefValue_Acrobat.txt
+ValidPrefValue_Reader.txt
+[AcroApp]
+Custom_Apps
+Path#text
+URI 
+ contains an illegal character '
+' (position 
+%%%02x
+Unexpected error while parsing URI 
+Only an absolute URI can be used as a base for resolution
+Cannot get value of unspecified URI component.
+/../
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+0123456789
+0123456789abcdefABCDEF
+!$&'()*+,;=
+https
+http
+acrobat
+Unable to allocate memory for DataBlob.
+Insufficient size in DataBlob while trying to set data.
+Insufficient size in DataBlob while trying to packStrings.
+0a38b29c61c45fd7
+v3.services.acrobat.com
+CredentialsV3
+CredentialsV4
+Unable to decrypt data
+Unable to encrypt data
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+%%%2x
+bad escape sequence: 
+COMMIT
+' sqlite error '
+Error executing sqlite statement '
+ROLLBACK
+BEGIN
+ IMMEDIATE
+:memory:
+no such database 
+select 1
+not implemented.  sqlite has no concept of default database
+not implemented
+expected valid connection
+timestamp not supported
+Error executing update
+ timestamp not supported
+attempt to fetch null column
+Error stepping statement
+select count(gid) from global_state where gid=1 and schema_version >= 2011
+metadata
+invalid hour parameter
+select max(decay_start), max(last_time), max(last_decay_reset) from resource_groups where id in ( select gid from resource_group_nodes where rid=? ) 
+delete from response_headers where rid=?
+insert into response_headers(rid, name, value) values (?,?,?)
+update resources set url=?, state=? ,lastsynchronized=if(?,?,lastsynchronized), ttl=?, skiphours=?, skipdays=?, synchpriority=?, synchretries=?, flags=?, contentsize=?, cursyncetag=?, cursynclastmodified=?, cursynccontentsize=?, cursynctotalsynced=?, responsecode=?, hash=?, guid=?  where rid=?
+no file for resource
+insert into resources(url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid ) values (?,?,if(0,?,?),?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+error creating file
+select name, value from response_headers where rid=?
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources where url=? 
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources where rid=? 
+update resources set lastsynchronized=?, synchpriority=50  where rid=?
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources where synchpriority< 50 and state =5 and ttl!=2147483647 order by synchpriority asc limit ?
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources where synchpriority< 50 and state !=0 and state !=5 and ttl!=2147483647 and flags & ? == 0 order by synchpriority asc limit ?
+select rid, url, state, lastsynchronized, ttl, skiphours, skipdays, synchpriority, synchretries, flags, contentsize, cursyncetag, cursynclastmodified, cursynccontentsize, cursynctotalsynced, responsecode, hash, guid from resources where synchpriority >= 50 and state != '0' and ttl!=2147483647 and flags & ? == 0 and ( lastsynchronized=0 or ( lastsynchronized + ifnull(ttloverride, ttl)  < ? ) ) and (skiphours & (1 << ?)) = 0 and (skipdays & (1 << ?)) = 0 order by synchpriority asc limit ?
+select rid from resources where state!=0 and synchpriority < 50 and ttl!=2147483647 and flags & ? == 0 limit 1
+select ifnull(ttloverride,ttl) +lastsynchronized from resources where state !=0 and ttl!=2147483647 and flags & ? == 0 order by lastsynchronized + ifnull(ttloverride,ttl) asc limit 1
+unable to open file to check size
+update resources set contentsize=? where rid=?
+exceeded size of in query
+update resources set synchpriority=?  where rid in 
+update resources set synchpriority=? , ttl=?  where rid in 
+update resources set ttl=? where rid=?
+update resources set ttloverride=? where rid=?
+update resources set ttl=?  where responsecode>?
+delete from dependencies where rid=?
+update resources set ttl=-1  where rid in 
+delete from resources where rid=?
+delete from dependencies where did=?
+select rid from resources where url=?
+delete from dependencies
+delete from resources
+delete from response_headers
+delete from resources_items
+delete from resource_group_nodes
+delete from resource_groups
+select id from dependencies where rid=? and did=?
+insert into dependencies( rid, did ) values (?,?)
+ and did not in (
+delete from dependencies where rid=? 
+select r.rid from dependencies d, resources r where d.rid=? and d.did=r.rid and (r.state=1 or r.state=3 or r.state=0 )
+delete from dependencies where rid=? and did=?
+select r.url from dependencies d, resources r where d.rid=? and d.did=r.rid
+select did from dependencies where rid=?
+update resources set synchpriority=if(state !=?, 0, synchpriority), state=? where rid=?
+select id, ordinal, guid, hash, last_modified, read from resources_items where rid=? order by ordinal ASC
+insert into resources_items (rid, ordinal, guid, hash, last_modified, read ) values (?,?,?,?,?,?)
+update resources set flags=flags|? where rid=?
+update resources set flags=flags & ~? where rid=?
+select count(rid) from resources_items where rid=? and read=0
+update resources_items set read=? where rid=? and guid=?
+update resources_items set read=? where rid=? and hash=?
+update resources_items set read=? where rid=?
+update resources_items set read=? where rid in 
+update resources set flags=flags & ~? 
+update resources set flags=flags|? 
+ where 
+ in 
+select r. rid, r. url from resources r, dependencies d where d.did=? and d.rid=r.rid
+expected result from query select count(rid) from resources_items where rid=? and read=0
+select count(rid) from resources_items where rid=?
+expected result from query select count(rid) from resources_items where rid=?
+delete from resources_items where rid=?
+select count( did) from dependencies where did=? 
+expected result for query select count( did) from dependencies where did=? 
+select count(rid) > 0 from resources where state != 0 and ttl!=2147483647 and flags & ? == 0 and flags & ? == 0 
+expected result for query select count(rid) > 0 from resources where state != 0 and ttl!=2147483647 and flags & ? == 0 and flags & ? == 0 
+select notification_enabled from global_state where gid=1
+expected result from select notification_enabled from global_state where gid=1
+update global_state set notification_enabled=? where gid=1
+update global_state set notification_state=? where gid=1
+select notification_state from global_state where gid=1
+expected result from select notification_state from global_state where gid=1
+update resources set ttl=0  where responsecode>=1000  and state != 0
+Error occured while updating TTL.
+update resources set synchpriority=?  where flags & ? = 0 and state != ?
+select id, track_def_flags from resource_groups where urn=?
+select id, track_def_flags from resource_groups where id in (select gid from resource_group_nodes where rid=?)
+update resource_groups set timeSince=? where id=? 
+alter table resource_groups add timeSince text not null default '' 
+select timeSince from resource_groups where id=? 
+update resource_group_nodes set track_flags= (track_flags | ? ) where gid=? and rid=? 
+insert into resource_group_nodes(track_flags,gid,rid ) values (?,?,?)
+could not insert group node
+insert into resource_groups (urn,track_def_flags, last_decay_reset ) values (?,?,?)
+unable to insert group
+update resource_groups set track_def_flags=? where id=?
+select gid, track_flags from resource_group_nodes where rid =? 
+select count( r.rid) from resources r, resource_group_nodes rgn where rgn.gid=? and r.rid = rgn.rid and r.responsecode >= 300 and r.responsecode != 304
+update resource_groups set n_errors=?, last_error_time=?, last_error_rid=?, changed=1 where id=? and n_errors !=? 
+select rid from dependencies where did=?
+update resource_groups set n_changed_children= max(n_changed_children + ?, 0), last_time=?, last_changed_rid=?, changed=1 where id in ( select gid from resource_group_nodes where rid=? and track_flags & ? != 0 ) and n_changed_children!= max(n_changed_children + ?, 0)
+select flags from resources where rid=? 
+select guid from resources where rid=? 
+select rid from resources where guid=? 
+update resource_groups set n_new_children= max(n_new_children + ?, 0), last_time=?, last_changed_rid=?, changed=1 where id in ( select gid from resource_group_nodes where rid=? and track_flags & ? != 0 ) and n_new_children!= max(n_new_children + ?, 0)
+update resource_groups set n_deleted_children= max(n_deleted_children + ?, 0), last_time=?, last_changed_rid=?, changed=1 where id in ( select gid from resource_group_nodes where rid=? and track_flags & ? != 0 ) and n_deleted_children!= max(n_deleted_children + ?, 0)
+select gid from resource_group_nodes where rid in (select rid from dependencies where did=?) and track_flags & ? != 0
+select ri.read from resources_items ri, resource_group_nodes rgn,dependencies d where d.rid= rgn.rid and ri.rid= d.did and rgn.gid=?
+update resource_groups set n_unread_rss_items=?, last_time=?, last_changed_rid=?, changed=1 where id=? and n_unread_rss_items !=? 
+update resource_groups set n_rss_items=?, last_time=?, last_changed_rid=?, changed=1 where id=? and n_rss_items !=? 
+select gid from resource_group_nodes where track_flags & ? != 0 and rid in (select rid from dependencies where did in 
+update resource_groups set n_unread_rss_items=? where id =? 
+update resource_groups set n_rss_items=? where id =? 
+update resource_groups set n_changed_children=0,n_deleted_children=0, n_new_children=0, changed=0 where urn like ? || '%'
+select id from resource_groups where urn like ? || '%'
+delete from resource_group_nodes where gid in 
+delete from resource_groups where id in
+select count(id) from resource_groups where changed =1 and (n_changed_children > 0 or n_unread_rss_items > 0 or n_new_children > 0 ) 
+ and (
+ or 
+urn like ? || '%' 
+select urn,last_time,n_changed_children,n_unread_rss_items,n_rss_items,n_errors,n_new_children, n_deleted_children, decay_start, end from resource_groups where urn like ? || '%'and n_errors > 0
+select urn,last_time,n_changed_children,n_unread_rss_items,n_rss_items,n_errors,n_new_children, n_deleted_children, decay_start, end from resource_groups where urn like ? || '%'and changed=1
+select max( decay_start) from resource_groups where id in ( select gid from resource_group_nodes where rid=? ) 
+select max( last_time) from resource_groups where id in ( select gid from resource_group_nodes where rid=? ) 
+select max( last_decay_reset) from resource_groups where id in ( select gid from resource_group_nodes where rid=? ) 
+update resource_groups set last_decay_reset=? where urn like ? || '%'
+update resources set ttl = ?  where rid in  ( select rid from  resource_group_nodes where gid in (select id from resource_groups where urn like ? || '%'))
+delete from resource_group_nodes where rid=?
+delete from resource_groups where id not in (select distinct gid from resource_group_nodes)
+select max( max( last_time), max( last_error_time) ) from resource_groups where id in (select gid from resource_group_nodes where rid=? ) and (last_changed_rid=? OR last_error_rid=? )
+update resources set synchpriority=?  where state != ? and synchretries > 0 and flags & ? = 0
+update resources set ttl=?  where state != ? and synchretries > 0 and flags & ? != 0
+update resource_groups set changed=1, decay_start=?, last_time=?, last_changed_rid=? where id in (select gid from resource_group_nodes where rid=? )  and (decay_start = 0 or decay_start > ? )
+update resource_groups set changed=1, decay_start=?, last_time=?, last_changed_rid=? where id in (select gid from resource_group_nodes where rid=? )  and decay_start !=?
+urn://ns.adobe.com/Acrobat/WebServiceJob/
+ select rid, state, flags  from resources  where url  like ?
+ select method, req_header, req_body, req_flags, req_URL, req_handle, req_order, rid, req_status, req_params, req_preamble, req_postamble, resp_handle, resp_body, resp_header, resp_params, req_sync_flags  from resource_request_operations  where rid=?  order by req_order ASC 
+method
+req_header
+req_body
+req_flags
+req_URL
+req_handle
+req_order
+req_status
+req_params
+req_preamble
+req_postamble
+resp_handle
+resp_body
+resp_header
+resp_params
+req_sync_flags
+ select rid, state  from resources  where url  like ?
+urn://PrefSyncJob/com.adobe.acrobat.ADotCom/Sync/
+https://PrefSyncJob/
+ select method, req_header, req_body, req_flags, req_URL, req_handle, req_order, rid, req_status, req_params, req_preamble, req_postamble, resp_handle, resp_body, resp_header, resp_params, req_sync_flags  from resource_request_operations  where rid=?  and req_order =?
+ update resource_request_operations  set method=? , req_header=? , req_body=? , req_flags=? , req_URL=? , req_handle=? , req_params=? , req_preamble=? , req_postamble=? , resp_handle=? ,  req_sync_flags=?   where rid=? and req_order=?
+insert into resource_request_operations(method, req_header, req_body, req_flags, req_URL, req_handle, req_order, rid, req_status, req_params, req_preamble, req_postamble, resp_handle, resp_body, resp_header, resp_params, req_sync_flags) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+update resource_request_operations set req_status=? ,resp_body=? ,resp_header=? where rid=? and req_order=?
+ delete from resource_request_operations  where rid =?
+ select url from resources where rid =? 
+must close prior to opening again
+.bak
+' to '
+unable to backup file' 
+ to '
+unable to rename '
+unable to delete '
+cannot open or make 
+=1  where 
+ set 
+update 
+ error: %d
+file unopened
+file must be opened with write access to perform this operation
+resource-%u
+Error creating file.
+ from 
+select 
+transaction already started
+no connection to release
+RFLDB170
+select count(gid) from global_state where gid=1 and schema_version >= 2014
+LocalMapping
+select fid, filename, filesys, localfilemodifiedtime, localfileaccesstime, localfilesize, localdipath, assetid, servermd5 from recentfiles where localpath=? 
+filename
+filesys
+localdipath
+assetid
+servermd5
+localfilemodifiedtime
+localfileaccesstime
+localfilesize
+select fid, localpath, filename, filesys, localfilemodifiedtime, localfileaccesstime, localfilesize, localdipath, servermd5 from recentfiles where assetid=? 
+localpath
+delete  from recentfiles where localpath=? or localdipath=? 
+select * from recentfiles where localpath=? or localdipath=? 
+insert into recentfiles(localpath, filename, filesys, localfilemodifiedtime, localfileaccesstime, localfilesize, localdipath, assetid, servermd5 ) values (?, ?, ?, ?, ?, ?, ?, ?,?)
+delete from recentfiles where localfileaccesstime= (select min( localfileaccesstime ) from recentfiles )  AND (select count( localdipath ) from recentfiles)>?
+select  * from recentfiles
+select gid, schema_version from global_state where gid=(select max( gid ) from global_state )
+schema_version
+: SQLite Error='
+error opening database 
+Error parsing stmt '
+Error closing database
+if function requires 3 arguments
+create table global_state(gid integer not null primary key, notification_state text not null default '3600', notification_enabled integer not null default 1, schema_version integer not null)
+insert into global_state(gid, schema_version ) values(1,2011)
+create table resources(rid integer not null primary key autoincrement, url text(512) not null unique, state integer not null default 0, lastsynchronized integer default 0, ttl integer not null default 3600, ttloverride integer default NULL, skiphours integer default 0, skipdays integer default 0, synchpriority integer not null default 0, synchretries integer default 0, flags integer default 0, contentsize integer default 0, cursyncetag text(128) default NULL, cursynclastmodified text(128) default NULL, cursynccontentsize integer default -1, cursynctotalsynced integer default -1, responsecode integer default 0, lock integer default 0, hash text(64) default NULL, guid text(64) default NULL )
+ create table resource_request_operations(rid integer not null, method text(8) default NULL, req_header text(512) default NULL, req_body text(4096) default NULL, resp_body text(4096) default NULL, req_URL text(512) default NULL, req_handle text(512) default NULL, req_params text(256) default NULL, req_preamble text(512) default NULL, req_postamble text(512) default NULL, resp_handle text(512) default NULL, resp_header text(512) default NULL, req_flags integer not null, req_order integer not null, req_status integer not null, resp_params text(256) default NULL, req_sync_flags integer default 0 )
+create index resources_synchpriority on resources(synchpriority)
+create index resources_responsecode on resources(responsecode)
+create index resources_url on resources(url)
+create table response_headers(id integer not null primary key autoincrement, rid integer not null, name text(64), value text(128) )
+create index response_headers_rid on response_headers(rid)
+create table resources_items(id integer not null primary key autoincrement, rid integer not null, hash text(128), guid text(512), last_modified text(64), ordinal integer not null, read integer default(0) )
+create index resources_items_rid on resources_items(rid)
+create table dependencies(id integer not null primary key autoincrement, rid integer not null, did integer not null )
+create index dependencies_rid on dependencies(rid)
+create unique index dependencies_rid_did on dependencies(rid,did)
+create index dependencies_did on dependencies(did)
+create table resource_groups(id integer not null primary key autoincrement, urn text(512) not null, last_time integer not null default 0, last_decay_reset integer not null default 0, last_changed_rid integer not null default 0, n_changed_children integer not null default 0, n_new_children integer not null default 0, n_deleted_children integer not null default 0, n_unread_rss_items integer not null default 0, n_rss_items integer not null default 0, n_errors integer not null default 0, last_error_time integer not null default 0, last_error_rid integer not null default 0, decay_start integer not null default 0, end integer not null default 0, changed integer not null default 0, track_def_flags integer not null default 0, timeSince text not null default ''  )
+create table resource_group_nodes(id integer not null primary key autoincrement, gid integer not null, rid integer not null, track_flags integer not null default 0, unique (gid,rid))
+create index resource_group_nodes_rid on resource_group_nodes(rid)
+resources
+lock
+create table recentfiles(fid integer not null primary key autoincrement, localpath text(512) unique, filename text(512) , filesys text(128) , localfilemodifiedtime integer default 0, localfileaccesstime integer default 0, localfilesize integer default 0, localdipath text(512) unique, assetid text(512), servermd5 text(512) , lock integer default 0 )
+create table global_state(gid integer not null primary key, schema_version integer not null)
+insert into global_state(gid, schema_version ) values(1,2014)
+create table params(pid integer not null primary key autoincrement, key text(64) unique, value text(64) )
+Preferences
+server_json
+local_json
+merged_json
+server_folder_id
+sync_operation_failed
+download_token
+[api]
+api_uri
+[ims]
+ims_uri
+[upload]
+upload_uri
+[download]
+download_uri
+[prefs]
+prefs_uri
+[users]
+users_uri
+[root][id]
+root_folder_id
+[auto_upload][id]
+auto_upload_folder_id
+[acroprefs][id]
+prefs_folder_id
+Sequences
+UICustomization
+.sequ
+.aaui
+https://files.acrobat.com/api
+.pdf
+application/pdf
+.docx
+application/vnd.openxmlformats-officedocument.wordprocessingml.document
+.xlsx
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+.pptx
+application/vnd.openxmlformats-officedocument.presentationml.presentation
+.doc
+application/msword
+.rtf
+.xls
+application/vnd.ms-excel
+.ppt
+application/vnd.ms-powerpoint
+.htm
+text/html
+.html
+.jpg
+image/jpeg
+.jpeg
+.png
+image/png
+.bmp
+image/bmp
+.gif
+image/gif
+.zip
+application/zip
+.txt
+text/plain
+application/octet-stream
+CInterruptedException
+\\.\pipe\
+Failed to create connection
+unexpected error
+Read Error
+Connection Closed
+Unsupported version
+Invalid Message Header
+Bad completion event
+unable to allocate memory
+deque<T> too long
+ListResources
+GetResourceReadState
+SetReadState
+GetResourceInfo
+GetResourceOperationInfo
+GetResourceProgress
+CancelResourceOperation
+GetResourceOperationsLength
+GetWorkflowInfo
+SetOperationGroupMessageSet
+DispatchSPAInProgressNotification
+EnableOperationCompleteNotification
+DispatchSPAOperationCompleteNotification
+PerformSPAPluginURLWhiteListOperation
+GetRegisteredSPAPluginIDs
+SetSPAPluginURL
+ListIds
+AddResource
+AddParentResource
+Purge
+suspend
+create
+request
+update
+operate
+SyncResource
+ManualSyncResource
+SetTTL
+CleanWebServiceJob
+AddResourceOperation
+AddResourceResponseSet
+CleanResourceOperations
+SetTTLOverride
+AddSkipDay
+ClearSkipDay
+AddSkipHour
+ClearSkipHour
+RemoveResource
+DidSyncResource
+GetId
+CreateRootResource
+SetState
+SetFlags
+AuthenticateResource
+InvalidateCredential
+AddResourceGroup
+TrackNodeChanges
+GetChanges
+GetErrors
+ClearResourceGroup
+ResetResourceGroupDecay
+DeleteResourceGroup
+NotifyToastSettingChanged
+SetAuthInfo
+GetTempFilePath
+PrefSyncRequest
+%02x
+hours
+%08x
+days
+guid
+hash
+itemCount
+unreadItemCount
+dependencies
+0x%x
+flags
+contentSize
+state
+curSynchSize
+curSynchSoFar
+synchRetries
+synchStatusCode
+order
+operationLengths
+active
+inactive
+dead
+msgType
+title
+message
+tooltip
+opName
+urlName
+spaPluginIds
+spaURL
+parent
+url or id
+missingParameter
+extraParameter
+addingResource
+badState
+priority
+hour
+badHour
+synced
+noSuchUrl
+content
+noContent
+cannotCreate
+http://ACRO_PROXY
+WWW-Authenticate
+realm="
+ACRO_PROXY
+realm=
+authinfo
+X-SharePointHealthScore
+acrosharepoint
+authenticate resource failed
+trackFlags
+urn=
+authority
+authInfo
+challenge
+path
+value
+httpStatus
+compareType
+DumpFileInfoDBInFile
+filepath
+GetRFLDBGlobalStateInfo
+schemaversion
+DB Call Failed
+CleanRFLQueryResources
+RFL Resource Cleaning Failed
+CleanPrefSyncParams
+PrefSync Params Cleaning Failed
+CleanAndUpdateUserDataCachedPrefsDirectory
+preftypeidentifier
+CleanAndUpdateUserDataCachedPrefsDirectory Cleaning Failed
+CleanAndUpdateUserPrefsCachedPrefsDirectory
+SetSynchronizerRunningInTestMode
+cmd not set
+Response
+ridf
+exception
+Stop
+RegisterForChangeResourceNotification
+UnregisterForChangeResourceNotification
+badCommand
+AuthenticationRequired
+Proxy-Authenticate
+proxyrealm
+formsBasedAuth
+DidChangeResource
+change
+status
+1000
+Error
+errCode
+errorValue
+noSuchResource
+Bad integer value '
+badInteger
+badHexInteger
+badId
+badOps
+read operation failed
+not in read mode
+Method unsupported
+unable to create dir 
+download-%u
+Unable to write temp file
+InvalidUploadHandle
+ShowNotification
+urn://ns.adobe.com/Acrobat/Collaboration
+urn://ns.adobe.com/Acrobat/Forms/Initiated
+hasUnread
+acrobat:Inbox?show&container=urn://ns.adobe.com/Acrobat/Tracker/ReviewTracker/&selectFeed=urn://ns.adobe.com/Acrobat/Tracker/ReviewTracker/UpdateReviews.rss
+acrobat:Inbox?preference
+RSStringTokenizer::nextToken called with no tokens remaining
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+unable to create temp file.  max temp files exist
+no path could be created for empty path.
+ could be created  for path 
+no path 
+unable to get size of token info
+unable to get token info
+unable to get current user token
+unable to get string version of current token sid
+D:(A;;GRGW;;;
+S:(ML;;NW;;;LW)
+unable to create security descriptor from string 
+cannot addRunnable after threadpool stopped
+NoDeadlineBuffer
+DeadlineBuffer
+DeadlineGrace
+SuspendLength
+RampdownBeginTTL
+DefaultFeedTTL
+@sqlite.dll
+Acquired a lock on a non-existent resource (e.g. path length == 0)
+http://ns.adobe.com/synchronizer/dependency
+http://ns.adobe.com/synchronizer/ttl
+http://ns.adobe.com/Acrobat/RSS/Reviews/deadline
+http://ns.adobe.com/Acrobat/RSS/Inbox/icon
+http://ns.adobe.com/Acrobat/RSS/Inbox/feedUI
+enclosure
+link
+item
+author
+description
+pubDate
+outline
+feed
+opml
+response
+http://purl.org/rss/1.0/item
+http://purl.org/rss/1.0/title
+http://purl.org/rss/1.0/description
+http://purl.org/rss/1.0/modules/content/encoded
+http://www.w3.org/1999/xhtmlbody
+http://purl.org/atom/ns#entry
+http://purl.org/atom/ns#content
+http://purl.org/atom/ns#summary
+http://purl.org/atom/ns#id
+http://purl.org/atom/ns#modified
+http://www.w3.org/2005/Atomentry
+http://www.w3.org/2005/Atomcontent
+http://www.w3.org/2005/Atomsummary
+http://www.w3.org/2005/Atomid
+http://www.w3.org/2005/Atommodifled
+DAV:response
+DAV:href
+DAV:getlastmodified
+DAV:getetag
+DAV:getcontenttype
+DAV:getcontentlength
+DAV:collection
+smbentry
+children
+href
+type
+xmlUrl
+directory
+node
+nodeid
+modifieddate
+adobedoc
+DAV:
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://purl.org/atom/ns#
+http://www.w3.org/2005/Atom
+version
+bad scheme for HttpConnection: 
+PROPFIND
+Location
+InvalidCredentials
+ServerRFList
+RFList.txt
+cresults
+[results]
+[results][
+parent_id
+last_access
+page_count
+size
+modified
+/Acrobat.com/
+BlueHeronFS
+source
+native
+root
+sNonExistingLocalFileDIPath
+sDIBH
+tDITextBH
+sServerFileModificationDate
+tDIText
+sDate
+uPageCount
+uFileSize
+tFileSource
+sFileAncestors
+unable to create RFL Dir
+Error while opening RFL File
+Generic Error while creating RFL Dir
+LocalMappingDBDump.txt
+Error while opening LocalMapping DB DUMP File
+HTTP
+Unexpected Header value 
+Content-Length
+UploadHandler Empty
+OperationCancelled
+InvalidDownloadLocation
+ResponseParseError
+invalid vector<T> subscript
+attachments
+Responses
+<smb>
+<smbentry
+ directory="true"
+ url="
+smb:
+ETag
+Last-Modified
+%lld
+Download could not access SMB resource: 
+Error occurred while reading SMB resource: %ld
+Etag
+Unable to access SMB resource: 
+smb://
+error writing file 
+SecondsBeforeCacheDeletion
+DELETE
+Accept
+HEAD
+If-Modified-Since
+If-None-Match
+InvalidCrdentials
+Could not find credential for challenge: 
+Authorization
+HttpConnection
+timeout
+AskForAuth
+ @Depth
+text/xml
+Content-type
+<?xml version="1.0" encoding="utf-8" ?><D:propfind xmlns:D="DAV:"><D:prop><D:displayname/><D:getlastmodified/><D:getetag/><D:getcontenttype/><D:getcontentlength/><D:resourcetype/></D:prop></D:propfind>
+sessions/
+RMT_RENGA
+/.docid/
+----=%ld
+Content-Disposition: form-data; name="request"
+Content-Transfer-Encoding: 8bit
+Content-Type: text/xml; charset=UTF-8
+Content-Disposition: form-data; name="file"; filename="
+Content-Transfer-Encoding: binary
+Content-Type: application/octet-stream
+NoTOU
+NotVerified
+text/xml; charset=UTF-8
+Content-Type
+multipart/form-data; boundary="
+docid
+authtoken
+sessionid
+secret
+recipienturl
+hascontent
+filesize
+createddate
+sessionID*
+appNum*
+appHost*
+uploadName
+http://
+OperationGroupInvalid
+file_md5_digest
+filename_in_db
+[id]
+md5_matched
+resource_executed
+[%d]
+application/json
+ ticket="
+application/vnd.adobe.skybox+json;version=1
+SpamURLReference
+][name]
+][id]
+[md5_digest]
+[name]
+[localpath]
+[filesys]
+{ "q": {"content_type": "application/pdf", 
+"md5_digest": "
+"}, "metadata": ["name"] }
+/metadata/
+/metadata
+[value]
+last_pagenum
+"email"
+"password":"
+"needToken":"
+true"
+false"
+,"sessionProps":"
+"authToken":"
+appName
+17.12.20093
+' SynchronizerVersion='
+' version='
+<SessionProps appName='
+timeOut
+unable to open temp file 
+TestServer
+https://PrefSyncJob/com.adobe.acrobat.ADotCom/Resource/Sync/Pref/StateMachine
+https://PrefSyncJob/com.adobe.acrobat.ADotCom/Resource/Sync/RFList
+https://PrefSyncJob/com.adobe.acrobat.ADotCom/Resource/Sync/Upload
+[download_token]
+folders/
+?metadata=name
+api_reader_desktop_win_17.12.20093
+api_acrobat_desktop_win_17.12.20093
+x-api-client-id
+application/vnd.adobe.skybox+json;version=1; charset=utf-8
+?metadata=name,md5_digest
+users/me/prefs/acrobat
+ADCFileStore
+Content-Type: multipart/mixed; boundary="
+Content-Disposition
+: form-data; name="metadata"
+{"name":"
+", "on_dup_name": "auto_rename", "ignore_content_type": true, "parent_id": "
+: form-data; name="file"; filename="
+Content-Transfer-Encoding: binary
+assets
+assets/
+[members]
+[members][
+][object_type]
+folder
+TRUE
+base_uris
+system_folders
+session/download_token
+HeaderFooter
+Watermark
+Background
+Mozilla/3.0 (compatible; Adobe Synchronizer 17.12.20093)
+Unable to crack url 
+Accept-Encoding: identity
+Range: bytes=%d-%d
+OAuth
+oauth_consumer_key
+oauth_timestamp
+oauth_nonce
+oauth_signature_method
+oauth_signature
+HMAC-SHA256
+%llu
+%%%02X
+%X%X
+[server]
+[ticket]
+[downloadServer]
+[downloadTicket]
+[status]
+[serverTime]
+[body][download_token]
+InvalidTicket
+LoginCommunicationError
+BadTimestamp
+sessions
+AdobeAuth
+webservices
+SSO_ADOBE
+cancelToken=false
+Bearer
+Download
+Unable to parse number
+bad time format
+Unable to Create Key
+Unable to set key info
+Unable to create Algorithm Object
+Unable to Set Algorithm Info
+Unable to set digest
+Unable to update
+Unable to Get Data
+Unable to Finalize
+EncryptionError
+vRQ>
+8STs
+LwH'
+RSDS
+SynchronizerApp.pdb
+sqlite3_exec
+sqlite3_last_insert_rowid
+sqlite3_changes
+sqlite3_busy_handler
+sqlite3_free
+sqlite3_bind_blob
+sqlite3_bind_double
+sqlite3_bind_int
+sqlite3_bind_int64
+sqlite3_bind_null
+sqlite3_bind_text
+sqlite3_bind_parameter_count
+sqlite3_step
+sqlite3_column_blob
+sqlite3_column_bytes
+sqlite3_column_double
+sqlite3_column_int
+sqlite3_column_int64
+sqlite3_column_text
+sqlite3_column_type
+sqlite3_finalize
+sqlite3_reset
+sqlite3_get_autocommit
+sqlite3_close
+sqlite3_open_v2
+sqlite3_errcode
+sqlite3_errmsg
+sqlite3_prepare_v2
+sqlite3_create_function
+sqlite3_value_int
+sqlite3_value_type
+sqlite3_result_error
+sqlite3_result_value
+StrCmpNA
+SHLWAPI.dll
+CreateFileW
+GetVolumeInformationW
+ReadFile
+WriteFile
+CloseHandle
+GetLastError
+SetNamedPipeHandleState
+OpenMutexW
+Sleep
+GetTickCount
+lstrlenW
+OutputDebugStringA
+DecodePointer
+RaiseException
+SetLastError
+InitializeCriticalSectionEx
+DeleteCriticalSection
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleW
+GetProcAddress
+LoadLibraryW
+VerSetConditionMask
+GetProcessHeap
+HeapSetInformation
+VerifyVersionInfoW
+KERNEL32.dll
+USER32.dll
+IsNetworkAlive
+SensApi.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPBD@Z
+?_Xout_of_range@std@@YAXPBD@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Winerror_map@std@@YAPBDH@Z
+?uncaught_exception@std@@YA_NXZ
+?_Ios_base_dtor@ios_base@std@@CAXPAV12@@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z
+?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@I@Z
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z
+?_BADOFF@std@@3_JB
+??_7ios_base@std@@6B@
+??_7?$basic_ios@DU?$char_traits@D@std@@@std@@6B@
+?_Swap_all@_Container_base12@std@@QAEXAAU12@@Z
+MSVCP120.dll
+memset
+??_V@YAXPAX@Z
+??3@YAXPAX@Z
+memcpy_s
+strcmp
+strlen
+??0exception@std@@QAE@XZ
+??0exception@std@@QAE@ABQBDH@Z
+??0exception@std@@QAE@ABV01@@Z
+??1exception@std@@UAE@XZ
+?what@exception@std@@UBEPBDXZ
+_CxxThrowException
+__CxxFrameHandler3
+__RTDynamicCast
+strchr
+_purecall
+??2@YAPAXI@Z
+free
+memmove
+memcpy
+_get_heap_handle
+_set_invalid_parameter_handler
+wcslen
+_wcslwr_s
+memchr
+memcmp
+iswalpha
+_vsnwprintf_s
+swscanf_s
+wcscpy_s
+malloc
+sprintf_s
+sprintf
+sscanf
+strcpy_s
+_strlwr
+toupper
+_mbschr
+isdigit
+isxdigit
+isspace
+iswdigit
+wcsnlen
+wcsrchr
+wcstok_s
+_wcsicmp
+_wcsnicmp
+MSVCR120.dll
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_except_handler4_common
+_XcptFilter
+__crtGetShowWindowMode
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_ismbblead
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+_acmdln
+_fmode
+_commode
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+_except1
+?terminate@@YAXXZ
+__crtSetUnhandledExceptionFilter
+_invoke_watson
+_controlfp_s
+WSACreateEvent
+WSAEventSelect
+WSAIoctl
+WSASocketA
+WS2_32.dll
+PathRemoveFileSpecW
+UrlCanonicalizeA
+CryptProtectData
+CryptUnprotectData
+CRYPT32.dll
+FreeLibrary
+LoadLibraryExA
+ReleaseSemaphore
+WaitForSingleObject
+SwitchToThread
+CreateThread
+DeleteFileW
+FindClose
+FindFirstFileW
+FlushFileBuffers
+GetDriveTypeW
+GetFileInformationByHandle
+GetFullPathNameW
+SetEndOfFile
+SetFilePointer
+MoveFileW
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+TryEnterCriticalSection
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LocalAlloc
+LocalFree
+CreateSemaphoreA
+GetSystemTimeAsFileTime
+GetLocalTime
+CreateDirectoryW
+FindNextFileW
+RemoveDirectoryW
+MultiByteToWideChar
+WideCharToMultiByte
+GetFileAttributesW
+GetSystemDirectoryA
+lstrlenA
+LoadLibraryA
+FindCloseChangeNotification
+SetEvent
+CreateEventA
+WaitForMultipleObjects
+FindFirstChangeNotificationW
+FindNextChangeNotification
+ResetEvent
+ConnectNamedPipe
+DisconnectNamedPipe
+PeekNamedPipe
+GetOverlappedResult
+CreateNamedPipeA
+GetCurrentProcessId
+LoadLibraryExW
+GetUserDefaultLCID
+EncodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentThreadId
+OutputDebugStringW
+PostMessageW
+FindWindowW
+LoadStringW
+GetMessageA
+TranslateMessage
+DispatchMessageA
+PostMessageA
+DefWindowProcA
+PostQuitMessage
+CallWindowProcA
+RegisterClassW
+CreateWindowExW
+DestroyWindow
+GetSystemMetrics
+CreatePopupMenu
+DestroyMenu
+InsertMenuW
+TrackPopupMenu
+InsertMenuItemW
+SetForegroundWindow
+SetPropW
+GetPropW
+GetCursorPos
+LoadImageW
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+RegCreateKeyExW
+RegSetValueExW
+RegOpenKeyW
+ADVAPI32.dll
+SHFileOperationA
+SHGetPathFromIDListW
+SHGetSpecialFolderLocation
+ShellExecuteA
+Shell_NotifyIconW
+SHELL32.dll
+CoTaskMemFree
+CoCreateInstance
+ole32.dll
+OLEAUT32.dll
+NetShareGetInfo
+NETAPI32.dll
+atoi
+InternetCloseHandle
+InternetSetCookieExA
+InternetReadFile
+InternetWriteFile
+InternetSetOptionA
+HttpSendRequestExA
+HttpEndRequestA
+HttpAddRequestHeadersA
+HttpSendRequestA
+InternetCrackUrlA
+InternetOpenA
+InternetConnectA
+HttpOpenRequestA
+HttpQueryInfoA
+WININET.dll
+WNetGetResourceInformationW
+MPR.dll
+GetCurrentProcess
+GetCurrentThread
+GetThreadErrorMode
+SetThreadErrorMode
+OpenProcessToken
+OpenThreadToken
+GetTokenInformation
+ConvertSidToStringSidA
+ConvertStringSecurityDescriptorToSecurityDescriptorA
+_mktime64
+realloc
+WNetAddConnection2W
+WNetCancelConnection2W
+$&nN
+HT%+
+{|WM
+(fS{ggRcjh
+&@'kd
+Rbg.E
+^3)2
+(wMww
+C q'O
+UUUUUUUUUUUa
+^?K?
+"SmF
+tM^/
+xUN'
+q~!/
+f&dy
+Vg3LE
+bV}TS
+UUUUUUUUUUUUUU<o(
+F$R-
+tfjgvmfv
+dkzM
+GO~i
+w`@Q
+UUUUUUUUUUUUUU
+(q-B
+u+,@	M
+b-w#
+(ZdOt
+VggjeK uO5n
+FV|FgUV
+|I6?
+t+c)
+8A6j
+)TpH
+0Z@q
+<4E87
+j_{>
+9[#l
+bmNP
+GXqN
+Ut]<E
+b]jY
+r$0I
+}ogy/5
+"cs73KI
+XW=?'
+h2Wl
+'pQ 
+&)j<
+*0fT
+"o;o
+|<C!FReQ
+3Wk1^
+<0OD
+A2VPD
+9C#U
+)E\\*=
+,kCNGG
+T*8U
+U)l:T^8rv
+&,o]
+Nm^\
+2!jb
+lWP,
+`kM=
+9)jx
+'>f,
+a5<p
+h<kev6
+	+}2|
+Q/xtJ2
+qgVJ
+.ga;
+)xKq
+d>1v3
+X!;3; 
+6qo~
+R#2y
+u&D),
+$XI(6
+Yb6N4
+uw&]
+K!,p"
+&>1;y
+hcK!
+hG\1[
+4`x/
+u;{Gk
+`dub`D
+`yNT
+nqUY
+9IGv
+B~]|
+vB7g6t)
+)Urz
+;!"#
+_Xf#
+wgR+Fm'
+~bN 
+$,G&
+Wj$b
+.?AVexception@std@@
+.?AVCBIBError@BIB_T_NMT@@
+.?AVbad_alloc@std@@
+.?AVLazyTerminate@BIB_T_NMT@@
+.?AV?$double_linked_list_element@VLazyTerminate@BIB_T_NMT@@VBIBDLLEParent@@@@
+.?AVBIBDLLEParent@@
+.?AVDelVTabListGeneric@BIB_T_NMT@@
+.?AVBIBVTabListGeneric@BIB_T_NMT@@
+.?AV?$no_construct_double_linked_list@VBIBVTabGeneric@BIB_T_NMT@@VCBIBClientBasePMT@2@@@
+.?AV?$TDelVTabList@Uproctable_type@BIBDataStoreTraits@BIB_T_NMT@@@BIB_T_NMT@@
+.?AV?$TDelVTabList@Uproctable_type@BIBSizedDataStoreTraits@BIB_T_NMT@@@BIB_T_NMT@@
+.?AV?$TDelVTabList@Uproctable_type@BIBDataBlockStreamTraits@BIB_T_NMT@@@BIB_T_NMT@@
+.?AVCBIBSimpleStreamTerminate@BIB_T_NMT@@
+.?AVCBIBRewindableStreamTerminate@BIB_T_NMT@@
+.?AVCBIBPositionableStreamTerminate@BIB_T_NMT@@
+.?AVCAXE8ExpatHelper@@
+.?AVRSException@@
+.?AVCMessageException@@
+.?AVNoSuchDatabaseException@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVRSRunnable@@
+.?AVRSMonitor@@
+.?AVCChannelClosedListener@@
+.?AVCSharedMemoryChannel@@
+.?AVCRequestResponseHandler@@
+.?AVCCommandHandler@@
+.?AVCNotificationHandler@@
+.?AVCResourceSynchEventHandler@@
+.?AVCWatchedFile@@
+.?AVCPathWatchedFile@@
+.?AVCSynchronizerDatabaseWatcher@@
+.?AVCSynchronizerCmdProcessor@@
+.?AVCSynchronizerCmdUriProcessor@@
+.?AVCContinuationPolicy@CSynchronizeWorkerManager@@
+.?AVCStoppable@@
+.?AVCResourceSynchEventNotificationHandler@@
+.?AVCSynchronizerChannelClosedListener@@
+.?AVCSynchronizerChannelChainedListener@@
+.?AVCSynchronizerNotificationDispatcher@@
+.?AVCChannelConnectionDispatcher@@
+.?AVRSThread@@
+.?AVCSynchronizerCmdServerChannel@@
+.?AVCSynchronizerCmdConnectionDispatcher@@
+.?AVCWorkerManagerDatabaseChangedNotifier@@
+.?AVCWorkerManagerNetworkChangedNotifier@@
+.?AVCNetWatcher@@
+.?AVCSynchronizerApp@@
+.?AVCSPAInProgressNotification@@
+.?AVCSynchronizerAppContinuationPolicy@@
+.?AVCSynchronizerSeverCmdChannelClosedListener@@
+.?AVRSOutputStream@@
+.?AVRSFileOutputStream@@
+.?AVCFileWatcher@@
+.?AVCIPCLock@@
+.?AVIllegalURIReference@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Ref_count@UJSONValue@@@std@@
+.?AVSQLiteException@SQLiteUtils@@
+.?AVResultSet@@
+.?AVPreparedStatement@@
+.?AVConnection@@
+.?AVPreparedStatementSQLiteImpl@@
+.?AVResultSetSQLiteImpl@@
+.?AVConnectionSQLiteImpl@@
+.?AVResourceDAO@@
+.?AVResourceDAOImpl@@
+.?AVSQLiteImageCorruptException@SQLiteUtils@@
+.?AVCMessage@@
+.?AVCInterruptedExeception@@
+.?AVCLocalFreeGuard@RSSecurityUtilsWin@@
+.?AV?$RSOwnerVector@VCResourceItem@@@@
+.?AV?$vector@PAVCResourceItem@@V?$allocator@PAVCResourceItem@@@std@@@std@@
+.?AV?$_Vector_alloc@$0A@U?$_Vec_base_types@PAVCResourceItem@@V?$allocator@PAVCResourceItem@@@std@@@std@@@std@@
+.?AV?$_Vector_val@U?$_Simple_types@PAVCResourceItem@@@std@@@std@@
+.?AU_Container_base0@std@@
+.?AVCTxGuard@ResourceDAO@@
+.?AVCSynchronizerUriCmdHandler@@
+.?AVCSynchronizerUriCmdListHandler@@
+.?AVCSynchronizerUriCmdGetResourceReadStateHandler@@
+.?AVCSynchronizerUriCmdSetResourceReadStateHandler@@
+.?AVCSynchronizerUriCmdGetResourceInfoHandler@@
+.?AVCSynchronizerUriCmdGetResourceOperationInfoHandler@@
+.?AVCSynchronizerUriCmdGetResourceProgressHandler@@
+.?AVCSynchronizerUriCmdCancelResourceOperation@@
+.?AVCSynchronizerUriCmdGetResourceOperationsLength@@
+.?AVCSynchronizerUriCmdGetWorkflowInfo@@
+.?AVCSynchronizerUriSetOperationGroupMessageSet@@
+.?AVCSynchronizerDispatchSPAInProgressNotification@@
+.?AVCSynchronizerEnableOperationCompleteNotification@@
+.?AVCSynchronizerDispatchSPACompleteNotification@@
+.?AVCSynchronizerPerformSPAPluginURLWhiteListOperation@@
+.?AVCSynchronizerGetRegisteredSPAPluginIds@@
+.?AVCSynchronizerSetSPAPluginURL@@
+.?AVCSynchronizerUriCmdListIdsHandler@@
+.?AVCSynchronizerUriCmdAddResourceHandler@@
+.?AVCSynchronizerUriCmdAddParentResourceHandler@@
+.?AVCSynchronizerUriCmdPurgeHandler@@
+.?AVCSynchronizerUriCmdSyncResourceHandler@@
+.?AVCSynchronizerUriCmdManualSyncResourceHandler@@
+.?AVCSynchronizerUriCmdSetTTLHandler@@
+.?AVCSynchronizerWebServiceJobCleanupHandler@@
+.?AVCSynchronizerAddResourceOperationHandler@@
+.?AVCSynchronizerAddResourceResponseSetHandler@@
+.?AVCSynchronizerCleanResourceOperations@@
+.?AVCSynchronizerUriCmdSetTTLOverrideHandler@@
+.?AVCSynchronizerUriCmdAddSkipDayHandler@@
+.?AVCSynchronizerUriCmdClearSkipDayHandler@@
+.?AVCSynchronizerUriCmdAddSkipHourHandler@@
+.?AVCSynchronizerUriCmdClearSkipHourHandler@@
+.?AVCSynchronizerUriCmdRemoveHandler@@
+.?AVCSynchronizerUriCmdDidSyncHandler@@
+.?AVCSynchronizerUriCmdGetIdHandler@@
+.?AVCSynchronizerUriCmdGetContentHandler@@
+.?AVCSynchronizerUriCmdCreateRootResourceHandler@@
+.?AVCSynchronizerUriCmdSetStateHandler@@
+.?AVCSynchronizerUriCmdSetFlagsHandler@@
+.?AVCSynchronizerUriCmdAuthenticateHandler@@
+.?AVCSynchronizerUriCmdInvalidateCredentialHandler@@
+.?AVCSynchronizerUriCmdAddResourceGroupHandler@@
+.?AVCSynchronizerUriCmdTrackNodeChangesHandler@@
+.?AVCSynchronizerUriCmdGetChangesHandler@@
+.?AVCSynchronizerUriCmdGetErrorsHandler@@
+.?AVCSynchronizerUriCmdClearResourceGroupHandler@@
+.?AVCSynchronizerUriCmdResetResourceGroupDecayHandler@@
+.?AVCSynchronizerUriCmdDeleteResourceGroupHandler@@
+.?AVCSynchronizerUriCmdNotifyToastSettingChangedHandler@@
+.?AVCSynchronizerCmdSetAuthInfo@@
+.?AVCSynchronizerGetTempFilePath@@
+.?AVCSynchronizerPrefSyncRequestHandler@@
+.?AVCSynchronizeWorkerManager@@
+.?AVCUriConnectionException@@
+.?AVCResourceSynchEvent@@
+.?AVCSynchronizeWorker@@
+.?AVCDependencyFilter@CResourceAnalyzer@@
+.?AVCWebDAVDependencyFilter@@
+.?AVCDefaultDependencyFilter@@
+.?AVCRequestState@DownloadUtils@@
+.?AVDataTransferHandler@DownloadUtils@@
+.?AVUploadHandler@DownloadUtils@@
+.?AVBaseEncoder@DownloadUtils@@
+.?AVChainedUploadHandler@DownloadUtils@@
+.?AVStringBodyUploadHandler@DownloadUtils@@
+.?AVDataStoreAccess@@
+.?AVCConnectionStreamInspector@CUriConnection@@
+.?AVResourceSynchronizer@@
+.?AVRequestState@ResourceSynchronizer@@
+.?AVDataStoreAccessImpl@@
+.?AVCResourceAnalyzerConnectionStreamInspector@@
+.?AVCResourceUploadHandler@@
+.?AVCUploadFileHandler@@
+.?AVCGlobalSettingChangedHandler@@
+.?AVCSPAWorkflowEventHandler@@
+.?AVCToastResourceSynchEventHandler@@
+.?AVCToastEventHandler@CToastResourceSynchEventHandler@@
+.?AVCSynchronizerWindowsUIThread@@
+.?AVtype_info@@
+.?AVRSPoolThread@@
+.?AVCResourceAnalyzer@@
+.?AVCXMLParser@@
+.?AVCDependency@CResourceAnalyzer@@
+.?AVMissingCredentialException@@
+.?AVCUriConnection@@
+.?AVCSMBConnection@@
+.?AVCHttpConnection@@
+.?AVCWebDAVConnection@@
+.?AVElementParser@@
+.?AVDCUploadResponseParser@@
+.?AUDocCtrResponseInspector@@
+.?AVDocCtrConnection@@
+.?AVOperationGroup@@
+.?AVOperationGroupV2@@
+.?AVCHttpByteRangeConnection@@
+.?AVPrefSyncOperationGroup@@
+.?AVRSStringOutputStream@@
+.?AVDownloadHandler@DownloadUtils@@
+.?AVStringResponseHandler@DownloadUtils@@
+.?AVSaveResponseHandler@DownloadUtils@@
+.?AVChainedResponseHandler@DownloadUtils@@
+.?AVOutputStreamDownloadHandler@DownloadUtils@@
+.?AVCConnectionStreamInspectorOutputStream@@
+.?AVWriteHeadersHandler@DownloadUtils@@
+.?AVSuccessResponseDownloadHandler@DownloadUtils@@
+.?AVHttpProtocolHandler@DownloadUtils@@
+.?AVDocCtrRequestHandler@@
+.?AVDocCtrAuthHandler@@
+.?AVXMLResponseHandler@@
+.?AVDCResponseParser@@
+.?AVDCAuthTokenParser@@
+.?AVDCSessionIDParser@@
+.?AVParamsResponseParser@@
+.?AVRengaAuthTokenParser@@
+.?AVDCGetNodesParser@@
+.?AVDocCtrDocumentOutputStream@@
+.?AVHttpDeleteHandler@@
+.?AVCResponseParser@@
+.?AVJSONResponseParser@@
+.?AVOperationGroupParser@@
+0(]5
+yger
+VKKK
+VKKK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="Adobe.Acrobat.AdobeCollabSync" type="win32"></assemblyIdentity><description>Adobe Collaboration Synchronizer 9.0</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>
+0V0i0p0w0~0
+151<1C1J1Q1X1
+1	2%2j2
+;I;e;
+;6<L<
+<7=v=
+=*>w>
+>	?%?j?
+0I0e0
+:<=@=D=H=L=P=T=X=
+86A6H6M6
+< <$<(<,<0<S>
+3W3^3
+3*<C<a<
+8N9U9\:`:d:h:l:p:
+88<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9
+1;=;J;N;T;`;l;r;x;~;
+<0<Q<x<
+= =.=8=>=H=L=R=V=d=n=t=~=
+>$>)>:>F>K>\>h>t>
+?$?.?>?C?M?]?b?l?|?
+0)090>0H0X0]0g0w0|0
+1)191>1H1X1]1g1s1}1
+2-222<2L2Q2[2k2p2z2
+3%3*343D3I3S3_3i3u3
+4)434=4G4Q4[4e4o4y4
+5#5-575A5K5U5_5i5s5}5
+6+676<6M6]6b6l6|6
+7&767;7E7U7Z7d7t7y7
+8-828<8L8Q8[8k8p8z8
+9$94999C9S9X9b9r9w9
+:,:1:;:K:P:Z:j:o:y:
+;";,;<;A;K;[;`;j;z;
+<%<6<@<N<\<a<|<
+=$=?=R=`=e=
+> >0>5>?>O>T>^>n>s>}>
+?)?7?<?W?j?x?}?
+0.0<0A0\0o0}0
+121@1E1`1s1
+2%252:2D2T2Y2c2s2x2
+4/4H4O4{4
+405^5
+6'686L6
+698L8R8c8k8
+919K9e9
+:W:n:
+;$;*;7;L;Z;k;t;
+<!<;<I<i<o<
+<.=4=
+>">'>,>5>@>G>P>Y>b>j>y>
+?!?.???
+!0?0T0^0e0m0
+1$1(1/131:1>1F1c1y1
+2R2q2
+3&3C3X3~3
+4 494O4Y4
+5#555:5J5W5a5k5u5
+6!6(6/666=6D6K6R6Y6`6g6n6u6|6
+7&7-747;7B7I7P7W7^7e7l7s7z7
+8"8)8;8@8J8T8[8b8i8p8w8~8
+9 9'9.959\9f9m9
+9.:>:G:_:d:k:t:
+;[;q;
+<:<J<U<
+=!=+=5=?=I=S=]=g=q={=
+>%>/>9>C>M>W>a>k>u>
+?)?3?=?G?Q?[?e?o?y?
+0$0.080B0L0V0`0j0t0~0
+1(121<1F1P1Z1d1n1x1
+2 2'2.252<2C2J2Q2X2_2f2m2t2{2
+2e3x3
+3)4V4
+7t9E:
+;B;Z;
+>(?8?
+0$0<0
+1 171j1y1
+1O2b2h2~2
+4l4{4
+7.8>8{8
+879G9
+9/:B:K:Q:W:i:
+<1<}<k=
+?C?M?U?f?u?z?
+202R2l2x2
+9R:f:
+={>V?
+J0c0
+3$3*30363w3
+9<:D:o:
+:T;};
+.0j0
+2P3m3
+7G7O7W7
+8(9D9L9T9p9x9
+:&:.:6:f:n:
+;K;T;Y;^;p;{;
+< <%<+<C<W<o<
+=(=K=P=U=
+=->6>`>u>
+?G?i?
+060=0H0O0
+1+181G1L1W1\1g1l1y1
+2B2Q2k2
+2=3I3Q3|3
+4`5j5t5
+;G<o>
+?N?X?b?
+D0N0X0
+7A8e8
+8-9C:
+<>=H=R=
+191m1
+1j2v2
+2=3L3m3w3
+4&4<4w4
+5-6@6
+7f7}7
+8C8M8_8
+96:L:
+: ;x;
+;8<b<
+?R?`?
+	0y0
+0w1}1
+2*2:2D2N2b2
+3*3A3f3
+4)434=4N4
+5%5?5u5
+6'606L6f6p6z6
+:H:i:
+;P<}<
+=.=V=
+>R>s>
+0,1V1
+404I4{4
+575i5
+6%757?7Z7
+8?8o8
+8Z:l:
+;.;K;};
+<<=q=
+=1>^>
+696h6o6~6
+7*7N7b7}7
+9*90959Y9
+=2=M=u=
+?]?i?
+0o0x0
+1O1X1~1
+1<2n2x2
+3.383T3[3d3
+475=5@6
+:!;F;i;
+0/151{1
+1p3v3
+7-7R7i7
+7 8d8x8
+;P<Z<q<
+373?3
+3@4P4
+495m5
+7h8n8
+:w;[< =R=
+=*>a>
+>A?u?
+2@5 6X6
+9A:X:x:
+;3;q;
+<6<M<j<
+= >.>G>
+,0w0
+4(4H4r4
+858`8s8
+8O;Y;^;j;z;
+0W0]0c0o0
+1!1n1
+2"2-2
+3<3C3
+5	5J5b5y5
+8	:3:=:B:N:]:g:
+:-;?;
+<a=p=
+0-1<1
+142@2
+2:3F3
+485G5
+6K7`8
+989~9
+;	=^=y>
+'0{0
+7?718^8
+8-9396:
+	0a0
+1]4e4
+;/=E=O=V=b=m=s=}=
+>!>+>0>@>R>p>
+?G?Q?u?
+0 0-0:0O1
+2M2Z2g2t2
+5!666Y6
+<$=D=d=w=
+>&>-><>K>Y>
+?1?7?G?{?
+6b7x7
+8)898g8
+9P:g:q:x:
+;2;f;
+<(<\<z<
+=R=p=
+>H>f>
+?>?\?
+040R0
+0*1H1|1
+1 2>2r2
+3&3D3t3
+464j4
+5,5`5~5
+6"6V6t6
+7L7j7
+8E8b8
+8$9+9>9[9b9n9
+;&<]<s<>=E=S=t=M>
+273T316{6
+:$:9:d:
+h001v1,3x3
+5%6;7
+;7<C<Z<f<r<
+-0p0
+1X2d2{2
+4E5d5
+829?9Q9^9
+<*<G<T<%=
+\0!1'1t1z1
+>;?^?
+T0^0g0|0
+0&1E1
+2E2v2{2
+3%4*4E4
+6-6E6P6
+6'7_7
+7.8Q8_8s8
+;v;!=%=)=-=1=5=9===A=E=I=M=Q=X=
+252B2
+3(314
+515A7
+=8=V=
+=4>:>Y>
+131d1j1
+5">@>J>T>v>
+0(121<1a1
+7"7K7R7
+<,<6<@<q<z<
+ 252V2.3~3
+9H:t:
+<:=x=
+> >Z>c?
+6~8G9
+:<;B;h<n<
+7O7n7
+8k9%:
+;n<$=
+/0_1q2
+7 828p8
+9-9M9U9e9
+:*:i:
+;/;I;S;];
+=$=>=H=R=
+>2><>F>r>
+>Z?i?|?
+1%333M3W3a3
+425d5P6t6
+7 7!8
+<A<U<
+=">O>Z>
+*000B1H1`2f2o3
+4#6+7
+h1p1
+3=4M4
+4-5@5P5h5n5&6R6
+6+757?7~7
+818}8
+=m=}=
+=c>s>
+>3?a?
+!0O0
+4B5L5V5j5
+=%=6=Z=
+=!>m>
+3o4y4
+6<6Y6
+7+7x7
+8,969@9P9
+=<=]>
+>7?^?
+2%374{4
+9r9|9
+9>:s:}:
+072^2
+4S5]5g5
+<'<M<
+=A=P=
+>e>k>
+%0@1
+152?2I2
+2P3w3
+4/4[4
+5>5 6L6
+6m7w7
+8g839t9
+=M>y>c?
+W0a0k0{0
+3&3>3
+5	6O6
+6/8M8U8
+8Y9}9
+;U;^;q;
+0 0*0:0X0
+1I2r2
+4W4g4
+5%5c5s5
+:0;\;
+3U4e4
+4c5s5
+2G3h3
+374v4
+7"737Z7
+:,;2;x;~;&<8<N<X<b<x<
+1<2e2
+2$3f3H4s4
+5W6{6
+;6;a;x;
+0F0Z0
+1$2*2G3M3P4
+58768
+9T9~9
+;?;V;
+1)2v3
+5!6c6
+6)7i7
+==>P?
+1\1T2p2
+3%4/4S4
+5$5.585N5
+787S7x7
+7P8g8o8
+:2:R:e:
+3>3L3
+6P7q7
+798\8
+9(9k9
+97:Z:
+$0s0
+3J4P4o7
+7D8K8
+8=9I9
+<Y=k=
+=N>Z>
+?)?/?9?>?P?^?~?
+0!0A0b0
+0	1*1J1k1
+222J2r2
+3:3Z3{3
+464=4I4Y4
+5A6K6U6f6
+737A7Q7j7x7
+7Y8n8
+9*:T:
+:%;.;7;A;c;
+=&=8=I=b=n=v=
+?5?O?[?c?
+010Z0e0
+1P2w2
+313T3j3z3
+464S4o4
+475Q5y5
+6&616\6s6
+8-:+;];
+;"<-<2<A<F<U<Z<i<n<}<
+=?=N=^=
+=#>2>B>o>~>
+?&?S?b?r?
+070F0V0
+1*1:1g1v1
+2K2Z2j2
+3/3>3N3{3
+4"424_4n4~4
+5C5R5b5
+5'666F6s6
+7#787H7u7
+8,8Y8h8x8
+9=9L9\9
+9!:0:@:m:|:
+;$;Q;`;p;
+;,<M<k<
+=3=M=j=
+>6>Q>k>
+?6?T?o?
+5&525
+8F:T:w:
+:5<G<E=
+=$>6>1?
+$0$1~1.2
+7G8[8
+8"9<9
+?.?Q?s?
+0`0Q4\4e4j4v4
+5!5-5<5F5i5
+8`9{9
+:e:o<
+=b=t=
+>8?w?
+C0Q0
+344i4
+4#5u5
+;R<d<
+<1=A=
+=*>z>
+0P1w1}2
+2C3S3
+6e7s7
+;3<F<
+3M4	5
+6/657V7
+9>:O:
+>V>f>
+>5?G?
+I0W0
+0Q1b1
+1:2j2y2
+4O4\4
+586E6
+0F0S0
+2!3L3
+5'6b6
+:1;x;
+>W>i>
+0_1v1
+7)8s8
+9	:`:
+;1<#=(=g=
+>4>F>i>n>
+>1?`?
+041p1
+3K4e4|4
+5F6Y6m6
+7S7n7}7
+8+9X9
+;L;V;r;
+;8<M<
+1A1P1
+304>4
+5k6}6
+7)717
+92:Q:
+:D;c;
+=6>l>
+?6?B?
+111f1m1
+2%242L2
+3	4i4q4~4
+5,6265738
+:9:Q:
+;*;=;k;t;
+=B>N> ?
+242|2
+4p5>6W6e6
+6Z7d7
+8-9J9}9
+:/:f<t<
+<!=0=l=
+0c1u1
+242B2O2V2e2k2q2
+9(;8;B;
+;<<F<P<
+>o>y>
+30P0V0b0h0n0y0
+1*11181j1
+1^2k2}2
+213A3|3
+506x6
+8'979>9N9u9
+9c:p:@;~;
+;(<-<;<n<x<
+>S>t>y>
+0$0*0b0u0
+141C1O1
+4j4o4t4~4
+5$5)53585B5G5m5r5|5
+6.6c6g6k6o6s6w6{6
+<B<f<z<
+=#=4=:=@=F=L=R=X=^=d=j=p=
+>3>M>W>
+>+?a?
+0"010N0
+1$161@1I1S1Y1b1h1m1r1w1
+2.2D2d2v2
+343>3D3N3i3
+3o5v5
+6 6(646=6B6H6R6\6l6|6
+7'7/7:7?7E7O7Y7l7q7
+9[9c9k9/:7:j:y:
+;?;{;
+>$>*>
+00050v0|0
+0/1\1c1
+2h3r3|3
+334>4
+8O9R:n:}:
+;4;=;i;
+;-<e<o<
+=,=1===B=O=m=
+? ?|?
+1Z2l2
+3(3t3
+4.4e4
+4]6e6
+:!;9;
+;3<+=
+>n?x?
+@0 1&1
+3 3%30353@3E3P3U3`3e3p3u3
+4 4%40454@4E4P4U4`4e4p4u4
+5Z5x5
+6	7M7
+9$9-:5;
+<8=R=
+><>n>
+00g0
+2,2A2e2z2
+3%3M3b3
+394o4
+576p6
+7u788
+9"949
+;N;|;
+;'<E<V<l<
+>i>w>2?D?
+3c3A4S4Z4b465D5P5
+<d<{<
+>.?V?p?
+1Q2g2
+<%=*=7=D=Q=^=c=p=
+=3>K>
+>u?{?
+292\2
+3=3G3d3
+5'5R5o5
+7 7H7
+=?=Q>
+0+0^0{0
+4*535
+7G7Z7
+<%=c=}=
+51U1
+2E3K3
+394?4
+4E5w5;6_6
+6#7F7
+;0<E<
+<!=Z=
+=(>K>}>
+?1?~?
+9F:R:x:
+:R;c;x;
+<+<B<l<
+=-=\=l=|=
+6.6h6
+8+8<8X8
+<#=z=P?`?
+1&1L1
+2*212c2s2
+3b4x4
+6L6V6`6q6X7]7j7o7|7
+7,8[8\:
+:n<x<
+<0=Z=e?
+0&080S0 1b1
+2*3 4f4
+536F6
+:#:a:
+5B6U6
+4!545
+9+:d:
+:4;>;[;
+<*=r=
+>P>l>j?
+222I2`2
+4&5M5
+5?6E6
+7#8n8
+8:9n9
+9=:L:
+;4;>;H;x;
+<1=	?&?B?f?
+2%3~3
+3M4]4n4
+4i5r5
+9%:5:r:
+? ?+?N?f?
+5+5H5
+6G7w7
+9?9c9
+9::p:
+<,<t<
+<2=B=
+1 1N1g1
+:(:B:T:o:
+:(;:;L;^;+<M<h<
+<+=h=
+>&?9?
+1n1^2
+4I4X4
+536C6M6d6s6
+6D7Z7
+7D8w8
+:":,:P:`:k:
+;&;e;n;
+;%<o<
+<R=i=
+1*2:2|2
+3N3z3
+3Q4}4
+4W5g5"6:6
+8W9l9
+:H;i;~;
+; <^<
+=S=c=z=
+4<4H4
+5F5Z5
+5/6R6q6
+8	:M:=<M<W<
+?-?7?T?e?t?
+0d0i0
+404I4W4k4
+5>5J5
+6(6k6s6
+7/7@7V7w7S8^8h8r8
+9T:%;0;:;D;
+<$=b=
+>1>]>|>9?e?
+1!1L1W1
+2-2:2
+5"5/5E5U5
+6<7]7
+979j9
+:H:}:
+:.;A;~;
+=5>}>
+31K1
+3!313U3
+5E5~5\6
+6(7P7@8
+?/?[?}?
+0C1~1
+2,212X2u2
+676|6
+6@7S7b7
+949g9
+91:i:
+;&;s;
+<H<S<w<
+>$?]?
+051A1a1
+2Z2o2
+6!6]6
+888U8
+1;1f1
+2+2;2H2W2
+3D4u4
+4{5C6k6
+90:p:z:F;e;x<+=g=y=
+=g>-?6?N?j?
+;0K0E1
+2I2N2
+2!3`3
+5!5Y5
+6"7l7
+9J9Z9
+9u:~:
+:1;];m;{;
+;<<R<r<
+<4=G>]>}>
+70k0
+1*161L1Z1h1v1
+1$2X2
+3W3y3
+5Z6n6
+8 8T8
+8'969F9
+: ;(<r<
+=g={=
+> ?l?
+)0]0
+0;1N1U1b1
+2>2a2
+2*3n3
+6(6k6
+8&9I9l9
+:\:{:
+;=<L=
+=">^>}>
+>(?:?A?M?
+0%0G0
+4 535:5G5{5
+6#6F6
+:(:J:]:d:
+:2;f;
+=o=~>
+0J0^0
+0/1c1
+5>6d6
+:#:T:i:p:
+<%<g<
+<'=i=
+-0_0
+797\7
+:T:N;q;
+=-=2=Z={=;>
+/0w0
+0$1;1
+7X7h7r7
+9+959^9i9|9
+:O:[:
+:0;9;|;
+;%<0<B<S<i<
+<f=q={=
+;#<5<
+00S0
+737k7u7
+8'8,858;8A8G8M8S8b8o8
+:Q:A<
+>_>D?}?
+3@3x3.4B4
+4F5_5
+5Z6q6
+9*:^:
+:.;b;
+;<<p<
+0K0z0
+2b2j2
+2)363s3i4x4
+6@6y6W7
+7#8K8;9
+>Q>w>
+2.2N2
+5>5{5D6
+7D7f7
+768K8P8w8
+;9<V<
+=_=r=
+>#?S?
+0*0/0L0i0
+1*2c2h3
+374V4j4
+405E5
+7$7s7
+8e99:V:
+;G<t<
+?[?t?
+3,4=4G4o4
+5>6\6h6u6
+687J7S7}7
+9h9t9
+9#:1:Q:6;
+>	?4?O?x?
+4*5;5
+787B7L7]7{7
+:(;H;
+=&>6>?>d>t>
+4(4b4z4
+5(5S5]5g5
+6.6>6H6
+7(727`7v7 8_8~8
+8;9V9
+:,:G:b:
+:.;Q;t;
+;9<_<
+>*>M>
+>.?\?
+2%2-2V2
+4@4k4
+6+6F6a6
+7>7a7
+869t9~9
+0'0J0
+263d3
+4/4J4s4
+4&5W5
+506	7
+2 4\4w4
+5'6R6u6
+8/898A8
+9;:k:u:}:
+:S<]<e<
+>5?y?
+787m7
+8;8I8_8
+9G:d;
+=6=a=
+%0X0
+2#3Q3
+425]5
+6:6U6p6
+7(8K8
+:K:y:
+<:<m<
+=*=S=|=
+0"1m1
+1O2r2
+4&5j5
+506|6
+7Q8|8
+:';C<n<
+<(=S=~=
+4!4<4W4r4
+8=9X9s9
+>!?_?
+2'3B3]3x3
+9"9*9A9
+;	<<<y<
+8+9N9
+0/1r1
+2/3J3u3
+585S5n5
+; <w<
+=5=?=Z=
+00c0
+1"1K1n1
+2&2I2o2
+2$3M3h3
+>'>J>/?
+101S1v1
+303K3|3
+9D:g:
+=N>w>
+646W6r6
+:?:z:
+; <I<
+4"5}5
+:q;M<)= >
+0J132v2
+5"6E6n6
+6@8{8
+=%=<=l= >[>
+484B4]4g4
+6(6C6M6h6r6
+7!7+7F7P7k7u7
+;$;/;3;8;C;G;L;W;[;`;k;o;v;z;
+<!<+<5<?<I<S<]<g<q<{<
+=%=/=9=C=M=W=c=|=
+>$>.>8>B>L>V>`>j>t>~>
+?(?2?<?F?P?Z?d?n?x?
+0"0,060@0J0T0^0h0r0|0
+1&101:1D1N1X1b1l1v1
+2 2*242>2H2R2\2f2p2z2
+3$3.383B3L3V3`3j3t3~3
+4"4,464@4J4T4^4h4r4|4
+5&505:5D5N5X5b5l5v5
+6 6*646>6H6R6\6f6p6z6
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8,80848|9
+3@3D3H3L3P3t3x3|3
+4 4$4(4,404
+4 4$4@4D4H4L4P4T4X4
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+8 8$8(8`8d8h8l8p8t8x8|8
+8T:X:\:`:d:h:l:p:t:x:|:
+@0D0H0L0P0T0X0
+= =$=(=
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8
+D2H2L2
+: :<:@:T:X:l:p:
+;,;0;X;\;
+<$<(<4<8<H<L<d<h<
+=4=8=T=X=t=x=
+>$>(>0>4>L>P>`>d>t>x>
+?0?4?P?T?l?p?
+<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9
+4282<2@2D2H2L2L5P5T5X5\5`5d5h5l5p5t5x5|5
+9 9$9(9,9094989<9@9D9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+3 3$3(3,3034383<3@3D3H3
+4 4$4(4,4@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9|9
+7 7$74787<7D7\7l7p7t7x7
+8 80848D8H8X8\8`8h8
+9 989H9L9T9l9|9
+:,:<:@:P:T:X:\:`:d:h:l:t:
+;4;D;H;X;\;`;d;h;p;
+<$<4<8<H<L<P<X<p<
+= =$=4=8=@=X=h=l=t=
+>,>0>@>D>L>d>t>x>
+?$?(?,?4?L?\?`?p?t?|?
+0(080<0L0P0T0\0t0
+1 1$1,1D1T1X1h1l1t1
+2 2024282@2X2h2l2|2
+3$3(303H3X3\3`3h3
+4(4,4D4T4X4h4l4|4
+5 5$5(5,545L5P5h5x5|5
+6,606@6D6H6P6h6x6|6
+7,707@7D7T7X7h7l7t7
+8(888<8L8P8X8p8
+9(9,9094989<9@9D9H9L9P9X9p9t9
+: :0:4:8:<:D:\:`:x:
+; ;8;H;L;P;T;X;`;x;
+< <0<4<<<T<d<h<x<|<
+=0=@=D=T=X=\=d=|=
+>$>(>8><>D>\>l>p>
+? ?(?@?P?T?d?h?l?t?
+0 080H0L0\0`0d0h0l0p0x0
+1 1$1,1D1T1X1\1d1|1
+202@2D2T2X2`2x2
+3 3$34383<3D3\3l3p3
+4 4(4@4P4T4d4h4l4t4
+5$54585H5L5P5X5p5
+6,60646<6T6d6h6x6|6
+7 787H7L7\7`7d7l7
+8,808@8D8H8P8h8x8|8
+9$9(9,949L9\9`9p9t9x9
+:0:@:D:T:X:\:d:|:
+;$;(;8;<;@;H;`;p;t;
+< <$<,<D<T<X<h<l<p<x<
+=(=8=<=L=P=T=\=t=
+> >0>4>8>@>X>h>l>|>
+?$?<?L?P?`?d?h?p?
+0 00040D0H0L0T0l0|0
+1(1,10181P1`1d1t1x1|1
+2(2,2024282@2X2\2t2
+3,30383P3`3d3t3x3|3
+404@4D4T4X4`4x4
+5$5(5,50585P5`5d5t5x5|5
+6,60686P6`6d6t6x6|6
+747D7H7X7\7`7d7l7
+8 80848D8H8P8h8x8|8
+9,909@9D9L9d9t9x9
+:0:@:D:T:X:\:`:h:
+;$;(;0;H;X;\;l;p;
+<$<<<L<P<`<d<h<p<
+=$=4=8=H=L=P=T=\=t=
+> >$>4>8><>@>D>L>d>t>x>
+?(?,?0?4?<?T?d?h?x?|?
+0(080<0L0P0T0X0`0x0
+1(1,1<1@1D1L1d1t1x1
+2$2<2L2P2`2d2h2p2
+3(383<3L3P3T3X3`3x3
+4(4,4<4@4D4H4P4h4x4|4
+5 5054585@5X5h5l5|5
+6(686<6L6P6T6\6t6
+$3,383`3
+4$4D4X4`4h4p4t4|4
+505T5`5h5
+6 6@6L6
+7$7,747<7D7P7p7x7
+8$8,848<8D8L8T8\8d8l8x8
+9$90989P9X9d9
+: :(:0:8:D:l:
+;$;0;T;t;|;
+< <D<d<l<t<|<
+= =(=<=D=L=\=h=p=
+> >(>\>d>l>|>
+>,?4?<?L?X?`?
+0(000\0`0l0
+1$1,141<1D1T1l1
+2$2H2h2p2x2
+3<3D3P3p3x3
+444<4D4P4p4|4
+5$5,585X5`5t5|5
+6 6(60686@6H6l6x6
+7$7,7@7L7T7l7t7|7
+8$8<8`8l8t8
+9$9D9h9t9|9
+:$:,:D:L:T:\:p:x:
+;(;8;d;l;
+< <D<d<l<t<|<
+=0=<=\=d=l=x=
+>0>P>X>`>h>p>x>
+?(?0?<?\?d?l?t?
+00<0\0d0l0t0|0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282D2d2l2x2
+343<3D3L3T3\3d3p3
+4$4,444<4D4L4T4\4d4l4t4|4
+5 5(545T5\5d5l5x5
+6$6H6h6p6x6
+7,7P7\7d7
+848X8d8l8
+9<9P9`9t9|9
+:$:,:4:@:`:h:t:
+;8;@;H;P;X;`;h;p;x;
+<$<D<L<T<\<d<p<
+=$=,=4=<=D=L=T=\=d=l=x=
+>$>,>4><>D>L>T>\>d>p>
+?$?0?P?X?`?l?
+0$000P0\0
+141H1X1l1t1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8,8L8T8\8d8l8t8|8
+9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;8;@;L;t;
+< <4<@<H<h<p<x<
+= =(=@=H=P=X=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>
+?(?0?P?X?`?h?p?x?
+0 0(080@0H0P0X0`0h0x0
+1(101H1P1\1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+585D5d5l5t5
+6 6,6P6p6x6
+747<7D7L7T7\7d7l7t7|7
+808P8X8`8h8p8x8
+9$989D9L9l9t9|9
+:$:,:4:H:h:p:x:
+; ;,;L;T;`;
+<$<,<4<<<D<L<T<\<d<l<t<|<
+=$=,=4=<=D=L=T=\=d=l=t=|=
+>$>D>L>T>\>d>l>t>|>
+? ?@?d?p?x?
+0(000H0P0X0d0
+1$1D1L1T1\1d1l1t1
+2 2(20282@2L2p2
+3,3L3T3\3d3l3t3
+4$4,444<4D4L4T4\4d4l4t4|4
+5,545T5h5p5
+6$60686\6p6
+7$7<7D7P7p7x7
+8,848@8`8l8
+9 9(90989@9H9P9X9`9h9p9x9
+:$:,:D:L:T:\:h:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+< <@<H<P<X<`<h<p<x<
+=(=8=L=T=l=t=
+>$>,>4><>D>P>p>x>
+? ?(?0?8?D?d?l?x?
+040@0`0l0
+1$1,141<1H1h1t1
+2 2(242T2\2h2
+343<3D3P3p3x3
+4 404D4L4l4
+5@5L5T5t5
+6$6H6T6\6|6
+7$7,747@7`7h7t7
+80888@8H8P8X8`8h8p8x8
+9 9@9H9T9t9
+: :,:4:T:\:d:l:
+;$;0;T;t;|;
+<0<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+>$>,>4><>D>P>p>x>
+?$?,?4?@?d?
+0$000P0X0d0
+1(10181@1H1P1X1`1l1
+2,2L2T2\2d2l2t2|2
+3 3(30383@3H3P3X3`3l3
+4,444@4`4h4p4|4
+50585H5\5d5|5
+686@6H6P6\6|6
+7 7(70787@7H7P7X7`7h7p7x7
+8$8,848<8D8L8T8\8h8
+989@9H9P9\9
+:$:,:D:T:d:t:
+; ;(;0;8;@;H;P;X;`;h;t;
+<$<,<4<@<`<h<p<x<
+=$=D=L=T=\=d=l=t=|=
+>$>,>8>X>`>h>t>
+?$?0?T?t?|?
+0$0,040<0D0P0x0
+181@1H1P1X1`1h1p1x1
+2,2P2\2d2
+343X3d3l3
+4<4`4l4t4
+5$5,5L5`5p5
+606<6D6d6l6t6|6
+7$7,747<7D7L7T7\7d7|7
+8$8,848<8D8L8d8x8
+9$9,949<9L9T9\9d9|9
+:$:,:4:<:D:L:T:\:d:l:
+;0;T;`;h;
+<8<\<h<p<
+=$=0=T=t=|=
+>$>4>H>T>\>|>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0l0
+1$181X1`1h1p1x1
+2@2`2h2p2x2
+3$3L3p3|3
+3 4,444T4x4
+545T5\5d5l5t5|5
+686L6T6\6x6
+7<7H7h7p7x7
+8$808P8X8`8h8t8
+9 9@9L9l9t9
+: :(:0:4:<:D:L:P:T:\:p:x:
+; ;(;0;8;@;H;P;X;`;t;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+= >@>H>P>X>`>h>p>x>
+?4?<?D?L?T?\?d?l?t?|?
+0$0,040<0D0L0T0\0d0l0t0|0
+1 1(10181@1H1P1X1`1h1p1x1
+2$2,242<2D2L2T2\2d2l2t2|2
+3 3(30383@3H3P3X3`3l3
+4$4D4L4T4\4d4l4t4|4
+5<5D5L5T5`5
+6$6D6L6T6\6d6p6
+7 7(70787@7H7P7X7`7h7p7x7
+8$808P8\8
+949<9D9L9T9\9d9l9t9
+:$:D:L:X:|:
+;(;L;l;t;|;
+<$<,<8<X<`<h<p<x<
+=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(181@1H1T1x1
+2$202P2X2`2h2p2x2
+3 3(30383@3T3`3h3
+4 4(40484@4P4X4`4l4
+5 5(50585@5H5P5X5`5h5p5x5
+60686@6H6P6\6|6
+7 707@7H7P7X7`7h7|7
+8 8(8@8H8P8X8`8x8
+9,949<9D9L9T9h9t9|9
+:,:4:H:P:X:t:|:
+;(;L;X;`;
+<0<T<`<h<
+= =(=0=<=\=d=l=t=|=
+>(>0>T>h>p>x>
+? ?(?@?P?X?`?h?x?
+00080L0X0`0
+1 1<1D1\1d1x1
+2$2D2L2T2\2d2l2t2|2
+3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4\4|4
+5(50585@5L5l5x5
+6 6(686@6P6d6l6
+7,787@7`7t7
+8,848L8X8|8
+9(9H9P9X9`9h9p9x9
+:$:,:4:@:`:h:p:x:
+;$;,;4;@;x;
+<$<0<h<
+= =<=@=H=T=t=|=
+>$>D>L>T>\>d>l>t>|>
+?$?,?4?H?h?p?x?
+0<0D0P0p0x0
+1$101P1\1|1
+2,282`2
+3$343H3P3h3t3
+4 4(40484@4H4T4t4|4
+5 5(50585@5H5P5X5`5h5p5x5
+6$6,646<6D6L6\6
+7 7(70787@7H7P7X7`7l7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,989X9`9h9p9x9
+:$:,:4:<:D:P:p:x:
+;<;H;P;p;
+<(<<<L<`<h<
+=0=8=@=H=P=X=`=h=p=x=
+>$>,>8>X>`>h>p>x>
+? ?(?0?8?@?H?P?h?p?x?
+0(040<0T0\0d0l0x0
+1@1L1T1p1
+2 2(2D2d2l2t2|2
+3 3(30383@3L3l3x3
+4<4\4d4l4t4|4
+5$505T5t5|5
+60686X6|6
+7 787@7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+<,<@<H<h<
+=$=D=L=T=`=
+>$>,>4><>D>L>T>\>d>l>x>
+?$?,?4?<?D?L?T?\?d?l?t?|?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1L1p1
+2(20282@2H2P2X2`2h2p2x2
+2 3@3H3P3X3`3l3
+4$4,444<4D4L4T4\4d4l4t4|4
+5 5@5H5T5|5
+6 6(606<6\6h6
+7$7,747@7`7h7p7x7
+8 8,8L8T8`8
+9<9H9P9p9
+:<:D:L:T:\:d:p:
+;4;T;\;d;l;t;|;
+<$<,<8<X<d<
+= =(=0=8=@=L=l=t=|=
+>0>8>@>H>P>X>`>h>p>x>
+1$1,141<1D1L1X1x1
+2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3l3
+4$4,444<4D4X4d4l4
+5$5,545<5D5L5T5\5d5l5t5|5
+6 6(60686@6H6P6X6`6h6p6x6
+7<7D7L7T7\7h7p7
+8 8(808<8\8d8l8t8|8
+9<9D9L9T9\9d9l9x9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;H;h;p;x;
+< <(<4<<<\<d<l<t<|<
+=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>\>|>
+? ?(?0?<?\?d?l?t?|?
+0 0(00080@0H0P0X0`0h0p0x0
+1(1H1P1X1`1h1p1x1
+282@2H2P2X2`2h2t2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4@4H4P4X4`4h4p4x4
+5$5,545<5D5L5T5\5d5l5t5|5
+60686@6H6P6X6`6h6p6x6
+7 7(70787@7L7l7t7|7
+8$808P8X8`8h8p8x8
+909<9D9\9d9x9
+:<:\:d:l:t:|:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<D<L<l<t<|<
+= =(=0=8=@=L=l=t=|=
+><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?T?`?
+0,040<0D0L0T0\0h0
+1$1,141D1X1`1h1
+2$2,242<2D2L2T2\2d2l2t2
+3<3D3L3T3\3d3l3t3|3
+4(40484@4H4X4`4h4p4x4
+5 5(5@5T5`5h5
+6 6(60686P6d6p6x6
+7 7(70787@7H7P7X7p7
+8 8(80888@8H8P8X8`8p8x8
+9 9(90989@9H9T9t9|9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;,;P;p;x;
+< <(<0<<<\<d<l<t<|<
+=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>d>
+?$?D?L?T?\?d?l?t?|?
+0 0(00080@0H0P0X0`0h0p0x0
+1$1,141@1`1h1p1x1
+2$2,242<2D2L2T2\2d2l2t2|2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4|4
+5 5(545T5`5
+6$6,646@6`6h6p6x6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848@8`8h8p8x8
+9<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:\:p:|:
+;(;H;P;\;|;
+< <(<0<8<@<H<P<X<d<
+=$=,=4=<=D=P=p=x=
+>$>D>P>p>|>
+? ?,?L?X?x?
+0(040T0`0
+101<1`1
+2$2,242<2H2h2p2x2
+30383D3h3
+4,4@4H4
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+ 0,0<0H0X0d0t0
+1$1,14181<1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2l2t2|2
+3034383L3P3T3`3d3h3t3x3|3
+4(40444@4H4L4X4\4`4d4h4l4p4t4
+5`6h6p6x6
+60787@7H7P7X7
+8 8(808
+9 9(90989
+:H;P;X;`;h;p; <(<0<8<@<H<
+4 4(4`5h5p5x5
+6`8h8p8x8
+8h9p9x9
+:P;X;`;h;p;x;P<X<`<h<p<x<P=X=`=h=p=x=P>X>`>h>p>x>p?x?
+0H1P1X1`1h1p1
+3h5p5x5
+50686@6H6P6X6
+6p7x7
+7@8H8P8X8`8h8
+9h:p:x:
+:h;p;x;
+;0<8<@<H<P<X<(=0=8=@=H=P=
+? ?(?
+0 0(00080(10181@1H1P1
+2 2(20282
+4`6h6p6x6
+; ;(;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+<$<`=|=
+=@>\>
+> ?x?
+40h0
+141\1
+2 282`2
+383X3
+404h4
+505H5t5
+6,6L6x6
+7,7H7`7
+949P9
+: :@:\:
+;D;\;
+=(=L=x=
+=(>`>
+101`1
+282t2
+3(4\4
+4$5X5
+546t6
+6 7T7
+909T9x9
+9(:X:
+;4;l;
+; <H<l<
+<4=`=x=
+=(>H>h>
+?4?T?t?
+0H0x0
+1 2@2`2
+343T3x3
+4 4$4(4,4044484
+N0L0
+*:8G
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
+170310000000Z
+190315120000Z0
+Private Organization1
+Delaware1
+27481291
+345 Park Ave1
+951101
+California1
+San Jose1$0"
+Adobe Systems, Incorporated1
+Acrobat DC1$0"
+Adobe Systems, Incorporated0
+,7w=
+US-DELAWARE-27481290
+t0r07
+1http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl07
+1http://crl4.digicert.com/EVCodeSigningSHA2-g1.crl0K
+D0B07
+0*0(
+https://www.digicert.com/CPS0
+r0p0$
+http://ocsp.digicert.com0H
+<http://cacerts.digicert.com/DigiCertEVCodeSigningCA-SHA2.crt0
+tso:
+c,_um
+@:Sb
+M8<a
+*9&f<2
+t+	`
+m<0E^
+"NQbK.
+-1PaAV
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert High Assurance EV Root CA0
+120418120000Z
+270418120000Z0l1
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)0
++.+1Xf
+=:	%
+s0q0$
+http://ocsp.digicert.com0I
+=http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt0
+:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@
+:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0
+.http://www.digicert.com/ssl-cps-repository.htm0
+:fk{
+DigiCert Inc1
+www.digicert.com1+0)
+"DigiCert EV Code Signing CA (SHA2)
+CN~CR
+(KSx
+a d2
+/BBa
+20170731214802Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G2
+IhQD
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2008 VeriSign, Inc. - For authorized use only1806
+/VeriSign Universal Root Certification Authority0
+160112000000Z
+310111235959Z0w1
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+^m@8
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0.
+"0 0
+http://s.symcd.com06
+/0-0+
+%http://s.symcb.com/universal-root.crl0
+TimeStamp-2048-30
+cH9@!
+xlBn
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+170102000000Z
+280401235959Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G20
+EhF$
+]rB	
+Ue_i
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0@
+90705
+/http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0
+k0i0*
+http://ts-ocsp.ws.symantec.com0;
+/http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(
+TimeStamp-2048-50
+\Z^ k;
+S+z+
+Mlz3
+AO2~
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA
+170731214802Z0/
+/1(0&0$0"
+o+L^k
+([zk
+f^>D
+|F^I
+0F5X
+m;^+

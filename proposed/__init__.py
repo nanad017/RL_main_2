@@ -1,0 +1,138 @@
+import os
+from math import ceil
+from collections import Counter
+from pathlib import Path
+
+from gym.envs.registration import register
+from sklearn.model_selection import train_test_split
+
+from proposed.utils import interface
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+SPLIT_RANDOM_STATE = int(os.getenv("MALWARE_RL_SPLIT_SEED", "42"))
+SPLIT_OUTPUT_DIR = os.getenv(
+    "MALWARE_RL_SPLIT_DIR",
+    str(PROJECT_ROOT / "runtime" / "splits" / "samples"),
+)
+SPLIT_FILE = os.getenv("MALWARE_RL_SPLIT_FILE")
+TRAIN_DIR = os.getenv("MALWARE_RL_TRAIN_DIR")
+TEST_DIR = os.getenv("MALWARE_RL_TEST_DIR")
+
+if SPLIT_FILE and (TRAIN_DIR or TEST_DIR):
+    raise ValueError(
+        "Use either MALWARE_RL_SPLIT_FILE or MALWARE_RL_TRAIN_DIR/MALWARE_RL_TEST_DIR, not both."
+    )
+if bool(TRAIN_DIR) != bool(TEST_DIR):
+    raise ValueError("MALWARE_RL_TRAIN_DIR and MALWARE_RL_TEST_DIR must be set together.")
+
+if TRAIN_DIR and TEST_DIR:
+    sha256_train = interface.get_available_sha256(TRAIN_DIR)
+    sha256_holdout = interface.get_available_sha256(TEST_DIR)
+    overlap = set(sha256_train) & set(sha256_holdout)
+    if overlap:
+        raise ValueError(
+            "Train and test directories contain duplicate relative sample id(s): "
+            + ", ".join(sorted(overlap)[:10])
+        )
+    interface.register_sample_roots(sha256_train, TRAIN_DIR)
+    interface.register_sample_roots(sha256_holdout, TEST_DIR)
+    interface.save_dataset_split(
+        sha256_train,
+        sha256_holdout,
+        SPLIT_OUTPUT_DIR,
+        train_root=TRAIN_DIR,
+        test_root=TEST_DIR,
+    )
+elif SPLIT_FILE:
+    sha256_train, sha256_holdout = interface.load_dataset_split(SPLIT_FILE)
+else:
+    # create a holdout set from the default samples directory
+    sha256 = interface.get_available_sha256()
+    families = [interface.get_sample_family(sample) for sample in sha256]
+    family_counts = Counter(families)
+    test_count = ceil(len(sha256) * 0.3)
+    train_count = len(sha256) - test_count
+    can_stratify = (
+        all(count >= 2 for count in family_counts.values())
+        and test_count >= len(family_counts)
+        and train_count >= len(family_counts)
+    )
+    stratify = families if can_stratify else None
+    if len(sha256) < 2:
+        sha256_train = sha256
+        sha256_holdout = []
+    else:
+        sha256_train, sha256_holdout = train_test_split(
+            sha256,
+            test_size=0.3,
+            random_state=SPLIT_RANDOM_STATE,
+            stratify=stratify,
+        )
+    interface.save_dataset_split(sha256_train, sha256_holdout, SPLIT_OUTPUT_DIR)
+
+MAXTURNS = 10
+CUSTOM_URL = os.getenv("CUSTOM_DETECTOR_URL", "http://127.0.0.1:8000")
+CUSTOM_SHARED_ROOT = os.getenv(
+    "CUSTOM_DETECTOR_SHARED_ROOT",
+    str(PROJECT_ROOT / "runtime" / "share"),
+)
+CUSTOM_THRESHOLD = float(os.getenv("CUSTOM_DETECTOR_THRESHOLD", "0.5"))
+CUSTOM_RANDOM_TRAIN = os.getenv("MALWARE_RL_RANDOM_TRAIN", "1").lower() not in (
+    "0",
+    "false",
+    "no",
+)
+
+register(
+    id="AV1-train-v0",
+    entry_point="proposed.env.AV_gym:AVEnv",
+    kwargs={
+        "random_sample": False,
+        "maxturns": MAXTURNS,
+        "sha256list": sha256_train,
+        "save_modified_data": False,
+        "url_path": "http://192.168.56.107:5000/"
+    },
+)
+
+register(
+    id="AV1-test-v0",
+    entry_point="proposed.env.AV_gym:AVEnv",
+    kwargs={
+        "random_sample": False,
+        "maxturns": MAXTURNS,
+        "sha256list": sha256_holdout,
+        "save_modified_data": True,
+        "url_path": "http://192.168.56.107:5000/"
+    },
+)
+
+register(
+    id="custom-train-v0",
+    entry_point="proposed.env.custom_gym:CustomDetectorEnv",
+    kwargs={
+        "random_sample": CUSTOM_RANDOM_TRAIN,
+        "maxturns": MAXTURNS,
+        "sha256list": sha256_train,
+        "save_modified_data": False,
+        "url_path": CUSTOM_URL,
+        "shared_root": CUSTOM_SHARED_ROOT,
+        "threshold": CUSTOM_THRESHOLD,
+    },
+)
+
+register(
+    id="custom-test-v0",
+    entry_point="proposed.env.custom_gym:CustomDetectorEnv",
+    kwargs={
+        "random_sample": False,
+        "maxturns": MAXTURNS,
+        "sha256list": sha256_holdout,
+        "save_modified_data": True,
+        "url_path": CUSTOM_URL,
+        "shared_root": CUSTOM_SHARED_ROOT,
+        "threshold": CUSTOM_THRESHOLD,
+    },
+)
+
+ 

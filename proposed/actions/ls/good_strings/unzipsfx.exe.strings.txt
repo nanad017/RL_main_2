@@ -1,0 +1,442 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$4 A
+$4 A
+=@ A
+=t A
+[^_]
+$4 A
+$4 A
+$4 A
+[^_]
+$4 A
+$4 A
+5H A
+5T A
+5\ A
+5L A
+5D A
+$4 A
+$4 A
+=4 A
+=4 A
+54 A
+54 A
+<[^_]
+54 A
+$4 A
+$4 A
+$4 A
+WVSRQ
+YZ[^_]
+[^_]
+$4 A
+$4 A
+=x A
+$4 A
+[^_]
+[^_]
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+L[^_]
+$4 A
+$4 A
+=H A
+t	9U
+5H A
+=x A
+$4 A
+$4 A
+5H A
+5t A
+$4 A
+$4 A
+=t A
+5H A
+=@ A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+{ENT
+$4 A
+$4 A
+$4 A
+=@ A
+$4 A
+$4 A
+=T A
+5L A
+t#;E
+5t A
+$4 A
+5x A
+=t A
+[^_]
+=T A
+[^_]
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+=x A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+[^_]
+$4 A
+[^_]
+$4 A
+[^_]
+$4 A
+$4 A
+$4 A
+$4 A
+[^_]
+$4 A
+=H A
+B <qt.1
+[^_]
+$4 A
+1tv;
+[^_]
+[^_]
+$4 A
+GFKu
+[^_]
+$4 A
+<[^_]
+<[^_]
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+B;W|
+C;_t
+[^_]
+B;Wt
+Wx}h
+[^_]
+$4 A
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+$4 A
+$4 A
+t	:E
+tO:U
+<]t3
+,[^_]
+t:B9
+[^_]
+=t A
+$4 A
+$4 A
+=d A
+$4 A
+$4 A
+$4 A
+$4 A
+;PtF
+$4 A
+$4 A
+$4 A
+$4 A
+t	f9
+=t A
+$4 A
+.exe
+=p A
+$4 A
+$4 A
+[^_]
+[^_]
+$4 A
+[^_]
+[^_]
+P[^]
+[^_]
+[^_]
+ [^]
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+$4 A
+[^_]
+$4 A
+$4 A
+L[^_]
+=P A
+5t A
+$4 A
+$4 A
+$4 A
+5t A
+$4 A
+$4 A
+[^_]
+$4 A
+$4 A
+$4 A
+C$  A
+[^_]
+  (please check that you have transferred or created the zipfile in the
+  appropriate BINARY mode and that you have compiled UnZip properly)
+caution: excluded filename not matched:  %s
+caution: filename not matched:  %s
+error [%s]:  attempt to seek before beginning of zipfile
+error:  expected central file header signature not found (file #%lu).
+20 April 2009
+Valid options are -tfupcz and -d <exdir>; modifiers are -abjnoqCL%sV%s.
+UnZipSFX %d.%d%d%s of %s, by Info-ZIP (http://www.info-zip.org).
+caution:  both -n and -o specified; ignoring -o
+error:  -fn or any combination of -c, -l, -p, -t, -u and -v options invalid
+error:  -d option used more than once (only one exdir allowed)
+error:  must specify directory to which to extract with -d option
+warning:  -U "escape all non-ASCII UTF-8 chars" is not supported
+caution:  not extracting; -d ignored
+UTF-8
+ compressed WinNT security data missing (%d bytes)%s
+ compressed EA data missing (%d bytes)%s
+error [%s]:  bad extra-field CRC %08lx (should be %08lx)
+error:  unsupported extra-field compression type (%u)--skipping
+inflate
+invalid compressed data to 
+not enough memory to 
+  error:  %s%s
+%lu file%s skipped because of unsupported compression or encoding.
+No errors detected in %s for the %lu file%s tested.
+No errors detected in compressed data of %s.
+Caution:  zero files tested in %s.
+At least one %serror was detected in %s.
+     failed setting times/attribs for %lu dir entries
+warning:  set times/attribs failed for %s
+warning:  cannot alloc memory to sort dir times/perms/etc.
+finishing deferred symbolic links:
+%s:  bad file comment length
+%s:  bad extra field length (%s)
+%s:  bad filename length (%s)
+   skipping: %-22s  encrypted (not supported)
+   skipping: %-22s  unsupported compression method %u
+%s:  stored in VMS format.  Extract anyway? (y/n) 
+   skipping: %-22s  need %s compat. v%u.%u (can do v%u.%u)
+error:  invalid response [%s]
+new name: 
+ NULL
+(EOF or read error, treating as "[N]one" ...)
+replace %s? [y]es, [n]o, [A]ll, [N]one, [r]ename: 
+   skipping: %-22s  %svolume label
+warning:  cannot alloc memory for dir times/permissions/UID/GID
+warning:  stripped absolute path spec from %s
+%s:  ucsize %s <> csize %s for STORED entry
+         continuing with "compressed" size value
+file #%lu:  bad local header
+local header sig
+file #%lu:  bad zipfile offset (%s):  %ld
+  (attempting to re-compensate)
+ bad CRC %08lx  (should be %08lx)
+warning:  %s is probably truncated
+%s:  unknown compression method
+  error:  %s%s %s
+%8sing: %-22s  %s%s
+  %-22s -> %s
+warning:  deferred symlink (%s) failed:
+          invalid placeholder file
+warning:  deferred symlink (%s) failed:
+          out of memory
+local
+lseek
+test
+link
+inflat
+%-22s 
+extract
+[empty] 
+[text]  
+[binary]
+central
+warning-
+symlink error
+++--+-+
+++--
+warning:  Converted unicode filename too long--truncating.
+warning:  extra field too long (%d).  Ignoring...
+warning:  filename too long--truncating.
+--- Press `Q' to quit, or any other key to continue ---
+%s exists and is a symbolic link%s.
+error:  zipfile probably corrupt (%s)
+                                                         
+--More--(%lu)
+%s:  write error (disk full?).  Continue? (y/n/^C) 
+error:  zipfile read error
+error:  cannot create %s
+        %s
+error:  cannot delete old %s
+        %s
+error:  cannot rename old %s
+        %s
+error:  cannot open zipfile [ %s ]
+        %s
+segmentation violation
+bus error
+illegal instruction
+ with no real file
+(incomplete l-tree)  
+(incomplete d-tree)  
+warning:  Unicode Path checksum invalid
+warning:  Unicode Path version > 1
+unzipsfx:  cannot find myself! [%s]
+error:  cannot allocate unzip buffers
+error [%s]:  start of central directory not found;
+  zipfile corrupt.
+warning [%s]:  zipfile is empty
+error [%s]:  NULL central directory offset
+  (attempting to process anyway)
+error [%s]:  missing %s bytes in zipfile
+  (attempting to process anyway)
+  End-of-central-directory signature not found.
+caution:  zipfile comment truncated
+error: End-of-centdir-64 signature not where expected (prepended bytes?)
+  (attempting to process anyway)
+fatal error: read failure while seeking for End-of-centdir-64 signature.
+  This zipfile is corrupt.
+[%s]
+%sEmpty zipfile.
+warning:  cannot set permissions for %s
+          %s
+warning:  cannot set modif./access times for %s
+          %s
+warning:  cannot set UID %lu and/or GID %lu for %s
+          %s
+ (warning) cannot set modif./access times
+          %s
+ (warning) cannot set UID %lu and/or GID %lu
+          %s
+checkdir error:  path too long: %s
+checkdir warning:  path too long; truncating
+                   %s
+                -> %s
+checkdir error:  %s exists but is not directory
+                 unable to process %s.
+checkdir error:  cannot create %s
+                 %s
+                 unable to process %s.
+checkdir:  cannot create extraction directory: %s
+           %s
+warning:  skipped "../" path component(s) in %s
+mapname:  conversion of %s failed
+   creating: %s
+chmod (directory attributes) error
+Could not read directory attributes
+warning:  symbolic link (%s) failed: mem alloc overflow
+warning:  symbolic link (%s) failed
+fchmod (file attributes) error
+-> %s 
+warning:  symbolic link (%s) failed: no mem
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+__mb_cur_max
+_ctype_
+_timezone
+abort
+calloc
+chmod
+chown
+close
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fchmod
+fchown
+fclose
+fflush
+fgets
+fileno
+fopen
+fprintf
+fputc
+fread
+free
+ioctl
+isatty
+lchown
+localtime
+lseek
+lstat
+malloc
+mblen
+memcpy
+memset
+mkdir
+open
+perror
+putc
+qsort
+read
+realloc
+rename
+rewind
+setlocale
+signal
+sprintf
+stat
+strcat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncpy
+strrchr
+symlink
+tcgetattr
+tcsetattr
+tzset
+umask
+unlink
+utime
+vsnprintf
+write
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

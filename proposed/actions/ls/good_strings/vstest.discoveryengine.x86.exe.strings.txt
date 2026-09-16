@@ -1,0 +1,1437 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+dm;i
+-)w@
+E,0x(E
++&~#
+,.(1
+-n(@
++&sR
+-{(e
++f(e
+-+(m
+, r)	
+, rT
++E(e
+,*r7
+,-r)
+,J(e
+*.s.
++&(a
++&rF
+7&(e
+,#rL!
+,(r="
+,T(a
+,\rR#
+,"(e
+,"(e
+	*(e
+,'(e
+, rz0
+*z(a
+*v(a
+*b(a
+*.~d
+/$(m
+j/$(m
+-2(m
+-$(m
+/$(m
+,$(m
+-6(m
+, r5F
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPaVX
+K"O*L
+[A discovery request is already in progress. Only one active discovery request is supported.
+iDiagnostic data adapters could not be loaded. Failed to create required configuration. More details: {0}.
+LCould not execute the tests as there is already an active discovery request.
+CCould not execute the tests as there is already an active test run.
+lCould not find diagnostic data adapter '{0}'.  Make sure diagnostic data adapter is installed and try again.
+pThe diagnostic data adapter '{0}'  threw an exception during type loading, construction, or initialization: {1}.
+CCould not find diagnostic data adapter of type '{0}' and Uri '{1}'.
+The diagnostic data adapter '{0}' requested environment variable '{1}' with value '{2}' to be set in test execution environment, but another diagnostic data adapter '{3}' has already requested same environment variable with different value '{4}'.
+SThis adapter will not be used for this test run. The following error occurred: {0}.
+gSettings provider is not registered for settings '{0}'. Couldn't read diagnostic data adapter settings.
+AFailed to get type for diagnostic data adapter '{0}'. Error: {1}.
+7Sending message of Message Type '{0}' is not supported.
+2There should be at least one test in the test run.
+9Error while loading test run settings. More details: {0}.
+Timed out invoking diagnostic data adapter event handler '{0}'.
+To increase the timeout values for all diagnostic data adapters, see the following link: http://go.microsoft.com/fwlink/?LinkId=169311 
+There are multiple configurations that have diagnostic data adapter  type '{0}' or Uri '{1}'. Duplicate configurations will be ignored in the test run.
+hNo tests are available as discovery request has never been made. Make a discovery request and try again.
+=The number of test results to retrieve cannot be less than 1.
+TDiagnostic data adapter caught an exception of type '{0}': '{1}'. More details: {2}.
+LStarting index from which test results are retrieved should be non-negative.
+cDiagnostic data adapter can send collection logs as files. Sending data as stream is not supported.
+zDiagnostic data adapter configuration specified unsupported adapters '{0}'. Unsupported adapters will be disabled for run.
+Types deriving from the data collection context cannot be used for sending data and messages.  The DataCollectionContext used for sending data and messages must come from one of the events raised to the data collector.
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPw=
+}>yF}A
+'The specified argument cannot be empty.
+*The specified argument cannot be negative.
+9The specified argument must have the following type: {0}.
+XThe specified argument has the following property, which cannot be an empty string: {0}.
+RThe  specified argument has the following property, which cannot be negative: {0}.
+MThe specified argument has the following property, which cannot be null: {0}.
+hThe specified argument has the following property: {0}. This property must have the following type: {1}.
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+J 5 
+O5E5
+F6E5
+W6E5
+N7B7&
+r8E5
+KB4B&
+;D&D
+oDPD:
+iH8H
+CI5 
+PI5 "
+I{I>
+I{I"
+!5R	q
+T5\	
+5g		
+6\	y
+:6\	
+5?		
+5*	)
+j8*	1
+8\	1
+7?	<
+7?	T
+7M	t
+7?	I
+5*	I
+7?	\
+5?		
+7?		
+5*	<
+lAa	
+5g	<
+d z	k
+ z	k
+ z	k
+!z	k
+"z	k
+0	D	s	
+$	8	~	
+<Module>
+vstest.discoveryengine.x86.exe
+CollectorRequestedEnvironmentVariable
+Microsoft.VisualStudio.TestPlatform.TestRunnerService.DataCollectors
+DataCollectionSessionConfiguration
+CopyRequestData
+DataCollectionFileManager
+DataCollectionPluginManager
+MessageSink
+DataCollectorDataMessage
+FileDataHeaderMessage
+TestPlatformDataCollectionEvents
+MulticastDelegateInvoker
+EventInvoker
+ObjectConversionHelper
+TestPlatformDataCollectionLogger
+TestPlatformDataCollectionSink
+TestPlatformDataCollectorCache
+TestPlatformDataCollectorDiscovery
+TestPlatformDataCollectorInfo
+TestPlatformTestElement
+Resource
+Microsoft.VisualStudio.TestPlatform.TestRunnerService
+WcfTestRunnerService
+ServiceMain
+TestRunnerServiceHost
+ValidateArg
+ValidateArgProperty
+ValidateArgStrings
+ValidatedNotNullAttribute
+mscorlib
+System
+Object
+IDisposable
+Microsoft.VisualStudio.TestPlatform.Core
+IDataCollectionLog
+Microsoft.VisualStudio.QualityTools.ExecutionCommon
+Microsoft.VisualStudio.TestTools.Execution
+DataCollectionEvents
+MulticastDelegate
+DataCollectionLogger
+DataCollectionSink
+MarshalByRefObject
+Microsoft.VisualStudio.QualityTools.Common
+Microsoft.VisualStudio.TestTools.Common
+TestElement
+ITestRunnerService
+ITestCaseDiscoveryLog
+ITestRunEventSinkService
+ITestCaseEventSinkService
+Attribute
+System.Collections.Generic
+KeyValuePair`2
+m_variable
+List`1
+m_dataCollectorsThatRequested
+.ctor
+get_Name
+get_Value
+get_Pair
+get_FirstDataCollectorThatRequested
+AddRequestingDataCollector
+Name
+Value
+Pair
+FirstDataCollectorThatRequested
+SessionId
+get_SessionId
+set_SessionId
+get_OutputDirectory
+set_OutputDirectory
+<SessionId>k__BackingField
+<OutputDirectory>k__BackingField
+OutputDirectory
+m_disposed
+System.Threading
+ManualResetEvent
+m_requestCompleted
+get_LocalFileName
+set_LocalFileName
+get_LocalFilePath
+set_LocalFilePath
+get_FileDataHeaderMessage
+set_FileDataHeaderMessage
+Exception
+get_Error
+set_Error
+WaitForCopyComplete
+CompleteRequest
+Dispose
+<LocalFileName>k__BackingField
+<LocalFilePath>k__BackingField
+<FileDataHeaderMessage>k__BackingField
+<Error>k__BackingField
+LocalFileName
+LocalFilePath
+Error
+MaxJobCount
+DefaultOutputDirectoryName
+IDictionary`2
+m_sessionInfo
+DataCollectionContext
+m_copyfiles
+BackgroundJobProcessor`1
+m_backgroundFileCopier
+m_dataCollectionLog
+ConfigureSession
+Microsoft.VisualStudio.TestPlatform.ObjectModel
+AttachmentSet
+GetData
+CloseSession
+DispatchMessage
+AddNewFileTransfer
+IQueuedJobs`1
+OnFileCopyRequest
+FileCopy
+Validate
+System.ComponentModel
+AsyncCompletedEventHandler
+TriggerCallback
+FileMove
+CompleteFileTransfer
+Guid
+LogError
+Dictionary`2
+Type
+m_runDataCollectors
+m_arePluginsCleanedUp
+get_ArePluginsCleanedUp
+m_collectionEnabled
+m_fileManager
+DataCollectionEnvironmentContext
+m_dataCollectionEnvironmentContext
+m_messageSink
+SafeAbortableUserWorkItemFactory
+m_userWorkItemFactory
+DataCollectionMessageLog
+m_pluginDirectoryUri
+m_collectionOutputDirectory
+System.Reflection
+Assembly
+ResolveEventArgs
+DataCollectorPlugin_AssemblyResolve
+Microsoft.VisualStudio.TestPlatform.ObjectModel.Logging
+DataCollectionMessageEventArgs
+MessageSink_OnDataCollectionMessage
+ConfigureNewSession
+RunSettings
+LoadDataCollectors
+SessionStarted
+System.Collections.ObjectModel
+Collection`1
+SessionEnded
+TestCaseStartEventArgs
+RaiseEvent
+TestCase
+TestOutcome
+TestCaseEnded
+DataCollectionRunSettings
+LoadAndInitDataCollectors
+DataCollectorSettings
+GetDataCollectorsEnabledForRun
+LoadAndInitDataCollector
+GetEnvironmentVariables
+GetCollectorType
+DataCollector
+CreateDataCollector
+GetDataCollectorInfo
+System.Xml
+XmlElement
+DataCollectorInformation
+GetConfigurationElement
+AddCollectorEnvironmentVariables
+IEnumerable`1
+DisposeDataCollectors
+CleanupPlugins
+DataCollectionEventArgs
+SendEvent
+AreTestCaseLevelEventsRequired
+GetDataCollectorsSnapshot
+LogWarning
+SendDataCollectionMessage
+ArePluginsCleanedUp
+get_FileManager
+set_FileManager
+SendMessage
+EventHandler`1
+OnDataCollectionMessage
+<FileManager>k__BackingField
+FileManager
+get_DataCollectionContext
+set_DataCollectionContext
+get_Uri
+set_Uri
+get_FriendlyName
+set_FriendlyName
+<DataCollectionContext>k__BackingField
+<Uri>k__BackingField
+<FriendlyName>k__BackingField
+FriendlyName
+get_FileName
+set_FileName
+get_Description
+set_Description
+get_PerformCleanup
+set_PerformCleanup
+get_FileTransferCompletedHandler
+set_FileTransferCompletedHandler
+get_UserToken
+set_UserToken
+<FileName>k__BackingField
+<Description>k__BackingField
+<PerformCleanup>k__BackingField
+<FileTransferCompletedHandler>k__BackingField
+<UserToken>k__BackingField
+FileName
+Description
+PerformCleanup
+FileTransferCompletedHandler
+UserToken
+m_eventArgsToEventInvokerMap
+SessionStartEventArgs
+SessionStart
+add_SessionStart
+remove_SessionStart
+SessionEndEventArgs
+SessionEnd
+add_SessionEnd
+remove_SessionEnd
+SessionPauseEventArgs
+SessionPause
+add_SessionPause
+remove_SessionPause
+SessionResumeEventArgs
+SessionResume
+add_SessionResume
+remove_SessionResume
+TestCaseStart
+add_TestCaseStart
+remove_TestCaseStart
+TestCaseEndEventArgs
+TestCaseEnd
+add_TestCaseEnd
+remove_TestCaseEnd
+TestCasePauseEventArgs
+TestCasePause
+add_TestCasePause
+remove_TestCasePause
+TestCaseResumeEventArgs
+TestCaseResume
+add_TestCaseResume
+remove_TestCaseResume
+TestCaseResetEventArgs
+TestCaseReset
+add_TestCaseReset
+remove_TestCaseReset
+TestCaseFailedEventArgs
+TestCaseFailed
+add_TestCaseFailed
+remove_TestCaseFailed
+TestStepStartEventArgs
+TestStepStart
+add_TestStepStart
+remove_TestStepStart
+TestStepEndEventArgs
+TestStepEnd
+add_TestStepEnd
+remove_TestStepEnd
+DataRequestEventArgs
+DataRequest
+add_DataRequest
+remove_DataRequest
+CustomNotificationEventArgs
+CustomNotification
+add_CustomNotification
+remove_CustomNotification
+DataCollectorInvocationError
+HasTestCaseStartOrEndOrFailedEventListener
+HasEventListener
+OnSessionStart
+OnSessionEnd
+OnSessionPause
+OnSessionResume
+OnTestCaseStart
+OnTestCaseEnd
+OnTestCasePause
+OnTestCaseResume
+OnTestCaseReset
+OnTestCaseFailed
+OnTestStepStart
+OnTestStepEnd
+OnDataRequest
+OnCustomNotification
+m_multicastDelegate
+m_eventArgs
+m_invocationErrors
+System.Runtime.CompilerServices
+IsVolatile
+m_timeout
+Invoke
+Delegate
+ISafeAbortableUserWorkItem
+InvokeDelegateAsync
+HandleTimeout
+HandleException
+AddError
+AddTimeoutError
+AddErrorImpl
+IAsyncResult
+AsyncCallback
+BeginInvoke
+EndInvoke
+ITestElement
+s_testElementCache
+ClearTestElementCache
+ToTestCaseStartEventArgs
+ToTestCaseEndEventArgs
+ToSessionStartEventArgs
+ToSessionEndEventArgs
+ToTestElement
+ToOutcome
+m_dataCollectorInformation
+m_sink
+TestMessageLevel
+SendTextMessage
+get_MessageSink
+set_MessageSink
+get_CollectorInfo
+set_CollectorInfo
+SendFileCompleted
+add_SendFileCompleted
+remove_SendFileCompleted
+SendStreamCompleted
+add_SendStreamCompleted
+remove_SendStreamCompleted
+FileTransferInformation
+SendFileAsync
+StreamTransferInformation
+SendStreamAsync
+<MessageSink>k__BackingField
+<CollectorInfo>k__BackingField
+CollectorInfo
+ReadOnlyCollection`1
+s_collectorInfo
+s_collectorCache
+GetCollectorInformation
+GetAllCollectorInformation
+ForceCacheUpdate
+PerformDiscovery
+s_cacheRefreshLock
+DataCollectorsDirectoryName
+m_path
+s_currentProcessLocation
+get_DataCollectorsDirectory
+GetCollectorsFromFiles
+GetCollectorsFromAssembly
+XmlDocument
+GetConfigurationForAssembly
+GetOSNeutralCultureNames
+GetAssemblyCultureLanguage
+GetDataCollectorPluginDirectory
+DataCollectorsDirectory
+get_DataCollector
+set_DataCollector
+get_ConfigurationElement
+set_ConfigurationElement
+get_Events
+set_Events
+get_DataSink
+set_DataSink
+get_Logger
+set_Logger
+get_DataCollectorInformation
+set_DataCollectorInformation
+get_TestExecutionEnvironmentVariables
+set_TestExecutionEnvironmentVariables
+get_Failed
+set_Failed
+InitializeDataCollectorSync
+GetTestExecutionEnvironmentVariablesSync
+DisposeDataCollector
+<DataCollector>k__BackingField
+<ConfigurationElement>k__BackingField
+<Events>k__BackingField
+<DataSink>k__BackingField
+<Logger>k__BackingField
+<DataCollectorInformation>k__BackingField
+<TestExecutionEnvironmentVariables>k__BackingField
+<Failed>k__BackingField
+ConfigurationElement
+Events
+DataSink
+Logger
+TestExecutionEnvironmentVariables
+Failed
+c_adapterName
+TestType
+s_testType
+get_ReadOnly
+set_ReadOnly
+get_TestType
+Clone
+get_Adapter
+get_ControllerPlugin
+get_CanBeAggregated
+get_IsAutomated
+ReadOnly
+Adapter
+ControllerPlugin
+CanBeAggregated
+IsAutomated
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_AnotherDiscoveryRequestInProgress
+get_ConfigureSessionError
+get_CouldNotExecuteTestsAsAnotherDiscoveryIsAlreadyActive
+get_CouldNotExecuteTestsAsAnotherTestRunIsAlreadyActive
+get_DataCollectorAssemblyNotFound
+get_DataCollectorInitializationError
+get_DataCollectorNotFound
+get_DataCollectorRequestedDuplicateEnvironmentVariable
+get_DataCollectorRunError
+get_DataCollectorSettingsProviderNotRegistered
+get_DataCollectorTypeNotFound
+get_DataCollectorUnsupportedMessageType
+get_EmptyTestCollection
+get_ErrorWhileLoadSettings
+get_Execution_DataCollectorEventTimeout
+get_IgnoredDuplicateConfiguration
+get_NoActiveDiscovery
+get_NumberOfTestResultsShouldNotBeLessThanOne
+get_ReportDataCollectorException
+get_StartIndexForTestResultsShouldBeNonNegative
+get_SupportedTransferTypeIsFileTransfer
+get_UnsupportedAdaptersWillBeDisabled
+get_WrongDataCollectionContextType
+Culture
+AnotherDiscoveryRequestInProgress
+ConfigureSessionError
+CouldNotExecuteTestsAsAnotherDiscoveryIsAlreadyActive
+CouldNotExecuteTestsAsAnotherTestRunIsAlreadyActive
+DataCollectorAssemblyNotFound
+DataCollectorInitializationError
+DataCollectorNotFound
+DataCollectorRequestedDuplicateEnvironmentVariable
+DataCollectorRunError
+DataCollectorSettingsProviderNotRegistered
+DataCollectorTypeNotFound
+DataCollectorUnsupportedMessageType
+EmptyTestCollection
+ErrorWhileLoadSettings
+Execution_DataCollectorEventTimeout
+IgnoredDuplicateConfiguration
+NoActiveDiscovery
+NumberOfTestResultsShouldNotBeLessThanOne
+ReportDataCollectorException
+StartIndexForTestResultsShouldBeNonNegative
+SupportedTransferTypeIsFileTransfer
+UnsupportedAdaptersWillBeDisabled
+WrongDataCollectionContextType
+InitializeConnection
+TimeSpan
+DiscoverTests
+IDiscoveryManager
+SendDiscoveredTests
+SendDiscoveryMessage
+SendDiscoveryComplete
+ValidateUser
+EventArgs
+Channel_Faulted
+System.Security.Principal
+WindowsIdentity
+m_processIdentity
+m_syncActiveRequest
+ITestRunnerServiceCallback
+m_discoveryRequests
+s_discoveryInProgress
+m_shutdownEvent
+Microsoft.VisualStudio.TestPlatform.Core.ITestRunEventSinkService.TestConnection
+TestConnection
+BeforeTestRunStartResult
+BeforeTestRunStart
+AfterTestRunEnd
+ITestRunEventSinkServiceCallback
+m_callback
+m_dataCollectionPluginManager
+m_cachedRunSettings
+m_cachedEnvironmentVariables
+Microsoft.VisualStudio.TestPlatform.Core.ITestCaseEventSinkService.TestConnection
+BeforeTestCaseStart
+AfterTestCaseEnd
+AutoResetEvent
+parentProcessExited
+shutdownEvent
+OnParentExited
+SetParentExitedHandler
+SetApplicationEventLog
+ShowHelp
+Main
+InternalStop
+s_testRunnerServiceHost
+Start
+Stop
+CreateServiceHost
+m_platform
+System.ServiceModel
+ServiceHost
+m_testRunnerHost
+m_locktestRunnertHost
+NotNull
+NotNegative
+NotNullOrEmpty
+TypeOf
+get_Error_ArgumentIsEmpty
+get_Error_ArgumentIsNegative
+get_Error_ArgumentNotTypeOf
+get_Error_ArgumentPropertyIsEmpty
+get_Error_ArgumentPropertyIsNegative
+get_Error_ArgumentPropertyIsNull
+get_Error_ArgumentPropertyNotTypeOf
+Error_ArgumentIsEmpty
+Error_ArgumentIsNegative
+Error_ArgumentNotTypeOf
+Error_ArgumentPropertyIsEmpty
+Error_ArgumentPropertyIsNegative
+Error_ArgumentPropertyIsNull
+Error_ArgumentPropertyNotTypeOf
+variable
+requestingDataCollectorFriendlyName
+value
+outputDirectory
+baseDirectory
+headerMessage
+error
+disposing
+dataCollectionLog
+collectionContext
+collectorDataMessage
+fileCopyRequest
+queuedJobs
+copyRequest
+transferCompletedCallback
+userToken
+exception
+path
+errorMessage
+collectorUri
+collectorFriendlyName
+testCaseId
+sender
+args
+testRunSettings
+tcStartEventArg
+testCase
+testOutCome
+dataCollectionSettings
+collectorSettings
+collectorTypeName
+dataCollectorType
+dataCollector
+collectorInfo
+dataCollectorInfo
+dataCollectorEnvironmentVariables
+dataCollectors
+warningMessage
+fileManager
+context
+friendlyName
+fileName
+description
+deleteFile
+fileTransferCompletedHandler
+userWorkItemFactory
+valueOnFailure
+eventToCheck
+multicastDel
+multicastDelegate
+eventArgs
+newUserWorkItem
+System.Runtime.InteropServices
+OutAttribute
+userWorkItems
+object
+method
+callback
+result
+outcome
+sink
+dataCollectorInformation
+text
+level
+messageSink
+fileTransferInformation
+streamTransferInformation
+dataCollectorAssemblyQualifiedName
+throwOnError
+collectorInfoByName
+files
+assembly
+configurationElement
+dataCollectionEnvironmentContext
+copy
+pathToAdditionalExtensions
+loadOnlyWellKnownExtensions
+sources
+settings
+frequencyOfDiscoveredTestsEvent
+discoveredTestEventTimeout
+discoveryManager
+discoveredTestCases
+message
+totalTests
+lastChunk
+isAborted
+dataCollectionPluginManager
+settingsXml
+resetDataCollectors
+isRunStartingNow
+isCanceled
+testOutcome
+parentProcessId
+processId
+parameterName
+propertyName
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+RuntimeCompatibilityAttribute
+InternalsVisibleToAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+vstest.discoveryengine.x86
+get_Key
+get_Item
+CompilerGeneratedAttribute
+System.IO
+Path
+GetFileName
+get_HasTestCase
+String
+Empty
+TestExecId
+get_TestExecId
+get_Id
+ToString
+Combine
+WaitHandle
+WaitOne
+EventWaitHandle
+SuppressFinalize
+Close
+Action`2
+IsNullOrEmpty
+GetTempPath
+Environment
+ExpandEnvironmentVariables
+GetFullPath
+Directory
+Exists
+DirectoryInfo
+CreateDirectory
+Monitor
+Enter
+ContainsKey
+set_Item
+Exit
+<>c__DisplayClass4
+<GetData>b__2
+Equals
+TryGetValue
+EqtTrace
+get_IsWarningEnabled
+Warning
+Remove
+Enumerator
+GetEnumerator
+get_Current
+get_Message
+Func`2
+System.Core
+System.Linq
+Enumerable
+FirstOrDefault
+IList`1
+UriDataAttachment
+get_Attachments
+ICollection`1
+MoveNext
+<CloseSession>b__7
+request
+Action`1
+CS$<>9__CachedAnonymousMethodDelegate8
+IEnumerator`1
+AddRange
+System.Collections
+IEnumerator
+ForEach
+get_IsErrorEnabled
+GetType
+get_IsVerboseEnabled
+Verbose
+Enqueue
+File
+Copy
+get_CurrentCulture
+IFormatProvider
+Format
+FileNotFoundException
+GetDirectoryName
+Delete
+AsyncCompletedEventArgs
+Move
+set_TestCaseId
+Abort
+Process
+GetCurrentProcess
+ProcessModule
+get_MainModule
+AppDomain
+get_CurrentDomain
+ResolveEventHandler
+add_AssemblyResolve
+AssemblyName
+get_LocalPath
+Concat
+LoadFrom
+SystemException
+NewGuid
+CreateForLocalEnvironment
+StringComparer
+get_OrdinalIgnoreCase
+IEqualityComparer`1
+Microsoft.VisualStudio.TestPlatform.ObjectModel.Adapter
+ISettingsProvider
+GetSettings
+IDataCollectorsSettingsProvider
+get_Settings
+get_IsCollectionEnabled
+IRunConfigurationSettingsProvider
+RunConfiguration
+get_ResultsDirectory
+Clear
+get_Context
+get_DisplayName
+get_Count
+ValueCollection
+get_Values
+<>c__DisplayClass2
+<GetDataCollectorsEnabledForRun>b__0
+dcSettings
+get_AssemblyQualifiedName
+StringComparison
+get_DataCollectorSettingsList
+get_IsEnabled
+get_CurrentUICulture
+IsNullOrWhiteSpace
+get_TypeUri
+get_FullName
+get_SessionDataCollectionContext
+get_IsInfoEnabled
+Info
+Activator
+CreateInstance
+get_IsDefaultConfig
+get_Configuration
+get_DefaultConfiguration
+CreateElement
+XmlNode
+AppendChild
+get_DocumentElement
+get_InnerXml
+set_InnerXml
+Count
+<CleanupPlugins>b__8
+CS$<>9__CachedAnonymousMethodDelegate9
+Int32
+Where
+get_EventArgs
+get_Exception
+Boolean
+op_Inequality
+remove_AssemblyResolve
+TestRunMessageEventArgs
+Microsoft.VisualStudio.TestPlatform.Core.Utilities
+MulticastDelegateUtilities
+SafeInvoke
+InvalidOperationException
+EqtAssert
+ParameterNotNull
+RuntimeTypeHandle
+GetTypeFromHandle
+WrapperCustomNotificationEventArgs
+Interlocked
+CompareExchange
+IsSubclassOf
+Microsoft.VisualStudio.TestTools.Diagnostics
+Fail
+GetInvocationList
+get_CustomNotificationEventArgs
+ToArray
+Microsoft.VisualStudio.TestTools.DataCollection
+ExecutionPluginManager
+DataCollectionEventTimeout
+WaitAll
+completeEvent
+traceMessageFormat
+userWorkItem
+<>4__this
+<InvokeDelegateAsync>b__0
+<InvokeDelegateAsync>b__1
+state
+DynamicInvoke
+ObjectDisposedException
+get_Target
+WaitCallback
+Create
+set_Name
+add_Complete
+Queue
+<>c__DisplayClass7
+<HandleTimeout>b__5
+<HandleTimeout>b__4
+pair
+CS$<>9__CachedAnonymousMethodDelegate6
+get_IsComplete
+KeyCollection
+get_Keys
+MemberInfo
+ThreadPool
+QueueUserWorkItem
+TargetInvocationException
+get_InnerException
+MethodInfo
+get_Method
+TimeoutException
+get_TestCase
+get_ExecutionId
+TcmInformation
+.cctor
+get_NewLine
+get_StackTrace
+BasicTransferInformation
+get_ClientFileName
+get_DeleteFile
+NotSupportedException
+ToList
+AsReadOnly
+AppDomainSetup
+get_SetupInformation
+System.Security.Policy
+Evidence
+CreateDomain
+SetupRemoteEqtTraceListeners
+get_Assembly
+BindingFlags
+Binder
+CreateInstanceAndUnwrap
+Unload
+CannotUnloadAppDomainException
+ThreadAbortException
+GetFiles
+GetTypes
+get_IsClass
+get_IsAbstract
+IsAssignableFrom
+ITestExecutionPlugin
+ArgumentException
+get_Location
+Contains
+XmlTextReader
+DtdProcessing
+set_DtdProcessing
+XmlResolver
+set_XmlResolver
+XmlReader
+Load
+get_Parent
+get_IsNeutralCulture
+GetCustomAttribute
+get_CultureName
+get_TwoLetterISOLanguageName
+System.Configuration
+ConfigurationManager
+System.Collections.Specialized
+NameValueCollection
+get_AppSettings
+HasKeys
+Microsoft.VisualStudio.TestPlatform.Utilities
+ClientUtilities
+GetVSInstallPath
+Initialize
+ITestExecutionEnvironmentSpecifier
+GetTestExecutionEnvironmentVariables
+GuidAttribute
+SerializableAttribute
+TestId
+get_FullyQualifiedName
+get_Source
+m_executionId
+get_GUID
+ReadOnlyAttribute
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+GetString
+EditorBrowsableAttribute
+EditorBrowsableState
+TestPlatformErrorHandler
+ServiceBehaviorAttribute
+<>c__DisplayClass1
+<InitializeConnection>b__0
+source
+DiscoveryManager
+LoadAndInitialize
+Microsoft.VisualStudio.TestPlatform.Core.TestPluginsFramework
+TestPluginCache
+UseAdditionalExtensions
+OperationContext
+IContextChannel
+get_Channel
+EventHandler
+ICommunicationObject
+add_Faulted
+GetCallbackChannel
+DiscoveredTests
+TestRunMessage
+DiscoveryComplete
+ServiceSecurityContext
+get_ServiceSecurityContext
+get_WindowsIdentity
+WcfUtilities
+GetCurrent
+Microsoft.VisualStudio.TestPlatform.Core.Logging
+TestRunMessageLoggerProxy
+get_Instance
+Compare
+RunSettingsUtilities
+CreateRunSettings
+EqtTraceWrapper
+GetProcessById
+add_Exited
+set_EnableRaisingEvents
+GetEnvironmentVariable
+TryParse
+Thread
+Sleep
+get_InvariantCulture
+NumberStyles
+NumberFormatInfo
+get_InvariantInfo
+WaitAny
+System.ServiceModel.Channels
+CommunicationObject
+CreateServerUri
+Binding
+CreateServerBinding
+System.ServiceModel.Description
+ServiceEndpoint
+AddServiceEndpoint
+Open
+DebuggerStepThroughAttribute
+ArgumentNullException
+ArgumentOutOfRangeException
+Int64
+AttributeUsageAttribute
+AttributeTargets
+Microsoft.VisualStudio.TestPlatform.TestRunnerService.Resource.resources
+Microsoft.VisualStudio.TestPlatform.TestRunnerService.ValidateArgStrings.resources
+RSA1
+(]b,
+=t]o-
+$2955A1D9-C1B3-4ADF-A183-B0098438C8F5
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+System.ServiceModel.InstanceContextMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+InstanceContextMode
+TU{System.ServiceModel.ConcurrencyMode, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ConcurrencyMode
+IncludeExceptionDetailInFaults
+MaxItemsInObjectGraph
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+vstest.discoveryengine.x86.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+@002400000c800000140100000602000000240000525341310008000001000100613399aff18ef1a2c2514a273a42d9042b72321f1757102df9ebada69923e2738406c21e5b801552ab8d200a65a235e001ac9adc25f2d811eb09496a4c6a59d4619589c69f5baf0c4179a47311d92555cd006acc8b5959f2bd6e10e360c34537a1d266da8085856583c85d81da7f3ec01ed9564c58d93d713cd0172c8e23a10f0239b80c96b07736f5d8b022542a4e74251a5f432824318b3539a5a087f8e53d2f135f9ca47f3bb2e10aff0af0849504fb7cea3ff192dc8de0edad64c68efde34c56d302ad55fd6e80f302d5efcdeae953658d3452561b5f36c542efdbdd9f888538d374cef106acf7d93a4445c3c73cd911f0571aaf3d54da12b11ddec375b3
+a5a866e1ee186f807668209f3b11236ace5e21f117803a3143abb126dd035d7d2f876b6938aaf2ee3414d5420d753621400db44a49c486ce134300a2106adb6bdb433590fef8ad5c43cba82290dc49530effd86523d9483c00f458af46890036b0e2c61d077d7fbac467a506eba29e467a87198b053c749aa2a4d2840c784e6d
+WrapNonExceptionThrows
+nMS.TLM.Test.UnitTesting.Core.Tests, PublicKey=002400000480000094000000060200000024000052534131000400000100010007d1fa57c4aed9f0a32e84aa0faefd0de9e8fd6aec8f87fb03766c834c99921eb23be79ad9d5dcc1dd9ad236132102900b723cf980957fc4e177108fc607774f29e8320e92ea05ece4e821c0a5efe8f1645c4c0c93c1ab99285d622caa652c1dfad63d745d6f2de5f17e5eaf0fc4963d261c8a12436518206dc093344d5ad293
+{MS.TLM.Test.UnitTesting.Basic.CommandLine.Tests, PublicKey=002400000480000094000000060200000024000052534131000400000100010007d1fa57c4aed9f0a32e84aa0faefd0de9e8fd6aec8f87fb03766c834c99921eb23be79ad9d5dcc1dd9ad236132102900b723cf980957fc4e177108fc607774f29e8320e92ea05ece4e821c0a5efe8f1645c4c0c93c1ab99285d622caa652c1dfad63d745d6f2de5f17e5eaf0fc4963d261c8a12436518206dc093344d5ad293
+qMS.TLM.Test.UnitTesting.TestUtilities, PublicKey=002400000480000094000000060200000024000052534131000400000100010007d1fa57c4aed9f0a32e84aa0faefd0de9e8fd6aec8f87fb03766c834c99921eb23be79ad9d5dcc1dd9ad236132102900b723cf980957fc4e177108fc607774f29e8320e92ea05ece4e821c0a5efe8f1645c4c0c93c1ab99285d622caa652c1dfad63d745d6f2de5f17e5eaf0fc4963d261c8a12436518206dc093344d5ad293
+{MS.TLM.Test.UnitTesting.TestRunnerService.Tests, PublicKey=002400000480000094000000060200000024000052534131000400000100010007d1fa57c4aed9f0a32e84aa0faefd0de9e8fd6aec8f87fb03766c834c99921eb23be79ad9d5dcc1dd9ad236132102900b723cf980957fc4e177108fc607774f29e8320e92ea05ece4e821c0a5efe8f1645c4c0c93c1ab99285d622caa652c1dfad63d745d6f2de5f17e5eaf0fc4963d261c8a12436518206dc093344d5ad293
+RSDS$
+f:\binaries\Intermediate\vset\testrunnerservice.x86.csproj_1345480430\objr\x86\vstest.discoveryengine.x86.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1Z0X
+http://microsoft.com0
+?O*4
+pt!.w(6
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014852Z0#
+EyoK#Ap
+lsA$'
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+P==v_
+f.<[_
+1Z0X
+http://microsoft.com0
+	0ffb
+\$UZ
+20120727014855.108Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+tY,.`
++/F#g
+7.hO
+m0ciC

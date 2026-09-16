@@ -1,0 +1,758 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+P	o.
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+7h2/
+Attaching Monitor to process.
+#Setting up profiling environment.
+Launching ASP.NET service.
+Restarting w3wp.exe.
+Launching Internet Explorer.
+Starting monitor.
+Modifying web.config.
+$VSP 7008: ASP.net exception: "{0}"
+VSP 7007: The website path is set to "{0}". "{1}" will be ignored. If this, or "{0}", was intended as a flag, check that the syntax is correct.
+{WEBSITE
+                      The location of the target WEBSITE. Required for ASP.NET
+                      profiling.
+PThe profiler is attached to ASP.net. Please run your application scenario now.
+;Profiling now shut down. Report file "{0}" was generated.
+>Shutting down profiling and restarting ASP.NET. Please wait.
+<Configuring and attaching to ASP.NET process. Please wait.
+COM exception: "{0}"
+Error 
+#Failed to start Internet Explorer
+Profiles the specified WEBSITE without having to set
+                     global environment variables and reboot the machine.
+                     Can do sampling, instrumentation, memory and tier
+                     interaction profiling.
+//?                   Display this help text
+/m[:TYPE] /memory[:TYPE]
+                     Enable managed memory profiling. It is possible to enable
+                     tracing of allocations only (/m:allocation or /m:a) or
+                     allocations and lifetime of objects (/m:lifetime or /m:l).
+                     Default is allocations only.
+/n /nowait           If this is turned on, the monitor will keep running after
+                     this process has terminated. If this is on, run again with
+                     /shutdown to stop the monitor and reset the environment.
+                     Can not be used at the same time as /shutdown.
+Options:
+/o[:FILE] /output[:FILE]
+                     Dumps the results into the specified FILE. If not
+                     specified, the results are stored in PerformanceReport.vsp
+                     in the current directory.
+/p[:(on|off)] /packsymbols[:(on|off)]
+                     Enables symbol packing. Symbol packing is on by default. 
+                     The flag by itself is the same as /p:on.
+/s /sample           Turns on sampling profiling. This does not require
+                     instrumentation of any of the assemblies. This is the 
+                     default.
+/d /shutdown         Shuts down the monitor and clears the environment. Can
+                     not be used at the same time as /nowait. Use this in case
+                     of an error state.
+/i /tip              Enable Tier Interaction Profiling. Off by default. 
+                     (Requires IntelliTrace be installed.)
+/t /trace            Turns on instrumentation profiling. For ASP.net this
+                     will automatically instrument the dynamically generated
+                     assemblies, but the static ones have to be instrumented
+                     using vsinstr.
+/Usage:
+      VSPerfASPNetCmd [options] WEBSITE
+}VSP 7006: The specified profiling type "{0}" is not a valid profiling type. Check the /? help text for valid profiling types.
+6VSP 7005: Specified website "{0}" is not a valid URI
+lMicrosoft (R) VSPerf ASP.NET Command, Version {0}
+Copyright (C) Microsoft Corporation. All rights reserved.
+UVSP 7004: "{0}" Make sure that the .vsp isn't open and run VSPerfAspNetCmd /shutdown.
+VSP 7003: "{0}" Failed to stop monitor. This could happen if VSPerfMon.exe is detached before VSPerfASPNetCmd.exe finished profiling.
+QVSP 7002: No parameters given. Try checking VSPerfAspNetCmd /? for help commands.
+kThe monitor is still running. Run VSPerfAspNetCmd /shutdown to clean the environment and restart ASP.NET.
+nVSP 7001: Site to shut down not found. Please specify the website to shut down (VSPerfAspNetCmd WEBSITE /d).
+6Running VsPerfReport, packing symbols into the .VSP.
+@The monitor has shutdown and the environment has been cleared.
+&VSP 1001: Unhandled exception: "{0}"
+&Press Enter to stop data collection...
+Warning:BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+VSPerfAspNetCmd.exe
+ASPNetCmdResources
+Microsoft.VisualStudio.PerformanceTools.VSPerfAspNetCmd
+AspNetCmd
+AspNetOptions
+VSPerfASPNetCmd
+NativeMethods
+ProcessInformation
+mscorlib
+System
+Object
+Microsoft.VisualStudio.PerformanceTools.CmdHelper
+CmdHelperBase
+GlobalOptions
+IEasyProfMessageReporter
+ValueType
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+.ctor
+get_ResourceManager
+get_Culture
+set_Culture
+get_ASPExecuteStepAttachMonitor
+get_ASPExecuteStepEnvSetup
+get_ASPExecuteStepLaunchingASP
+get_ASPExecuteStepRestartW3WP
+get_ASPExecuteStepStartIE
+get_ASPExecuteStepStartMonitor
+get_ASPExecuteStepWebConfig
+get_ASPNetException
+get_ASPNetInvalidSiteArg
+get_ASPNetSamplingHelp
+get_ASPNetSamplingReady
+get_ASPNetSamplingShutdown
+get_ASPNetSamplingShutdownStarting
+get_ASPNetSamplingStarting
+get_COMExeption
+get_ErrorText
+get_FailedToStartIE
+get_HelpDescription
+get_HelpHelp
+get_HelpMemory
+get_HelpNowait
+get_HelpOptions
+get_HelpOutput
+get_HelpPackSymbols
+get_HelpSample
+get_HelpShutdown
+get_HelpTip
+get_HelpTrace
+get_HelpUsage
+get_InvalidProfilingType
+get_InvalidWebsiteSpecified
+get_MicrosoftCopyrightNotice
+get_MonitorStartFailure
+get_MonitorStopFailure
+get_NoParameters
+get_NoWaitMessage
+get_NoWebsiteInRegistry
+get_PackingSymbols
+get_ShutdownSuccess
+get_UnhandledException
+get_WaitText
+get_WarningText
+Culture
+ASPExecuteStepAttachMonitor
+ASPExecuteStepEnvSetup
+ASPExecuteStepLaunchingASP
+ASPExecuteStepRestartW3WP
+ASPExecuteStepStartIE
+ASPExecuteStepStartMonitor
+ASPExecuteStepWebConfig
+ASPNetException
+ASPNetInvalidSiteArg
+ASPNetSamplingHelp
+ASPNetSamplingReady
+ASPNetSamplingShutdown
+ASPNetSamplingShutdownStarting
+ASPNetSamplingStarting
+COMExeption
+ErrorText
+FailedToStartIE
+HelpDescription
+HelpHelp
+HelpMemory
+HelpNowait
+HelpOptions
+HelpOutput
+HelpPackSymbols
+HelpSample
+HelpShutdown
+HelpTip
+HelpTrace
+HelpUsage
+InvalidProfilingType
+InvalidWebsiteSpecified
+MicrosoftCopyrightNotice
+MonitorStartFailure
+MonitorStopFailure
+NoParameters
+NoWaitMessage
+NoWebsiteInRegistry
+PackingSymbols
+ShutdownSuccess
+UnhandledException
+WaitText
+WarningText
+Execute
+Shutdown
+get_ControlTag
+get_Title
+get_SupportsSampling
+get_SupportsInstrumentation
+get_SupportsMemory
+get_SupportsTip
+get_HelpText
+ParseSpecificArgument
+VerifySpecificOptions
+GetOptions
+ExecuteShutdown
+InitAspNetOptions
+ResetRegistrySettings
+SetRegistrySettings
+IsUrlValid
+ExecuteProfilingInternal
+ShutdownProfilingInternal
+SetProfilingEnvironment
+ClearEnvAndShutdownASP
+LaunchASPNetService
+StartMonitor
+GetPdhCounterString
+AttachMonitor
+ShutdownProfiling
+LaunchIE
+Microsoft.Win32
+RegistryKey
+get_LastRunSettings
+VSPerfControl.Interop
+Microsoft.VisualStudio.VSPerfControl.Interop
+IVSPerf
+get_PerfControl
+keyName
+keyFile
+keyProf
+_is64Bit
+Microsoft.VisualStudio.Enterprise.AspNetHelper
+Microsoft.VisualStudio.Enterprise.Common
+AspNetHelper
+_aspNetHelper
+_perfControl
+AllEnvironmentVariables
+_aspNetOptions
+ControlTag
+Title
+SupportsSampling
+SupportsInstrumentation
+SupportsMemory
+SupportsTip
+HelpText
+LastRunSettings
+PerfControl
+LoadDefaultValues
+get_Website
+set_Website
+get_LaunchIE
+set_LaunchIE
+<Website>k__BackingField
+<LaunchIE>k__BackingField
+Website
+Main
+MainExecution
+WaitForShutdown
+Startup
+System.Collections.ObjectModel
+ReadOnlyCollection`1
+LoadProfilingTypes
+ParseArguments
+ParseFirstArgument
+ShowHelp
+ShowLogo
+MessageType
+ShowWarningOrErrorText
+_profilingTypes
+System.Collections.Generic
+Dictionary`2
+_profilingTypesByName
+_currentType
+ReportMessage
+UpdateProgress
+StartProgress
+CloseHandle
+IELaunchURL
+System.Text
+StringBuilder
+PdhLookupPerfNameByIndexW
+Succeeded
+Process
+Thread
+ProcessId
+ThreadId
+value
+messageReporter
+globalOptions
+argument
+argOption
+aspSamplingOptions
+options
+outputFile
+args
+messageType
+message
+parameters
+total
+System.Runtime.InteropServices
+MarshalAsAttribute
+UnmanagedType
+OutAttribute
+pLaunchInfo
+szMachineName
+dwNameIndex
+szNameBuffer
+pcchNameBufferSize
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+VSPerfAspNetCmd
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+CompilerGeneratedAttribute
+ReferenceEquals
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+Assembly
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+String
+IsNullOrEmpty
+get_Shutdown
+op_Equality
+Concat
+Create
+AspNetHelperException
+GetValue
+ToString
+ProfilingMode
+set_ProfilingMode
+set_OutputFile
+Empty
+SetValue
+get_OutputFile
+get_ProfilingMode
+UriKind
+IsWellFormedUriString
+get_Scheme
+UriSchemeHttp
+op_Inequality
+UriSchemeHttps
+UriSchemeFile
+get_IsWin32
+InitializeDefaults
+AspPerformanceInstrumenter
+SetupInstrument
+Exception
+get_Message
+get_Nowait
+COMException
+get_Packsymbols
+set_Packsymbols
+GetExecutingAssembly
+get_Location
+System.IO
+Path
+GetDirectoryName
+ProcessStartInfo
+set_StartInfo
+Start
+WaitForExit
+set_Item
+get_Tip
+MemoryCollectionMode
+get_CollectMemory
+get_InvariantCulture
+Int32
+IFormatProvider
+KeyCollection
+get_Keys
+get_Count
+CopyTo
+ValueCollection
+get_Values
+PushServiceVars
+ClearServiceVars
+ShutdownFreeze
+CleanupInstrument
+LaunchReset
+get_WorkerProcessId
+get_WorkerProcessIdentity
+List`1
+get_WorkerProcessImpersonatedIdentity
+ToArray
+MonitorType
+IVSSamplingControl
+get_Sampler
+VSGCProfileType
+set_VSGCProfiling
+AttachSampler
+DetachSampler
+Launch
+IntPtr
+Zero
+EntryPointNotFoundException
+DllNotFoundException
+Registry
+CurrentUser
+OpenSubKey
+CreateSubKey
+CoVSPerf32Class
+CoVSPerf64Class
+.cctor
+IEnumerator`1
+GetEnumerator
+get_Current
+System.Collections
+IEnumerator
+MoveNext
+IDisposable
+Dispose
+Console
+Read
+ValidateOptions
+Collection`1
+IList`1
+get_Item
+AssemblyName
+GetName
+Version
+get_Version
+get_CurrentCulture
+Format
+WriteLine
+Environment
+get_NewLine
+Write
+DllImportAttribute
+Kernel32.dll
+ieframe.dll
+Pdh.dll
+StructLayoutAttribute
+LayoutKind
+Microsoft.VisualStudio.PerformanceTools.VSPerfASPNetCmd.ASPNetCmdResources.resources
+RSA1
+(]b,
+=t]o-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+VSPerfAspNetCmd.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\icecap\vsperfaspnetcmd.csproj_1337746497\objr\x86\VSPerfAspNetCmd.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+Lhtf
+1D0B
+http://microsoft.com0
++dyRF4
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727014749Z0#
+8"1O
+b6`d
+F0Q?*
+(WMu
+z5"9
+N0L0
+nceN
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+)<3F0R
+1D0B
+http://microsoft.com0
+nO*T
++	0;|
+[ie!
+IJ%W
+Vjw!
+20120727014751.488Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213534Z
+130409214534Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service0
+la>I
+Vv~_3
+SX"|	
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:31C5-30BA-7C911%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+^^0"
+20120727002502Z
+20120728002502Z0t0:
+1,0*0
+1(0&0
+7kr^
+'xJ,
+^SGj]K
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+-Q:a

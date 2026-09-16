@@ -1,0 +1,1333 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+AUATUWVS
+[^_]A\A]
+[^_]A\A]
+1-99
+)t$0
+L$(H
+L$(H
+(t$0
+AVAUATUWVSH
+\$@E1
+t$<L
+d$<f
+D$<H
+[^_]A\A]A^
+t$ I
+AVAUATUWVSH
+|$ #u,I
+[^_]A\A]A^
+|$ #u
+UWVS
+T$$H
+L$,L
+\$$t
+[^_]A\
+\$(L
+[^_]A\
+AWAVAUATUWVSH
+D$TH
+L$ A
+T$pH
+t$`1
+D$T1
+D$HHc
+*9t$P
+t$HA
+T$@A
+T$XL
+gfffE
+9t$PD
+D$T)
+t$(E1
+t$`D
+\$h1
+L$pA
+D$ L
+\$hD9
+[^_]A\A]A^A_
+t$`Ic
+d$@E1
+t$HHc
+t$XH
+t$hH
+t$xL
+L$@H
+D$@A
+D$hA
+Hcl$TA
+T$XH
+L$HI
+gfffE
+tpD9|$Pt&D9
+l$HA
+D$TD
+|$(E1
+\$`D
+D$ H
+\$HD
+UWVSH
+|$ H
+8[^_]
+AWAVAUATUWVSH
+T$(H
+D$ H
+D$HE
+*T$\
+D$|H
+D$\D
+gfff
+D$@9D$\
+|$HfA
+D$ D
+T$(H
+[^_]A\A]A^A_
+T$@H
+D$|H
+D$\D
+D$\E
+D$@1
+T$ L
+T$`L
+L$pf.
+gfff
+\$PH
+|$hA
+\$xL
+L$`L
+\$xH
+D$PE1
+L$|L
+*L$\
+D$`1
+gfff
+t$ H
+AUATUWVSH
+l$`L
+|$XH
+l$0H
+t$(H
+|$XH
+l$`L
+|$0H
+t$(H
+D$XL
+t$(H
+D$`H
+D$XL
+l$8L
+l$0H
+t$(H
+l$8H
+|$0H
+t$(H
+x[^_]A\A]
+WVSH
+)t$0H
+(t$0H
+@[^_
+L$(H
+(t$0H
+@[^_
+AWAVAUATUWVSH
+d$`I
+T$<H
+[^_]A\A]A^A_
+T$@H
+D$`I
+|$`%u
+|$a%u
+D$bI
+T$\H
+T$LH
+T$(H
+T$XH
+T$ L
+L$TL
+D$PH
+T$PD
+T$LE
+T$X1
+L$\9
+*T$<f
+T$DH
+D$HA
+)T$X
+)L$\
+)t$0
+)|$@H
+.D$ 
+.D$(
+^|$ 
+^t$(
+(|$@
+(t$0H
+D$ H
+D$ H
+-tKL
+AWAVAUATUWVSH
+D$\L
+D$(H
+D$TH
+T$HH
+D$ L
+L$PL
+D$TI
+D$XxE
+HcD$X
+HcD$X
+D$Xy
+h[^_]A\A]A^A_
+D$X}f
+HcD$X
+D$X|
+0<	w
+D$XA9
+l$ I
+l$(I
+l$ H
+AWAVAUATUWVSH
+D$lH
+D$XH
+tPD9
+t#E1
+\$ H
+l$xH
+l$xE
+L$pL
+L$@H
+gfff
+D$H9D$h
+D$@H
+[^_]A\A]A^A_
+*L$h
+D$`A
+\$ H
+T$pL
+D$hHc
+L$XE
+Hct$hH
+L$@H
+t$P1
+D$xH
+D$`E
+L$hI
+L$hL
+L$PD
+gfff
+D$@9D$X
+*L$X
+T$hH
+T$XE
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+\$@E1
+\$0H
+\$(H
+T$ H
+D$0E1
+t$ H
+D$0A
+t$8H
+D$0A
+|$01
+t$ H
+D$pL
+T$XH
+|$ H
+L$XL
+T$(H
+L$XL
+T$(H
+.5VH
+l$0L
+l$0A
+l$0A
+l$0A
+l$(L
+|$ H
+T$@H
+L$pH
+L$XH
+L$@H
+|$ H
+D$HZ
+D$8H
+D$(H
+gfff
+l$ E
+gfff
+l$(I
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-A
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+libgcj-16.dll
+_Jv_RegisterClasses
+Could not open '%s' for reading: %s
+Pages:
+showpage
+%d%d
+%s-%d
+Page %d
+EOF encountered on reading
+%%%%BoundingBox: %d %d %d %d
+%%%%EndComments
+%%%%BeginPreview: %d %d 1 %d
+%%%%EndPreview
+%02x
+%%%%BeginProlog
+%% Use own dictionary to avoid conflicts
+10 dict begin
+%%%%EndProlog
+%%%%Page: 1 1
+%% Translate for offset
+ %s translate
+%% Translate to begin of first scanline
+%d rotate
+ %s scale
+%% Variable to keep one line of raster data
+/scanline %d string def
+/scanline %d %d mul string def
+%% Image geometry
+%d %d %d
+%% Transformation matrix
+[ %d 0 0 %d %d %d ]
+fs_error != NULL
+%%BeginData:                         
+%ld ASCII Bytes
+%%EndData
+Peter Kirchgessner <peter@kirchgessner.net>
+load PostScript documents
+file-ps-load
+PostScript document
+Peter Kirchgessner
+application/postscript
+0,string,%!,0,long,0xc5d0d3c6
+load Encapsulated PostScript images
+file-eps-load
+Encapsulated PostScript image
+image/x-eps
+set additional parameters for procedure file-ps-load
+file-ps-load-setargs
+Loads a small preview from a PostScript or PDF document
+file-ps-load-thumb
+PostScript saving handles all image types except those with alpha channels.
+save image as PostScript docuement
+file-ps-save
+RGB, GRAY, INDEXED
+save image as Encapsulated PostScript image
+file-eps-save
+application/x-eps
+gimp-item-data
+pbmraw
+pgmraw
+pnmraw
+ppmraw
+%PDF
+PS-Adobe-
+EPSF-
+%%Creator: Adobe Illustrator(R) 8.0
+BoundingBox
+(atend)
+%d%d%d%d
+-sDEVICE=%s
+-r%d
+-dUseCropBox
+-g%dx%d
+-dTextAlphaBits=%d
+-dGraphicsAlphaBits=%d
+-dBATCH
+-dNOPAUSE
+GS_OPTIONS
+-dSAFER
+-sOutputFile=%s
+translate
+quit
+Opening '%s'
+Could not interpret Postscript file '%s'
+%s-pages
+{ currentfile scanline readhexstring pop }
+image
+currentfile /ASCII85Decode filter /RunLengthDecode filter
+showpage
+Write error occurred
+{ currentfile scanline readhexstring pop } false 3
+colorimage
+%% Strings to hold RGB-samples per scanline
+/rstr %d string def
+/gstr %d string def
+/bstr %d string def
+{currentfile /ASCII85Decode filter /RunLengthDecode filter rstr readstring pop}
+{currentfile /ASCII85Decode filter /RunLengthDecode filter gstr readstring pop}
+{currentfile /ASCII85Decode filter /RunLengthDecode filter bstr readstring pop}
+true 3
+PostScript
+ EPSF-3.0
+gimp20-std-plug-ins
+UTF-8
+file-pdf-load
+file-ps
+_Import
+Import from PostScript
+gimp-file-ps
+gtk-cancel
+activate
+Rendering
+Resolution:
+value-changed
+_Width:
+_Height:
+changed
+Pages to load (e.g.: 1-4 or 1,3,5-7)
+Layers
+Images
+Open as
+Try Bounding Box
+toggled
+Automatic
+Color
+Gray
+Coloring
+Strong
+Weak
+antialiasing
+None
+Text antialiasing
+Graphic antialiasing
+Image Size
+_X offset:
+_Y offset:
+_Keep aspect ratio
+When toggled, the resulting image will be scaled to fit into the given size without changing the aspect ratio.
+#keep_aspect_ratio
+_Millimeter
+_Inch
+Unit
+Rotation
+_270
+_180
+Output
+_PostScript level 2
+_Encapsulated PostScript
+P_review
+sensitive
+active
+Preview _size:
+PostScript save cannot handle images with alpha channels
+Cannot operate on unknown image types.
+Could not open '%s' for writing: %s
+Saving '%s'
+%%!PS-Adobe-3.0%s
+%%%%Creator: GIMP PostScript file plugin V %4.2f by Peter Kirchgessner
+%%%%Title: %s
+%%%%CreationDate: %s
+%%%%DocumentData: Clean7Bit
+%%%%LanguageLevel: 2
+%%%%Pages: 1
+%%%%Trailer
+%%%%EOF
+run-mode
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+image
+Input image
+drawable
+Drawable to save
+filename
+The name of the file to save the image in
+raw-filename
+width
+Width of the image in PostScript file (0: use input image size)
+height
+Height of image in PostScript file (0: use input image size)
+x-offset
+X-offset to image from lower left corner
+y-offset
+Y-offset to image from lower left corner
+unit
+Unit for width/height/offset. 0: inches, 1: millimeters
+keep-ratio
+0: use width/height, 1: keep aspect ratio
+rotation
+0, 90, 180, 270
+eps-flag
+0: PostScript, 1: Encapsulated PostScript
+preview
+0: no preview, >0: max. size of preview
+level
+1: PostScript Level 1, 2: PostScript Level 2
+Output image
+The name of the file to load
+thumb-size
+Preferred thumbnail size
+resolution
+Resolution to interprete image (dpi)
+Desired width
+Desired height
+check-bbox
+0: Use width/height, 1: Use BoundingBox
+pages
+Pages to load (e.g.: 1,3,5-7)
+coloring
+4: b/w, 5: grey, 6: colour image, 7: automatic
+text-alpha-bits
+1, 2, or 4
+graphic-alpha-bits
+dither_grey
+0123456789abcdef
+v1.17  19-Sep-2004
+ffffff9@
+?@:A
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_export_dialog_get_content_area
+gimp_export_dialog_new
+gimp_export_image
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_ctime64
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_time64
+_unlock
+abort
+calloc
+exit
+fclose
+feof
+ferror
+fflush
+fgets
+fprintf
+fread
+free
+fseek
+ftell
+fwrite
+getc
+malloc
+memcpy
+memset
+putc
+signal
+sscanf
+strlen
+strncmp
+strncpy
+strrchr
+strstr
+ungetc
+vfprintf
+gimp_display_new
+gimp_drawable_detach
+gimp_drawable_flush
+gimp_drawable_get
+gimp_drawable_has_alpha
+gimp_drawable_type
+gimp_image_clean_all
+gimp_image_delete
+gimp_image_get_active_drawable
+gimp_image_get_colormap
+gimp_image_get_resolution
+gimp_image_get_unit
+gimp_image_height
+gimp_image_insert_layer
+gimp_image_new
+gimp_image_set_colormap
+gimp_image_set_filename
+gimp_image_set_resolution
+gimp_image_undo_disable
+gimp_image_undo_enable
+gimp_image_width
+gimp_install_procedure
+gimp_item_get_image
+gimp_item_get_name
+gimp_item_set_name
+gimp_layer_new
+gimp_layer_new_from_drawable
+gimp_main
+gimp_pixel_rgn_get_rect
+gimp_pixel_rgn_get_row
+gimp_pixel_rgn_init
+gimp_pixel_rgn_set_rect
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init_printf
+gimp_progress_update
+gimp_register_file_handler_mime
+gimp_register_magic_load_handler
+gimp_register_save_handler
+gimp_register_thumbnail_loader
+gimp_temp_name
+gimp_tile_height
+gimp_filename_to_utf8
+gimp_locale_directory
+gimp_unit_get_factor
+gimp_dialog_get_type
+gimp_dialog_new
+gimp_dialog_run
+gimp_double_adjustment_update
+gimp_frame_new
+gimp_help_set_help_data
+gimp_int_adjustment_update
+gimp_int_radio_group_new
+gimp_page_selector_get_selected_range
+gimp_page_selector_get_target
+gimp_page_selector_get_type
+gimp_page_selector_new
+gimp_page_selector_select_all
+gimp_page_selector_set_n_pages
+gimp_page_selector_set_target
+gimp_radio_button_update
+gimp_spin_button_new
+gimp_standard_help_func
+gimp_table_attach_aligned
+gimp_toggle_button_update
+gtk_box_new
+g_ascii_dtostr
+g_ascii_strdown
+g_dpgettext
+g_file_error_from_errno
+g_file_error_quark
+g_fopen
+g_free
+g_get_prgname
+g_getenv_utf8
+g_log
+g_malloc
+g_malloc0_n
+g_path_get_basename
+g_ptr_array_add
+g_ptr_array_free
+g_ptr_array_new
+g_realloc
+g_return_if_fail_warning
+g_set_error
+g_strdup
+g_strdup_printf
+g_strerror
+g_strfreev
+g_unlink
+g_object_bind_property
+g_object_get_data
+g_signal_connect_data
+g_type_check_instance_cast
+gsapi_delete_instance
+gsapi_exit
+gsapi_init_with_args
+gsapi_new_instance
+gtk_adjustment_get_type
+gtk_adjustment_get_value
+gtk_adjustment_set_value
+gtk_box_get_type
+gtk_box_pack_start
+gtk_box_set_homogeneous
+gtk_check_button_new_with_label
+gtk_check_button_new_with_mnemonic
+gtk_combo_box_get_active
+gtk_combo_box_get_type
+gtk_combo_box_set_active
+gtk_combo_box_text_get_type
+gtk_combo_box_text_insert_text
+gtk_combo_box_text_new
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_set_alternative_button_order
+gtk_entry_get_text
+gtk_entry_get_type
+gtk_entry_new
+gtk_entry_set_text
+	gtk_spin_button_get_type
+	gtk_spin_button_get_value
+	gtk_spin_button_set_value
+gtk_table_get_type
+gtk_table_new
+gtk_table_set_col_spacings
+gtk_table_set_row_spacings
+gtk_toggle_button_get_active
+gtk_toggle_button_get_type
+gtk_toggle_button_set_active
+gtk_widget_destroy
+gtk_widget_get_type
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_window_activate_default
+gtk_window_get_type
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_sprintf
+libintl_textdomain
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+gsdll64.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+file-ps.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gimp_dialog_run
+__imp_gtk_adjustment_get_type
+__imp_GetStartupInfoA
+__imp_gtk_table_new
+__imp_gimp_image_undo_enable
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp__fmode
+__imp_gtk_combo_box_text_get_type
+__imp__lock
+__imp_gsapi_init_with_args
+__imp_RtlVirtualUnwind
+__imp_ferror
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gimp_drawable_detach
+__imp_g_malloc0_n
+__imp_gtk_window_get_type
+__imp_gimp_pixel_rgn_get_rect
+__imp_gimp_image_height
+__imp_gimp_layer_new
+__imp_gimp_dialog_new
+__imp_gtk_window_activate_default
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp_gtk_toggle_button_get_active
+__imp_gsapi_new_instance
+__imp_gimp_help_set_help_data
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp__ctime64
+__imp_gimp_main
+__imp__amsg_exit
+__imp_gimp_image_get_active_drawable
+__imp_gimp_drawable_type
+__imp__errno
+__imp_g_strdup
+__imp_ftell
+__imp_gtk_combo_box_get_active
+__imp_g_object_get_data
+__imp_gimp_install_procedure
+__imp_g_get_prgname
+__imp_gimp_image_set_filename
+__imp_g_return_if_fail_warning
+libglib_2_0_0_dll_iname
+__imp_strncpy
+__imp_g_fopen
+__imp_g_unlink
+__imp_GetCurrentThreadId
+__imp_gtk_toggle_button_set_active
+__imp_gimp_page_selector_get_selected_range
+_head_libgs_dll_a
+__imp_gtk_spin_button_get_type
+__imp___C_specific_handler
+__imp_strrchr
+__imp_GetLastError
+__imp_free
+__imp_gimp_window_set_transient
+__imp_g_path_get_basename
+__imp_libintl_sprintf
+__imp_RtlLookupFunctionEntry
+__imp_gimp_page_selector_set_n_pages
+__imp_gtk_combo_box_text_new
+__imp___argc
+__imp_gimp_image_undo_disable
+_head_libgimpui_2_0_0_dll
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_gimp_layer_new_from_drawable
+__imp_gimp_image_get_resolution
+__imp_g_ptr_array_add
+__imp_g_signal_connect_data
+__imp_gimp_frame_new
+__imp_GetTickCount
+__imp_g_strfreev
+__imp_gimp_int_radio_group_new
+__imp_gimp_table_attach_aligned
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_feof
+__imp_g_file_error_quark
+__imp_gimp_image_clean_all
+__imp_gimp_progress_update
+__imp_gtk_widget_get_type
+__imp_gimp_item_set_name
+__imp_memset
+__imp_gimp_image_get_colormap
+__IAT_end__
+__imp_gtk_adjustment_set_value
+__imp_memcpy
+__imp_gimp_register_magic_load_handler
+__imp_gimp_tile_height
+_head_libgobject_2_0_0_dll
+__imp_gimp_filename_to_utf8
+__imp_gimp_ui_init
+__imp_gtk_table_set_col_spacings
+__imp_gtk_spin_button_get_value
+__imp_gimp_pixel_rgn_init
+__imp_gimp_procedural_db_set_data
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+__imp_gimp_unit_get_factor
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gimp_page_selector_new
+__imp_gtk_dialog_get_content_area
+__imp_gimp_image_get_unit
+__imp_g_ptr_array_new
+__imp_g_ptr_array_free
+__imp___getmainargs
+__imp_putc
+_head_lib64_libkernel32_a
+_head_lib64_libmsvcrt_a
+__imp_strstr
+__imp_gimp_drawable_has_alpha
+__imp_EnterCriticalSection
+__imp_GetCurrentProcessId
+__imp_gimp_image_set_resolution
+__imp___lconv_init
+__imp_gsapi_exit
+__imp_g_ascii_dtostr
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_sscanf
+__imp_g_malloc
+__imp_g_strerror
+__imp_signal
+_head_libgimp_2_0_0_dll
+__imp_gtk_table_set_row_spacings
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gimp_dialog_get_type
+__imp_gimp_export_dialog_new
+__imp_gtk_container_get_type
+__imp_gimp_display_new
+__imp_gimp_image_delete
+__imp_strlen
+__imp_malloc
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_g_ascii_strdown
+__imp_InitializeCriticalSection
+__imp_gimp_page_selector_select_all
+__imp_g_file_error_from_errno
+__imp_gtk_dialog_get_type
+__imp_gtk_entry_set_text
+__imp_exit
+__imp_gimp_item_get_image
+__imp_vfprintf
+__imp___initenv
+__imp_gtk_entry_new
+__imp_gimp_drawable_flush
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_gimp_int_adjustment_update
+__imp_libintl_fprintf
+__imp_gimp_page_selector_get_type
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_gtk_combo_box_text_insert_text
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp_ungetc
+__imp_gimp_export_dialog_get_content_area
+__imp__onexit
+__imp_gtk_toggle_button_get_type
+__imp_gimp_procedural_db_get_data
+__imp_libintl_gettext
+__imp_gimp_progress_init_printf
+__imp_gimp_register_file_handler_mime
+__imp_gimp_page_selector_get_target
+__imp_gimp_register_thumbnail_loader
+__imp_gtk_box_get_type
+__imp_gimp_register_save_handler
+__imp___argv
+__imp_Sleep
+__imp_gtk_combo_box_get_type
+__imp___setusermatherr
+__imp_gimp_image_new
+__imp_gimp_locale_directory
+__imp_g_free
+__imp_gtk_widget_destroy
+__imp_TlsGetValue
+__imp_gtk_adjustment_get_value
+__imp_g_getenv_utf8
+__imp_gimp_image_width
+__imp_fprintf
+__imp_gimp_page_selector_set_target
+__imp_gtk_box_set_homogeneous
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gimp_item_get_name
+__imp_gtk_entry_get_text
+__imp_gimp_drawable_get
+__imp_gimp_temp_name
+__imp_gimp_pixel_rgn_get_row
+__imp_VirtualQuery
+__imp__initterm
+__imp_fclose
+__imp___iob_func
+__imp_strncmp
+__imp_gtk_check_button_new_with_label
+__imp__time64
+__imp_gimp_image_insert_layer
+__imp_gtk_combo_box_set_active
+__imp_gtk_container_set_border_width
+__imp_gimp_double_adjustment_update
+__imp_gimp_export_image
+__imp_fflush
+__imp_gimp_spin_button_new
+__imp__unlock
+__imp___set_app_type
+__libgs_dll_a_iname
+__imp_fgets
+__imp_gtk_spin_button_set_value
+__imp_gtk_entry_get_type
+__imp_gsapi_delete_instance
+__imp_gimp_image_set_colormap
+__imp_fread
+__imp_gimp_radio_button_update
+__imp_g_set_error
+__imp_gtk_table_get_type
+__imp_gimp_pixel_rgn_set_rect
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gimp_toggle_button_update
+__imp_gtk_container_add
+__imp_libintl_bind_textdomain_codeset
+__imp_gtk_check_button_new_with_mnemonic
+__imp_GetCurrentProcess
+__imp_g_realloc
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_g_object_bind_property
+__imp_g_dpgettext
+__imp_g_strdup_printf
+__lib64_libmsvcrt_a_iname
+__imp_fseek
+__imp_getc
+__imp_g_log
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+4aQ-zE3+.
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510151755Z0#
+J'4g
+n&y{
+f!gV9
+,O8#
+)V=i
+N0L0
+K3/g
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+x&e{
+xg&)
+20170510154959Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510154959Z0+
+6R}O
+A?7f
+<w3-
+B	+_
+g?M4
+f\/qp
+eIh/
+A*=<
+,nZJ
+uSp@v
+J	h]

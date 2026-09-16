@@ -1,0 +1,623 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+l[^_]
+5X0B
+5H0B
+5H0B
+5X0B
+[^_]
+[^_]
+5H0B
+$x0B
+=(0B
+[^_]
+5h0B
+;-tt
+5(0B
+=(0B
+[^_]
+5X0B
+t-Nt]9
+[^_]
+,[^_]
+=\1B
+5`1B
+[^_]
+[^_]
+[^_]
+=`1B
+[^_]
+[^_]
+$(1B
+=l1B
+=t1B
+5`1B
+=l1B
+=\1B
+[^_]
+[^_]
+5p1B
+5l1B
+5l1B
+=p1B
+=p1B
+=x1B
+5p1B
+=\1B
+5l1B
+=p1B
+[^_]
+9=p1B
+=l1B
+=h1B
+5l1B
+=x1B
+5p1B
+=\1B
+=l1B
+5t1B
+=t1B
+5l1B
+=\1B
+5l1B
+=x1B
+=\1B
+[^_]
+5p1B
+=\1B
+$h1B
+=\1B
+=\1B
+=\1B
+=\1B
+=t1B
+=\1B
+=\1B
+5l1B
+=\1B
+5`1B
+[^_]
+[^_]
+5(2B
+5H2B
+[^_]
+$h2B
+[^_]
+[^_]
+$h2B
+5X2B
+93t>
+[^_]
+93t>
+[^_]
+93t>
+[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+|=t[
+,[^_]
+[^_]
+SwE9P tE
+,[^_]
+vQ)M
+[^_]
+OD!M
+[^_]
+[^_]
+G(;E
+,[^_]
+,[^_]
+B(;E
+C(;E
+C$;C(t
+C$;C,t
+C$;C0t
+,[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+[^_]
+9ZDr4
+9ZDs
+[^_]
+[^_]
+[^_]
+S8t=
+[^_]
+[^_]
+	tQF9
+[^_]
+[^_]
+!CP1
+	CP1
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+t+F9
+<[^_]
+[^_]
+@;C t#
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	CP1
+,[^_]
+,[^_]
+,[^_]
+[^_]
+B;S 
+[^_]
+;{ s
+B;V 
+B;Q 
+;G s
+;^ s
+;s s
+B;Q 
+;^ s
+9^(w
+;F s
+;F s
+v::U
+9K(w
+Z[^_]
+Z[^_]
+[^_]
+,[^_]
+[^_]
+[[^_]
+[^_]
+[^_]
+F$;F(t
+F$;F,t
+F$;F0t
+[^_]
+[^_]
+[^_]
+[^_]
+u`C9]
+[^_]
+[^_]
+[^_]
+[^_]
+99v#
+[^_]
+9_Pu
+[^_]
+[^_]
+9Fh|Z
+[^_]
+9Fh}
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u8Ct5
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+91vI
+wd9S tO
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u$C;]
+Kl;M
+[^_]
+wX9W
+rh;u
+~Xvw
+;F s
+[^_]
+[^_]
+B4@t1
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+1w71
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+9Chs
+[^_]
+[^_]
+pl;pp
+;*t5
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+</~*<9
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+L[^_]
+L[^_]
+[^_]
+9:wf
+[^_]
+[^_]
+Usage: %s [OPTION]... {script-only-if-no-other-script} [input-file]...
+  -n, --quiet, --silent
+                 suppress automatic printing of pattern space
+  -e script, --expression=script
+                 add the script to the commands to be executed
+  -f script-file, --file=script-file
+                 add the contents of script-file to the commands to be executed
+  --follow-symlinks
+                 follow symlinks when processing in place
+  -i[SUFFIX], --in-place[=SUFFIX]
+                 edit files in place (makes backup if extension supplied)
+  -b, --binary
+                 open files in binary mode (CR+LFs are not processed specially)
+  -l N, --line-length=N
+                 specify the desired line-wrap length for the `l' command
+  --posix
+                 disable all GNU extensions.
+  -r, --regexp-extended
+                 use extended regular expressions in the script.
+  -s, --separate
+                 consider files as separate rather than as a single continuous
+                 long stream.
+  -u, --unbuffered
+                 load minimal amounts of data from the input files and flush
+                 the output buffers more often
+      --help     display this help and exit
+      --version  output version information and exit
+If no -e, --expression, -f, or --file option is given, then the first
+non-option argument is taken as the sed script to interpret.  All
+remaining arguments are names of input files; if no input files are
+specified, then the standard input is read.
+GNU sed home page: <http://www.gnu.org/software/sed/>.
+General help using GNU software: <http://www.gnu.org/gethelp/>.
+E-mail bug reports to: <%s>.
+Be sure to include the word ``%s'' somewhere in the ``Subject:'' field.
+bug-gnu-utils@gnu.org
+binary
+regexp-extended
+expression
+file
+in-place
+line-length
+quiet
+posix
+silent
+separate
+unbuffered
+version
+help
+follow-symlinks
+COLS
+/usr/share/locale
+POSIXLY_CORRECT
+bsnruEe:f:l:i::V:
+GNU sed version %s
+4.2.1
+Copyright (C) %d Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE,
+to the extent permitted by law.
+/dev/stdin
+/dev/stdout
+/dev/stderr
+multiple `!'s
+unexpected `,'
+invalid usage of +N or ~N as first address
+unmatched `{'
+unexpected `}'
+extra characters after command
+expected \ after `a', `c' or `i'
+`}' doesn't want any addresses
+: doesn't want any addresses
+comments don't accept any addresses
+missing command
+command only uses one address
+unterminated address regex
+unterminated `s' command
+unterminated `y' command
+unknown option to `s'
+multiple `p' options to `s' command
+multiple `g' options to `s' command
+multiple number options to `s' command
+number option to `s' command may not be zero
+strings for `y' command are different lengths
+delimiter character is not a single-byte character
+expected newer version of sed
+invalid usage of line address 0
+unknown command: `%c'
+%s: file %s line %lu: %s
+%s: -e expression #%lu, char %lu: %s
+Called savchar() with unexpected pushback (%x)
+can't find label for jump to `%s'
+couldn't edit %s: not a regular file
+couldn't open temporary file %s: %s
+stdin
+%s: can't read %s: %s
+couldn't edit %s: is a terminal
+INTERNAL ERROR: bad address type
+%03o
+error in subprocess
+INTERNAL ERROR: Bad cmd %c
+no input files
+no previous regular expression
+cannot specify modifiers on empty regexp
+invalid reference \%d on `s' command's RHS
+([`'"
+)]'"
+UTF-8
+%s: 
+cannot remove %s: %s
+couldn't open file %s: %s
+couldn't attach to %s: %s
+%s/%sXXXXXX
+couldn't open temporary file %s: %s
+TMPDIR
+/tmp
+stdin
+stdout
+stderr
+<unknown>
+couldn't write %d items to %s: %s
+couldn't write %d item to %s: %s
+read error on %s: %s
+couldn't flush %s: %s
+couldn't close %s: %s
+cannot stat %s: %s
+couldn't follow symlink %s: %s
+cannot rename %s: %s
+couldn't allocate memory
+couldn't re-allocate memory
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+memory exhausted
+preserving permissions for %s
+Unknown error (%d)
+Value too large for defined data type
+Operation canceled
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+UTF-8
+/usr/src/sed/sed-4.2.1/lib/regcomp.c
+!IS_EPSILON_NODE (node->token.type)
+node->next == NULL
+REG_VALID_INDEX (right)
+REG_VALID_INDEX (left)
+alnum
+space
+upper
+lower
+cntrl
+alpha
+digit
+print
+blank
+graph
+punct
+xdigit
+/usr/src/sed/sed-4.2.1/lib/regexec.c
+pmatch[0].rm_so == start
+regs_allocated == REGS_FIXED
+regs->num_regs >= nregs
+mctx.input.offsets_needed == 0
+err == REG_ESPACE
+REG_VALID_INDEX (num)
+LC_ALL
+LC_CTYPE
+LANG
+ASCII
+CP936
+CP1361
+JOHAB
+CP20127
+ASCII
+CP20866
+KOI8-R
+CP20936
+GB2312
+CP21866
+KOI8-RU
+CP28591
+ISO-8859-1
+CP28592
+ISO-8859-2
+CP28593
+ISO-8859-3
+CP28594
+ISO-8859-4
+CP28595
+ISO-8859-5
+CP28596
+ISO-8859-6
+CP28597
+ISO-8859-7
+CP28598
+ISO-8859-8
+CP28599
+ISO-8859-9
+CP28605
+ISO-8859-15
+CP38598
+ISO-8859-8
+CP51932
+EUC-JP
+CP51936
+GB2312
+CP51949
+EUC-KR
+CP51950
+EUC-TW
+CP54936
+GB18030
+CP65001
+UTF-8
+memory exhausted
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+setting permissions for %s
+literal
+shell
+shell-always
+c-maybe
+escape
+locale
+clocale
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_ngettext
+libintl_sprintf
+libintl_textdomain
+libintl_vfprintf
+__assert
+__errno
+__main
+__mb_cur_max
+_ctype_
+abort
+calloc
+chmod
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+facl
+fchmod
+fchown
+fclose
+fdopen
+fflush
+fileno
+fopen
+fputc
+fread
+free
+fstat
+ftell
+fwrite
+getc
+getenv
+isatty
+lstat
+malloc
+mbtowc
+memchr
+memcpy
+memmove
+memset
+mkstemp
+pclose
+popen
+putc
+readlink
+realloc
+rename
+rewind
+setlocale
+sprintf
+stat
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strncpy
+strrchr
+strtoul
+umask
+ungetc
+unlink
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-intl-8.dll
+msys-1.0.dll
+KERNEL32.dll

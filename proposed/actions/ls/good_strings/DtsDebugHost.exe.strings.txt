@@ -1,0 +1,716 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.rsrc
+@.reloc
+Ft*BH
+RegOpenKeyTransactedW
+UnRegisterTypeLibForUser
+RegisterTypeLibForUser
+4S`=
+DmpGetClientExport
+$>'H
+=L9o<
+FSSISBeginDump
+SSISGetExtraDumpFileHandle
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+-QueryWorkingSetEx
+RSDS
+DtsDebugHost.pdb
+RRR3
+t(9^
+5VW3
+y(97u
+j Zj	
+tSf;
+u?f;
+t:f;
+j	Yj 
+_^[]
+t:SV
+f98u
+^[_]
+u	9M
+P$^]
+t%Wh
+u[f9F
+QQSV3
+tz9^
+Q(_^[
+Q,^]
+YYWh
+u$h(
+u#8F<t
+QVW3
+WWWW
+PWVh
+t_h<
+xdVuZ
+_^[]
+ wOf;
+YQPSh
+8csm
+Y__^[
+t%Vh,_
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+VVVVV
+QSVW
+f9\F
+YYVj
+t<;E
+Y_[]
+Gj\Zf;
+t0j/Yf;
+Y^[]
+C_f;
+Y_^[
+ SVW
+Y_^[
+Y_^[
+t#h N
+Y_^[
+PQRVW3
+SVWh
+ SVW
+Y_^[
+|.h`
+_[^]
+Y_^[
+Y_^[
+~xh N
+|4h`
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+u,Sh
+Y_^[
+QSVW
+PVSW
+QRVW3
+_[^]
+;F@t
+;F`t
+	Fd3
+Wh(!
+QSVW
+Y_^[
+_^[]
+_^[]
+Y_^[
+_^[]
+_^[]
+_^[]
+Y_^[
+Y_^[
+Y_^[
+(SVW
+FDPh
+Ph|(
+Y_^[
+Y_^[
+Y_^[
+N PS
+Y_^[
+t/h(
+RegCloseKey
+RegOpenKeyExW
+RegQueryValueExW
+ADVAPI32.dll
+InterlockedIncrement
+InterlockedDecrement
+GetProcAddress
+HeapSetInformation
+RaiseException
+SetUnhandledExceptionFilter
+CreateThread
+GetCurrentThreadId
+GetLastError
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+SetEvent
+WaitForSingleObject
+Sleep
+CloseHandle
+lstrlenW
+CreateEventW
+GetModuleFileNameW
+GetModuleHandleW
+GetCommandLineW
+CreateFileW
+GetCurrentProcess
+GetCurrentProcessId
+ExitProcess
+TerminateProcess
+KERNEL32.dll
+GetMessageW
+TranslateMessage
+DispatchMessageW
+PostThreadMessageW
+CharUpperW
+CharNextW
+MessageBoxW
+USER32.dll
+??3@YAXPAX@Z
+_purecall
+??2@YAPAXI@Z
+free
+??_U@YAPAXI@Z
+??_V@YAXPAX@Z
+wcsncmp
+wcsncpy_s
+wcsstr
+swprintf_s
+_CxxThrowException
+__CxxFrameHandler3
+memcmp
+memset
+memcpy
+_amsg_exit
+__wgetmainargs
+_cexit
+_exit
+_XcptFilter
+exit
+_wcmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+__set_app_type
+MSVCR100.dll
+?terminate@@YAXXZ
+_unlock
+__dllonexit
+_lock
+_onexit
+_crt_debugger_hook
+_except_handler4_common
+_invoke_watson
+_controlfp_s
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+ATL100.DLL
+CoUninitialize
+CoInitializeEx
+CoResumeClassObjects
+CoAddRefServerProcess
+CoReleaseServerProcess
+CoCreateInstance
+IIDFromString
+ole32.dll
+OLEAUT32.dll
+InterlockedExchange
+InterlockedCompareExchange
+GetStartupInfoW
+EncodePointer
+DecodePointer
+UnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+LockResource
+LoadResource
+SizeofResource
+FindResourceW
+GetUserDefaultUILanguage
+GlobalMemoryStatus
+WriteFile
+GetNativeSystemInfo
+GetTempFileNameW
+GetVersionExW
+IsWow64Process
+GetTimeFormatW
+GetDateFormatW
+FreeLibrary
+SetLastError
+FindClose
+LoadLibraryW
+GetFullPathNameW
+FindFirstFileW
+ReleaseMutex
+SetHandleInformation
+CreateMutexW
+HeapDestroy
+HeapAlloc
+HeapFree
+GetSystemInfo
+VirtualQuery
+HeapCreate
+ReadProcessMemory
+GetExitCodeProcess
+CreateProcessW
+SetThreadPriority
+GetThreadPriority
+GetCurrentThread
+_vsnwprintf
+_resetstkoflw
+_vsnwprintf_l
+_wmakepath_s
+_wsplitpath_s
+??0_Lockit@std@@QAE@H@Z
+??1_Lockit@std@@QAE@XZ
+?_Decref@facet@locale@std@@QAEPAV123@XZ
+MSVCP100.dll
+GetFileVersionInfoW
+VerQueryValueW
+VERSION.dll
+EnumProcessModules
+GetModuleFileNameExW
+PSAPI.DLL
+HeapReAlloc
+HeapSize
+GetProcessHeap
+VirtualFree
+DtsDebugHost.exe
+DmpGetClientExport
+DmpRemoteDumpRequest
+SSISBeginDump
+SSISGetExtraDumpFileHandle
+.?AVCAtlException@ATL@@
+.?AVtype_info@@
+HKCR
+	NoRemove AppID
+		'%APPID%' = s 'DtrHost'
+		'DtrHost.EXE'
+			val AppID = s '%APPID%'
+PHKCR
+	DtrHost.Host.3 = s 'Host Class'
+		CLSID = s '{44C046ED-CE8F-41FD-815B-B79FB29277C7}'
+	DtrHost.Host = s 'Host Class'
+		CLSID = s '{44C046ED-CE8F-41FD-815B-B79FB29277C7}'
+		CurVer = s 'DtrHost.Host.3'
+	NoRemove CLSID
+		ForceRemove {44C046ED-CE8F-41FD-815B-B79FB29277C7} = s 'Host Class'
+			ProgID = s 'DtrHost.Host.3'
+			VersionIndependentProgID = s 'DtrHost.Host'
+			ForceRemove 'Programmable'
+			LocalServer32 = s '%MODULE%'
+			val AppID = s '%APPID%'
+			'TypeLib' = s '{37D6DA1F-F5F3-4B24-9746-742A4248AB93}'
+PAHKCR
+PAMSFT
+Ft*BH
+stdole2.tlbWWW
+DtrHostLibWW
+Hostd
+ZIHostWWWd
+%ProcessIDWWW
+pVald
+CreateDtsApp
+dtsApplication100WWWd
+yLTerminateWWW
+:syncd
+MarshalBufferWWW
+bufferWW
+[dwRowCnt
+MdwColCnt
+p9columnsW
+dwRowSizeWWW
+;data
+lineageIDsWW
+Urordinalsd
+0GetBufferInfoWWW@
+SQL Server 2005 Integration Services Debugging Host Type LibraryWW)
+Integration Services Debugging Host ClassW-
+Integration Services Debugging Host InterfaceW
+property ProcessID
+method CreateApplicationWW
+method TerminateWW
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+3@4D4H4L4P4T4X4
+5\6`6d6h6l6p6t6x6|6
+<1D1L1T1\1d1l1t1|1
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8L9P9T9X9\9`9d9h9l9p9t9
+9@:D:T:X:`:x:
+;m<v<
+<I=S=v=
+%0+040;0D0a0}0
+1%1_1
+1/2D2t2
+3Q3W3
+7 7G7
+7	878=8k8
+8.9?9F9
+97:	;
+;,<<<c<
+=:=^=
+=1>H>~>
+>"?C?b?g?s?
+030[0
+1%10161p1
+2'2F2K2j2y2
+2*3U3f3~3
+464L4b4h4x4
+5!5Z5
+6L6m6w6
+7*707]7l7q7x7
+8N8U8[8x8
+:):Y:b:
+;1<9<@<
+>U>i>
+3#3*30353:3?3D3J3R3k3
+4"4+404=4N4T4[4o4t4
+5#5/5F5Q5W5i5q5|5
+6N7Z7f7q7w7
+71878=8C8I8O8V8]8d8k8r8y8
+9%929>9J9U9j9
+9Q:n:
+:	;L;
+=4>W>d>p>x>
+?"?.?
+0&050X0f0x0
+031|1
+3#3S3}3
+3\4i4~4
+4E5U5
+596Y6`6g6n6
+6*7c7
+:":>:t:
+;2<H<X<
+<&=[=(>h?m?
+2(3-3?3x3
+435Y5
+6L6m6t6
+7X7]7o7
+7/8Q8
+889=9O9
+9":K:,;
+<&<2<R<p<
+=D=N=w=
+?/?h?y?
+X0]0o0
+1/1W1{1
+1(2h2m2
+4%4.484A4
+697@7a7
+H2M2_2
+3x4}4
+6.7H8M8_8
+<><Z<h<
+=>=Q=f=
+>/>Q>v>
+1-1?1P1
+272Y2
+4*464F4T4i4v4
+696L6b6q6{6
+7"717@7O7^7n7r7|7
+808T8`8h8
+9$90989X9`9h9
+:(:H:d:h:
+;,;0;L;P;l;p;
+<,<0<8<<<T<X<t<x<
+= =(=4=T=
+0 0$000P0T0l0p0
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111101223917Z
+130201224917Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+KZmI
+:mf1
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+u8NY
+ymQW
+6m	nvUU
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+Vf6N
+Y/-&
+Dyh(
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+o0m0k
+/0^0\
+9&a=
+2e^">
+/>V[
+,4)]
+\\V#W
+J;7=
+JT8j#7
++g,M
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+v&J\'
+1D0B
+http://www.microsoft.com/sql0
+']/K
+eq-:
+]Z8:-ZD
+&QWD
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120211181411Z0#
+e_/q
+*K?/$x
+;FSE
+;t?Y
+q!~*
+$Y 5
+_E7[
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+111010204524Z
+130110205524Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+E)_+
+qrx ,
+&DOW
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+Zm#}u	
+\j@K
+$X9MRlj
+i?c2
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1D0B
+http://www.microsoft.com/sql0
+mpc~
+BWl)
+x [ga
+s9N%X
++c:e~
+*?2|Y
+0!0	
+O1&"X:
+20120211181412.731Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+111215031031Z
+130315032031Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service0
+?+#^
+U9U?
+Hkd~
+J&)I
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+ann!
+X=pD
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:936C-7AEE-74AE1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120211112939Z
+20120212112939Z0t0:
+1,0*0
+1(0&0
+EK)pi
+X&2pR"
+ak8I
+-(N!
+PU\d
+>r;,
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+CPX  
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+862q
+>1U0F<
+\IUEQ

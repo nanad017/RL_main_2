@@ -1,0 +1,941 @@
+!This program cannot be run in DOS mode.
+ucr2+
+rRich3+
+.text
+`.rdata
+@.data
+.gfids
+@.rsrc
+@.reloc
+h]SA
+h`AA
+h@9A
+}!h SA
+UxSVW
+hDSA
+Eh;Et
+Mxh`SA
+}LPR
+;uLu
+hdSA
+EPPV
+MxhhSA
+<"u"
+GhLSA
+hpSA
+]tQR
+UxG;
+EDPS
+E<_^[
+r	@P
+s`+3
+_]^[
+_^][
+s3QW
+_^][Y
+hP9A
+r	@P
+r	@P
+-8QA
+_^][
+hh9A
+L$(W
+u	9X
+_^][
+SVW3
+_^[d
+hhTA
+hpTA
+MPBj
+CMPj
+CMPj
+EDPS
+hpVA
+hHTA
+r	@P
+r	@P
+_^[d
+;A(~'QP
+h8WA
+t[h4WA
+h|WA
+;A,~'QP
+h6:A
+h$XA
+CM0j
+CM0j
+CM0j
+CM0j
+hpXA
+_^[d
+hH:A
+0SVW
+_^[d
+B(PQ
+D$(h
+B(PQ
+D$(h
+D$ j
+B(PQ
+D$(h
+D$$j
+B(PQ
+D$(h
+L$ +
+L$ ;
+[_^]
+D$ j
+D$ j
+_^][
+WX+WT
+OX+OT
+K+OT3
+K+OTE
+.+OH
+OL+OH
+.+OH3
+.+OHE
+gfff+O`
+Od+O`
+gfff
+B(PQ
+gfff+O`3
+gfff+O`E
+_^][
+hy:A
+w|9~
+_^[d
+v,P3
+tRP3
+t:h0
+NL+NH
+NL+NH
+9V|v,
+;V|r
+_^[d
+%`PA
+WL+WH
+t:h0
+u,Pk
+tWh0
+.+OH3
+.+OHF
+_^[d
+h';A
+h\ZA
+h`ZA
+hdZA
+hhZA
+,h@ZA
+h ZA
+_^[d
+hr;A
+hlZA
+hH<A
+MHQh
+u=9]Lu8
+CEPP
+CEPP
+CMPj
+CEPP
+CMPj
+CEPP
+CEPP
+CMPh$[A
+CMPh,[A
+8"uL
+CEPPS
+h\]A
+CE0PV
+hh]A
+CE0QP
+CE0SQP
+CEPPS
+CE0PV
+CE0QP
+CE0SQP
+CEPP
+_^[d
+VQj/
+CEHj
+hr;A
+D$ +
+D$ Pj
+Ph4^A
+D$$P
+y.PhH^A
+y.Phx^A
+T$X9
+D$ RP
+L$T9
+T$`RP
+t$dh
+OL+OH
+OL+OH
+D$\;
+t$(;t$,
+.+OH
+;L$,
+L$TA
+L$T;
+T$XB
+T$X;
+t$`h
++L$(
+D$(P
+D$(PVW
+T$4RQ
+T$(9T$<
+Q j0
+D$Tj
+D$TPVQ
+hH_A
+NL+NH
+NL+NH
+,;|$0r
+.+NH
+T$@;
+T$(B
+T$(;T$<
++hd_A
+t$Ph
+_^[d
+_^[d
+_^[d
+>	u0
+_^[d
+_^[d
+_^[d
+_^[d
+_^[d
+=@RA
+u	_^
+u	_^
+u	_^
+u	_^
+u	_^
+h*=A
+gfff
+hJ=A
+hJ=A
+h`=A
+r	@P
+9G8s
+G,+L$
+9C8s
+|$ +
+|$ +
+C,+L$
+|$ +
+|$ +
+C0+L$(
+9Q8v
+9A8s
+;0v8
+V _]
+N [^
+gfffV
+s`+3
+gfff
+gfff
+_]^[
+s`+3
+_]^[
+s`+3
+_]^[
+s^+3
+_]^[
+_]^[
+s#QW
+_]^[
+7_^[
+=fff
+gfff
+gfff
+_^][Y
+;_^][Y
+;_^][Y
+7_^[
+=UUU
+_^][Y
+h`=A
+_^][
+=UUU
+#u$j
+,SVW
+tJ8L$
+D$ P
+<"uU
+~&<-t"<.t
+w&9F
+_^[d
+w&9F
+_^[d
+@tFf
+hN>A
+(SVW
+h~>A
+$SVW
+w&9F
+_^[d
+t/SQP
+_^][
+-<RA
+<*uR
+_^][
+=UUU
+[^]_Y
+_^]2
+SUVW
+AB;O
+_^][
+_^]2
+3WPV
+_^][
+_^][
+L$ +
+t$(u\;
+D$ _^
+_^][
+_^][Y
+l$(u2;
+0^][
+$SUVW
+L$$;
+_^][
+SUVW
+_^][
+_^][
+_^][
+SUHV
+SUVW
+_^][
+	_^][
+_^][
+_^][
+5$RA
+5$RA
+Wh `A
+u/Vh$`A
+5 RA
+_^[d
+hX?A
+h8`A
+h@`A
+_^[d
+PSVW
+_^[d
+hJ=A
+<\t></u
+h^SA
+_^[d
+r	@P
+7;3u
+_^[d
+r	@P
+r	@P
+_][^Y
+%`PA
+D$ VW
+hJ=A
+hm@A
+O ^_
+ s?j
+^_[d
+h`=A
+s`+3
+_]^[
+tzWj
+=UUU
+_^][Y
+_^[d
+h`=A
+h9AA
+%hPA
+%lPA
+%pPA
+%tPA
+%xPA
+%|PA
+hCAA
+u&h 
+j Y+
+h(vA
+h33A
+hHvA
+hpRA
+%lRA
+hdvA
+ineI
+5ntel
+5Genu
+t#=`
+h;1A
+8csm
+Y__^[
+h1-A
+%$QA
+%XQA
+%dQA
+%hQA
+%xQA
+%pQA
+%`QA
+%DPA
+- dA
+n-PdA
+-`dA
+- dA
+% QA
+%|QA
+%`PA
+%dPA
+%`PA
+%dPA
+%`PA
+%dPA
+bad allocation
+bad array new length
+Not enough command line parameters
+/define
+Expected define
+/asmDir
+Expected directory for assembly listings
+-stat
+File Name
+File Name
+Couldn't save shader
+%f%n
+%d%n
+sortOrder
+Syntax error: expected '='
+Syntax error: expected integer
+Pass
+Syntax error: expected '{'
+texture
+vertexShader
+pixelShader
+blendSrcFactor
+blendDstFactor
+blendFactor
+blendOperation
+depthTestFunction
+alphaTestFunction
+alphaTestReference
+alphaToCoverage
+depthWriteMode
+depthBias
+depthSlopeBias
+colorWriteMode
+alphaWriteMode
+samplerAddressU
+samplerAddressV
+samplerAddressW
+samplerBorderColor
+samplerMinFilter
+samplerMagFilter
+samplerMipFilter
+samplerSrgbRead
+textureOffsetMatrix
+cullingMode
+stencilTestFunction
+stencilTestReference
+stencilTestMask
+stencilWriteMode
+stencilFailMode
+Syntax error: undefined state '%s'
+Syntax error: expected ']'
+Syntax error: expected '='
+Error : unable to identify vertex shader version
+Error : vertex shader version %d unsupported by configuration %s
+Error : unable to identify pixel shader version
+Error : pixel shader version %d unsupported by configuration %s
+Global
+Style
+Texture
+VertexShader
+PixelShader
+Float
+Float2
+Float3
+Float4
+Color3
+Color4
+Float4x3
+Float4x4
+Unknown type '%s'
+Editable
+Syntax error : expected 'Editable' or '='
+Unknown hardware configuration %s.
+!!! Unrecognized type
+float4x3
+float4x4
+float
+float2
+float3
+float4
+ : packoffset(c
+ : register(c
+cbuffer Constants : register(b0)
+cbuffer Constants : register(b0)
+cbuffer Unused : register(b1)
+Syntax error : missing '['
+Syntax error : misssing ']'
+Syntax error : missing '='
+(%d) WARNING %d constant registers used
+Syntax error : missing ','
+Syntax error : missing ','
+Syntax error : missing ','
+Syntax error : missing ')'
+True
+False
+Zero
+DstColor
+SrcColor
+DstAlpha
+SrcAlpha
+OneMinusDstAlpha
+OneMinusSrcAlpha
+OneMinusDstColor
+OneMinusSrcColor
+BlendFactor
+OneMinusBlendFactor
+Subtract
+ReverseSubtract
+Never
+Equal
+Less
+Less
+LessEqual
+Greater
+GreaterEqual
+NotEqual
+Always
+None
+Keep
+Overwrite
+Replace
+ReplaceZero
+Increment
+Decrement
+Incrsat
+Decrsat
+Invert
+Wrap
+Clamp
+ClampToBorder
+FilterNone
+FilterPoint
+FilterLinear
+FilterQuality
+CullingNone
+CullingCW
+CullingCCW
+VertexShader
+DirectX11
+vs_5_0
+Syntax error : missing '{'
+vs_5_0
+PixelShader
+DirectX11
+ps_5_0
+Syntax error : missing '{'
+ps_5_0
+Undeclared identifier '%s'
+(%d) WARNING %d constant registers used
+DX11 Compiler: %s
+DX11 Compiler: Could not access reflector (%x)
+DX11 Compiler: Could not access shader desc (%x)
+Unsupported constant size: %s (%i)
+HLSL variable '%s' is unbound.
+vs_3_0
+ps_3_0
+Unsupported register set.
+WARNING Constant has more than 4 columns!
+Unsupported constant type.
+Unsupported constant type.
+HLSL variable '%s' is unbound.
+(%d):%n
+Error compiling shader.
+(%d) : 
+vs_1_
+vs_2_
+vs_3_
+ps_1_
+ps_2_
+ps_3_
+vs_4_
+ps_4_
+Couldn't open '%s'
+DEFINE
+Couldn't find DEFINE section at the beginning of the shader.
+Missing { after DEFINE.
+Maximum types exceeded. Missing } ?
+BLOCK
+Found Undefined Type: %s
+(%d) : 
+\\?\UNC\
+%.1fkb
+%.1fmb
+\*.*
+\*.*
+Memory allocation of %dkb failed
+#ifdef
+#ifndef
+#endif
+#else
+vector<T> too long
+invalid string position
+string too long
+vector<bool> too long
+bad cast
+Unknown exception
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.gfids$y
+.rsrc$01
+.rsrc$02
+D3DReflect
+D3DCompiler_42.dll
+D3DXAssembleShader
+D3DXCompileShader
+D3DXDisassembleShader
+d3dx9_42.dll
+D3DX11CompileFromMemory
+d3dx11_42.dll
+WriteFile
+CreateFileA
+CloseHandle
+KERNEL32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+?uncaught_exception@std@@YA_NXZ
+?_BADOFF@std@@3_JB
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z
+?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@D@Z
+?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDD@Z
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ
+??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z
+??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ
+?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ
+?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z
+?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z
+?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z
+?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ
+?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@I@Z
+??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UAE@XZ
+?always_noconv@codecvt_base@std@@QBE_NXZ
+?_Fiopen@std@@YAPAU_iobuf@@PBDHH@Z
+??1_Lockit@std@@QAE@XZ
+??0_Lockit@std@@QAE@H@Z
+?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ
+??Bid@locale@std@@QAEIXZ
+?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A
+?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SAIPAPBVfacet@locale@2@PBV42@@Z
+?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QBE?AVlocale@2@XZ
+?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXXZ
+?unshift@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PAD1AAPAD@Z
+??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+?in@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z
+?out@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z
+?tellp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE?AV?$fpos@U_Mbstatet@@@2@XZ
+MSVCP140.dll
+memmove
+__std_terminate
+strstr
+strchr
+__std_exception_copy
+__std_exception_destroy
+__CxxFrameHandler3
+_CxxThrowException
+memset
+_except_handler4_common
+VCRUNTIME140.dll
+exit
+strtok
+__acrt_iob_func
+__stdio_common_vfprintf
+_stricmp
+_invalid_parameter_noinfo_noreturn
+_strnicmp
+__stdio_common_vsprintf
+fputs
+atoi
+atof
+isspace
+ispunct
+__stdio_common_vsscanf
+ftell
+fopen
+fclose
+fseek
+fwrite
+free
+fread
+malloc
+fflush
+setvbuf
+fsetpos
+_fseeki64
+fgetpos
+fgetc
+ungetc
+_invalid_parameter_noinfo
+_errno
+fputc
+_unlock_file
+_lock_file
+_get_stream_buffer_pointers
+realloc
+_callnewh
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+terminate
+_controlfp_s
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+CreateDirectoryA
+FindFirstFileExA
+FindClose
+GetFileAttributesExA
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+GetCurrentProcess
+TerminateProcess
+memcpy
+_except1
+GeForce3
+GeForce4
+GeForce5
+GeForce6
+R200
+Radeon9000
+DirectX11
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_cast@std@@
+.?AVexception@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0'020>0Q0y0
+1Q1Y1m1
+2#3+3
+7Z8`8<98:>:
+=!>9>F>S>^>
+8#8.8[8%9
+>#?K?h?
+030P0m0
+181U1r1
+617S7u7
+9\9c9
+;1<[<
+=9=S=m=
+=O>Y?
+1h2p213J3W3d3o3
+8!9T9}9
+:Q:~:O;
+0;0N1V1l1p1t1x1|1
+3%3,333:3X3y3
+4(4,4044484<4@4f4
+4Q5V5i5
+6N6e6s6|6
+6p7z7
+8#8(8;8
+:(:4:=:V:k:x:
+:,;0;4;8;V;
+1f2c4p4}4
+5#505;5}5
+6 6B6g6|6
+6(7=7J7W7b7
+849E9
+:7:`:
+;O;t;
+<0<H<`<x<
+=5=M=b=w=
+>7>O>g>|>
+?!?I?q?
+172Q2k2
+354+595x5
+8c8h8
+>X>_>
+?$?1?<?r?
+.0B0H0
+192A2
+555q5
+8,9|9
+90:S:d:p:y:
+;$;.;4;\;R=_=l=w=
+0L0j2w2
+5(5\5
+=,=9=D=|=t?
+0"0<0V0p0
+='=U=b=
+==>C>
+>H?N?
+M0S0
+0v1|1
+2D3J3`3f3
+4&4,4B4H4
+5'545?5a6v6
+7a7y7
+: :+:]:t:;;V;
+<;<T<
+=M=g=,>M>]>
+>(?B?
+466f7
+:(:5:D:_:o:
+<@<E<{<
+<\=l=
+='>M>
+>@?L?T?f?
+8'848K8h8u8
+8"9v9
+0+0P0^0i0z0
+1V1t1~1
+3$3/3y3
+464{4
+5#5i5
+;M=D?
+1$1L1
+3'323
+485>5
+9A:R:
+;Q;e;m;
+=>=D=b=u=
+=#>>>j>
+?)?>?
+'0<0
+626g6
+:Q:k:q:|:
+=#=)=2=V=w=
+141L1^1|1
+2"2U2a2v2@3
+394D4U4
+5C6]6
+787>7D7J7P7V7\7b7h7r7
+8B9U9h9t9
+9W:d:
+=3=D=X=p=v=
+>+>9>T>_>
+>??N?U?
+00161
+2(242C2L2Y2
+363;3e3n3y3
+4!4'414;4K4[4k4t4
+5 5&5,52585>5D5Y5h5w5
+5+636;6
+7:7I7X7
+8K8o8
+8A9Q9i9
+:*:1:7:I:z:
+;(;m;s;
+=+=K=a=
+>B>I>O>r>y>
+?*?1?Y?z?
+0H0U0^0n0
+0	1:1U1b1k1v1
+l2t2x2|2
+,3034383<3@3D3H3L3P3T3X3\3`3d3h3x3|3
+505@5D5T5X5`5x5
+:$:,:4:<:D:L:X:`:
+;0;@;d;l;t;|;
+<(<H<T<t<
+= =(=0=<=\=d=l=t=|=
+>$>,>4><>D>L>T>`>
+?4?<?D?P?p?x?
+(0H0P0X0d0
+1(141<1T1\1t1|1
+2$2D2P2X2
+3(343T3\3h3
+4(40484D4d4l4x4
+545@5`5l5
+6<6@6\6`6h6p6x6|6

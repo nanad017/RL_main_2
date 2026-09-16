@@ -1,0 +1,789 @@
+!This program cannot be run in DOS mode.
+RichF
+.text
+`.rdata
+@.data
+.pdata
+@.didat
+.rsrc
+@.reloc
+L$ H
+t/fD9
+L$`L
+D$PL
+D$HH
+T$8H
+D$0H
+\$0H
+t$8H
+\$0H
+H UATAUAVAWH
+D$8H
+l$0H
+l$(H
+D$ L
+t$0H
+t$(L
+fD9,Hu
+D$ H
+D$ H
+A_A^A]A\]
+WAVAWH
+L$ M
+6Ic^
+\$XH
+l$`H
+t$hH
+0A_A^_
+t:9k
+HH9/u
+\$0H
+l$8H
+t$@H
+\$@H
+\$@H
+\$0H
+l$8H
+t$@H
+x AVH
+fA9,@u
+\$0H
+l$8H
+t$@H
+|$HH
+VWATAVAWH
+fD9<Gu
+\$hH
+l$pH
+0A_A^A\_^
+\$0H
+t$8H
+|$@H
+y@H97u%L
+|$ 3
+\$@H
+t$HH
+\$0H
+UVWAVAWH
+t$8H
+t$@3
+D$0E
+t$HH
+L$PI
+L$PD
+L$0H
+D$0H
+A_A^_^]
+fD94Au
+fD94Xu
+szfD
+\$0H
+xu;s
+\$03
+t$8H
+\$0H
+\$HH
+\$@H
+\$HH
+D$ H
+SVWATAUAVAWH
+f94Bu
+L$HH
+D$ H
+D$(H
+D$ H
+D$@H
+fA9tE
+L$8H
+D$0H
+D$(H
+D$ H
+|$@H
+\$0H
+T$HL
+L$8M
+D$ H
+t$@H
+`A_A^A]A\_^[
+\$@H
+l$PH
+t$XH
+x AVH
+D93|\
+\$0H
+l$8H
+t$@H
+|$HH
+UVWATAUAVAWH
+A_A^A]A\_^]
+8%u+H
+K SH
+K E3
+D$xH
+x AWH
+\$0H
+l$8H
+t$@H
+|$HH
+@SVWATAUAVAW
+D$@L
+L$PH
+T$HL
+D$`L
+L$p3
+\$0H
+T$0H
+d$PL
+l$HH
+D$`H
+D$@H
+fD98u
+L$(H
+T$ D
+T$@I
+L$0E3
+D$8A
+|$8@
+t$0H
+|$8D
+t$0H
+d$PL
+l$HH
+t$`H
+t$(H
+D$ A
+D$(H
+D$ E3
+T$pI
+A_A^A]A\_^[
+T$ H
+UVWH
+D$HE3
+D$PH
+D$XH
+D$`H
+D$`H
+L$HH
+L$`H
+T$pH
+L$HH
+D$8L
+L$@H
+D$pH
+L$HH
+L$HH
+\$0H
+t$8H
+x ATAVAWH
+fD;1
+fD;9
+fD;0tlH
+fD;9u
+fD;8uWH
+fD;9u	
+fD;0twH;
+srfD
+fD;0u
+\$@H
+l$HH
+t$PH
+|$XH
+ A_A^A\
+@USVWH
+L$xL
+L$h3
+D$pH
+\$`H
+9T$x
+9D$`t)H
+L$pH
+9T$xt-H
+ub9T$pt\H
+T$pH
+D$pH
+D$ A
+\$pH
+9T$x
+T$pH
+D$pH
+D$ A
+t$pH
+L$pH
+D$pH
+D$ A
+t$pH
+?=u$L
+T$ D
+L$xL
+D$ A
+D$`3
+T$`H
+D$`H
+?{uaH
+D$ E3
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+9T$p
+T$`H
+T$XH
+T$PH
+T$HH
+T$@H
+T$8H
+T$0H
+T$(H
+D$`H
+D$ E3
+9T$`
+D$`H
+9T$p
+9T$`
+_^[]
+\$ UVWATAUAVAW
+d$0H
+/fD;e
+T$@H
+T$@H
+f;D$@
+d$ L
+T$@H
+y+E3
+d$ H
+T$@H
+fD;!t
+A_A^A]A\_^]
+VWAVH
+\$`H
+L$PH
+\$HH
+\$p3
+D$8H
+D$@H
+D$xH9D$pt
+D$xH
+D$pH
+t$8L
+|$0H
+|$(H
+D$ D
+D$pf
+T$pH
+D$xH9D$pt
+A^_^
+UVWAVAWH
+D$0H
+t$83
+t$@E
+t$HH
+L$PI
+L$PD
+L$0H
+D$0H
+A_A^_^]
+fD94Au
+fD94Xu
+t$ L
+p AWH
+tY9N
+\$0H
+t$8H
+|$@L
+t$HH
+WAVAWH
+tlD;
+\$@H
+t$PI
+l$HH
+ A_A^_
+p AWH
+\$0H
+t$8H
+|$@I
+t$HH
+WAVAWH
+\$@H
+l$HH
+t$PH
+ A_A^_
+x AVH
+\$0I
+l$8H
+t$@H
+|$HH
+t$8H
+\$0H
+\$0H
+t$8H
+\$0H
+\$0H
+\$0H
+\$HH
+t$PH
+\$0H
+t$8H
+t$ WAVAWH
+L$HA
+t$XH
+l$PH
+ A_A^_
+\$0H
+\$0H
+\$0H
+t$8H
+t=fE9
+\$0I
+D$(L
+L$ D
+@SUVWH
+D$x3
+H!t$xH
+D$ E3
+|$xH
+D$h!t$`L
+L$pH
+D$(H
+D$ H
+u39\$`u-
+8_^][
+\$0H
+\$0H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HH
+UVWATAUAVAWH
+D$DD
+l$@L
+t$0H
+D$@H
+D$(H
+t$ L
+L$DL
+|$DDv
+D9l$@
+|$@H
+D$PH
+L$XH
+L$PuT
+D$XH
+D$XH
+D$PH
+t$PL
+t$0H
+D$@H
+D$(H
+t$ L
+L$DL
+fD9$Fu
+fE9$
+KpE3
+L$XH9L$Pt
+D$XH9D$Pt
+M0H3
+A_A^A]A\_^]
+T$HH
+\$PH
+UWATAVAWH
+M'H3
+A_A^A\_]
+T$ H
+\$0H
+ATAVAWH
+|$ H
+\$0A
+D$$I;
+D$$H
+L$ f
+: wxfD9:t
+D9=mF
+D9=@F
+D$ H
+A_A^A\
+D$8H
+D$8H
+D$@L
+D$@H
+T$8H
+T$8H
+T$@H
+\$0H
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+D$HE3
+T$PH
+D$@H
+D$XH
+D$0H
+D$`H
+D$(H
+D$ L
+L$@L
+D$HH
+T$P3
+8csm
+u*9Q<|%
+HcA<H
+f9H\u
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+ H3E H3E
+\$HH
+T$@H
+L$HH
+T$@L
+L$0L
+L$PH
+L$(H
+L$`H
+L$ 3
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+L$ H
+D$ f
+L$0f
+T$@f
+\$PH
+oD$ f
+oL$0f
+oT$@f
+o\$PH
+L$pH
+T$xL
+x AVH
+\$0A
+l$8H
+t$@H
+|$HH
+\$0H
+t$8H
+\$0H
+t$8H
+|$@H
+Invalid parameter passed to C runtime function.
+USER32.dll
+OLEAUT32.dll
+ole32.dll
+SspiCli.dll
+8BPIO *!OA
+B?%R*
+RegDeleteKeyExW
+RegDeleteKeyW
+=L9o<
+RSDS
+WMPNSCFG.pdb
+GCTL
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$zzzdbg
+.xdata
+ATL$__a
+ATL$__z
+.didat$2
+.didat$3
+.didat$4
+.didat$6
+.didat$7
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.pdata
+.didat$5
+.rsrc$01
+.rsrc$02
+CharNextW
+DestroyWindow
+UnregisterClassA
+CoTaskMemFree
+CoTaskMemRealloc
+CoTaskMemAlloc
+CoCreateInstance
+CoInitializeEx
+CoUninitialize
+GetUserNameExW
+memcpy_s
+memmove_s
+free
+malloc
+wcsncpy_s
+_callnewh
+memset
+_XcptFilter
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+__setusermatherr
+_initterm
+__C_specific_handler
+_wcmdln
+_fmode
+_commode
+?terminate@@YAXXZ
+msvcrt.dll
+_lock
+_unlock
+__dllonexit
+_onexit
+_errno
+realloc
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+ntdll.dll
+TraceMessage
+GetTraceLoggerHandle
+GetTraceEnableLevel
+GetTraceEnableFlags
+RegisterTraceGuidsW
+UnregisterTraceGuids
+RegCloseKey
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExW
+RegSetValueExW
+RegCreateKeyExW
+RegDeleteValueW
+QueryServiceConfigW
+RegQueryValueExW
+OpenServiceW
+CloseServiceHandle
+OpenSCManagerW
+CopySid
+LookupAccountNameW
+ConvertSidToStringSidW
+ADVAPI32.dll
+RaiseException
+GetLastError
+CloseHandle
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+GetModuleHandleW
+lstrcmpiW
+MultiByteToWideChar
+SizeofResource
+LoadResource
+FindResourceExW
+GetModuleFileNameW
+RegisterApplicationRestart
+HeapSetInformation
+LockResource
+OpenEventW
+SetEvent
+GetCurrentThreadId
+HeapSize
+HeapReAlloc
+HeapFree
+HeapAlloc
+GetProcessHeap
+HeapDestroy
+Sleep
+GetStartupInfoW
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetTickCount
+OutputDebugStringA
+LocalFree
+KERNEL32.dll
+ResolveDelayLoadedAPI
+DelayLoadFailureHook
+_CxxThrowException
+__CxxFrameHandler3
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+	<assemblyIdentity
+		version="5.1.0.0"
+		processorArchitecture="amd64"
+		name="Microsoft.WindowsMediaPlayerNSS.ConfigurationManager"
+		type="win32"
+	<description>Windows Media Player Network Sharing Service Configuration Manager.</description> 
+	<dependency> 
+		<dependentAssembly> 
+			<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="amd64" publicKeyToken="6595b64144ccf1df" language="*" /> 
+		</dependentAssembly> 
+	</dependency>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+	<security>
+	  <requestedPrivileges>
+		<requestedExecutionLevel
+		  level="asInvoker"
+		  uiAccess="false"/>
+	  </requestedPrivileges>
+	</security>
+  </trustInfo>
+</assembly> 
+xwppw
+xxxx
+xxxxxx
+xxxxx
+xxxxxxx
+xxxxxxxxx
+xxxxx
+xxxx
+fE||x
+777wwr
+Ws1t0
+wvasq
+HwwA
+`PPABA
+Nx^v
+w74p
+w?p~~
+t5VVT7@
+R~wf|
+Rxwa
+:Aed4
+|=@=
+m]99943[
+W\[ZZ949h|
+^\\[[Z99Xd
+m_^\\\ZXX6
+										
+__\\\[[6
+__Y\\YT
+	y)M
+okk`6
+				
+hhff
+	mfffiil
+				mbbc<Ca
+o				
+	^[[Y::2
+																		
+JJSR
+				
+P				
+RSHI
+EG A
+~vGw
+				
+				
+																		
+w,m-n
+8_M=IYW
+ua;<A%$+g
+>EK<;$=9
+OLHEK<?'
+]JEKKK(
+]PHP(
+eeee
+bb23
+21zz
+G@@@G
+GHNNNGG
+BQN>NHB
+BQN>
+BQH>
+"%"!
+BQN>
+BQO@
+BQQB
+DQQ@
+S:<;
+DQQ@
+/J8,
+!)2DQ@@
+S.79-
+NGNNNGN
+NGGGN
+)9<9{JIJ
+)()R{}{
+{! !
+{!$!
+1)(1
+{)(1
+1)(1
+{)(1
+1)(1
+{)(1
+1)(1
+{)(1
+1)(1
+)()9
+! !Z
+101R
+J9{Y1

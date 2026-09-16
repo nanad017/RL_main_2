@@ -1,0 +1,278 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+[^_]
+[^_]
+$(b@
+$Xb@
+$tb@
+$0h@
+$ph@
+L[^_]
+L[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+<[^_]
+$ i@
+[[^_]
+[[^_]
+	v(1
+$ j@
+$%j@
+$*j@
+$tb@
+$0j@
+$6j@
+$@j@
+$lj@
+<[^_]
+$+k@
+$+k@
+<[^_]
+$Yk@
+<[^_]
+$+k@
+$^k@
+$^k@
+,[^_]
+$^k@
+t0@u
+$tb@
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+$=l@
+$Xl@
+$~l@
+$Xl@
+$8m@
+[^_]
+$mm@
+$tn@
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+$(o@
+,[^_]
+$Ho@
+$lo@
+$ p@
+$Pp@
+CPp^@
+CT`^@
+C8tr@
+[^_]
+$@r@
+/usr/bin/diff
+diff-program
+easy-only
+help
+initial-tab
+label
+merge
+overlap-only
+show-all
+show-overlap
+strip-trailing-cr
+text
+version
+diffutils
+/usr/share/locale
+aeimvx3AEL:TX
+Randy Smith
+2.8.7-cvs
+GNU diffutils
+diff3
+incompatible options
+missing operand after `%s'
+`-' specified for more than one input file
+too many file label options
+read failed
+extra operand `%s'
+Try `%s --help' for more information.
+write failed
+standard output
+-e  --ed  Output unmerged changes from OLDFILE to YOURFILE into MYFILE.
+-E  --show-overlap  Output unmerged changes, bracketing conflicts.
+-A  --show-all  Output all changes, bracketing conflicts.
+-x  --overlap-only  Output overlapping changes.
+-X  Output overlapping changes, bracketing them.
+-3  --easy-only  Output unmerged nonoverlapping changes.
+-m  --merge  Output merged file instead of ed script (default -A).
+-L LABEL  --label=LABEL  Use LABEL instead of file name.
+-i  Append `w' and `q' commands to ed scripts.
+-a  --text  Treat all files as text.
+--strip-trailing-cr  Strip trailing carriage return on input.
+-T  --initial-tab  Make tabs line up by prepending a tab.
+--diff-program=PROGRAM  Use PROGRAM to compare files.
+-v  --version  Output version info.
+--help  Output this help.
+Usage: %s [OPTION]... MYFILE OLDFILE YOURFILE
+Compare three files line by line.
+  %s
+Report bugs to <bug-gnu-utils@gnu.org>.
+Exit status is 0 if successful, 1 if conflicts, 2 if trouble.
+If a FILE is `-', read standard input.
+internal error: screwup in format of diff blocks
+%s: diff failed: 
+internal error: invalid diff type in process_diff
+invalid diff format; invalid change separator
+--strip-trailing-cr
+--horizon-lines=100
+subsidiary program `%s' could not be invoked
+subsidiary program `%s' not found
+subsidiary program `%s' failed
+subsidiary program `%s' failed (exit status %d)
+pipe
+fork
+fstat
+close
+waitpid
+invalid diff format; incomplete last line
+invalid diff format; incorrect leading line chars
+====%s
+%ld,%ldc
+No newline at end of file
+\ %s
+%ldc
+%lda
+internal error: invalid diff type passed to output
+>>>>>>> %s
+%ld,%lds/^\.//
+%lda
+<<<<<<< %s
+%ld,%ldd
+=======
+%lds/^\.//
+%ldd
+||||||| %s
+<<<<<<< %s
+input file shrank
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+%s (%s) %s
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s.
+Written by %s and %s.
+Written by %s, %s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+%s %s
+Report bugs to <%s>.
+bug-gnu-utils@gnu.org
+%s home page: <http://www.gnu.org/software/%s/>.
+diffutils
+GNU diffutils
+General help using GNU software: <http://www.gnu.org/gethelp/>.
+memory exhausted
+Unknown error (%d)
+Value too large for defined data type
+Operation canceled
+Copyright %s %d Free Software Foundation, Inc.
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__errno
+__main
+_exit
+abort
+calloc
+close
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+dup2
+execvp
+exit
+fclose
+fcntl
+fflush
+fputc
+fputs
+free
+freopen
+fstat
+fwrite
+getc
+getenv
+malloc
+memcpy
+memset
+pipe
+putc
+raise
+read
+realloc
+setlocale
+signal
+sprintf
+stat
+strchr
+strcmp
+strerror
+strlen
+strncmp
+vfork
+vsnprintf
+waitpid
+write
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll

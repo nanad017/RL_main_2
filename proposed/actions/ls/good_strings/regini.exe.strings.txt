@@ -1,0 +1,554 @@
+!This program cannot be run in DOS mode.
+$\i'
+&\o'
+8\b'
+!\o'
+:\j'
+'\j'
+\Richk'
+.text
+`.data
+.idata
+@.rsrc
+@.reloc
+Invalid key '%ws' Acl [%ws]
+Invalid key '%ws'
+Value too large - '%ws = %ws'
+Unable to access file - '%ws = %ws'
+Date/time format invalid - '%ws = %ws'
+Invalid line continuation - '%ws = %ws'
+Invalid quote character - '%ws = %ws'
+Missing length for binary data - '%ws = %ws'
+Not enough binary data for length - '%ws = %ws'
+Invalid registry type - '%ws = %ws'
+Invalid value - '%ws = %ws'
+%02u %04u  KeyName: %ws
+REGINI: Missing line continuation character for %ws
+REGINI: %ws key exceeded maximum depth (%u) of tree.
+  (%02u)
+    Deleted key %02x %ws (%x%08x)
+; *** Deleted the above key and all of its subkeys ***
+REGINI: DeleteKey (%ws) relative to handle (%x%08x) failed - %u
+    Created key %02x %ws (%x%08x)
+REGINI: CreateKey (%ws) relative to handle (%x%08x) failed - %u
+Value name ('%ws') seen before any key name
+    Popping from key %02x %ws (%x%08x)
+    Adding value '%ws = %ws' to key %02x %ws (%x%08x)
+    %ws = DELETED
+REGINI: SetValueKey (%ws) failed (%u)
+-b specifies that REGINI should be backward compatible with older
+    versions of REGINI that did not strictly enforce line continuations
+    and quoted strings Specifically, REG_BINARY, REG_RESOURCE_LIST and
+    REG_RESOURCE_REQUIREMENTS_LIST data types did not need line
+    continuations after the first number that gave the size of the data.
+    It just kept looking on following lines until it found enough data
+    values to equal the data length or hit invalid input.  Quoted
+    strings were only allowed in REG_MULTI_SZ.  They could not be
+    specified around key or value names, or around values for REG_SZ or
+    REG_EXPAND_SZ  Finally, the old REGINI did not support the semicolon
+    as an end of line comment character.
+textFiles is one or more ANSI or Unicode text files with registry data.
+Some general rules are:
+    Semicolon character is an end-of-line comment character, provided it
+    is the first non-blank character on a line
+    Backslash character is a line continuation character.  All
+    characters from the backslash up to but not including the first
+    non-blank character of the next line are ignored.  If there is more
+    than one space before the line continuation character, it is
+    replaced by a single space.
+    Indentation is used to indicate the tree structure of registry keys
+    The REGDMP program uses indentation in multiples of 4.  You may use
+    hard tab characters for indentation, but embedded hard tab
+    characters are converted to a single space regardless of their
+    position
+    
+    Values should come before child keys, as they are associated with
+    the previous key at or above the value's indentation level.
+    For key names, leading and trailing space characters are ignored and
+    not included in the key name, unless the key name is surrounded by
+    quotes.  Imbedded spaces are part of a key name.
+    Key names can be followed by an Access Control List (ACL) which is a
+    series of decimal numbers, separated by spaces, bracketed by a
+    square brackets (e.g.  [8 4 17]).  The valid numbers and their
+    meanings are:
+       1  - Administrators Full Access
+       2  - Administrators Read Access
+       3  - Administrators Read and Write Access
+       4  - Administrators Read, Write and Delete Access
+       5  - Creator Full Access
+       6  - Creator Read and Write Access
+       7  - World Full Access
+       8  - World Read Access
+       9  - World Read and Write Access
+       10 - World Read, Write and Delete Access
+       11 - Power Users Full Access
+       12 - Power Users Read and Write Access
+       13 - Power Users Read, Write and Delete Access
+       14 - System Operators Full Access
+       15 - System Operators Read and Write Access
+       16 - System Operators Read, Write and Delete Access
+       17 - System Full Access
+       18 - System Read and Write Access
+       19 - System Read Access
+       20 - Administrators Read, Write and Execute Access
+       21 - Interactive User Full Access
+       22 - Interactive User Read and Write Access
+       23 - Interactive User Read, Write and Delete Access
+    If there is an equal sign on the same line as a left square bracket
+    then the equal sign takes precedence, and the line is treated as a
+    registry value.  If the text between the square brackets is the
+    string DELETE with no spaces, then REGINI will delete the key and
+    any values and keys under it.
+    For registry values, the syntax is:
+       value Name = type data
+    Leading spaces, spaces on either side of the equal sign and spaces
+    between the type keyword and data are ignored, unless the value name
+    is surrounded by quotes.  If the text to the right of the equal sign
+    is the string DELETE, then REGINI will delete the value.
+    The value name may be left off or be specified by an at-sign
+    character which is the same thing, namely the empty value name.  So
+    the following two lines are identical:
+       = type data
+       @ = type data
+    This syntax means that you can't create a value with leading or
+    trailing spaces, an equal sign or an at-sign in the value name,
+    unless you put the name in quotes.
+    Valid value types and format of data that follows are:
+       REG_SZ text
+       REG_EXPAND_SZ text
+       REG_MULTI_SZ "string1" "str""ing2" ...
+       REG_DATE mm/dd/yyyy HH:MM DayOfWeek
+       REG_DWORD numberDWORD
+       REG_BINARY numberOfBytes numberDWORD(s)...
+       REG_NONE (same format as REG_BINARY)
+       REG_RESOURCE_LIST (same format as REG_BINARY)
+       REG_RESOURCE_REQUIREMENTS (same format as REG_BINARY)
+       REG_RESOURCE_REQUIREMENTS_LIST (same format as REG_BINARY)
+       REG_FULL_RESOURCE_DESCRIPTOR (same format as REG_BINARY)
+       REG_QWORD numberQWORD
+       REG_MULTISZ_FILE fileName
+       REG_BINARYFILE fileName
+    If no value type is specified, default is REG_SZ
+    For REG_SZ and REG_EXPAND_SZ, if you want leading or trailing spaces
+    in the value text, surround the text with quotes.  The value text
+    can contain any number of imbedded quotes, and REGINI will ignore
+    them, as it only looks at the first and last character for quote
+    characters.
+    For REG_MULTI_SZ, each component string is surrounded by quotes.  If
+    you want an imbedded quote character, then double quote it, as in
+    string2 above.
+    For REG_BINARY, the value data consists of one or more numbers The
+    default base for numbers is decimal.  Hexidecimal may be specified
+    by using 0x prefix.  The first number is the number of data bytes,
+    excluding the first number.  After the first number must come enough
+    numbers to fill the value.  Each number represents one DWORD or 4
+    bytes.  So if the first number was 0x5 you would need two more
+    numbers after that to fill the 5 bytes.  The high order 3 bytes
+    of the second DWORD would be ignored.
+[-b] textFiles...
+REGINI
+Error: Registry editing has been disabled by your administrator.
+Failed to load from file '%s' (%u)
+No textFile specified
+%.*s%c%ws%c
+%.*s%ws
+ %wc%ws%wc
+%.*s
+%c%ws%c 
+%ws 
+REG_EXPAND_SZ 
+(*** Length not multiple of WCHAR ***)
+(*** MISSING TRAILING NULL CHARACTER ***)
+%c%ws%c
+%.*ws
+%.*s
+%ws 0x%08lx
+%.*s
+0x%08lx
+REG_DWORD 0x%08lx
+REG_DWORD_BIG_ENDIAN 0x%08lx
+REG_LINK %ws
+ \ ->%.*s
+REG_MULTI_SZ 
+REG_QWORD 0x%016I64x
+*** Unknown Registry Data Type (%08lx)  Length: 0x%lx
+;%.*sNumber of Full resource Descriptors = %d
+;%.*sPartial List number %d
+;%.*sINTERFACE_TYPE %ws
+;%.*sBUS_NUMBER  %d
+;%.*s *** !!! Invalid ResourceList !!! *** 
+;%.*sDescriptor number %d
+;%.*sShare Disposition %ws
+;%.*sTYPE              %ws
+;%.*sFlags             %ws
+;%.*sSTART 0x%08lx  LENGTH 0x%08lx
+;%.*sLEVEL %d  VECTOR %d  AFFINITY %d
+;%.*sSTART 0x%08lx%08lx  LENGTH 0x%08lx
+;%.*sCHANNEL %d  PORT %d
+;%.*sDataSize 0x%08lx  Data:
+;%.*s
+ 0x%08lx
+;%.*s*** Unknown resource list type: 0x%x ****
+Unable to initialize registry access functions (%u)
+REGBACK
+Unable to allocate large value buffer (%u)
+                                                      
+%.*s%.*s
+more...press any key to continue
+                                
+usage: %s 
+[-m \\machinename
+ | -h hivefile hiveroot
+[-i n] [-o outputWidth]
+where: 
+-m specifies a remote Windows NT machine whose registry is to be manipulated.
+-h specifies a specify local hive to manipulate.
+-i n specifies the display indentation multiple.  Default is 4
+-o outputWidth specifies how wide the output is to be.  By default the
+   outputWidth is set to the width of the console window if standard
+   output has not been redirected to a file.  In the latter case, an
+   outputWidth of 240 is used.
+Whenever specifying a registry path, either on the command line
+or in an input file, the following prefix strings can be used:
+     HKEY_LOCAL_MACHINE
+     HKEY_USERS
+     HKEY_CURRENT_USER
+     USER:
+   Each of these strings can stand alone as the key name or be followed
+   a backslash and a subkey path.
+%s: 
+error
+%ws(%u) : %s: 
+Out of memory
+Unable to convert parameter '%s' to Unicode (%u)
+Missing argument to -o switch
+Missing parameter for -%c switch
+May only specify one of -h or -m switches
+Invalid machine name - '%ws'
+Missing parameter(s) for -%c switch
+Invalid switch (-%c)
+RSDS
+regini.pdb
+GCTL
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.gfids$x
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.text$mn
+.xdata$x
+.data
+.bss
+.idata$5
+.00cfg
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+Pj[h
+VWPQQS
+h 0@
+SVWh
+PSSSSSSSSSSQ
+SVWQQ
+D$ P
+D$ PSh\,@
+hh+@
+Y@_^[
+<-t,</t(
+u:hh
+jWX_^[
+4SVW3
+VhL/@
+h8/@
+h`/@
+hl/@
+j\Xf9
+j\Xf9
+h8/@
+3_^[
+h 0@
+0h00@
+h@0@
+h 0@
+0h00@
+h@0@
+0SVW3
+QSPW
+tR9]
+SWSVj
+j\_f9z
+j [f9Z
+j Yf9
+_f9x
+9f;}
+_f99u
+j\Y;
+:;u,;W
+j Xf
+2f;u
+0f;u
+ShL0@
+WhL0@
+	f;E
+f;Ds
+h\0@
+hd0@
+hl0@
+ht0@
+h|0@
+u68E
+j"Xf9
+uQj"_
+SVW3
+;8s;S
+j Zf;
+f9TN
+u`j"Y
+t5j Zf;
+j"Yf;
+u	f;
+j'Zf;
+_^[]
+PQPh
+PWPh81@
+Wh@1@
+; r@
+PhD1@
+PhL1@
+t19E
+PhT1@
+SPh\1@
+Phh1@
+hp1@
+0ht1@
+7h|1@
+hh1@
+YYj"Xf9
+Ph82@
+Qhh2@
+Sh,4@
+ShP5@
+Sht8@
+ShH8@
+Sh 8@
+SVWj
+h,9@
+Ph`9@
+YYh$:@
+YYh@:@
+YYhH:@
+YYu'
+h0=@
+h8=@
+RQh@=@
+t.VWVSj
+[_^]
+Qhl>@
+1_^[
+E PQSW
+t/SW
+j ^W
+SVWj
+j-Xf;
+j0Xf;
+j-Xf9E
+j-Xf;
+j0Xf;
+Whp>@
+8csm
+_^[]
+Y_^[
+Y_^[
+Y__^[
+                                                                                                                                 
+RegQueryValueExW
+RegOpenKeyW
+RegCloseKey
+ADVAPI32.dll
+GetLastError
+KERNEL32.dll
+tolower
+exit
+_XcptFilter
+__p__commode
+_amsg_exit
+__getmainargs
+__set_app_type
+_exit
+_cexit
+__p__fmode
+__setusermatherr
+_initterm
+msvcrt.dll
+?terminate@@YAXXZ
+_controlfp
+_except_handler4_common
+RtlCompareMemory
+ntdll.dll
+IsTextUnicode
+RegCreateKeyExW
+RegQueryInfoKeyW
+RegDeleteKeyW
+RegConnectRegistryW
+RegDeleteValueW
+RegSetKeySecurity
+RegOpenKeyExW
+RegEnumKeyExW
+RegSetValueExW
+Sleep
+SetUnhandledExceptionFilter
+GetModuleHandleA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+GetTickCount
+UnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+GetFileSize
+HeapAlloc
+HeapFree
+VirtualFree
+GetProcessHeap
+CopyFileW
+ReadFile
+CreateFileW
+MultiByteToWideChar
+SetLastError
+VirtualAlloc
+GetFileTime
+CloseHandle
+GetStdHandle
+GetConsoleScreenBufferInfo
+SetConsoleCtrlHandler
+__iob_func
+wcschr
+_wcsicmp
+memmove
+_wcsnicmp
+strcpy_s
+wcscpy_s
+_stricmp
+_isatty
+atoi
+_fileno
+vfprintf
+wcstoul
+iswctype
+_vsnwprintf
+NtFlushKey
+NtOpenKey
+NtUnloadKey
+RtlSetDaclSecurityDescriptor
+RtlInitUnicodeString
+NtLoadKey
+RtlFreeUnicodeString
+RtlNtStatusToDosError
+NtClose
+RtlAdjustPrivilege
+RtlFormatCurrentUserKeyPath
+RtlDosPathNameToNtPathName_U
+RtlCreateSecurityDescriptor
+RtlGetAce
+RtlSubAuthoritySid
+RtlLengthRequiredSid
+RtlAddAce
+RtlCreateAcl
+RtlFreeHeap
+RtlEqualSid
+RtlCopySid
+RtlAllocateHeap
+RtlGetDaclSecurityDescriptor
+RtlInitializeSid
+RtlLengthSid
+memset
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="x86"
+    name="Microsoft.Windows.RegIni"
+    type="win32"
+<description>Registry Initializer</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>
+0P0T0
+$?(?0?8?
+2 2o2
+3)4T4h4
+4B5]5m5
+6<6|6
+6(7;7V7h7
+7%8M8
+9T9c9
+:=:T:s:w:{:
+;-;6;\;
+=#=.=>=C=Q=V=d=i=w=
+>,>9>D>K>c>p>
+0!0-080K0\0
+0&1,171o1|1
+132u2|2
+3C3J3]3d3
+3s4{4
+5&565?5
+6 60696I6R6
+647A7N7\7u7
+8(8B8
+=*>5>e>~>
+1&1-1;1B1T1[1m1t1
+3/363Z3k3
+4#5G5
+6<7M7^7|7
+8a8g8
+9-949;9B9I9T9
+9!:6:>:F:Q:X:a:i:
+;';J;N;R;V;Z;^;b;f;j;n;r;v;
+<-<2<9<@<G<N<U<\<c<j<q<x<
+=:=A=H=O=V=\=b=s=
+>">'>->5>D>J>
+?3?9?I?O?_?e?{?
+0 0$0(0,000B0b0g0
+1"1+1/181=1C1Q1W1\1i1p1
+2)2H2Q2Z2r2
+3(3.383D3X3`3m3u3
+4.4<4F4V4]4
+505|5
+6-696F6N6_6j6o6
+76:@:I:R:[:d:n:{:
+; ;%;3;?;K;e;x;~;
+<+<<<B<H<Y<_<e<v<|<
+=.=4=G=M=`=f=y=
+>#>)>2>8>i>t>
+1/2F2\2u2
+3=3R3v3
+444X4d4j4w4
+5!5&5,51565;5@5F5N5[5u5
+6&6:6B6J6P6V6c6i6s6
+778l8
+9!9'9
+:(:1:F:[:h:p:
+:";';O;X;c;j;
+<,<<<B<M<S<_<o<x<
+>$>(>
+1$101<1`1h1p1x1
+2(242@2L2X2d2p2|2

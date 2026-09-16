@@ -1,0 +1,342 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+P@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+UVSH
+P[^]
+UWVSH
+\$ I
+h[^_]
+UVSH
+H;E w
+;E,v
+H;E v
+E(;E<|
+Eh;ED
++Ed;ED
+T$ I
+El;Ep},
+Eh;EDs
++Ed;Eh
+El;Ep
+E H;E
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+Usage: dbus-test-tool echo [OPTIONS]
+Respond to all method calls with an empty reply.
+Options:
+    --name=NAME   claim this well-known name first
+    --sleep=N     sleep N milliseconds before sending each reply
+    --session     use the session bus (default)
+    --system      use the system bus
+Usage: dbus-test-tool black-hole [OPTIONS]
+Receive method calls but do not reply.
+Options:
+    --name=NAME   claim this well-known name first
+    --no-read     don't read anything on the D-Bus socket
+    --session     use the session bus (default)
+    --system      use the system bus
+allocating reply
+sending reply
+Failed to connect to bus: %s: %s
+failed to take bus name %s
+adding message filter
+--system
+--session
+--name=
+--sleep-ms=
+--no-read
+Usage: dbus-test-tool spam [OPTIONS]
+Repeatedly call com.example.Spam() on the given D-Bus service.
+Options:
+    --session     use the session bus (default)
+    --system      use the system bus
+    --ignore-errors    ignore errors
+    --dest=NAME   call methods on NAME (default org.freedesktop.DBus)
+    --count=N     send N messages (default 1)
+    --queue=N     queue up N messages at a time (default 1)
+    --flood       send all messages immediately
+    --no-reply    set the NO_REPLY flag (implies --flood)
+    --messages-per-conn=N   after sending messages-per-conn, wait
+                  for the pending replies if any, then reconnect
+                  (default: don't reconnect)
+    --string      send payload as a string (default)
+    --bytes       send payload as a byte-array
+    --empty       send an empty payload
+    --payload=S   use S as payload (default "hello, world!")
+    --stdin       read payload from stdin, until EOF
+    --message-stdin   read a complete D-Bus message from stdin
+    --random-size read whitespace-separated ASCII decimal
+                  payload sizes from stdin and pick one randomly
+                  for each message
+    --seed=SEED   seed for srand (default is time())
+Failed to receive reply #%d: %s: %s
+reading payload from stdin
+org.freedesktop.DBus
+--system
+--session
+--count=
+--ignore-errors
+--dest=
+--payload=
+--stdin
+--message-stdin
+Unable to demarshal template message: %s: %s
+Template message must be a method call
+--random-size
+ %u %n
+allocating array of message lengths
+allocating maximum-sized payload
+--empty
+--string
+--bytes
+--flood
+--no-reply
+--queue=
+--seed=
+--messages-per-conn=
+hello, world!
+Failed to connect to bus: %s: %s
+copying message
+Spam
+com.example
+allocating message
+building message
+sending message
+setting pending call notifier
+Disconnected from bus
+OOM while %s
+black-hole
+echo
+spam
+Usage: dbus-test-tool SUBCOMMAND [OPTIONS]
+Known SUBCOMMANDs are:
+- %s
+For more information: dbus-test-tool SUBCOMMAND --help
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+_dbus_sleep_milliseconds
+dbus_bus_get
+dbus_bus_get_private
+dbus_bus_get_unique_name
+dbus_bus_request_name
+dbus_connection_add_filter
+dbus_connection_close
+dbus_connection_flush
+dbus_connection_read_write_dispatch
+dbus_connection_send
+dbus_connection_send_with_reply
+dbus_connection_unref
+dbus_error_free
+dbus_error_init
+dbus_free
+dbus_malloc
+dbus_malloc0
+dbus_message_append_args
+dbus_message_copy
+dbus_message_demarshal
+dbus_message_get_type
+dbus_message_new_method_call
+dbus_message_new_method_return
+dbus_message_set_no_reply
+dbus_message_unref
+dbus_pending_call_get_completed
+dbus_pending_call_set_notify
+dbus_pending_call_steal_reply
+dbus_pending_call_unref
+dbus_realloc
+dbus_set_error_from_message
+dbus_shutdown
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+_write
+abort
+atoi
+calloc
+exit
+fprintf
+fread
+free
+fwrite
+malloc
+memcpy
+memset
+puts
+rand
+signal
+srand
+sscanf
+strcmp
+strlen
+strncmp
+strstr
+strtoul
+vfprintf
+_time64
+libdbus-1-3.dll
+KERNEL32.dll
+msvcrt.dll

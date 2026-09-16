@@ -1,0 +1,674 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+!|T5
++&~B
++*~B
+,\~B
+,,~B
+.H(;
+.,(;
+P%{i
+P%{i
+,2	-	
+P%{i
+P%{i
+P%{i
+ `}i
+-.~[
+-*~[
+*	*A
+B*~[
+#&~[
+,Crq
+,q~[
+-=r]	
+*:~j
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+V=!&
+)}Ux
+Ambiguous option: /{0}
+6Error creating an app domain to perform the conversion
+GUnable to load the RemoteTlbExp type required to perform the conversion
+FThe following error occurred while saving the exported type library:
+"Unable to locate input file: '{0}'
+Internal Error.
+<Failed to load '{0}' because it is not a valid .NET assembly
+$An invalid option has been specified
+5The specified transformation option '{0}' is invalid.
+ No input file has been specified
+(The /{0} option does not require a value
+/Only one of /win32 and /win64 may be specified.
+&Output file would overwrite input file
+jThe following referenced assembly could not be located in any of the locations specified via /asmpath: {0}
+The reference for type library with simple name '{0}', TLBID {1} and version {2} is not in the list of referenced type libraries
+The type library for referenced assembly, '{0}', will not be exported since it would be overwritten by the output type library '{1}'.
+OType library for assembly '{0}' is not in the list of referenced type libraries
+5Error occurred while opening type library '{0}':
+RType library '{0}' is a duplicate of another type library loaded via /tlbreference
+OThe following exceptions were thrown while loading the types in the assembly:
+Unknown option: /{0}
+ The /{0} option requires a value
+`Referenced assembly '{0}' has been resolved to type library '{1}' with TLBID {2} and version {3}
+Assembly exported to '{0}'
+Auto exporting '{0}' to '{1}'.
+Microsoft (R) .NET Framework Assembly to Type Library Converter {0}
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Exception[{0}] = {1}
+Exception[{0}] ==>> {1}
+While resolving the reference for type library '{0}', the following non type library file with a matching simple name was skipped '{1}'.
+]Assembly reference '{0}' has been resolved to assembly '{1}' with the following codebase: {2}
+While resolving the reference for type library '{0}', the following type library with a matching simple name was skipped '{1}' since it's TLBID or version number didn't match. The referenced type library had a TLBID of {2} and a version of {3} while the one that was found had a TLBID of {4} and a version of {5}.
+`Referenced type library with simple name '{0}', TLBID {1} and version {2} was resolved to: '{3}'
+BAttempting to resolve referenced assembly '{0}' to a type library.
+EAttempting to resolve referenced type library with simple name '{0}'.
+-Resolved referenced file '{0}' to file '{1}'.
+8Unexpected reference to CustomMarshallers.dll requested!
+/Syntax: TlbExp AssemblyName [Options]
+Options:
+H    /out:FileName               File name of type library to be produced
+G    /tlbreference:TypeLibrary   Type library used to resolve references
+N    /tlbrefpath:Path            Path used to resolve referenced type libraries
+A    /asmpath:Directory          Look for assembly references here
+<    /win32                      Create a 32-bit type library
+<    /win64                      Create a 64-bit type library
+F    /oldnames                   Do not ignore COM invisible types when
+<                                decorating names (old-rules)
+D    /nologo                     Prevents TlbExp from displaying logo
+G    /silent                     Suppresses all output except for errors
+:    /verbose                    Displays extra information
+G    /names:FileName             A file in which each line specifies the
+M                                capitalization of a name in the type library.
+:    /? or /help                 Display this usage message
+aType library is being exported for assembly '{0}' which already contains an embedded type library
+When cross-compiling, all type library references should be included on the command line to ensure the correct bit-specific type libraries are loaded.
+Performing cross-compile of 32-bit non-agnostic assembly to 64-bit type library or 64-bit non-agnostic assembly to 32-bit type library.  This is dangerous as pointer sizes and processor dependence will likely cause incompatibility between the assembly and resultant type library.
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+h	@	
+	/$Q
+q	$$E
+y	)$E
+	>$G
+	F$I
+	K$I
+	Q$J
+	U$J
+'*'>'L'c'
+<Module>
+TlbExp.exe
+FX20Assembly
+FX35Assembly
+FXAssembly
+ThisAssembly
+AssemblyRef
+Resource
+TlbExp
+Option
+Abbrevs
+CommandLine
+RemoteTlbExp
+TlbExpCode
+REGKIND
+TlbKey
+RefTlbInfo
+ITypeLibResolver
+RefTlbResolver
+AssemblyResolver
+ICreateITypeLib
+ExporterCallback
+TlbExpOptions
+Output
+FormattedOutput
+mscorlib
+System
+Object
+MarshalByRefObject
+Enum
+System.Runtime.InteropServices
+ITypeLibExporterNotifySink
+ITypeLibExporterNameProvider
+Version
+Title
+Description
+DefaultAlias
+Copyright
+InformationalVersion
+DailyBuildNumber
+EcmaPublicKey
+EcmaPublicKeyToken
+EcmaPublicKeyFull
+Mscorlib
+SystemData
+SystemDataOracleClient
+SystemRuntimeRemoting
+SystemWindowsForms
+SystemXml
+MicrosoftPublicKey
+MicrosoftPublicKeyToken
+MicrosoftPublicKeyFull
+SharedLibPublicKey
+SharedLibPublicKeyToken
+SharedLibPublicKeyFull
+SystemComponentModelDataAnnotations
+SystemConfiguration
+SystemConfigurationInstall
+SystemDeployment
+SystemDesign
+SystemDirectoryServices
+SystemDrawingDesign
+SystemDrawing
+SystemEnterpriseServices
+SystemManagement
+SystemMessaging
+SystemRuntimeSerializationFormattersSoap
+SystemSecurity
+SystemServiceProcess
+SystemWeb
+SystemWebAbstractions
+SystemWebDynamicData
+SystemWebDynamicDataDesign
+SystemWebEntityDesign
+SystemWebExtensions
+SystemWebExtensionsDesign
+SystemWebMobile
+SystemWebRegularExpressions
+SystemWebRouting
+SystemWebServices
+MicrosoftVisualStudio
+MicrosoftVisualStudioWindowsForms
+VJSharpCodeProvider
+ASPBrowserCapsPublicKey
+ASPBrowserCapsFactory
+MicrosoftVSDesigner
+MicrosoftVisualStudioWeb
+MicrosoftWebDesign
+MicrosoftVSDesignerMobile
+MicrosoftJScript
+System.Resources
+ResourceManager
+_resmgr
+InitResourceManager
+GetString
+GetStringIfExists
+FormatString
+.ctor
+SuccessReturnCode
+ErrorReturnCode
+MAX_PATH
+Main
+SetConsoleUI
+GetFullPath
+GetAbsolutePath
+ParseArguments
+PrintLogo
+PrintUsage
+System.Text
+StringBuilder
+SearchPath
+SetEnvironmentVariable
+s_Options
+m_strName
+m_strValue
+get_Name
+get_Value
+Name
+Value
+m_aOptions
+m_bRequiresValue
+m_bCanHaveValue
+Lookup
+m_aArgList
+m_aOptList
+m_iArgCursor
+m_iOptCursor
+m_sValidOptions
+get_NumArgs
+get_NumOpts
+GetNextArg
+GetNextOption
+NumArgs
+NumOpts
+TypeLibExporterFlags
+value__
+REGKIND_DEFAULT
+REGKIND_REGISTER
+REGKIND_NONE
+REGKIND_LOAD_TLB_AS_32BIT
+REGKIND_LOAD_TLB_AS_64BIT
+Guid
+Equals
+GetHashCode
+get_TlbID
+get_MajorVersion
+get_MinorVersion
+tlbid
+majorVersion
+minorVersion
+TlbID
+MajorVersion
+MinorVersion
+get_FullTlbName
+System.Runtime.InteropServices.ComTypes
+ITypeLib
+get_Tlb
+set_Tlb
+tlbFullName
+FullTlbName
+System.Reflection
+Assembly
+DoExport
+RegKindFromOptionFlags
+LoadEmbeddedTlb
+SetUpRefTlbInfo
+GetRefTlbInfo
+LoadRefTlb
+IsCrossCompile
+IsPureCrossCompile
+ExportAs64Bit
+ExportAs32Bit
+Exception
+ThrowAppException
+LoadTypeLibEx
+LoadTypeLibWithResolver
+GetTypeLibInfo
+System.Collections
+Hashtable
+s_TypeLibraries
+s_Resolver
+ResolveTypeLib
+m_lstPaths
+ResolveEventArgs
+ResolveAssembly
+CreateTypeInfo
+SetName
+SetVersion
+SetGuid
+SetDocString
+SetHelpFileName
+SetHelpContext
+SetLcid
+SetLibFlags
+SaveAllChanges
+ExporterEventKind
+ReportEvent
+ResolveRef
+GetNames
+m_strAssemblyName
+m_strTypeLibName
+m_strOutputDir
+m_strNamesFileName
+m_strTlbRefs
+m_strTlbRefPaths
+m_strAsmPath
+m_bNoLogo
+m_bSilentMode
+m_bVerboseMode
+m_flags
+WriteError
+WriteWarning
+WriteInfo
+SetSilent
+s_bSilent
+aArgs
+FileName
+relPath
+Options
+ReturnCode
+path
+fileName
+extension
+numBufferChars
+buffer
+filePart
+szName
+szValue
+strName
+strValue
+aOptions
+strOpt
+bRequiresValue
+OutAttribute
+bCanHaveValue
+aValidOpts
+strAssemblyName
+strTypeLibName
+strOutputDir
+strNamesFileName
+strTlbRefs
+strTlbRefPaths
+strAsmPath
+bNoLogo
+bSilentMode
+bVerboseMode
+flags
+value
+options
+strFileName
+tlbName
+strPrefix
+regKind
+typelib
+resolver
+pTypeLibID
+pTypeLibLCID
+pTypeLibPlatform
+pTypeLibMajorVer
+pTypeLibMinorVer
+bstrSimpleName
+lcid
+wMajorVersion
+wMinorVersion
+syskind
+asmpaths
+sender
+args
+EventKind
+EventCode
+EventMsg
+message
+errorNumber
+line
+column
+warningNumber
+silent
+ComVisibleAttribute
+CLSCompliantAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+Type
+RuntimeTypeHandle
+GetTypeFromHandle
+GetAssembly
+String
+Concat
+ApplicationException
+System.Globalization
+CultureInfo
+Format
+System.IO
+FileInfo
+FileSystemInfo
+get_FullName
+get_InvariantCulture
+Compare
+Path
+GetDirectoryName
+Directory
+Exists
+DirectoryInfo
+CreateDirectory
+Environment
+get_CurrentDirectory
+get_Length
+set_CurrentDirectory
+AppDomainSetup
+set_ApplicationBase
+AppDomain
+System.Security.Policy
+Evidence
+CreateDomain
+get_Assembly
+AssemblyName
+GetName
+get_CodeBase
+System.Runtime.Remoting
+ObjectHandle
+CreateInstanceFrom
+Unwrap
+Unload
+get_Message
+GetType
+ToString
+System.Threading
+Thread
+get_CurrentThread
+get_CurrentUICulture
+GetConsoleFallbackUICulture
+set_CurrentUICulture
+OperatingSystem
+get_OSVersion
+PlatformID
+get_Platform
+Console
+Encoding
+get_OutputEncoding
+get_CodePage
+TextInfo
+get_TextInfo
+get_OEMCodePage
+get_ANSICodePage
+File
+get_Capacity
+Char
+Split
+Int32
+DllImportAttribute
+kernel32.dll
+.cctor
+Boolean
+ToLower
+StartsWith
+Substring
+IndexOfAny
+Array
+Copy
+op_Equality
+ReflectionOnlyLoadFrom
+Combine
+TypeLibConverter
+ITypeLibConverter
+ConvertAssemblyToTypeLib
+ExternalException
+get_ErrorCode
+COMException
+ArgumentException
+get_Item
+set_Item
+ToUpper
+UInt16
+Module
+get_ManifestModule
+PortableExecutableKinds
+ImageFileMachine
+GetPEKind
+oleaut32.dll
+tlbref.dll
+GuidAttribute
+InterfaceTypeAttribute
+ComInterfaceType
+ComImportAttribute
+get_CurrentDomain
+ResolveEventHandler
+add_ReflectionOnlyAssemblyResolve
+ApplyPolicy
+ReflectionOnlyLoad
+StringComparison
+Debugger
+Break
+get_Location
+FileNotFoundException
+Marshal
+GetTypeLibVersionForAssembly
+GetTypeLibGuidForAssembly
+get_Version
+get_Major
+get_Minor
+ArrayList
+FileStream
+FileMode
+FileAccess
+StreamReader
+Stream
+get_BaseStream
+SeekOrigin
+Seek
+IndexOf
+Trim
+TextReader
+ReadLine
+Close
+get_Count
+ToArray
+TextWriter
+get_Error
+WriteLine
+TlbExp.resources
+C~Y8
+RSA1
+(]b,
+=t]o-
+$8F026EDB-785E-4470-A8E1-B4E84E9D1779
+$00020406-0000-0000-C000-000000000046
+TlbExp.exe
+Microsoft Corporation
+Microsoft
+ .NET Framework
+ Microsoft Corporation.  All rights reserved.
+3.5.30729.1
+3.5.0.0
+en-US
+%f:\dd\Tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS
+TlbExp.pdb
+_CorExeMain
+mscoree.dll
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>
+Z0X03
+>0!0	
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+uM\F
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+jT;1_
+zw9gj
+s2r6
+$ROfH
+&9iPN
+t8JO0
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190115Z
+130725191115Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:85D3-305C-5BCF1%0#
+Microsoft Time-Stamp Service0
+.5kE
+bMF/
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+>gbT
+`G#{'
+"hFL
+Os	=
+z?*[FS	<
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1200
+http://microsoft.com0
+YoP`
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100319175005Z0#
+oZ%fhv.E

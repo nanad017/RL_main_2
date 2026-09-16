@@ -11,6 +11,7 @@ from stable_baselines3 import PPO
 import argparse
 
 import proposed
+from proposed.paths import RUNTIME_DIR
 
 
 def evaluate_model(agent_path, env_name, num_episodes, outdir, seed=0):
@@ -67,9 +68,14 @@ def get_registered_env_sample_count(env_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--target", choices=["AV1", "custom"], default="custom")
+    parser.add_argument("--target", choices=["custom"], default="custom")
     parser.add_argument("--seed", type=int, default=0)
-    parser.add_argument("--agent", type=str, default="saved_models/ppo-only-sorelFFNN-train-v0-26871.zip")
+    parser.add_argument(
+        "--agent",
+        type=str,
+        required=True,
+        help="Path to a PPO checkpoint trained against the custom detector.",
+    )
     parser.add_argument(
         "--num-episodes",
         type=int,
@@ -80,10 +86,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     target = args.target
     seed = args.seed
-    agent = args.agent
+    agent = os.path.expanduser(args.agent)
+    if not os.path.isfile(agent):
+        parser.error(f"Checkpoint not found: {agent}")
     random.seed(seed)
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    outdir = os.path.join(project_root, "runtime", "logs", "ppo-agent-results")
+    outdir = str(RUNTIME_DIR / "logs" / "ppo-agent-results")
 
     test_env = f"{target}-test-v0"
     num_episodes = args.num_episodes

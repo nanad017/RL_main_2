@@ -1,0 +1,449 @@
+!This program cannot be run in DOS mode.
+SksY
+.text
+`.rsrc
+@.reloc
+*BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+Microsoft.Mashup.Container.exe
+Constants
+Microsoft.Mashup.Container
+EvaluationContainerMain
+ExceptionHandler
+WindowsErrorReporting
+WindowsErrorReportingFlags
+NativeMethods
+AssemblyRef
+ReleaseInfo
+mscorlib
+System
+Object
+Microsoft.MashupEngine
+Microsoft.Mashup.Evaluator.Interface
+IExceptionHandler2
+Enum
+FileDescription
+Nullable`1
+containerID
+Main
+SafeRun
+WaitForParentExitThread
+.ctor
+containerMain
+Exception
+TryHandleException
+DisableCrashDialog
+value__
+None
+NoHead
+Queue
+DisableThreadSuspension
+QueueUpload
+AlwaysShowUi
+ReportingNoUi
+WerSetFlags
+ProductPublicKey
+TestPublicKey
+System.Globalization
+CultureInfo
+GetMonthYear
+args
+state
+exception
+dwFlags
+culture
+System.Reflection
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyCompanyAttribute
+AssemblyCopyrightAttribute
+AssemblyTrademarkAttribute
+AssemblyProductAttribute
+AssemblyCultureAttribute
+System.Resources
+NeutralResourcesLanguageAttribute
+AssemblyTitleAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+STAThreadAttribute
+Microsoft.Mashup.Evaluator
+SafeThread2
+AddExceptionHandler
+System.Threading
+ParameterizedThreadStart
+CreateThreadStart
+Invoke
+Microsoft.Mashup.Tracing
+TracingService
+Instance
+EvaluatorTracing
+Microsoft.Mashup.Engine.Interface.Tracing
+ITracingService
+Service
+String
+CompareOrdinal
+Debugger
+Launch
+get_HasValue
+get_InvariantCulture
+Int32
+IFormatProvider
+Parse
+InvalidOperationException
+System.Core
+System.IO.Pipes
+AnonymousPipeClientStream
+PipeDirection
+ClientPipesAttachedEvent
+Thread
+set_IsBackground
+Start
+get_Value
+EvaluationHost
+System.IO
+Stream
+Mutex
+OpenExisting
+Trace
+Flush
+WaitHandle
+WaitOne
+ReleaseMutex
+Close
+Environment
+Exit
+OutOfMemoryException
+System.Runtime.InteropServices
+ErrorWrapper
+get_ErrorCode
+IHostTrace
+Microsoft.Mashup.Engine.Interface
+IEngineHost
+TraceEventType
+CreateTrace
+IDisposable
+Dispose
+Microsoft.Mashup.Common
+WindowsVersion
+Version
+Windows8
+IsAtLeast
+FlagsAttribute
+DllImportAttribute
+kernel32.dll
+DateTime
+ParseExact
+ToString
+RSA1
+`!g-
+2.48.4792.941
+2.48.4792.941 (PQ-CY17SU07)
+Microsoft Corporation
+ Microsoft Corporation. All rights reserved.
+Microsoft and Windows are either registered trademarks or trademarks of Microsoft Corporation in the U.S. and/or other countries.
+Microsoft
+ Mashup Runtime
+en-US
+%Microsoft Mashup Evaluation Container
+WrapNonExceptionThrows
+SksY
+RSDS5
+f:\_Bld\14032\10631\Sources\obj\Win32\Release\EvaluationContainer.csproj\Microsoft.Mashup.Container.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+160907175853Z
+180907175853Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:F528-3777-8A761%0#
+Microsoft Time-Stamp Service0
+\~$C
+*/O'
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+nCeN
+=.Ep)u
+u2R$
+'	4@7
+/(`7
+7[2ho
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+160818201717Z
+171102201717Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+@527
+}Bv8"
+9_&A
+G0E1
+MOPR1402
++229803+f785b1c0-5d9f-4316-8d6a-74ae642dde1c0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+=zYud
+$2(>
+CIOy
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1T0R
+http://www.microsoft.com0
+?e0c
+tau/`K
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+170722153607Z0#
+iv{2
+p#((
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+161117220921Z
+180217220921Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+jg40
+U\wB
+G0E1
+MOPR1402
++230012+b050c6e7-7641-441f-bc4a-43481e415d080
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+&}	V
+Q^|3
+F-W)X
+~8v^
+.3j)/
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1T0R
+http://www.microsoft.com0
+hqn<
+zYAO
+/tI5
+20170722153610.895Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+160907175649Z
+180907175649Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+:9	'VI^
+O[mm
+u,X)p
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+NfXQ
+e%a!
+]4UR
+$,FKB
+sDP+
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:57F6-C1E0-554C1+0)
+"Microsoft Time Source Master Clock0
+20170722113521Z
+20170723113521Z0t0:
+1,0*0
+1(0&0
+%t"5
+G[0L
+?b~!Q
+7A4*
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+MMim
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+@4cV]
+-)Rz
+l[t}
+vq"8
+eX	3
+eOpN

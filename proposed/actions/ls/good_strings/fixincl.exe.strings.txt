@@ -1,0 +1,2520 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+\$PI
+T$ H
+D$&f%
+\$`L
+[^_]
+\$ I
+WVSH
+T$0H
+`[^_
+`[^_
+\$ I
+\$ I
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+UWVSH
+9.u3
+8[^_]
+l$ I
+AWAVAUATUWVSH
+D$XH
+D$HH
+D$PH
+D$pH
+D$hH
+D$PH
+D$HH
+D$PH
+D$PH
+D$HH
+|$`H
+|$PH
+D$HH
+L$`H
+L$XH
+D$HH
+T$@L
+|$`L
+D$XH
+|$0H
+|$(I
+D$XH
+D$H8H
+|$HH9
+D$pH
+[^_]A\A]A^A_
+L$XH
+L$`H
+L==H
+/../fixiH
+T$hL
+ncludes/
+.exeH
+applyfix
+D$HH
+D$`H
+D$(H
+D$XI
+/../fixi
+.exeH
+ncludes/
+applyfixH
+D$HH
+\$ I
+|$ I
+HcD$pI
+>"toM
+ATUWVSH
+D$(I
+0[^_]A\
+0[^_]A\
+UWVSH
+[^_]
+l$0A
+l$(H
+\$ I
+UWVSH
+8[^_]
+D$ A
+|$ H
+8[^_]
+ATUWVSH
+'\''
+ [^_]A\
+ [^_]A\
+WVSH
+L$0H
+T$8H
+u.Hct$DH
+\u*H
+P[^_
+HcL$DH
+WVSH
+ [^_H
+WVSH
+0[^_
+0[^_
+L$(D
+WVSH
+t$(H
+L$(H
+L$(D
+D$(w
+0[^_
+ATUWVSH
+d$(H
+L$(H9
+L$(H
+T$(H
+0[^_]A\
+0[^_]A\
+T$(H
+UAWAVAUATWVSH
+T$ L
+F0M9
+[^_A\A]A^A_]
+UAWAVAUATWVSH
+t$ Lc
+u2L9
+uxI9
+EEhH
+H;Ux
+H;ExA
+H9Ex
+L;]x
+L;]x
+H9Ex
+L;]x
+L;]x
+H;Ex
+L;Ex
+H9Ex
+L;]x
+u2L9
+L;]x
+u2L9
+L;]x
+L;]x
+H9Ux
+H+U H
+uhH9
+[^_A\A]A^A_]
+L+M 
+H+E M
+MhH9
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+D$ H
+M(L)
+L$ I
+U`w1D
+AWAVAUATUWVSH
+L$HE
+T$PH
+L$PE)
+h[^_]A\A]A^A_
+L$HE
+\$(H
+D$8H
+H+L$XE1
+L$HM
+T$PHc
+L$PM
+T$HD)
+AWAVAUATUWVSH
+D$p 
+D$XM
+t$HH9L$H
+|$8H
+[^_]A\A]A^A_
+t$HH9
+D$8H
+<*tN<^tJ
+<\t*
+T$HL
+L$81
+H9D$H
+H9D$H
+H9D$HtV
+H9D$H
+t$p9t$P
+D$PH
+t$@L
+9L$T
+x7Hc
+\$@H
+t$8H
+t$@E1
+D$PH
+d$THcB
+D$PH
+D$pH
+D$`H
+D$hu
+D$hH
+	w+A
+H;T$H
+t$8L
+H;D$H
+t$8H
+t$`H
+t$`L
+l$8H
+l$HL
+.u	E
+|$hH
+D$`L
+\$(I
+\$(M
+t$tH
+|$xH
+D$HH9
+L$`t!H
+D$(D
+D$@D
+L$(I
+D$ 1
+D$pD
+D$8D
+L$(I
+D$ 1
+D$@H
+D$ E1
+AVAUATUWVSH
+ [^_]A\A]A^
+AUATUWVSH
+|$PH
+D$pH
+D$xH
+L$pE1
+l$@D
+l$0H
+D$`H
+l$ I
+L$Xx(L
+D$`1
+L$pD
+l$@H
+D$pH
+l$ H
+D$xH
+[^_]A\A]
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+|$-D
+L$/H
+<\u	E
+u6<-D
+ty:T=
+~9<]u
+8[^_]A\A]A^A_
+]tEA
+\u	E
+?u=D
+WVSH
+|$ I
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+ATUWVSH
+T$ H
+D$$f
+D$&f
+D$(f
+D$*f
+D$,f
+D$@H
+D$HH
+D$PH
+`[^_]A\
+<\t!</t
+T$ L
+WVSH
+<.ur
+tpH9
+W@tpH
+%s/%s/
+fixinc/tests/inc
+%s/%s
+Error %d (%s) creating %s
+Fixed:  %s
+error %d (%s) stat-ing %s
+error %d (%s) opening %s for read
+quoted include
+run_compiles
+select test
+Error %d (%s) reopening %s as stdin
+fixincl ERROR:  too many command line arguments
+fixinc verbosity:  EVERYTHING
+fxinc
+Cannot access %s from %s
+	error %d (%s)
+%6lu %-50s   
+Applying %-24s to %s
+ %ld '%s' '%s' '%s'
+error %d (%s) opening output (%s) for read
+Quoted includes in %s
+%s  %s/
+  %s/%s/
+/dev/null
+No file names listed for fixing
+ %s > %sX ; rm -f %s; mv -f %sX %s
+echo '%s'
+format
+#ifndef __STDC__
+#endif /* !defined __STDC__ */
+^extern char \*	sprintf\(\);$
+X11/Xmu.h
+X11/Xmu/Xmu.h
+x11_sprintf
+/Widget	old, new;/i\
+#ifdef __cplusplus\
+\	Widget	old, c_new;\
+#else
+/Widget	old, new;/a\
+#endif
+s/Widget new,/Widget c_new,/g
+__cplusplus
+Xm/Traversal.h
+x11_new
+ c_class)
+__cplusplus
+ class\)
+Xm/BaseClassI.h
+x11_class_usage
+#ifdef __cplusplus
+%1c_class;%2
+#else
+%1class;%2
+#endif
+__cplusplus
+^([ 	]*char \*)class;(.*)
+X11/ShellP.h
+x11_class
+extern int  write (int, const char*, size_t);
+extern[	 ]+int[	 ]+write[	 ]*\([	 ]*int[	 ]*,[	 ]*char[	 ]*\*[	 ]*,[	 ]*size_t[	 ]*\)[	 ]*;
+*-*-vxworks*
+ioLib.h
+vxworks_write_const
+#ifndef __gcc_VOIDFUNCPTR_defined
+#ifdef __cplusplus
+typedef void (*__gcc_VOIDFUNCPTR) (...);
+#else
+typedef void (*__gcc_VOIDFUNCPTR) ();
+#endif
+#define __gcc_VOIDFUNCPTR_defined
+#endif
+#define VOIDFUNCPTR __gcc_VOIDFUNCPTR
+ -r vxWorks.h
+#[ 	]*define[ 	]+VOIDFUNCPTR[ 	].*
+time.h
+vxworks_time
+#include <arch/../regs.h>
+#[	 ]*include[	 ]+[<"]regs.h[>"]
+vxworks_regs
+/#[ 	]define[ 	][ 	]*__INCstath/a\
+#include <types/vxTypesOld.h>
+ -n "`egrep ULONG $file`"
+ -n "`egrep '#include' $file`"
+ -r types/vxTypesOld.h
+#[ 	]define[ 	]+__INCstath
+sys/stat.h
+vxworks_needs_vxworks
+unsigned int%1
+uint_t([ 	]+_clocks_per_sec)
+time.h
+vxworks_needs_vxtypes
+#define mkdir(dir, ...) ((void)0, ##__VA_ARGS__, (mkdir)(dir))
+extern[	 ]+STATUS[	 ]+mkdir[	 ]*\([	 ]*const[	 ]+char[	 ]*\*[	 ]*(|[_[:alpha:]][_[:alnum:]]*)\)[	 ]*;
+sys/stat.h
+vxworks_mkdir_macro
+#define ioctl(fd, func, arg) (ioctl)(fd, func, (int)(arg))
+extern[	 ]+int[	 ]+ioctl[	 ]*\([	 ,[:alnum:]]*\);
+ioLib.h
+vxworks_ioctl_macro
+s/#ifdef __GNUC_TYPEOF_FEATURE_BROKEN_USE_DEFAULT_UNTIL_FIXED__/#if 1/
+/[ 	]size_t/i\
+#ifndef _GCC_SIZE_T\
+#define _GCC_SIZE_T
+/[ 	]size_t/a\
+#endif
+/[ 	]ptrdiff_t/i\
+#ifndef _GCC_PTRDIFF_T\
+#define _GCC_PTRDIFF_T
+/[ 	]ptrdiff_t/a\
+#endif
+/[ 	]wchar_t/i\
+#ifndef _GCC_WCHAR_T\
+#define _GCC_WCHAR_T
+/[ 	]wchar_t/a\
+#endif
+__GNUC_TYPEOF_FEATURE_BROKEN_USE_DEFAULT_UNTIL_FIXED__
+types/vxTypesBase.h
+vxworks_gcc_problem
+#ifndef NULL
+#ifdef __cplusplus
+#ifdef __GNUG__
+#define NULL __null
+#else /* ! __GNUG__  */
+#define NULL 0L
+#endif /* __GNUG__  */
+#else /* ! __cplusplus  */
+#define NULL ((void *)0)
+#endif /* __cplusplus  */
+#endif /* !NULL  */
+__null
+__cplusplus
+^#[ 	]*define[ 	]+NULL[ 	]+\(\(void[ 	]*\*\)0\)
+curses.h
+dbm.h
+locale.h
+stdio.h
+stdlib.h
+string.h
+time.h
+unistd.h
+sys/dir.h
+sys/param.h
+sys/types.h
+void_null
+%1<sys/%2.h>
+(#[ 	]*include[ 	]+)<(resource|builtins)\.h>
+*-*-*vms*
+rtldef/wait.h
+starlet_c/pthread.h
+vms_use_quoted_include
+#if defined(__DECC) || defined(__DECCXX) || defined(__GNUC__)
+# pragma extern_model __save
+#if defined\(__DECC\) \|\| defined\(__DECCXX\)
+# pragma extern_model __save
+vms_use_pragma_extern_model
+%0 defined (__GNUC__) ||
+(#[ 	]*if[ 	]*defined\(__FAST_SETJMP\)[ 	]*\|\|)
+rtldef/setjmp.h
+vms_use_fast_setjmp
+#if __INITIAL_POINTER_SIZE != 64 /* getopt is short ptr only.  */
+%0#endif
+^[ 	]*(extern[ 	]*)?(int[ 	]*(getopt|optind|opterr|optopt)|(char \*optarg))([ 	]*\(.*\))?;
+rtldef/stdio.h
+rtldef/unistd.h
+vms_no_64bit_getopt
+%1#if defined (__cplusplus) || defined (__GNUC__)
+(/\* forward decls for C\+\+ \*/
+)#ifdef __cplusplus
+rtldef/if.h
+vms_forward_declare_struct
+/* %2 */
+(void[ 	]+fp_nquery \(const u_char \*, int, FILE \*\);)
+(__char_ptr32[ 	]+hostalias \(const char \*\);)
+rtldef/resolv.h
+vms_do_not_redeclare_hostalias
+#if !defined(__VAX) && !defined(__GNUC__)
+#if !defined\(__VAX\)
+rtldef/string.h
+vms_disable_decc_string_builtins
+%0#    elif defined (__GNUC__)
+#	define __CAN_USE_EXTERN_PREFIX 1
+#[ 	]*else
+#[ 	]*if defined\(__DECCXX\)
+#[ 	]*define __CAN_USE_EXTERN_PREFIX 1
+rtldef/decc$types.h
+vms_define_can_use_extern_prefix
+s@__MEMSET@memset@
+s@__MEMMOVE@memmove@
+s@__MEMCPY@memcpy@
+s@__STRLEN@strlen@
+s@__STRCPY@strcpy@
+(__MEMSET|__MEMMOVE|__MEMCPY|__STRLEN|__STRCPY)
+rtldef/string.h
+rtldef/time.h
+rtldef/strings.h
+rtldef/socket.h
+vms_decc_builtin
+%1 {%2} 
+(_SIG_[A-Z]+_SET[ 	]+= \{)(0x[0F]+, 0x[0F]+)
+rtldef/signal.h
+vms_add_missing_braces
+__vx%1
+__(vsiz|vali|vpad|alignof__)
+arch/i960/archI960.h
+va_i960_macro
+%1( const char *%3, const char *
+([ 	*](fopen|sscanf|popen|tempnam))\([ 	]*char[ 	]*\*([^,]*),[ 	]*char[ 	]*\*[ 	]*
+\*fopen\( char \*
+stdio.h
+ultrix_const2
+%1 const %3 *__
+([ 	*](perror|fputs|fwrite|scanf|fscanf)\(.*)[ 	]+(char|void) \*__
+perror\( char \*
+stdio.h
+ultrix_const
+ __cplusplus
+[ 	]_cplusplus
+tinfo.h
+tinfo_cplusplus
+%1__thr%2
+([* ])__thread([,)])
+pthread.h
+bits/sigthread.h
+*/bits/sigthread.h
+thread_keyword
+void *	%1(
+_CLASSIC_ANSI_TYPES
+char[ 	]*\*[ 	]*(calloc|malloc|realloc|bsearch)[ 	]*\(
+stdlib.h
+sysz_stdlib_for_sun
+s/extern[ 	]*int[ 	]*strlen();/extern unsigned int strlen();/
+s/extern[ 	]*int[ 	]*ffs[ 	]*(long);/extern int ffs(int);/
+s/strdup(char \*s1);/strdup(const char *s1);/
+/^extern char$/N
+s/^extern char\(\n	\*memccpy(),\)$/extern void\1/
+/^extern int$/N
+s/^extern int\(\n	strlen(),\)/extern size_t\1/
+/^	strncmp(),$/N
+s/^\(	strncmp()\),\n\(	strlen(),\)$/\1;\
+extern unsigned int\
+_CLASSIC_ANSI_TYPES
+testing.h
+string.h
+sysv68_string
+static int getrnge ();
+^static int[ 	]+size;
+static void getrnge
+getrnge
+regexp.h
+svr4_undeclared_getrnge
+void (*)(int)
+void *\(\*\)\(\)
+sys/signal.h
+svr4_sighandler_type
+profil(unsigned short *, size_t, int, unsigned int)
+profil\(unsigned short \*, unsigned int, unsigned int, unsigned int\)
+stdlib.h
+unistd.h
+svr4_profil
+getcwd(char *, size_t)
+getcwd\(char \*, int\)
+stdlib.h
+unistd.h
+prototypes.h
+svr4_getcwd
+/#define.*__std_hdr_/d
+#define.*__std_hdr_
+string.h
+svr4_disable_opt
+unsigned int newev;
+^[ 	]*unsigned int new;
+linux/vt.h
+suse_linux_vt_cxx
+__SIZE_TYPE__ strlen();%1
+int[ 	]*strlen\(\);(.*)
+strings.h
+sunos_strlen
+#ifdef __cplusplus
+void	(*signal(...))(...);
+#else
+#endif
+^void	\(\*signal\(\)\)\(\);.*
+sys/signal.h
+signal.h
+sun_signal
+/^struct/,/^};/s/_cnt$/_cnt;/
+_cnt$
+rpcsvc/rusers.h
+sun_rusers_semi
+s/typedef[ 	]char \*	malloc_t/typedef void \*	malloc_t/g
+s/int[ 	][ 	]*free/void	free/g
+s/char\([ 	]*\*[ 	]*malloc\)/void\1/g
+s/char\([ 	]*\*[ 	]*realloc\)/void\1/g
+s/char\([ 	]*\*[ 	]*calloc\)/void\1/g
+_CLASSIC_ANSI_TYPES
+malloc.h
+sun_malloc
+#ifdef __STDC__
+#  define CAT(a,b) a##b
+#else
+#endif
+^#define[ 	]+CAT\(a,b\).*
+pixrect/memvar.h
+sun_catmacro
+#if%1
+#ifdef(.*\|\|.*)
+hsfs/hsfs_spec.h
+hsfs/iso_spec.h
+sun_bogus_ifdef
+#ifdef __cplusplus
+%1(...);%2
+#else
+%1();%2
+#endif
+(.*\(\*[a-z][a-z_]*\))\(\);(.*)
+__cplusplus
+\(\*[a-z][a-z_]*\)\(\)
+rpc/auth.h
+rpc/clnt.h
+rpc/svc.h
+rpc/xdr.h
+sun_auth_proto
+struct sockaddr;
+struct sockaddr;
+<sys/socket.h>
+^.*authdes_create.*struct sockaddr[^_]
+rpc/auth.h
+struct_sockaddr
+struct __file_s;
+^.*xdrstdio_create.*struct __file_s
+rpc/xdr.h
+struct_file
+%1 defined(__STRICT_ANSI__)
+stdc_0_in_system_headers
+^([ 	]*#[ 	]*if.*)(__STDC__[ 	]*!=[ 	]*0|__STDC__[ 	]*==[ 	]*1|__STDC__[ 	]*-[ 	]*0[ 	]*==[ 	]*1|__STDC__[ 	]*-[ 	]*0[ 	]*!=[ 	]*0)
+strict_ansi_only
+%1 !defined(__STRICT_ANSI__)
+stdc_0_in_system_headers
+^([ 	]*(\(|&&|\|\|)([ 	(]*!*[ 	]*defined\([a-zA-Z_0-9]+\)[ 	]*[|&][|&])*[ 	(]*)(__STDC__[ 	]*(|-[ 	]*0[ 	]*)==[ 	]*0)
+math.h
+limits.h
+stdio.h
+signal.h
+stdlib.h
+sys/signal.h
+time.h
+strict_ansi_not_ctd
+stdc_0_in_system_headers
+__SCO_VERSION__.*__STDC__ != 1
+GNU and MIPS C compilers define __STDC__ differently
+^([ 	]*#[ 	]*if.*)(!__STDC__|__STDC__[ 	]*==[ 	]*0|__STDC__[ 	]*!=[ 	]*1|__STDC__[ 	]*-[ 	]*0[ 	]*==[ 	]*0)
+strict_ansi_not
+s@[ 	]va_list\([ 	)]\)@ __gnuc_va_list\1@
+s@(va_list)&@(__gnuc_va_list)\&@
+s@ _VA_LIST_));@ __gnuc_va_list));@
+s@ __VA_LIST__));@ __gnuc_va_list));@
+s@ va_list@ __not_va_list__@
+s@\*va_list@*__not_va_list__@
+s@ __va_list)@ __gnuc_va_list)@
+s@typedef[ 	]\(.*\)[ 	]va_list[ 	]*;@typedef \1 __not_va_list__;@
+s@typedef[ 	]*__va_list__@typedef __gnuc_va_list@
+s@GNUC_VA_LIST@GNUC_Va_LIST@
+s@_VA_LIST_DEFINED@_Va_LIST_DEFINED@
+s@_NEED___VA_LIST@_NEED___Va_LIST@
+s@VA_LIST@DUMMY_VA_LIST@
+s@_Va_LIST@_VA_LIST@
+include <stdarg\.h>|#ifdef va_start
+__gnuc_va_list|_BSD_VA_LIST_|__DJ_va_list|_G_va_list
+com_err.h
+cps.h
+curses.h
+krb5.h
+lc_core.h
+pfmt.h
+wchar.h
+curses_colr/curses.h
+stdio_va_list_clients
+__gnuc_va_list|_BSD_VA_LIST_|__DJ_va_list|_G_va_list
+*-*-solaris2.1[0-9]*
+stdio.h
+stdio_va_list
+wrap
+#define __need___va_list
+#include <stdarg.h>
+include.*(stdarg.h|machine/ansi.h)
+stdio.h
+stdio_stdarg_h
+boottime;
+boottime$
+rpcsvc/rstat.h
+statsswtch
+#ifdef __GNUC__
+typedef __builtin_va_list __va_list;
+#else
+#endif
+#if.*__STDC__.*
+typedef void \*__va_list;
+#else
+typedef char \*__va_list;
+#endif
+*-*-solaris2.9
+sys/va_list.h
+solaris_sys_va_list
+s/defined(__cplusplus) && (__cplusplus < 54321L)/0/
+__GNUC__
+__cplusplus < 54321L
+stdio_tag.h
+solaris_stdio_tag
+%1#ifndef _LP64
+using std::__filbuf;
+using std::__flsbuf;
+#endif
+using std::__filbuf
+(using std::perror;
+)(#endif)
+*-*-solaris2*
+stdio.h
+solaris_std___filbuf
+#if __STDC__ - 0 == 0 && !defined(_NO_LONGLONG)
+#else
+%1{0, 0, 0, {{0}, {0}, {0}}, {{0}, {0}}, {{0}, {0}}}
+#endif
+(^#define[ 	]+PTHREAD_RWLOCK_INITIALIZER[ 	]+)\{0, 0, 0, \{0, 0, 0\}, \{0, 0\}, \{0, 0\}\}[ 	]*$
+@\(#\)pthread.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+*-*-solaris*
+pthread.h
+solaris_rwlock_init_1
+#if __cplusplus < 201103L
+#endif
+^[ 	]*inline [a-z ]* pow\([^()]*, int [^()]*\) *\{[^{}]*
+[^{}]*\}
+iso/math_iso.h
+solaris_pow_int_overload
+%1*_RESTRICT_KYWD %2%3
+(.*[ 	]+)([a-z]+)\[_RESTRICT_KYWD\](.*)
+spawn.h
+solaris_posix_spawn_restrict
+#if __STDC__ - 0 == 0 && !defined(_NO_LONGLONG)
+#else
+%1{0}, {0}, {0}, {%3}%4
+#endif
+(^#define[ 	]+PTHREAD_ONCE_INIT[ 	]+\{\{)(0, 0, 0, )(PTHREAD_[A-Z_]+)(\}\})[ 	]*$
+@\(#\)pthread.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+*-*-solaris2.[0-9]
+*-*-solaris2.[0-9][!0-9]*
+pthread.h
+solaris_once_init_2
+%1{%2}%3
+(^#define[ 	]+PTHREAD_ONCE_INIT[ 	]+\{)([^}]+)(\})[ 	]*$
+@\(#\)pthread.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+pthread.h
+solaris_once_init_1
+#if __STDC__ - 0 == 0 && !defined(_NO_LONGLONG)
+#else
+%1, {0}}%4
+#endif
+(^#define[ 	]+PTHREAD_(MUTEX|COND)_INITIALIZER[ 	]+(|/*.**/[ 	]*\\
+[ 	]*)\{.*),[ 	]*0\}(|[ 	].*)$
+@\(#\)pthread.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+pthread.h
+solaris_mutex_init_2
+#define	%1(x, y)%2__builtin_%1(x, y)
+^#define[ 	]+([a-z]+)\(x, y\)([ 	]+)\(\(x\) __builtin_[a-z]+\(y\)\)
+__GNUC__
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_9
+#define	signbit(x)	(sizeof(x) == sizeof(float) \
+			   ? __builtin_signbitf(x) \
+			   : sizeof(x) == sizeof(long double) \
+			     ? __builtin_signbitl(x) \
+			     : __builtin_signbit(x))
+^#define[ 	]+signbit\(x\)[ 	]+__builtin_signbit\(x\)
+__GNUC__
+@\(#\)math_c99\.h[ 	]+1\.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_8
+#define	fpclassify(x) \
+  __builtin_fpclassify(FP_NAN, FP_INFINITE, FP_NORMAL, FP_SUBNORMAL, FP_ZERO, (x))
+^#define[ 	]+fpclassify\(x\)[ 	]+__builtin_fpclassify\(x\)
+__GNUC__
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_4
+#define	NAN		(__builtin_nanf(""))
+^#define[ 	]+NAN[ 	]+__builtin_nan
+__GNUC__
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_3
+#define	INFINITY	(__builtin_inff())
+^#define[ 	]+INFINITY[ 	]+__builtin_infinity
+__GNUC__
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_2
+#define	isinf(x) __builtin_isinf(x)
+^#define[ 	]+isinf\(x\)[ 	]+__extension__\([ 	]*\\
+[ 	]*\{[ 	]*__typeof\(x\)[ 	]*__x_i[ 	]*=[ 	]*\(x\);[ 	]*\\
+[ 	]*__x_i[ 	]*==[ 	]*\(__typeof\(__x_i\)\)[ 	]*INFINITY[ 	]*\|\|[ 	]*\\
+[ 	]*__x_i[ 	]*==[ 	]*\(__typeof\(__x_i\)\)[ 	]*\(-INFINITY\);[ 	]*\}\)
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_10
+#define	HUGE_VA%1	(__builtin_huge_va%2())
+^#define[ 	]+HUGE_VA([LF]+)[ 	]+__builtin_huge_va([lf]+)
+__GNUC__
+@\(#\)math_c99.h[ 	]+1.[0-9]+[ 	]+[0-9/]+ SMI
+iso/math_c99.h
+solaris_math_1
+%1 __attribute__ ((__noreturn__));
+__NORETURN
+(.*longjmp\(jmp_buf.*[^)]+\));
+iso/setjmp_iso.h
+solaris_longjmp_noreturn
+(defined(_STDC_C99) || !defined(_STRICT_STDC) || defined(__GNUC__))
+_LONGLONG_TYPE
+__STDC__ - 0 == 0
+sys/int_types.h
+solaris_int_types
+#define	SIZE_MAX	4294967295U
+^#define[ 	]+SIZE_MAX[ 	]+4294967295UL
+sys/int_limits.h
+solaris_int_limits_3
+#define	%1_FAST16_%2 %132_%2
+^#define[ 	]+(INT|UINT)_FAST16_(MAX|MIN)[ 	](INT|UINT)16.*
+sys/int_limits.h
+solaris_int_limits_2
+#define	UINT8_MAX	(255)
+#define	UINT16_MAX	(65535)
+^#define[ 	]+UINT8_MAX[ 	]+\(255U\)
+#define[ 	]+UINT16_MAX[ 	]+\(65535U\)
+sys/int_limits.h
+solaris_int_limits_1
+#define	UINT8_C(c)	(c)
+#define	UINT16_C(c)	(c)
+^#define[ 	]+UINT8_C\(c\)[ 	]+__CONCAT__.*
+(/*.**/)
+#define[ 	]+UINT16_C\(c\)[ 	]+__CONCAT__.*
+sys/int_const.h
+solaris_int_const
+%1(!defined(_STRICT_STDC) || (__cplusplus >= 199711L))%2
+(.*&& )!defined\(_STRICT_STDC\)(.*)
+iso/stdio_iso.h
+solaris_getc_strict_stdc
+%1 && !__GNUG__
+%2%3
+(#if __cplusplus >= 199711L)
+(extern "C\+\+" \{
+)(.*(bsearch|qsort).*)
+iso/stdlib_iso.h
+solaris_cxx_linkage
+/#if[ 	]*!defined(__cplusplus)/c\
+#ifdef	__cplusplus\
+extern "C" {\
+#endif
+/#endif[ 	]*\/\* !defined(__cplusplus) \*\//c\
+#ifdef	__cplusplus\
+#endif
+*-*-solaris2.*
+complex.h
+solaris_complex_cxx
+s/#define[ 	]_Complex_I[ 	]_Complex_I/#define	_Complex_I	(__extension__ 1.0iF)/
+/#define[ 	]_Imaginary_I[ 	]_Imaginary_I/d
+/#define[ 	]imaginary[ 	]_Imaginary/d
+s/#define[ 	]I[ 	]\{1,\}_Imaginary_I/#define	I		_Complex_I/
+#define[ 	]_Complex_I[ 	]_Complex_I
+complex.h
+solaris_complex
+#ifdef __cplusplus
+#define	_RESTRICT_KYWD	__restrict
+#else
+#endif
+#define[ 	]*_RESTRICT_KYWD[ 	]*restrict
+sys/feature_tests.h
+solaris___restrict
+rename(const char *_old, const char *_new)
+rename\(const char \*old, const char \*new\)
+stdio.h
+unistd.h
+rs6000_param
+fchmod(int
+fchmod\(char \*
+sys/stat.h
+rs6000_fchmod
+#ifndef __cplusplus
+#endif
+^.*[^a-zA-Z_]class\(.*
+[^a-zA-Z_]class\(
+math.h
+rs6000_double
+#define IXDR_PUT_LONG(buf, v) ((long)IXDR_PUT_INT32(buf, (long)(v)))
+#define[ 	]*IXDR_PUT_LONG.*\\
+.*__extension__.*
+rpc/xdr.h
+rpc_xdr_lvalue_cast_b
+#define IXDR_GET_LONG(buf) ((long)IXDR_GET_U_INT32(buf))
+#define[ 	]*IXDR_GET_LONG.*\\
+.*__extension__.*
+rpc/xdr.h
+rpc_xdr_lvalue_cast_a
+extern unsigned int fread(), fwrite();
+%1%2
+(extern int	.*), fread\(\), fwrite\(\)(.*)
+extern int	.*, fread\(\), fwrite\(\)
+stdio.h
+read_ret_type
+%1 *%2%3
+^(extern int __sigsetjmp \(struct __jmp_buf_tag) (__env)\[1\](.*)$
+struct __jmp_buf_tag
+pthread.h
+pthread_incomplete_struct_argument
+typedef __regex_t	regex_t;
+typedef __regoff_t	regoff_t;
+typedef __regmatch_t	regmatch_t;
+ -z "`grep __regex_t regex.h`"
+ -n "`grep '} regex_t;' reg_types.h`"
+ -r sys/lc_core.h
+ -r reg_types.h
+#include <reg_types.h>.*
+regex.h
+osf_namespace_c
+__%0
+reg(ex|off|match)_t
+ -z "`grep __regex_t regex.h`"
+ -n "`grep '} regex_t;' reg_types.h`"
+ -r sys/lc_core.h
+ -r reg_types.h
+reg_types.h
+sys/lc_core.h
+osf_namespace_a
+__builtin_va_start
+__builtin_stdarg_start
+*-*-openbsd*
+stdarg.h
+openbsd_va_start
+((*((%1*)%2) = (%3)), (%2 += sizeof (%1)))
+\*\(\(([^()]*)\*\)(.*)\)\+\+ = \(([^()]*)\)
+obstack.h
+obstack_lvalue_cast
+#ifndef NULL
+#ifdef __cplusplus
+#ifdef __GNUG__
+#define NULL	__null
+#else	 /* ! __GNUG__  */
+#define NULL	0L
+#endif	 /* __GNUG__  */
+#else	 /* ! __cplusplus  */
+#define NULL	((void *)0)
+#endif	 /* __cplusplus  */
+#endif	 /* !NULL  */
+^#ifndef[ 	]*NULL
+^#ifdef[ 	]*__GNUG__
+^#define[ 	]*NULL[ 	]*__null
+^#else
+^#define[ 	]*NULL[ 	]*0L
+^#endif
+^#endif
+__GNUG__
+locale.h
+stddef.h
+stdio.h
+string.h
+time.h
+unistd.h
+wchar.h
+sys/param.h
+openbsd_null_definition
+char[ 	]*\*na_addr[ 	]*$
+netdnet/dnetdb.h
+nodeent_syntax
+wait(void
+wait\(union wait
+sys/wait.h
+next_wait_union
+extern void %1(
+^extern[ 	]+volatile[ 	]+void[ 	]+(exit|abort)\(
+^extern[ 	]+volatile[ 	]+void[ 	]
+ansi/stdlib.h
+next_volitile
+(%1)
+\(([^)]*)[ 	]template\)
+[ 	]template\)
+bsd/libc.h
+next_template
+extern double %1(
+^extern[ 	]+double[ 	]+__const__[ 	]+([a-z]+)\(
+^extern[ 	]+double[ 	]+__const__[ 	]
+ansi/math.h
+next_math_prefix
+#define INTMAX_MAX __INTMAX_MAX__
+#define INTMAX_MIN (-INTMAX_MAX - 1)
+#define UINTMAX_MAX __UINTMAX_MAX__
+#define WCHAR_MAX __WCHAR_MAX__
+#define WCHAR_MIN __WCHAR_MIN__
+#define WINT_MAX __WINT_MAX__
+#define WINT_MIN __WINT_MIN__
+/\*\* Macros for minimum-width integer constant expressions \*/
+@todo - Add support for wint_t types
+stdint-newlib.h
+stdint.h
+newlib_stdint_2
+s@#define INT32_MIN.*@#define INT32_MIN (-INT32_MAX - 1)@
+s@#define INT32_MAX.*@#define INT32_MAX __INT32_MAX__@
+s@#define UINT32_MAX.*@#define UINT32_MAX __UINT32_MAX__@
+s@#define INT_LEAST32_MIN.*@#define INT_LEAST32_MIN (-INT_LEAST32_MAX - 1)@
+s@#define INT_LEAST32_MAX.*@#define INT_LEAST32_MAX __INT_LEAST32_MAX__@
+s@#define UINT_LEAST32_MAX.*@#define UINT_LEAST32_MAX __UINT_LEAST32_MAX__@
+s@#define INT_FAST\([0-9]*\)_MIN.*@#define INT_FAST\1_MIN (-INT_FAST\1_MAX - 1)@
+s@#define INT_FAST\([0-9]*\)_MAX.*@#define INT_FAST\1_MAX __INT_FAST\1_MAX__@
+s@#define UINT_FAST\([0-9]*\)_MAX.*@#define UINT_FAST\1_MAX __UINT_FAST\1_MAX__@
+s@#define SIZE_MAX.*@#define SIZE_MAX __SIZE_MAX__@
+s@#define PTRDIFF_MIN.*@#define PTRDIFF_MIN (-PTRDIFF_MAX - 1)@
+s@#define PTRDIFF_MAX.*@#define PTRDIFF_MAX __PTRDIFF_MAX__@
+s@#define UINT8_C.*@#define UINT8_C(c) __UINT8_C(c)@
+s@#define UINT16_C.*@#define UINT16_C(c) __UINT16_C(c)@
+@todo - Add support for wint_t types
+stdint-newlib.h
+stdint.h
+newlib_stdint_1
+#define __END_DECLS }
+#define[ 	]*__END_DECLS[ 	]*};
+*-*-netbsd*
+sys/cdefs.h
+netbsd_extra_semicolon
+#ifdef __GNUC_STDC_INLINE__
+#define _SIGINLINE extern __attribute__((__gnu_inline__)) __inline
+#else
+#endif
+#define _SIGINLINE extern __inline
+signal.h
+netbsd_c99_inline_2
+extern
+#ifdef __GNUC_STDC_INLINE__
+__attribute__((__gnu_inline__))
+#endif
+__inline int
+extern __inline int
+signal.h
+netbsd_c99_inline_1
+%1*/ /*
+(/\*.*rpc/auth_des\.h>.*)/\*
+rpc/rpc.h
+nested_auth_des
+	dbl_max_def=`egrep 'define[ 	]+DBL_MAX[ 	]+.*' float.h | sed 's/.*DBL_MAX[ 	]*//' 2>/dev/null`
+	if ( test -n "${dbl_max_def}" ) > /dev/null 2>&1
+	then sed -e '/define[ 	]*HUGE_VAL[ 	]*DBL_MAX/s@DBL_MAX@'"$dbl_max_def@"
+	else cat
+define[ 	]+DBL_MAX
+define[ 	]+HUGE_VAL[ 	]+DBL_MAX
+math.h
+math_huge_val_from_dbl_max
+#ifdef __cplusplus
+#define exception __math_exception
+#endif
+#ifdef __cplusplus
+#undef exception
+#endif
+We have a problem when using C\+\+|for C\+\+, _[a-z0-9A-Z_]+_exception; for C, exception
+struct exception
+math.h
+math_exception
+machine_name
+machine_name
+machine_name
+%1__builtin_va_list
+(define[ 	]+_BSD_VA_LIST_[ 	]+).*
+__builtin_va_list
+define[ 	]+_BSD_VA_LIST_[ 	]
+machine_ansi_h_va_list
+extern int putenv				_AP((char *));
+extern char \*getenv[ 	]*_AP\(\(const char \*\)\);
+putenv[ \t]*\(
+extern char \*getenv[ 	]*_AP\(\(const char \*\)\);
+*-*-lynxos*
+stdlib.h
+lynxos_missing_putenv
+#warning[ 	]+Using <time.h> instead of <sys/time.h>
+sys/time.h
+lynxos_no_warning_in_sys_time_h
+__builtin_offsetof (struct sigcontext, sc_gr[0])
+\(\(\(char \*\) &\(\(struct sigcontext \*\) 0\)->sc_gr\[0\]\) - \(char \*\) 0\)
+ia64-*-linux*
+sys/ucontext.h
+linux_ia64_ucontext
+/\*\*/
+sparc/asm_linkage.h
+sun*/asm_linkage.h
+arm/as_support.h
+arm/mc_type.h
+arm/xcb.h
+dev/chardefmac.h
+dev/ps_irq.h
+dev/screen.h
+dev/scsi.h
+sys/tty.h
+Xm.acorn/XmP.h
+bsd43/bsd43_.h
+kandr_concat
+__gnuc_va_list
+/\* va_list \*/ char \*
+stdio.h
+irix_stdio_va_list
+extern __const 
+^extern const 
+fixinc-test-limits.h
+limits.h
+irix_limits_const
+/^struct/,/^};/s/}$/};/
+netinet/ip.h
+ip_missing_semi
+char_macro_use
+define[ 	]+[A-Z0-9_]+[ 	]+[A-Z0-9_]+IO[A-Z]*[ 	]*\( *[^,']
+io_quotes_use
+char_macro_def
+define[ 	]+[A-Z0-9_]+IO[A-Z]*\([a-zA-Z][,)]
+io_quotes_def
+void	%1(
+_CLASSIC_ANSI_TYPES
+int[ 	]+(abort|free|exit)[ 	]*\(
+stdlib.h
+int_abort_free_and_exit
+#define HUGE_VALL (__builtin_huge_vall())
+__builtin_huge_vall
+^#[ 	]*define[ 	]*HUGE_VALL[ 	].*0x1\.0p.*
+bits/huge_val.h
+*/bits/huge_val.h
+huge_vall_hex
+#define HUGE_VALF (__builtin_huge_valf())
+__builtin_huge_valf
+^#[ 	]*define[ 	]*HUGE_VALF[ 	].*0x1\.0p.*
+bits/huge_val.h
+*/bits/huge_val.h
+huge_valf_hex
+#define HUGE_VAL (__builtin_huge_val())
+__builtin_huge_val
+^#[ 	]*define[ 	]*HUGE_VAL[ 	].*0x1\.0p.*
+bits/huge_val.h
+*/bits/huge_val.h
+huge_val_hex
+struct sigevent;
+^extern struct sigevent;
+sys/time.h
+hpux_systime
+#  define	UINT_%164_MAX	__UINT64_MAX__
+^[ 	]*#[ 	]*define[ 	]+UINT_(LEAST|FAST)64_MAX[ 	]+ULLONG_MAX
+*-hp-hpux11.2*
+stdint-hpux11.h
+stdint.h
+hpux_stdint_least_fast
+#ifdef _KERNEL
+#endif
+^.*extern.*spu_info.*
+*-hp-hpux*
+ia64/sys/getppdp.h
+*/sys/getppdp.h
+hpux_spu_info
+s@^[ 	]*1, 1, 1, 1,[ 	]*\\@	{ 1, 1, 1, 1 },							\\@
+s@^[ 	]*1,[ 	]*\\@	{ 1, 0 }@
+/^[ 	]*0$/d
+s@__PTHREAD_MUTEX_VALID, 0@{ __PTHREAD_MUTEX_VALID, 0 }@
+s@^[ 	]*0, 0, -1, 0,[ 	]*\\@	{ 0, 0, -1, 0 },						\\@
+s@0, __LWP_MTX_VALID, 0, 1, 1, 1, 1,[ 	]*\\@{ 0, __LWP_MTX_VALID }, { 0, 1, 1, 1, 1 },			\\@
+s@^[ 	]*__LWP_MTX_VALID, 0, 1, 1, 1, 1,[ 	]*\\@	{ 0, __LWP_MTX_VALID }, { 0, 1, 1, 1, 1 },			\\@
+s@^[ 	]*0, 0[ 	]*\\@	{ 0, 0 }							\\@
+s@__PTHREAD_COND_VALID, 0@{ __PTHREAD_COND_VALID, 0 }@
+s@__LWP_COND_VALID, 0,[ 	]*\\@{ __LWP_COND_VALID, 0 },					\\@
+s@__PTHREAD_RWLOCK_VALID, 0@{ __PTHREAD_RWLOCK_VALID, 0 }@
+s@__LWP_RWLOCK_VALID, 0,[ 	]*\\@{ __LWP_RWLOCK_VALID, 0 },					\\@
+s@^[ 	]*0, 0, 0, 0, 0, 0, 0[ 	]*\\@	{ 0, 0, 0, 0, 0 }, { 0, 0}					\\@
+*-hp-hpux11.[0-3]*
+sys/pthread.h
+hpux_pthread_initializers
+#  if !defined(_PROTOTYPES) || defined(_LONG_DOUBLE_STRUCT)
+#[ 	]*if[ 	]*!defined\(__ia64\) \|\| defined\(_PROTOTYPES\) \|\| defined\(_LONG_DOUBLE_STRUCT\)
+hppa*-*-hpux11.3*
+stdlib.h
+hpux_long_double_2
+/^#[ 	]*ifndef _LONG_DOUBLE/,/\/\* _LONG_DOUBLE \*\//D
+s/long_double/long double/g
+long_double_t
+extern[ 	]long_double[ 	]strtold
+*-*-hpux10*
+*-*-hpux11.[012]*
+stdlib.h
+hpux_long_double
+typedef signed char int%18_t;
+^[ 	]*typedef[ 	]*char[ 	]*int(_least){0,1}8_t.*
+*-hp-hpux1[01].*
+sys/_inttypes.h
+hpux_inttype_int8_t
+#define _Complex_I (__extension__ 1.0iF)
+^[ 	]*#[ 	]*define[ 	]*_Complex_I.*
+ia64-hp-hpux11.*
+complex.h
+hpux_imaginary_i
+#if 1
+#ifndef _XOPEN_SOURCE_EXTENDED[ 	]*
+(/\*
+ \* Macros for number representation conversion\.
+ \*/
+#ifndef ntohl)
+netinet/in.h
+hpux_htonl
+#ifdef __cplusplus
+extern "C" {
+#endif
+#ifdef __cplusplus
+#endif
+^[ 	]*extern int errno;$
+*-hp-hpux10.*
+*-hp-hpux11.[0-2]*
+errno.h
+hpux_extern_errno
+%1(int)%3
+((: |\()__SB_masks \? )(__SB_masks\[__(alnum|c)\] & _IS)
+ctype.h
+hpux_ctype_macros
+s@^[ 	]*#[ 	]*define[ 	]*INT8_C(__c)[ 	]*((signed char)(__c))[ 	]*$@#define INT8_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*UINT8_C(__c)[ 	]*((unsigned char)(__c))[ 	]*$@#define UINT8_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*INT16_C(__c)[ 	]*((short)(__c))[ 	]*$@#define INT16_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*UINT16_C(__c)[ 	]*((unsigned short)(__c))[ 	]*$@#define UINT16_C(__c) (__c)@
+stdint-hpux11.h
+stdint.h
+hpux_c99_inttypes2
+s@^[ 	]*#[ 	]*define[ 	]*UINT8_C(__c)[ 	]*__CONCAT_U__(__c)[ 	]*$@#define UINT8_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*UINT16_C(__c)[ 	]*__CONCAT_U__(__c)[ 	]*$@#define UINT16_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*INT32_C(__c)[ 	]*__CONCAT__(__c,l)[ 	]*$@#define INT32_C(__c) (__c)@
+s@^[ 	]*#[ 	]*define[ 	]*UINT32_C(__c)[ 	].*$@#define UINT32_C(__c) __CONCAT__(__c,u)@
+*-hp-hpux11.[23]*
+inttypes.h
+stdint-hpux11.h
+stdint.h
+hpux_c99_inttypes
+s@^[ 	]*#[ 	]*define[ 	]*PTRDIFF_MAX[ 	]*INT32_MAX[ 	]*$@#define PTRDIFF_MAX (2147483647l)@
+s@^[ 	]*#[ 	]*define[ 	]*PTRDIFF_MIN[ 	]*INT32_MIN[ 	]*$@#define PTRDIFF_MIN (-PTRDIFF_MAX - 1)@
+s@^[ 	]*#[ 	]*define[ 	]*INTPTR_MAX[ 	]*INT32_MAX[ 	]*$@#define INTPTR_MAX (2147483647l)@
+s@^[ 	]*#[ 	]*define[ 	]*INTPTR_MIN[ 	]*INT32_MIN[ 	]*$@#define INTPTR_MIN (-INTPTR_MAX - 1)@
+s@^[ 	]*#[ 	]*define[ 	]*UINTPTR_MAX[ 	]*UINT32_MAX[ 	]*$@#define UINTPTR_MAX (4294967295ul)@
+s@^[ 	]*#[ 	]*define[ 	]*SIZE_MAX[ 	]*UINT32_MAX[ 	]*$@#define SIZE_MAX (4294967295ul)@
+*-hp-hpux11.3*
+stdint-hpux11.h
+stdint.h
+hpux_c99_intptr
+s@inline int abs(int [a-z][a-z]*) {.*}@extern "C" int abs(int);@
+s@inline double abs(double [a-z][a-z]*) {.*}@@
+s@inline int sqr(int [a-z][a-z]*) {.*}@@
+s@inline double sqr(double [a-z][a-z]*) {.*}@@
+__GNUG__
+inline
+math.h
+hpux8_bogus_inlines
+%1const char
+(extern int vsscanf\()char
+*-*-hpux*
+stdio.h
+hpux_vsscanf
+%1 __va_list);
+(extern int vsnprintf\(char \*, _[hpux]*_size_t, const char \*,) __va__list\);
+stdio.h
+hpux11_vsnprintf
+%1 const %3
+(extern int snprintf *\(char *\*, *(|__|_hpux_)size_t,) *(char *\*, *\.\.\.\);)
+stdio.h
+hpux11_snprintf
+_hpux_size_t
+__size_t
+*-hp-hpux11*
+hpux11_size_t
+#define __POINTER_SET		((void *) 1L)
+^#define[ 	]*__POINTER_SET[ 	]*\(\(void \*\) 1LL\)
+sys/pthread.h
+hpux11_pthread_const
+__cplusplus
+^[ 	]*#[ 	]*define[ 	]+fabsf\(.*
+math.h
+hpux11_fabsf
+#ifndef _APP32_64BIT_OFF_T
+%0#endif
+^[ 	]*extern sbsize_t sendpath.*
+.*, int\)\);
+*-hp-hpux11.[12]*
+sys/socket.h
+hpux11_extern_sendpath
+^[ 	]*extern sbsize_t sendfile.*
+.*, int\)\);
+sys/socket.h
+hpux11_extern_sendfile
+if !defined(_MATH_INCLUDED) || defined(__GNUG__)
+ifndef _MATH_INCLUDED
+stdlib.h
+hpux11_abs
+#  if defined(__STDC__) || defined(__cplusplus)
+     extern int snprintf(char *, size_t, const char *, ...);
+     extern int vsnprintf(char *, size_t, const char *, __va_list);
+#  else /* not __STDC__) || __cplusplus */
+     extern int snprintf();
+     extern int vsnprintf();
+#  endif /* __STDC__) || __cplusplus */
+^[ 	]*extern[ 	]*int[ 	]*vsnprintf[ 	]*\(
+^#[ 	]*define _iob[ 	]*__iob
+stdio.h
+hpux10_stdio_declarations
+#ifdef _PROTOTYPES
+     extern int _isalnum(int);
+     extern int _isalpha(int);
+     extern int _iscntrl(int);
+     extern int _isdigit(int);
+     extern int _isgraph(int);
+     extern int _islower(int);
+     extern int _isprint(int);
+     extern int _ispunct(int);
+     extern int _isspace(int);
+     extern int _isupper(int);
+     extern int _isxdigit(int);
+#  else /* not _PROTOTYPES */
+     extern int _isalnum();
+     extern int _isalpha();
+     extern int _iscntrl();
+     extern int _isdigit();
+     extern int _isgraph();
+     extern int _islower();
+     extern int _isprint();
+     extern int _ispunct();
+     extern int _isspace();
+     extern int _isupper();
+     extern int _isxdigit();
+#endif /* _PROTOTYPES */
+^[ 	]*extern[ 	]*int[ 	]*_isalnum[ 	]*\(
+^#  if defined\(_SB_CTYPE_MACROS\) && \!defined\(__lint\)
+ctype.h
+hpux10_ctype_declarations2
+#ifdef _PROTOTYPES
+extern int __tolower(int);
+extern int __toupper(int);
+#else /* NOT _PROTOTYPES */
+extern int __tolower();
+extern int __toupper();
+#endif /* _PROTOTYPES */
+^[ 	]*extern[ 	]*int[ 	]*__tolower[ 	]*\(
+^#[ 	]*define _toupper\(__c\)[ 	]*__toupper\(__c\)
+ctype.h
+hpux10_ctype_declarations1
+ +inline double pow\(double d,int expon\) \{
+ +return pow\(d, \(double\)expon\);
+ +\}
+math.h
+hpux11_cpp_pow_inline
+^# +ifdef +__cplusplus
+ +\}
+ +inline +double +pow\(double +__d,int +__expon\) +\{
+[ 	]+return +pow\(__d,\(double\)__expon\);
+ +\}
+ +extern +"C" +\{
+#else
+# +endif
+fixinc-test-limits.h
+math.h
+hpux10_cpp_pow_inline
+#endif /* _INCLUDE_HPUX_SOURCE */
+#if defined(_INCLUDE_HPUX_SOURCE) || \
+   (defined(__STDC_VERSION__) && (__STDC_VERSION__ >= 199901L))
+%0#endif
+#ifdef _INCLUDE_HPUX_SOURCE
+#[ 	]*define[ 	]*FP_NORMAL.*
+#[ 	]*define[ 	]*FP_ZERO.*
+#[ 	]*define[ 	]*FP_INFINITE.*
+#[ 	]*define[ 	]*FP_SUBNORMAL.*
+#[ 	]*define[ 	]*FP_NAN.*
+hppa*-hp-hpux11*
+math.h
+hppa_hpux_fp_macros
+(struct file *, ...)
+\(\.\.\.\)
+HPUX_SOURCE
+sys/file.h
+hp_sysfile
+%1<machine/%2.h>
+([ 	]*#[ 	]*include[ 	]+)"\.\./machine/([a-z]+)\.h"
+[ 	]*#[ 	]*include[ 	]+"\.\./machine/
+sys/spinlock.h
+machine/machparam.h
+hp_inline
+gnu_type
+_GCC_(PTRDIFF|SIZE|WCHAR)_T
+^[ 	]*typedef[ 	]+.*[ 	](ptrdiff|size|wchar)_t;
+sys/types.h
+stdlib.h
+sys/stdtypes.h
+stddef.h
+memory.h
+unistd.h
+gnu_types
+(__builtin_classify_type ((type) 0) == 8 || (__builtin_classify_type ((type) 0) == 9 && __builtin_classify_type (__real__ ((type) 0)) == 8))
+__floating_type\(type\) \\
+.*__builtin_classify_type
+\(\(\(type\) 0.25\) && \(\(type\) 0.25 - 1\)\)
+tgmath.h
+glibc_tgmath
+#  define strncpy(dest, src, n) __builtin_strncpy (dest, src, n)
+#  define strncpy([^
+]*\\
+)*[^
+__builtin_strncpy
+bits/string2.h
+*/bits/string2.h
+glibc_strncpy
+# define UINT8_C(c)	c
+# define UINT16_C(c)	c
+# define UINT8_C\(c\)	c ## U
+# define UINT16_C\(c\)	c ## U
+GNU C Library
+stdint.h
+glibc_stdint
+/define[ 	]\{1,\}PTHREAD_MUTEX_INITIALIZER[ 	]*\\/{
+s/{ { 0, } }/{ { 0, 0, 0, 0, 0, 0 } }/
+s/{ \(0, 0, 0, 0, PTHREAD_MUTEX_\(RECURSIVE\)_NP\) }/{ \1, 0 }/
+s/{ \(0, 0, 0, 0, PTHREAD_MUTEX_\(ERRORCHECK\)_NP\) }/{ \1, 0 }/
+s/{ \(0, 0, 0, 0, PTHREAD_MUTEX_\(ADAPTIVE\)_NP\) }/{ \1, 0 }/
+s/{ \(0, 0, 0, PTHREAD_MUTEX_\(RECURSIVE\)_NP\) }/{ \1, 0, 0 }/
+s/{ \(0, 0, 0, PTHREAD_MUTEX_\(ERRORCHECK\)_NP\) }/{ \1, 0, 0 }/
+s/{ \(0, 0, 0, PTHREAD_MUTEX_\(ADAPTIVE\)_NP\) }/{ \1, 0, 0 }/
+/define[ 	]\{1,\}PTHREAD_RWLOCK_INITIALIZER[ 	]*\\/N;s/^[ 	]*#[ 	]*\(define[ 	]\{1,\}PTHREAD_RWLOCK_INITIALIZER[ 	]*\\\)\n[ 	]*{ { 0, } }/# if __WORDSIZE == 64\
+#  \1\
+  { { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 } }\
+# else\
+#  \1\
+  { { 0, 0, 0, 0, 0, 0, 0, 0 } }\
+# endif/
+s/{ \(0, 0, 0, 0, 0, 0, PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP\) }/{ \1, 0 }/
+/define[ 	]\{1,\}PTHREAD_COND_INITIALIZER/s/{ { 0, } }/{ { 0, 0, 0, 0, 0, (void *) 0, 0, 0 } }/
+\{ *\{ *0, *\} *\}
+pthread.h
+glibc_mutex_init
+%0 __attribute__ ((__gnu_inline__))
+__extern_inline|__gnu_inline__
+(^| )extern __inline
+sys/sysmacros.h
+*/sys/sysmacros.h
+wchar.h
+*/wchar.h
+glibc_c99_inline_4
+# if defined(__cplusplus) || defined(__GNUC_STDC_INLINE__)
+^# ifdef __cplusplus$
+__extern_inline|__GNU_STDC_INLINE__
+extern __inline
+bits/string2.h
+*/bits/string2.h
+glibc_c99_inline_3
+s/extern int \(stat\)/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int \1/
+s/extern int \([lf]stat\)/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int \1/
+s/extern int \(mknod\)/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int \1/
+s/extern int __REDIRECT\(_NTH\)\{0,1\} (\(stat\)/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int __REDIRECT\1 (\2/
+s/extern int __REDIRECT\(_NTH\)\{0,1\} (\([lf]stat\)/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int __REDIRECT\1 (\2/
+s/^extern __inline__ int/#ifdef __GNUC_GNU_INLINE__\
+extern\
+#endif\
+__inline__ int/
+extern __inline__ int
+sys/stat.h
+*/sys/stat.h
+glibc_c99_inline_2
+%1 && (defined __extern_inline || defined __GNUC_GNU_INLINE__)
+(\) && defined __OPTIMIZE__ && !defined __OPTIMIZE_SIZE__)
+(#[ 	]*define[ 	]*__USE_EXTERN_INLINES[ 	]*1)
+features.h
+*/features.h
+glibc_c99_inline_1a
+%0 && (defined __extern_inline || defined __GNUC_GNU_INLINE__)
+^ *&& !defined __OPTIMIZE_SIZE__ && !defined __NO_INLINE__$
+features.h
+*/features.h
+glibc_c99_inline_1
+#if __GNUC__ == 2 && __GNUC_MINOR__ >= 7 || __GNUC__ >= 3
+^#if __GNUC__ == 2 && __GNUC_MINOR__ >= 7 \|\| __GNUC__ == 3$
+*-*-freebsd*
+sys/cdefs.h
+freebsd_gcc4_breakage
+%0 || __GNUC__ >= 3
+__GNUC__[ \t]*([>=]=[ \t]*[3-9]|>[ \t]*2)
+^#if __GNUC__ == 2 && __GNUC_MINOR__ >= 7$
+sys/cdefs.h
+freebsd_gcc3_breakage
+# ifdef __SSE_MATH__
+# else
+%1__asm__ __volatile__ ("fdiv %%%%st, %%%%st(0); fwait"
+%1			: "=t" (__f) : "0" (__f));
+# endif
+"fdiv .*; fwait"
+^([	 ]*)__asm__ __volatile__ \("divss %0, %0 *" : : "x" \(__f\)\);$
+i[34567]86-*-linux*
+x86*-linux*
+amd64-*-linux*
+bits/fenv.h
+*/bits/fenv.h
+feraiseexcept_nosse_invalid
+# ifdef __SSE_MATH__
+# else
+%1__asm__ __volatile__ ("fdivp %%%%st, %%%%st(1); fwait"
+%1			: "=t" (__f) : "0" (__f), "u" (__g) : "st(1)");
+# endif
+"fdivp .*; fwait"
+^([	 ]*)__asm__ __volatile__ \("divss %1, %0 *" : : "x" \(__f\), "x" \(__g\)\);$
+bits/fenv.h
+*/bits/fenv.h
+feraiseexcept_nosse_divbyzero
+ecd_cursor
+ecd\.cursor
+sunwindow/win_lock.h
+sunwindow/win_cursor.h
+ecd_cursor
+#include <sys/djtypes.h>
+#include <stddef.h>
+sys/djtypes.h
+__DJ_wint_t
+djgpp_wchar_h
+/^[ 	]*float[ 	]*fasm/i\
+#ifdef __DECC
+/^[ 	]*#[ 	]*pragma[ 	]*intrinsic([ 	]*dasm/a\
+#endif
+c_asm.h
+dec_intern_asm
+#if __WORDSIZE == 64
+#define INTMAX_C(v)  (v ## L)
+#define UINTMAX_C(v) (v ## UL)
+#else
+#define INTMAX_C(v)  (v ## LL)
+#define UINTMAX_C(v) (v ## ULL)
+#endif
+#define INTMAX_C\(v\)[ 	]+\(v ## LL\)
+#define UINTMAX_C\(v\)[ 	]+\(v ## ULL\)
+*-*-darwin*
+stdint-darwin.h
+stdint.h
+darwin_stdint_7
+#if __WORDSIZE == 64
+#define PTRDIFF_MIN (-9223372036854775807L - 1)
+#define PTRDIFF_MAX 9223372036854775807L
+#else
+#define PTRDIFF_MIN (-2147483647 - 1)
+#define PTRDIFF_MAX 2147483647
+#endif
+#if __WORDSIZE == 64
+#define PTRDIFF_MIN[ 	]+INT64_MIN
+#define PTRDIFF_MAX[ 	]+INT64_MAX
+#else
+#define PTRDIFF_MIN[ 	]+INT32_MIN
+#define PTRDIFF_MAX[ 	]+INT32_MAX
+#endif
+stdint-darwin.h
+stdint.h
+darwin_stdint_6
+#if __WORDSIZE == 64
+#define INTMAX_MIN   (-9223372036854775807L - 1)
+#define INTMAX_MAX   9223372036854775807L
+#define UINTMAX_MAX  18446744073709551615UL
+#else
+#define INTMAX_MIN   (-9223372036854775807LL - 1)
+#define INTMAX_MAX   9223372036854775807LL
+#define UINTMAX_MAX  18446744073709551615ULL
+#endif
+#define INTMAX_MIN[ 	]+INT64_MIN
+#define INTMAX_MAX[ 	]+INT64_MAX
+#define UINTMAX_MAX[ 	]+UINT64_MAX
+stdint-darwin.h
+stdint.h
+darwin_stdint_5
+#if __WORDSIZE == 64
+#define SIZE_MAX 18446744073709551615UL
+#else
+#define SIZE_MAX 4294967295UL
+#endif
+#if __WORDSIZE == 64
+#define SIZE_MAX[ 	]+UINT64_MAX
+#else
+#define SIZE_MAX[ 	]+UINT32_MAX
+#endif
+stdint-darwin.h
+stdint.h
+darwin_stdint_4
+#if __WORDSIZE == 64
+#define UINTPTR_MAX 18446744073709551615UL
+#else
+#define UINTPTR_MAX 4294967295UL
+#endif
+#if __WORDSIZE == 64
+#define UINTPTR_MAX[ 	]+UINT64_MAX
+#else
+#define UINTPTR_MAX[ 	]+UINT32_MAX
+#endif
+stdint-darwin.h
+stdint.h
+darwin_stdint_3
+#if __WORDSIZE == 64
+#define INTPTR_MAX 9223372036854775807L
+#define INTPTR_MIN (-INTPTR_MAX-1)
+#else
+#define INTPTR_MAX 2147483647L
+#define INTPTR_MIN (-INTPTR_MAX-1)
+#endif
+#if __WORDSIZE == 64
+#define INTPTR_MIN[ 	]+INT64_MIN
+#define INTPTR_MAX[ 	]+INT64_MAX
+#else
+#define INTPTR_MIN[ 	]+INT32_MIN
+#define INTPTR_MAX[ 	]+INT32_MAX
+#endif
+stdint-darwin.h
+stdint.h
+darwin_stdint_2
+#define UINT8_C(v)	v
+#define UINT16_C(v)	v
+#define UINT8_C\(v\)[ 	]+\(v ## U\)
+#define UINT16_C\(v\)[ 	]+\(v ## U\)
+stdint-darwin.h
+stdint.h
+darwin_stdint_1
+extern
+__private_extern__
+__private_extern__ [a-z_]+ _dyld_
+mach-o/dyld.h
+darwin_private_extern
+((__GNUC__ >= 4) || (__GNUC__ == 3 && __GNUC_MINOR__ >= 1))
+\(__GNUC__ >= 3\) && \(__GNUC_MINOR__ >= 1\)
+AvailabilityMacros.h
+darwin_gcc4_breakage
+#ifdef __cplusplus
+extern "C" {
+#endif
+#ifdef __cplusplus
+#endif
+__BEGIN_DECLS
+extern "C"
+mach-o/swap.h
+mach/mach_time.h
+mach/mach_traps.h
+mach/message.h
+mach/mig.h
+mach/semaphore.h
+darwin_externc
+%1<%2.h>
+([ \t]*#[ \t]*include[ \t]+)"([a-z0-9/]+)\.h"
+#include[ \t]+\"
+*-*-darwin7.9*
+math.h
+darwin_9_long_double_funcs_2
+"C"|__BEGIN_DECLS
+[^#]+malloc.*;
+sys/mman.h
+rpc/types.h
+cxx_unready
+CTRL
+define[ 	]+[A-Z0-9_]+[ 	]+[A-Z0-9_]+CTRL[ 	]*\( *[^,']
+ctrl_quotes_use
+define[ 	]+[A-Z0-9_]+CTRL\([a-zA-Z][,)]
+ctrl_quotes_def
+/* __builtin_warning(x, y...) is obsolete */
+#define __builtin_warning\(x, y\.\.\.\) \(1\)
+linux/compiler.h
+complier_h_tradcpp
+#define _BSD_STRING(_BSD_X) _BSD_STRINGX(_BSD_X)
+#define _BSD_STRINGX(_BSD_X) #_BSD_X
+int vfscanf(FILE *, const char *, __builtin_va_list) __asm__ (_BSD_STRING(__USER_LABEL_PREFIX__) "__svfscanf");
+^#define[ 	]*vfscanf[ 	]*__svfscanf[ 	]*$
+*-*-*bsd*
+*-*-*darwin*
+stdio.h
+bsd_stdio_attrs_conflict
+#if 1
+powl
+#if defined\(__APPLE_CC__\) && \(__APPLE_CC__ >= 1345\)
+architecture/ppc/math.h
+architecture/*/math.h
+broken_nan
+s/^extern[ 	]*double[ 	]*cabs[ 	]*([^\)]*);//
+s/^extern[ 	]*long[ 	]*double[ 	]*cabsl[ 	]*([^\)]*);//
+^extern[ 	]+double[ 	]+cabs
+math.h
+architecture/*/math.h
+broken_cabs
+#ifdef __cplusplus
+#include <stdlib.h>
+#endif
+include.*stdlib\.h
+exit *\(|abort *\(
+assert.h
+broken_assert_stdlib
+#include <stdio.h>
+include.*stdio\.h
+stderr
+assert.h
+broken_assert_stdio
+does not
+doesn't
+sundev/vuid_event.h
+badquote
+struct term;
+^[ 	]*typedef[ 	]+struct[ 	]+term[ 	]*;
+curses.h
+bad_struct_term
+XFree86: xc/lib/X11/Xlib\.h
+_LINUX_NLS_H
+__cplusplus
+^[ 	]*typedef[ 	].*[ 	]wchar_t[ 	]*;
+avoid_wchar_t_type
+__cplusplus
+^[ 	]*typedef[ 	].*[ 	]bool[ 	]*;
+curses.h
+curses_colr/curses.h
+term.h
+tinfo.h
+avoid_bool_type
+^[ 	]*#[ 	]*define[ 	]+bool[ 	].*
+__cplusplus
+#[ 	]*define[ 	]+bool[ 	]
+curses.h
+curses_colr/curses.h
+term.h
+tinfo.h
+avoid_bool_define
+void *sbrk(
+char[ 	]*\*[	 ]*sbrk[ 	]*\(
+unistd.h
+alpha_sbrk
+#ifndef __mips64
+#ifndef\(__mips64\)
+sym.h
+alpha_parens
+struct sockaddr vmif_paddr;	/*
+struct[ 	]+sockaddr[ 	]+vmif_paddr[ 	]+/\*
+net/if.h
+alpha_if_semicolon
+getopt(int, char *const[], const char *)
+getopt\(int, char \*\[\], *char \*\)
+stdio.h
+stdlib.h
+alpha_getopt
+%1(EX)
+(#[ 	]*define assert\(EX\).*)\(\(int\) \(EX\)\)
+assert.h
+alpha_assert
+__assert(const char *, const char *, int)
+__assert\(char \*, char \*, int\)
+assert.h
+alpha___assert
+typedef int sig_atomic_t
+typedef volatile int sig_atomic_t
+sys/signal.h
+aix_volatile
+? (int)%1
+\? (\(\(\(\(unsigned[^)]*\)[^)]*\) >> [^)]*\) \& 0xff\) : -1)
+sys/wait.h
+aix_syswait_2
+\\ +
+sys/machine.h
+aix_sysmachine
+#define UINT8_C(c)	c
+#define UINT16_C(c)	c
+#define[ 	]UINT8_C\(c\)[ 	]__CONCAT__\(c,U\)
+#define[ 	]UINT16_C\(c\)[ 	]__CONCAT__\(c,U\)
+*-*-aix*
+stdint-aix.h
+stdint.h
+aix_stdint_5
+#define SIZE_MAX	18446744073709551615UL
+#else
+#define SIZE_MAX	4294967295UL
+#define[ 	]SIZE_MAX[ 	]UINT64_MAX
+#else
+#define[ 	]SIZE_MAX[ 	]*UINT32_MAX
+stdint-aix.h
+stdint.h
+aix_stdint_4
+#define PTRDIFF_MIN	(-9223372036854775807L - 1)
+#define PTRDIFF_MAX	9223372036854775807L
+#else
+#define PTRDIFF_MIN	(-2147483647L - 1)
+#define PTRDIFF_MAX	2147483647L
+#define[ 	]PTRDIFF_MIN[ 	]INT64_MIN
+#define[ 	]PTRDIFF_MAX[ 	]INT64_MAX
+#else
+#define[ 	]PTRDIFF_MIN[ 	]*INT32_MIN
+#define[ 	]PTRDIFF_MAX[ 	]*INT32_MAX
+stdint-aix.h
+stdint.h
+aix_stdint_3
+#define INTPTR_MIN	(-INTPTR_MAX-1)
+#define INTPTR_MAX	9223372036854775807L
+#define UINTPTR_MAX	18446744073709551615UL
+#else
+#define INTPTR_MIN	(-INTPTR_MAX-1)
+#define INTPTR_MAX	2147483647L
+#define UINTPTR_MAX	4294967295UL
+#define[ 	]INTPTR_MIN[ 	]INT64_MIN
+#define[ 	]INTPTR_MAX[ 	]INT64_MAX
+#define[ 	]UINTPTR_MAX[ 	]UINT64_MAX
+#else
+#define[ 	]INTPTR_MIN[ 	]INT32_MIN
+#define[ 	]INTPTR_MAX[ 	]INT32_MAX
+#define[ 	]UINTPTR_MAX[ 	]UINT32_MAX
+stdint-aix.h
+stdint.h
+aix_stdint_2
+#define UINT8_MAX	(255)
+#define UINT16_MAX	(65535)
+#define[ 	]UINT8_MAX[ 	]\(255U\)
+#define[ 	]UINT16_MAX[ 	]\(65535U\)
+stdint-aix.h
+stdint.h
+aix_stdint_1
+%1 %2
+(#define [A-Za-z_0-9]+)(\\
+[^A-Za-z_0-9 	
+pthread.h
+aix_pthread
+#define PTHREAD_RWLOCK_INITIALIZER \
+{{ \
+#define[ 	]PTHREAD_RWLOCK_INITIALIZER \\
+\{ \\
+pthread.h
+aix_rwlock_initializer_1
+#define PTHREAD_COND_INITIALIZER \
+{{ \
+#define[ 	]PTHREAD_COND_INITIALIZER \\
+\{ \\
+pthread.h
+aix_cond_initializer_1
+#define PTHREAD_MUTEX_INITIALIZER \
+{{ \
+#define[ 	]PTHREAD_MUTEX_INITIALIZER \\
+\{ \\
+pthread.h
+aix_mutex_initializer_1
+	0 \
+[ 	]0 \\
+pthread.h
+aix_once_init_2
+#define PTHREAD_ONCE_INIT \
+{{ \
+#define[ 	]PTHREAD_ONCE_INIT \\
+\{ \\
+pthread.h
+aix_once_init_1
+__null
+#define[ 	]+NULL[ 	]+\(*0L*\)*
+curses.h
+dbm.h
+locale.h
+stdio.h
+stdlib.h
+string.h
+time.h
+unistd.h
+wchar.h
+sys/dir.h
+sys/param.h
+sys/types.h
+aix_null
+typedef struct _fc_softc {
+^struct  fc_softc \{
+net/if_arp.h
+aix_net_if_arp
+#if (defined(__cplusplus) && defined(__IBMCPP__))
+#ifdef __cplusplus
+malloc.h
+aix_malloc
+#define[ 	]_Complex_I[ 	]__I
+complex.h
+aix_complex
+#define[ 	]static_assert[ 	]_Static_assert
+assert.h
+aix_assert
+#ifndef _UNISTD_H
+#define _UNISTD_H
+#include_next <unistd.h>
+#include <ioLib.h>
+#ifndef STDIN_FILENO
+#define STDIN_FILENO 0
+#endif
+#ifndef STDOUT_FILENO
+#define STDOUT_FILENO 1
+#endif
+#ifndef STDERR_FILENO
+#define STDERR_FILENO 2
+#endif
+#endif /* _UNISTD_H */
+unistd.h
+AAB_vxworks_unistd
+#ifndef _STDINT_H
+#define _STDINT_H
+/* get int*_t, uint*_t */
+#include <types/vxTypes.h>
+/* get legacy vxworks types for compatibility */
+#include <types/vxTypesOld.h>
+typedef long intptr_t;
+typedef unsigned long uintptr_t;
+typedef int64_t intmax_t;
+typedef uint64_t uintmax_t;
+typedef int8_t int_least8_t;
+typedef int16_t int_least16_t;
+typedef int32_t int_least32_t;
+typedef int64_t int_least64_t;
+typedef uint8_t uint_least8_t;
+typedef uint16_t uint_least16_t;
+typedef uint32_t uint_least32_t;
+typedef uint64_t uint_least64_t;
+typedef int8_t int_fast8_t;
+typedef int int_fast16_t;
+typedef int32_t int_fast32_t;
+typedef int64_t int_fast64_t;
+typedef uint8_t uint_fast8_t;
+typedef unsigned int uint_fast16_t;
+typedef uint32_t uint_fast32_t;
+typedef uint64_t uint_fast64_t;
+/* Ranges */
+#define UINT8_MAX (~(uint8_t)0)
+#define UINT8_MIN 0
+#define UINT16_MAX (~(uint16_t)0)
+#define UINT16_MIN 0
+#define UINT32_MAX (~(uint32_t)0)
+#define UINT32_MIN 0
+#define UINT64_MAX (~(uint64_t)0)
+#define UINT64_MIN 0
+#define UINTPTR_MAX (~(uintptr_t)0)
+#define UINTPTR_MIN 0
+/* Need to do int_fast16_t as well, as type
+   size may be architecture dependent */
+#define UINT_FAST16_MAX (~(uint_fast16_t)0)
+#define UINT_FAST16_MAX 0
+#define INT8_MAX (UINT8_MAX>>1)
+#define INT8_MIN (INT8_MAX+1)
+#define INT16_MAX (UINT16_MAX>>1)
+#define INT16_MIN (INT16_MAX+1)
+#define INT32_MAX (UINT32_MAX>>1)
+#define INT32_MIN (INT32_MAX+1)
+#define INT64_MAX (UINT64_MAX>>1)
+#define INT64_MIN (INT64_MAX+1)
+#define INTPTR_MAX (UINTPTR_MAX>>1)
+#define INTPTR_MIN (INTPTR_MAX+1)	
+#define INT_FAST16_MAX (UINT_FAST16_MAX>>1)
+#define INT_FAST16_MIN (INT_FAST16_MAX+1)
+/* now define equiv. constants */
+#define UINT_FAST8_MAX UINT8_MAX
+#define UINT_FAST8_MIN UINT_FAST8_MIN
+#define INT_FAST8_MAX INT8_MAX
+#define INT_FAST8_MIN INT8_MIN
+#define UINT_FAST32_MAX UINT32_MAX
+#define UINT_FAST32_MIN UINT32_MIN
+#define INT_FAST32_MAX INT32_MAX
+#define INT_FAST32_MIN INT32_MIN
+#define UINT_FAST64_MAX UINT64_MAX
+#define UINT_FAST64_MIN UINT64_MIN
+#define INT_FAST64_MAX INT64_MAX
+#define INT_FAST64_MIN INT64_MIN
+#define UINT_LEAST8_MAX UINT8_MAX
+#define UINT_LEAST8_MIN UINT8_MIN
+#define INT_LEAST8_MAX INT8_MAX
+#define INT_LEAST8_MIN INT8_MIN
+#define UINT_LEAST16_MAX UINT16_MAX
+#define UINT_LEAST16_MIN UINT16_MIN
+#define INT_LEAST16_MAX INT16_MAX
+#define INT_LEAST16_MIN INT16_MIN
+#define UINT_LEAST32_MAX UINT32_MAX
+#define UINT_LEAST32_MIN UINT32_MIN
+#define INT_LEAST32_MAX INT32_MAX
+#define INT_LEAST32_MIN INT32_MIN
+#define UINT_LEAST64_MAX UINT64_MAX
+#define UINT_LEAST64_MIN UINT64_MIN
+#define INT_LEAST64_MAX INT64_MAX
+#define INT_LEAST64_MIN INT64_MIN
+#define UINTMAX_MAX UINT64_MAX
+#define UINTMAX_MIN UINT64_MIN
+#define INTMAX_MAX INT64_MAX
+#define INTMAX_MIN INT64_MIN
+#endif
+stdint.h
+AAB_vxworks_stdint
+#ifndef _REGS_H
+#define _REGS_H
+#include <types/vxTypesOld.h>
+#include_next <arch/../regs.h>
+#endif
+regs.h
+AAB_vxworks_regs_vxtypes
+#ifndef _ASSERT_H
+#define _ASSERT_H
+#ifdef assert
+#undef assert
+#endif
+#if defined(__STDC__) || defined(__cplusplus)
+extern void __assert (const char*);
+#else
+extern void __assert ();
+#endif
+#ifdef NDEBUG
+#define assert(ign) ((void)0)
+#else
+#define ASSERT_STRINGIFY(str) ASSERT_STRINGIFY_HELPER(str)
+#define ASSERT_STRINGIFY_HELPER(str) #str
+#define assert(test) ((void) \
+        ((test) ? ((void)0) : \
+        __assert("Assertion failed: " ASSERT_STRINGIFY(test) ", file " \
+        __FILE__ ", line " ASSERT_STRINGIFY(__LINE__) "\n")))
+#endif
+#endif
+assert.h
+AAB_vxworks_assert
+/* This file was generated by fixincludes */
+#ifndef __memory_h__
+  #define __memory_h__
+  #ifdef __STDC__
+    extern void *memccpy();
+    extern void *memchr();
+    extern void *memcpy();
+    extern void *memset();
+  #else
+    extern char *memccpy();
+    extern char *memchr();
+    extern char *memcpy();
+    extern char *memset();
+  #endif /* __STDC__ */
+  extern int memcmp();
+#endif /* __memory_h__ */
+/\*	@\(#\)(head/memory.h	50.1	 |memory\.h 1\.[2-4] 8./../.. SMI; from S5R2 1\.2	)\*/
+memory.h
+AAB_sun_memcpy
+#ifdef __STDC__
+  #include <stdarg.h>
+#else
+  #include <varargs.h>
+#endif
+sys/varargs.h
+AAB_solaris_sys_varargs_h
+/* This file fixes a bug in the __FD_ZERO macro present in glibc 2.0.x. */
+#ifndef _SELECTBITS_H_WRAPPER
+  #include <features.h>
+  #include_next <selectbits.h>
+  #if defined(__FD_ZERO) && defined(__GLIBC__) \\
+  && defined(__GLIBC_MINOR__) && __GLIBC__ == 2 \\
+  && __GLIBC_MINOR__ == 0
+     #undef __FD_ZERO
+     #define __FD_ZERO(fdsetp) \\
+     do { \\
+        int __d0, __d1; \\
+      __asm__ __volatile__ ("cld; rep; stosl" \\
+                        : "=&c" (__d0), "=&D" (__d1) \\
+                        : "a" (0), "0" (sizeof (__fd_set) \\
+                                        / sizeof (__fd_mask)), \\
+                          "1" ((__fd_mask *) (fdsetp)) \\
+                        : "memory"); \\
+      } while (0)
+  #endif
+  #define _SELECTBITS_H_WRAPPER
+#endif /* _SELECTBITS_H_WRAPPER */
+selectbits.h
+AAB_fd_zero_selectbits_h
+/* This file fixes a bug in the __FD_ZERO macro present in glibc 1.x. */
+#ifndef _TYPES_H_WRAPPER
+#include <features.h>
+#include_next <gnu/types.h>
+#if defined(__FD_ZERO) && !defined(__GLIBC__)
+#undef __FD_ZERO
+# define __FD_ZERO(fdsetp) \
+  do { \
+    int __d0, __d1; \
+        __asm__ __volatile__("cld ; rep ; stosl" \
+        : "=&c" (__d0), "=&D" (__d1) \
+        : "a" (0), "0" (__FDSET_LONGS), \
+          "1" ((__fd_set *) (fdsetp)) :"memory"); \
+  } while (0)
+#endif
+#define _TYPES_H_WRAPPER
+#endif /* _TYPES_H_WRAPPER */
+gnu/types.h
+AAB_fd_zero_gnu_types_h
+/* This file fixes a bug in the __FD_ZERO macro
+   for older versions of the Linux kernel. */
+#ifndef _POSIX_TYPES_H_WRAPPER
+#include <features.h>
+ #include_next <asm/posix_types.h>
+#if defined(__FD_ZERO) && !defined(__GLIBC__)
+#undef __FD_ZERO
+#define __FD_ZERO(fdsetp) \
+  do { \
+    int __d0, __d1; \
+__asm__ __volatile__("cld ; rep ; stosl" \
+: "=&c" (__d0), "=&D" (__d1) \
+: "a" (0), "0" (__FDSET_LONGS), \
+  "1" ((__kernel_fd_set *) (fdsetp)) :"memory"); \
+  } while (0)
+#endif
+#define _POSIX_TYPES_H_WRAPPER
+#endif /* _POSIX_TYPES_H_WRAPPER */
+posix_types_64
+x86_64
+} while
+asm/posix_types.h
+AAB_fd_zero_asm_posix_types_h
+/* This file prototypes the long double functions available on Mac OS
+   10.3.9.  */
+#ifndef __MATH__
+# undef __APPLE_CC__
+# define __APPLE_CC__  1345
+# include_next <architecture/ppc/math.h>
+# undef __APPLE_CC__
+# define __APPLE_CC__ 1
+# ifndef __LIBMLDBL_COMPAT
+#  ifdef __LONG_DOUBLE_128__
+#   define __LIBMLDBL_COMPAT(sym) __asm("_" #sym "$LDBL128")
+#  else
+#   define __LIBMLDBL_COMPAT(sym)
+#  endif /* __LONG_DOUBLE_128__ */
+# endif /* __LIBMLDBL_COMPAT */
+# ifdef __cplusplus
+   extern "C" {
+# endif
+  extern long double acosl( long double ) __LIBMLDBL_COMPAT(acosl);
+  extern long double asinl( long double ) __LIBMLDBL_COMPAT(asinl);
+  extern long double atanl( long double ) __LIBMLDBL_COMPAT(atanl);
+  extern long double atan2l( long double, long double ) __LIBMLDBL_COMPAT(atan2l);
+  extern long double cosl( long double ) __LIBMLDBL_COMPAT(cosl);
+  extern long double sinl( long double ) __LIBMLDBL_COMPAT(sinl);
+  extern long double tanl( long double ) __LIBMLDBL_COMPAT(tanl);
+  extern long double acoshl( long double ) __LIBMLDBL_COMPAT(acoshl);
+  extern long double asinhl( long double ) __LIBMLDBL_COMPAT(asinhl);
+  extern long double atanhl( long double ) __LIBMLDBL_COMPAT(atanhl);
+  extern long double coshl( long double ) __LIBMLDBL_COMPAT(coshl);
+  extern long double sinhl( long double ) __LIBMLDBL_COMPAT(sinhl);
+  extern long double tanhl( long double ) __LIBMLDBL_COMPAT(tanhl);
+  extern long double expl( long double ) __LIBMLDBL_COMPAT(expl);
+  extern long double exp2l( long double ) __LIBMLDBL_COMPAT(exp2l);
+  extern long double expm1l( long double ) __LIBMLDBL_COMPAT(expm1l);
+  extern long double logl( long double ) __LIBMLDBL_COMPAT(logl);
+  extern long double log10l( long double ) __LIBMLDBL_COMPAT(log10l);
+  extern long double log2l( long double ) __LIBMLDBL_COMPAT(log2l);
+  extern long double log1pl( long double ) __LIBMLDBL_COMPAT(log1pl);
+  extern long double logbl( long double ) __LIBMLDBL_COMPAT(logbl);
+  extern long double modfl( long double, long double * ) __LIBMLDBL_COMPAT(modfl);
+  extern long double ldexpl( long double, int ) __LIBMLDBL_COMPAT(ldexpl);
+  extern long double frexpl( long double, int * ) __LIBMLDBL_COMPAT(frexpl);
+  extern int ilogbl( long double ) __LIBMLDBL_COMPAT(ilogbl);
+  extern long double scalbnl( long double, int ) __LIBMLDBL_COMPAT(scalbnl);
+  extern long double scalblnl( long double, long int ) __LIBMLDBL_COMPAT(scalblnl);
+  extern long double fabsl( long double ) __LIBMLDBL_COMPAT(fabsl);
+  extern long double cbrtl( long double ) __LIBMLDBL_COMPAT(cbrtl);
+  extern long double hypotl( long double, long double ) __LIBMLDBL_COMPAT(hypotl);
+  extern long double powl( long double, long double ) __LIBMLDBL_COMPAT(powl);
+  extern long double sqrtl( long double ) __LIBMLDBL_COMPAT(sqrtl);
+  extern long double erfl( long double ) __LIBMLDBL_COMPAT(erfl);
+  extern long double erfcl( long double ) __LIBMLDBL_COMPAT(erfcl);
+  extern long double lgammal( long double ) __LIBMLDBL_COMPAT(lgammal);
+  extern long double tgammal( long double ) __LIBMLDBL_COMPAT(tgammal);
+  extern long double ceill( long double ) __LIBMLDBL_COMPAT(ceill);
+  extern long double floorl( long double ) __LIBMLDBL_COMPAT(floorl);
+  extern long double nearbyintl( long double ) __LIBMLDBL_COMPAT(nearbyintl);
+  extern long double rintl( long double ) __LIBMLDBL_COMPAT(rintl);
+  extern long int lrintl( long double ) __LIBMLDBL_COMPAT(lrintl);
+  extern long long int llrintl( long double ) __LIBMLDBL_COMPAT(llrintl);
+  extern long double roundl( long double ) __LIBMLDBL_COMPAT(roundl);
+  extern long int lroundl( long double ) __LIBMLDBL_COMPAT(lroundl);
+  extern long long int llroundl( long double ) __LIBMLDBL_COMPAT(llroundl);
+  extern long double truncl( long double ) __LIBMLDBL_COMPAT(truncl);
+  extern long double fmodl( long double, long double) __LIBMLDBL_COMPAT(fmodl);
+  extern long double remainderl( long double, long double ) __LIBMLDBL_COMPAT(remainderl);
+  extern long double remquol( long double, long double, int * ) __LIBMLDBL_COMPAT(remquol);
+  extern long double copysignl( long double, long double ) __LIBMLDBL_COMPAT(copysignl);
+  extern long double nanl( const char * ) __LIBMLDBL_COMPAT(nanl);
+  extern long double nextafterl( long double, long double ) __LIBMLDBL_COMPAT(nextafterl);
+  extern long double nexttowardl( long double, long double ) __LIBMLDBL_COMPAT(nexttowardl);
+  extern long double fdiml( long double, long double ) __LIBMLDBL_COMPAT(fdiml);
+  extern long double fmaxl( long double, long double ) __LIBMLDBL_COMPAT(fmaxl);
+  extern long double fminl( long double, long double ) __LIBMLDBL_COMPAT(fminl);
+  extern long double fmal( long double, long double, long double ) __LIBMLDBL_COMPAT(fmal);
+# ifdef __cplusplus
+   }
+# endif
+#endif /* __MATH__ */
+powl
+architecture/ppc/math.h
+AAB_darwin7_9_long_double_funcs
+#if defined __GNUG__ && defined _LARGE_FILES && defined __cplusplus
+#define __need__aix_fcntl_h_fix
+#ifdef __need__aix_fcntl_h_fix
+#undef open
+#undef creat
+#undef openat
+/* Alias the symbols using asm */
+extern "C" {
+extern int open(const char *, int, ...) __asm__("open64");
+extern int creat(const char *, mode_t) __asm__("creat64");
+#if (_XOPEN_SOURCE >= 700)
+extern int openat(int, const char *, int, ...) __asm__("open64at");
+#endif
+#endif
+#endif
+define open[ 	]open64
+fcntl.h
+AAB_aix_fcntl
+#if defined __GNUG__ && defined _LARGE_FILES && defined __cplusplus
+#define __need__aix_stdio_h_fix
+#ifdef __need__aix_stdio_h_fix
+#undef fseeko
+#undef ftello
+#undef fgetpos
+#undef fsetpos
+#undef fopen
+#undef freopen
+/* Alias the symbols using asm */
+extern "C" {
+extern int fgetpos(FILE *, fpos64_t *) __asm__("fgetpos64");
+extern FILE *fopen(const char *, const char *) __asm__("fopen64");
+extern FILE *freopen(const char *, const char *, FILE *) __asm__("freopen64");
+extern int fseeko(FILE *, off64_t, int) __asm__("fseeko64");
+extern int fsetpos(FILE *, const fpos64_t *) __asm__("fsetpos64");
+extern off64_t ftello(FILE *) __asm__("ftello64");
+#endif
+#endif
+define fopen fopen64
+stdio.h
+AAB_aix_stdio
+/bin/sed
+^[ 	]*#[ 	]*include[ 	]*"[^/]
+/*  DO NOT EDIT THIS FILE.
+    It has been auto-edited by fixincludes from:
+	"%s/%s"
+    This had to be done to correct non-standard usages in the
+    original, manufacturer supplied header file.  */
+fixincl version 1.1
+error %d (%s) reading input
+label pattern
+name pattern
+fixincl ERROR:  cannot compile %s regex for %s
+	expr = `%s'
+	error %s
+^[ 	]*#[ 	]*(if|ifdef|ifndef)[ 	]+
+machine_name_test
+fixincludes error:  the `%s' fix test is unknown
+machine_name
+stdc_0_in_system_headers
+TARGET_MACHINE
+ORIGDIR
+SRCDIR
+INPUT
+DESTDIR
+FIND_BASE
+true
+fixincl ERROR:  %s environment variable not defined
+each of these must be defined:
+TEST_MODE
+FIND_BASE
+VERBOSE
+MN_NAME_PAT
+DESTDIR
+INPUT
+SRCDIR
+ORIGDIR
+TARGET_MACHINE
+alnum
+alpha
+blank
+cntrl
+digit
+graph
+lower
+print
+punct
+space
+upper
+xdigit
+No previous regular expression
+Memory exhausted
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+%s%sout of memory allocating %lu bytes
+undocumented error #%d
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_access
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+atoi
+calloc
+exit
+fclose
+feof
+ferror
+fopen
+fprintf
+fputc
+fread
+free
+freopen
+fwrite
+getc
+getenv
+isalnum
+isalpha
+iscntrl
+islower
+isprint
+ispunct
+isspace
+isupper
+isxdigit
+malloc
+memcmp
+memcpy
+printf
+putc
+realloc
+signal
+sprintf
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strrchr
+system
+vfprintf
+_stat64
+_unlink
+_tempnam
+_open
+_mkdir
+_isatty
+_getcwd
+_fileno
+_fdopen
+_close
+KERNEL32.dll
+msvcrt.dll

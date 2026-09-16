@@ -1,0 +1,833 @@
+!This program cannot be run in DOS mode.
+ZVRich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+T$0H
+UAVAWH
+}/fD
+A_A^]
+\$ H
+UVAWH
+|$PH
+t$`E3
+t(I;
+\$XH
+T$XL+
+t$`H
+|$PH
+\$hH
+0A_^]
+L$XL
+H9A 
+\$@H
+D$ A
+\$@H
+\$0H
+L$0E3
+t$xH
+\$pH
+\$0H
+H;_ u
+\$0H
+\$0H
+\$0H
+D$0H
+D$(L
+L$ M
+L$ D
+SVWH
+H9X s
+H;Y H
+L$ps
+T$pL
+D$pM
+T$pH
+D$ L
+H9Z s
+I;X L
+D$ps
+L$pH
+D$pH9
+P_^[
+T$0H
+t$8H
+\$@H
+WAVAWH
+\$hH
+t$pI
+IHE3
+\$hH
+t$pH
+@A_A^_
+@SVWH
+D$`H
+T$XH
+\$PH
+0_^[
+\$HH
+D$@H
+\$HH
+T$8H
+T$@H
+\$@H
+\$@H
+T$@H
+D$@H
+VAWH
+t$ L
+D$PL
+D$PI
+\$@H
+L93u
+L92u'
+L90u
+t$ H
+|$HH
+\$@H
+D$PI
+(A_^
+l$8H
+t$@H
+\$0H
+\$0H
+t$8H
+\$0H
+t$8H
+\$0H
+t$8H
+t$8H
+\$0H
+\$0H
+\$0H
+\$0H
+\$0H
+|$03
+|$0H
+|$0H
+L$ L
+VWAVH
+uwL;
+\$HH
+ A^_^
+L$PL
+L$PH
+T$@L
+D$PL;D$Xu
+ A^_^
+SVWAVH
+\$`H
+t$pH
+|$hL
+t$xH
+8A^_^[
+\$0H
+t$8H
+\$XM
+H;P A
+D$(L
+\$ A
+H9H s*
+D$(L
+\$ H
+T$PH
+\$XH
+effffff
+H;8u
+t$8H
+|$@H
+\$0M
+\$@H
+\$0H
+D$PH
+D$ D
+D$PH
+D$HH
+D$`8
+D$hH
+D$HH
+D$PH
+T$@H
+D$`p
+D$`H
+D$ L
+T$@3
+\$ H
+T$HH
+T$H3
+\$@H
+t$PH
+\$HH
+Cp*V
+Ct```
+\$HH
+D$(3
+L$ E3
+t/~ 
+\$`H
+t$h3
+K0E3
+|$0H
+T$hH
+\$@H
+D$PH
+T$HH
+\$@H
+\$xH
+I$A+
+K D+
+D$@ 
+T$0H
+L$ I
+\$xH
+l$8H
+t$@H
+|$H3
+T$0H
+|$HH
+l$8H
+t$@H
+\$HH
+t$PH
+l$@@
+\$HH
+t$PH
+UWAVH
+t$0H
+D$0H
+T$0H
+(t$0
+D$@H
+D$HH
+t$X3
+|$hH
+|$xH
+D$pH
+D$PH
+A^_]
+\tP-j
+@USVH
+L$pH
+D$pH
+L$pE
+D$x+D$pL
+L$hH
+D$|E3
++D$tH
+l$(L
+\$ L
+D$hL
+T$|D
+L$x3
++T$tD+L$p
+D$`H
+T$HD
+L$@D
+l$8D
+l$0H
+UATAUAVAWH
+D$P3
+D$pH
+D$`E3
+D$`3
+D$hA
+T$`+
+D$ D
+gfff
+D$\D
+D$ D
+T$PH
+|$ E3
+T$PH
+D$ L
+L$pD
+D$x+D$p
+D$|+D$t
+D9D$XD
+OD$XD
+(D$Pf
+D$ L
+D+\$PD
+\$XD
+D+T$TD
+D$h+D$`
+D$l+D$d
+T$(D
+\$ 3
+M0H3
+A_A^A]A\]
+UVWAVAWH
+L$ H
+M'H3
+A_A^_^]
+\$`H
+t$hH
+|$pL
+T$8H
+L$ E
+D$8H
+\$`H
+t$hH
+|$pH
+D$` 
+D$PH
+\$pI
+\$8H
+t$@H
+l$0H
+\$8H
+t$@H
+\$ UH
+D$X3
+l$0D
+L$@D
+T$HH
+f9L$H
+t$xH
+L$XH3
+L$@D
+\$0H
+L$ WH
+\$0H
+T$hH
+\$ L
+T$h3
+\$PH
+t$XH
+\$0H
+\$0H
+\$0H
+T$0H
+L$0L
+t$ WH
+T$ E3
+l$(H
+T$PH
+D$PH
+D$PH
+\$XH
+l$`H
+t$hH
+\$0H
+@UVWATAUAVAWH
+l$@D
+l$8L
+l$0H
+L$ E3
+D$(H
+t$ L
+A_A^A]A\_^]
+D$@=
+D$ H
+D$8H
+D$8H
+D$@H
+D$@H
+\$0H
+t$8H
+p AWH
+T$ f
+9 wcfD99t
+D$ H
+\$@H
+t$HH
+|$PL
+t$XH
+SVWAVH
+|$px
+\$`H
+8A^_^[
+VWAVH
+|$px
+\$`H
+\$hH
+@A^_^
+x AVH
+\$0H
+l$8H
+t$@H
+D$8H
+D$8H
+D$@H
+8csm
+LcA<E3
+t"H+
+\$0H
+HcH<H
+\$ UH
+H3E H3E
+\$HH
+\$0H
+\$0H
+\$0H
+x AVH
+\$0H
+l$8H
+t$@H
+|$HA
+@SUWH
+H9] 
+ _][
+@SUWH
+H9]0
+0_][
+D$ M
+D$ M
+8csm
+vector<T> too long
+CARCCARBDESGDESFDESEDESCDESBDESAR
+PATG
+CDRHCDRGCDRFCDRECDRDCDRCCDRB
+CSLACSL9CSL8CSL7CSL6CSL5CSL4CSL3CSL2CSL1CDTLCDTKCDTJCDTICDTHCDTGCDTFCDTECDTDCDTCCDTB
+IsolationAware function called after IsolationAwareCleanup
+generic
+unknown error
+iostream
+iostream stream error
+system
+SetAppInfo
+UTLInitialize
+InitModule
+UTLUninitialize
+GetAppSkinSettingData
+StartApp
+string too long
+invalid string position
+map/set<T> too long
+GetUILang
+IsCurLangFarEast
+WTransBmpWnd
+RSDS6
+D:\waldo\v1700\Release\Programs64\CorelDRW-APP.pdb
+?GetSplashScreenImagePath@WAppSkinSettingData@@QEAA_NAEAV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@@Z
+?GetFireBallImagePath@WAppSkinSettingData@@QEAA_NAEAV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@@Z
+BOXIDGetCopyrightInfo
+?GetAppUIName@WAppSkinSettingData@@QEAA?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@XZ
+?CreateSilentEvent@IGLB_UILanguage@@SAPEAXXZ
+CrlUtl.dll
+GdipFree
+GdipAlloc
+GdipDisposeImage
+GdipCreateFromHDC
+GdipDeleteGraphics
+GdipDrawImageRectI
+GdipCloneImage
+GdipGetImageWidth
+GdipGetImageHeight
+GdipCreateBitmapFromFile
+GdiplusStartup
+GdiplusShutdown
+gdiplus.dll
+?SetCommandLine@CommandLine@CrlUtils@@QEAAXPEB_W_N@Z
+?GetProcessFileName@Path@SystemIO@@YA?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@PEAUHINSTANCE__@@@Z
+??1CommandLine@CrlUtils@@QEAA@XZ
+??0CommandLine@CrlUtils@@QEAA@XZ
+?Exists@File@SystemIO@@YA_NPEB_W@Z
+?GetFolderName@Path@SystemIO@@YA?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@PEB_W@Z
+?Combine@Path@SystemIO@@YA?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@PEB_W0@Z
+?GetFileName@Path@SystemIO@@YA?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@PEB_W@Z
+CrlUtils.dll
+mfc120u.dll
+memmove
+free
+_purecall
+wcsncpy
+malloc
+calloc
+islower
+toupper
+memset
+__C_specific_handler
+MSVCR120.dll
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+_XcptFilter
+__crtGetShowWindowMode
+_amsg_exit
+__wgetmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+_wcmdln
+_fmode
+_commode
+?terminate@@YAXXZ
+__crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+__crtCapturePreviousContext
+?_type_info_dtor_internal_method@type_info@@QEAAXXZ
+__crtSetUnhandledExceptionFilter
+HeapAlloc
+HeapFree
+GetProcessHeap
+InitializeCriticalSectionEx
+GetLastError
+DecodePointer
+DeleteCriticalSection
+SetEvent
+CloseHandle
+SetLastError
+DeactivateActCtx
+LoadLibraryW
+ActivateActCtx
+FindActCtxSectionStringW
+CreateActCtxW
+GetModuleFileNameW
+GetModuleHandleExW
+QueryActCtxW
+OutputDebugStringA
+GetProcAddress
+FreeLibrary
+ReleaseActCtx
+CreateEventW
+CreateThread
+WaitForSingleObject
+GetCurrentThreadId
+GetUserDefaultLCID
+GetACP
+lstrcpyW
+lstrcmpiW
+CreateFileW
+OutputDebugStringW
+GetFileSize
+ReadFile
+EncodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+DdeInitializeW
+DdeCreateStringHandleW
+DdeNameService
+PeekMessageW
+DispatchMessageW
+DdeEnableCallback
+DdeFreeStringHandle
+DdeUninitialize
+DdeCmpStringHandles
+DdeAccessData
+DdeUnaccessData
+GetSysColor
+IsWindow
+GetMessageW
+TranslateMessage
+SendMessageW
+PostThreadMessageW
+EnableWindow
+GetSystemMetrics
+CreateDialogParamW
+SetPropW
+SetWindowLongW
+GetWindowLongW
+SetLayeredWindowAttributes
+ShowWindow
+UpdateWindow
+InvalidateRect
+DestroyWindow
+EndDialog
+GetClientRect
+LoadStringW
+DrawTextW
+InflateRect
+SetWindowTextW
+GetDC
+SystemParametersInfoW
+SetRect
+CopyRect
+ReleaseDC
+GetParent
+AdjustWindowRect
+SetWindowPos
+OffsetRect
+IsRectEmpty
+LoadCursorW
+GetWindowRect
+UpdateLayeredWindow
+USER32.dll
+BitBlt
+CreateCompatibleDC
+CreateCompatibleBitmap
+SelectPalette
+RealizePalette
+SaveDC
+RestoreDC
+DeleteObject
+CreateDIBSection
+SelectObject
+SetBkMode
+SetTextColor
+TextOutW
+DeleteDC
+GetDeviceCaps
+GetTextMetricsW
+CreateFontIndirectW
+GetTextFaceW
+GetStockObject
+CreateSolidBrush
+GetNearestColor
+Rectangle
+SetBkColor
+SetTextAlign
+RectVisible
+StretchDIBits
+CreatePalette
+GDI32.dll
+AlphaBlend
+MSIMG32.dll
+CoInitialize
+CoUninitialize
+ole32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPEBD@Z
+?_Syserror_map@std@@YAPEBDH@Z
+?_Winerror_map@std@@YAPEBDH@Z
+?_Xout_of_range@std@@YAXPEBD@Z
+MSVCP120.dll
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+.?AVtype_info@@
+.?AUIAppStartupInit@@
+.?AUVGAppStartupInitBase@@
+.?AVAppStartupInit@@
+.?AUIVGAppStartupInit@@
+.?AV?$CSimpleStringT@_W$00@ATL@@
+.?AV?$CStringT@_WV?$StrTraitMFC_DLL@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@
+.?AV_System_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_Generic_error_category@std@@
+.?AVerror_category@std@@
+.?AVWAppStartup@@
+.?AUIAppStartup@@
+.?AVWSplashScreen@@
+.?AUISplashScreen@@
+.?AVCPen@@
+.PEAVCException@@
+.?AVCBitmap@@
+.?AVCGdiObject@@
+.?AVCObject@@
+.?AVCWnd@@
+.?AVCCmdTarget@@
+.?AVWTransBmpWnd@@
+.?AVImage@Gdiplus@@
+.?AVGdiplusBase@Gdiplus@@
+.?AVBitmap@Gdiplus@@
+"""""""""""""""""""""""""""""/
+""""""
+"""""
+"""""
+""""
+"""/
+"""/
+"/""""
+""""
+"/"""""""
+"""""
+										
+					
+					
+IHDR
+IDATx
+7}>x6xF
+/\kn
+w1qQ
+ AJg`j
+G	00
+@kV6,
+nj).%
+( %,
+l9+m}O@
+l}O@
+IA[H
+f J`
+\>]~5
+5{($
+	%z0
+z6A	k
+,D{7
+!H#I*u
+hK(1
+PBPb
+NzYm
+{[=!H
+@;BK
+5?oH
+Q$v	
+A$u$T
+Y/wm^
+uE#7
+P{if)5
+PsNa
+U[pn
+)a{NE@
+,gE_
+E?{N
+/$ _
+sYe^
+dWj-|"
+',_H?
+3/>}
+Jn.	
+,W^q
++=,4V
+'.,O
+NL#/
+^X}7
+O6K[
+/0 }
+<G%v
+;?3<
+:z]&2jC
+{_,J
+(`x(
+(`h(
+(`X(
+?-D@
+7x:P
+IEND
+wwwwww
+r""""'
+r""""'
+r"""
+/""'
+r/"(
+r""(p
+wwww
+IHDR
+:IDATx
+XBdL
+Fhh+
+Zz	km
+P `+6
+5{@ c
+P pn
+P `o
+P 0.
+cw=1
+{o,w/
+@ }-
+H[kS
+@ ]-M
+@ ^5O
+Dg*5
+n&J9
+~jiWa
+_/'9,
+VWWK
+IEND
+PA<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware></windowsSettings></application></assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+Z0X03
+>0!0	
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+"W*o
+]jxdE
+`F~T
+&0$0"
+http://ocsp.thawte.com0
+80604
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+y@b%
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+2oNW
+a;EQ
+g0e0*
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
+50301
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+b07x
+,&c3
+\vnO^
+EFAn
+y3+.{
+>"hcS
+.Ms]
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+130625000000Z
+160724235959Z0
+Ontario1
+Ottawa1
+Corel Corporation1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+Corel Corporation0
+90705
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+e0c0$
+http://ocsp.verisign.com0;
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0
+0v]r*
+})R`
+RJ`H
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+100208000000Z
+200207235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA0
+&J@<
+z;T0S
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+	image/gif0!0
+#http://logo.verisign.com/vslogo.gif04
+-0+0)
+#http://crl.verisign.com/pca3-g5.crl04
+(0&0$
+http://ocsp.verisign.com0
+VeriSignMPKI-2-80
+3130
+G8J-l
+B=e6
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+%VeriSign Class 3 Code Signing 2010 CA
+.Ms]
+100.
+4_@%"+
+0r0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+140315041424Z0#

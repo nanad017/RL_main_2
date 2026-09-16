@@ -1,0 +1,440 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+)t$ 
+)|$0D
+)D$@fD
+(|$0D
+(D$@f
+(t$ H
+(t$ H
+(|$0D
+(D$@H
+UWVSH
+)t$@
+)|$P
+L$8L
+|$8f
+(t$@
+(|$PH
+h[^_]
+D$(f
+D$(f
+l$(f
+D$HL
+L$@L
+)t$`H
+D$PH
+D$8H
+D$0H
+D$XH
+(t$`H
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+D$PL
+L$LH
+D$8H
+T$PH
+T$PH
+)t$Pf
+D$HfH
+L$8f
+(t$PH
+(t$PH
+\$8f
+t$ H
+(t$PH
+(HcA
+AWAVAUATUWVSH
+T$<L
+T$<A)
+T$8H
+T$8H
+D$<A)
+H[^_]A\A]A^A_
+T$8H
+D$<H
+T$8H
+T$<H
+T$<H
+AWAVAUATUWVSH
+D$@H
+[^_]A\A]A^A_
+0u%H
+D$PL
+T$HI
+	w:M
+\$\G
+\$HD
+\$\L
+D$HL+D$PI
+T$DE
+L$XE)
+|$lt
+|$lt
+D$lf
+|$@5
+HcL$h
+	w4E
++D$@
+9D$P
+t$ A
+D$pH
+T$Hu
+9D$@
+L$DH
+L$P9
+t$`E
+9D$Hu1
+d$DE
+t$pA
+T$xL
+D$\D
++\$@)
+9\$P~
++\$P
+D$`H
+L$DE
+9D$@
+t$\)
+T$P9
+D$@~:E
+D$@1
+~"Hc
+.=UJ
+|$@H
+D$XL
+l$@)
+L$h)
+9T$P
+D$@H
+T$XE
+\$XE
+\$DE
+T$PA
+D$PA
+T$DE
+T$@9T$H
+9T$P
+AUATUWVSH
+([^_]A\A]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B:T 
+UWVSH
+[^_]
+[^_]
+AWAVAUATUWVSH
+D$<H
+T$0H
+D$(M
+D$(M9
+H[^_]A\A]A^A_
+D$0H
+D$0H
++L$<H
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+WVSH
+)t$@H
+T$8H
+T$<H
+D$8+D$<fH
+~>fH
+(t$@H
+P[^_
+uFI9
+AWAVAUATUWVSH
+WtRH
+0<	w
+s@t1
+D$8I
+L$HH
+Ys8H
+L$HH
+t$HL
+L$HH
+L$HE
+L$HH
+usage: %s [ -afFIptTwW [args] ] [ +opts[=arg] ] [ files ]
+missing -t col. 1 tag
+-W argument missing or non-digit
+missing argument for -%c
+%9s %-16s %-16s %s
+%12s %-20s %s
+invalid list option: l%c
+invalid option: -%c
+overflowed + argument table
+files specified for arc/geodesic mode
+<stdin>
+input file
+%.3f
+no arguments in initialization list
+ellipse setup failure
+sunits
+tlat_1
+rlat_1
+rlon_1
+tlat_2
+rlat_2
+rlon_2
+incomplete geodesic/arc info
+in_A
+rdel_A
+del azimuth == 0
+ddel_S
+in_S
+no interval divisor selected
+%s unknown unit conversion id
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+sqrt
+inity
+ABCDEF
+abcdef
+0123456789
+vH7B
+W4vC
+[%Co
+O8M2
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+adjlon
+dmstor
+emess
+emess_dat
+geod_init
+geod_inverse
+geod_lineinit
+geod_position
+pj_dalloc
+pj_ell_set
+pj_get_default_ctx
+pj_get_ellps_ref
+pj_get_release
+pj_get_units_ref
+pj_mkparam
+pj_param
+rtodms
+set_rtodms
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_errno
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+atof
+calloc
+exit
+fclose
+fgetc
+fgets
+fopen
+fprintf
+fputs
+free
+fwrite
+localeconv
+malloc
+memcpy
+printf
+putchar
+signal
+strchr
+strcmp
+strlen
+strncmp
+strrchr
+vfprintf
+libproj-12.dll
+KERNEL32.dll
+msvcrt.dll

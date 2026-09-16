@@ -34,9 +34,6 @@ Các script chỉ cài package, **không tải dataset hay model**.
 qua package manager/pyenv là việc của máy chủ; các script không tự build Python,
 không ghi vào `$HOME` và không tải artifact ngoài repo.
 
-Script `scripts/recreate_env_no_dataset.sh` được giữ để tương thích tên cũ và
-chỉ gọi `setup_rl_env.sh`.
-
 ## Artifact ngoài repository
 
 Không có thư mục checkpoint dùng chung. Mỗi detector đọc model ở ngay trong
@@ -79,7 +76,7 @@ RL_PYTHON="$PWD/.venv-rl/bin/python" \
 STOKE_PYTHON="$PWD/.venv-stoke/bin/python" \
 MALWARE_RL_TRAIN_DIR=/path/to/RL/virus \
 MALWARE_RL_TEST_DIR=/path/to/test \
-bash scripts/run_custom_detector_with_stoke.sh check
+bash scripts/run.sh check
 ```
 
 Chạy PPO bằng cách thay `check` bằng `ppo`; có thể truyền các biến `SEED`,

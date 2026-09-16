@@ -1,0 +1,2600 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+5pZ`,
+O:j<v
+0iqs
+z+1^	*
+, rm
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*V(%
+*Z(|
+3_~+
+-<(K
+*^~1
+-B(K
+*2sI
+,B(K
+*~r'
+&*(+
+*Z(H
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP{
+R#"8\#
+	About {0}
+FPlease try changing the HTTP port to 8733 or running as Administrator.
+Version {0}
+vFailed to launch client application '{0}'. The client may not be accessible or failed to execute. Do you want to exit?
+(Click here to view detailed information.
+Microsoft Corporation
+ Microsoft Corporation.  All rights reserved.
+An error occurred while trying to set the ready event named '{0}'. Check if the event name is correct, and you have the right to access it.
+Additional information: {1}
+%Failed to get the system information.
+NThe following file(s) does not exist, please double check and try again.{0}{1}
+File '{0}' does not exist.
+Invalid command line switch.
+@String must not be null and must be at least one character long.
+&About {0}
+xThe target assembly contains no service types. You may need to adjust the Code Access Security policy of this assembly. 
+WCF Service Host cannot find any service metadata. This may cause the client application to run improperly. Please check if metadata is enabled. Do you want to exit?
+Not ready.
+Operation cancelled
+;Service host for Windows Communication Foundation services.
+Microsoft WCF Service Host
+Ready
+The service cannot be started. This service has no endpoint defined. Please add at least one endpoint for the service in config file and try again.
+Service started.
+Error
+Started
+Stopped
+Service stopped.
+!Your service(s) have been hosted.
+Starting services...
+Stopping services...
+AType {0} could not be loaded in '{1}' or one of its dependencies.
+Usage: WcfSvcHost.exe /service:<pathToServiceDll> /config:<pathToServiceConfig> [/client:<pathToClientApp>] [/clientArgs:<argumentsToBePassedToClientApp>]
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.Padding, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089zSystem.Windows.Forms.AnchorStyles, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.ImeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089rSystem.Drawing.ContentAlignment, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3axSystem.Windows.Forms.ScrollBars, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADPA]
+dCU<
+GU?wK
+bi5bb
+".joN
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+ About Microsoft WCF Service Host
+	AboutForm
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonOk
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+buttonSystemInformation
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelCompanyName
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelCopyright
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelProductName
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+labelVersion
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+textBoxDescription
+$this
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+wcfPicture
+$this
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&System Info
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Company nameF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+	CopyrightF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WCF Service HostF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+VersionF
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ScrollBars
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WCF Service HostC
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Windows.Forms.FormStartPosition, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089zSystem.Windows.Forms.AnchorStyles, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.ImeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089rSystem.Drawing.ContentAlignment, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089xSystem.Windows.Forms.ScrollBars, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PhDu
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+&System.Windows.Forms.FormStartPosition
+value__
+	ErrorForm
+	ErrorForm
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+btnOK
+$this
+tSystem.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lblDescription
+$this
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+picError
+$this
+xSystem.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+textErrorDetail
+$this
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ImeMode
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WcfSvcHost encountered a critical error and must exit. This may be caused by invalid configuration file. Please inspect additional information below for detail.F
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.ContentAlignment
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+'System.Windows.Forms.PictureBoxSizeMode
+value__
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ScrollBars
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+gSystem.Drawing.SizeF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3afSystem.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3agSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3auSystem.Windows.Forms.Padding, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089rSystem.Windows.Forms.Keys, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089zSystem.Windows.Forms.AnchorStyles, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089ySystem.Windows.Forms.Orientation, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089xSystem.Windows.Forms.ScrollBars, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089P
+h' !>)5+6*
+lO?r&(A
+)jHz
+icqWwc
+t;Say
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.SizeF
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WCF Service Host
+MainForm
+rSystem.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+hdrAddress
+zSystem.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+hdrServiceName
+zSystem.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	hdrStatus
+zSystem.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lblAdditionalInformation
+splitContainer1.Panel2
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lblServices
+splitContainer1.Panel1
+sSystem.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lvContextMenu
+~System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lvcmCopy
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+lvcmCopyMetadataAddress
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miEdit
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miEditCopyMetadataAddress
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miExit
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miFile
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miFileClose
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miFileExit
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miFileSeparator
+System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miHelp
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miHelpAbout
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miHelpHelp
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+miOpen
+System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+splitContainer1
+splitContainer1.Panel1
+splitContainer1
+{System.Windows.Forms.SplitterPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+splitContainer1.Panel2
+splitContainer1
+{System.Windows.Forms.SplitterPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+$this
+|System.Windows.Forms.SplitContainer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theBackgroundWorker
+qSystem.ComponentModel.BackgroundWorker, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theListView
+splitContainer1.Panel1
+vSystem.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theMainMenu
+$this
+wSystem.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theNotifyIcon
+xSystem.Windows.Forms.NotifyIcon, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theNotifyIconContextMenu
+~System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theProgressBar
+System.Windows.Forms.ToolStripProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theStatusLabel
+System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+theStatusStrip
+$this
+ySystem.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+toolStripMenuItem1
+System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+txtAdditionalInformation
+splitContainer1.Panel2
+uSystem.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Metadata Address
+Service
+Status
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&Additional Information
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Padding
+_all
+_top
+_left
+_right
+_bottom
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+	&ServicesA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&CopyA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Copy &Metadata AddressA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&Edit
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Keys
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Copy &Metadata AddressA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+E&xitA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&FileA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&CloseA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+E&xitA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&HelpA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&AboutD
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.Keys
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+Hel&pA
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+&OpenE
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ System.Windows.Forms.Orientation
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+menuStrip1
+WcfSvcHost
+WCF Service Host
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ReadyB
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+statusStrip1A
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+!System.Windows.Forms.AnchorStyles
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Point
+WSystem.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.ScrollBars
+value__
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Size
+width
+height
+ATo view detailed information, select a service in the list above.
+6644
+3333
+3333
+66644666
+111///
+663336
+,,,**
+2222
+111///
+	636633
+1///
+,***
+***/,8
+11///
+,,***
+111//
++++*,
+111//
+11///
+,**,**
+B/11//
+				
+11///
+0			
+111//,
+,,***+++
+///11100	
+111/
+,,**
+/*,*
+1/10
+11///
+,,***
+''')))&&&
+&&&''&''
+11///
+,,***++
+'''7
+''')&&&
+&&&)''8
+111/
+,,,**
+))&&&
+&&&))7=>
+1///
+,,***+++
+**,,,
+111//
+%%%;B
+***,
+111//
+,,**
+'')&&&
+11//
+**+++
+''')&
++++*,,
+/,,**
+'''&&
+++***
+111/
+,,**
+''&&
+=.7;;;
+-+++
+'''&&
+))'''
+,,**
+)&))'
+,,**
+'''&&&
+&&))''
+,,***
+'''&&
+&&)'''
+,,***++
+%%&&)''''
+,,**
+?B@BA
+%%%&&)'''
+00	1
+==#%%%&&&'''
+11//
+##%%&&&))'
+###%
+1///
+,***+++
+B%###
+,***++
+'''&&
+%###
+11//
+,**+++
+##%%%&
+111//
+)&&&
+###%%
+11///
+,,,*
+)&&&
+###%%#
+1///
+1///
+,,**
+)&%%%
+1///
+,***
+'')&)&%%%
+$###
+41///
+,***++
+''')&&%%%
+$###
+,,***++
+'))&&%%%
+')&&%%%##
+$+++
+'))&&&%##
+<<>B@
+-,**+++
+))&%&%%#
+'')&&%%###
+**+++
+'')&&&
+''))&&%%%###
+')))&&%%##$$
+''&&
+''&&%%#
+'')&&%%##$$$
+'')))&&%%%#
+')&&&
+%%%#
+(%%%##
+$%#$##"
+%##$$$
+%%%#
+%%##
+ww}}ww}
+ww}}ww}
+}}}w}}	w
+|||}||
+|||}|||}
+|||}|||}
+|}ww}
+	}}|||vv|v
+}}}ww}
+|v||v
+ooovo
+}}||}w}}
+v|vvv|
+vvoo
+|vvv
+o|vvv||v||}|}
+	vvnoovvoo
+onnonooo
+||vv||
+}}www
+onnovoo
+	ooononnnu
+uunntu
+oonooovv
+yy~xxw
+ooonounnunnuuu
+$uun
+munnuunounnnvv
+v|||}||}}}
+uttn
+nmmt
+nmmnnnuunnonnnoo
+ww}}w
+nnnu
+$utmmmtmtt
+mmtt
+tunnuunonu
+|v|||
+vovoonou
++uutmmttmmm
+mmmttmnmtt
+oovvo
+|}}|
+uutt
+vnnooovvvo
+|}}|
+oonnuuutumm
+onnn
+uuun
+{}nunnnuunnnn
+||vvvo
+unnn
+nnnu
+||v||vvv
+smllss
+uuum
+}}}|||
+utttm
+smmmlsllsms
+mmssllsssmm
+}|}|||vvoovo
+utnnm
+smmmlsllsms
+ssllm
+vvooo
+slsllls
+Ammms
+yy~~
+sllsllss
+sssll
+vooonnuutt
+lsllls
+kllkkllkkk{
+|}|||v
+kkklkkklkkrr{
+klll
+yx~yy
+|}vv|oovonnnuu
+sllm
+"{lkkrkrrraakkklk
+@{klllkkllk
+|vvv|ovvonnnu
+kkllkk{lkark{{aaa{{kkl
+rkkk
+klkkk{aarrkr
+rrkaaa
+kk{aaarrqqraa
+aaqrh
+rqqqaa
+vvonnuuttt
+!lmlllkk{{kkarrrqra
+rrqq
+baqqqrb
+bqqrj
+yy~xxp
+vooo
+-klkkkakqqr
+aaaqbbb
+rbbbrh
+bfbqbjjbfbbb
+vooo
++kkkrkqqra
+rrrqbbb
+qbbbf
+@?@@
+bbfffbffff
+vonuuttu
+krrkrraa
+rrqqbb
+fbbb
+Afffiiffiii
+w}}}
+vvvoouuun
+rrra
+rrrbbf
+@f	i
+}|||
+ssslll{{kkaaarrbbffb
+eiie
+w}}ww
+vvoonnuuutt
+lll{{kaarrqrfbbfbf
+vvoonnuuut
+smmmll
+arrrqrfbbbff
+voonnn
+kakkrrr
+bfff
+hee```g```
+}|||v|vvvonnuut
+slllk{kaa
+aaqbfbbf
+eiehhdeeg
+ghe```gg```_
+}}}|||vvvnnnuut
+iiieeieieeieh
+ggddd
+x~yyx
+ehheiehhee
+__^ddd
+~~~xx
+vooonnn
+qjjfifff
+ehheie``ee
+?Add
+^ddd
+voonnnut
+karaaabbfiif
+gg`_
+@d___^^d^^^
+vooonut
+ssmllkkkaarrjff
+eie``hee
+g``___
+cc^^^^
+|||vvo
+llklkarrjjbf
+``ddgg___ddd
+_^cc
+}||v|o
+k{rrrjjjbf
+_dgg___
+^^c^Y^
+www}}
+ooonut
+kkrrrjbbbff
+	```_d``__
+\]^^^YY^
+	|||vooouu
+slllklkaaabbffbff
+h``dd`___dcddd^^c
+yyxxx
+}|||vvo
+lllkka
+iiieeehheg```__
+^^^cc^
+A@@A
+lllklkrrqbf
+^^cc
+www}||vvvonnnut
+ccc^^c^^^Y
+}||vvvonnnut
+^ccc
+]XXX
+www}}}||vvvouuut
+sllkk{raaa
+A@AA?YY]]]YXWWX
+yyxxx
+|||voonnnm
+mmmllkkkaa
+`g``
+X]]]X
+w}}}
+ww}}||vvvonnuu
+sll{rrqrbfff
+hh`dg_dd___
+Y^	Y
+ww}}||vvonnnuu
+slkrrrqqbfff
+h``dg
+ww}}}|||vnnuuu
+lllkraaqqqbb
+___^^ccc
+]]]YXXX
+MLLL
+w}}}||voo
+mmss
+krrrabfffii
+dcc^^^YY
+MLLUUU
+ooonnn
+kaaaqfffiiiee
+__ddd
+WMMML
+ww}|||vovonnn
+qfffiiihh``e``_^^ddd
+MLLL
+yyxx
+www}|||vvvonn
+qbfffiiehhe`e``_^^dddc^^^
+MLLL
+yyyx
+}||vvv
+karrr
+g``_ddd^^c^^
+UMMML
+www}
+vonnnt
+arbfbqf
+ee`gg`
+c^^c
+w}}}|||vonnu
+slllkrrqqbqiiieee```g
+}}}|vvonnnu
+llkkkaqqqffiiieiehg`g
+XXX\
+w}}}|||voonnn
+sllkkkaqqbf
+hg`g
+vvnuu
+sllkkkqqqbf
+XXXWWW
+vooutt
+krrjfff
+___d__c
+||voo
+lllk
+eiee```_dd^^_c^^^
+]]YY]
+QTRPP
+yxxxppwww}||voo
+	llkkaabbb
+ee```_ddd_cc^^^
+]]YY]XWWXX
+@TTTQQTRRRP
+}}||voonnn
+llkkaabbbf
+ee```_ddd_c
+TTTQQTPRRP
+xpwww
+vvonnn
+llkaaa
+iiieee
+___^^^cc^c
+QRPPPO
+}|||
+lllkkaa
+fiii
+d_dd
+QPPOOO
+vonnn
+lllkkakk
+bbbffieeie
+dd__cc
+TTQQPPOOOO
+}}|||v
+	`ee`_dddc
+BTTRPPPOOOO
+}}|||v
+e`ee`_
+ATTRPPPOOJJ
+vnnn
+lllkkl
+bfff
+VUQUUQK
+TTRRPOOJJJ
+vvvo
+lllk
+bbbf
+eee`_`_ddd
+]]Y]]XWWWM
+BTRPOOOJJJN
+}|||}||vvo
+rjjjfff
+^^^c
+TPPPOOKKKN
+}}}w}}
+}}www
+vvvnno
+rjjjfff
+^ddc
+ZOOKNN
+NTPPPOOKKKN
+}||}}|
+	www}w}}}w
+vooo
+kkaaarrjffbff
+ee`ee``g
+cc^^^
+KNNN
+|||}
+	vonouunnt
+kkaarr
+RPPPOOJNNN
+vvvoo
+unnu
+kaakrrrqbbbfff	i
+g``dddccdc^
+QPPPOKNNNN
+vvvoonnuunnuuu
+kkkarrrqqfbbff
+]]XWWWV
+SRTTTR
+KNNNN
+uoouuo
+vovv
+nnnoonnuunntt
+arrrqqfbbff
+]]XWWWV
+KNNNN
+muuun
+nouoo
+	smmsllkkk
+qqqbb
+eeeieee
+c^^^
+JNNII
+mmmt
+qqbbb
+^c^^^
+POOOJNNNII
+ssms
+bqqbbb
+```dg
+JPPOOJNNNII
+lllsl
+aakrrrqqfbbbfiiiff
+g```dg
+^cc^^
+POOOJNNIII
+lmssml	m
+akkaa
+qbfffbfiiiff
+g```gg
+^cc^^
+APOOOJNNIII
+mmlm	l
+aaarraarrbqqbb
+``ee``g
+]XWWWV
+APOOOJNNIII
+arraar
+	bbqqbfffi
+	eiieeeiii
+``dggddd
+?POOK
+	brrrbbqqb
+POOJJNNIII
+rrqqqb
+qbqqqbbrrjfjjjffbfff
+ieeei
+`gg``gggdddc^^^
+@POJKKNNIFF
+bbffifiiif
+fiieeie
+`gg``gggdddc^^^
+POJKKNNIFF
+eiiifi
+`gge`gddgddc
+]XWWWMUTUL
+POKJNNNIFF
+YY]]]XWW
+POKKNNIIIF
+```heeh``ee
+dd`_gg__``d
+gge`eee`
+`ggg	d
+]XWWWM
+OOJJNNIIHH
+`g``g`gg```gg
+``geee`
+```gg`g
+YYYXWXWM
+@JOKJNNIFFF
+^ccd
+dddggg`g__d`gg`_`dd
+``geee`
+```gg`g
+YYYXXXWM
+JOKJNIIFFF
+``gg`
+``eegg
+ ^^c^
+YY]XXXWW
+?OOKJNIIIFG
+^cc^cc^^^cc
+gd```geee`
+``gg`g
+]]XWWMU
+OJJJNIIHGG
+cc^^
+gddd
+ee`eee
+XWWWM
+TTQQPOJNNNIIFFG
+ccc^^
+gg``g`g
+ccc^^
+]WWW
+OKNNNIFHGG
+Y]]]-Y
+ccc^^
+``g`g
+c^c^^
+]WWW
+OKNNNIFHGG
+YYY]]
+ccc^^
+`g``
+c^^^
+]XWW
+OKNNNIIHGG
+WX]]
+^^ccc^
+gg``g``g
+cdc^^^
+]XWWVU
+KKKNIIHGG
+	WW\\WWW\\
+]Y]]
+cc^dd^
+dddg
+YYY]XWWU
+NJJI
+KNNNIIHGG
+UUUMM
+WWW\\\[[
+]WWW
+NNNIIIGGGE
+UUUMM
+\MMW\\VUULLWWW[[	W
+XWWX]]]
+]WWW
+NNNIIIGGGE
+^^cc^^
+YYY]]XWW
+QJEI
+JNNNIFG
+X]]]
+c^^^
+]XWWVUUTO
+KNNIIIFG
+XWWVUUUTN
+NNIIIGGEED
+\\\WWXXX]]
+cc^^
+]]XWWWMUUO
+ANNIFFH
+QTTTQ
+cc^^
+]]XWWWMUUT
+@NIIFFH
+RTTT
+TTTRRRTTTQRSTTR
+V\\WWX
+]]XWWVVUTT
+AFIIHGG
+RPPRPPRRRP
+]XWWW
+?NIIFGG
+VW\WXXX
+Y^^^
+UUUTTTK
+IIIFGEEDDD
+PPPRRRQ
+XX]]]
+]]]X
+VUUUTTTSP
+CFIFHHG
+DDDD
+JJOJJ
+KKKOOO
+OOKOOKKOOOPPRRRQTTQ
+WLLWXW]]]YY]]
+!]]]X\WWWUUUTTTQH
+IFGGG
+DDDD
+	JJKJJKKKO
+OOKKOOO
+LLWWW
+]]]XX\\\VUU
+???@?@
+EDDDD
+KKJJKNJ
+JJJNJJJNJNJJNJKKNJKJNN
+WWWXWX
+]]]X
+FFGG
+EDDDD
+NNJJNJJ
+KKOOK
+JNJJIHG
+RSSTTT	U
+CDFDDGGEEE
+KJKJJOOP
+RRRTTT	U
+MMWWXXWWXWX
+POOO
+GGEDEDDDCC
+INNNII
+JKJJK
+PRRQ
+\\WWWX
+W\VWWUW
+RRPOOO
+IIHGG
+DDDCCC
+PRRR
+	QRPOOOJNN
+HHHIHHIIFIFIIFIIHH
+PPRRRQ
+RRPPOOJKNNIIIFHGG
+HHHIHHIIFIFIIFIIHHIIHH
+NNIII
+PRRQTTQ
+	ROPPOOJJN
+FGGG
+HHIHIFFIHII
+PPRQQQ
+UUTUTTTU
+KKNN
+IIFFF
+GGHHH
+HHHGHGGHHHFF
+	PPPRPRTTQ
+RPPPOOOJJKNNN
+HHGGHHH
+JKKK
+QRRQ
+QRPPPOOJJK
+IIIHGG
+GGGHH
+JJKKOJJ
+PPOOOJJ
+IHHGG
+GGGHH
+HHGHFF
+POOPPROO
+INNIHGGG
+GHHGHGGHIF
+JJKK
+IIIFHG
+wwxww
+wwwwwwww
+wwwwww
+wwwwww
+wwwwwwww
+wwxww
+wwwwww
+wwwwwwww
+wwxww
+wwww
+wwww
+wwww
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+j!J!
+/"#"
+W%?%
+}(l(
+=)J!
+I*%*
+f*%*
+r*%*
+]+F+
+=,l(
+>/ /
+~5n5
+d(B	
+.I	)
+T/s	
+		%	9	Q	^	d	n	}	
+<Module>
+WcfSvcHost.exe
+CodeMarkers
+Microsoft.Internal.Performance
+NativeMethods
+State
+CodeMarkerStartEnd
+CodeMarkerExStartEnd
+SafeClipboard
+Microsoft.Tools.Common
+ServiceReflectionUtility
+VersionNumbers
+StringResources
+WcfSvcHost
+AboutForm
+Microsoft.Tools.SvcHost
+AppLauncher
+PROCESS_INFORMATION
+CmdLineParser
+CrossAppDomainSvcHost
+DiagnosticUtility
+ExceptionUtility
+ErrorForm
+MainForm
+CloseWindowDelegate
+ListViewColumn
+OperationType
+OperationArguments
+Progress
+Program
+RtlAwareMessageBox
+ResourceHelper
+ServiceHostHelper
+ServiceHostStatus
+ServiceInfo
+ServiceKind
+ServiceStatus
+mscorlib
+System
+Object
+Enum
+ValueType
+IDisposable
+System.Windows.Forms
+Form
+MulticastDelegate
+MarshalByRefObject
+AtomName
+DllName
+Instance
+state
+get_IsEnabled
+.ctor
+CodeMarker
+CodeMarkerEx
+Guid
+InitPerformanceDll
+Microsoft.Win32
+RegistryView
+UseCodeMarkers
+UninitializePerformanceDLL
+IsEnabled
+DllInitPerf
+DllUnInitPerf
+AddAtom
+DeleteAtom
+DllPerfCodeMarker
+FindAtom
+value__
+Enabled
+Disabled
+DisabledDueToDllImportException
+DisabledViaRegistryCheck
+_end
+Dispose
+_aBuff
+Clear
+SetText
+System.Collections.ObjectModel
+ReadOnlyCollection`1
+FindHttpBaseAddress
+Type
+IsWcfServiceClass
+IsWFServiceClass
+System.ServiceModel
+ServiceHostBase
+TryCreateWorkflowServiceHost
+HasServiceContractAttribute
+IsDerivedFrom
+Version
+VSCurrentVersion
+VSCurrentVersionString
+MSSDKVersion
+MSSDKVersionString
+NETFxCurrentVersion
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_About
+get_AddressAccessDeniedAdvice
+get_AssemblyVersion
+get_CannotLaunchClient
+get_ClickToViewDetail
+get_Company
+get_Copyright
+get_ErrorSettingReadyEvent
+get_FailToRunSystemInfo
+get_FileDoesNotExist
+get_FileNotExists
+get_InvalidCmdLineSwitch
+get_InvalidString
+get_MenuAbout
+get_NewLineFormat
+get_NoServiceFoundDetail
+get_NoServiceMetadataAvailable
+get_NotReady
+get_OperationCancelled
+get_ProductDescription
+get_ProductName
+get_Ready
+get_ServiceHasNoEndpoint
+get_ServicesHaveBeenHosted
+get_ServiceStarted
+get_ServiceStatusError
+get_ServiceStatusStarted
+get_ServiceStatusStopped
+get_ServiceStopped
+get_StartingServices
+get_StoppingServices
+get_TypeLoadExceptionError
+get_Usage
+Culture
+About
+AddressAccessDeniedAdvice
+AssemblyVersion
+CannotLaunchClient
+ClickToViewDetail
+Company
+Copyright
+ErrorSettingReadyEvent
+FailToRunSystemInfo
+FileDoesNotExist
+FileNotExists
+InvalidCmdLineSwitch
+InvalidString
+MenuAbout
+NewLineFormat
+NoServiceFoundDetail
+NoServiceMetadataAvailable
+NotReady
+OperationCancelled
+ProductDescription
+ProductName
+Ready
+ServiceHasNoEndpoint
+ServicesHaveBeenHosted
+ServiceStarted
+ServiceStatusError
+ServiceStatusStarted
+ServiceStatusStopped
+ServiceStopped
+StartingServices
+StoppingServices
+TypeLoadExceptionError
+Usage
+GetExecutingAssemblyFileVersion
+EventArgs
+buttonSystemInformation_Click
+System.ComponentModel
+IContainer
+components
+InitializeComponent
+Button
+buttonSystemInformation
+Label
+labelCompanyName
+TextBox
+textBoxDescription
+buttonOk
+labelProductName
+labelVersion
+labelCopyright
+PictureBox
+wcfPicture
+appPath
+message
+System.Diagnostics
+Process
+process
+processLock
+EventHandler
+ApplicationExit
+add_ApplicationExit
+remove_ApplicationExit
+get_AppPath
+set_AppPath
+get_Message
+Create
+IsInternetExplorer
+IsWindowsVistaOrHigher
+LaunchInternetExplorer
+Close
+Launch
+WatchForApplicationExit
+AppPath
+Message
+CloseHandle
+IELaunchURL
+hProcess
+hThread
+dwProcessId
+dwThreadId
+ServiceSwitch
+ConfigSwitch
+ClientSwitch
+ClientArgsSwitch
+EventSwitch
+validSwitchs
+pattern
+System.Text.RegularExpressions
+Regex
+System.Collections.Generic
+Dictionary`2
+ParseCmdLine
+ParseCmdLineSwitch
+proxy
+AppDomain
+svcAppDomain
+get_Status
+CreateAppDomain
+LoadServiceAssembly
+CloseAllServices
+CloseService
+GetMexEndpoint
+GetServiceInfo
+GetServices
+GetWsdlEndpoint
+OpenAllServices
+OpenService
+CreateInstanceAndUnwrap
+Status
+exceptionUtility
+get_ExceptionUtility
+DebugAssert
+Exception
+IsFatal
+ArgumentException
+ThrowHelperArgument
+ArgumentNullException
+ThrowHelperArgumentNull
+ThrowHelperCritical
+ThrowHelperError
+ThrowHelperWarning
+get_ErrorDetail
+set_ErrorDetail
+btnOK_Click
+KeyEventArgs
+textErrorDetail_KeyDown
+lblDescription
+btnOK
+picError
+textErrorDetail
+ErrorDetail
+chmName
+WM_ENDSESSION
+WM_QUERYENDSESSION
+CodeMarkersRegRoot
+codeMarkers
+clientArgs
+clientPath
+eventName
+exitInProgress
+exitLock
+host
+launchClientApp
+launcher
+FormWindowState
+previousWindowState
+svcAssemblyPath
+svcConfigPath
+svcInfo
+Exit
+WndProc
+CopyTextToClipboard
+ToString
+ListViewItem
+UpdateListViewItem
+BuildMetadataAddressList
+CancelBackgroundWork
+CloseWindow
+InitializeListView
+LaunchClientApplication
+CancelEventArgs
+lvContextMenu_Opening
+FormClosedEventArgs
+MainForm_FormClosed
+FormClosingEventArgs
+MainForm_FormClosing
+MainForm_Load
+MainForm_Shown
+MainForm_SizeChanged
+miEditCopy_Click
+miEditCopyMetadataAddress_Click
+miExit_Click
+miFileClose_Click
+miFileExit_Click
+miHelpAbout_Click
+miHelpHelp_Click
+MinimizeToTray
+miOpen_Click
+PrepareDefaultIndexArray
+PrepareOperationArguments
+RestoreWindow
+RunWorkInBackground
+SignalReadyEvent
+DoWorkEventArgs
+theBackgroundWorker_DoWork
+ProgressChangedEventArgs
+theBackgroundWorker_ProgressChanged
+RunWorkerCompletedEventArgs
+theBackgroundWorker_RunWorkerCompleted
+theListView_KeyDown
+theListView_SelectedIndexChanged
+theNotifyIcon_BalloonTipClicked
+theNotifyIcon_DoubleClick
+txtAdditionalInformation_KeyDown
+UpdateNotifyIcon
+UpdateStatusLabel
+ColumnHeader
+hdrServiceName
+hdrStatus
+ContextMenuStrip
+lvContextMenu
+ToolStripMenuItem
+miExit
+miFile
+miFileClose
+miHelp
+miHelpAbout
+miOpen
+ListView
+theListView
+MenuStrip
+theMainMenu
+NotifyIcon
+theNotifyIcon
+theNotifyIconContextMenu
+BackgroundWorker
+theBackgroundWorker
+StatusStrip
+theStatusStrip
+ToolStripProgressBar
+theProgressBar
+ToolStripStatusLabel
+theStatusLabel
+hdrAddress
+miEdit
+lvcmCopy
+lvcmCopyMetadataAddress
+miEditCopyMetadataAddress
+miHelpHelp
+ToolStripSeparator
+toolStripMenuItem1
+miFileExit
+miFileSeparator
+SplitContainer
+splitContainer1
+lblServices
+lblAdditionalInformation
+txtAdditionalInformation
+Invoke
+IAsyncResult
+AsyncCallback
+BeginInvoke
+EndInvoke
+MetadataAddress
+StartService
+StopService
+indicesInListView
+type
+indexInListView
+info
+Main
+List`1
+BuildFileNotFoundMessage
+CheckNonExistFiles
+IsValidEventName
+ShowUsage
+DialogResult
+MessageBoxButtons
+MessageBoxIcon
+MessageBoxDefaultButton
+MessageBoxOptions
+Show
+IWin32Window
+IsRightToLeft
+System.Drawing
+Bitmap
+theAboutBoxImage
+Icon
+theAppIcon
+get_AboutBoxImage
+get_ApplicationIcon
+System.IO
+Stream
+LoadResourceStream
+AboutBoxImage
+ApplicationIcon
+DefaultInitializeLeaseTimeInSeconds
+status
+System.Reflection
+Assembly
+svcAssembly
+get_NumberOfServices
+InitializeLifetimeService
+CheckServiceKind
+CombineUri
+CreateServiceHost
+GenerateServiceInfo
+FindServiceInfo
+NumberOfServices
+areAllEndpointsLoopback
+assemblyName
+fullName
+hasEndpoint
+mexEndpointAddress
+name
+serviceKind
+wsdlEndpointAddress
+get_AreAllEndpointsLoopback
+get_AssemblyName
+get_FullName
+get_HasEndpoint
+get_Host
+set_Host
+set_Message
+get_MetadataEndpointAddress
+get_MexEndpointAddress
+set_MexEndpointAddress
+get_Name
+get_ServiceKind
+set_ServiceKind
+get_ServiceType
+set_ServiceType
+set_Status
+get_WsdlEndpointAddress
+set_WsdlEndpointAddress
+System.ServiceModel.Channels
+Binding
+IsHostNameComparisonModeExact
+UpdateEndpointInfo
+AreAllEndpointsLoopback
+AssemblyName
+FullName
+HasEndpoint
+Host
+MetadataEndpointAddress
+MexEndpointAddress
+Name
+ServiceType
+WsdlEndpointAddress
+None
+WcfService
+WFService
+Stopped
+Started
+Error
+nTimerID
+aBuff
+guidData
+stringData
+uintData
+ulongData
+iApp
+strRegRoot
+registryView
+regRoot
+lpString
+System.Runtime.InteropServices
+MarshalAsAttribute
+UnmanagedType
+atom
+aUserParams
+cbParams
+begin
+text
+baseAddresses
+baseType
+value
+sender
+disposing
+path
+arguments
+handle
+pszUrl
+pProcInfo
+OutAttribute
+lpInfo
+cmdLineArgs
+inputArg
+cmdSwitch
+cmdValue
+appBase
+appDomain
+serviceName
+condition
+exception
+paramName
+item
+length
+indices
+object
+method
+callback
+result
+args
+filesNotExist
+filePaths
+caption
+buttons
+icon
+defaultButton
+options
+owner
+resourceName
+baseAddress
+relativeAddress
+kind
+svcTypes
+binding
+System.Runtime.Versioning
+TargetFrameworkAttribute
+ComVisibleAttribute
+CLSCompliantAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+AssemblySignatureKeyAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+InternalsVisibleToAttribute
+AssemblyTrademarkAttribute
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+DllNotFoundException
+ToByteArray
+System.Text
+Encoding
+get_Unicode
+GetBytes
+BitConverter
+RegistryKey
+RegistryHive
+OpenBaseKey
+String
+Concat
+OpenSubKey
+Empty
+GetValue
+IsNullOrEmpty
+.cctor
+DllImportAttribute
+Microsoft.Internal.Performance.CodeMarkers.dll
+InitPerf
+UnInitPerf
+kernel32.dll
+PerfCodeMarker
+StructLayoutAttribute
+LayoutKind
+Clipboard
+ExternalException
+IEnumerator`1
+GetEnumerator
+get_Current
+get_Scheme
+UriSchemeHttp
+op_Equality
+System.Collections
+IEnumerator
+MoveNext
+get_IsClass
+ClientBase`1
+RuntimeTypeHandle
+GetTypeFromHandle
+System.Workflow.ComponentModel
+Activity
+System.WorkflowServices
+WorkflowServiceHost
+InvalidOperationException
+ServiceContractAttribute
+MemberInfo
+IsDefined
+GetInterfaces
+get_BaseType
+get_GUID
+GetExecutingAssembly
+GetName
+get_Version
+get_InvariantCulture
+IFormatProvider
+Format
+get_Assembly
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+CompilerGeneratedAttribute
+ReferenceEquals
+GetString
+EditorBrowsableAttribute
+EditorBrowsableState
+get_CurrentUICulture
+Control
+set_Text
+Image
+set_Image
+get_Location
+FileVersionInfo
+GetVersionInfo
+get_ProductVersion
+Start
+Win32Exception
+ComponentResourceManager
+ISupportInitialize
+BeginInit
+SuspendLayout
+ApplyResources
+set_Name
+ButtonBase
+set_UseVisualStyleBackColor
+add_Click
+Size
+set_MaximumSize
+TextBoxBase
+set_ReadOnly
+set_TabStop
+set_DialogResult
+IButtonControl
+set_AcceptButton
+ContainerControl
+AutoScaleMode
+set_AutoScaleMode
+set_CancelButton
+ControlCollection
+get_Controls
+FormBorderStyle
+set_FormBorderStyle
+set_MaximizeBox
+set_MinimizeBox
+set_ShowIcon
+set_ShowInTaskbar
+EndInit
+ResumeLayout
+PerformLayout
+Delegate
+Combine
+System.Threading
+Interlocked
+CompareExchange
+Remove
+Path
+IsPathRooted
+Environment
+get_CurrentDirectory
+File
+Exists
+GetDirectoryName
+GetFileName
+StringComparison
+Compare
+OperatingSystem
+get_OSVersion
+get_Major
+RuntimeHelpers
+PrepareConstrainedRegions
+IntPtr
+Zero
+Marshal
+ThrowExceptionForHR
+GetProcessById
+Monitor
+Enter
+CloseMainWindow
+WaitForExit
+Kill
+ProcessStartInfo
+set_Arguments
+WaitCallback
+ThreadPool
+QueueUserWorkItem
+SystemException
+System.Runtime.ConstrainedExecution
+ReliabilityContractAttribute
+Consistency
+ieframe.dll
+ContainsKey
+set_Item
+Match
+Group
+get_Success
+GroupCollection
+get_Groups
+get_Count
+get_Item
+Capture
+get_Value
+GetFullPath
+AppDomainSetup
+set_ConfigurationFile
+set_ApplicationBase
+get_CurrentDomain
+System.Security.Policy
+Evidence
+get_Evidence
+CreateDomain
+System.Runtime.Remoting
+ObjectHandle
+CreateInstanceFrom
+TypeLoadException
+Unwrap
+ConditionalAttribute
+MethodImplAttribute
+MethodImplOptions
+OutOfMemoryException
+InsufficientMemoryException
+ThreadAbortException
+AccessViolationException
+SEHException
+TypeInitializationException
+TargetInvocationException
+get_InnerException
+set_Icon
+SystemIcons
+get_Error
+ToBitmap
+get_Text
+Select
+get_Control
+Keys
+get_KeyCode
+SelectAll
+KeyEventHandler
+add_KeyDown
+ToolStripItem
+get_Msg
+set_Result
+set_Tag
+ListViewSubItemCollection
+get_SubItems
+ListViewSubItem
+StringBuilder
+AppendFormat
+get_IsBusy
+CancelAsync
+get_InvokeRequired
+ListViewItemCollection
+get_Items
+<LaunchClientApplication>b__1
+SelectedListViewItemCollection
+get_SelectedItems
+set_Cancel
+set_Enabled
+ShowDialog
+ShowBalloonTip
+get_WindowState
+GetType
+get_TwoLetterISOLanguageName
+Help
+ShowHelp
+set_WindowState
+Hide
+Int32
+set_Maximum
+Activate
+set_Visible
+RunWorkerAsync
+EventWaitHandle
+System.Security.AccessControl
+EventWaitHandleRights
+OpenExisting
+IOException
+UnauthorizedAccessException
+WaitHandleCannotBeOpenedException
+get_Argument
+get_CancellationPending
+ReportProgress
+get_UserState
+get_ProgressPercentage
+set_Value
+AsyncCompletedEventArgs
+get_Cancelled
+get_Tag
+ToolTipIcon
+set_BalloonTipIcon
+set_BalloonTipText
+get_BalloonTipText
+get_NewLine
+Container
+SplitterPanel
+get_Panel1
+get_Panel2
+set_ContextMenuStrip
+add_BalloonTipClicked
+add_DoubleClick
+ToolStrip
+ToolStripItemCollection
+AddRange
+ColumnHeaderCollection
+get_Columns
+set_FullRowSelect
+set_ShowItemToolTips
+set_UseCompatibleStateImageBehavior
+View
+set_View
+add_SelectedIndexChanged
+CancelEventHandler
+ToolStripDropDown
+add_Opening
+ToolStripDropDownItem
+get_DropDownItems
+set_WorkerReportsProgress
+set_WorkerSupportsCancellation
+DoWorkEventHandler
+add_DoWork
+RunWorkerCompletedEventHandler
+add_RunWorkerCompleted
+ProgressChangedEventHandler
+add_ProgressChanged
+set_MainMenuStrip
+add_Load
+add_SizeChanged
+add_Shown
+FormClosedEventHandler
+add_FormClosed
+FormClosingEventHandler
+add_FormClosing
+LoaderOptimizationAttribute
+LoaderOptimization
+STAThreadAttribute
+Application
+EnableVisualStyles
+SetCompatibleTextRenderingDefault
+Enumerator
+AppendLine
+get_Length
+MessageBox
+RightToLeft
+get_RightToLeft
+TextInfo
+get_TextInfo
+get_IsRightToLeft
+GetManifestResourceStream
+System.Runtime.Remoting.Lifetime
+ILease
+LeaseState
+get_CurrentState
+TimeSpan
+FromSeconds
+set_InitialLeaseTime
+CommunicationObject
+get_IsAbsoluteUri
+get_AbsoluteUri
+EndsWith
+ServiceHost
+KeyCollection
+get_Keys
+set_CodeBase
+Load
+FileNotFoundException
+FileLoadException
+System.Security
+SecurityException
+BadImageFormatException
+GetTypes
+ReflectionTypeLoadException
+System.ServiceModel.Description
+ServiceDescription
+get_Description
+ServiceEndpointCollection
+get_Endpoints
+Collection`1
+ServiceEndpoint
+ContractDescription
+get_Contract
+get_ContractType
+IMetadataExchange
+EndpointAddress
+get_Address
+KeyedByTypeCollection`1
+IServiceBehavior
+get_Behaviors
+ServiceMetadataBehavior
+get_HttpGetEnabled
+get_BaseAddresses
+op_Inequality
+get_HttpGetUrl
+Open
+AddressAccessDeniedException
+SerializableAttribute
+NonSerializedAttribute
+BasicHttpBinding
+HttpBindingBase
+HostNameComparisonMode
+get_HostNameComparisonMode
+WSHttpBinding
+WSHttpBindingBase
+WSDualHttpBinding
+NetTcpBinding
+NetNamedPipeBinding
+get_ListenUri
+get_IsLoopback
+get_Binding
+WcfSvcHost.StringResources.resources
+Microsoft.Tools.SvcHost.AboutForm.resources
+Microsoft.Tools.SvcHost.ErrorForm.resources
+Microsoft.Tools.SvcHost.MainForm.resources
+WcfSvcHost.Resources.AboutBox.bmp
+WcfSvcHost.Resources.Service.ico
+RSA1
+`!g-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+DEBUG
+.NETFramework,Version=v4.5
+FrameworkDisplayName
+WcfSvcHost.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+(F:\dd\tools\devdiv\35MSSharedLib1024.snk
+@002400000c80000014010000060200000024000052534131000800000100010085aad0bef0688d1b994a0d78e1fd29fc24ac34ed3d3ac3fb9b3d0c48386ba834aa880035060a8848b2d8adf58e670ed20914be3681a891c9c8c01eef2ab22872547c39be00af0e6c72485d7cfd1a51df8947d36ceba9989106b58abe79e6a3e71a01ed6bdc867012883e0b1a4d35b1b5eeed6df21e401bb0c22f2246ccb69979dc9e61eef262832ed0f2064853725a75485fa8a3efb7e027319c86dec03dc3b1bca2b5081bab52a627b9917450dfad534799e1c7af58683bdfa135f1518ff1ea60e90d7b993a6c87fd3dd93408e35d1296f9a7f9a97c5db56c0f3cc25ad11e9777f94d138b3cea53b9a8331c2e6dcb8d2ea94e18bf1163ff112a22dbd92d429a
+8913ef869646d14971df222c210018ab394cfe63f8eb9b4d894c0dda7368cfb69df15d049b347f8a8b9205cdcc3d6bd6690f0bd24b3da3179feb8c03f410703027c7844ff654997e38015dfc97222c15061af2a1d3fe91775b9dd4b8ede64d3d59816270a9520e393c8e60619b80d40fc1dc4f12b5aa0c2df20d02ea32960851
+WrapNonExceptionThrows
+xNetFx.Checkin.Unit.Tools.WcfSvcHost.UnitTest, PublicKey=0024000004800000940000000602000000240000525341310004000001000100b5fc90e7027f67871e773a8fde8938c81dd402ba65b9201d60593e96c492651e889cc13f1415ebb53fac1131ae0bd333c5ee6021672d9718ea31a8aebd0da0072f25d87dba6fc90ffd598ed4da35e44c398c454307e8e33b8426143daec9f596836f97c8f74750e5975c64e2189f45def46b2a2b1247adc3652bf5c308055da9
+Microsoft and Windows are either registered trademarks or trademarks of Microsoft Corporation in the U.S. and/or other countries.
+RSDSxp
+WcfSvcHost.pdb
+_CorExeMain
+mscoree.dll
+wwxww
+wwwwwwww
+wwwwww
+wwwwww
+wwwwwwww
+wwxww
+wwwwww
+wwwwwwww
+wwxww
+wwww
+wwww
+wwww
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <assemblyIdentity 
+        version="4.0.0.0" 
+        name="WcfSvcHost" 
+      /> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+>0<0
+0!0	
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204217Z
+121025204217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:159C-A3F7-25701%0#
+Microsoft Time-Stamp Service0
+a%kQ
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+oz(O
+BXRk
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+[q0H
+1:08
+http://microsoft.com0
+<C<cfuK
+$CjB
+#xAo
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023028Z0#
+2`]0+S
+7KRc
++HW8
+}x'1
+2I)9
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+gmX+K0H
+1:08
+http://microsoft.com0
+p;<$
+S+E~
+I|GR
+20120727023032.041Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120109213531Z
+130409214531Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service0
+GV"{ 
+Je;X
+[~p)B
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
++h;>
+})5 
+^K_tf
+-p8q
+L09(GPT
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:B8EC-30A4-71441%0#
+Microsoft Time-Stamp Service
+q&eS'
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120727002333Z
+20120728002333Z0t0:
+1,0*0
+1(0&0
+7VAA
+oNSu
+78d'
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+rN ,Y
+q&eS'0
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+l>P0
+9cE79
+r	R[S
+q\#y
+U:q&uX
+0|]]

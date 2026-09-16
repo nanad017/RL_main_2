@@ -1,0 +1,446 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+W>>D
+]q=e
+nG3Q
+*.rK
++&~O
+	,&	o!
+,'~Q
+,&ro
+H&~T
++!~W
+1!~U
+*2(\
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADPIM
+Creating Licenses file {0}...
+({0}) : error LC{1:0000} : {2}
+Error LC0000: '{0}'
+lc : error LC0000 : {0}
+7{0} ({1}) : error LC0003 : Unable to resolve type '{2}'
+E{0} ({1}) : error LC0004 : Exception occurred creating type '{2}' {3}
+RMicrosoft (R) .NET License Compiler 
+[Microsoft .Net Framework, Version {0}]
+Processing complist '{0}'...
+Unable to resolve type '{0}'
+3lc : warning LC0000 : Unable to find assembly '{0}'
+.Warning LC0000: 'Unable to find assembly '{0}'
+*Exception occurred creating type '{0} {1}'
+Generates a .NET Licenses file and adds it to the manifest of the given assembly
+Usage:
+    lc /target:TargetAssembly /complist:filename [/outdir:path] [/i:modules] [/v] [/nologo]
+Options:
+    /target:<str>              Target assembly for the generated licenses file
+    /complist:<str>            Licensed component list file
+    /outdir:<str>              Output directory for the generated licenses file
+    /i:<str>                   Specify modules to load
+    /v                         Verbose output
+    /nologo                    Suppress the display of the startup banner
+:{0} ({1}) : info LC0001 : Processing component entry '{2}'
+1{0} ({1}) : info LC0002 : Resolved entry to '{2}'
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP9
+x/	3
+:Copyright (c) Microsoft Corporation.  All rights reserved.
+2Microsoft (R) Windows (R) Communication Foundation
+BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+&<&K&
+&2'e'
+<Module>
+lc.exe
+FX20Assembly
+FX35Assembly
+FXAssembly
+ThisAssembly
+AssemblyRef
+CommonResStrings
+SRDescriptionAttribute
+System.Tools
+SRCategoryAttribute
+LicenseCompilationException
+LicenseCompiler
+mscorlib
+System
+Object
+System.ComponentModel
+DescriptionAttribute
+CategoryAttribute
+ApplicationException
+Version
+Title
+Description
+DefaultAlias
+Copyright
+InformationalVersion
+DailyBuildNumber
+EcmaPublicKey
+EcmaPublicKeyToken
+EcmaPublicKeyFull
+Mscorlib
+SystemData
+SystemDataOracleClient
+SystemRuntimeRemoting
+SystemWindowsForms
+SystemXml
+MicrosoftPublicKey
+MicrosoftPublicKeyToken
+MicrosoftPublicKeyFull
+SharedLibPublicKey
+SharedLibPublicKeyToken
+SharedLibPublicKeyFull
+SystemComponentModelDataAnnotations
+SystemConfiguration
+SystemConfigurationInstall
+SystemDeployment
+SystemDesign
+SystemDirectoryServices
+SystemDrawingDesign
+SystemDrawing
+SystemEnterpriseServices
+SystemManagement
+SystemMessaging
+SystemRuntimeSerializationFormattersSoap
+SystemSecurity
+SystemServiceProcess
+SystemWeb
+SystemWebAbstractions
+SystemWebDynamicData
+SystemWebDynamicDataDesign
+SystemWebEntityDesign
+SystemWebExtensions
+SystemWebExtensionsDesign
+SystemWebMobile
+SystemWebRegularExpressions
+SystemWebRouting
+SystemWebServices
+MicrosoftVisualStudio
+MicrosoftVisualStudioWindowsForms
+VJSharpCodeProvider
+ASPBrowserCapsPublicKey
+ASPBrowserCapsFactory
+MicrosoftVSDesigner
+MicrosoftVisualStudioWeb
+MicrosoftWebDesign
+MicrosoftVSDesignerMobile
+MicrosoftJScript
+System.Resources
+ResourceManager
+resmgr
+GetString
+get_CopyrightForCmdLine
+get_WcfTrademarkForCmdLine
+CopyrightForCmdLine
+WcfTrademarkForCmdLine
+replaced
+.ctor
+get_Description
+GetLocalizedString
+Logo
+Usage
+Processing
+VerboseInfo1
+VerboseInfo2
+Error4
+Error3
+Error0MsBuild
+Error0Default
+ResolveWarningMsBuild
+ResolveWarningMsDefault
+TypeCreationError
+ResolveTypeError
+DefaultError
+CreatingFile
+loader
+resources
+GetLoader
+System.Globalization
+CultureInfo
+get_Culture
+get_Resources
+GetObject
+Culture
+Resources
+outputDir
+targetPE
+verbose
+msbuildErrorFormat
+System.Collections
+ArrayList
+compLists
+assemblies
+Hashtable
+assemHash
+assemNameHash
+Main
+System.IO
+MemoryStream
+GenerateLicenses
+System.ComponentModel.Design
+ITypeResolutionService
+DesigntimeLicenseContext
+System.Reflection
+Assembly
+ResolveEventArgs
+OnAssemblyResolve
+ProcessArgs
+OutputLine
+OutputUsage
+OutputLogo
+description
+category
+value
+name
+args
+ParamArrayAttribute
+lineNumber
+errorNumber
+errorMessage
+fileContents
+resolver
+sender
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+.cctor
+GetExecutingAssembly
+AttributeUsageAttribute
+AttributeTargets
+set_DescriptionValue
+Type
+GetType
+get_Assembly
+System.Threading
+Interlocked
+CompareExchange
+String
+get_Length
+Substring
+Concat
+get_CurrentCulture
+IFormatProvider
+Format
+Int32
+STAThreadAttribute
+ResolveEventHandler
+AppDomain
+get_CurrentDomain
+add_AssemblyResolve
+IEnumerator
+GetEnumerator
+get_Current
+StreamReader
+TextReader
+ReadLine
+StartsWith
+ContainsKey
+ToString
+set_Item
+get_Item
+get_AssemblyQualifiedName
+LicenseManager
+LicenseContext
+CreateWithContext
+MoveNext
+IDisposable
+Dispose
+remove_AssemblyResolve
+get_InvariantCulture
+ToLower
+File
+FileStream
+Create
+ToUpper
+DesigntimeLicenseContextSerializer
+Stream
+Serialize
+Flush
+Close
+Exception
+get_Message
+StringReader
+Char
+Split
+Trim
+get_Count
+get_Name
+ToLowerInvariant
+AssemblyName
+GetAssemblyName
+IndexOf
+get_FullName
+op_Equality
+LoadFrom
+op_Inequality
+FileNotFoundException
+get_Chars
+Equals
+Console
+TextWriter
+get_Out
+WriteLine
+Environment
+get_Version
+SR.resources
+CommonResStrings.resources
+RSA1
+(]b,
+=t]o-
+lc.exe
+Microsoft Corporation
+Microsoft
+ .NET Framework
+ Microsoft Corporation.  All rights reserved.
+3.5.30729.1
+3.5.0.0
+en-US
+%f:\dd\Tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS
+lc.pdb
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"> 
+      <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"> 
+        <security> 
+          <requestedPrivileges> 
+            <requestedExecutionLevel 
+              level="asInvoker" 
+              uiAccess="false"/> 
+          </requestedPrivileges> 
+        </security> 
+      </trustInfo> 
+    </assembly>
+Z0X03
+>0!0	
+)Cz>
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+%5Iw
+kLRb
+Il/$>e
+J-|o
++~3n
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+X't*u
+Bk(q
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+uM\F
+=0;09
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+jT;1_
+zw9gj
+s2r6
+$ROfH
+&9iPN
+t8JO0
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+ipfx'f
+Y")/
+mdmJT
+v\/}
+%M9wt
+9	|v
+N+"\hE
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+C/{F
+(a|H
+wTQ:
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190217Z
+130725191217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7A82-688A-9F921%0#
+Microsoft Time-Stamp Service0
+&-v?
+]),<
+a?=6
+wTrC
+=0;09
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+<0:08
+,http://www.microsoft.com/pki/certs/tspca.crt0
+NP;L
+O,5;
+cB(X:
+0@EN
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+1*0(
+http://microsoft.com0
+O6o1
+hq71F
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100319175017Z0#
+)A[[X
+<BZ1
+ncp3

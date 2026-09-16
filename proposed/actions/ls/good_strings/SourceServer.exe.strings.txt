@@ -1,0 +1,545 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.gfids
+@.rsrc
+@.reloc
+uHhD
+uBhh
+u^hl
+_^][
+$PhX
+D$$Phd
+SVWj
+Ph0'@
+w_tD
+,VWj
+D$,$
+D$0$
+SVWPQ
+D$@j
+D$8Pj
+D$(P
+D$8Pj
+s*QW
+_]^[
+s#QW
+_]^[
+u)V3
+_]^[
+t)V3
+_]^[
+_^[d
+tXh|
+sV+M
+PVhl
+_^[d
+4SVW
+SUVW
+;0u	
+L$ _^]
+8_^[
+;0u	
+_^][Y
+^]_[Y
+_^]+
++D$ 
+\$,j
+\$,j
+QSUV
+_^][Y
+uC9U
+uC9U
+_^[d
+_^[d
+s SW
+;3t<
+D$ P
+;3t<
+D$ P
+;7u_
+;7u_
+_^][
+VWj@
+VWh4
+\$ @
+\$ @
+|$	Cu!
+<\t></u
+t/SQP
+_^][
+j Y+
+ineI
+5ntel
+5Genu
+t#=`
+8csm
+Y__^[
+Unknown exception
+bad allocation
+bad array new length
+Idle
+[%3d.%3d.%3d.%3d]
+Accepting connection
+ssver
+invalidver
+Invalid version!
+password
+invalidpass
+Invalid password!
+user
+User name not specified
+sync
+Sync
+sync_full
+Sync
+getfiles
+Get file names
+dirf
+Get file names
+dirfstatus
+Get file names with status
+dird
+Get directory names
+dird_fast
+Get directory names
+status
+Get file status
+Checking out file
+Checking out file '%s'
+Checking in file
+Checking in file '%s'
+revert
+Reverting file
+Reverting file '%s'
+createdir
+Creating directory
+delf
+Deleting file
+Removing file '%s'
+deletedir
+Deleting directory
+renamef
+Renaming file
+Renaming file
+states
+ping
+sync
+sync_full
+sync_game
+Unknown command '%s'
+Client disconnected (%s)
+Client disconnected
+Error: %s
+Error: %s
+Setting password to '%s'
+Setting root directory to '%s'
+Scanning file version information...
+Done
+Opening port %i
+Error establishing listener socket
+Connection failed
+SourceServer
+EDIT
+Andale Mono
+Couldn't initialize WinSock
+\Working
+Crate Source Server v%.1f
+----------------------------------------
+log.txt
+----------------------------------------------------------------------
+Checking out file '%s'
+Checking out file failed because the file could not be found
+Checking out file failed because the file is checked out by someone else
+Checking in file '%s'
+File '%s' not updated by check-in because its identical
+Checking in file failed because a new file could not be created
+Reverting file failed because the file could not be found
+Checking in file failed because the file is checked out by '%s'
+Reverting file '%s'
+Reverting file failed because the file is checked out by '%s'
+Deleting file '%s'
+Deleting file failed because the file was not found
+Deleting file failed because the file is checked out by '%s'
+Deleting file failed because the file couln't be deleted (Win32 error %d)
+Creating directory '%s'
+Creating directory "%s"
+Deleting directory '%s'
+Creating directory failed because the directory couldn't be created
+Deleting directory failed because the directory couldn't be deleted (Win32 error %d)
+Renaming file '%s' to '%s'
+Rename failed because original file wasn't found
+Rename failed because the file was checked out by '%s'
+Rename failed because the file couldn't be moved (Win32 error %d)
+Receiving version file for full sync.
+Beginning sync operation.
+Sync operation complete.
+Error - attempt to call SyncReplace with invalid lock object.
+Warning: Couldn't open '%s' (error %d)
+%s  %s  %s   
+%s  %s  
+Idle
+Attempt to unregister client %s, which has not been registered.
+\\?\UNC\
+%.1fkb
+%.1fmb
+\*.*
+\*.*
+string too long
+invalid string position
+**** ERROR - Attempt to lock critical section that is already locked. ****
+**** Error - Attempt to unlock critical section that isn't locked. ****
+vector<T> too long
+deque<T> too long
+map/set<T> too long
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.bss
+.gfids$y
+.rsrc$01
+.rsrc$02
+WS2_32.dll
+Sleep
+GetModuleHandleA
+RaiseException
+CreateThread
+MulDiv
+MoveFileA
+FindFirstFileA
+EnterCriticalSection
+FindNextFileA
+LeaveCriticalSection
+InitializeCriticalSection
+FindClose
+GetLastError
+DeleteFileA
+RemoveDirectoryA
+DeleteCriticalSection
+CreateDirectoryA
+ReadFile
+WriteFile
+SetFilePointer
+SetEndOfFile
+CreateFileA
+CloseHandle
+GetFileSize
+KERNEL32.dll
+ReleaseDC
+GetWindowTextLengthA
+PostQuitMessage
+LoadIconA
+SendMessageA
+TranslateMessage
+CreateWindowExA
+DefWindowProcA
+RegisterClassA
+SetWindowTextA
+GetWindowTextA
+GetClassLongA
+ShowWindow
+SetWindowPos
+GetDC
+LoadCursorA
+DispatchMessageA
+GetMessageA
+USER32.dll
+GetDeviceCaps
+CreateFontA
+GDI32.dll
+Shell_NotifyIconA
+SHELL32.dll
+?FlushBuffer@Socket@@QAEXH@Z
+?SendString@Socket@@QAEXPBDH@Z
+?ReceiveInt@Socket@@QAEHH@Z
+?ReceiveString@Socket@@QAEHPADHH@Z
+?GetAddress@Socket@@QAE_NAAUsockaddr_in@@@Z
+?FormatSocketError@@YAXHPADH@Z
+??0Socket@@QAE@I@Z
+?SendInt@Socket@@QAEXHH@Z
+?SendData@Socket@@QAEXPBXHH@Z
+?ReceiveUInt32@Socket@@QAEIH@Z
+?ReceiveData@Socket@@QAEHPAXHH@Z
+?IncrementalSendFile@@YAXAAVSocket@@QBEI@Z
+??4FileStatus@@QAEXABV0@@Z
+??1FileStatus@@QAE@XZ
+??0FileStatus@@QAE@XZ
+??0FileStatus@@QAE@ABV0@@Z
+SourceControl.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xout_of_range@std@@YAXPBD@Z
+?_Xlength_error@std@@YAXPBD@Z
+MSVCP140.dll
+memmove
+__std_terminate
+memchr
+strchr
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+memset
+_except_handler4_common
+VCRUNTIME140.dll
+__stdio_common_vsprintf
+_invalid_parameter_noinfo_noreturn
+__p___argc
+_getcwd
+__p___argv
+atoi
+_tzset
+fopen
+fflush
+fclose
+__stdio_common_vfprintf
+_strdate
+strncmp
+_strtime
+free
+isspace
+malloc
+_time64
+_callnewh
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_get_narrow_winmain_command_line
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+terminate
+_controlfp_s
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+FindFirstFileExA
+GetFileAttributesExA
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+GetModuleHandleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+GetCurrentProcess
+TerminateProcess
+__CxxFrameHandler3
+_except_handler3
+memcpy
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+e;;;
+;ee;;;
+e;ee;;;
+ee;;
+""""
+*""""
+""""
+""""
+""""
+""""
+;;;;;
+;;;;;;;
+;e;;;;;;;;
+;ee;;;;;;;;
+;;;ee;;;;;;;;
+;e;;;;ee;;;;;;;;
+ee;;;;ee;;;;;;;;
+ee;;;;ee;;;;;;
+;;ee;;;;
+;;;;
+;;;ee;;
+;;;;
+e;;;;ee
+ee;;;;
+ee;;;
+;;;;
+;;;;
+;;;;
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0!0+010;0E0a0m0s0}0
+0B1Z1g1t1
+2)3F3V3
+4\5c5j5u5
+6(6\6}6
+7J7l7
+8(8i8
+9@9J9R9\9
+9(:\:|:
+<0<j<
+=N=\=z=
+=6>n>
+5#505;5
+5%6:6F6v6
+8$8-8<8Q8W8m8
+9/9E9i9
+:&:/:5:B:K:X:]:|:
+;$;-;4;>;f;k;
+<F<W<e<
+=%=*=0=E=V=o=w=
+> >&>D>U>b>
+>4?:?P?V?
+t0z0
+041:1V1\1r1x1)2u2{2
+283S3
+4)434=4L4Q4V4\4f4p4x4
+465O5Y5
+5V6p6~6
+747B7P7b7
+838k8|8
+9,:?:P:W:e:j:p:
+;C;o;y;
+>&>D>_>e>m>
+?*?^?
+0&0F0K0U0[0l0v0y1
+1	2V2y2
+2<3B3Q3c3v3
+4)4A4G4R4o4
+5"5*505
+616E6T6f6
+7/7<7W7]7l7
+8-9F9h9z9
+:.:9:l:
+;';];b;h;
+;0<;<O<
+=%=0=;=_=
+>&>]>b>j>
+?1?D?e?v?|?
+&0G0Y0`0~0
+0(1K1d1l1
+4#4)4f4
+5%5A5O5U5[5c5q5
+6'6D6`6
+7.7s7
+8(8B8Y8d8o8
+9'9E9R9X9i9v9
+;=;w;
+0&131
+546O6
+7S7_7v7
+8K9a9
+9.:|:
+;L<W<l<
+=,=8=V=
+=9>G>~>
+?E?O?u?
+0/0=0I0S0
+1+1g1t1
+2/2=2O2Y2
+3@3J3O3
+8N9[9f9
+=8>E>P>
+0%0}0
+314F4S4`4k4
+445]5
+526G6T6a6l6
+6F768
+0X0c0x0
+1@1s1
+1,2P2}2
+383P3Y3v3
+3D4J4r4
+405u5
+6$6h6n6
+7,727
+8K9^9q9}9
+:`:m:
+:/;X;
+<"<'<4<
+<7=O=U=j=
+>#>9>C>Q>l>w>
+?W?f?m?
+1:1{1
+1;2@2]2x2
+2$3J3S3Y3a3f3
+4%4,434:4A4H4O4V4^4f4n4z4
+5 5&5,52585>5D5J5P5V5\5b5h5n5t5z5
+6 6/6
+7:7O7U7\7b7
+7 8&8,8h8n8t8
+9X9^9d9
+:8:\:i:
+;";(;R;X;{;
+<1<A<^<q<
+3(3,3
+0 0(0H0L0\0`0h0
+1$1(181<1@1D1L1d1
+5(505`5h5
+6$6,646D6L6X6`6
+7(7H7P7\7|7
+8 8(808<8\8d8l8t8
+90989@9H9P9X9d9
+:$:,:4:@:`:h:p:x:
+;$;0;P;X;`;l;
+<8<@<H<T<t<|<
+= =(=4=T=`=
+> >T>d>p>x>
+?$?0?8?l?|?
+,0<0H0P0
+1 1(1,141H1P1d1l1t1|1
+(0@0\0x0

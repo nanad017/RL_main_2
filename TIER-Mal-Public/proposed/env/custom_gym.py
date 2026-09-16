@@ -1,9 +1,7 @@
 import hashlib
 import os
 import random
-import sys
 from collections import OrderedDict
-from pathlib import Path
 
 import gym
 import numpy as np
@@ -11,11 +9,10 @@ from gym import spaces
 
 from proposed.actions import modifier
 from proposed.env.reward import TierAwareReward, get_action_tier
+from proposed.paths import PROJECT_ROOT, RUNTIME_DIR
 from proposed.utils import custom_api, interface
 
-module_path = os.path.split(os.path.abspath(sys.modules[__name__].__file__))[0]
-project_root = Path(__file__).resolve().parents[1]
-default_shared_root = str(project_root / "runtime" / "share")
+default_shared_root = str(RUNTIME_DIR / "share")
 
 ACTION_LOOKUP = {i: act for i, act in enumerate(modifier.ACTION_TABLE.keys())}
 
@@ -58,10 +55,10 @@ class CustomDetectorEnv(gym.Env):
         self.mem_obs = []
         self.mem_score = []
         self.skipped = 0
-        self.memory_path = str(project_root / memory_path)
+        self.memory_path = str(PROJECT_ROOT / memory_path)
         os.makedirs(self.memory_path, exist_ok=True)
 
-        self.output_path = str(project_root / output_path)
+        self.output_path = str(PROJECT_ROOT / output_path)
         self.save_data = save_modified_data
         if self.save_data:
             os.makedirs(self.output_path, exist_ok=True)

@@ -1,0 +1,83 @@
+!This program requires Microsoft Windows.
+URLPROXY
+KERNEL
+LOADLIBRARYEX32W
+FREELIBRARY32W
+GETPROCADDRESS32W
+_CALLPROCEX32W
+USER
+DDEML
+SHELL
+.WEB BROWSER PROXY FOR PEGASUS MAIL FOR WINDOWS
+!_^]
+tkGN
+tX<"t$<\t
+t'<"t
+7CC6
+?CCN
+t^<"t'<\t
+t*<"t
+_^Yt
+QRQS
+VQRP
+P<-t
+tZ9v
+VRPj
+?"u"
+t/-"
+PPPP
+@PWV
+?"u0
+j@hb
+u,=`
+s'Rh
+t(Htl
+HHum
+_C_FILE_INFO=
+kernel32.dll
+GetShortPathNameA
+ "%1"
+http\shell\open\command
+http\shell\open\ddeexec\Topic
+WWW_OpenURL
+http\shell\open\ddeexec\Application
+.htm
+\shell\open\command
+.INI
+ReuseBrowserWindow
+General
+BrowserPath
+DDEserver
+True
+URL Proxy
+Still busy with previous URL!
+Can't get Web browser!
+"%s",,-1,0,,,,
+"%s",,0,0,,,,
+Can't Execute Web browser!
+-1,0
+WWW_Activate
+%s "%s"
+Can't Execute Web browser and URL!
+<<NMSG>>
+R6000
+- stack overflow
+R6003
+- integer divide by 0
+R6009
+- not enough space for environment
+R6018
+- unexpected heap error
+R6020
+- unexpected QuickWin error
+R6008
+- not enough space for arguments
+R6021
+- no main procedure
+run-time error 
+R6002
+- floating-point support not loaded
+URL Proxy
+MS Sans Serif
+Cancel
+Attempting to invoke Web browser...

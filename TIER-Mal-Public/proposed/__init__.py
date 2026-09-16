@@ -77,34 +77,10 @@ CUSTOM_SHARED_ROOT = os.getenv(
     str(PROJECT_ROOT / "runtime" / "share"),
 )
 CUSTOM_THRESHOLD = float(os.getenv("CUSTOM_DETECTOR_THRESHOLD", "0.5"))
-CUSTOM_RANDOM_TRAIN = os.getenv("MALWARE_RL_RANDOM_TRAIN", "1").lower() not in (
+CUSTOM_RANDOM_TRAIN = os.getenv("MALWARE_RL_RANDOM_TRAIN", "0").lower() not in (
     "0",
     "false",
     "no",
-)
-
-register(
-    id="AV1-train-v0",
-    entry_point="proposed.env.AV_gym:AVEnv",
-    kwargs={
-        "random_sample": False,
-        "maxturns": MAXTURNS,
-        "sha256list": sha256_train,
-        "save_modified_data": False,
-        "url_path": "http://192.168.56.107:5000/"
-    },
-)
-
-register(
-    id="AV1-test-v0",
-    entry_point="proposed.env.AV_gym:AVEnv",
-    kwargs={
-        "random_sample": False,
-        "maxturns": MAXTURNS,
-        "sha256list": sha256_holdout,
-        "save_modified_data": True,
-        "url_path": "http://192.168.56.107:5000/"
-    },
 )
 
 register(

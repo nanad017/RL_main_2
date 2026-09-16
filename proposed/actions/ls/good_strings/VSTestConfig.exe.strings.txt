@@ -1,0 +1,527 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+NU	}
+VdI.
+, rS
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP+
+Microsoft (R) VSTestConfig Version {0}
+for Microsoft Visual Studio v11.0
+Copyright (c) Microsoft Corporation.  All rights reserved.
+"Network Emulation Driver Installed
+VSTestConfig help [command]
+command           The name of the command you want help on
+List of commands:
+NetworkEmulation                 Configure the Network Emulation driver
+Help                             Prints this help message
+    
+Syntax-
+VSTestConfig.exe NetworkEmulation [/Install] [/Uninstall] [/Repair] [/DisplayInfo]
+Examples:
+VSTestConfig.exe NetworkEmulation /Install
+VSTestConfig.exe NetworkEmulation /Uninstall
+VSTestConfig.exe NetworkEmulation /Repair
+VSTestConfig.exe NetworkEmulation /DisplayInfo
+VSTestConfig.exe NetworkEmulation 
+7The driver is not bound to any Network Interface Cards.
+|The command {0} was not recognized. At the command prompt, type "VSTestConfig.exe Help" to get a list of available commands.
++The following option is not recognized: {0}
+Options:
+7{0} : Displays this usage message. Short form: /? or /h
+Usage :  {0}[options]
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+VSTestConfig.exe
+VSCommand
+Microsoft.VisualStudio.TestTools.VSTestConfigCLI
+CommandNetworkEmulation
+CommandHelp
+AppEntry
+Resources
+Microsoft.VisualStudio.TestTools.ConfigCore
+Command
+CommandLine
+mscorlib
+System
+Object
+.ctor
+Create
+GetUsage
+WriteLine
+NetworkEmulationConfigurationUpdatePack
+m_updatePack
+DelegateStatusUpdate
+Initialize
+System.Collections.Generic
+List`1
+Options
+get_OptionList
+m_innerCommand
+OptionList
+Main
+RunCommand
+get_Instance
+WriteCopyRight
+instance
+Instance
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_CopyrightMessage
+get_DriverInstalled
+get_HelpHelp
+get_HelpNetworkEmulation
+get_msgOption1
+get_msgOption2
+get_msgUsage
+get_NoBoundNICs
+get_UnrecognizedCommandException
+get_UnrecognizedOption
+Culture
+CopyrightMessage
+DriverInstalled
+HelpHelp
+HelpNetworkEmulation
+msgOption1
+msgOption2
+msgUsage
+NoBoundNICs
+UnrecognizedCommandException
+UnrecognizedOption
+commandName
+args
+message
+statusListener
+value
+System.Runtime.Versioning
+TargetFrameworkAttribute
+System.Runtime.InteropServices
+ComVisibleAttribute
+CLSCompliantAttribute
+System.Reflection
+AssemblyTitleAttribute
+AssemblyDescriptionAttribute
+AssemblyDefaultAliasAttribute
+AssemblyCompanyAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyVersionAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+SatelliteContractVersionAttribute
+NeutralResourcesLanguageAttribute
+AssemblyDelaySignAttribute
+AssemblyKeyFileAttribute
+System.Runtime.CompilerServices
+RuntimeCompatibilityAttribute
+System.Diagnostics
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+VSTestConfig
+String
+IsNullOrEmpty
+Assembly
+GetExecutingAssembly
+Type
+GetTypes
+NameAttribute
+RuntimeTypeHandle
+GetTypeFromHandle
+Attribute
+MemberInfo
+GetCustomAttribute
+get_CommandName
+StringComparison
+Equals
+get_FullName
+CreateInstance
+get_CurrentCulture
+IFormatProvider
+Format
+IEnumerable`1
+AddRange
+Arguments
+get_Arguments
+Contains
+set_InstallDriver
+set_UninstallDriver
+set_CheckedUninstallDriver
+set_RepairDriver
+set_DisplayStatus
+NetworkEmulationConfiguration
+get_InstallDriver
+get_UninstallDriver
+get_RepairDriver
+get_CheckedUninstallDriver
+commandStatusListener
+Configure
+get_DisplayStatus
+NetworkEmulationConfigurationDisplayPacket
+GetConfigurations
+Empty
+Boolean
+ToString
+ICollection`1
+get_BoundNICS
+get_Count
+IEnumerator`1
+GetEnumerator
+get_Current
+System.Collections
+IEnumerator
+MoveNext
+IDisposable
+Dispose
+GetHelpCommandName
+STAThreadAttribute
+HelpRequested
+ConfigurationMessage
+UpdateStatusCallback
+Exception
+get_Message
+Logger
+Error
+Microsoft.VisualStudio.QualityTools.Common
+Microsoft.VisualStudio.TestTools.Common
+ExceptionHelper
+GetExceptionMessage
+Concat
+Environment
+Exit
+ArgumentListException
+AssemblyName
+GetName
+Version
+get_Version
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+CompilerGeneratedAttribute
+ReferenceEquals
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+Microsoft.VisualStudio.TestTools.VSTestConfigCLI.Resources.resources
+RSA1
+(]b,
+=t]o-
+NetworkEmulation
+help
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+VSTestConfig.exe
+Microsoft Corporation
+ Microsoft
+ Visual Studio
+ 2012
+ Microsoft Corporation. All rights reserved.
+11.0.50727.1
+11.0.0.0
+en-US
+%F:\dd\tools\devdiv\FinalPublicKey.snk
+WrapNonExceptionThrows
+RSDS
+f:\binaries\Intermediate\vset\vstestconfigtool.csproj_334052593\objr\x86\VSTestConfig.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+>0<0
+0!0	
+ nS>l
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+111010203225Z
+130110203225Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+r>}.
+C$dZ
+AeGn7
+k.[0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+ldr(
+=Em,
+L;>/
+mM7X
+4]Z%
+1QVd
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+110725204219Z
+121025204219Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:9E78-864B-039D1%0#
+Microsoft Time-Stamp Service0
+MVqS
+? }m/X
+68Z0
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+,H_V 
+!r80L
+1>0<
+http://microsoft.com0
+gb@P
+7A/&
+-#X	2d
+Sloa
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+120727023015Z0#
+d:`3h
+xDp}'N
+F+@8
+I,}L
+["YL\
+N0L0
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+120707001432Z
+131007001432Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+=X?,
+]::H
+*D>8
+M0K0I
+Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a
+U0S0Q
+Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0
+s{B.>[
+A'MP
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20110
+110708205909Z
+260708210909Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20110
+nd5x
+!t%_
+'(8%
+!K>R
+x X,
+S0Q0O
+Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^
+R0P0N
+Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0
+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@
+e_.,>
+D=xz#
+*?*kXIc
+	inZ
+QEX82q'
+,: i
+WqVNHE
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2011
+1>0<
+http://microsoft.com0
+ld>"5
+cQ=D
+20120727023018.796Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+120220222922Z
+130520223922Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service0
+7H[y
+|J:Sz
+U\m 
+":%T
+.QEHh2t
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+lc9h
+^6b.
+?U @I]
+oPnp
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:C0F4-3086-DEF81%0#
+Microsoft Time-Stamp Service
+Rdv]
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher NTS ESN:B027-C6F8-1D881+0)
+"Microsoft Time Source Master Clock0
+20120726233522Z
+20120727233522Z0t0:
+1,0*0
+1(0&0
+{b~G!QS
+vYHq!
+=6H&~
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Rdv]
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+rk,N
+LTK"
+T^RD
+wKZ:r|

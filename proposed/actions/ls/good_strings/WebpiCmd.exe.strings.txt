@@ -1,0 +1,2342 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+c}Z^;L;
+	,		(H
+.K+s
+!.<+Bs
++ 	o^
+&	oh
+jX}L
+jX}L
+ijX}L
+YX}O
+-]	(
++;	o
+, r_	
+p	(u
+pra5
+++	o
++7	o
+!T+j
+pre5
+pre5
+*B(~
+&re5
+*r~+
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+f0A<$2@
+)-4t
+<sq&=L
+/RH;yS
+ ^+|
+d(6Ce
+9j,'hj
+4zoF
+Accepted EULA.
+'Added product '{0}' to the install list
+CMySQL is not installed on the local machine, adding to install cart
+ISQL Express is not installed on the local machine, adding to install cart
+4All offline cache operations completed successfully.
+Application Path: '{0}'
+Applications
+'{0} argument does not expect any values
+Available database choices:
+Available Products
+Beginning Reboot...
+"Please choose a database for '{0}'
+?Please close the applications and then re-run the command line.
+The software that you obtain using the {0} is licensed to you by its owner.  Microsoft grants you no rights for third party software.
+	{0} : {1}
+Computed Negative Storage.
+Configuration directory: {0}
+@Configuring the application to be installed against IIS Express.
+Could not find {0}
+/Could not get type Microsoft.IIS.VersionManager
+l{0} requires Administrator privileges to run. Please make sure you have Administrator rights on this Machine
+Down. Size
+Down. Time
+Install Size
+Install Time
+Log Size
+Products
+Creation of Product Logs: {0}
+%Current language of installers is {0}
+Custom Feeds
+OPlease do not attempt to use the reboot command, this is for system use only...
+Done !
+Done loading product feeds.
+Download count: {0} Mb, {1} sec
+Downloaded: '{0}'
+4Please Enter Web Application Parameters  for \"{0}\"
+Please enter (Y/N): 
+Error getting IIS Version
+Error logging metrics
+Error processing: '{0}'.
+*Error while setting Application parameters
+!ERROR: Log File Cannot be written
+You are responsible for and must locate and read the license terms for each of the software above.  Do you agree to the license terms for each of the third-party and/or Microsoft software listed above?
+ Eula was not accepted. Quitting!
+EULA: 
+Failed to Load feed: {0}
+FAILURE
+1The following applications are not available: {0}
+0The following software is going to be installed:
+RThe following products are not available on this machine or already installed: {0}
+Found IIS Version {0}
+Found Keyword: '{0}'
+Framework: '{0}'
+{0} returned 0x{1:X}: {2}.
+    /AcceptEula               - Suppress Accept / Decline prompt for EULA.
+                                Using this switch is the same as accepting all
+                                EULAs
+:    /Install /Application:<Title or ID>[@<parameter-file>]
+    /CEIP:<Off/On>            - Disable/Enable Customer Experience Improvement
+                                Program for the Web Platform Installer.
+                                By default, CEIP is Enabled for WebPI
+Help
+L    /Feeds:<Custom feed uri>  - Comma separated list of URIs to custom feeds
+L    /Feeds:<Custom feed uri>  - Comma separated list of URIs to custom feeds
+~    /ForceReboot              - Reboot automatically when required without
+                                prompting the user
+N    /IISExpress               - Install applications to IISExpress and not IIS
+5Install:  Installs products or applications specified
+A    /Language:<Language>      - Language of installers to be used
+{    /Language:<Language>      - Language of installers to be used.
+                                Default is English (en)
+?    /List /ListOption:[Installed|All|Available|Feeds|Languages]
+EList:     Displays a list of products available or products installed
+3    /Log:<LogPath>            - Path to log results
+    /OptInMU                  - Opt the computer into Microsoft Update and
+                                execute a check for updates after the install
+                                is complete
+5Multiple comma-separated Product Ids may be specified
+>    /MySQLPassword:<password> - Root password to set for MySQL
+M    /Offline /Products:[All|<Title or ID>] /Path:[offline-directory-location]
+Offline:  Creates an offline cached copy of the products or applications 
+          specified and the XML feeds to access them
+!OPTIONAL PARAMETERS for /Install:
+!OPTIONAL PARAMETERS for /Offline:
+    <Title/ID>[<@parameter-file>]- Optional parameter file corresponding to 
+                                application, used during application install
+$    /Install /Products:<Title or ID>
+{0} help
+REQUIRED PARAMETERS:
+Select one of the four modes using the required parameters and then select from any of the optional parameters that follow
+B    /SQLPassword:<password>   - SA password to set for SQL Express
+MGo to the following link for a set of online examples of how to use
+{0}: {1}
+({0} supports four main functional modes:
+    /SuppressPostFinish       - Suppress Post Finish configuration actions 
+                                when required - user will have to perform
+                                these steps manually
+    /SuppressReboot           - Suppress reboot when required - user will have
+                                to reboot manually
+5    /Title:<Title>            - Title of offline feed
+B    /UpdateAll                - Updates all products in the cache.
+    /Update                   - Updates only those products listed on the
+                                command line and their dependencies.
+<    /UseRemoteDatabase        - Allow use of remote database
+@    /XML:<FilePath>           - Absolute path or URL to the file
+@    /XML:<FilePath>           - Absolute path or URL to the file
+-Incompatibilities detected for product: '{0}'
+HThe following applications must be closed before continuing the install:
+{0} can't start a scan of Microsoft Updates for updates to your products. Please visit the Windows Update control panel to search for updates.
+NSuccessfully started a scan of Microsoft Updates for updates to your products.
+******
+Install completed ({0}): '{1}'
+{0} : Failed.
+Install of Products: {0}
+{0} : Installed
+#Installation count: {0} Mb, {1} sec
+----
+IAn installerFile element is missing a required child installerURL element
+%Installing Application against IIS...
+Invalid argument format '{0}'
+-Invalid arguments passed to '/Reboot' command
+SDatabase type '{0}' specified in parameter file is not valid for application '{1}'.
+No products were specified. Use the '/Products' argument to list products for the cache, or use '/UpdateAll' to update all existing entries in the cache.
+:The provided value for argument '{0}' is not a valid path.
+AThe provided value for argument '{0}' is not a valid path or Uri.
+<Only one of '/Update' or '/UpdateAll' can be used at a time.
+'{0}' is not a valid Url.
+Warning: Invalid value.
+Language
+Launching WebMatrix with {0}
+{0}. Line {1}, position {2}.
+?'{0}' command should not be specified with parameters: {1}, {2}
+/List /ListOption:<list-option>
+(----------------------------------------
+Executing command: {0}
+{0} Logs :
+    Log Location: {0}
+User input for '{0}': '{1}'
+=End {0}.
+Passed Scenarios : {1}.
+    Failed Scenarios : {2}
+FAIL
+PASS
+Run Failed
+Run Passed
+Starting : {0}
+Master Feeds
+3Total (download size/install time): {0} Mb, {1} sec
+Missing culture element.
+Missing a required parameter
+5Missing required parameter(s) '{0}' for '{1}' command
+MySQL password
+- MySQL
+Name
+	{0} : {1}
+2No arguments defined:  Product requires arguments.
+!Please pick a database to proceed
+#There are no master feeds available
+GNo products to be installed (either not available or already installed)
+'There are no products available for {0}
+&Product '{0}' is installed. Not adding
+Offline custom feed(s):
+Offline main feed:
+C'{0}' option should not be specified with other required parameters
+%Parameter-based help is not supported
+.The parameter '{0}' can only be specified once
+)Parameter '{0}' expects exactly one value
+{0} parameters not specified
+{0} (Press Enter to use:{1})
+Parameters written to {0}
+{0} attempted to opt your computer into Microsoft Update, but failed.  Please launch the Windows Update control panel to opt in and receive updates.
+Please enter {0}: 
+Successfully installed products need to run additional actions to complete configuration. Run the following commands at your system's native architecture command prompt to complete installation.
+Products that have installed successfully need to perform additional configuration steps. These actions are being launched now.
+Launching: {0} {1}
+ Post Finish Action Failed: '{0}'
+*Pre-Reboot Download count: {0} Mb, {1} sec
+.Pre-Reboot Installation count: {0} Mb, {1} sec
+3The following errors occurred during preprocessing:
+HSuccessfully preprocessed input XML: '{0}', generated output XML: '{1}'.
+Previously Installed Products
+5The license agreement to '{0}' is available at '{1}'.
+>'{0}', which is owned by '{1}', will be downloaded from '{2}'.
+0'{0}', which is owned by '{1}' will be installed
+0'{0}', which is owned by '{1}' will be turned on
+FProduct '{0}' is either already added to the cart or already installed
+;Product '{0}' has no installers available for this platform
+The license agreement to '{0}' may be included with the software. 
+You are responsible for and must separately locate, read and accept these license terms.
+3The value of the architecture element is not valid.
+2Windows Azure Services Installer Command Line Tool
+(Web Platform Installer Command Line Tool
+^This action requires a reboot to finish.  Would you like to restart your computer now? (Y/N): 
+9Do you want to select following database 'MySql'? (Y/N): 
+ADo you want to select following database 'Sql Server CE'? (Y/N): 
+>Do you want to select following database 'Sql Server'? (Y/N): 
+)Reading Application Parameters from : {0}
+REBOOT REQUIRED
+/Reboot is required for product {0}. Install {1}
+{0} - requesting {1} :
+Resource ID
+Resource Languages
+LTo use the new offline feed, please run the following from the command line:
+C{0} /Install /Products:<products you want> /XML:<Offline main feed>
+	{0} ({1})
+SQL password
+Selected database: '{0}'
+Site: '{0}'
+Site URL : {0}
+MSome operations failed, see the detailed error messages for more information:
+- SQL Server CE
+- SQL Server
+Start {0}, End {1} Appdata {2}
+Started downloading: '{0}'
+Started downloading products...
+Started installing: '{0}'
+Started installing Products... 
+Starting Installation
+SUCCESS
+$Successfully loaded custom feed: {0}
+%Successfully loaded primary feed: {0}
+@Installing to IISExpress. Suppressing Application Path Parameter
+Title
+4Trying to add missing dependency {0} for product {1}
+1Trying to add related product {0} for product {1}
+Unexpected exception occurred
+-Unexpected parameter '{0}' with command '{1}'
+*    Uninstalled external dependency: '{0}'
+Unknown
+Unknown command line option
+"Unknown command line option: '{0}'
+Unknown database type
+Unknown list option '{0}'
+$Using default website for empty path
+Using default Logger
+Using internal MTF logger
++Valid values for '{0}' option are:
+    {1}
+Actual result file: {0}
++Actual file and baseline file do not match.
+$Actual file and baseline file match.
+-External product or incompatibility detected.
+Validate Install Output End
+Validate Install Output Start
+&Verifying successful log generation...
+$Verifying successful installation...
+Watch object is null.
+Web Server directory: {0}
+!Webmatrix Process Could not Start
+Webmatrix Process : {0} {1}
+&Webmatrix Process Started Successfully
+Website {0} does not exist
+CInvalid XML: the element {0} is missing the required attribute {1}.BSJB
+v2.0.50727
+#Strings
+#GUID
+#Blob
+qnQn
+{oQn
+kq[q
+!r	r
+UwIw
+I}0}
+_}0}
+q}0}
+c~M~
+|~M~
+OS-	
+eV@	
+hW@	
+fS6	
+'TZ	
+TTZ	
+lT`	
+?WH	
+<Module>
+WebpiCmd.exe
+ISqmSession
+Microsoft.Web.PlatformInstaller.Sqm
+SqmFlags
+ISqmSettings
+ManagedSqmSession
+SqmWaitForUpload
+SqmLibWrap
+_SQM_PROTOCOL_ARGUMENT_TYPE
+PSQM_PROTOCOL_ARGUMENT
+PSQM_NAMESPACE_ARGUMENT
+SqmUploadCallback
+SqmOptInStatus
+SqmSessionUploader
+WebPiCmdSqmSettings
+IISExpressHelper
+Microsoft.Web.PlatformInstaller
+SiteNotFoundException
+ApplicationNotFoundException
+InvalidPathException
+SiteNameCannotBeEmptyException
+InvalidCharsInSiteNameException
+SiteSettings
+FrameworkType
+ManagedPipelineMode
+WebpiCmdCommand
+Microsoft.Web.PlatformInstaller.CommandLine
+WebpiCmdHandleSqmOptInCommand
+WebpiCmdTestPreprocessorCommand
+WebpiCmdValidateInstallCommand
+WebpiCmdHelpCommand
+WebpiCmdListCommand
+WebpiCmdOfflineCommand
+WebpiCmdRebootCommand
+WebpiCmdInstallCommand
+WebPiCmdReturnCodes
+PerformanceManager
+ProductProfile
+ServiceProvider
+ProductInstaller
+Resources
+SqmService
+InstallerService
+RebootEntries
+DatabaseType
+CartService
+ProductService
+ProductComparer
+CommandLineOptions
+ListOptions
+CEIPOptions
+CommandLineHelper
+CommandLineUtility
+ConsoleHostCommandHandler
+ConsoleHelper
+ConsoleSpinner
+ConsoleProcessLaunchHostCommandHandler
+WebPiCmdLogger
+ListenerWrapper
+TraceWrapperBase
+RealTraceWrapper
+DummyTraceWrapper
+CustomConsoleTraceListener
+ConsoleLogger
+FileLogger
+IisProductType
+IIISVersionManager
+IIISVersion
+IIISUserData
+IISVersionManager
+IISVersionManagerClass
+WebPIBinariesTask
+WebpiCommandLine
+WebPIOfflineTaskManager
+mscorlib
+System
+Enum
+Object
+ValueType
+MulticastDelegate
+ApplicationException
+IServiceProvider
+IDisposable
+System.Collections.Generic
+IComparer`1
+Product
+IHostCommandHandler
+Microsoft.Web.PlatformInstaller.Utility
+ProcessLaunchHostCommandHandler
+Microsoft.Web.PlatformInstaller.CommandLine.Offline
+ILogger
+System.Diagnostics
+ConsoleTraceListener
+Microsoft.Web.PlatformInstaller.CommandLine.Offline.Tasks
+IOfflineCacheTask
+OfflineTaskManager
+EndSession
+SetDataPoint
+IncrementDataPoint
+AddToStreamDWord
+AddToStreamString
+value__
+SQM_FLAG_DEBUG
+SQM_SECURE_UPLOAD
+SQM_DO_NOT_UPLOAD
+SQM_FLAG_TEST
+SQM_FLAG_INTERNAL
+SQM_FLAG_PARTIAL_SESSION
+SQM_FLAG_CORPORATE
+SQM_FLAG_FILTER
+get_EndSessionFilePathPattern
+get_SessionFileNameSearchPattern
+get_SessionFilesDirectoryPath
+get_SqmUserRegKey
+get_SqmRegKeyValueName
+EndSessionFilePathPattern
+SessionFileNameSearchPattern
+SessionFilesDirectoryPath
+SqmUserRegKey
+SqmRegKeyValueName
+SQM_SESSION_CREATE_NEW
+SQM_OVERWRITE_OLDEST_FILE
+SQM_RELEASE_SESSION
+WebPIAppId
+MaxSessionSize
+MaxFileCount
+_sessionHandle
+_sqmSettings
+_sqmOptInStatus
+.ctor
+InitializeSession
+GetSessionName
+InitializeSessionWithAppId
+InitializeSessionWithMachineId
+InitializeSessionWithUserId
+InitializeSqmFlags
+InitializeAppVersion
+get_Enabled
+EnsureSessionFilesDirectory
+DeleteLastSessionFile
+LogSqmError
+Enabled
+CurrentFileInQueue
+AllFilesInQueue
+SqmUploadSingleFile
+SqmUploadAllFiles
+SqmIgnoreWindowsOptin
+SqmInit
+SqmCleanup
+SqmIsWindowsOptedIn
+SqmIsNamespaceEnabled
+SqmEndSessionEx
+SqmFlushSession
+SqmGetLastUploadTime
+SqmStartUploadEx
+SqmGetSession
+SqmAddToStream
+SqmAddToStreamV
+SqmAddToStreamDWord64
+SqmAddToStreamDWord
+SqmAddToStreamString
+SqmStartSession
+SqmEndSession
+SqmSet
+SqmSetDWord64
+SqmSetString
+SqmSetBool
+SqmSetBits
+SqmSetIfMax
+SqmSetIfMin
+SqmIncrement
+SqmAddToAverage
+SqmGet
+SqmSetEnabled
+SqmGetEnabled
+Guid
+SqmSetMachineId
+SqmSetUserId
+SqmGetMachineId
+SqmGetUserId
+SqmSetAppVersion
+SqmSetAppId
+SqmTimerStart
+SqmTimerRecord
+SqmTimerAccumulate
+System.Runtime.InteropServices.ComTypes
+FILETIME
+SqmGetSessionStartTime
+SqmSet64
+SqmGet64
+SqmReadSharedMachineId
+SqmReadSharedUserId
+SqmWriteSharedMachineId
+SqmWriteSharedUserId
+SqmCreateNewId
+SqmSetFlags
+SqmClearFlags
+SqmGetFlags
+SqmSetCurrentTimeAsUploadTime
+SqmIsSharedMemoryConsistent
+SqmTimerAddToAverage
+SqmStartUpload
+SqmAbortUpload
+SqmWaitForUploadComplete
+SqmNamespaceArgument
+SqmContentArgument
+SqmControlArgument
+SqmProtocolArgumentTypeMax
+pwszName
+pwszValue
+ArgumentType
+Invoke
+IAsyncResult
+AsyncCallback
+BeginInvoke
+EndInvoke
+set_Enabled
+DeleteAnySessionFilesOnDisable
+SQM_UPLOAD_ALL_FILES
+SQM_WAITFORUPLOAD_ALLFILESINQUEUE
+UploadUrlString
+StartUpload
+WaitForUploadComplete
+WebsiteFolderName
+InetmgrRegistryKeyPath
+IncrementalSiteIDCreationKey
+get_WebsitesFolder
+Microsoft.Web.PlatformInstaller.Interop
+IAppHostElement
+IAppHostAdminManager
+GetSiteElement
+GetUniqueIisExpressSitePath
+GetUniqueSiteName
+IsSiteNameUnique
+CreateSite
+get_SupportsCreateSite
+ICollection`1
+InstallerContext
+DoPostInstallConfiguration
+IAppHostConfigFile
+SetAppPoolName
+IAppHostElementCollection
+GetCollectionElement
+GetAppPoolName
+IList`1
+GetSiteNames
+GetAppHostAdminManager
+GetReadOnlyAdminManager
+IAppHostWritableAdminManager
+GetAppHostWritableAdminManager
+GetCurrentSiteName
+WritePhpAppConfiguration
+GetClickableLink
+ParseIPInfoFromBindingInformation
+AddSite
+GenerateNewSiteID
+GenerateNewSiteIDFromName
+ExistsSiteId
+GenerateNewSiteIDIncremental
+IsIncrementalSiteIDCreationSet
+ValidateName
+InvalidSiteNameCharacters
+GetSiteSettings
+FindElement
+WebsitesFolder
+SupportsCreateSite
+System.Runtime.Serialization
+SerializationInfo
+StreamingContext
+_invalidChars
+get_InvalidChars
+InvalidChars
+_physicalPath
+_bindingInformation
+get_BindingInformation
+get_PhysicalPath
+BindingInformation
+PhysicalPath
+None
+Framework2
+Framework4
+Integrated
+Classic
+ValidateArguments
+ExecuteCommand
+Dictionary`2
+GetCommand
+_arguments
+get_Arguments
+set_Arguments
+_serviceProvider
+get_ServiceProvider
+set_ServiceProvider
+_productService
+get_ProductService
+_cartService
+get_CartService
+_installerService
+get_InstallerService
+_sqmService
+get_SqmService
+Arguments
+ProcessOptionalArguments
+DoInstallPreview
+DisplayList
+ListCurrentLanguage
+ListAvailableProducts
+ListAvailableLanguages
+ListFeeds
+List`1
+ListProducts
+_customFeeds
+_language
+_mainFeed
+_path
+ProductSet
+_productIds
+UpdateMode
+_updateMode
+_title
+get_CustomFeeds
+get_Languge
+get_MainFeed
+get_Path
+get_ProductIds
+get_Title
+get_UpdateMode
+CustomFeeds
+Languge
+MainFeed
+Path
+ProductIds
+Title
+_productInstaller
+Success
+RebootRequired
+Failure
+Stopwatch
+_watch
+_totalSeconds
+_perfStorageStart
+_perfStorageEnd
+_totalStorage
+_localAppDataSizeStart
+_localAppDataSizeEnd
+_localAppDataSize
+_webPILogsSizeStart
+_webPILogsSizeEnd
+_webPILogsSize
+_stateLock
+_isStopped
+get_TotalSeconds
+set_TotalSeconds
+get_TotalStorage
+set_TotalStorage
+get_WebPILogsSize
+set_WebPILogsSize
+get_IsStopped
+set_IsStopped
+StartMeasuring
+StopMeasuring
+Reset
+EventArgs
+InstallManager_ProductInstallChainCompleted
+TotalSeconds
+TotalStorage
+WebPILogsSize
+IsStopped
+_product
+_downloadCounter
+_installCounter
+get_Product
+set_Product
+get_DownloadCounter
+set_DownloadCounter
+get_InstallCounter
+set_InstallCounter
+DownloadCounter
+InstallCounter
+System.ComponentModel.Design
+ServiceContainer
+_serviceContainer
+Type
+GetService
+Dispose
+DefaultWebSite
+_generateAppFilePath
+_appNamesToAppPathsMapping
+get_AppNamesToAppPathsMapping
+Execute
+get_IsInitiateMUScanApplicable
+AcceptEulas
+CheckIncompatibleProcesses
+SetAppParameters
+MSDeployPackage
+SetAppParametersFromFile
+SetAppParametersFromUser
+DeploymentParameter
+ValidateParamValue
+SaveParametersToFile
+CheckIfNeedToRememberAppPath
+VerifySpecialParamNeedsMet
+IsAppPathParameter
+DoesWebsiteExist
+GetSiteNameFromApplicationPath
+LogResults
+SqmLogInstallResult
+LogInstallationResult
+LogPerformanceResults
+GetCachedInstallerSizeForProduct
+RemoveUnusedParameter
+RemoveUnusedProviders
+AppNamesToAppPathsMapping
+IsInitiateMUScanApplicable
+System.Resources
+ResourceManager
+resourceMan
+System.Globalization
+CultureInfo
+resourceCulture
+get_ResourceManager
+get_Culture
+set_Culture
+get_AcceptedEulas
+get_AddedProductToInstallList
+get_AddingMySqlToCart
+get_AddingSqlToCart
+get_AllProductsSuccess
+get_Applications
+get_AppPathString
+get_ArgumentDoesNotExpectValues
+get_AvailableDatabaseChoicesString
+get_AvailableProducts
+get_BeginningReboot
+get_ChooseDatabaseString
+get_CloseIncompatProcessesMessage
+get_CmdLineStartEula
+get_CommandAndSubcommand
+get_ComputedNegativeStorage
+get_ConfigDirectoryMessage
+get_ConfiguringAppAgainstIISExpress
+get_CouldNotFind
+get_CouldNotGetVersionManagerType
+get_CouldNotRunAsAdmin
+get_CounterHeadingDownSize
+get_CounterHeadingDownTime
+get_CounterHeadingInstSize
+get_CounterHeadingInstTime
+get_CounterHeadingLogSize
+get_CounterHeadingProducts
+get_CreationOfProductLogsMessage
+get_CurrentLangOfInstallers
+get_Done
+get_DoneLoadingWebpiFeedsMessage
+get_DoNotUseRebootOption
+get_DownloadCountMessage
+get_Downloaded
+get_EnterWebApplicationParameters
+get_EnterYOrNMessage
+get_ErrorGettingIISVersion
+get_ErrorLoggingMetrics
+get_ErrorProcessing
+get_ErrorSettingAppParameters
+get_ErrorWritingToLogFile
+get_EulaMessage
+get_EulaNotAccepted
+get_EulaString
+get_FailedToLoadFeed
+get_Failure
+get_FollowingApplicationsNotAvailable
+get_FollowingProductsAreToInstall
+get_FollowingProductsNotAvailable
+get_FoundIISVersionManager
+get_FoundKeyword
+get_FrameworkString
+get_FunctionFailedError
+get_HelpAcceptEulas
+get_HelpApplicationArgument
+get_HelpCeipOption
+get_HelpCommand
+get_HelpFeedsArgumentForInstall
+get_HelpFeedsArgumentForOffline
+get_HelpForceReboot
+get_HelpIisExpress
+get_HelpInstallMode
+get_HelpLanguageArgumentForInstall
+get_HelpLanguageArgumentForOffline
+get_HelpListArgument
+get_HelpListMode
+get_HelpLogArgument
+get_HelpMultipleValuesCommaSeparated
+get_HelpMUOptIn
+get_HelpMySQLPassword
+get_HelpOfflineArgument
+get_HelpOfflineMode
+get_HelpOptionalParametersForInstall
+get_HelpOptionalParametersForOffline
+get_HelpParamFileIsOptional
+get_HelpProductArgument
+get_HelpProductName
+get_HelpRequiredParameters
+get_HelpSamplesLink
+get_HelpSQLPassword
+get_HelpSupportsFollowingModes
+get_HelpSuppressPostFinish
+get_HelpSuppressReboot
+get_HelpTitleArgumentForOffline
+get_HelpUpdateAllArgumentForOffline
+get_HelpUpdateArgumentForOffline
+get_HelpUseRemoteDatabase
+get_HelpXmlArgumentForInstall
+get_HelpXmlArgumentForOffline
+get_ID
+get_IncompatibilitiesDetected
+get_IncompatibleProcessesRunning
+get_InitiateMUScanFailedMessage
+get_InitiateMUScanSuccessfulMessage
+get_InputMask
+get_InstallationCountMessage
+get_InstallCompleted
+get_InstallerContextsSeparator
+get_InstallerFileMissingUrlError
+get_InstallFailedMessage
+get_InstallingAppAgainstIISExpress
+get_InstallOfProductsMessage
+get_InstallPassedMessage
+get_InvalidArgFormat
+get_InvalidArgumentsForRebootCommand
+get_InvalidDatabaseTypeInFile
+get_InvalidOfflineModeNoProductsSpecified
+get_InvalidPath
+get_InvalidPathOrUri
+get_InvalidUpdateSwitchConflict
+get_InvalidUrl
+get_InvalidValueInputted
+get_Language
+get_LaunchingWebMatrixwithSite
+get_LineInfoError
+get_ListCommandNotWithProductsApplications
+get_ListCommandUsage
+get_ListProductsMarker
+get_ListsSeparator
+get_LogExecutingCommand
+get_LogExistsMessage
+get_LoggerBug
+get_LoggerEndMessage
+get_LoggerFail
+get_LoggerMessage
+get_LoggerPass
+get_LoggerRunFailed
+get_LoggerRunPassed
+get_LoggerStartTestcase
+get_LogLocation
+get_LogUserInputValue
+get_MasterFeeds
+get_MetricFinalMessage
+get_MissingCultureError
+get_MissingRequiredParameter
+get_MissingRequiredParameterForCommand
+get_MySqlDbChoiceString
+get_MySQLPasswordPrompt
+get_Name
+get_NameColonValue
+get_NoArgsDefinedProdRequired
+get_NoDatabaseSelectedString
+get_NoMasterFeedsAvailable
+get_NoProductsAvailable
+get_NoProductToBeInstalled
+get_NotAddingInstalledProduct
+get_OfflineCustomFeeds
+get_OfflineMainFeed
+get_OptionNotWithRequiredParameters
+get_ParamBasedHelpNotSupported
+get_ParamCanBeSpecifiedOnce
+get_ParameterName
+get_ParametersWrittenToFile
+get_ParamExpectsOnlyOneValue
+get_ParamNotSpecified
+get_PerformMUOptInFailedMessage
+get_PleaseEnterValueFor
+get_PostFinishActionHeader
+get_PostFinishActionLaunchHeader
+get_PostFinishActionLaunchLineItem
+get_PostFinishActionLineItemFailed
+get_PreprocessorErrorMessage
+get_PreprocessorSuccessMessage
+get_PreRebootDownloadCount
+get_PreRebootInstallationCount
+get_PreviouslyInstalledProducts
+get_ProdLicenceAgreementString
+get_ProdOwnedByDownloadedFromString
+get_ProdOwnedByString
+get_ProdOwnedTurnedOnString
+get_ProductAlreadyAddedOrInstalled
+get_ProductHasNoInstalersAvailable
+get_ProductInstallExternalEulaString
+get_ProductInvalidArchitectureError
+get_ProductTitleWasi
+get_ProductTitleWpi
+get_PromptRebootMessage
+get_PromptToSelectMySqlDatabaseChoice
+get_PromptToSelectSqlCeDatabaseChoice
+get_PromptToSelectSqlDatabaseChoice
+get_ReadingAppParametersFrom
+get_RebootRequired
+get_RebootRequiredForProduct
+get_RequestingUrlMessage
+get_ResourceID
+get_ResourceLanguages
+get_RunFromCmdlineWithOfflinefeed
+get_RunFromCmdlineWithOfflinefeedExample
+get_RunningIncompatibleProcess
+get_SelectedDatabaseString
+get_SiteString
+get_SiteURLMessage
+get_SomeProductsFailed
+get_SqlCeDbChoiceString
+get_SqlDbChoiceString
+get_SQLPasswordPrompt
+get_StartedDownloading
+get_StartedDownloadingProducts
+get_StartedInstalling
+get_StartedInstallingProducts
+get_StartEndSizesAppdata
+get_StartingInstallation
+get_Success
+get_SuccessfullyLoadedMetaDataFrom
+get_SuccessfullyLoadedPrimaryFeed
+get_SuppressingAppPathParameter
+get_TryingToAddMissingDependency
+get_TryingToAddRelatedProduct
+get_UnexpectedExceptionOccurred
+get_UnexpectedParameterWithCommand
+get_UninstalledExternalDependency
+get_Unknown
+get_UnknownCmdLineOption
+get_UnknownCommandLineOption
+get_UnknownDbTypeString
+get_UnknownListOption
+get_URL
+get_UsingDefaultLogger
+get_UsingDWSForEmptyPath
+get_UsingMTFLogger
+get_ValidateInstallActualResultFilePath
+get_ValidateInstallBaselineDoesNotMatch
+get_ValidateInstallBaselineMatch
+get_ValidateInstallExtenalOrIncompatibleProduct
+get_ValidateInstallOutputEnd
+get_ValidateInstallOutputStart
+get_ValidParametersForOptionAre
+get_VerifyingLogGeneration
+get_VerifyingSuccessfulInstallation
+get_WatchObjectNull
+get_WebmatrixProcessCouldNotStart
+get_WebmatrixProcessInfo
+get_WebmatrixProcessStartedSuccessfully
+get_WebServerDirectoryMessage
+get_WebsiteDoesNotExist
+get_XmlMissingAttribute
+Culture
+AcceptedEulas
+AddedProductToInstallList
+AddingMySqlToCart
+AddingSqlToCart
+AllProductsSuccess
+Applications
+AppPathString
+ArgumentDoesNotExpectValues
+AvailableDatabaseChoicesString
+AvailableProducts
+BeginningReboot
+ChooseDatabaseString
+CloseIncompatProcessesMessage
+CmdLineStartEula
+CommandAndSubcommand
+ComputedNegativeStorage
+ConfigDirectoryMessage
+ConfiguringAppAgainstIISExpress
+CouldNotFind
+CouldNotGetVersionManagerType
+CouldNotRunAsAdmin
+CounterHeadingDownSize
+CounterHeadingDownTime
+CounterHeadingInstSize
+CounterHeadingInstTime
+CounterHeadingLogSize
+CounterHeadingProducts
+CreationOfProductLogsMessage
+CurrentLangOfInstallers
+Done
+DoneLoadingWebpiFeedsMessage
+DoNotUseRebootOption
+DownloadCountMessage
+Downloaded
+EnterWebApplicationParameters
+EnterYOrNMessage
+ErrorGettingIISVersion
+ErrorLoggingMetrics
+ErrorProcessing
+ErrorSettingAppParameters
+ErrorWritingToLogFile
+EulaMessage
+EulaNotAccepted
+EulaString
+FailedToLoadFeed
+FollowingApplicationsNotAvailable
+FollowingProductsAreToInstall
+FollowingProductsNotAvailable
+FoundIISVersionManager
+FoundKeyword
+FrameworkString
+FunctionFailedError
+HelpAcceptEulas
+HelpApplicationArgument
+HelpCeipOption
+HelpCommand
+HelpFeedsArgumentForInstall
+HelpFeedsArgumentForOffline
+HelpForceReboot
+HelpIisExpress
+HelpInstallMode
+HelpLanguageArgumentForInstall
+HelpLanguageArgumentForOffline
+HelpListArgument
+HelpListMode
+HelpLogArgument
+HelpMultipleValuesCommaSeparated
+HelpMUOptIn
+HelpMySQLPassword
+HelpOfflineArgument
+HelpOfflineMode
+HelpOptionalParametersForInstall
+HelpOptionalParametersForOffline
+HelpParamFileIsOptional
+HelpProductArgument
+HelpProductName
+HelpRequiredParameters
+HelpSamplesLink
+HelpSQLPassword
+HelpSupportsFollowingModes
+HelpSuppressPostFinish
+HelpSuppressReboot
+HelpTitleArgumentForOffline
+HelpUpdateAllArgumentForOffline
+HelpUpdateArgumentForOffline
+HelpUseRemoteDatabase
+HelpXmlArgumentForInstall
+HelpXmlArgumentForOffline
+IncompatibilitiesDetected
+IncompatibleProcessesRunning
+InitiateMUScanFailedMessage
+InitiateMUScanSuccessfulMessage
+InputMask
+InstallationCountMessage
+InstallCompleted
+InstallerContextsSeparator
+InstallerFileMissingUrlError
+InstallFailedMessage
+InstallingAppAgainstIISExpress
+InstallOfProductsMessage
+InstallPassedMessage
+InvalidArgFormat
+InvalidArgumentsForRebootCommand
+InvalidDatabaseTypeInFile
+InvalidOfflineModeNoProductsSpecified
+InvalidPath
+InvalidPathOrUri
+InvalidUpdateSwitchConflict
+InvalidUrl
+InvalidValueInputted
+Language
+LaunchingWebMatrixwithSite
+LineInfoError
+ListCommandNotWithProductsApplications
+ListCommandUsage
+ListProductsMarker
+ListsSeparator
+LogExecutingCommand
+LogExistsMessage
+LoggerBug
+LoggerEndMessage
+LoggerFail
+LoggerMessage
+LoggerPass
+LoggerRunFailed
+LoggerRunPassed
+LoggerStartTestcase
+LogLocation
+LogUserInputValue
+MasterFeeds
+MetricFinalMessage
+MissingCultureError
+MissingRequiredParameter
+MissingRequiredParameterForCommand
+MySqlDbChoiceString
+MySQLPasswordPrompt
+Name
+NameColonValue
+NoArgsDefinedProdRequired
+NoDatabaseSelectedString
+NoMasterFeedsAvailable
+NoProductsAvailable
+NoProductToBeInstalled
+NotAddingInstalledProduct
+OfflineCustomFeeds
+OfflineMainFeed
+OptionNotWithRequiredParameters
+ParamBasedHelpNotSupported
+ParamCanBeSpecifiedOnce
+ParameterName
+ParametersWrittenToFile
+ParamExpectsOnlyOneValue
+ParamNotSpecified
+PerformMUOptInFailedMessage
+PleaseEnterValueFor
+PostFinishActionHeader
+PostFinishActionLaunchHeader
+PostFinishActionLaunchLineItem
+PostFinishActionLineItemFailed
+PreprocessorErrorMessage
+PreprocessorSuccessMessage
+PreRebootDownloadCount
+PreRebootInstallationCount
+PreviouslyInstalledProducts
+ProdLicenceAgreementString
+ProdOwnedByDownloadedFromString
+ProdOwnedByString
+ProdOwnedTurnedOnString
+ProductAlreadyAddedOrInstalled
+ProductHasNoInstalersAvailable
+ProductInstallExternalEulaString
+ProductInvalidArchitectureError
+ProductTitleWasi
+ProductTitleWpi
+PromptRebootMessage
+PromptToSelectMySqlDatabaseChoice
+PromptToSelectSqlCeDatabaseChoice
+PromptToSelectSqlDatabaseChoice
+ReadingAppParametersFrom
+RebootRequiredForProduct
+RequestingUrlMessage
+ResourceID
+ResourceLanguages
+RunFromCmdlineWithOfflinefeed
+RunFromCmdlineWithOfflinefeedExample
+RunningIncompatibleProcess
+SelectedDatabaseString
+SiteString
+SiteURLMessage
+SomeProductsFailed
+SqlCeDbChoiceString
+SqlDbChoiceString
+SQLPasswordPrompt
+StartedDownloading
+StartedDownloadingProducts
+StartedInstalling
+StartedInstallingProducts
+StartEndSizesAppdata
+StartingInstallation
+SuccessfullyLoadedMetaDataFrom
+SuccessfullyLoadedPrimaryFeed
+SuppressingAppPathParameter
+TryingToAddMissingDependency
+TryingToAddRelatedProduct
+UnexpectedExceptionOccurred
+UnexpectedParameterWithCommand
+UninstalledExternalDependency
+Unknown
+UnknownCmdLineOption
+UnknownCommandLineOption
+UnknownDbTypeString
+UnknownListOption
+UsingDefaultLogger
+UsingDWSForEmptyPath
+UsingMTFLogger
+ValidateInstallActualResultFilePath
+ValidateInstallBaselineDoesNotMatch
+ValidateInstallBaselineMatch
+ValidateInstallExtenalOrIncompatibleProduct
+ValidateInstallOutputEnd
+ValidateInstallOutputStart
+ValidParametersForOptionAre
+VerifyingLogGeneration
+VerifyingSuccessfulInstallation
+WatchObjectNull
+WebmatrixProcessCouldNotStart
+WebmatrixProcessInfo
+WebmatrixProcessStartedSuccessfully
+WebServerDirectoryMessage
+WebsiteDoesNotExist
+XmlMissingAttribute
+SqmUploadTimeout
+WebPiAgileSqmDataPointId
+DATAID_DP_WEBPI_FINISHED
+DATAID_DP_WEBPI_ADDTOCART_WEBPICMD
+DATAID_DP_WEBPI_OS_LANG
+DATAID_DP_WEBPI_OS_ARCH
+DATAID_DP_WEBPI_UXORCMDLINE
+DATAID_DP_WEBPI_MAJOROS
+DATAID_DP_WEBPI_MINOROS
+DATAID_DP_WEBPI_SPMAJOR
+DATAID_DP_WEBPI_SPMINOR
+DATAID_DP_WEBPI_OS_SKU
+DATAID_DP_WEBPI_OSBUILDNUMBER
+DATAID_STRM_WEBPICMD_OFFLINEPRODUCTS
+DATAID_STRM_WEBPI_PRODUCTS
+_sqm
+get_SqmSession
+SetWebPiCmdSqmEnabled
+LogAddToCart
+LogOfflineProducts
+LogFinishInstall
+LogInstallStatus
+LogCurrentMachinePlatform
+LogUXOrCdmLine
+SqmSession
+_isRebootNeeded
+_installStarted
+_downloadStarted
+_isInstallChainComplete
+InstallManager
+_installManager
+get_InstallManager
+System.Collections.ObjectModel
+ReadOnlyCollection`1
+get_InstallerContexts
+_productProfiles
+get_ProdProfiles
+_downloadPerfManager
+get_DownloadPerfManager
+_installPerfManager
+get_InstallPerfManager
+_iisExpressMode
+get_IISExpressMode
+set_IISExpressMode
+_sqlPassword
+get_SqlPassword
+set_SqlPassword
+_mySqlPassword
+get_MySqlPassword
+set_MySqlPassword
+_acceptEula
+get_AcceptEula
+set_AcceptEula
+_suppressPostFinish
+get_SuppressPostFinish
+set_SuppressPostFinish
+_suppressReboot
+get_SuppressReboot
+set_SuppressReboot
+_forceReboot
+get_ForceReboot
+set_ForceReboot
+_selectedDatabase
+get_SelectedDatabase
+set_SelectedDatabase
+_useRemoteDatabase
+get_UseRemoteDatabase
+set_UseRemoteDatabase
+_optInMU
+get_OptInMU
+set_OptInMU
+_includeRelatedProducts
+get_IncludeRelatedProducts
+set_IncludeRelatedProducts
+_appParamFilesMap
+get_AppParamFilesMap
+get_IsResumingAfterReboot
+IEnumerable`1
+Installer
+Load
+StartInstallation
+StartApplicationInstallation
+AppsToConfigureExist
+ExecutePostFinishActions
+LoadRebootDescriptorFile
+WaitForInstallationToComplete
+InstallManager_InstallCompleted
+InstallStatusEventArgs
+InstallManager_InstallerStatusUpdated
+SetInstallMode
+CreateIisExpressSite
+GetPackageFrameworkType
+SetIisExpressParameters
+GetProductInstallReturnCode
+GetApplicationInstallReturnCode
+PerformMUOptIn
+InitiateMUScan
+HandleReboot
+CreateRebootDescriptorFile
+DeleteRebootDescriptorFiles
+InstallerContexts
+ProdProfiles
+DownloadPerfManager
+InstallPerfManager
+IISExpressMode
+SqlPassword
+MySqlPassword
+AcceptEula
+SuppressPostFinish
+SuppressReboot
+ForceReboot
+SelectedDatabase
+UseRemoteDatabase
+OptInMU
+IncludeRelatedProducts
+AppParamFilesMap
+IsResumingAfterReboot
+ProductXmlLocation
+ProductTitle
+Feed
+PerfCounter
+PerfStorage
+DownloadCount
+InstallCount
+MySQL
+VistaDB
+SQLite
+FlatFile
+SQLCE
+_cartProductInstallers
+get_CartProductInstallers
+_productList
+get_ProductList
+_installList
+get_InstallList
+AddApplicationsToInstall
+AddProductsToInstall
+AddAllProductsToInstall
+AddAllProductsFromCustomFeedsToInstall
+AddProductToProductList
+CalculateInstallList
+AddProductToInstallList
+GetProductByIdOrTitle
+GetApplicationByIdOrTitle
+FindProductInSpecifiedList
+SelectDatabaseAndAddIfApplicable
+GetSelectedDatabaseFromFile
+GetSelectedDatabaseFromUser
+IsMUSupportedProductInTheCart
+CartProductInstallers
+ProductList
+InstallList
+_builtInIisProductLoaded
+_iisExpressProductLoaded
+_productComparer
+_productXmlLocation
+get_ProductXmlLocation
+set_ProductXmlLocation
+ProductManager
+_productManager
+get_ProductManager
+_loadedCustomFeeds
+get_LoadedCustomFeeds
+_customFeedsToLoad
+get_CustomFeedsToLoad
+_productsInstalledFromCustomFeeds
+get_ProductsInstalledFromCustomFeeds
+_installedProducts
+get_InstalledProducts
+_availableProducts
+_availableApplications
+get_AvailableApplications
+_applicationsAvailableFromCustomFeeds
+get_ApplicationsAvailableFromCustomFeeds
+_productsAvailableFromCustomFeeds
+get_ProductsAvailableFromCustomFeeds
+_languages
+get_Languages
+_knownFeeds
+get_KnownFeeds
+_installerResourceLanguage
+get_InstallerResourceLanguage
+set_InstallerResourceLanguage
+_installerLanguage
+get_InstallerLanguage
+_builtInIisProduct
+get_BuiltInIisProduct
+_iisExpressProducts
+get_IisExpressProducts
+_sqlProduct
+get_SqlProduct
+_mySqlProduct
+get_MySqlProduct
+_sqlCeProduct
+get_SqlCeProduct
+Keyword
+_sqlKeyword
+get_SqlKeyword
+_sqlCeKeyword
+get_SqlCeKeyword
+_mySqlKeyword
+get_MySqlKeyword
+GetDatabaseProduct
+LoadAllProducts
+LoadMainXml
+LoadCustomFeed
+SortAllProductLists
+IsProductFromCustomLocation
+ProductHasInstaller
+GetLocalizedInstaller
+InstallPlan
+GetInstallPlan
+LoadedCustomFeeds
+CustomFeedsToLoad
+ProductsInstalledFromCustomFeeds
+InstalledProducts
+AvailableApplications
+ApplicationsAvailableFromCustomFeeds
+ProductsAvailableFromCustomFeeds
+Languages
+KnownFeeds
+InstallerResourceLanguage
+InstallerLanguage
+BuiltInIisProduct
+IisExpressProducts
+SqlProduct
+MySqlProduct
+SqlCeProduct
+SqlKeyword
+SqlCeKeyword
+MySqlKeyword
+Compare
+Application
+Feeds
+Help
+IISExpress
+List
+Products
+Reboot
+Offline
+Install
+ListOption
+Verbose
+Update
+UpdateAll
+ValidateInstall
+Test
+Preprocessor
+InputXml
+OutputXml
+CEIP
+GenerateAppFile
+Installed
+Available
+HELP_COMMANDS
+ARGUMENT_PARAMETER_SEPARATORS
+PARAMETER_SEPARATORS
+TRIM_CHARS
+TRIM_END_CHARS
+GetSanitizedCommandline
+SanitizeCommandline
+ParseCommandLineArgs
+ProcessArgument
+ValidateParameters
+ValidateAndReadFilePath
+ValidateReadXmlPath
+IsHelpCommand
+IsCEIPCommand
+DisplayListOptionUsage
+DisplayCEIPUsage
+DisplayHelp
+DisplayWpiCmdlineEula
+ExecutableFolder
+ExecutablePath
+TempFolder
+RebootDescriptorFile
+InstallPlanFileLocation
+ShutdownPath
+RebootRegistryKeyPath
+RebootValueName
+CmdLineLocation
+WebMatrixRegistryLocation
+WebMatrixInstallPathValueName
+WebMatrixExeName
+AppParamDelimiter
+AppParamFileDelimiter
+AppParameterFileExtension
+AppParamFileSelectedDatabaseKey
+InvariantProductInitials
+InvariantExeName
+InvariantExamplesUri
+_localAppDataLocation
+_installLogsLocation
+_installerCacheLocation
+BYTES_IN_MB
+LEFT_SIDE_MAX_CHARS
+REPORT_LEFT_SIDE_MAX_CHARS
+FormattedStringTemplate
+FormattedReportStringTemplate
+get_LocalAppDataLocation
+get_TraceFileDirectory
+get_InstallerCacheLocation
+get_InstallLogsLocation
+AreWeAnAdmin
+ReOpenAsAdmin
+DeleteFileIfExist
+CreateFileFriendlyDate
+FormatString
+FormatReportString
+RegisterToRunOnReboot
+ShutDown
+GetFreeDiskSpaceInMegaBytes
+DirectorySize
+GetWebMatrixExe
+LocalAppDataLocation
+TraceFileDirectory
+InstallerCacheLocation
+InstallLogsLocation
+TraceSource
+_logger
+_hasPrintedHeader
+IHostCommand
+PrintHeader
+StartConsoleSpinner
+StopConsoleSpinner
+GetInputFromTheUser
+GetYorNInputFromUser
+System.Timers
+Timer
+_timer
+_tick
+_started
+_lock
+Start
+Stop
+ElapsedEventArgs
+Timer_Elapsed
+ClearSpinner
+OnPreviewExecuteCommand
+Exception
+OnException
+_dmTraceWrapper
+SetupTraceSource
+get_TraceSource
+get_Logger
+TraceEventType
+LogMessage
+TraceListener
+UseListener
+Logger
+_source
+_listener
+TraceEventCache
+TraceEvent
+_listenerWrapper
+TextWriterTraceListener
+_traceListener
+_verboseLoggingEnabled
+get_VerboseLoggingEnabled
+set_VerboseLoggingEnabled
+InitializeLogging
+EnableVerboseLogging
+StopLogging
+VerboseLoggingEnabled
+_logFileName
+get_LogFileName
+GetDefaultLogFileName
+LogFileName
+OsService
+Express
+GetVersionObject
+GetAllVersionObjects
+GetPropertyValue
+CreateObjectFromProgId
+CreateObjectFromClsId
+ApplyIISEnvironmentVariables
+ClearIISEnvironmentVariables
+ApplyManifestContext
+ClearManifestContext
+get_UserIISDirectory
+SetupUserIISDirectory
+ClearUserIISDirectory
+UserIISDirectory
+OfflineCache
+_exeLocation
+_frameworkDllLocation
+get_AllFiles
+get_ExeLocation
+get_FrameworkDllLocation
+System.IO
+DirectoryInfo
+CopyTo
+AllFiles
+ExeLocation
+FrameworkDllLocation
+Main
+GetLogFileArgument
+_cacheTasks
+get_CacheTasks
+CacheTasks
+dataPoint
+value
+cTuple
+dwVal
+strVal
+sqmSettings
+functionName
+errorMessage
+errorCode
+pwszPartner
+System.Runtime.InteropServices
+MarshalAsAttribute
+UnmanagedType
+pwszGroup
+dwAppId
+cNamespaceArgs
+pNamespaceArgs
+hSession
+pszPattern
+dwMaxFilesToQueue
+dwFlags
+cProtocolArgs
+pProtocolArgs
+pwszFileName
+szPattern
+pwszPartnerName
+pwszGroupName
+pfnCallback
+pvCallbackExContext
+pszSessionIdentifier
+cbMaxSessionSize
+dwId
+nArgs
+list
+ParamArrayAttribute
+tuple
+qwVal
+dwOrBits
+dwInc
+pdwVal
+OutAttribute
+fEnabled
+guid
+InAttribute
+dwVersionHigh
+dwVersionLow
+pGuid
+pszSqmFileName
+szUrl
+szSecureUrl
+dwTimeoutMilliseconds
+dwTimeoutMilliSeconds
+object
+method
+filePath
+dwHttpResponse
+callback
+result
+timeout
+siteName
+adminManager
+appName
+name
+protocol
+ipAddress
+port
+hostname
+physicalPath
+appPath
+framework
+installerContexts
+configFile
+appPoolName
+collection
+elementName
+propertyName
+propertyValue
+dotNetVersion
+bindingInformation
+hostHeader
+bindingProtocol
+sitesCollection
+siteID
+attributeName
+info
+context
+invalidChars
+parsedCommand
+parsedArguments
+serviceProvider
+listOption
+title
+products
+deltaSeconds
+deltaStorage
+logSize
+sender
+arguments
+serviceType
+msdeployPackage
+fileName
+declaredParameter
+paramValue
+applicationName
+sitename
+applicationPath
+returnCode
+productId
+parameter
+package
+isSqmEnabled
+productSet
+installSucceeded
+isDependency
+installers
+handler
+webServerDirectory
+configDirectory
+selectedApplications
+selectedProducts
+product
+selectedProduct
+selectedApplication
+productList
+databaseChoices
+language
+primaryFeed
+customFeeds
+feed
+productsToBeInstalled
+commandline
+parameterToSanitize
+args
+argumentName
+argumentValue
+commandLineOption
+parameters
+sanitizedParameters
+parameterList
+command
+leftString
+rightString
+startupPath
+disc
+directoryPath
+logger
+inputName
+isEmptyAllowed
+maskUserInputInLogs
+message
+path
+level
+eventType
+format
+listener
+source
+eventCache
+logFileName
+bstrVersion
+productType
+bstrName
+bstrObjectName
+clsidObject
+fOverride
+offlineCache
+directory
+CLSCompliantAttribute
+GuidAttribute
+System.Runtime.CompilerServices
+InternalsVisibleToAttribute
+NeutralResourcesLanguageAttribute
+ComVisibleAttribute
+System.Reflection
+AssemblyVersionAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+AssemblyFileVersionAttribute
+DebuggableAttribute
+DebuggingModes
+CompilationRelaxationsAttribute
+RuntimeCompatibilityAttribute
+WebpiCmd
+FlagsAttribute
+Marshal
+GetLastWin32Error
+Process
+GetCurrentProcess
+ProcessModule
+get_MainModule
+get_ModuleName
+GetFileNameWithoutExtension
+get_Id
+get_InvariantCulture
+Int32
+String
+IFormatProvider
+Format
+Empty
+Assembly
+GetExecutingAssembly
+get_Location
+FileVersionInfo
+GetVersionInfo
+get_FileMajorPart
+get_FileMinorPart
+get_FileBuildPart
+get_FilePrivatePart
+get_Message
+IOException
+UnauthorizedAccessException
+System.Security
+SecurityException
+Directory
+Exists
+CreateDirectory
+FileSystemInfo
+get_Exists
+FileInfo
+GetFiles
+DateTime
+get_LastWriteTime
+op_LessThan
+Delete
+Logging
+ToString
+System.CodeDom.Compiler
+GeneratedCodeAttribute
+DllImportAttribute
+sqmapi.dll
+StructLayoutAttribute
+LayoutKind
+Microsoft.Win32
+Registry
+GetValue
+Nullable`1
+get_HasValue
+get_Value
+SetValue
+Combine
+Environment
+SpecialFolder
+GetFolderPath
+Concat
+IAppHostConfigManager
+get_ConfigManager
+GetConfigFile
+GetAdminSection
+get_Collection
+UInt32
+get_Item
+IAppHostProperty
+GetPropertyByName
+get_StringValue
+StringComparison
+Equals
+get_Count
+IAppHostPropertyCollection
+get_Properties
+FinalReleaseComObject
+IsNullOrEmpty
+CommitChanges
+set_Value
+CreateNewElement
+COMException
+StartsWith
+GetElementByName
+GetTypeFromProgID
+Activator
+CreateInstance
+GetTypeFromCLSID
+AppHostAdminManager
+RuntimeTypeHandle
+GetTypeFromHandle
+get_GUID
+AppHostWritableAdminManager
+IEnumerator`1
+GetEnumerator
+get_Current
+get_Installer
+get_MSDeployPackage
+InstallationState
+get_InstallationState
+InstallReturnCode
+get_ReturnCode
+InstallReturnCodeStatus
+get_Status
+get_Site
+get_AppPath
+get_PhpExeLocation
+System.Collections
+IEnumerator
+MoveNext
+PHPConfigHelper
+RegisterFastCgiApplicationIfNotPresent
+RegisterIndexPhpDefaultDocIfNotPresent
+RegisterPhpHandlerAtLocation
+Char
+Split
+LastIndexOf
+Substring
+EnvironmentUtil
+ExpandEnvironmentVariables
+GetInvalidPathChars
+Array
+IndexOfAny
+get_Length
+Int64
+AddElement
+GetHashCode
+Math
+Sort
+RegistryKey
+LocalMachine
+OpenSubKey
+Close
+Trim
+System.Text
+StringBuilder
+Append
+<PrivateImplementationDetails>{48FE5656-AD06-49FB-B153-4380AE19C64B}
+CompilerGeneratedAttribute
+__StaticArrayInitTypeSize=30
+$$method0x600008a-1
+RuntimeHelpers
+RuntimeFieldHandle
+InitializeArray
+IAppHostChildElementCollection
+get_ChildElements
+SerializableAttribute
+ContainsKey
+KeyCollection
+get_Keys
+Enumerator
+get_CurrentCulture
+get_AbsoluteUri
+Preprocess
+PreprocessingException
+get_PreprocessingErrors
+AppendLine
+GetAttributeValue
+get_ProductId
+TryGetValue
+UriKind
+TryCreate
+OfflineCacheManager
+AddRange
+set_Language
+OfflineFailure
+SyncProducts
+get_DetailedMessage
+get_IsRunning
+get_ElapsedMilliseconds
+System.Threading
+Monitor
+Enter
+Exit
+get_SystemDirectory
+StartNew
+Round
+Double
+AddService
+DebugMode
+get_XmlLocation
+IsWellFormedUriString
+StringComparer
+get_OrdinalIgnoreCase
+IEqualityComparer`1
+GetAttribute
+get_ProductName
+get_Author
+InstallerFile
+get_InstallerFile
+get_InstallerUrl
+op_Equality
+get_OriginalString
+get_IsIisComponent
+get_EulaUrl
+op_Inequality
+IncompatibleProcess
+get_IncompatibleProcesses
+get_ProcessName
+GetProcessesByName
+get_MainWindowTitle
+InvalidOperationException
+NotSupportedException
+StreamReader
+TextReader
+ReadLine
+Contains
+StringSplitOptions
+get_DeploymentParameters
+get_SetParameters
+set_Item
+get_EndOfStream
+get_StackTrace
+HasTags
+get_DefaultValue
+get_FriendlyName
+HasValidation
+StreamWriter
+get_RemoveParameters
+TextWriter
+WriteLine
+KeyNotFoundException
+get_StartPage
+InstallCommand
+get_InstallCommands
+IDictionary`2
+get_EnvironmentVariables
+Microsoft.Web.Deployment
+DeploymentBaseOptions
+DeploymentManager
+DeploymentObject
+DeploymentWellKnownProvider
+CreateObject
+get_InstallerDependencies
+Boolean
+get_LogFiles
+Join
+DeploymentWellKnownTag
+get_SkipDirectives
+DebuggerNonUserCodeAttribute
+ReferenceEquals
+get_Assembly
+GetString
+System.ComponentModel
+EditorBrowsableAttribute
+EditorBrowsableState
+get_RebootCount
+TimeSpan
+get_TotalInstallTime
+Ceiling
+OSUtil
+Architecture
+DetermineCurrentArchiteture
+DetermineProductType
+get_LCID
+Version
+DetermineOSVersionForSqm
+get_Major
+get_Minor
+get_Build
+EventHandler`1
+add_InstallCompleted
+add_InstallerStatusUpdated
+File
+PostFinishAction
+get_PostFinishActions
+get_Action
+Remove
+Parse
+Thread
+Sleep
+get_InstallerContext
+get_DetailedInformation
+Random
+Next
+Frameworks
+get_SupportedFrameworks
+get_PackageLocation
+set_Site
+set_AppPath
+SetTags
+IsMUOptIn
+Save
+GetFullPath
+Write
+ToArray
+RelatedProduct
+get_RelatedProducts
+GetInstallList
+GetIncompatibilityString
+get_SelectedInstaller
+get_Keywords
+IsInstalled
+ArgumentException
+OverflowException
+get_DefaultFeed
+ToLower
+GetLanguage
+get_CurrentThread
+get_CurrentUICulture
+get_Parent
+get_Default
+get_Products
+get_Installers
+GetKeyword
+GetProduct
+get_IsApplication
+LoadExternalFile
+get_FeedLocation
+PreferredProductType
+GetPreferredProducts
+ArgumentNullException
+get_CommandLine
+Replace
+TrimStart
+RemoveAt
+TrimEnd
+UriBuilder
+get_Uri
+GetNames
+.cctor
+System.Security.Principal
+WindowsIdentity
+GetCurrent
+WindowsPrincipal
+WindowsBuiltInRole
+IsInRole
+ToUpperInvariant
+ProcessStartInfo
+get_StartInfo
+set_FileName
+set_Verb
+Component
+Win32Exception
+get_Now
+RegistryValueKind
+ProcessWindowStyle
+set_WindowStyle
+System.Management
+ManagementObject
+ManagementBaseObject
+Convert
+ToDouble
+GetDirectories
+get_FullName
+get_FileName
+GetDirectoryName
+get_X86Path
+get_X64Path
+TraceInformation
+Console
+ToUpper
+ConsoleKey
+ElapsedEventHandler
+add_Elapsed
+remove_Elapsed
+SourceLevels
+SourceSwitch
+set_Switch
+get_Switch
+set_Level
+Trace
+set_AutoFlush
+System.Configuration
+ConfigurationException
+TraceListenerCollection
+get_Listeners
+TraceFilter
+get_Filter
+ShouldTrace
+ConsoleColor
+get_ForegroundColor
+set_ForegroundColor
+EventTypeFilter
+set_Filter
+TraceOptions
+set_TraceOutputOptions
+FileStream
+FileMode
+Stream
+get_TraceOutputOptions
+ComImportAttribute
+InterfaceTypeAttribute
+DispIdAttribute
+CoClassAttribute
+TypeLibTypeAttribute
+ClassInterfaceAttribute
+MethodImplAttribute
+MethodImplOptions
+get_FullPath
+OfflineCacheDirectories
+BinRelativePath
+CreateSubdirectory
+GetAssembly
+Create
+Refresh
+FileAttributes
+get_Attributes
+set_Attributes
+get_Directory
+Copy
+get_InnerException
+Microsoft.Web.PlatformInstaller.CommandLine.Resources.resources
+				
+RSA1
+`!g-
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+$9CDA0717-2EB5-42b3-B5B0-16F4941B2029
+$1B036F99-B240-4116-A6A0-B54EC5B2438E
+$15BDF676-788F-4D82-88F3-FDB3ADAB3D3A
+BMicrosoft.Web.PlatformInstaller.CommandLine.IISVersionManagerClass
+$B15183DD-75F9-42DF-8E57-C8B57692F134
+$a2d1968b-a810-4024-ae85-781a0b8f43ea
+Microsoft.Web.PlatformInstaller.CommandLine.UnitTests, PublicKey=0024000004800000940000000602000000240000525341310004000001000100b5fc90e7027f67871e773a8fde8938c81dd402ba65b9201d60593e96c492651e889cc13f1415ebb53fac1131ae0bd333c5ee6021672d9718ea31a8aebd0da0072f25d87dba6fc90ffd598ed4da35e44c398c454307e8e33b8426143daec9f596836f97c8f74750e5975c64e2189f45def46b2a2b1247adc3652bf5c308055da9
+!Microsoft Web Platform Extensions
+9Copyright (c) Microsoft Corporation. All rights reserved.
+Microsoft Corporation
+7.1.50430.0
+WrapNonExceptionThrows
+RSDS
+d:\dd\WebPI\Main\intermediate\x86\Release\WebPICommandLine\WebpiCmd.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity version="3.0.3.0" name="WebpiCmd.exe"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+    </application>
+  </compatibility>
+</asmv1:assembly>
+>0<0
+0!0	
+z@YA
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+130327200828Z
+140627200828Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:BBEC-30CA-2DBE1%0#
+Microsoft Time-Stamp Service0
+?V\w
+GbBW
+M0K0I
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+L0J0H
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+4ERe
+4a6P
+EB $
++%4b
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+140422173900Z
+150722173900Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1
+Microsoft Corporation0
+ a@S1
+pI'^|g
+LpE8-
+F0D1
+MOPR1301
+*31595+b4218f13-6fca-490f-9c47-3fc557dfc4400
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+100831221932Z
+200831222932Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+`  B
+vSl>
+_F1P
+`@V'
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+ycVD
+ED/_
+&	e8
+N=|)H
+`Ge`@N
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+*|k.
+(F.'
+xA1w
+`@V'
+a0_1
+com1
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+.e0P
+I0G0E
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+H0F0D
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+.tq[m
+*$"p
+1Jv1=+r
+xe\[
+qZFC
+L&*H$_Z
+u"/2
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+^|	+
+1>0<
+http://www.asp.net/ 0
+zdZx
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+140430092353Z0#
+]#"!
+P2-Sw1
+h[1*
+1@$"'2

@@ -1,0 +1,2229 @@
+!This program cannot be run in DOS mode.
+!Rich9
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+\$0H
+L$PH
+L$03
+L$@3
+T$0H
+L$@L
+L$PL
+T$@H
+\$(H
+L$@L
+T$PH
+\$(H
+\$0H
+L$ E3
+T$`H
+L$PD
+L$ E3
+T$`H
+L$PD
+@UVH
+D$PE
+L$@D
+\$HH
+|$ HcJ
+|$ H
+\$HH
+|$ HcJ
+\$HH
+L$ A
+L$ H
+L$ A
+L$ H
+T$8H
+L$0H
+(D$0f
+\$PH
+t$XH
+L$ H
+L$ A
+L$ H
+t$XH
+T$xH
+L$xE3
+T$pH
+L$0A
+T$pH
+T$HH
+L$@H
+(D$@f
+|$PH
+@SVH
+T$xH
+L$xE3
+T$pH
+L$0H
+T$pH
+T$HH
+L$@H
+(D$@f
+|$PH
+@SVWH
+T$xH
+L$xE3
+@_^[
+L$xE3
+@_^[
+@_^[
+L$0A
+T$`H
+T$HH
+L$@H
+(D$@f
+L$0A
+T$`H
+T$HH
+L$@H
+(D$@f
+\$hH
+@SVWH
+T$xH
+L$pL
+l$HH
+T$xH
+L$pL
+L$0A
+L$0H
+l$HH
+P_^[
+@SUVWATH
+D8MUt
+T$8A
+d$0L
+L$ H
+T$HH
+T$@E3
+`A\_^][
+\$HH
+|$@3
+T$pD
+L$hf
+D$(E3
+@8sTt;
+L$0H
+L$0H
+@8sU
+L$0H
+T$`H
+L$0H
+T$`H
+|$@H
+\$Hu
+D$@t?
+L$ A
+T$@H
+\$HH
+D$@t?
+L$ A
+T$@H
+\$HH
+T$`H
+L$0A
+T$`H
+T$HH
+L$@H
+(D$@f
+T$`H
+L$0A
+T$`H
+T$HH
+L$@H
+(D$@f
+|$hH
+\$@H
+l$0H
+l$0H
+|$8H
+\$@H
+\$0H
+t$8H
+1HcF
+|$ H
+|$ H
+t$8H
+\$0H
+L$0H
+\$0L;
+D$0H
+|$0H
+|$0HcG
+\$8H
+l$@H
+l$@H
+\$8H
+|$HH
+|$HH
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+u2HcF
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+u2HcF
+\$0H
+l$8H
+t$@H
+VWATAUAVH
+T$8H
+T$0H
+L$0I
+(D$0f
+M@fA
+L$pM
+t$(H
+L$pM
+t$(H
+t$(H
+D$ M
+L$pM
+t$(H
+L$pM
+t$(H
+L$pD
+t$(H
+L$pD
+t$(H
+L$pD
+t$(H
+L$pM
+t$(H
+L$pD
+t$(H
+t$(H
+D$ M
+L$pD
+t$(H
+L$pD
+t$(H
+L$pD
+t$(H
+L$pM
+t$(H
+L$pM
+t$(H
+L$pD
+t$(H
+L$pM
+t$(H
+t$(H
+D$ M
+L$pM
+t$(H
+\$xH
+@A^A]A\_^
+|$H3
+D$@t?
+L$ A
+T$@H
+K(E3
+D$@t?
+L$ A
+T$@H
+|$HH
+\$0H
+L$pE
+T$PH
+L$0H
+L$`H
+L$`H
+L$PH
+N HcA
+D$0HcH
+L$XL
+L$HL
+T$hH
+L$8H
+D$0H
+T$xH
+L$@L
+\$0HcC
+\$0H
+VWATAUAVH
+T$0A
+\$0L
+\$8A
+\$8IcC
+D$0HcH
+t$HIcC
+L$Pf
+D$@H;
+$HcQ
+T$hH
+T$xH
+t$8HcF
+t$0HcF
+$HcB
+t$HH
+L$PH
+t$8HcF
+|$ H
+T$`A
+L$`A
+t$0HcF
+A^A]A\_^
+t1H+
+\$0H
+UVWATAUAVAWH
+T$8H
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+T$HH
+\$HHcC
+T$8H
+L$0H
+(D$0f
+\$8H
+L$0H
+(D$0f
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$XH
+L$xH
+\$XHcC
+T$xH
+T$8H
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$PH
+\$PHcC
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$ L
+T$`H
+l$0H
+(D$0H
+d$8H
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+T$`H
+L$ L
+d$8H
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+L$pH
+T$pH
+T$8H
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+t$ E3
+T$hH
+\$hHcC
+T$8H
+L$0H
+(D$0f
+T$83
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+T$8H
+L$0H
+(D$0f
+L$@H
+T$xH
+D$xH
+D$xH
+L$@H
+t$8L
+L$0H
+(D$0f
+T$pH
+T$`E3
+T$pH
+D$pH
+T$`A
+\$`HcC
+A_A^A]A\_^]
+tDH+
+T$0H
+T$PH
+T$PA
+@8wUuPH
+T$xH
+T$xA
+@8wUt@L
+T$`H
+T$`A
+T$pH
+T$pA
+@8wUt@L
+T$8H
+T$8A
+T$@H
+T$@A
+wP@8wUt@L
+T$HH
+T$HA
+T$XH
+T$XA
+*@8wUH
+@8wUH
+T$hH
+T$hA
+L$ H
+T$HE3
+L$@L
+t$8H
+\$0H
+WATAUH
+|$`H
+l$HH
+\$@H
+ A]A\_
+\$0H
+WATAUH
+|$`H
+l$HH
+\$@H
+ A]A\_
+VWATAUAVH
+L$0H
+L$pE
+|$(H
+T$pH
+L$pL
+t$(E
+L$pL
+t$(L
+L$pL
+t$(L
+\$xH
+@A^A]A\_^H
+\$0H
+9x t
+\$0H9
+T$8H
+\$8HcC
+t$0H
+|$@H
+|$@H
+t$0H
+HcT$8McJ
+HcT$8IcH
+HcD$8H
+\$0HcJ
+l$@H
+t$HH
+T$ I
+\$pH
+\$@H
+\$@H
+L$0H
+L$0H
+D$0H;
+L$0H
+\$8H
+L$@L
+t$(H
+L$@L
+t$(H
+t$PH
+\$HH
+\$0H
+\$0H
+t$8H
+|$ ATH
+Q 9Q
+\$@H
+l$HH
+t$PH
+|$XH
+@SWH
+d$PL
+D9@ t
+$trH
+l$@H
+t$Hf
+2H;7t
+t$HH
+l$@H
+d$PD+i
+l$ H
+|$ ATH
+Q 9Q
+\$@H
+l$HH
+t$PH
+|$XH
+@SVWH
+T$@H
+D$@A9C
+D$@3
+T$HH
+T$HH
+T$HH
+L$PH
+;\$@
+ _^[
+ _^[
+\$0H
+L$ H
+\$xH
+L$(H
+|$pHcG
+\$xH
+L$(H
+|$pHcG
+|$`H
+\$xH
+UVWH
+G8D9@ t
+O8H9
+L$ E3
+T$`H
+\$hH
+@_^]
+L$`H
+T$pH
+\$`H
+\$hH
+@_^]
+\$0H
+@SVWH
+T$PH
+\$PH
+T$@H
+D$@A9C
+D$@3
+tpff
+T$HH
+D$HH
+L$XH
+;\$@r
+ _^[
+SUVWATAUAWH
+T$pH
+T$@H
+D$@H
+T$PH
+\$@H
+L$P3
+~~Hc
+\$@H
+\$@H
+L$PA
+\$@HcC
+I;_8t\I
+G0E3
+D9@ t
+T$HH
+T$`H
+\$0H
+\$0I
+T$hH
+\$hL
+T$XH
+L$hH
+D$XE3
+L$hH
+D$XL
+\$0L
+\$0I
+\$0I
+w8I;
+9h t
+t=;i
+9k t
+t$0H9
+9h t
+\$0H
+\$0H
+t$hHcF
+\$0H
+9p t
+I;O8u
+w8I;_8uUH
+T$HH
+A_A]A\_^][
+|$ ATH
+w8H;_8t)H
+t$@H
+\$HH
+l$PH
+|$XH
+0A\H
+\$@H
+o8H;_8t
+l$HH
+\$@H
+|$PH
+\$0H
+\$0H
+l$8H
+t$@H
+\$0H
+H;P ~
+t^fff
+A8I;
+\$0H
+l$ WATAVH
+t$@L
+l$HL
+l$`ff
+D; H
+D;(H
+D;0H
+D;8I
+t$@L
+l$HH
+D; H
+D;(H
+D;0H
+l$XH
+D;8H
+\$PH
+ A^A\_
+\$0H
+l$8H
+t$@H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+|$ ATAUAVH
+D9 H
+D> H
+D9(H
+D>(H
+D90H
+D>0H
+D98H
+D>8H
+D> H
+D>(H
+D>0H
+D>8H
+L$0L
+L$0H
+d$ H
+\$pI
+A^A]A\
+|$ ATH
+L$ I
+T$ H
+Hc\$ H
+\$@H
+l$HH
+t$PH
+|$XI
+|$ ATH
+\$0H
+l$8H
+t$@H
+|$HI
+D$0H
+D$0H;D$8u
+\$ H
+ATAUAVH
+\$@H
+l$HH
+t$PH
+|$XH
+t$PH
+l$HH
+\$@H
+ A^A]A\
+ A^A]A\
+{ ATH
+L$0H
+L$0H
+d$ H
+\$pI
+tXL+
+L$0L
+T$pI
+D$ I
+L$0H
+L$pI
+\$0H
+\$0H
+UWATH
+t$@Mc
+taM;
+B8M;
+t$@H;
+\$HH
+ A\_]
+\$@H
+\$0H
+t$8H
+t$ H
+WATAUAVAWH
+s@L;
+u1I;
+tqH;
+D$PH
+l$`H
+\$XH
+t$hH
+ A_A^A]A\_
+ATAUAVH
+L$ I
+L$ A
+L$ H
+D$ H
+D$(H
+D$0H
+L$ H
+L$ H
+L$ H
+`A^A]A\
+H8M;
+L$0H;
+D$0H
+\$8H
+t$@H
+L$ H
+T$ H
+~&E3
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+\$0H
+t$8H
+l$ WH
+L$0H
+t$8H
+\$@H
+l$HH
+\$0H
+l$8H
+t$@H
+|$ ATH
+\$09Q
+l$8H
+t$@H
+|$HH
+\$0H
+t$8H
+H A3
+H A3
+\$0H
+l$8H
+t$@H
+\$0L
+T$@H
+T$@H
+T$@H
+l$XH
+t$PI
+8D9p,
+T$pH
+H90~
+T$xH
+|$pI
+T$pH
+L$(H
+O?E3
+L$(H
+t$PH
+t$0L
+l$8L
+d$@H
+|$HH
+L$(H
+@SUWH
+D9@ t
+T$PH
+t$HH
+ _][
+T$@H
+\$@HcC
+t$HH
+ _][
+D$0H
+D$0H;D$8u
+\$ H
+L$0L
+T$8H
+T$0H
+\$0H
+\$PH
+l$XH
+t$`H
+SWATAUH
+A]A\_[
+A]A\_[
+A]A\_[
+L$0L
+L$0H
+L$0H
+L$0L
+L$0L
+L$0H
+L$0L
+T$hH
+\$pHcB
+L$xHcB
+H9D$xt
+D$xH
+|$pA
+L$0H
+t)fff
+L$0L
+L$0L
+HcV,
+L$0H
+HcV(H
+HseH
+L$0H
+L$0H
+L$0L
+L$0L
+L$0H
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$pL
+L$0H
+L$0H
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0L
+L$0H
+L$0L
+T$HH
+\$PHcB
+L$XHcB
+L$`H
+D$`H9D$Xt
+@t6H
+D$XL
+|$Ps7H
+L$0H
+L$0L
+L$0M
+L$0H
+L$0H
+L$0L
+L$0L
+L$0L
+L$0H
+T$8H
+T$@H
+ffff
+T$8H
+L$0H
+T$@H
+L$0H
+t$@HcF
+t$8HcF
+L$PA
+L$HL
+A]A\_[
+\$0H
+\$0H
+t$8H
+ffff
+t$8H
+\$0H
+|$@H
+@SVH
+T$PH
+T$`H
+T$hH
+T$ H
+T$(H
+|$0u
+\$0H
+L$ SVWATAUAVAWH
+L$`A
+T$@H
+L$8H
+L$HE
+T$8H
+T$@H
+L$HH
+D$`H
+L$`H
+L$8A
+L$8D
+L$8H
+L$PH
+D$XA
+L$`A
+T$\H
+L$@A
+T$XH
+D$PH
+t$(H
+T$PH
+T$`A
+T$@H
+L$`D
+T$XH
+T$HH
+L$@A
+T$\A
+T$XH
+D$PH
+t$(H
+9p t
+T$pH
+t(;i
+t(;h
+A_A^A]A\_^[
+\$ H
+UVWATAUAVAWH
+T$@I
+T$8H
+T$0H
+T$0H
+9p t
+t+;q
+T$0I
+T$@I
+T$HI
+L$ A
+D$LH
+T$8A
+T$PH
+|$`D
+D$pH
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$0A
+9p t
+t+;i
+T$8I
+T$@I
+D$DH
+t+;q
+t+;p
+T$PH
+D$PH
+D$hH
+D$pH
+|$`H
+D$xH
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$(A
+L$8A
+T$@H
+L$(D
+L$HA
+D$PH
+D$PA
+D$`H
+T$0H
+L$`H
+T$0H
+9p t
+T$ H
+t(;p
+T$pH
+D$pHc
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$0A
+9p t
+T$0I
+T$8A
+L$<H
+T$@H
+D$@3
+|$PL
+d$xH
+D$XH
+D$`H
+D$hH
+A_A^A]A\_^]
+UVWATAUAVAWH
+9p t
+T$0I
+T$8I
+L$ A
+D$<H
+T$@H
+|$@H
+D$`H
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$@A
+L$HA
+L$ H
+T$ f
+T$0H
+D$8H
+T$(H
+T$(H
+T$8H
+*G0H
+*A0H
+Y$E3
+Y$E3
+z89X t
+(t$`
+(|$PH
+pA_A^A]A\_^]
+T$0H
+T$0H
+\$8H
+t$8H
+\$0H
+L$0A
+L$0L
+\$8L
+|$0f
+|$0H
+\$8H
+T$PH
+L$ A
+L$ @
+T$PH
+\$XH
+t$`H
+\$0H
+T$`H
+L$(A
+L$ A
+L$xH
+L$pA
+T$ H
+T$xH
+T$pH
+T$`H
+\$hH
+T$XH
+L$pA
+T$PH
+T$HH
+T$hH
+T$`H
+T$@H
+D$(L
+L$PL
+D$HH
+\$0H
+\$0H
+t$8H
+@SUWH
+t$@Ic
+u7;s
+d$HH
+~"LcC
+l$PL
+t$@H;
+ _][
+SATAWH
+t$ L
+ujD;s
+D$`D
+D$`D
+t$XMc
+|$hL
+$D;p
+tDH;
+l$PI
+}%Lc@
+|$hH
+t$XD;p
+D$`L
+t$ H;
+0A_A\[
+0A_A\[
+uF;s
+~0HcK
+\$0H
+t$8H
+D$,@
+T$ H
+\$(D
+t$HH
+L$0H;
+D$0H
+\$8H
+t$@H
+t$ ATH
+\$0H
+l$8M
+|$@H
+*HcE
+|$@H
+l$8H
+\$0H
+t$HH
+\$0H
+\$0H
+l$8H
+t$@H
+\$0H
+@WATAVAWH
+l$ Mc
+\$PE
+uuD;o
+l$XH
+$E;h
+t&H;
+t$`H
+l$XD;h
+~8HcO
+l$ H;
+\$PH
+(A_A^A\_
+@SUATH
+u*IcI
+ A\][
+t$HH
+|$PH
+\$@H
+$IcK
+D$@H
+|$@IcC
+|$@HcG
+t$HH
+|$PI
+ A\][
+@SATH
+t$HH
+|$PH
+l$XL
+l$@E
+l$XH
+l$@I
+|$PH
+t$HI
+t$ ffff
+(A\[
+L$0A
+L$0L
+\$8H
+\$8H
+\$0H
+t$8H
+\$0H
+@UVATH
+L$H3
+T$HH
+L$XE
+T$@H
+	|"H
+A\^]
+T$@H
+T$@H
+T$@H
+t	A;
+D$@H
+L$XH
+D$8H
+D$0H
+D$(H
+D$@J
+L	 Hc
+T$PH
+u'HcJ
+D$PA
+8D9p
+ffff
+F Lc
+8D9p
+F Ic
+L$XA
+F Hc
+\$xH
+F Hc
+L$@H
+D$0H+
+D$xH
+D$(H
+L$ H
+|$xHcG
+A\^]
+t$8H
+\$0H
+VWATH
+V(E3
+\$HH
+l$PH
+ A\_^
+\$0H
+\$0H
+W(E3
+\$0H
+l$8H
+\$0H
+W(E3
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+1HcF
+|$ H
+|$ H
+t$8H
+\$0H
+VWATAUAVH
+$HcT$XMcJ
+$HcT$XIcH
+u2HcF
+$HcD$XH
+\$PHcJ
+l$`H
+ A^A]A\_^
+u2HcF
+\$0H
+l$8H
+t$@H
+t$ WH
+L$@L
+L$@L
+l$(L
+L$@L
+l$(L
+L$@L
+l$(H
+L$@L
+l$(H
+L$@L
+l$(H
+\$HH
+l$PH
+t$XH
+\$0H
+\$0H
+@SWH
+l$PH
+C(;C,
+T$@+H
+L$HH
+t$ H
+l$PH
+\$0H
+\$0H
+\$8H
+T$8A
+\$0H
+t$@H
+T$0H
+\$0H
+\$8H
+t1H+
+\$0H
+t1H+
+\$0H
+\$0f
+>Ic@
+\$0H
+t$8H
+\$0H
+t$8HcA
+\$pH
+T$ H
+L$PL
+\$ H
+\$pH
+\$0H
+l$8H
+t$@H
+L$HH
+D$(H
+L$HA
+\$0H
+L$HH
+D$(H
+L$HA
+\$0H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$@H
+\$0H
+l$8H
+t$@H
+T$(L
+L$ H
+L$ E3
+\$0H
+l$8H
+t$@H
+T$(L
+L$ H
+\$`H
+\$`H
+\$`H
+\$`H
+\$`H
+D$0H
+D$(H
+\$`H
+L$(A
+\$`H
+\$`H
+D$8H
+D$0I
+D$(I
+\$`H
+D$(A
+\$`H
+\$`H
+\$`H
+\$`H
+\$`H
+\$`H
+\$`H
+\$`H
+\$0H
+l$8H
+t$@H
+D$HL
+L$ H
+D$HL
+L$ H
+C8E3
+`pE3
+\$ I
+\$ H
+\$0H
+l$8H
+t$@H
+\$PH
+\$PH
+D$0H
+D$(H
+\$PH
+\$PH
+D$8H
+D$0I
+D$(I
+\$PH
+D$(A
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$PH
+\$0H
+l$8H
+t$@H
+D$@I
+D$HI
+L$8H
+D$PH
+D$ I
+D$XH
+D$(H
+D$`H
+D$0H
+\$0H
+l$8H
+t$@H
+D$HL
+L$ H
+D$HL
+L$ H
+D$HH
+L$HI
+\$0H
+l$8H
+t$@H
+\$0H
+l$8H
+t$@H
+\$0H
+t$8H
+D$8H
+D$8H
+D$@H
+D$@H
+t$0H
+VWATH
+|$px
+\$`H
+\$hH
+@A\_^
+SVWATH
+|$px
+\$`H
+8A\_^[
+8csm
+@ = 
+\$0H
+\$0H
+HcH<H
+LcA<E3
+t"M+
+L$8D
+\$8L3
+\$@H
+8csm
+T$(H
+L$ H
+(D$ f
+T$(H
+L$ H
+(D$ f
+bad allocation
+2readyForCommand()
+1readCommand()
+2command(QString)
+1userCommand(QString)
+inputevents
+handlingsignal
+binding
+creating
+compiling
+painting
+animations
+scenegraph
+pixmapcache
+memory
+javascript
+record
+output
+flush
+clear
+quit
+The following commands are available:
+'r', 'record'
+    Switch recording on or off.
+'o [file]', 'output [file]'
+    Output profiling data to <file>. If no <file>
+    parameter is given, output to whatever was given
+    with --output, or standard output.
+'c', 'clear'
+    Clear profiling data recorded so far from memory.
+'f [file]', 'flush [file]'
+    Stop recording if it is running, then output the
+    data, and finally clear it from memory.
+'q', 'quit'
+    Terminate the program if started from qmlprofiler,
+    and qmlprofiler itself.
+1run()
+Error: 
+Saving failed.
+Data written to %1.
+Saving failed
+%1 exists. Overwrite (y/n)?
+Cannot overwrite %1.
+Application started recording
+Recording started
+Connecting to %1:%2 ...
+Could not connect to %1:%2 for %3 seconds ...
+Connected to host:port %1:%2. Wait for profile data or type a command (type 'help' to show list of commands).
+Recording Status: %3
+Process crashed!
+Process exited while recording, last trace is damaged!
+Process exited (%1).
+Trace client is attached.
+Profiler client is attached.
+Application stopped recording.
+Recording stopped.
+2dataReady()
+1traceFinished()
+2error(QString)
+1logError(QString)
+1v8Complete()
+2range(int,QString,QString,int,double,double)
+1addV8Event(int,QString,QString,int,double,double)
+1profilerClientEnabled()
+2complete()
+1qmlComplete()
+2inputEvent(QQmlProfilerDefinitions::EventType,qint64)
+1addInputEvent(QQmlProfilerDefinitions::EventType,qint64)
+2memoryAllocation(QQmlProfilerDefinitions::MemoryType,qint64, qint64)
+1addMemoryEvent(QQmlProfilerDefinitions::MemoryType,qint64, qint64)
+2pixmapCache(QQmlProfilerDefinitions::PixmapEventType,qint64, QmlEventLocation,int,int,int)
+1addPixmapCacheEvent(QQmlProfilerDefinitions::PixmapEventType,qint64, QmlEventLocation,int,int,int)
+2sceneGraphFrame(QQmlProfilerDefinitions::SceneGraphFrameType, qint64,qint64,qint64,qint64,qint64,qint64)
+1addSceneGraphFrameEvent(QQmlProfilerDefinitions::SceneGraphFrameType, qint64,qint64,qint64,qint64,qint64,qint64)
+2frame(qint64,int,int,int)
+1addFrameEvent(qint64,int,int,int)
+1notifyTraceStarted()
+2traceStarted(qint64)
+1setTraceStartTime(qint64)
+2traceFinished(qint64)
+1setTraceEndTime(qint64)
+2range(QQmlProfilerDefinitions::RangeType,QQmlProfilerDefinitions::BindingType,qint64,qint64,QStringList,QmlEventLocation)
+1addQmlEvent(QQmlProfilerDefinitions::RangeType,QQmlProfilerDefinitions::BindingType,qint64,qint64,QStringList,QmlEventLocation)
+2enabledChanged()
+1traceClientEnabled()
+2error(QAbstractSocket::SocketError)
+1connectionError(QAbstractSocket::SocketError)
+2stateChanged(QAbstractSocket::SocketState)
+1connectionStateChanged(QAbstractSocket::SocketState)
+2connected()
+1connected()
+2timeout()
+1tryToConnect()
+127.0.0.1
+Killing process ...
+Terminating process ...
+Could not run '%1': %2
+Starting '%1 %2' ...
+2finished(int,QProcess::ExitStatus)
+1processFinished()
+2readyRead()
+1processHasOutput()
+-qmljsdebugger=port:%1,block,services:CanvasFrameRate
+No features specified for --include.
+No features remaining to record after processing --exclude.
+Unknown feature '%1'
+--attach cannot be used when starting a program.
+You have to specify either --attach or a program to start.
+qmlprofiler can only process either --include or --exclude, not both.
+'%1' is not a valid port.
+Parameters for the program to be started.
+parameters
+[parameters...]
+The program to be started and profiled.
+program
+[program]
+Print debugging output.
+verbose
+interactive
+Manually control the recording from the command line. The profiler will not terminate itself when the application does so in this case.
+Comma-separated list of features to exclude when recording. By default all features supported by the QML engine are recorded. See --include for the features understood by qmlprofiler.
+exclude
+Comma-separated list of features to record. By default all features supported by the QML engine are recorded. If --include is specified, only the given features will be recorded. The following features are unserstood by qmlprofiler: %1
+include
+feature,...
+If set to 'off', don't immediately start recording data when the QML engine starts, but instead either start the recording interactively or with the JavaScript console.profile() function. By default the recording starts immediately.
+record
+on|off
+Save tracing data in <file>. By default the data is sent to the standard output.
+output
+file
+Connect to the TCP port <port>. The default is 3768.
+port
+3768
+Attach to an application already running on <hostname>, instead of starting it locally.
+attach
+hostname
+The QML Profiler retrieves QML tracing data from an application. The data
+collected can then be visualized in Qt Creator. The application to be profiled
+has to enable QML debugging. See the Qt Creator documentation on how to do
+this for different Qt versions.
+qmlprofiler
+There is still trace data in memory. Really quit (y/n)?
+Cannot output while recording data.
+Trace data cleared.
+Cannot clear data while recording.
+No data was recorded so far.
+The application is still generating data. Really quit (y/n)?
+QQmlDebugConnectionPrivate
+connected
+readyRead
+deviceAboutToClose
+2aboutToClose()
+1deviceAboutToClose()
+2bytesWritten(qint64)
+1readyRead()
+QQmlDebugClient: Conflicting plugin name
+QQmlDebugConnection: Message received for missing plugin
+QQmlDebugConnection: Unknown control message id
+QQmlDebugConnection: Invalid hello message
+?QDeclarativeDebugServer
+QDeclarativeDebugClient
+MemoryAllocation
+SceneGraph
+PixmapCache
+Complete
+RangeEnd
+RangeLocation
+RangeData
+RangeStart
+Event
+Javascript
+HandlingSignal
+Binding
+Creating
+Compiling
+Painting
+1.02
+%1:%2:%3:%4
+%1:%2
+<program>
+Main Program
+Trying to index nonexisting v8 event
+childrenTimes
+list
+childrenEvents
+selfTime
+functionname
+v8profile
+amount
+timing5
+timing4
+timing3
+timing2
+timing1
+refCount
+height
+width
+thread
+animationcount
+framerate
+eventIndex
+duration
+startTime
+range
+profilerDataModel
+memoryEventType
+sgEventType
+cacheEventType
+mouseEvent
+keyEvent
+animationFrame
+bindingType
+details
+column
+line
+filename
+type
+displayname
+index
+event
+totalTime
+eventData
+traceEnd
+traceStart
+version
+trace
+Could not open stdout for writing
+Could not open %1 for writing
+No data to save
+Invalid qmlprofiler state change (Empty)
+Invalid qmlprofiler state change (AcquiringData)
+Invalid qmlprofiler state change (ProcessingData)
+Invalid qmlprofiler state change (Done)
+Trying to set unknown state in events list
+<bytecode>
+file://
+\(function \$(\w+)\(\) \{ (return |)(.+) \}\)
+Source code not available
+<Animation Update>
+Animation Timer Update
+<SceneGraph>
+SceneGraph:%1
+MemoryAllocation:%1
+Input:%1
+V8Profiler
+stop
+start
+V8PROFILER
+CanvasFrameRate
+incorrectly nested data
+QPacketProtocolPrivate
+readyRead
+packetWritten
+invalidPacket
+aboutToClose
+bytesWritten
+bytes
+readyToRead
+1bytesWritten(qint64)
+1aboutToClose()
+1readyToRead()
+2invalidPacket()
+2packetWritten()
+QmlProfilerApplication
+readyForCommand
+userCommand
+command
+notifyTraceStarted
+outputData
+tryToConnect
+connected
+connectionStateChanged
+QAbstractSocket::SocketState
+state
+connectionError
+QAbstractSocket::SocketError
+error
+processHasOutput
+processFinished
+traceClientEnabled
+profilerClientEnabled
+traceFinished
+prompt
+line
+ready
+logError
+logStatus
+status
+qmlComplete
+v8Complete
+QAbstractSocket::SocketState
+QAbstractSocket::SocketError
+CommandListener
+command
+readCommand
+QmlProfilerData
+error
+stateChanged
+dataReady
+clear
+setTraceEndTime
+time
+setTraceStartTime
+addQmlEvent
+QQmlProfilerDefinitions::RangeType
+type
+QQmlProfilerDefinitions::BindingType
+bindingType
+startTime
+duration
+data
+QmlEventLocation
+location
+addV8Event
+depth
+function
+filename
+lineNumber
+totalTime
+selfTime
+addFrameEvent
+framerate
+animationcount
+threadId
+addSceneGraphFrameEvent
+QQmlProfilerDefinitions::SceneGraphFrameType
+numericData1
+numericData2
+numericData3
+numericData4
+numericData5
+addPixmapCacheEvent
+QQmlProfilerDefinitions::PixmapEventType
+width
+height
+refcount
+addMemoryEvent
+QQmlProfilerDefinitions::MemoryType
+size
+addInputEvent
+QQmlProfilerDefinitions::EventType
+complete
+save
+ProfilerClient
+complete
+enabledChanged
+cleared
+clearData
+enabled
+QmlProfilerClient
+traceFinished
+time
+traceStarted
+range
+QQmlProfilerDefinitions::RangeType
+type
+QQmlProfilerDefinitions::BindingType
+bindingType
+startTime
+length
+data
+QmlEventLocation
+location
+frame
+frameRate
+animationCount
+threadId
+sceneGraphFrame
+QQmlProfilerDefinitions::SceneGraphFrameType
+numericData1
+numericData2
+numericData3
+numericData4
+numericData5
+pixmapCache
+QQmlProfilerDefinitions::PixmapEventType
+width
+height
+refCount
+memoryAllocation
+QQmlProfilerDefinitions::MemoryType
+amount
+inputEvent
+QQmlProfilerDefinitions::EventType
+clearData
+sendRecordingStatus
+record
+V8ProfilerClient
+range
+depth
+function
+filename
+lineNumber
+totalTime
+selfTime
+sendRecordingStatus
+record
+QQmlDebugConnection
+connected
+stateChanged
+QAbstractSocket::SocketState
+socketState
+error
+QAbstractSocket::SocketError
+socketError
+QQmlDebugClient
+QPacketProtocol
+readyRead
+invalidPacket
+packetWritten
+??6@YA?AVQDebug@@V0@W4SocketState@QAbstractSocket@@@Z
+??6@YA?AVQDebug@@V0@W4SocketError@QAbstractSocket@@@Z
+?staticMetaObject@QAbstractSocket@@2UQMetaObject@@B
+?state@QAbstractSocket@@QEBA?AW4SocketState@1@XZ
+?flush@QAbstractSocket@@QEAA_NXZ
+??1QNetworkProxy@@QEAA@XZ
+?setProxy@QAbstractSocket@@QEAAXAEBVQNetworkProxy@@@Z
+??0QNetworkProxy@@QEAA@W4ProxyType@0@AEBVQString@@G11@Z
+??0QTcpSocket@@QEAA@PEAVQObject@@@Z
+?metaObject@QTcpSocket@@UEBAPEBUQMetaObject@@XZ
+?qt_metacast@QTcpSocket@@UEAAPEAXPEBD@Z
+?qt_metacall@QTcpSocket@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?isSequential@QAbstractSocket@@UEBA_NXZ
+?close@QAbstractSocket@@UEAAXXZ
+?atEnd@QAbstractSocket@@UEBA_NXZ
+?bytesAvailable@QAbstractSocket@@UEBA_JXZ
+?bytesToWrite@QAbstractSocket@@UEBA_JXZ
+?canReadLine@QAbstractSocket@@UEBA_NXZ
+?waitForReadyRead@QAbstractSocket@@UEAA_NH@Z
+?waitForBytesWritten@QAbstractSocket@@UEAA_NH@Z
+?readData@QAbstractSocket@@MEAA_JPEAD_J@Z
+?readLineData@QAbstractSocket@@MEAA_JPEAD_J@Z
+?writeData@QAbstractSocket@@MEAA_JPEBD_J@Z
+?resume@QAbstractSocket@@UEAAXXZ
+?connectToHost@QAbstractSocket@@UEAAXAEBVQHostAddress@@GV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?connectToHost@QAbstractSocket@@UEAAXAEBVQString@@GV?$QFlags@W4OpenModeFlag@QIODevice@@@@W4NetworkLayerProtocol@1@@Z
+?disconnectFromHost@QAbstractSocket@@UEAAXXZ
+?setReadBufferSize@QAbstractSocket@@UEAAX_J@Z
+?socketDescriptor@QAbstractSocket@@UEBA_JXZ
+?setSocketDescriptor@QAbstractSocket@@UEAA_N_JW4SocketState@1@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?setSocketOption@QAbstractSocket@@UEAAXW4SocketOption@1@AEBVQVariant@@@Z
+?socketOption@QAbstractSocket@@UEAA?AVQVariant@@W4SocketOption@1@@Z
+?waitForConnected@QAbstractSocket@@UEAA_NH@Z
+?waitForDisconnected@QAbstractSocket@@UEAA_NH@Z
+??1QTcpSocket@@UEAA@XZ
+Qt5Network.dll
+??0QObject@@QEAA@PEAV0@@Z
+?event@QObject@@UEAA_NPEAVQEvent@@@Z
+?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z
+?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
+?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
+f	?customEvent@QObject@@MEAAXPEAVQEvent@@@Z
+?connectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z
+?disconnectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z
+??1QObject@@UEAA@XZ
+??1QThread@@UEAA@XZ
+?wait@QThread@@QEAA_NK@Z
+?quit@QThread@@QEAAXXZ
+?start@QThread@@QEAAXW4Priority@1@@Z
+??1Connection@QMetaObject@@QEAA@XZ
+?connect@QObject@@SA?AVConnection@QMetaObject@@PEBV1@PEBD01W4ConnectionType@Qt@@@Z
+?moveToThread@QObject@@QEAAXPEAVQThread@@@Z
+??0QThread@@QEAA@PEAVQObject@@@Z
+?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
+?constData@QString@@QEBAPEBVQChar@@XZ
+?QStringList_join@QtPrivate@@YA?AVQString@@PEBVQStringList@@PEBVQChar@@H@Z
+?tr@QMetaObject@@QEBA?AVQString@@PEBD0H@Z
+?exec@QCoreApplication@@SAHXZ
+?singleShot@QTimer@@SAXHPEBVQObject@@PEBD@Z
+??1QDebug@@QEAA@XZ
+?debug@QMessageLogger@@QEBA?AVQDebug@@XZ
+??0QMessageLogger@@QEAA@PEBDH0@Z
+?shared_null@QListData@@2UData@1@B
+??8@YA_NAEBVQString@@0@Z
+??1QString@@QEAA@XZ
+??0QString@@QEAA@AEBV0@@Z
+??1QTextStream@@UEAA@XZ
+??1QByteArray@@QEAA@XZ
+??6QTextStream@@QEAAAEAV0@AEBVQByteArray@@@Z
+?readAll@QIODevice@@QEAA?AVQByteArray@@XZ
+??0QTextStream@@QEAA@PEAU_iobuf@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+??6QTextStream@@QEAAAEAV0@VQLatin1String@@@Z
+?endl@@YAAEAVQTextStream@@AEAV1@@Z
+??6QTextStream@@QEAAAEAV0@AEBVQString@@@Z
+??6QTextStream@@QEAAAEAV0@PEBD@Z
+??0QString@@QEAA@HW4Initialization@Qt@@@Z
+?dispose@QListData@@SAXPEAUData@1@@Z
+?clear@QString@@QEAAXXZ
+??0QString@@QEAA@XZ
+?arg@QString@@QEBA?AV1@AEBV1@HVQChar@@@Z
+??0QChar@@QEAA@UQLatin1Char@@@Z
+??1QFileInfo@@QEAA@XZ
+?isFile@QFileInfo@@QEBA_NXZ
+?exists@QFileInfo@@QEBA_NXZ
+??0QFileInfo@@QEAA@AEBVQString@@@Z
+?arg@QString@@QEBA?AV1@AEBV1@0@Z
+?arg@QString@@QEBA?AV1@AEBV1@00@Z
+?number@QString@@SA?AV1@HH@Z
+?number@QString@@SA?AV1@IH@Z
+?fromAscii_helper@QString@@CAPEAU?$QTypedArrayData@G@@PEBDH@Z
+?arg@QString@@QEBA?AV1@GHHVQChar@@@Z
+?stop@QTimer@@QEAAXXZ
+?exit@QCoreApplication@@SAXH@Z
+?arg@QString@@QEBA?AV1@HHHVQChar@@@Z
+?exitCode@QProcess@@QEBAHXZ
+?exitStatus@QProcess@@QEBA?AW4ExitStatus@1@XZ
+?detach@QListData@@QEAAPEAUData@1@H@Z
+?detach_grow@QListData@@QEAAPEAUData@1@PEAHH@Z
+?setInterval@QTimer@@QEAAXH@Z
+??0QTimer@@QEAA@PEAVQObject@@@Z
+??0QString@@QEAA@VQLatin1String@@@Z
+??0QCoreApplication@@QEAA@AEAHPEAPEADH@Z
+?event@QCoreApplication@@MEAA_NPEAVQEvent@@@Z
+?notify@QCoreApplication@@UEAA_NPEAVQObject@@PEAVQEvent@@@Z
+?compressEvent@QCoreApplication@@MEAA_NPEAVQEvent@@PEAVQObject@@PEAVQPostEventList@@@Z
+??1QCoreApplication@@UEAA@XZ
+??1QTimer@@UEAA@XZ
+?kill@QProcess@@QEAAXXZ
+?waitForFinished@QProcess@@QEAA_NH@Z
+?terminate@QProcess@@QEAAXXZ
+?disconnect@QObject@@SA_NPEBV1@PEBD01@Z
+?append@QListData@@QEAAPEAPEAXXZ
+?append@QListData@@QEAAPEAPEAXAEBU1@@Z
+?start@QTimer@@QEAAXXZ
+?errorString@QIODevice@@QEBA?AVQString@@XZ
+?waitForStarted@QProcess@@QEAA_NH@Z
+?start@QProcess@@QEAAXAEBVQString@@AEBVQStringList@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?setProcessChannelMode@QProcess@@QEAAXW4ProcessChannelMode@1@@Z
+?fromLatin1@QString@@SA?AV1@PEBDH@Z
+??0QProcess@@QEAA@PEAVQObject@@@Z
+?metaObject@QProcess@@UEBAPEBUQMetaObject@@XZ
+?qt_metacast@QProcess@@UEAAPEAXPEBD@Z
+?qt_metacall@QProcess@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?isSequential@QProcess@@UEBA_NXZ
+?open@QProcess@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?close@QProcess@@UEAAXXZ
+?pos@QIODevice@@UEBA_JXZ
+?size@QIODevice@@UEBA_JXZ
+?seek@QIODevice@@UEAA_N_J@Z
+?atEnd@QProcess@@UEBA_NXZ
+?reset@QIODevice@@UEAA_NXZ
+?bytesAvailable@QProcess@@UEBA_JXZ
+?bytesToWrite@QProcess@@UEBA_JXZ
+?canReadLine@QProcess@@UEBA_NXZ
+?waitForReadyRead@QProcess@@UEAA_NH@Z
+?waitForBytesWritten@QProcess@@UEAA_NH@Z
+?readData@QProcess@@MEAA_JPEAD_J@Z
+?readLineData@QIODevice@@MEAA_JPEAD_J@Z
+?writeData@QProcess@@MEAA_JPEBD_J@Z
+?setupChildProcess@QProcess@@MEAAXXZ
+??1QProcess@@UEAA@XZ
+?erase@QListData@@QEAAPEAPEAXPEAPEAX@Z
+?split@QString@@QEBA?AVQStringList@@VQChar@@W4SplitBehavior@1@W4CaseSensitivity@Qt@@@Z
+??1QCommandLineParser@@QEAA@XZ
+?positionalArguments@QCommandLineParser@@QEBA?AVQStringList@@XZ
+??8QString@@QEBA_NVQLatin1String@@@Z
+?showHelp@QCommandLineParser@@QEAAXH@Z
+?toUShort@QString@@QEBAGPEA_NH@Z
+??4QString@@QEAAAEAV0@AEBV0@@Z
+?value@QCommandLineParser@@QEBA?AVQString@@AEBVQCommandLineOption@@@Z
+?isSet@QCommandLineParser@@QEBA_NAEBVQCommandLineOption@@@Z
+?process@QCommandLineParser@@QEAAXAEBVQCoreApplication@@@Z
+?addPositionalArgument@QCommandLineParser@@QEAAXAEBVQString@@00@Z
+?addVersionOption@QCommandLineParser@@QEAA?AVQCommandLineOption@@XZ
+??1QCommandLineOption@@QEAA@XZ
+?addHelpOption@QCommandLineParser@@QEAA?AVQCommandLineOption@@XZ
+??0QCommandLineOption@@QEAA@AEBVQString@@000@Z
+?addOption@QCommandLineParser@@QEAA_NAEBVQCommandLineOption@@@Z
+??0QCommandLineOption@@QEAA@AEBVQStringList@@AEBVQString@@11@Z
+?setApplicationDescription@QCommandLineParser@@QEAAXAEBVQString@@@Z
+?setOptionsAfterPositionalArgumentsMode@QCommandLineParser@@QEAAXW4OptionsAfterPositionalArgumentsMode@1@@Z
+?setSingleDashWordOptionMode@QCommandLineParser@@QEAAXW4SingleDashWordOptionMode@1@@Z
+??0QCommandLineParser@@QEAA@XZ
+?setApplicationVersion@QCoreApplication@@SAXAEBVQString@@@Z
+qVersion
+?setApplicationName@QCoreApplication@@SAXAEBVQString@@@Z
+?quit@QCoreApplication@@SAXXZ
+?toLatin1@QString@@QEBA?AVQByteArray@@XZ
+?trimmed@QString@@QEBA?AV1@XZ
+?readLine@QTextStream@@QEAA?AVQString@@_J@Z
+?close@QIODevice@@UEAAXXZ
+?read@QIODevice@@QEAA_JPEAD_J@Z
+?write@QIODevice@@QEAA_JPEBD_J@Z
+?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+?shared_null@QHashData@@2U1@B
+?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
+?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ
+??6@YAAEAVQDataStream@@AEAV0@AEBVQString@@@Z
+??6QDataStream@@QEAAAEAV0@H@Z
+?allocateNode@QHashData@@QEAAPEAXH@Z
+?open@QIODevice@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?qHash@@YAIAEBVQString@@I@Z
+?free_helper@QHashData@@QEAAXP6AXPEAUNode@1@@Z@Z
+?freeNode@QHashData@@QEAAXPEAX@Z
+??6@YAAEAVQDataStream@@AEAV0@AEBVQByteArray@@@Z
+?detach_helper@QHashData@@QEAAPEAU1@P6AXPEAUNode@1@PEAX@ZP6AX0@ZHH@Z
+?realloc@QListData@@QEAAXH@Z
+??0QIODevice@@QEAA@PEAVQObject@@@Z
+?atEnd@QIODevice@@UEBA_NXZ
+?bytesToWrite@QIODevice@@UEBA_JXZ
+?canReadLine@QIODevice@@UEBA_NXZ
+?waitForReadyRead@QIODevice@@UEAA_NH@Z
+?waitForBytesWritten@QIODevice@@UEAA_NH@Z
+?rehash@QHashData@@QEAAXH@Z
+?hasShrunk@QHashData@@QEAAXXZ
+?atEnd@QDataStream@@QEBA_NXZ
+??5@YAAEAVQDataStream@@AEAV0@AEAVQString@@@Z
+??5QDataStream@@QEAAAEAV0@AEAH@Z
+??6QDebug@@QEAAAEAV0@AEBVQString@@@Z
+??6QDebug@@QEAAAEAV0@PEBD@Z
+?warning@QMessageLogger@@QEBA?AVQDebug@@XZ
+??5QDataStream@@QEAAAEAV0@AEAM@Z
+??5@YAAEAVQDataStream@@AEAV0@AEAVQByteArray@@@Z
+??0QByteArray@@QEAA@XZ
+?maybeSpace@QDebug@@QEAAAEAV1@XZ
+??6QTextStream@@QEAAAEAV0@H@Z
+?willGrow@QHashData@@QEAA_NXZ
+?warning@QMessageLogger@@QEBAXPEBDZZ
+?firstNode@QHashData@@QEAAPEAUNode@1@XZ
+??1QIODevice@@UEAA@XZ
+?isOpen@QIODevice@@QEBA_NXZ
+?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QObject@@2UQMetaObject@@B
+?appendLatin1To@QAbstractConcatenable@@KAXPEBDHPEAVQChar@@@Z
+?arg@QString@@QEBA?AV1@AEBV1@000@Z
+?fromUtf8@QString@@SA?AV1@PEBDH@Z
+?shared_null@QArrayData@@2QBU1@B
+?deallocate@QArrayData@@SAXPEAU1@_K1@Z
+?allocate@QArrayData@@SAPEAU1@_K00V?$QFlags@W4AllocationOption@QArrayData@@@@@Z
+??1QXmlStreamWriter@@QEAA@XZ
+?close@QFileDevice@@UEAAXXZ
+?writeEndDocument@QXmlStreamWriter@@QEAAXXZ
+?length@QString@@QEBAHXZ
+??0QString@@QEAA@PEBD@Z
+?writeEndElement@QXmlStreamWriter@@QEAAXXZ
+?writeTextElement@QXmlStreamWriter@@QEAAXAEBVQString@@0@Z
+?number@QString@@SA?AV1@_JH@Z
+?writeAttribute@QXmlStreamWriter@@QEAAXAEBVQString@@0@Z
+?writeStartElement@QXmlStreamWriter@@QEAAXAEBVQString@@@Z
+?writeStartDocument@QXmlStreamWriter@@QEAAXXZ
+?setAutoFormatting@QXmlStreamWriter@@QEAAX_N@Z
+??0QXmlStreamWriter@@QEAA@PEAVQIODevice@@@Z
+?open@QFile@@QEAA_NPEAU_iobuf@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@V?$QFlags@W4FileHandleFlag@QFileDevice@@@@@Z
+??1QFile@@UEAA@XZ
+?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?setFileName@QFile@@QEAAXAEBVQString@@@Z
+??0QFile@@QEAA@XZ
+??1QUrl@@QEAA@XZ
+?path@QUrl@@QEBA?AVQString@@V?$QFlags@W4ComponentFormattingOption@QUrl@@@@@Z
+??0QUrl@@QEAA@AEBVQString@@W4ParsingMode@0@@Z
+??1QRegExp@@QEAA@XZ
+?mid@QString@@QEBA?AV1@HH@Z
+?lastIndexOf@QString@@QEBAHVQChar@@HW4CaseSensitivity@Qt@@@Z
+?startsWith@QString@@QEBA_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z
+?cap@QRegExp@@QEAA?AVQString@@H@Z
+?exactMatch@QRegExp@@QEBA_NAEBVQString@@@Z
+??0QRegExp@@QEAA@AEBVQString@@W4CaseSensitivity@Qt@@W4PatternSyntax@0@@Z
+?simplified@QString@@QEBA?AV1@XZ
+?replace@QString@@QEAAAEAV1@VQChar@@0W4CaseSensitivity@Qt@@@Z
+??1QDataStream@@QEAA@XZ
+??6QDataStream@@QEAAAEAV0@_J@Z
+??6QDataStream@@QEAAAEAV0@_N@Z
+??0QDataStream@@QEAA@PEAVQByteArray@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+??0QByteArray@@QEAA@PEBDH@Z
+??5QDataStream@@QEAAAEAV0@AEAN@Z
+??0QByteArray@@QEAA@AEBV0@@Z
+??5QDataStream@@QEAAAEAV0@AEA_J@Z
+?setDevice@QDataStream@@QEAAXPEAVQIODevice@@@Z
+?openMode@QIODevice@@QEBA?AV?$QFlags@W4OpenModeFlag@QIODevice@@@@XZ
+??0QBuffer@@QEAA@PEAVQByteArray@@PEAVQObject@@@Z
+??0QDataStream@@QEAA@XZ
+?metaObject@QBuffer@@UEBAPEBUQMetaObject@@XZ
+?qt_metacast@QBuffer@@UEAAPEAXPEBD@Z
+?qt_metacall@QBuffer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?connectNotify@QBuffer@@MEAAXAEBVQMetaMethod@@@Z
+?disconnectNotify@QBuffer@@MEAAXAEBVQMetaMethod@@@Z
+?isSequential@QIODevice@@UEBA_NXZ
+?open@QBuffer@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?close@QBuffer@@UEAAXXZ
+?pos@QBuffer@@UEBA_JXZ
+?size@QBuffer@@UEBA_JXZ
+?seek@QBuffer@@UEAA_N_J@Z
+?atEnd@QBuffer@@UEBA_NXZ
+?bytesAvailable@QIODevice@@UEBA_JXZ
+?canReadLine@QBuffer@@UEBA_NXZ
+?readData@QBuffer@@MEAA_JPEAD_J@Z
+?writeData@QBuffer@@MEAA_JPEBD_J@Z
+??1QBuffer@@UEAA@XZ
+?clear@QByteArray@@QEAAXXZ
+?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
+?append@QByteArray@@QEAAAEAV1@AEBV1@@Z
+?read@QIODevice@@QEAA?AVQByteArray@@_J@Z
+?write@QIODevice@@QEAA_JAEBVQByteArray@@@Z
+?qt_metacast@QCoreApplication@@UEAAPEAXPEBD@Z
+?registerNormalizedType@QMetaType@@SAHAEBVQByteArray@@P6AXPEAX@ZP6APEAX1PEBX@ZHV?$QFlags@W4TypeFlag@QMetaType@@@@PEBUQMetaObject@@@Z
+?normalizedType@QMetaObject@@SA?AVQByteArray@@PEBD@Z
+?qt_metacall@QCoreApplication@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QCoreApplication@@2UQMetaObject@@B
+?qt_metacast@QIODevice@@UEAAPEAXPEBD@Z
+?qt_metacall@QIODevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QIODevice@@2UQMetaObject@@B
+Qt5Core.dll
+??3@YAXPEAX@Z
+memcpy
+__iob_func
+??2@YAPEAX_K@Z
+memset
+MSVCR90.dll
+__C_specific_handler
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+_amsg_exit
+__getmainargs
+_XcptFilter
+_exit
+_cexit
+exit
+__initenv
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_commode
+_fmode
+__set_app_type
+?terminate@@YAXXZ
+?_type_info_dtor_internal_method@type_info@@QEAAXXZ
+Sleep
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+.?AVCommandListener@@
+.?AVQObject@@
+.?AVQmlProfilerApplication@@
+.?AVQCoreApplication@@
+.?AVQProcess@@
+.?AVQIODevice@@
+.?AVQTcpSocket@@
+.?AVQAbstractSocket@@
+.?AVQQmlDebugConnectionPrivate@@
+.?AVQQmlDebugConnection@@
+.?AVQQmlDebugClient@@
+.?AVQmlProfilerData@@
+.?AVProfilerClient@@
+.?AVV8ProfilerClient@@
+.?AVQmlProfilerClient@@
+.?AVQPacketProtocol@@
+.?AVQPacket@@
+.?AVQDataStream@@
+.?AVQBuffer@@
+.?AVQPacketProtocolPrivate@@
+.?AVtype_info@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" publicKeyToken="6595b64144ccf1df" language="*" processorArchitecture="*"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.CRT" version="9.0.21022.8" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD

@@ -1,0 +1,172 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+;-u6
+t.<-t
+[^_]
+$26@
+$48@
+$48@
+$48@
+[^_]
+[^_]
+[^_]
+[^_]
+$48@
+[^_]
+9=t+
+$48@
+5PR@
+=LT@
+=$P@
+5<R@
+[^_]
+CHP/@
+CL@/@
+CP0/@
+CT /@
+C$(P@
+C@lV@
+[^_]
+$H9@
+$|9@
+%$a@
+%(a@
+% a@
+%4a@
+%0a@
+%,a@
+M+GEndcevx
+back-bracket
+back-line
+back-line-force
+back-screen
+back-scroll
+back-search
+back-window
+debug
+digit
+display-flag
+display-option
+examine
+filter
+first-cmd
+firstcmd
+flush-repaint
+forw-bracket
+forw-forever
+forw-line
+forw-line-force
+forw-screen
+forw-screen-force
+forw-scroll
+forw-search
+forw-window
+goto-end
+goto-line
+goto-mark
+help
+index-file
+invalid
+left-scroll
+next-file
+next-tag
+noaction
+percent
+pipe
+prev-file
+prev-tag
+quit
+remove-file
+repaint
+repaint-flush
+repeat-search
+repeat-search-all
+reverse-search
+reverse-search-all
+right-scroll
+set-mark
+shell
+status
+toggle-flag
+toggle-option
+undo-hilite
+version
+visual
+back-complete
+backspace
+delete
+down
+expand
+forw-complete
+home
+insert
+kill-line
+left
+literal
+right
+word-backspace
+word-delete
+word-left
+word-right
+usage: lesskey [-o output] [input]
+HOME
+cannot find $HOME - using current directory
+--output
+--version
+.lesskey
+lesskey  version %s
+illegal char after \k
+too many commands
+#line-edit
+#command
+#env
+#stop
+error: integer too big (%d > %d)
+unknown action
+line %d: %s
+command too long
+missing action
+missing =
+LESSKEY
+.less
+%d errors; no output produced
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__main
+abort
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fgets
+fopen
+fprintf
+free
+fwrite
+getenv
+malloc
+memcpy
+perror
+printf
+realloc
+strcat
+strcmp
+strcpy
+strlen
+vsnprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+KERNEL32.dll

@@ -1,0 +1,875 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+.rsrc
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+)t$@
+)|$PH
+\$(f
+\$(E1
+\$(H
+\$(H
+\$(H
+\$(E1
+(t$@
+(|$PH
+)t$0
+(t$0H
+UWVSH
+|$0A
+T$81
+H[^_]
+AVAUATUWVSH
+ [^_]A\A]A^
+UWVSH
+L$8H
+D$8H
+L$8A
+L$8L
+D$@1
+L$8H
+t$0D
+[^_]
+t$0D
+T$ H
+AWAVAUATUWVSH
+[^_]A\A]A^A_
+t$ I
+l$ I
+d$(A
+d$`L
+~CE1
+t$@E1
+l$(H
+t$0H
+T$ H
+L$hE1
+L$pL
+T$xH
+L$`L
+L$hH
+T$`H
+T$`H
+l$(f
+T$xH
+T$pH
+T$`H
+l$ H
+T$xH
+T$pH
+T$`H
+T$`H
+T$`1
+L$hL
+t$xH
+|$hE1
+D$hA
+D$`H
+L$`H
+L$`H
+D$pH
+t$ L
+D$p1
+F<)V<
+D$`H
+D$XH
+t$(H
+D$`H
+D$XL
+t$(H
+)t$ 
+(t$ H
+(t$ f
+(t$ H
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+libgcj-16.dll
+_Jv_RegisterClasses
+WMF file does not
+specify a size!
+gimp20-std-plug-ins
+UTF-8
+file-wmf-load
+file-wmf
+Render Windows Metafile
+gimp-file-wmf
+gtk-ok
+gtk-cancel
+size-allocate
+Width:
+Height:
+value-changed
+_X ratio:
+_Y ratio:
+Constrain aspect ratio
+Resolution:
+pixels/%a
+file-wmf-load-thumb
+Could not open '%s' for reading
+Opening '%s'
+Rendered WMF
+Dom Lachowicz <cinamod@hotmail.com>
+Loads files in the WMF file format
+Microsoft WMF file
+(c) 2003 - Version 0.3.0
+image/x-wmf
+0,string,\327\315\306\232,0,string,\1\0\11\0
+wmf,apm
+Loads a small preview from a WMF image
+image
+Thumbnail image
+image-width
+Width of full-sized image
+image-height
+Height of full-sized image
+filename
+The name of the file to load
+thumb-size
+Preferred thumbnail size
+Output image
+run-mode
+The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }
+raw-filename
+resolution
+Resolution to use for rendering the WMF (defaults to 72 dpi
+width
+Width (in pixels) to load the WMF in, 0 for original width
+height
+Height (in pixels) to load the WMF in, 0 for original height
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 4.9.3 p1.0, pie-0.6.2) 4.9.3
+GCC: (Gentoo 5.4.0-r3 p1.3, pie-0.6.5) 5.4.0
+gimp_ui_init
+gimp_window_set_transient
+DeleteCriticalSection
+EnterCriticalSection
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetLastError
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+GetTickCount
+InitializeCriticalSection
+LeaveCriticalSection
+QueryPerformanceCounter
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetUnhandledExceptionFilter
+Sleep
+TerminateProcess
+TlsGetValue
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+__C_specific_handler
+__argc
+__argv
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_cexit
+_fmode
+_initterm
+_lock
+_onexit
+_unlock
+abort
+calloc
+exit
+fprintf
+free
+fwrite
+malloc
+memcpy
+signal
+strlen
+strncmp
+vfprintf
+gimp_drawable_detach
+gimp_drawable_flush
+gimp_drawable_get
+gimp_image_insert_layer
+gimp_image_new
+gimp_image_set_filename
+gimp_image_set_resolution
+gimp_install_procedure
+gimp_layer_new
+gimp_main
+gimp_pixel_rgn_init
+gimp_pixel_rgns_process
+gimp_pixel_rgns_register
+gimp_procedural_db_get_data
+gimp_procedural_db_set_data
+gimp_progress_init_printf
+gimp_progress_update
+gimp_register_file_handler_mime
+gimp_register_magic_load_handler
+gimp_register_thumbnail_loader
+gimp_filename_to_utf8
+gimp_locale_directory
+gimp_chain_button_get_active
+gimp_chain_button_get_type
+gimp_chain_button_new
+gimp_chain_button_set_active
+gimp_dialog_get_type
+gimp_dialog_new
+gimp_dialog_run
+gimp_help_set_help_data
+gimp_preview_area_draw
+gimp_preview_area_get_type
+gimp_preview_area_new
+gimp_size_entry_add_field
+gimp_size_entry_get_refval
+gimp_size_entry_get_type
+gimp_size_entry_new
+gimp_size_entry_set_refval
+gimp_size_entry_set_refval_boundaries
+gimp_size_entry_set_resolution
+gimp_spin_button_new
+gimp_standard_help_func
+gtk_box_new
+g_file_error_quark
+g_free
+g_mapped_file_get_contents
+g_mapped_file_get_length
+g_mapped_file_new
+g_mapped_file_unref
+g_set_error
+g_strdup_printf
+g_try_malloc
+g_signal_connect_data
+g_signal_handlers_block_matched
+g_signal_handlers_unblock_matched
+g_type_check_instance_cast
+gtk_adjustment_get_type
+gtk_adjustment_get_value
+gtk_adjustment_set_value
+gtk_alignment_new
+gtk_box_get_type
+gtk_box_pack_start
+gtk_container_add
+gtk_container_get_type
+gtk_container_set_border_width
+gtk_dialog_get_content_area
+gtk_dialog_get_type
+gtk_dialog_set_alternative_button_order
+gtk_entry_get_type
+gtk_entry_set_width_chars
+gtk_frame_get_type
+gtk_frame_new
+gtk_frame_set_shadow_type
+gtk_label_get_type
+gtk_label_new
+gtk_label_new_with_mnemonic
+gtk_label_set_justify
+gtk_label_set_mnemonic_widget
+gtk_label_set_text
+gtk_misc_get_type
+gtk_misc_set_alignment
+	gtk_spin_button_get_type
+gtk_table_attach
+gtk_table_attach_defaults
+gtk_table_get_type
+gtk_table_new
+gtk_table_set_col_spacing
+gtk_table_set_col_spacings
+gtk_table_set_row_spacing
+gtk_table_set_row_spacings
+gtk_widget_destroy
+gtk_widget_get_type
+gtk_widget_set_size_request
+gtk_widget_show
+gtk_window_get_type
+gtk_window_set_resizable
+libintl_bind_textdomain_codeset
+libintl_bindtextdomain
+libintl_gettext
+libintl_textdomain
+wmf_api_create
+wmf_api_destroy
+wmf_gd_function
+wmf_gd_image_pixels
+wmf_display_size
+wmf_mem_close
+wmf_mem_open
+wmf_play
+wmf_scan
+libgimpui-2.0-0.dll
+KERNEL32.dll
+msvcrt.dll
+libgimp-2.0-0.dll
+libgimpbase-2.0-0.dll
+libgimpwidgets-2.0-0.dll
+libglib-2.0-0.dll
+libgobject-2.0-0.dll
+libgtk-win32-2.0-0.dll
+libintl-8.dll
+libwmf-0-2-7.dll
+libwmflite-0-2-7.dll
+stuvwxyz{{|
+ijklmnopqqr
+[\]^_`abcdefgY
+NOPQRSTUVWXMMMYABCDEFGHIJKLMMM
+56789
+:;<=>?@
+*+,-
+./01234
+ !"#
+$%&'()
+&OUT
+F*,+
+fegg
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+	<assemblyIdentity version="2.0.0.0" name="gnu.gnome.gimp" type="win32"/>
+	<description>GIMP</description>
+	<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+		<security>
+			<requestedPrivileges>
+				<requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+			</requestedPrivileges>
+		</security>
+	</trustInfo>
+	<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+		<application>
+			<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><!-- Vista -->
+			<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><!-- Win7 -->
+			<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><!-- Win8 -->
+			<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><!-- Win8.1 -->
+			<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/><!-- Win10 -->
+		</application>
+	</compatibility>
+	<asmv3:application>
+		<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+			<dpiAware>true</dpiAware>
+		</asmv3:windowsSettings>
+	</asmv3:application>
+</assembly>
+file-wmf.exe.debug
+.gnu_debuglink
+__imp_g_type_check_instance_cast
+__imp_gimp_chain_button_set_active
+__imp_gimp_pixel_rgns_process
+__imp_gimp_dialog_run
+__imp_gtk_adjustment_get_type
+__imp_g_mapped_file_new
+__imp_GetStartupInfoA
+__imp_gtk_table_new
+__imp_abort
+__lib64_libkernel32_a_iname
+__imp__fmode
+__imp__lock
+__imp_RtlVirtualUnwind
+__imp_g_signal_handlers_block_matched
+__imp_gtk_widget_set_size_request
+__imp_calloc
+__imp_gimp_drawable_detach
+__imp_gtk_window_get_type
+__imp_gtk_entry_set_width_chars
+__imp_gimp_layer_new
+__imp_gimp_dialog_new
+_head_libgimpwidgets_2_0_0_dll
+__imp_gimp_standard_help_func
+__imp___dllonexit
+libgimpui_2_0_0_dll_iname
+__imp_gimp_help_set_help_data
+__imp__acmdln
+__imp_DeleteCriticalSection
+libintl_8_dll_iname
+__imp_gimp_main
+__imp__amsg_exit
+__imp_gimp_install_procedure
+__imp_gimp_image_set_filename
+__imp_gimp_size_entry_set_refval
+libglib_2_0_0_dll_iname
+__imp_g_mapped_file_unref
+__imp_GetCurrentThreadId
+__imp_gtk_label_new
+__imp_gimp_preview_area_get_type
+__imp_wmf_mem_close
+__imp_gtk_spin_button_get_type
+__imp_wmf_scan
+__imp___C_specific_handler
+__imp_GetLastError
+__imp_free
+__imp_gtk_frame_set_shadow_type
+__imp_gimp_window_set_transient
+__imp_RtlLookupFunctionEntry
+__imp___argc
+_head_libgimpui_2_0_0_dll
+__imp_LeaveCriticalSection
+__imp_gtk_widget_show
+__imp_wmf_api_create
+__imp_g_signal_connect_data
+__imp_gimp_size_entry_add_field
+__imp_gtk_table_attach_defaults
+__imp_GetTickCount
+__imp_wmf_gd_image_pixels
+__imp_gtk_frame_new
+libwmflite_0_2_7_dll_iname
+_head_libgtk_win32_2_0_0_dll
+__imp_GetSystemTimeAsFileTime
+__imp_g_file_error_quark
+__imp_gimp_progress_update
+__imp_gtk_widget_get_type
+__imp_gtk_label_set_text
+__imp_gtk_label_new_with_mnemonic
+__IAT_end__
+__imp_gtk_adjustment_set_value
+__imp_memcpy
+__imp_gimp_register_magic_load_handler
+_head_libgobject_2_0_0_dll
+__imp_gimp_filename_to_utf8
+__imp_gimp_ui_init
+__imp_gtk_table_set_col_spacings
+__imp_gimp_pixel_rgn_init
+__imp_gimp_procedural_db_set_data
+__imp_RtlAddFunctionTable
+libgobject_2_0_0_dll_iname
+libwmf_0_2_7_dll_iname
+__imp_gimp_size_entry_set_refval_boundaries
+__imp_g_mapped_file_get_length
+_head_libglib_2_0_0_dll
+__imp_gtk_box_pack_start
+__imp_fwrite
+__imp_gtk_dialog_get_content_area
+__imp_gtk_alignment_new
+__imp___getmainargs
+_head_lib64_libkernel32_a
+_head_lib64_libmsvcrt_a
+__imp_gtk_misc_get_type
+__imp_EnterCriticalSection
+__imp_gimp_size_entry_get_refval
+__imp_GetCurrentProcessId
+__imp_gimp_image_set_resolution
+__imp_gtk_window_set_resizable
+__imp___lconv_init
+__imp_gimp_size_entry_new
+__imp_TerminateProcess
+__imp_GetProcAddress
+__imp_signal
+__imp_gimp_size_entry_get_type
+_head_libgimp_2_0_0_dll
+__imp_gtk_table_set_row_spacings
+__imp_gtk_box_new
+__imp_GetModuleHandleA
+__imp_QueryPerformanceCounter
+__imp_gtk_table_set_row_spacing
+__imp_gimp_dialog_get_type
+__imp_gtk_container_get_type
+__imp_strlen
+__imp_gtk_misc_set_alignment
+__imp_malloc
+libgimpwidgets_2_0_0_dll_iname
+__imp_libintl_textdomain
+__imp_gtk_label_get_type
+__imp_InitializeCriticalSection
+__imp_gtk_dialog_get_type
+__imp_exit
+__imp_vfprintf
+__imp_wmf_gd_function
+__imp___initenv
+__imp_gimp_drawable_flush
+__imp_gtk_label_set_mnemonic_widget
+__IAT_start__
+libgimp_2_0_0_dll_iname
+__imp_g_mapped_file_get_contents
+__imp_gtk_table_attach
+__imp__cexit
+__imp_UnhandledExceptionFilter
+__imp_SetUnhandledExceptionFilter
+__imp_libintl_bindtextdomain
+__imp_gtk_dialog_set_alternative_button_order
+__imp__onexit
+__imp_gimp_procedural_db_get_data
+__imp_libintl_gettext
+__imp_gimp_progress_init_printf
+__imp_gimp_register_file_handler_mime
+__imp_gtk_label_set_justify
+__imp_gimp_register_thumbnail_loader
+__imp_gtk_box_get_type
+__imp___argv
+__imp_Sleep
+__imp___setusermatherr
+__imp_gimp_image_new
+__imp_gimp_locale_directory
+_head_libwmflite_0_2_7_dll
+__imp_g_free
+__imp_gtk_widget_destroy
+__imp_g_try_malloc
+__imp_wmf_api_destroy
+__imp_TlsGetValue
+__imp_gtk_adjustment_get_value
+__imp_fprintf
+__imp_VirtualProtect
+_head_libintl_8_dll
+__imp_gimp_drawable_get
+__imp_VirtualQuery
+__imp__initterm
+__imp___iob_func
+__imp_gimp_preview_area_new
+__imp_gimp_chain_button_get_active
+__imp_strncmp
+__imp_wmf_mem_open
+__imp_gimp_image_insert_layer
+__imp_gtk_container_set_border_width
+__imp_gtk_frame_get_type
+__imp_gtk_table_set_col_spacing
+__imp_wmf_display_size
+__imp_gimp_spin_button_new
+__imp__unlock
+__imp___set_app_type
+__imp_gtk_entry_get_type
+__imp_gimp_size_entry_set_resolution
+__imp_gimp_chain_button_get_type
+__imp_gimp_preview_area_draw
+__imp_gimp_pixel_rgns_register
+__imp_g_set_error
+_head_libwmf_0_2_7_dll
+__imp_gtk_table_get_type
+__imp_wmf_play
+_head_libgimpbase_2_0_0_dll
+__imp_RtlCaptureContext
+__imp_gtk_container_add
+__imp_gimp_chain_button_new
+__imp_libintl_bind_textdomain_codeset
+__imp_GetCurrentProcess
+libgimpbase_2_0_0_dll_iname
+libgtk_win32_2_0_0_dll_iname
+__imp_g_strdup_printf
+__lib64_libmsvcrt_a_iname
+__imp_g_signal_handlers_unblock_matched
+>0<0
+0!0	
+AddTrust AB1&0$
+AddTrust External TTP Network1"0 
+AddTrust External CA Root0
+050607080910Z
+200530104838Z0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+=0;09
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+)0'0%
+http://ocsp.usertrust.com0
+9f*<Z,m
+&I+j
+9%^c
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1*0(
+!COMODO SHA-1 Time Stamping Signer0
+RSBm"
+tPC}
+*TzP
+WvBo
+k-3k
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+3$@@
+HA=\
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+110824000000Z
+200530104838Z0{1
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+"%jl
+O1[P!
+w#*OY
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0t
+h0f0=
+1http://crt.usertrust.com/UTNAddTrustObject_CA.crt0%
+http://ocsp.usertrust.com0
+]ZB^
+Y.yI
+mP5\
+=q/;
+<a~^I
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 20
+160328000000Z
+190328235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+Fbm~
+%S lU
+b*ZCAD
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0A
+:0806
+0http://crl.comodoca.com/COMODOCodeSigningCA2.crl0r
+f0d0<
+0http://crt.comodoca.com/COMODOCodeSigningCA2.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+ioQVm
+Greater Manchester1
+Salford1
+COMODO CA Limited1!0
+COMODO Code Signing CA 2
+FDrp
+WDOwJ
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9%^c
+170510151907Z0#
+HEjc
+lNSN/m
+o$zi
++"3Z
+Hw#fb~b
+N0L0
+5~!0
+wqE[
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+160325000000Z
+210325235959Z0
+10001
+	Ljubljana1
+Herbersteinova 291
+Jernej Simon
+Jernej Simon
+N&uz
+?0=0;
+0+0)
+https://secure.comodo.net/CPS0C
+<0:08
+2http://crl.comodoca.com/COMODORSACodeSigningCA.crl0t
+h0f0>
+2http://crt.comodoca.com/COMODORSACodeSigningCA.crt0$
+http://ocsp.comodoca.com0
+jernej@simoncic.si0
+AqAthzjp
+R6/s/;
+/Y[;
+Greater Manchester1
+Salford1
+COMODO CA Limited1+0)
+"COMODO RSA Certification Authority0
+130509000000Z
+280508235959Z0}1
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA0
+#KKc
+:3FPs
+^Lby
+E0C0A
+;http://crl.comodoca.com/COMODORSACertificationAuthority.crl0q
+e0c0;
+/http://crt.comodoca.com/COMODORSAAddTrustCA.crt0$
+http://ocsp.comodoca.com0
+TQ-R
+DvWj
+e	#I
+~ wa
+zi'e
+{:Q9
+SN20s
+Greater Manchester1
+Salford1
+COMODO CA Limited1#0!
+COMODO RSA Code Signing CA
+wqE[
+qO>H
+8r,Le
+i0tH
+20170510155111Z
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer
+9Uw0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object0
+151231000000Z
+190709184036Z0
+Greater Manchester1
+Salford1
+COMODO CA Limited1,0*
+#COMODO SHA-256 Time Stamping Signer0
+z%$"
+Q@5g
+9sI9
+fO\r6{
+'1Oqtn
+lZGfD{
+;0907
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+)0'0%
+http://ocsp.usertrust.com0
+Salt Lake City1
+The USERTRUST Network1!0
+http://www.usertrust.com1
+UTN-USERFirst-Object
+9Uw0
+170510155111Z0+
+6R}O
+^37E
+fZQ1
+"Ms,
+Nn?>
+LoMzh

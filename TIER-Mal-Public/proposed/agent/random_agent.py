@@ -10,8 +10,8 @@ from gym import wrappers
 import argparse
 
 import proposed
+from proposed.paths import RUNTIME_DIR
 
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 class RandomAgent:
     """The world's simplest agent!"""
@@ -25,7 +25,7 @@ class RandomAgent:
 
 # gym setup
 parser = argparse.ArgumentParser()
-parser.add_argument('--target', choices=['AV1', 'custom'], default='custom', help='target detector to use')
+parser.add_argument('--target', choices=['custom'], default='custom', help='target detector to use')
 parser.add_argument('--seed', type=int, default=26731, help='random seed')
 parser.add_argument('--num-episodes', type=int, default=300, help='number of episodes to run')
 parser.add_argument('--num-queries', type=int, default=4096, help='number of queries to run')
@@ -38,7 +38,7 @@ num_queries = args.num_queries
 
 random.seed(seed)
 np.random.seed(seed)
-outdir = os.path.join(project_root, "runtime", "logs", "random-agent-results")
+outdir = str(RUNTIME_DIR / "logs" / "random-agent-results")
 env = gym.make(f"{target}-test-v0")
 env = wrappers.Monitor(env, directory=outdir, force=True)
 env.seed(seed)

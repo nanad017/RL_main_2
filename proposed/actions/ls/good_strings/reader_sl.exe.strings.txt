@@ -1,0 +1,702 @@
+!This program cannot be run in DOS mode.
+RichK
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+RRRh
+h4t@
+u&PhHt@
+0Wj0
+hXt@
+tbVW
+hXt@
+SVWP
+uhj@
+Y_^[
+RRRh
+h0u@
+WPWS
+Y_^[
+_^[]
+_^[]
+=lp@
+h4t@
+PhHt@
+Y_^[
+Y_^[
+h(a@
+hqa@
+PQSVW
+h@,@
+h@)@
+h@,@
+Y_^[
+Vh@,@
+Vh@,@
+SVWP
+Y_^[
+Y_^[
+8_ tK
+F PV
+F0PV
+Y_^[
+h@b@
+SVWP
+6SPj
+<p*u
+<p\u
+<p\u
+Y_^[
+hpb@
+Y_^[
+_^[]
+_^[f
+_^[]
+_^[f
+?PSQ
+_^[]
+_^[]
+SVWP
+Y_^[
+VWj-h
+u&VWj
+tPSV
+%,q@
+%0q@
+%4q@
+%Hq@
+%Lq@
+%Pq@
+%Tq@
+t%Wh
+8csm
+%\q@
+h,r@
+%dq@
+%hq@
+%pq@
+hY\@
+Y__^[
+h~W@
+%xq@
+%|q@
+8csm
+_^[]
+hY\@
+Y_^[
+Y_^[
+VVVVV
+%$q@
+% q@
+|rdr|\Javascripts\JSByteCodeWin.bin
+|rdr|\AdobeUpdater.dll
+|sys|\ddraw.dll
+|sys|\dciman32.dll
+AdobeReaderSpeedLaunchCmdWnd
+SOFTWARE\Adobe\Acrobat Reader\DC\AcroSpeedLaunch
+generic
+unknown error
+iostream
+iostream stream error
+system
+AcrobatSDIWindow
+AdobeAcrobat
+ServicesActive
+McShield
+AvSynMgr
+navapsvc
+AntiVirService
+ekrn
+I run
+msvcr100.dll
+msvcp100.dll
+string too long
+invalid string position
+dwrite.dll
+DWriteCreateFactory
+|cla|
+|cla|\adobe
+|cla|\adobe\acrobat
+|cla|\adobe\acrobat\DC
+|cla|\adobe\acrobat\DC\usercache.bin
+|cad|\desktop.ini
+|rdr|\ace.dll
+|rdr|\acrord32.dll
+|rdr|\acrord32.exe
+|rdr|\agm.dll
+|rdr|\bib.dll
+|rdr|\cooltype.dll
+|rdr|\plug_ins
+|rdr|\plug_ins\*.*
+|rdr|\plug_ins\accessibility.api
+|rdr|\plug_ins\acroform.api
+|rdr|\plug_ins\annots.api
+|rdr|\plug_ins\checkers.api
+|rdr|\sqlite.dll
+|rdr|\plug_ins\digsig.api
+|rdr|\plug_ins\dva.api
+|rdr|\plug_ins\ebook.api
+|rdr|\plug_ins\escript.api
+|rdr|\plug_ins\ia32.api
+|rdr|\plug_ins\makeaccessible.api
+|rdr|\plug_ins\multimedia.api
+|rdr|\plug_ins\pddom.api
+|rdr|\plug_ins\ppklite.api
+|rdr|\plug_ins\readoutloud.api
+|rdr|\plug_ins\reflow.api
+|rdr|\plug_ins\saveasrtf.api
+|rdr|\plug_ins\search.api
+|rdr|\NPSWF32.dll
+|rdr|\plug_ins\sendmail.api
+|rdr|\plug_ins\spelling.api
+|rdr|\plug_ins\updater.api
+|rdr|\plug_ins\weblink.api
+|sys|\advapi32.dll
+|sys|\clbcatq.dll
+|sys|\comres.dll
+|sys|\encapi.dll
+|sys|\imm32.dll
+|sys|\lpk.dll
+|sys|\msctf.dll
+|sys|\msctfime.ime
+|sys|\mslbui.dll
+|sys|\msvcrt.dll
+|sys|\netapi32.dll
+|sys|\ole32.dll
+|sys|\oleaut32.dll
+|sys|\psapi.dll
+|sys|\rpcrt4.dll
+|sys|\secur32.dll
+|sys|\shell32.dll
+|sys|\shlwapi.dll
+|sys|\user32.dll
+|sys|\userenv.dll
+|sys|\usp10.dll
+|sys|\uxtheme.dll
+|sys|\version.dll
+|sys|\xpsp2res.dll
+|sys|\sechost.dll
+|sys|\sspicli.dll
+|sys|\cryptBase.dll
+|sys|\cryptsp.dll
+|sys|\bCrypt.dll
+|sys|\bcryptprimitives.dll
+|sys|\nCrypt.dll
+|sys|\dwmapi.dll
+|sys|\profapi.dll
+|sys|\rsaenh.dll
+|sys|\RpcRtRemote.dll
+|sys|\msasn1.dll
+|sys|\ntmarta.dll
+|sys|\Wldap32.dll
+|sys|\setupapi.dll
+|sys|\propsys.dll
+|sys|\apphelp.dll
+|sys|\ws2_32.dll
+|sys|\nsi.dll
+|sys|\mswsock.dll
+|sys|\WSHTCPIP.dll
+|sys|\wship6.dll
+|sys|\dnsapi.dll
+|sys|\IPHLPAPI.dll
+|sys|\winnsi.dll
+|sys|\rasadhlp.dll
+|sys|\FWPUCLNT.dll
+|cpfc|\Adobe\Acrobat\ActiveX\AcroPDF.dll
+|cpfc|\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+|cpfc|\Adobe\Acrobat\ActiveX\AcroIEHelperShim.dll
+|cpfc|\Adobe\Acrobat\ActiveX\pdfshell.dll
+|rdr|\cryptocme.dll
+|rdr|\ccme_base.dll
+|rdr|\ccme_base_non_fips.dll
+|rdr|\ccme_asym.dll
+|rdr|\ccme_ecc.dll
+|rdr|\ccme_ecdrbg.dll
+|rdr|\PDFPrevHndlrShim.exe
+|rdr|\PDFPrevHndlr.dll
+|sys|\prevhost.exe
+|rdr|\Services\DEXEchoSign.spi
+|rdr|\Services\DEXShare.spi
+|rdr|\Services\Services.cfg
+|rdr|\AcroCEF\RdrCEF.exe
+|rdr|\AcroCEF\libcef.dll
+|rdr|\AcroCEF\icudtl.dat
+|rdr|\AcroCEF\cef.pak
+|rdr|\AcroRd32Res.dll
+|rdr|\BibUtils.dll
+|rdr|\LogSession.dll
+|rdr|\AdobeXMP.dll
+|rdr|\Axe8SharedExpat.dll
+|sys|\msvcr110.dll
+|sys|\msvcp110.dll
+|sys|\msvcr120.dll
+|sys|\msvcp120.dll
+|sys|\dwrite.dll
+|sys|\msvcp100.dll
+|sys|\msvcr100.dll
+|sys|\ieframe.dll
+|sys|\api-ms-win-downlevel-advapi32-l1-1-0.dll
+|sys|\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+|sys|\api-ms-win-downlevel-user32-l1-1-0.dll
+|sys|\api-ms-win-downlevel-shell32-l1-1-0.dll
+|sys|\api-ms-win-downlevel-version-l1-1-0.dll
+|sys|\api-ms-win-downlevel-normaliz-l1-1-0.dll
+|sys|\normaliz.dll
+|sys|\iertutil.dll
+|sys|\cfgmgr32.dll
+|sys|\devobj.dll
+|sys|\wininet.dll
+|sys|\api-ms-win-downlevel-advapi32-l2-1-0.dll
+|sys|\api-ms-win-downlevel-ole32-l1-1-0.dll
+|sys|\winhttp.dll
+|sys|\webio.dll
+|sys|\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+|sys|\crypt32.dll
+|sys|\netprofm.dll
+|sys|\nlaapi.dll
+|sys|\dhcpcsvc.dll
+|sys|\dhcpcsvc6.dll
+|sys|\npmproxy.dll
+|sys|\urlmon.dll
+|sys|\fwpuclnt.dll
+|sys|\mscms.dll
+|sys|\icm32.dll
+|sys|\credssp.dll
+|sys|\schannel.dll
+|sys|\sfc.dll
+|sys|\sfc_os.dll
+|sys|\devrtl.dll
+|sys|\wintrust.dll
+|sys|\mpr.dll
+|sys|\gpapi.dll
+|sys|\cryptnet.dll
+|sys|\sensapi.dll
+|cla|\adobe\acrobat\DC\iconcacherdr.dat
+|sys|\rasapi32.dll
+|sys|\rasman.dll
+|sys|\rtutils.dll
+|rdr|\acroapp\enu\viewer.aapp
+|ladl|\Adobe\Acrobat\DC\readermessages
+|tmp|\acrord32_sbx
+|ladl|\Adobe\Acrobat\DC
+|ladl|\Adobe\Linguistics
+|cla|\Adobe\Acrobat\DC
+|cla|\Adobe\Color
+|cad|\Adobe\Acrobat\DC
+|cad|\Adobe\Linguistics
+|cad|\Microsoft\Speech
+|cad|\Adobe\LogTransport2
+|cad|\Adobe\Headlights
+|cad|\Adobe\Flash Player\AssetCache
+|ladl|\Microsoft\IMJP*
+|cla|\Microsoft\IMJP*
+|cad|\Microsoft\IMJP*
+|ladl|\Microsoft\IME*
+|cla|\Microsoft\IME*
+|cad|\Microsoft\IME*
+|cpe|\ArcotIDs
+|cla|\Lotus\Notes\Data
+|cla|\Lotus\Notes\Data\names.nsf
+|cla|\Lotus\Notes\Data\JOBSCHED.NJF
+|cla|\Lotus\Notes\Data\cluster.ncf
+|cla|\Lotus\Notes\Data\ticket.idt
+|cla|\Lotus\Notes\Data\notes.ini
+|cla|\Lotus\Notes\Data\*.reg
+|cla|\Lotus\Notes\Data\*.nbf
+|cad|\Intuit\Quicken\Log
+|cad|\Intuit\Quicken\Log\qw.log
+|cad|\Justsystem
+|cad|\Enfocus Prefs Folder
+|cpf|
+|win|
+|rdr|
+|rdrp|
+|cad|\Adobe\Acrobat\Privileged\DC
+|cad|\Microsoft\Crypto\RSA
+|cad|\Arcot\Ids
+|cla|\Microsoft\Outlook
+|cad|\Microsoft\Outlook
+|cic|
+|sys|\Windows.Globalization.dll
+|sys|\Bcp47Langs.dll
+|sys|\globinputhost.dll
+|sys|\kernel.appcore.dll
+|rdr|\UIThemes\DarkTheme.acrotheme
+|rdr|\UIThemes\LightTheme.acrotheme
+|rdr|\plug_ins\pi_brokers\32BitMAPIBroker.exe
+|cla|\adobe\acrobat\DC\iconcacherdr65536.dat
+|cla|\adobe\acrobat\DC\iconcacherdr81920.dat
+|cla|\adobe\acrobat\DC\iconcacherdr98304.dat
+|cla|\adobe\acrobat\DC\iconcacherdr114688.dat
+|cla|\adobe\acrobat\DC\iconcacherdr131072.dat
+|cla|\adobe\acrobat\DC\iconcacherdr147456.dat
+|cla|\adobe\acrobat\DC\iconcacherdr163840.dat
+|cla|\adobe\acrobat\DC\iconcacherdr180224.dat
+|cla|\adobe\acrobat\DC\iconcacherdr196608.dat
+|cla|\adobe\acrobat\DC\iconcacherdr212992.dat
+|cla|\adobe\acrobat\DC\iconcacherdr229376.dat
+|cla|\adobe\acrobat\DC\iconcacherdr245760.dat
+|cla|\adobe\acrobat\DC\iconcacherdr262144.dat
+vector<T> too long
+map/set<T> too long
+SOFTWARE\Adobe\Adobe Acrobat\DC\InstallPath
+SOFTWARE\Adobe\Acrobat Reader\DC\InstallPath
+|ci|
+|cpg|
+|cc|
+|cpt|
+|cpe|
+|cf|
+|csu|
+|cr|
+|cst|
+|cbb|
+|csm|
+|cdd|
+|cdr|
+|cn|
+|cnh|
+|cfo|
+|ct|
+|ccsm|
+|ccp|
+|ccs|
+|ccd|
+|cad|
+|cph|
+|cas|
+|cca|
+|ccf|
+|cco|
+|ch|
+|cmm|
+|ccad|
+|cmp|
+|cpfc|
+|ccdc|
+|crs|
+|crl|
+|ccam|
+|cat|
+|tmp|
+|sys|
+|root|
+|ladl|
+|acr|
+|acrp|
+RSDS_,
+Reader_SL.pdb
+CloseHandle
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+SetEvent
+WaitForSingleObject
+CreateEventA
+CreateThread
+GetCurrentThread
+SetThreadPriority
+TerminateThread
+CreateProcessA
+GetModuleFileNameA
+GetModuleHandleA
+GetSystemPowerStatus
+FreeLibrary
+GetProcAddress
+LoadLibraryA
+CreateFileA
+CreateFileW
+FindClose
+FindFirstFileA
+FindNextFileA
+GetFileAttributesA
+GetFinalPathNameByHandleW
+ReadFile
+SetFilePointer
+GetCurrentProcess
+GetSystemInfo
+VirtualQueryEx
+MapViewOfFile
+UnmapViewOfFile
+CreateFileMappingA
+MultiByteToWideChar
+GetSystemDirectoryA
+GetWindowsDirectoryA
+GetTempPathA
+WideCharToMultiByte
+KERNEL32.dll
+GetMessageA
+TranslateMessage
+DispatchMessageA
+DefWindowProcA
+PostQuitMessage
+UnregisterClassA
+RegisterClassExA
+CreateWindowExA
+DestroyWindow
+SetTimer
+KillTimer
+FindWindowA
+LoadCursorA
+LoadIconA
+USER32.dll
+CloseServiceHandle
+OpenSCManagerA
+OpenServiceA
+QueryServiceStatus
+RegCloseKey
+RegOpenKeyA
+RegQueryValueA
+ADVAPI32.dll
+SHGetMalloc
+SHGetPathFromIDListA
+SHGetSpecialFolderLocation
+SHGetKnownFolderPath
+SHELL32.dll
+CoTaskMemFree
+ole32.dll
+?_Xbad_alloc@std@@YAXXZ
+?_Xlength_error@std@@YAXPBD@Z
+?_Xout_of_range@std@@YAXPBD@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Winerror_map@std@@YAPBDH@Z
+MSVCP120.dll
+_purecall
+??2@YAPAXI@Z
+??3@YAXPAX@Z
+memmove
+strrchr
+strstr
+malloc
+_CxxThrowException
+__CxxFrameHandler3
+memcpy
+memset
+strchr
+??_V@YAXPAX@Z
+free
+MSVCR120.dll
+_lock
+_unlock
+_calloc_crt
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+?terminate@@YAXXZ
+_XcptFilter
+__crtGetShowWindowMode
+_amsg_exit
+__getmainargs
+__set_app_type
+exit
+_exit
+_cexit
+_ismbblead
+_configthreadlocale
+__setusermatherr
+_initterm_e
+_initterm
+_acmdln
+_fmode
+_commode
+_except_handler4_common
+_crt_debugger_hook
+__crtUnhandledException
+__crtTerminateProcess
+__crtSetUnhandledExceptionFilter
+_invoke_watson
+_controlfp_s
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVtype_info@@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="Adobe.ReaderSpeedLauncher.Reader_SL" type="win32"></assemblyIdentity><description>Adobe Reader Speed Launcher 9.0</description><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>
+0!0l0
+03191C1I1R1_1k1
+2K2i2y2
+3-3<3C3T3n3x3
+394A4Y4`4q4
+5(5L5S5^5
+6&6S6Y6j6x6
+7b7m7s7x7~7
+838a8v8
+:!;';/<5<
+=.>q>~>
+?A?N?
+0#030:0L0R0w0
+1#111G1M1t1
+1d2i2o2
+3E3J4P4F6X6
+:8;R<n<
+>\?u?
+363I3
+3V4h4
+4&555
+6X6\6`6d6h6l6p6t6x6|6
+727O7
+8/9_9i9
+90;6;_;
+<+=J=
+263<3Z3`3J4P4
+40565
+0Z0}0
+0>1g1p1
+2 2:2f2
+2.3E3w3
+4+5V5{5
+5d6t6z6
+7!7;7E7
+8"9.9:9@9R9\9e9o9u9~9
+:7:J:`:
+; ;P;Z;`;j;
+<i<n<
+="=*=2=:=F=O=T=Z=d=n=~=
+>v>{>
+0 0%0f0l0r0x0~0
+2 2$2(2
+3 3$3(3,3034383<3@3D3H3L3P3l3p3t3x3|3
+1 1p1t1
+2 2$2,2D2T2X2h2l2p2t2|2
+2,3<3h3p3
+4 4(444\4
+545<5`5t5|5
+6$6L6p6|6
+7 7<7@7\7`7|7
+0 0$0(0,0004080@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4(4,44484@4D4L4P4X4\4d4h4p4t4|4
+5$5(50545<5@5H5L5T5X5`5d5l5p5x5|5
+6,6P6|6
+Z0X03
+>0!0	
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2006 VeriSign, Inc. - For authorized use only1E0C
+<VeriSign Class 3 Public Primary Certification Authority - G50
+140304000000Z
+240303235959Z0
+Symantec Corporation1
+Symantec Trust Network1B0@
+9Symantec Class 3 Extended Validation Code Signing CA - G20
+(0&0$
+http://s.symcb.com/pca3-g5.crl0
+"0 0
+http://s.symcd.com0_
+X0V0T
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0)
+SymantecPKI-1-6290
+3130
+u8*Z
+dIAtA!
+Ar~R
+36~W4
+n,m0
+Symantec Corporation1
+Symantec Trust Network1B0@
+9Symantec Class 3 Extended Validation Code Signing CA - G20
+150514000000Z
+170507235959Z0
+Delaware1
+Private Organization1
+27481291
+California1
+San Jose1$0"
+Adobe Systems, Incorporated1
+Acrobat DC1$0"
+Adobe Systems, Incorporated0
+N1Bv
+u|>3/O~
+US-Delaware-27481290	
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0+
+$0"0 
+http://sw.symcb.com/sw.crl0
+>?q0X
+L0J0
+http://sw.symcd.com0'
+http://sw1.symcb.com/sw.crt0
+ShH<;
+SkYd
+1!*[
+Mf&[
+Symantec Corporation1
+Symantec Trust Network1B0@
+9Symantec Class 3 Extended Validation Code Signing CA - G2
+R?DR
+dpGI
+H,Q4
+20161223174214Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G1
+IhQD
+VeriSign, Inc.1
+VeriSign Trust Network1:08
+1(c) 2008 VeriSign, Inc. - For authorized use only1806
+/VeriSign Universal Root Certification Authority0
+160112000000Z
+310111235959Z0w1
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+^m@8
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0.
+"0 0
+http://s.symcd.com06
+/0-0+
+%http://s.symcb.com/universal-root.crl0
+TimeStamp-2048-30
+cH9@!
+xlBn
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA0
+160112000000Z
+270411235959Z0
+Symantec Corporation1
+Symantec Trust Network110/
+(Symantec SHA256 TimeStamping Signer - G10
+_lBe
+_0]0[
+0L0#
+https://d.symcb.com/cps0%
+https://d.symcb.com/rpa0@
+90705
+/http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0
+k0i0*
+http://ts-ocsp.ws.symantec.com0;
+/http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(
+TimeStamp-2048-40
+?A_V
+XKpK
+45tI
+Symantec Corporation1
+Symantec Trust Network1(0&
+Symantec SHA256 TimeStamping CA
+161223174214Z0/
+/1(0&0$0"
+reBu
+]P(X
+XK#S

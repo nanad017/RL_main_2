@@ -517,26 +517,3 @@ ACTION_TIER = {
 }
 
 NUM_TIERS = 3
-
-if __name__ == "__main__":
-    # use for testing/debugging actions
-    import hashlib
-
-    from IPython import embed
-
-    filename = "../utils/samples/7a5d1bb166c07ed101f2ee9cb43b3a8ce0d90d52788a0d9791a040d2cdcc8057"
-    with open(filename, "rb") as f:
-        bytez = f.read()
-
-    m = hashlib.sha256()
-    m.update(bytez)
-    print(f"original hash: {m.hexdigest()}")
-
-    action = "pad_overlay"
-    bytez = modify_sample(bytez, action)
-
-    m = hashlib.sha256()
-    m.update(bytez)
-    print(f"modified hash: {m.hexdigest()}")
-
-    embed()

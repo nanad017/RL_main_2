@@ -14,9 +14,10 @@ from stable_baselines3.common.env_util import make_vec_env
 import torch as th
 
 import proposed
+from proposed.paths import RUNTIME_DIR
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--target', choices=['AV1', 'custom'], default='custom', help='target detector to use')
+parser.add_argument('--target', choices=['custom'], default='custom', help='target detector to use')
 parser.add_argument('--seed', type=int, default=26871, help='random seed')
 parser.add_argument('--num-episodes', type=int, default=300, help='number of episodes to run')
 parser.add_argument('--num-queries', type=int, default=4096, help='number of queries to run')
@@ -30,9 +31,8 @@ num_queries = args.num_queries
 random.seed(seed)
 np.random.seed(seed)
 
-project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-outdir = os.path.join(project_root, "runtime", "logs", "ppo-agent-results")
-checkpoint_dir = os.path.join(project_root, "models", "checkpoints")
+outdir = str(RUNTIME_DIR / "logs" / "ppo-agent-results")
+checkpoint_dir = str(RUNTIME_DIR / "checkpoints")
 os.makedirs(checkpoint_dir, exist_ok=True)
 
 # Setting up the environment
@@ -62,14 +62,13 @@ agent = PPO("MlpPolicy",
             n_steps=128,
             learning_rate=0.00138,
             max_grad_norm=0.4284, 
-            tensorboard_log=f"./ppo_{target}_tensorboard/", 
+            tensorboard_log=str(RUNTIME_DIR / "logs" / f"ppo_{target}_tensorboard"),
             policy_kwargs=policy_kwargs) 
             # device='cpu')
 
 # Total timesteps should be a multiple of envs*n_steps 
 agent.learn(total_timesteps=num_queries)
 agent.save(os.path.join(checkpoint_dir, f"ppo-only-{target}-train-v0-{seed}"))
-# agent.load(f"saved_models/ppo-only-{target}-train-v0-{seed}")
 
 print("[*] Evaluation phase begins")
 eval_env = gym.make(f"{target}-test-v0")

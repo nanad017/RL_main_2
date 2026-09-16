@@ -18,7 +18,7 @@ def test_env(env_name):
     env.close()
 
 
-environments = ["sorel-train-v0", "malconv-train-v0", "ember-train-v0"]
+environments = ["custom-train-v0", "custom-test-v0"]
 
 for e in environments:
     test_env(e)

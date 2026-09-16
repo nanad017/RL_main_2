@@ -1,0 +1,4549 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+p@.pdata
+0@.xdata
+0@.bss
+.idata
+.CRT
+.tls
+8MZtxH
+HcH<H
+D$ H
+AUATUWVSH
+T$ D
+[^_]A\A]
+B|9A|
+WVSH
+ [^_
+UWVSH
+([^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+UAWAVAUATWVSH
+[^_A\A]A^A_]
+\$ L
+l$ H
+	w]A
+0<	v
+t}H;u
+>t}E
+UWVSH
+([^_]
+([^_]
+AVAUATUWVSH
+T$(H
+t$(H
+T$(H
+L$(H
+l$(H
+EXPH
+8@8>u
+0[^_]A\A]A^
+UWVSH
+([^_]
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+AWAVAUATUWVSH
+h[^_]A\A]A^A_
+D$XH
+|$X1
+|$8H
+t$0H
+\$(H
+D$ M
+tmHc
+l$@E
+D$HM
+t$HM
+8\t	H
+D$(H
+D$0H
+D$ H
+D$ H
+D$,H
+UWVSH
+N<\t6
+([^_]
+WVSH
+*ttA
+`t\D
+ [^_
+UWVSH
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+D$8H
+L$@L
+<-tJH
+X[^_]A\A]A^A_
+D$0H
+D$0H
+L$8E1
+AVAUATUWVSH
+$tqH
+ [^_]A\A]A^
+AWAVAUATUWVSH
+L$0H
+D$X@
+l$8L
+l$@M
+D$P@
+D$0L
+T$XH
+,t&A
+|$8H
+h[^_]A\A]A^A_
+D$XI
+L$XM
+AWAVAUATUWVSH
+\$0H
+D$8H
+D$@H
+D$HH
+D$(H
+D$X1
+D$(H
+T$PI
+D$(L
+d$(L
+L$`I
+\$(H
+[^_]A\A]A^A_
+D$(H
+t$(L
+D$(L
+D$`I
+D$`t#H
+D$(I
+D$(H
+|$(L
+D$(H
+t$(L
+D$(H
+t$(L
+D$(H
+L$(L
+D$Pt
+|$hH
+\$`L
+|$(H
+T$x<-
+D$(H
+D$(H
+L$(L
+D$(H
+|$(L
+\$(H
+L$(H
+D$(H
+L$(L
+\$`L
+|$hH
+l$pH
+L$PH
+D$(H
+t$(L
+D$(H
+|$(L
+L$8L
+D$@H
+L$8L
+D$@H
+L$8L
+D$@H
+T$HH
+WVSH
+ [^_
+UWVSH
+([^_]
+([^_]
+t7f.
+T$XL
+D$`L
+L$htv
+T$XH
+T$XL
+D$`L
+L$htv
+T$XH
+ATUWVSH
+t0Hc
+<;=t
+ [^_]A\
+WVSH
+ [^_
+ [^_
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+taHc
+<+=u
+([^_]A\A]
+AUATUWVSH
+l$0E1
+~+Hc
+H[^_]A\A]
+H[^_]A\A]
+H[^_]A\A]
+H[^_]A\A]
+ATUWVSH
+0[^_]A\
+0[^_]A\
+0[^_]A\
+0[^_]A\
+0[^_]A\
+WVSH
+0[^_
+0[^_
+AVAUATUWVSH
+tRHc
+0[^_]A\A]A^
+ATUWVSH
+0[^_]A\
+AWAV
+AUATUWVS
+D$@E1
+D$0H
+L$0I
+d$ A
+D$8H
+[^_]A\A]A^A_
+T$0K
+|$(A
+AWAVAUATUWVSH
+L$0L
+|$0D3|$4
+D;|$,
+H[^_]A\A]A^A_
+ATUWVSH
+@[^_]A\
+T$0H
+\$ H
+@[^_]A\
+d$(H
+AWAVAUATUWVSH
+D$XL
+Hc\$P
+L$8H)
+T$(H
+L$0Hc
+D$0A
+L$PL
+t$HI
+T$TH
+t$HM
+|$XH
+D$@H
+L$8I9
+L$8H
+|$@H
+h[^_]A\A]A^A_
+L$8L
+L$81
+h[^_]A\A]A^A_
+AWAVAUATUWVSH
+D$O\
+D$OE1
+T$OL
+D$OA
+D$OI9
+L$(I9
+L$(H)
+T$OL
+T$8H
+L$(A
+X[^_]A\A]A^A_
+L$(L
+L$(1
+AUATUWVSH
+H[^_]A\A]
+l$0H
+\$(H
+H[^_]A\A]
+AUATUWVSH
+Pt@@
+8[^_]A\A]
+8[^_]A\A]
+AUATUWVSH
+8[^_]A\A]
+|$(H
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+AWAVAUATUWVSH
+X[^_]A\A]A^A_
+D$HH
+T$HL
+D$8L
+t$(A
+D$8L
+|$(H
+D$ A
+l$(H
+D$8L
+|$(A
+D$8H
+|$(L
+D$8L
+|$(H
+D$(H
+T$HH
+D$8H
+D$8H
+D$PL
+L$Xt
+D$PL
+D$(E1
+T$HH
+D$HH
+T$(L
+D$PE1
+L$XH
+</t%<\t!
+UWVSH
+</t:<\t6H
+\u;H
+([^_]
+/t1@
+([^_]
+</txH
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+WVSH
+\t`H
+ [^_
+ [^_
+ [^_
+</t-<\t)H
+:tcH
+L$ H
+D$!:
+D$".
+WVSH
+P[^_
+D$8H
+P[^_
+([^H
+XD9Y t
+x'D;
+AWAVAUATUWVSH
+F(H9F
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+u|D9cDt6L
+([^_]A\A]A^A_
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+T$xD
+t~E1
+t:E9
+T$xA
+1H9L$xu
+([^_]A\A]A^A_
+AUATUWVSH
+C(I9
+t/H9
+L$(D
+D$$L
+L$(H
+8[^_]A\A]H
+8[^_]A\A]
+AWAVAUATUWVSH
+L$LL
+tmE1
+toE9
+D$(H
+D$@H
+X[^_]A\A]A^A_
+X[^_]A\A]A^A_
+ATUWVSH
+ [^_]A\
+WVSH
+FD9A t%L
+ [^_
+}GLc
+ [^_
+ [^_
+ [^_
+XD9Y t
+xWD;
+T$ D
+K(H9K
+AWAVAUATUWVSH
+tsE1
+t:E9
+H9L$xu
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+T$xL
+tEE9
+T$xA
+H9L$xu
+([^_]A\A]A^A_
+AWAVAUATUWVSH
+tsE1
+t:E9
+H9L$xu
+([^_]A\A]A^A_
+t3E1
+ATUWVSH
+D9fDt*L
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+D9kDtIL
+([^_]A\A]
+D9kDu
+([^_]A\A]
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+D$(H
+H[^_]A\A]
+H[^_]A\A]
+AUATUWVSH
+8~2H
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+WVSH
+ [^_
+WVSH
+xttbA
+tWE9
+ [^_
+ [^_
+ [^_
+WVSH
+0[^_
+0[^_
+D$(H
+0[^_
+t!H9
+WVSH
+t4H9
+ [^_
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+AUATUWVSH
+([^_]A\A]H
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+t#I9
+ATUWVSH
+ [^_]A\
+ [^_]A\
+@ucH
+WVSH
+t$A;Y
+ [^_
+A@tII
+I(E9H(~
+0D9H(
+UWVSH
+([^_]
+UWVSH
+E(tHH
+E,@t1H
+([^_]
+WVSH
+0[^_
+T$,H
+0[^_
+0[^_
+D$(H
+qHE1
+_w"L
+WVSH
+ [^_
+ [^_
+ [^_
+WVSH
+C,@H
+ [^_
+ [^_
+ [^_
+WVSH
+C,@H
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]H
+([^_]A\A]
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+K, H
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+([^_]
+Q E1
+WVSH
+9s0t	H
+ [^_
+ [^_
+AUATUWVSH
+l$(L
+H9l$(u
+8[^_]A\A]
+8[^_]A\A]
+ATUWVSH
+|$(H
+\$HH
+H9l$(t
+0[^_]A\
+*!Nb
+T$ I
+HcD$ HcT$$Hi
+WVSH
+0[^_
+WVSH
+C(H9
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+ [^_
+AUATUWVSH
+l$0H
+l$0H
+|$8L
+H[^_]A\A]
+l$0H
+l$0H
+|$8L
+AVAUATUWVSH
+M8E1
+D$,A
+D9s(
+0[^_]A\A]A^
+ATUWVSH
+|$pH
+t|A;r
+ [^_]A\
+ATUWVSH
+_X~7
+ [^_]A\
+ [^_]A\
+ [^_]A\
+AWAVAUATUWVSH
+x[^_]A\A]A^A_
+D$`H
+D$8H
+D$PH
+D$@H
+D$XH
+D$HL
+t$`L
+D$PH
+T$XH
+D$hH
+D$8H
+D$8H9E
+AtJE
+I;^ 
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+T$8H
+\$ I
+T$8A
+ uoH
+WVSH
+ [^_
+ [^_
+KlHi
+H9C`
+K`H9
+WVSH
+ [^_
+KlHi
+C`t	H
+KlHi
+C`t	H
+UWVSH
+L$pI
+([^_]
+([^_]
+UWVSH
+L$pI
+([^_]
+([^_]
+UWVSH
+L$pI
+([^_]
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+([^_]A\A]H
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+WVSH
+ [^_
+T$ H
+AWAVAUATUWVSH
+|$(D)
+t$ D
+L$HD
+D$DD
+X[^_]A\A]A^A_
+X[^_]A\A]A^A_
+|$(D
+D$(H
+L$ L
+D$(H
+L$ L
+D$(L
+L$ L
+l$@A
+t$ I
+[^_]
+[^_]
+D$(H
+D$(H
+WVSH
+LOG-A
+CRITICAL
+ [^_
+INFO
+ (recursH
+Message
+DEBU
+WARNING
+ERRO1
+UWVSH
+|$ H
+X[^_]
+D$HL
+D$8H
+AWAVAUATUWVSH
+T$8H
+L$(H
+x[^_]A\A]A^A_
+WVSH
+ [^_
+AWAVAUATUWVSH
+D$8I
+D$8M
+[^_]A\A]A^A_
+\$HL
+L$8L
+L$@I
+\$HA
+T$@L
+T$@A
+L$XL
+L$XL
+ATUWVSH
+0[^_]A\
+0[^_]A\
+D$ L
+ATUWVSH
+\$`L
+|$@H
+D$0H
+T$HI
+|$8H
+t$(L
+[^_]A\
+D$0H
+|$@H
+t$(H
+D$ L
+D$pD
+D$ L
+L$(I
+D$0H
+WVSH
+T$hL
+D$pL
+L$xtUH
+T$hH
+@[^_
+@[^_
+T$8H
+WVSH
+T$hL
+D$pL
+L$xtUH
+T$hH
+@[^_
+@[^_
+T$8H
+L$/I
+t.LcBHM
+hthH
+htVH
+Lc@HM
+ht2H
+UWVSH
+([^_]
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+09]H~gH
+09]H
+([^_]A\A]
+AUATUWVSH
+8[^_]A\A]
+\$(H
+t$ L
+8[^_]A\A]
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ATUWVSH
+)t$@M
+(t$@H
+P[^_]A\
+T$8E1
+t$ A
+(t$@H
+P[^_]A\
+(t$@H
+P[^_]A\
+t$ A
+T$8E1
+8"tlL
+t$ A
+t$ A
+AWAVAUATUWVSH
+Mc D; 
+L$PH
+D$8H
+Mc&H
+0D; 
+|$PH
+U E1
+t$ H
+L$8E1
+T$LL
+\$@H
+\$@H
+T$LA
+;=tYH
+L$@9
+L$8E1
+T$XH
+L$PM
+|$ H
+h[^_]A\A]A^A_
+L$8E1
+L$PH
+U E1
+|$ H
+AWAVAUATUWVSH
+L$@H
+D$HA
+D$4H
+D$8H
+09wH
+G@D8t
+T$4H
+T$HH
+L$XH
+L$PE1
+L$XA
+T$8H
+L$@L
+d$ H
+h[^_]A\A]A^A_
+ t8E1
+d$ A
+d$ L
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+T$LL
+T$P1
+09pH~;H
+09pH
+@uNA
+09_H~QI
+09_H
+T$@E1
+L$LE
+[^_]A\A]A^A_
+L$@H
+D$@D
+D$@E1
+t$@M
+A9^H
+L$LE
+d$ H
+M@9YH
+0A9^H~0I
+L$@L
+d$ A
+A9^H
+D$@H
+t$ L
+T$0H
+T$(H
+D$ L
+M@E1
+D$@E
+0A9^H~0I
+L$@L
+d$ A
+A9^H
+UAWAVAUATWVSH
+e8[^_A\A]A^A_]
+KPE1
+KPE1
+HcU$I
+d$(H
+D$PH
+HcE$H
+d$8H
+l$0L
+t$(L
+D$@A
+HcE$H
+HcU$
+d$8L
+l$0L
+t$(H
+d$8H
+l$0L
+t$(L
+D$@A
+D$ H
+HcU$
+|$@L
+d$8I
+l$0L
+t$(H
+C8E1
+d$8L
+l$0H
+D$@L
+HcU$I
+t$ L
+HcU$I
+KPE1
+HcU,
+ATUWVSH
+D$pH
+ [^_]A\
+ATUWVSH
+HcVHH
+P@uBH
+D$0H
+D$0H
+@[^_]A\
+D$(H
+@[^_]A\
+HcAH1
+UWVSH
+([^_]
+([^_]
+WVSH
+0[^_
+0[^_
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+AWAVAUATUWVSH
+l$0I
+H9T$0t;M
+l$ I
+[^_]A\A]A^A_
+l$ I
+WVSH
+ [^_
+ [^_
+xi;Q
+tAH9Q
+UWVSH
+H92H
+([^_]
+([^_]
+t6H9Q
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ [^_]A\
+'tgH
+ATUWVSH
+\u&D
+0[^_]A\
+0[^_]A\
+0[^_]A\
+AWAVAUATUWVSH
+l$8H
+|$0E1
+L$0H
+L$0H
+L$0E
+D$0H
+L$0E1
+L$0H
+t$(D
+T$ E1
+L$8H
+H[^_]A\A]A^A_
+l$8H
+|$0H
+L$8H
+t$ E1
+UWVSH
+T$hL
+D$pL
+t$hA
+L9	tOL;
+\$ H
+D$$H=
+D$ H
+DiD$ 
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+ATUWVSH
+0[^_]A\
+il$ 
+AWAVAUATUWVSH
+D$$H
+D$0L
+|$@E1
+D$(L
+|$(I
+\$0H
+D$8I
+D;l$$D
+H[^_]A\A]A^A_
+ATUWVSH
+B4 H
+I;:s
+I;:t5H
+0[^_]A\
+H;:s
+t$ I
+0[^_]A\
+tAvQ
+D$ C
+D$(J
+AWAVAUATUWVSH
+H;==
+8[^_]A\A]A^A_
+B4 H
+H;;s
+D$(H
+D$(A
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+AWAVAUATUWVSH
+L$0I
+D$ H
+T$0L
+t$(9
+t$(A9
+D$ 1
+H[^_]A\A]A^A_
+H9D$ 
+|$0t
+|$ H
+H[^_]A\A]A^A_
+ATUWVSH
+D$(H
+0[^_]A\
+0[^_]A\
+AVAUATUWVSH
+8~<H
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+WVSH
+ [^_
+WVSH
+8tgD
+ [^_
+ [^_
+ [^_
+WVSH
+tVH9
+0[^_
+T$(H
+t$H9
+UWVSH
+t'H91u
+([^_]
+t$H9
+WVSH
+ [^_
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+PtLw7
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+~PLc
+\u"N
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+UWVSH
+8[^_]
+ATUWVSH
+tjE1
+0[^_]A\
+ATUWVSH
+twE1
+0[^_]A\
+UWVSH
+8[^_]
+AVAUATUWVSH
+	v%E
+0[^_]A\A]A^
+<xun
+0uhH
+0[^_]A\A]A^
+L$(t
+0[^_]A\A]A^
+v2<Xt2E
+WVSH
+ [^_
+L$(I
+D$(H
+T$HL
+D$PH
+D$HH
+L$(L
+L$XH
+D$(H
+UWVSH
+T$hL
+D$pL
+L$hH
+\$(H
+t$(H
+T$hH
+\$(H
+\$(H
+8[^_]
+AWAVAUATUWVSH
+)t$@H
+D$8H
+(t$@H
+X[^_]A\A]A^A_
+D$8H
+}YL)
+D$8L
+l$8L
+)t$0H
+T$ H
+D$ f
+(t$0H
+T$(H
+D$ H
+T$(H9
+(t$0H
+(t$0H
+ATUWVSH
+)t$@H
+8%t0L
+(t$@H
+P[^_]A\
+D$8t<L
+D$8A
+.~'H
+L$,1
+ATUWVSH
+p[^_]A\
+\$0H
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ATUWVSH
+ [^_]A\
+ [^_]A\
+UWVSH
+([^_]
+([^_]
+UWVSH
+([^_]
+([^_]
+([^_]
+WVSH
+vusA
+ [^_
+w&E1
+ [^_
+WVSH
+T$ I
+\uzA
+AWAVAUATUWVSH
+D;d$,I
+8[^_]A\A]A^A_
+AUATUWVSH
+D$ 1
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+[^_]A\A]
+WVSH
+ [^_
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+AUATUWVSH
+T$xL
+L$xH
+l$xH
+D$(H
+d$(H
+\$(H
+T$xH
+d$(H
+\$(H
+8[^_]A\A]
+WVSH
+t-H9
+wAH)
+t4E1
+ [^_
+ [^_
+ [^_
+ [^_
+WVSH
+t:L9
+u+E1
+ [^_
+ [^_
+ [^_
+WVSH
+rHI)
+u$E1
+ [^_
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+ [^_
+A8	u
+t0H9Q
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+8[^_]A\A]
+T$(H
+8[^_]A\A]
+,)wRE1
+r*L9
+t]H9
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+x)H;S
+WVSH
+w/L9
+ [^_
+ [^_
+ [^_
+AWAVAUATUWVSH
+8[^_]A\A]A^A_
+AUATUWVSH
+([^_]A\A]
+t3Mc
+([^_]A\A]
+([^_]A\A]
+ATUWVSH
+0[^_]A\
+0[^_]A\
+,1I9
+0[^_]A\
+,1I9
+L$(L)
+0[^_]A\
+D$(I
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+WVSH
+x5Hc
+T$(Mc
+0[^_
+0[^_
+0[^_
+D$(H
+D$`L
+D$`H
+D$PL
+D$PL
+L$XL
+UWVSH
+t$0H
+|$(A
+D$@H
+D$(H
+D$DH
+D$(H
+D$HH
+D$(H
+D$LH
+D$(H
+X[^_]
+AUATUWVSH
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+([^_]A\A]
+AWAVAUATUWVSH
+T$@H
+X[^_]A\A]A^A_
+X[^_]A\A]A^A_
+D$81
+T$@M
+t$(L
+L$8H
+X[^_]A\A]A^A_
+L$8H
+D$HH
+T$ H
+9/t"L
+D$ E1
+AVAUATUWVSH
+t7E1
+D$8D
+D;d$4I
+P[^_]A\A]A^
+P[^_]A\A]A^
+P[^_]A\A]A^
+AWAVAUATUWVSH
+T$xA
+T$tD
+T$lA
+T$hA
+|$|L
+\$XL
+L$XI
+[^_]A\A]A^A_
+\$@L
+AWAVAUATUWVSH
+X[^_]A\A]A^A_
+AUATUWVSH
+T$0H
+[^_]A\A]
+D$8H
+D$8H
+D$PA
+D$8H
+D$8H
+D$PA
+T$XH
+T$XL
+D$`L
+L$hH
+UWVSH
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+D$8u
+L$8H
+D$HH
+l$X1
+D$HH
+D$4M
+D$8H
+D$4H
+[^_]A\A]A^A_
+D$@H
+AVAUATUWVSH
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+ATUWVSH
+|$`L
+L$@M
+D$HH
+t$PH
+l$8H
+|$(H
+D$0H
+UWVSH
+D$ A
+UWVSH
+<xtW<ft
+D$ I
+|$PH
+D$@L
+D$PH
+l$>L
+l$>L
+T$0L
+|$PH
+D$@L
+D$PH
+l$>L
+D$0I1
+l$>L
+T$0I1
+AWAVAUATUWVSH
+t$ M
+AVAUATUWVSH
+WVSH
+ [^_
+UWVSH
+T$pH
+([^_]
+([^_]
+D$8M
+D$(H
+D$8L
+L$(M
+D$(H
+@HcA
+L$(H
+ATUWVSH
+P[^_]A\
+D$4)
+D$0A
+<Ttf
+P[^_]A\
+P[^_]A\
+L$(A)
+<,usH
+gfff
+L$4I
+D$0H
+L$ H
+D$$H
+w_Hc
+L$HH
+D$0D
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+t[Hc
+WVSH
+ [^_
+'~41
+AWAVAUATUWVSH
+D$8L
+t$@I
+L$8H
+D$(M
+t$8H
+[^_]A\A]A^A_
+'uO1
+t$8H
+t$8H
+D$ t>1
+H;|$ u
+L$(H
+L$(H
+t$8H
+L$(1
+'tKH
+AWAVAUATUWVSH
+D$ f
+H;t$ 
+H;t$ 
+H[^_]A\A]A^A_
+'uT1
+T$8A
+L$,H
+T$0L
+L$,u
+H;l$ 
+L$,H
+L$,Hc
+tL9J
+tG9J
+'~>f=
+'~.-
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ATUWVSH
+ [^_]A\
+ [^_]A\
+AUATUWVSH
+x	I9
+t[D9
+([^_]A\A]
+([^_]A\A]
+zzzZv
+tBH9
+	~oA
+WVSH
+ [^_
+WVSH
+\$ H
+0[^_
+WVSH
+\$ H
+0[^_
+WVSH
+@u0A
+ [^_
+ [^_
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+AVAUATUWVSH
+ [^_]A\A]A^
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+vcE1
+t,M)
+t1H)
+UWVSH
+8[^_]
+L$(H
+L$(H9
+v]E1
+t5H)
+8[^_]
+8[^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+ATUWVSH
+ [^_]A\
+AVAUATUWVSH
+l$8u1
+t0Lc
+\$8H)
+@[^_]A\A]A^
+@[^_]A\A]A^
+t\D9
+t"Hc
+UWVSH
+[^_]
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+\$XA
+l$HI
+L$0H
+L$@H
+L$XH
+L$ H
+D$ H
+D$(L
+|$XH
+x	L9
+D$0I
+D$8L
+h[^_]A\A]A^A_
+D$@I
+D$8H
+L$(D
+T$ L
+L$(u
+tGD9
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+\$0L
+D$(H
+D$(t 1
+H[^_]A\A]
+H[^_]A\A]
+D$(1
+D$(H
+H[^_]A\A]
+AVAUATUWVSH
+[^_]A\A]A^
+|$01
+t$@H
+L$8H
+WVSH
+t$8E1
+L$8H
+L$8H
+@[^_
+D$(H
+T$0A
+D$8H
+D$(H
+\$0H
+tQE1
+t$<H
+D$<d
+\$0H
+tFE1
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+\$01
+WVSH
+@t4H
+ [^_
+ATUWVSH
+0[^_]A\
+D$(t
+T$(A
+D$(t
+T$(A
+l$(t
+T$(A
+D$(t
+T$(A
+D$(t
+T$(A
+WVSH
+ [^_
+T$HH
+T$HL
+D$PL
+L$XH
+D$PL
+D$PL
+L$XL
+D$PL
+D$PL
+L$XL
+L$XL
+L$XL
+([^H
+WVSH
+ [^_
+D$(H
+D$(H
+UWVSH
+([^_]
+([^_]
+([^H
+WVSH
+t#f.
+ [^_H
+t1E1
+AUATUWVSH
+([^_]A\A]
+WVSH
+0[^_
+0[^_
+WVSH
+ [^_H
+WVSH
+ [^_H
+D$0H
+T$8H
+UWVSH
+D$<1
+D$(L
+H[^_]
+D$0H
+T$8H
+AWAVAUATUWVSH
+T$(H
+|$ H
+L$0L
+D$8H
+H[^_]A\A]A^A_H
+ATUWVSH
+ [^_]A\H
+ [^_]A\
+UWVSH
+l$@A
+t~E1
+X[^_]
+X[^_]
+D$HA
+L$HH
+L$H~
+t0E1
+L$HH
+WVSH
+t$0H
+tcE1
+WVSH
+0[^_
+0[^_
+WVSH
+|$0A
+D$(M
+D$(I
+D$(H
+D$PL
+D$PL
+L$XL
+T$HH
+T$HL
+D$PL
+L$XH
+D$(M
+D$(H
+D$(H
+D$PL
+D$PL
+L$XL
+WVSH
+T$(H
+D$(H
+0[^_
+D$(H
+L$XL
+L$XL
+D$(H
+D$(H
+UAWAVAUATWVSH
+D$0H
+FD<%
+HcVH
+LcF(E
+F8L9
+Lc^@E
+^ L9
+t$I)
+^8L9
+t$I)
+HcF(
+HcF@
+HcFHH
+D$ D
+HcFHH
+D$ D
+E0I9
+F8L9
+HcFHH
+HcFHH
+HcFHH
+HcFHH
+D$ H
+HcFHH
+HcFHH
+HcFHH
+HcFHH
+HcFHH
+[^_A\A]A^A_]
+WVSH
+ [^_
+ [^_
+WVSH
+L$,D
+0[^_
+0[^_
+0[^_
+WVSH
+ [^_
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+ [^_
+UWVSH
+([^_]
+([^_]
+([^_]
+ATUWVSH
+<"A9
+ [^_]A\
+ [^_]A\
+ [^_]A\
+ [^_]A\
+D$ H
+D$(H
+D$(H
+D$(H
+UWVSH
+([^_]
+([^_]
+([^_]
+UWVSH
+([^_]
+([^_]
+([^_]
+ATUWVSH
+ [^_]A\
+ [^_]A\
+D$ H
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+ [^_
+UWVSH
+([^_]
+WVSH
+D$(H
+0[^_
+0[^_
+0[^_
+0[^_
+WVSH
+ [^_
+ [^_
+ [^_
+ [^_
+T$(H
+AWAVAUATUWVSH
+L$8H
+H[^_]A\A]A^A_
+H[^_]A\A]A^A_
+H[^_]A\A]A^A_
+AUATUWVSH
+([^_]A\A]
+UWVSH
+([^_]
+UWVSH
+([^_]
+([^_]
+UWVSH
+t$@H
+L$<D
+L$(I
+D$<D;
+;D$<
+X[^_]
+X[^_]
+AWAVAUATUWVSH
+t$`I
+L$\D
+l$XL
+|$ L
+L$XM
+u*D;l$Xu#
+W(fA9
+x[^_]A\A]A^A_
+\$LM
+L$@L
+D$8H
+AWAVAUATUWVSH
+D$8H
+|$@H
+D$(H
+|$ D
+L$<L
+d$8D;
+u	fA
+4+A9
+X[^_]A\A]A^A_
+Hc5q
+WVSH
+tD=5
+L$(E
+|$ M
+P[^_
+P[^_
+UWVSH
+([^_]
+([^_]
+AWAVAUATUWVSH
+D$8H9
+H9D$8| H9
+H[^_]A\A]A^A_
+}w-A
+>v.A
+_<]w
+_<>w
+UWVSH
+D$<H
+l$ L
+L$<I
+D$<9
+H[^_]
+H[^_]
+ATUWVSH
+D$(L
+d$ A
+0[^_]A\
+\$ H
+ </t
+mlang.dlH
+ATUWVSH
+ [^_]A\
+ [^_]A\
+ATUWVSH
+d$pL
+ [^_]A\
+ [^_]A\
+AWAVAUATUWVSH
+l$0I
+T$,A
+T$ A
+L$0H
+[^_]A\A]A^A_
+T$,E1
+L$,1
+D$Pf
+AWAVAUATUWVSH
+l$`H
+D$8H
+D$\H
+D$@M
+D$HH
+D$@H
+D$ A
+W(Hc
+[^_]A\A]A^A_
+t	9H
+D$`A
+D$bA
+D$ A
+D$`f
+t0f=
+D$`A
+T$Lt
+D$HA
+T$bf
+D$bf
+UWVSH
+t$ H
+D$ H
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+D$(H
+D$0H
+D$8H
+D$@H
+D$HH
+D$PH
+h[^_]
+h[^_]
+h[^_]
+UWVSH
+([^_]
+([^_]
+WVSH
+ [^_
+WVSH
+D$pH
+D$ H
+0[^_
+AVAUATUWVSH
+D$(t
+0[^_]A\A]A^
+D$(H
+0[^_]A\A]A^
+d$(H
+D$(u
+D$(H
+0[^_]A\A]A^
+AVAUATUWVSH
+D$HL
+L$@L
+D$ H
+[^_]A\A]A^
+l$(H
+l$ A
+l$(H
+l$ E1
+AWAVAUATUWVSH
+l$@H
+|$PH
+t$XL
+d$HL
+l$PL
+l$XH
+D$HI
+D$@H
+t$ I
+t$ I
+D$HH+
+D$@H
+h[^_]A\A]A^A_
+\$ A
+d$0L
+D$@L
+D$0M)
+D$8I
+D$@H
+D$0H
+L$HH+
+UWVSH
+|$(H
+8[^_]
+8[^_]
+8[^_]
+8[^_]
+8[^_]
+AWAVAUATUWVSH
+d$ I
+D$0H
+d$ I
+D$0H
+D$PH
+t$pL
+d$xH
+D$xH
+D$HH
+D$pH
+l$ M
+\$xH
+D$pH
+D$pH+D$HH
+D$Ht&H
+[^_]A\A]A^A_
+d$XL
+D$pH
+L$HH
+D$XI)
+D$hH
+D$HJ
+D$pH
+D$XH
+t$`H
+|$(A
+L$xH
+D$`tBH
+D$`H
+D$xH
+L$xH
+UWVSH
+L$HH
+L$HL
+D$0H
+l$(H
+|$ H
+X[^_]
+D$ I
+X[^_]
+UWVSH
+L$HH
+D$HL
+D$0H
+l$(H
+|$ H
+X[^_]
+D$ I
+X[^_]
+AUATUWVSH
+8[^_]A\A]
+8[^_]A\A]
+l$ A
+l$ L
+l$ A
+l$ A
+UWVSH
+t=E1
+8[^_]
+8[^_]
+t$ A
+UWVSH
+s3H9
+t!Hc
+D$(H
+8[^_]
+WVSH
+t&Hc
+t	H;;
+ [^_
+ [^_
+t&Hc
+AVAUATUWVSH
+ [^_]A\A]A^
+HD;(tCH
+ [^_]A\A]A^
+ [^_]A\A]A^H
+D;(u
+ [^_]A\A]A^
+WVSH
+;8tSH
+ [^_
+ [^_
+F;0tBH
+AVAUATUWVSH
+RC9T
+ [^_]A\A]A^
+ [^_]A\A]A^
+ [^_]A\A]A^
+UWVSH
+H;3t
+([^_]
+([^_]
+([^_]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+;0taH
+([^_]A\A]A^A_
+([^_]A\A]A^A_
+UWVSH
+8[^_]
+8[^_]
+WVSH
+0[^_
+0[^_
+UWVSH
+([^_]
+([^_]
+UWVSH
+8[^_]
+WVSH
+0[^_
+WVSH
+ [^_
+ATUWVSH
+0[^_]A\
+L$XtB
+L$XL
+WVSH
+0[^_
+D$(H
+0[^_
+0[^_
+L$`H
+D$PL
+L$Xt
+D$PL
+D$(H
+L$hL
+D$hH
+D$(H
+WVSH
+ [^_
+ [^_
+UWVSH
+L$ L
+[^_]
+UAVAUATWVSH
+L$ L
+[^_A\A]A^]
+WVSH
+ [^_
+AVAUATUWVSH
+$<_u
+ [^_]A\A]A^
+ [^_]A\A]A^
+AWAVAUATUWVSH
+T$,D
+8[^_]A\A]A^A_
+AWAVAUATUWVSH
+D$8H
+T$(I
+L$0N
+|$(H
+D$8H
+D$0H
+L$(I)
+H[^_]A\A]A^A_
+H[^_]A\A]A^A_
+|$(u"
+|$(u-
+|$(u'
+\$ A
+\$ ~0L
+UAWAVAUATWVSH
+D$ H
+L;m8u
+[^_A\A]A^A_]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+T$0H
+)t$ 
+)|$0H
+(t$ 
+(|$0H
+UWVSH
+8[^_]
+8[^_]
+8[^_]
+)t$ 
+)|$0f
+(|$0
+(t$ H
+)t$ H
+(t$ H
+)t$ 
+)|$0H
+(|$0f
+(t$ H
+WVSH
+ [^_
+t4f.
+AWAVAUATUWVSH
+H[^_]A\A]A^A_
+6t*I
+oHA9
+0<	v
+0<	w
+0<	v
+D$$D9
+T$<D
+D$8L
+L$0H
+D$(H
+\$(L
+L$0D
+D$8D
+\$<D
+T$8D
+D$0L
+L$(H
+L$(D
+D$0D
+T$8D
+\$<H
+\$<D
+T$8D
+D$0L
+L$(H
+L$(D
+D$0D
+T$8D
+\$<H
+\$<D
+T$8D
+D$0L
+L$(H
+L$(D
+D$0D
+T$8D
+\$<H
+\$<D
+T$8D
+D$0L
+\$<D
+T$8D
+D$0L
+\$<D
+T$8D
+D$0L
+H;3u
+UWVSH
+([^_]
+UWVSH
+;r	H
+([^_]
+([^_]
+D$ tv
+T$ L
+D$(H
+L$ H
+L$(H
+ATUWVSH
+@[^_]A\
+L3d$0
+@[^_]A\
+UVSH
+D$0H
+D$(H
+L$ H
+L$ H
+)t$@
+)|$PD
+)D$`
+D$0H
+|$(I
+(t$@1
+(|$PD
+(D$`H
+D$XH
+T$XL
+D$`L
+L$hH
+AUATUWVSH
+XHc-
+T$ I
+T$8H
+X[^_]A\A]
+UAVAUATWVSH
+[^_A\A]A^]
+D$ H
+ATUWVSH
+ [^_]A\
+ t5H
+CCG 
+t2w==
+t;ww=
+UWVSH
+([^_]H
+WVSH
+ [^_
+ [^_
+HcA<H
+9MZt	1
+HcA<H
+WVSH
+;MZt
+ [^_
+ [^_
+HcS<H
+ [^_
+;MZt
+;MZt
+HcC<
+WVSH
+>MZt
+ [^_
+HcF<H
+B' t	H
+ [^_
+ [^_
+>MZt
+;MZt
+UWVSH
+?MZt
+([^_]
+HcG<
+([^_]
+([^_]
+QPH=
+D$PL
+L$LH
+D$8H
+T$PH
+T$PH
+WVSH
+|$ H
+UWVSH
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+D$ H
+D$(H
+D$0H
+D$8H
+[^_]
+|`t.H
+D$$f
+D$&f
+D$(f
+D$*f
+D$,f
+D$@H
+D$HH
+D$PH
+(HcA
+AWAVAUATUWVSH
+T$<L
+T$<A)
+T$8H
+T$8H
+D$<A)
+H[^_]A\A]A^A_
+T$8H
+D$<H
+T$8H
+T$<H
+T$<H
+AWAVAUATUWVSH
+D$@H
+[^_]A\A]A^A_
+0u%H
+D$PL
+T$HI
+	w:M
+\$\G
+\$HD
+\$\L
+D$HL+D$PI
+T$DE
+L$XE)
+|$lt
+|$lt
+D$lf
+|$@5
+HcL$h
+	w4E
++D$@
+9D$P
+t$ A
+D$pH
+T$Hu
+9D$@
+L$DH
+L$P9
+t$`E
+9D$Hu1
+d$DE
+t$pA
+T$xL
+D$\D
++\$@)
+9\$P~
++\$P
+D$`H
+L$DE
+9D$@
+t$\)
+T$P9
+D$@~:E
+D$@1
+~"Hc
+|$@H
+D$XL
+l$@)
+L$h)
+9T$P
+D$@H
+T$XE
+\$XE
+\$DE
+T$PA
+D$PA
+T$DE
+T$@9T$H
+9T$P
+AUATUWVSH
+([^_]A\A]
+AWAVAUATUWVSH
+([^_]A\A]A^A_
+B:T 
+UWVSH
+[^_]
+[^_]
+AWAVAUATUWVSH
+D$<H
+T$0H
+D$(M
+D$(M9
+H[^_]A\A]A^A_
+D$0H
+D$0H
++L$<H
+([^H
+WVSH
+ [^_
+UWVSH
+([^_]
+AVAUATUWVSH
+ Lci
+4+A;t$
+ [^_]A\A]A^
+UWVSH
+([^_]
+([^_]
+AUATUWVSH
+([^_]A\A]
+WVSH
+ [^_
+ [^_
+WVSH
+ [^_
+ [^_
+AUATUWVSH
+([^_]A\A]
+WVSH
+)t$@H
+T$8H
+T$<H
+D$8+D$<fH
+~>fH
+(t$@H
+P[^_
+uFI9
+AWAVAUATUWVSH
+L$HL
+X[^_]A\A]A^A_
+D$HH
+t$ L
+|$(L
+t$ H
+L$8H
+L$8H
+L$hH
+L$hH
+D$ H
+D$X 
+D$h@
+D$0H
+D$@H
+D$PH
+D$`H
+T$ A
+D$ H
+D$0H
+T$ A
+Unspecified fatal error encountered, aborting.
+ %s:
+Cannot open directory '%s' in package search path: %s
+Scanning directory '%s'
+File '%s' appears to be a .pc file
+File '%s' ignored, we already know about package '%s'
+Will find package '%s' in file '%s'
+Ignoring '%s' while looking for '%s'; not a regular file.
+Ignoring file '%s' in search directory; not a .pc file
+Package %s already in requires chain, skipping
+ pre-remove
+Removing duplicate package %s
+post-remove
+original
+  sorted
+ removing duplicate "%s"
+Adding directory '%s' from PKG_CONFIG_PATH
+-uninstalled
+pkg-config
+0.28
+pkg-config is a system for managing compile/link flags for libraries
+http://pkg-config.freedesktop.org/
+pc_path
+Adding virtual 'pkg-config' package to list of known packages
+adding CFLAGS_OTHER string "%s"
+adding CFLAGS_I string "%s"
+adding LIBS_L string "%s"
+adding LIBS_OTHER | LIBS_l string "%s"
+returning flags string "%s"
+Variable '%s' defined twice globally
+Global variable definition '%s' = '%s'
+pcfiledir
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/pkg.c
+(any)
+/usr/include
+/usr/lib:/lib
+Looking for package '%s'
+Considering '%s' to be a filename rather than a package name
+Preferring uninstalled version of package '%s'
+Package %s was not found in the pkg-config search path.
+Perhaps you should add the directory containing `%s.pc'
+to the PKG_CONFIG_PATH environment variable
+Reading '%s' from file '%s'
+Failed to parse '%s'
+uninstalled.pc
+Path position of '%s' is %d
+Adding '%s' to list of known packages
+Searching for '%s' requirement '%s'
+Package '%s', required by '%s', not found
+Searching for '%s' private requirement '%s'
+Internal pkg-config error, package with no key, please file a bug report
+Package '%s' has no Name: field
+Package '%s' has no Version: field
+Package '%s' has no Description: field
+Package '%s' requires '%s %s %s' but version of %s is %s
+You may find new versions of %s at %s
+Version %s of %s creates a conflict.
+(%s %s %s conflicts with %s %s)
+PKG_CONFIG_SYSTEM_INCLUDE_PATH
+C_INCLUDE_PATH
+CPLUS_INCLUDE_PATH
+PKG_CONFIG_SYSTEM_LIBRARY_PATH
+Package %s has %s in Cflags
+PKG_CONFIG_ALLOW_SYSTEM_CFLAGS
+Removing %s from cflags for %s
+Removing -L %s from libs for %s
+end >= start
+Package %s has -L %s in Libs
+PKG_CONFIG_ALLOW_SYSTEM_LIBS
+%s%s%s - %s
+comparison_to_str
+version_test
+internal_get_package
+str != NULL
+/libpath:
+.lib
+-lib:
+-framework
+Variable '%s' not defined in '%s'
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/parse.c
+Empty package name in Requires or Conflicts in file '%s'
+Unknown version comparison operator '%s' after package name '%s' in file '%s'
+Comparison operator but no version after package name '%s' in file '%s'
+ver->name
+unknown
+Failed to open '%s': %s
+Parsing package file '%s'
+No pcfiledir determined for package
+???????
+  line>%s
+Name
+Name field occurs twice in '%s'
+Description
+Description field occurs twice in '%s'
+Version
+Version field occurs twice in '%s'
+Requires.private
+Requires.private field occurs twice in '%s'
+Requires
+Requires field occurs twice in '%s'
+Libs.private
+Libs.private field occurs twice in '%s'
+Couldn't parse Libs.private field into an argument vector: %s
+Libs
+Libs field occurs twice in '%s'
+Couldn't parse Libs field into an argument vector: %s
+Cflags
+CFlags
+Cflags field occurs twice in '%s'
+Couldn't parse Cflags field into an argument vector: %s
+-idirafter
+Conflicts
+Conflicts field occurs twice in '%s'
+URL field occurs twice in '%s'
+Unknown keyword '%s' in '%s'
+\lib\pkgconfig
+\share\pkgconfig
+ Variable declaration, '%s' overridden with '%s'
+Duplicate definition of variable '%s' in '%s'
+ Variable declaration, '%s' has value '%s'
+Package file '%s' appears to be empty
+trim_string
+split_module_list
+parse_module_list
+prefix
+--define-variable argument does not have a value for the variable
+--libs
+--libs-only-l
+--libs-only-other
+--libs-only-L
+--cflags
+--cflags-only-I
+--cflags-only-other
+--print-requires-private
+--print-requires
+--atleast-version
+--exact-version
+--max-version
+Ignoring incompatible output option "%s"
+--version
+--modversion
+--variable
+--exists
+--print-variables
+--uninstalled
+--list-all
+--print-provides
+format != NULL
+(null)
+PKG_CONFIG_DEBUG_SPEW
+PKG_CONFIG_DEBUG_SPEW variable enabling debug spew
+g_win32_get_package_installation_directory_of_module failed
+pkgconfig
+share
+Failed to get default search path
+PKG_CONFIG_PATH
+PKG_CONFIG_LIBDIR
+PKG_CONFIG_SYSROOT_DIR
+pc_sysrootdir
+PKG_CONFIG_TOP_BUILD_DIR
+pc_top_builddir
+$(top_builddir)
+PKG_CONFIG_DISABLE_UNINSTALLED
+disabling auto-preference for uninstalled packages
+no output option set, defaulting to --exists
+Error printing enabled by default due to use of output options besides --exists or --atleast/exact/max-version. Value of --silence-errors: %d
+Error printing disabled by default due to use of output options --exists, --atleast/exact/max-version or no output option at all. Value of --print-errors: %d
+Error printing enabled
+Error printing disabled
+0.28
+PKG_CONFIG_LOG
+Cannot open log file: %s
+(command line arguments)
+Must specify package names on the command line
+%s NOT-FOUND
+%s %s %s
+No package '%s' found
+Requested '%s %s %s' but version of %s is %s
+You may find new versions of %s at %s
+%s = %s
+verbose_error
+debug_spew
+version
+output version of pkg-config
+modversion
+output version for package
+atleast-pkgconfig-version
+require given version of pkg-config
+VERSION
+libs
+output all linker flags
+static
+output linker flags for static linking
+short-errors
+print short errors
+libs-only-l
+output -l flags
+libs-only-other
+output other libs (e.g. -pthread)
+libs-only-L
+output -L flags
+cflags
+output all pre-processor and compiler flags
+cflags-only-I
+output -I flags
+cflags-only-other
+output cflags not covered by the cflags-only-I option
+variable
+get the value of variable named NAME
+NAME
+define-variable
+set variable NAME to VALUE
+NAME=VALUE
+exists
+return 0 if the module(s) exist
+print-variables
+output list of variables defined by the module
+uninstalled
+return 0 if the uninstalled version of one or more module(s) or their dependencies will be used
+atleast-version
+return 0 if the module is at least version VERSION
+exact-version
+return 0 if the module is at exactly version VERSION
+max-version
+return 0 if the module is at no newer than version VERSION
+list-all
+list all known packages
+debug
+show verbose debug information
+print-errors
+show verbose information about missing or conflicting packages (default unless --exists or --atleast/exact/max-version given on the command line)
+silence-errors
+be silent about errors (default when --exists or --atleast/exact/max-version given on the command line)
+errors-to-stdout
+print errors from --print-errors to stdout not stderr
+print-provides
+print which packages the package provides
+print-requires
+print which packages the package requires
+print-requires-private
+print which packages the package requires for static linking
+dont-define-prefix
+don't try to override the value of prefix for each .pc file found with a guesstimated value based on the location of the .pc file
+prefix-variable
+set the name of the variable that pkg-config automatically sets
+PREFIX
+msvc-syntax
+output -l and -L flags for the Microsoft compiler (cl)
+variable != NULL
+GLib
+%s=%s
+strchr (variable, '=') == NULL
+g_utf8_validate (variable, -1, NULL)
+g_utf8_validate (value, -1, NULL)
+g_unsetenv_utf8
+g_setenv_utf8
+g_getenv_utf8
+g_environ_unsetenv
+g_environ_setenv
+g_environ_getenv
+g-file-error-quark
+Could not allocate %lu bytes to read file "%s"
+Error reading file '%s': %s
+File "%s" is too large
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gfileutils.c
+GLib
+f != NULL
+XXXXXX
+tmpl != NULL
+.XXXXXX
+Template '%s' invalid, should not contain a '%s'
+Template '%s' doesn't contain XXXXXX
+Failed to create file '%s': %s
+Failed to rename file '%s' to '%s': g_rename() failed: %s
+.exe
+.cmd
+.bat
+.com
+PATHEXT
+Failed to open file '%s': %s
+filename != NULL
+contents != NULL
+%s.XXXXXX
+Failed to open file '%s' for writing: fdopen() failed: %s
+Failed to write file '%s': fwrite() failed: %s
+Failed to write file '%s': fflush() failed: %s
+Failed to close file '%s': fclose() failed: %s
+Existing file '%s' could not be removed: g_unlink() failed: %s
+error == NULL || *error == NULL
+contents != NULL || length == 0
+length >= -1
+separator != NULL
+Symbolic links not supported
+file_name != NULL
+g_path_get_dirname
+g_path_get_basename
+g_basename
+g_path_skip_root
+g_path_is_absolute
+g_build_path
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+get_tmp_file
+g_file_set_contents
+get_contents_stdio
+g_file_get_contents_utf8
+ri != NULL
+GLib
+ri->version == ri->hash_table->version
+ri->position >= 0
+ri->position < ri->hash_table->size
+version == hash_table->version
+hash_table != NULL
+iter != NULL
+func != NULL
+predicate != NULL
+g_hash_table_get_values
+g_hash_table_get_keys
+g_hash_table_size
+g_hash_table_find
+g_hash_table_foreach
+g_hash_table_foreach_steal
+g_hash_table_foreach_remove_or_steal
+g_hash_table_foreach_remove
+g_hash_table_steal_all
+g_hash_table_remove_all
+g_hash_table_remove_internal
+g_hash_table_contains
+g_hash_table_insert_internal
+g_hash_table_lookup_extended
+g_hash_table_lookup
+g_hash_table_destroy
+g_hash_table_unref
+g_hash_table_ref
+g_hash_table_iter_replace
+iter_remove_or_steal
+g_hash_table_iter_get_hash_table
+g_hash_table_iter_next
+g_hash_table_iter_init
+func != NULL
+GLib
+sibling == NULL
+sibling == list
+g_list_insert_sorted_real
+g_list_find_custom
+g_list_insert_before
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmain.c:1641: ref_count == 0, but source was still attached to a context!
+GLib
+source != NULL
+!SOURCE_BLOCKED (source)
+SOURCE_BLOCKED (source)
+!SOURCE_DESTROYED (source)
+Child watch source dispatched without callback
+You must call g_source_set_callback().
+Idle source dispatched without callback
+You must call g_source_set_callback().
+DBUS_SESSION_BUS_ADDRESS
+HOSTNAME
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmain.c:4195: GetExitCodeProcess() failed: %s
+context != NULL
+g_atomic_int_get (&context->ref_count) > 0
+created context=%p
+G_MAIN_POLL_DEBUG
+default context=%p
+source_funcs != NULL
+struct_size >= sizeof (GSource)
+source->context == NULL
+source->context != NULL
+fd != NULL
+child_source != NULL
+child_source->priv != NULL && child_source->priv->parent_source == source
+!SOURCE_DESTROYED (child_source)
+callback_funcs != NULL || callback_data == NULL
+source->ref_count > 0
+funcs != NULL
+child_source->context == NULL
+child_source->priv == NULL || child_source->priv->parent_source == NULL
+source_id > 0
+tag > 0
+result != NULL
+KERNEL32.DLL
+GetTickCount64
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmain.c
+context->owner_count == 0
+acquired_context
+stack != NULL
+g_queue_peek_head (stack) == context
+g_main_context_prepare() called recursively from within a source's check() or prepare() member.
+g_main_context_check() called recursively from within a source's check() or prepare() member.
+source
+current->dispatching_sources == &current_source_link
+source->context == context
+polling context=%p n=%d timeout=%d
+g_main_poll(%d) timeout: %d - elapsed %12.10f seconds
+ [%#I64x :
+loop != NULL
+g_atomic_int_get (&loop->ref_count) > 0
+g_main_loop_run(): called recursively from within a source's check() or prepare() member, iteration not possible.
+Timeout source dispatched without callback
+You must call g_source_set_callback().
+function != NULL
+gmain
+g_main_context_invoke_full
+g_idle_add_full
+g_child_watch_add_full
+g_timeout_add_seconds
+g_timeout_add_seconds_full
+g_timeout_add_full
+g_main_context_wakeup
+g_main_context_get_poll_func
+g_main_context_set_poll_func
+g_source_get_time
+g_main_context_remove_poll
+g_main_context_add_poll
+g_main_loop_get_context
+g_main_loop_is_running
+g_main_loop_quit
+g_main_loop_run
+g_main_loop_unref
+g_main_loop_ref
+unblock_source
+block_source
+g_main_dispatch
+g_main_context_wait
+g_main_context_acquire
+g_get_current_time
+g_source_remove_by_funcs_user_data
+g_source_remove
+g_main_context_find_source_by_funcs_user_data
+g_main_context_find_source_by_id
+g_source_unref
+g_source_ref
+g_source_set_name_by_id
+g_source_get_name
+g_source_set_name
+g_source_get_can_recurse
+g_source_set_can_recurse
+g_source_get_priority
+g_source_set_priority
+g_source_set_funcs
+g_source_set_callback
+g_source_set_callback_indirect
+g_source_remove_child_source
+g_source_add_child_source
+g_source_remove_poll
+g_source_add_poll
+g_source_get_context
+g_source_get_id
+g_source_destroy
+g_source_attach
+g_source_new
+g_main_context_pop_thread_default
+g_main_context_push_thread_default
+g_source_unref_internal
+g_main_context_unref
+g_main_context_ref
+realloc(%p, %I64u): memory has been freed %I64u times already
+GLib
+free(%p): memory has been freed %I64u times already
+ blocks of | allocated  | freed      | allocated  | freed      | n_bytes   
+  n_bytes  | n_times by | n_times by | n_times by | n_times by | remaining 
+           | malloc()   | free()     | realloc()  | realloc()  |           
+===========|============|============|============|============|===========
+%10u | %10ld | %10ld | %10ld | %10ld |%+11ld
+   >%6u | %10ld | %10ld | %10ld | %10ld |        ***
+ --- none ---
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:165
+%s: failed to allocate %I64u bytes
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:195
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:230
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:358
+%s: overflow allocating %I64u*%I64u bytes
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:382
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:408
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:543: memory allocation vtable lacks one of malloc(), realloc() or free()
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmem.c:546: memory allocation vtable can only be set once at startup
+GLib Memory statistics (successful operations):
+GLib Memory statistics (failing operations):
+Total bytes: allocated=%I64u, zero-initialized=%I64u (%.2f%%), freed=%I64u (%.2f%%), remaining=%I64u
+Y@(NULL) message
+[Invalid UTF-8] 
+\x%02x
+UTF-8
+GLib: Cannot convert message: %s
+G_MESSAGES_DEBUG
+(process:%lu): 
+(%s:%lu): 
+\u%04x
+%s: assertion `%s' failed
+GLib
+(log_levels & G_LOG_LEVEL_MASK) != 0
+log_func != NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gmessages.c:641
+%s: could not find handler with id `%d' for domain "%s"
+handler_id > 0
+ runtime check failed: (
+code should not be reached
+file %s: line %d (%s): assertion failed: (%s)
+file %s: line %d (%s): should not be reached
+format != NULL
+g_printerr
+g_print
+g_log_remove_handler
+g_log_set_handler
+group != NULL
+GLib
+p != NULL
+  -%c, --%s
+  --%s
+%s%*s %s
+g-option-context-error-quark
+Cannot parse integer value '%s' for %s
+Integer value '%s' for %s out of range
+Error parsing option %s
+Cannot parse double value '%s' for %s
+Double value '%s' for %s out of range
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/goption.c
+value || OPTIONAL_ARG (entry) || NO_ARG (entry)
+Missing argument for %s
+context != NULL
+A group named "%s" is already part of this GOptionContext
+group->name != NULL
+group->description != NULL
+group->help_description != NULL
+This GOptionContext already has a main group
+Usage:
+  %s %s
+[OPTION...]
+-?, --help
+%s-%s
+--help-all
+--help-
+Help Options:
+  -%c, --%-*s %s
+Show help options
+help
+help-all
+  --%-*s %s
+Show all help options
+  --help-%-*s %s
+Application Options:
+<unknown>
+help-
+Unknown option %s
+group->entries[j].arg == G_OPTION_ARG_CALLBACK || group->entries[j].arg == G_OPTION_ARG_STRING_ARRAY || group->entries[j].arg == G_OPTION_ARG_FILENAME_ARRAY
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/goption.c:2162: ignoring invalid short option '%c' (%d) in entry %s:%s
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/goption.c:2170: ignoring reverse flag on option of arg-type %d in entry %s:%s
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/goption.c:2179: ignoring no-arg, optional-arg or filename flags (%d) on option of arg-type %d in entry %s:%s
+entries != NULL
+g_option_context_get_description
+g_option_context_set_description
+g_option_context_get_summary
+g_option_context_set_summary
+g_option_context_set_translation_domain
+g_option_context_set_translate_func
+g_option_group_set_translation_domain
+g_option_group_set_translate_func
+g_option_group_set_error_hook
+g_option_group_set_parse_hooks
+g_option_group_add_entries
+g_option_group_free
+parse_remaining_arg
+parse_arg
+_g_utf8_strwidth
+g_option_context_add_main_entries
+g_option_context_get_main_group
+g_option_context_set_main_group
+g_option_context_add_group
+g_option_context_get_ignore_unknown_options
+g_option_context_set_ignore_unknown_options
+g_option_context_get_help_enabled
+g_option_context_set_help_enabled
+free_changes_list
+g_option_context_free
+ (msg)
+ (WAIT_TIMEOUT)
+ (WAIT_FAILED)
+  MsgWaitForMultipleObjectsEx(%d, %d)
+MsgWaitForMultipleObjectsEx failed: %s
+GLib
+  WaitForMultipleObjectsEx(%d, %d)
+WaitForMultipleObjectsEx failed: %s
+  got event %p
+  wait returns %ld%s
+g_poll: waiting for
+ MSG
+Too many handles to wait for!
+queue != NULL
+GLib
+func != NULL
+compare_func != NULL
+link != NULL
+link->prev == NULL
+link->next == NULL
+link_ != NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gqueue.c
+queue->head
+queue->tail
+sibling != NULL
+g_queue_insert_sorted
+g_queue_insert_after
+g_queue_insert_before
+g_queue_remove_all
+g_queue_remove
+g_queue_index
+g_queue_peek_nth
+g_queue_peek_tail
+g_queue_peek_head
+g_queue_delete_link
+g_queue_unlink
+g_queue_link_index
+g_queue_peek_nth_link
+g_queue_pop_nth_link
+g_queue_pop_tail_link
+g_queue_pop_nth
+g_queue_pop_tail
+g_queue_peek_tail_link
+g_queue_peek_head_link
+g_queue_pop_head_link
+g_queue_pop_head
+g_queue_push_nth_link
+g_queue_push_tail_link
+g_queue_push_tail
+g_queue_push_head_link
+g_queue_push_nth
+g_queue_push_head
+g_queue_sort
+g_queue_find_custom
+g_queue_find
+g_queue_foreach
+g_queue_copy
+g_queue_reverse
+g_queue_get_length
+g_queue_is_empty
+g_queue_clear
+g_queue_init
+g_queue_free
+g-shell-error-quark
+'\''
+unquoted_string != NULL
+GLib
+Unmatched quotation mark in command line or other shell-quoted text
+quoted_string != NULL
+err == NULL || *err == NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gshell.c
+s > dest
+error == NULL || *error != NULL
+Text ended just after a '\' character. (The text was '%s')
+Text ended before matching quote was found for %c. (The text was '%s')
+Text was empty (or contained only whitespace)
+command_line != NULL
+tokenize_command_line
+g_shell_parse_argv
+unquote_string_inplace
+g_shell_unquote
+g_shell_quote
+***MEMORY-ERROR***: 
+%s[%ld]: GSlice: 
+sinfo->n_allocated > 0
+assertion failed: %s
+memsize <= sys_page_size
+MemChecker: failure in debugging tree: %s
+always-malloc
+debug-blocks
+sys_page_size == 0
+sys_page_size >= 2 * LARGEALIGNMENT
+G_SLICE
+(sys_page_size & (sys_page_size - 1)) == 0
+alignment == sys_page_size
+failed to allocate %u bytes (alignment: %u): %s
+aligned_memory == (gpointer) addr
+GSlice: MemChecker: attempt to release block with invalid size: %p size=%I64u invalid-size=%I64u
+GSlice: MemChecker: attempt to release non-allocated block: %p size=%I64u
+GLib
+n_values != NULL
+index <= branch->n_entries
+g_slice_get_config_state
+g_slice_set_config
+func != NULL
+GLib
+sibling == NULL
+g_slist_insert_sorted_real
+g_slist_find_custom
+g_slist_insert_before
+nptr != NULL
+GLib
+dest != NULL
+src != NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gstrfuncs.c
+decimal_point_len != 0
+buffer != NULL
+format[0] == '%'
+strpbrk (format + 1, "'l%") == NULL
+format_char == 'e' || format_char == 'E' || format_char == 'f' || format_char == 'F' || format_char == 'g' || format_char == 'G'
+%.17g
+unknown error (%d)
+unknown signal (%d)
+str != NULL
+string != NULL
+s1 != NULL
+s2 != NULL
+_-|> <.
+valid_chars != NULL
+g_strcompress: trailing \
+source != NULL
+delimiter != NULL
+delimiter[0] != '\0'
+delimiters != NULL
+str_array != NULL
+haystack != NULL
+needle != NULL
+suffix != NULL
+prefix != NULL
+g_strv_length
+g_str_has_prefix
+g_str_has_suffix
+g_strrstr_len
+g_strrstr
+g_strstr_len
+g_strjoinv
+g_strsplit_set
+g_strsplit
+g_strchomp
+g_strchug
+g_strescape
+g_strcompress
+g_strcanon
+g_strdelimit
+g_strcasecmp
+g_ascii_strncasecmp
+g_ascii_strcasecmp
+g_strreverse
+g_strup
+g_strdown
+g_ascii_strup
+g_ascii_strdown
+g_strlcat
+g_strlcpy
+g_parse_long_long
+g_ascii_formatd
+g_ascii_strtod
+g_strtod
+g_stpcpy
+string != NULL
+GLib
+len == 0 || val != NULL
+pos <= string->len
+val != NULL
+rval != NULL
+unescaped != NULL
+pos >= 0
+pos + len <= string->len
+format != NULL
+g_string_append_vprintf
+g_string_up
+g_string_down
+g_string_ascii_up
+g_string_ascii_down
+g_string_erase
+g_string_overwrite_len
+g_string_overwrite
+g_string_insert_unichar
+g_string_insert_c
+g_string_insert
+g_string_prepend_unichar
+g_string_prepend_c
+g_string_prepend_len
+g_string_prepend
+g_string_append_unichar
+g_string_append_c
+g_string_append_len
+g_string_append
+0123456789ABCDEFg_string_append_uri_escaped
+g_string_insert_len
+g_string_set_size
+g_string_truncate
+g_string_assign
+g_string_free
+R02S
+Unknown or invalid random seed: %s
+GLib
+none
+error
+binary
+list
+skip
+start
+stop
+minperf
+maxperf
+message
+test_name != NULL
+strchr (test_name, '/') == NULL
+test_name[0] != 0
+data_test != NULL
+suite_name != NULL
+strchr (suite_name, '/') == NULL
+suite_name[0] != 0
+root
+suite != NULL
+test_case != NULL
+nestedsuite != NULL
+invalid test case path: %s
+testpath != NULL
+g_path_is_absolute (testpath)
+fixture_test_func != NULL
+testpath[0] == '/'
+test_func != NULL
+destroy_func != NULL
+Not implemented: g_test_trap_fork
+corrupt log stream from test program
+tbuffer != NULL
+bytes != NULL
+tmsg != NULL
+FAIL
+GTest: random seed: %s
+GTest: result: %s
+(MINPERF:%s)
+(MAXPERF:%s)
+(MSG: %s)
+{*LOG(%s)
+:{%s}
+%s%.16Lg
+:LOG*}
+GTest: run: %s
+%s: 
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gtestutils.c
+msg != NULL
+lbuffer->data->len == 0
+--g-fatal-warnings
+--keep-going
+--debug-log
+--GTestLogFD
+--GTestLogFD=
+--GTestSkipCount
+--GTestSkipCount=
+perf
+slow
+thorough
+quick
+undefined
+no-undefined
+unknown test mode: -m %s
+--quiet
+--verbose
+--seed
+--seed=
+--help
+Usage:
+  %s [OPTION...]
+Help Options:
+  -?, --help                     Show help options
+Test Options:
+  -l                             List test cases available in a test executable
+  -seed=RANDOMSEED               Provide a random seed to reproduce test
+                                 runs using random numbers
+  --verbose                      Run tests verbosely
+  -q, --quiet                    Run tests quietly
+  -p TESTPATH                    execute all tests matching TESTPATH
+  -s TESTPATH                    skip all tests matching TESTPATH
+  -m {perf|slow|thorough|quick}  Execute tests according modes
+  -m {undefined|no-undefined}    Execute tests according modes
+  --debug-log                    debug test logging output
+  -k, --keep-going               gtester-specific argument
+  --GTestLogFD=N                 gtester-specific argument
+  --GTestSkipCount=N             gtester-specific argument
+random numbers are not GRand-2.2 compatible, seeds may be broken (check $G_RANDOM_VERSION)
+argc != NULL
+argv != NULL
+g_test_config_vars->test_initialized == FALSE
+vararg1 == NULL
+R02S%08x%08x%08x%08x
+FATAL-
+RECURSIVE-
+ERROR
+CRITICAL
+WARNING
+MESSAGE
+INFO
+DEBUG
+Bug Reference: %s
+Bug Reference: %s%s
+test_uri_base != NULL
+bug_uri_snippet != NULL
+g_test_config_vars->test_initialized
+g_test_run_once == TRUE
+code should not be reached
+ERROR:
+assertion failed: (
+assertion failed (%s): (%.0Lf %s %.0Lf)
+assertion failed (%s): (0x%08I64x %s 0x%08I64x)
+assertion failed (%s): (%.9Lg %s %.9Lg)
+NULL
+assertion failed (%s): (%s %s %s)
+assertion failed 
+(%s == (%s, %d)): 
+(%s == NULL): 
+%s (%s, %d)
+%s is NULL
+g_test_log_msg_free
+g_test_log_buffer_pop
+g_test_log_buffer_push
+g_test_log_buffer_free
+g_test_run_suite_internal
+g_test_run_suite
+g_test_queue_destroy
+g_test_suite_add_suite
+g_test_suite_add
+g_test_create_suite
+g_test_add_data_func
+g_test_add_func
+g_test_add_vtable
+g_test_create_case
+g_test_bug
+g_test_log_send
+g_test_init
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gthread.c
+GLib
+data
+g_thread_error
+g_atomic_pointer_get (value_location) == NULL
+result != 0
+g_once_init_list != NULL
+func != NULL
+creating thread '%s': %s
+thread
+real->ours
+attempt to g_thread_exit() a thread not created by GLib
+g_thread_join
+g_thread_new_internal
+g_thread_proxy
+g_once_init_leave
+timer != NULL
+GLib
+timer->active == FALSE
+time_->tv_usec >= 0 && time_->tv_usec < G_USEC_PER_SEC
+iso_date != NULL
+time_ != NULL
+%4d-%02d-%02dT%02d:%02d:%02d.%06ldZ
+%4d-%02d-%02dT%02d:%02d:%02dZ
+g_time_val_to_iso8601
+g_time_val_from_iso8601
+g_time_val_add
+g_timer_elapsed
+g_timer_continue
+g_timer_reset
+g_timer_stop
+g_timer_start
+g_timer_destroy
+str != NULL
+GLib
+g_utf8_casefold
+g_utf8_strdown
+g_utf8_strup
+yyyZhniZbarAnmrAgneBopoBrehCtpoClryCtrsDaveDihtEroeGhtoGkerGrjuGuruGinaHgnaHrbeHariHadnKanaKrmhKooaLntaLmylMgnoMrmyMmagOlatIayrOrnuRhniScrySlmaTuleTaahTiahTtbiTsnaCiiiYglgTonaHdhuBbgaTiarBtrpCbmiLamsOwahSbniLelaTragUulaTiguBgalGgnfTolySoepXrahKzzzZilaBxusXxnhPgahPookNilaKcpeLgnjRdnuSruaSmahCkclOiiaViraCicyLidyLtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaT
+=====
+=========
+====
+========
+=====
+===========
+""""""""""""""=""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""=="""
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%==============BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=====ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ==ZZZZZZZZZZZZZZZ=____________________________==_=================================================================
+=======================================================
+========
+====
+=====
+====
+====
+=======
+=======
+===========
+===============
+===============
+========
+====
+==========##=######===###=####===##=#=##===##===###===############====#####===###=####==#======#==============#####################======$$$=$$$$$$$$=$$$=$$$$$$$$$$$$$$$$$$$$$$$=$$$$$$$$$$=$$$$$===$$$$$$$$=$$$=$$$$=======$$=$$======$$$$==$$$$$$$$$$========$$$$$$$$==
+=======
+=======
+===============
+========
+========
+==!!=!!!!!!!!!!!!!!!!!!===!!!!!!!!!!!!!!!!!!!!!!!!=!!!!!!!!!=!==!!!!!!!===!====!!!!!!=!=!!!!!!!!==================!!!============&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&====
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&=====================================
+======
+================================''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''=''''''''''''''''''''''''''''''''''''===='''''''''''''''''''''''''''''''''''''''=''''''''''''''''''''''''''''''''''''='''''''''''''''='''''''
+''=====================================
+=====
+======
+===========((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+===                                                                           
+   ===============*************=*******===========+++++++++++++++++++++
+=========,,,,,,,,,,,,,,,,,,,,============-------------=---=--============
+======
+======
+======
+========
+=====((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((==========00000000000000000000000000000===000000000000====000000000000====0===000000000000444444444444444444444444444444==44444===========66666666666666666666666666666666666666666666====66666666666666666666666666======66666666666===66
+7777777777777777777777777777==77[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[=[[[[[[[[[[[[[[[[[[[[[[[[[[[[[==[[[[[[[[[[[======[[[[[[[[[[======[[[[[[[[[[[[[[==================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>====>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>===FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]========]]]]DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD===DDDDDDDDDDDDDDD===DDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII================================================================FFFFFFFF========
+=========
+=====================
+48<@DHLPTX\`dh
+<<<<<<< @
+<<<<<
+X\`d
+<<< hhlph$
+(Ph$ $Phh$(
+$ hh@
+																										
+																							
+							
+				
+				
+																	
+									
+																																																			
+																																						
+																																						
+								
+						
+								
+								
+						
+								
+				
+				
+				
+					
+				
+					
+				
+				
+																																															
+				
+																										
+																																								
+																										
+																										
+																										
+				
+								
+																										
+				
+								
+							
+				
+					
+							
+																										
+																										
+																										
+																										
+																										
+																										
+																									
+																									
+																									
+																									
+																									
+p != NULL || max == 0
+GLib
+str != NULL
+Partial character sequence at end of input
+Invalid byte sequence in conversion input
+Character out of range for UTF-8
+Invalid sequence in conversion input
+Character out of range for UTF-16
+name != NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gutf8.c
+g_utf8_validate (string->str, -1, NULL)
+_g_utf8_make_valid
+g_utf8_to_utf16
+g_utf16_to_ucs4
+g_utf16_to_utf8
+g_utf8_to_ucs4_fast
+g_utf8_strlen
+p0q0
+s0t0
+v0w0
+y0z0
+|0}0
+VIII
+viii
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+kcal
+a.m.
+p.m.
+{	t 
+*	 !
+@	0!
+{	;!
+r	>!
+>	G!
+@	H!
+{	I!
+{	q!
+l	u!
+	 *2
+! .2
+' /2
+- 02
+3 12
+9 22
+? 32
+E 42
+K 52
+Q 62
+W 72
+] 82
+c 92
+i :2
+o ;2
+u <2
+{ =2
+ !w2
+'!x2
+.!y2
+5!z2
+<!{2
+C!|2
+J!}2
+Z!~2
+!%'3
++%(3
+2%)3
+9%*3
+C%+3
+M%,3
+`%-3
+m%.3
+}%/3
+,&<3
+<&=3
+I&>3
+Y&?3
+f&@3
+m&A3
+}&B3
+''P3
+1'Q3
+;'R3
+H'S3
+O'T3
+\'U3
+l'V3
+s'W3
+ (s3
+#(t3
+&(u3
+*(v3
+-(w3
+0(x3
+3(y3
+7(z3
+;({3
+>(|3
+E(}3
+L(~3
+kkkk
+zzzz
+PATH
+program != NULL
+GLib
+shell32.dll
+SHGetKnownFolderPath
+kernel32.dll
+GetModuleHandleExA
+localhost
+TMPDIR
+TEMP
+HOME
+USERPROFILE
+somebody
+Unknown
+Could not register atexit() function: %s
+PATHEXT
+.exe;.cmd;.bat;.com
+g_set_application_name() called multiple times
+share
+.local
+.config
+.cache
+Desktop
+directory >= G_USER_DIRECTORY_DESKTOP && directory < G_USER_N_DIRECTORIES
+nullify_location != NULL
+%u bytes
+%u byte
+glib20
+%.1f KiB
+%.1f MiB
+%.1f GiB
+%.1f TiB
+%.1f PiB
+%.1f EiB
+%.1f kB
+%.1f MB
+%.1f GB
+%.1f TB
+%.1f PB
+%.1f EB
+%s bytes
+%s byte
+%I64u
+%.1f KB
+g_nullify_pointer
+g_get_user_special_dir
+^F{inner_find_program_in_path
+CCannot create event for GWakeup: %s
+GLib
+format != NULL
+GLib
+string != NULL
+n == 0 || string != NULL
+g_vasprintf
+g_vsnprintf
+g_vsprintf
+g_vfprintf
+g_vprintf
+GLib (gthread-win32.c): Unexpected error from C library during '%s': %s.  Aborting.
+TlsAlloc
+g_private_get_impl(1)
+g_private_get_impl(2)
+malloc
+CreateEvent
+WaitForSingleObject
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gthread-win32.c
+GLib
+!lock->writer_locked
+file %s: line %d (%s): error %s during %s
+CloseHandle (wt->handle)
+Error creating thread: %s
+WAIT_FAILED != WaitForSingleObject (wt->handle, INFINITE)
+KERNEL32.DLL
+InitializeSRWLock
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+AcquireSRWLockShared
+TryAcquireSRWLockShared
+ReleaseSRWLockShared
+InitializeConditionVariable
+SleepConditionVariableSRW
+WakeAllConditionVariable
+WakeConditionVariable
+g_thread_xp_AcquireSRWLockExclusive
+g_thread_xp_AcquireSRWLockShared
+g_system_thread_wait
+g_system_thread_free
+@Latn
+@Cyrl
+LC_ALL
+LC_MESSAGES
+LANG
+Passing a non-NULL package to g_win32_get_package_installation_directory() is deprecated and it is ignored.
+GLib
+(null)
+array
+GLib
+elt_size > 0
+array != NULL
+index_ < array->len
+index_ + length <= array->len
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/garray.c
+real->data == NULL
+real->len == 0
+g_byte_array_remove_range
+g_byte_array_free_to_bytes
+g_byte_array_new_take
+g_ptr_array_foreach
+g_ptr_array_sort_with_data
+g_ptr_array_sort
+g_ptr_array_add
+g_ptr_array_remove_fast
+g_ptr_array_remove
+g_ptr_array_remove_range
+g_ptr_array_remove_index_fast
+g_ptr_array_remove_index
+g_ptr_array_set_size
+g_ptr_array_free
+g_ptr_array_unref
+g_ptr_array_ref
+g_ptr_array_set_free_func
+g_array_sort_with_data
+g_array_sort
+g_array_remove_range
+g_array_remove_index_fast
+g_array_remove_index
+g_array_set_size
+g_array_insert_vals
+g_array_prepend_vals
+g_array_append_vals
+g_array_free
+g_array_get_element_size
+g_array_unref
+g_array_ref
+g_array_set_clear_func
+g_array_sized_new
+g_array_new
+bytes != NULL
+GLib
+offset <= bytes->size
+offset + length <= bytes->size
+bytes1 != NULL
+bytes2 != NULL
+size != NULL
+g_bytes_unref_to_array
+g_bytes_unref_to_data
+g_bytes_compare
+g_bytes_hash
+g_bytes_equal
+g_bytes_ref
+g_bytes_get_size
+g_bytes_get_data
+g_bytes_new_from_bytes
+locale != NULL
+GLib
+US-ASCII
+CHARSET
+UTF-8
+LANGUAGE
+LC_ALL
+LC_MESSAGES
+LANG
+append_locale_variants
+g_get_locale_variants
+mask == UNSAFE_ALL || mask == UNSAFE_ALLOW_PLUS || mask == UNSAFE_PATH || mask == UNSAFE_HOST || mask == UNSAFE_SLASHES
+GLib
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gconvert.c
+out - result <= len
+ConvertINetString
+ConvertINetMultiByteToUnicode
+ConvertINetUnicodeToMultiByte
+IsConvertINetStringAvailable
+LcidToRfc1766A
+Rfc1766ToLcidA
+g_convert_error
+Invalid byte sequence in conversion input
+CP65001
+translit
+ignore
+nocompat
+char
+wchar_t
+UTF-16
+UTF16
+UCS-2
+UCS2
+UTF-32
+UTF32
+UCS-4
+UCS4
+node != NULL
+This iconv context wasn't opened using open_converter
+bucket
+Conversion from character set '%s' to '%s' is not supported
+Could not open converter from '%s' to '%s'
+Error during conversion: %s
+Partial character sequence at end of input
+converter != (GIConv) -1
+str != NULL
+to_codeset != NULL
+from_codeset != NULL
+\u%04x
+\U%08x
+UTF-8
+Cannot convert fallback '%s' to codeset '%s'
+opsysstring != NULL
+file:/
+The URI '%s' is not an absolute URI using the "file" scheme
+The local file URI '%s' may not include a '#'
+The URI '%s' is invalid
+The hostname of the URI '%s' is invalid
+The URI '%s' contains invalidly escaped characters
+localhost
+The pathname '%s' is not an absolute path
+Invalid hostname
+file://
+filename != NULL
+g_filename_display_basename
+g_escape_uri_string
+g_filename_to_uri_utf8
+g_unescape_uri_string
+g_filename_to_utf8_utf8
+g_convert_with_fallback
+close_converter
+iconv_cache_bucket_expire
+g_convert
+g_convert_with_iconv
+0123456789ABCDEF
+?  (
+,????*(??
+??????????8  ,  8??????????????????????????    ? ??????????????????????????   ? 
+UTF8
+CP1200
+UTF16LE
+UTF-16LE
+UCS2LE
+UCS-2LE
+CP1201
+UTF16BE
+UTF-16BE
+UCS2BE
+UCS-2BE
+unicodeFFFE
+CP12000
+UTF32LE
+UTF-32LE
+UCS4LE
+UCS-4LE
+CP12001
+UTF32BE
+UTF-32BE
+UCS4BE
+UCS-4BE
+ANSI_X3.4-1968
+ANSI_X3.4-1986
+ASCII
+CP367
+IBM367
+ISO-IR-6
+ISO646-US
+ISO_646.IRV:1991
+US-ASCII
+CSASCII
+CP819
+IBM819
+ISO-8859-1
+ISO-IR-100
+ISO8859-1
+ISO_8859-1
+ISO_8859-1:1987
+LATIN1
+CSISOLATIN1
+CP1250
+MS-EE
+WINDOWS-1250
+CP1251
+MS-CYRL
+WINDOWS-1251
+CP1252
+MS-ANSI
+WINDOWS-1252
+CP1253
+MS-GREEK
+WINDOWS-1253
+CP1254
+MS-TURK
+WINDOWS-1254
+CP1255
+MS-HEBR
+WINDOWS-1255
+CP1256
+MS-ARAB
+WINDOWS-1256
+CP1257
+WINBALTRIM
+WINDOWS-1257
+CP1258
+WINDOWS-1258
+CP850
+IBM850
+CSPC850MULTILINGUAL
+CP862
+IBM862
+CSPC862LATINHEBREW
+CP866
+IBM866
+CSIBM866
+CP154
+CYRILLIC-ASIAN
+PT154
+PTCP154
+CSPTCP154
+CP1133
+IBM-CP1133
+CP874
+WINDOWS-874
+CP51932
+MS51932
+WINDOWS-51932
+EUC-JP
+CP932
+MS932
+SHIFFT_JIS
+SHIFFT_JIS-MS
+SJIS
+SJIS-MS
+SJIS-OPEN
+SJIS-WIN
+WINDOWS-31J
+WINDOWS-932
+CSWINDOWS31J
+CP50221
+ISO-2022-JP
+ISO-2022-JP-MS
+ISO2022-JP
+ISO2022-JP-MS
+MS50221
+WINDOWS-50221
+CP936
+MS936
+WINDOWS-936
+CP950
+BIG5
+CP949
+EUC-KR
+CP1361
+JOHAB
+CP437
+IBM437
+CSPC8CODEPAGE437
+CP737
+CP775
+IBM775
+CSPC775BALTIC
+CP852
+IBM852
+CSPCP852
+CP853
+CP855
+IBM855
+CSIBM855
+CP857
+IBM857
+CSIBM857
+CP858
+CP860
+IBM860
+CSIBM860
+CP-IS
+CP861
+IBM861
+CSIBM861
+CP863
+IBM863
+CSIBM863
+CP864
+IBM864
+CSIBM864
+CP865
+IBM865
+CSIBM865
+CP-GR
+CP869
+IBM869
+CSIBM869
+CP1125
+IBM037
+IBM500
+ASMO-708
+DOS-720
+ibm737
+ibm775
+ibm850
+ibm852
+ibm857
+IBM00858
+ibm861
+DOS-862
+cp866
+ibm869
+IBM870
+windows-874
+cp875
+shift_jis
+shift-jis
+gb2312
+ks_c_5601-1987
+big5
+IBM1026
+IBM01047
+IBM01140
+IBM01141
+IBM01142
+IBM01143
+IBM01144
+IBM01145
+IBM01146
+IBM01147
+IBM01148
+IBM01149
+windows-1250
+windows-1251
+windows-1252
+windows-1253
+windows-1254
+windows-1255
+windows-1256
+windows-1257
+windows-1258
+Johab
+macintosh
+x-mac-japanese
+x-mac-chinesetrad
+x-mac-korean
+x-mac-arabic
+x-mac-hebrew
+x-mac-greek
+x-mac-cyrillic
+x-mac-chinesesimp
+x-mac-romanian
+x-mac-ukrainian
+x-mac-thai
+x-mac-ce
+x-mac-icelandic
+x-mac-turkish
+x-mac-croatian
+x-Chinese_CNS
+x-cp20001
+x_Chinese-Eten
+x-cp20003
+x-cp20004
+x-cp20005
+x-IA5
+x-IA5-German
+x-IA5-Swedish
+x-IA5-Norwegian
+us-ascii
+x-cp20261
+x-cp20269
+IBM273
+IBM277
+IBM278
+IBM280
+IBM284
+IBM285
+IBM290
+IBM297
+IBM420
+IBM423
+IBM424
+x-EBCDIC-KoreanExtended
+IBM-Thai
+koi8-r
+IBM871
+IBM880
+IBM905
+IBM00924
+x-cp20936
+x-cp20949
+cp1025
+koi8-u
+iso-8859-1
+iso8859-1
+iso-8859-2
+iso8859-2
+iso-8859-3
+iso8859-3
+iso-8859-4
+iso8859-4
+iso-8859-5
+iso8859-5
+iso-8859-6
+iso8859-6
+iso-8859-7
+iso8859-7
+iso-8859-8
+iso8859-8
+iso-8859-9
+iso8859-9
+iso-8859-13
+iso8859-13
+iso-8859-15
+iso8859-15
+x-Europa
+iso-8859-8-i
+iso8859-8-i
+iso-2022-jp
+csISO2022JP
+iso-2022-kr
+iso2022-kr
+x-cp50227
+euc-jp
+EUC-CN
+euc-kr
+hz-gb-2312
+GB18030
+x-iscii-de
+x-iscii-be
+x-iscii-ta
+x-iscii-te
+x-iscii-as
+x-iscii-or
+x-iscii-ka
+x-iscii-ma
+x-iscii-gu
+x-iscii-pa
+datalist != NULL
+GLib
+dataset_location != NULL
+key_id > 0
+destroy_func == NULL
+func != NULL
+(flags & ~G_DATALIST_FLAGS_MASK) == 0
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gdataset.c
+g_quark_seq_id == 0
+g_quark_new
+g_datalist_get_flags
+g_datalist_unset_flags
+g_datalist_set_flags
+g_datalist_init
+g_datalist_foreach
+g_dataset_foreach
+g_datalist_get_data
+g_datalist_id_get_data
+g_dataset_id_get_data
+g_datalist_id_remove_no_notify
+g_dataset_id_remove_no_notify
+g_datalist_id_set_data_full
+g_dataset_id_set_data_full
+g_dataset_destroy
+g_datalist_clear
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/gerror.c
+GLib
+domain != 0
+format != NULL
+message != NULL
+error != NULL
+error->domain != 0
+error->message != NULL
+GError set over the top of a previous GError or uninitialized memory.
+This indicates a bug in someone's code. You must ensure an error is NULL before it's set.
+The overwriting error message was: %s
+src != NULL
+g_propagate_error
+g_error_copy
+g_error_free
+g_error_new_literal
+g_error_new
+g_error_new_valist
+glib20
+help
+Supported debug values:
+ all help
+:;, 	
+error
+critical
+warning
+message
+info
+debug
+G_MESSAGES_PREFIXED
+gc-friendly
+fatal-warnings
+fatal-criticals
+G_DEBUG
+Unknown G_RANDOM_VERSION "%s". Using version 2.2.
+GLib
+G_RANDOM_VERSION
+rand != NULL
+/scratch/jwe/mxe-octave/4.2.1/w64-32/tmp-pkg-config/pkg-config-0.28/glib/glib/grand.c
+seed_length >= 1
+end > begin
+g_rand_int_range
+g_rand_int
+g_rand_set_seed_array
+g_rand_set_seed
+g_rand_copy
+g_rand_free
+CP936
+CP1361
+JOHAB
+CP20127
+ASCII
+CP20866
+KOI8-R
+CP20936
+GB2312
+CP21866
+KOI8-RU
+CP28591
+ISO-8859-1
+CP28592
+ISO-8859-2
+CP28593
+ISO-8859-3
+CP28594
+ISO-8859-4
+CP28595
+ISO-8859-5
+CP28596
+ISO-8859-6
+CP28597
+ISO-8859-7
+CP28598
+ISO-8859-8
+CP28599
+ISO-8859-9
+CP28605
+ISO-8859-15
+CP38598
+ISO-8859-8
+CP51932
+EUC-JP
+CP51936
+GB2312
+CP51949
+EUC-KR
+CP51950
+EUC-TW
+CP54936
+GB18030
+CP65001
+UTF-8
+CP%u
+ASCII
+lock_bit < 32
+GLib
+g_pointer_bit_unlock
+g_pointer_bit_trylock
+g_pointer_bit_lock
+Argument domain error (DOMAIN)
+Argument singularity (SIGN)
+Overflow range error (OVERFLOW)
+Partial loss of significance (PLOSS)
+Total loss of significance (TLOSS)
+The result is too small to be represented (UNDERFLOW)
+Unknown error
+_matherr(): %s in %s(%g, %g)  (retval=%g)
+Mingw-w64 runtime failure:
+Address %p has no image-section
+  VirtualQuery failed for %d bytes at address %p
+  VirtualProtect failed with code 0x%x
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+.pdata
+inity
+ABCDEF
+abcdef
+0123456789
+vH7B
+W4vC
+[%Co
+O8M2
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GCC: (GNU) 4.9.4
+GetUserNameW
+CloseHandle
+CreateEventA
+DeleteCriticalSection
+EnterCriticalSection
+ExpandEnvironmentStringsW
+FormatMessageW
+FreeEnvironmentStringsW
+GetACP
+GetCPInfoExA
+GetComputerNameA
+GetCurrentDirectoryW
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetEnvironmentStringsW
+GetEnvironmentVariableW
+GetExitCodeProcess
+GetFileAttributesA
+GetFileAttributesW
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleW
+GetProcAddress
+GetShortPathNameW
+GetStartupInfoA
+GetSystemDirectoryA
+GetSystemDirectoryW
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetThreadLocale
+GetTickCount
+GetVersion
+GetWindowsDirectoryW
+InitializeCriticalSection
+IsDBCSLeadByteEx
+IsDebuggerPresent
+IsValidCodePage
+LeaveCriticalSection
+LoadLibraryA
+LocalFree
+MoveFileExW
+MultiByteToWideChar
+QueryPerformanceCounter
+ResetEvent
+RtlAddFunctionTable
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+SetEnvironmentVariableW
+SetEvent
+SetUnhandledExceptionFilter
+Sleep
+SleepEx
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TryEnterCriticalSection
+UnhandledExceptionFilter
+VirtualProtect
+VirtualQuery
+WaitForMultipleObjectsEx
+WaitForSingleObject
+WideCharToMultiByte
+__C_specific_handler
+__dllonexit
+__getmainargs
+__initenv
+__iob_func
+__lconv_init
+__mb_cur_max
+__set_app_type
+__setusermatherr
+_acmdln
+_amsg_exit
+_beginthreadex
+_cexit
+_chsize
+_endthreadex
+_errno
+_findclose
+_findfirst64
+_fmode
+_fullpath
+_gmtime64
+_initterm
+_lock
+_mktime64
+_onexit
+_stricmp
+_strnicmp
+_unlock
+_waccess
+_wchdir
+_wchmod
+_wcreat
+_wfopen
+_wfreopen
+_wmkdir
+_wopen
+_wputenv
+_wremove
+_wrmdir
+_wunlink
+_wutime64
+abort
+atoi
+bsearch
+calloc
+exit
+fclose
+feof
+ferror
+fflush
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+fwrite
+getc
+getenv
+isalnum
+isalpha
+islower
+isspace
+isupper
+localeconv
+malloc
+memcmp
+memcpy
+memmove
+memset
+printf
+putchar
+puts
+realloc
+signal
+sprintf
+strchr
+strcmp
+strcpy
+strerror
+strlen
+strncmp
+strncpy
+strpbrk
+strrchr
+strstr
+strtol
+strtoul
+tolower
+toupper
+ungetc
+vfprintf
+wcschr
+wcslen
+_wstat64
+_findnext64
+_write
+_getpid
+_fdopen
+_close
+CoTaskMemFree
+SHGetPathFromIDListW
+SHGetSpecialFolderLocation
+MessageBoxA
+MsgWaitForMultipleObjectsEx
+timeGetTime
+ADVAPI32.dll
+KERNEL32.dll
+msvcrt.dll
+ole32.dll
+SHELL32.dll
+USER32.dll
+WINMM.dll

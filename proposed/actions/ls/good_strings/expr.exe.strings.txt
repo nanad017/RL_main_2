@@ -1,0 +1,455 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.data_cy
+.bss
+.idata
+$ `A
+$H`A
+$p`A
+$@dA
+$xeA
+$DfA
+$hgA
+$2hA
+$2hA
+t@K~L
+$uhA
+t4HuC
+[^_]
+[^_]
+[^_]
+$1hA
+|[^_]
+[^_]
+$1hA
+[^_]
+$hiA
+$}iA
+L[^_]
+$hiA
+<[^_]
+|[^_]
+[^_]
+[^_]
+[^_]
+SwE9P tE
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+OD!M
+[^_]
+[^_]
+K4@F
+,[^_]
+,[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+C$;C(t
+C$;C,t
+C$;C0t
+[^_]
+[^_]
+9ZDr4
+9ZDs
+[^_]
+[^_]
+[^_]
+S8t=
+[^_]
+[^_]
+[^_]
+=UUU
+=UUU
+[^_]
+[^_]
+!CP1
+	CP1
+[^_]
+[^_]
+$(lA
+$(lA
+$(lA
+$(lA
+[^_]
+[^_]
+[^_]
+[^_]
+t+F9
+<[^_]
+[^_]
+9V(w
+@;F t,
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+	CP1
+,[^_]
+,[^_]
+,[^_]
+$(lA
+[^_]
+B;S 
+[^_]
+;{ s
+B;V 
+B;Q 
+;G s
+;^ s
+;s s
+B;Q 
+;^ s
+9^(w
+;F s
+;F s
+v::U
+9K(w
+Z[^_]
+Z[^_]
+[^_]
+,[^_]
+[^_]
+[^_]
+[^_]
+u`9]
+[^_]
+B$;B(t
+;B,t
+;B0t
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u`C9]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+=TUU
+[^_]
+9_Pu
+[^_]
+[^_]
+9Fh|Z
+[^_]
+9Fh}
+[^_]
+[^_]
+uQCtN
+[^_]
+[^_]
+[^_]
+u8Ct5
+\[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+wd9S tO
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+u$C;]
+Kl;M
+[^_]
+wX9W
+rh;u
+~Xvw
+;F s
+[^_]
+[^_]
+B4@t1
+[^_]
+[^_]
+<[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+3w71
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+=eff
+Sdv!
+9Chs
+[^_]
+pl;pp
+<[^_]
+<[^_]
+$~rA
+=~rA
+,[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+[^_]
+0u	G
+0u	C
+0u	G
+	w3)
+[^_]
+|	;u
+|	;u
+|	;u
+[^_]
+[^_]
+$@vA
+ [^]
+ [^]
+[^_]
+t	<-u
+[^_]
+}$@;E
+9Wtb
+[^_]
+$0wA
+$VwA
+$twA
+$twA
+$0wA
+$LxA
+$PxA
+$ yA
+[^_]
+$\yA
+$8zA
+$XzA
+$tzA
+,0<	
+\[^_]
+C XSA
+[^_]
+$`{A
+Try `%s --help' for more information.
+Usage: %s EXPRESSION
+  or:  %s OPTION
+      --help     display this help and exit
+      --version  output version information and exit
+Print the value of EXPRESSION to standard output.  A blank line below
+separates increasing precedence groups.  EXPRESSION may be:
+  ARG1 | ARG2       ARG1 if it is neither null nor 0, otherwise ARG2
+  ARG1 & ARG2       ARG1 if neither argument is null or 0, otherwise 0
+  ARG1 < ARG2       ARG1 is less than ARG2
+  ARG1 <= ARG2      ARG1 is less than or equal to ARG2
+  ARG1 = ARG2       ARG1 is equal to ARG2
+  ARG1 != ARG2      ARG1 is unequal to ARG2
+  ARG1 >= ARG2      ARG1 is greater than or equal to ARG2
+  ARG1 > ARG2       ARG1 is greater than ARG2
+  ARG1 + ARG2       arithmetic sum of ARG1 and ARG2
+  ARG1 - ARG2       arithmetic difference of ARG1 and ARG2
+  ARG1 * ARG2       arithmetic product of ARG1 and ARG2
+  ARG1 / ARG2       arithmetic quotient of ARG1 divided by ARG2
+  ARG1 % ARG2       arithmetic remainder of ARG1 divided by ARG2
+  STRING : REGEXP   anchored pattern match of REGEXP in STRING
+  match STRING REGEXP        same as STRING : REGEXP
+  substr STRING POS LENGTH   substring of STRING, POS counted from 1
+  index STRING CHARS         index in STRING where any CHARS is found, or 0
+  length STRING              length of STRING
+  + TOKEN                    interpret TOKEN as a string, even if it is a
+                               keyword like `match' or an operator like `/'
+  ( EXPRESSION )             value of EXPRESSION
+Beware that many operators need to be escaped or quoted for shells.
+Comparisons are arithmetic if both ARGs are numbers, else lexicographical.
+Pattern matches return the string matched between \( and \) or null; if
+\( and \) are not used, they return the number of characters matched or 0.
+Exit status is 0 if EXPRESSION is neither null nor 0, 1 if EXPRESSION is null
+or 0, 2 if EXPRESSION is syntactically invalid, and 3 if an error occurred.
+Report bugs to <%s>.
+bug-coreutils@gnu.org
+coreutils
+/usr/share/locale
+GNU coreutils
+Mike Parker
+5.97
+expr
+missing operand
+syntax error
+warning: unportable BRE: %s: using `^' as the first character
+of the basic regular expression is not portable; it is being ignored
+error in regular expression matcher
+index
+substr
+length
+match
+non-numeric argument
+division by zero
+string comparison failed
+Set LC_ALL='C' to work around the problem.
+The strings compared were %s and %s.
+Success
+No match
+Invalid regular expression
+Invalid collation character
+Invalid character class name
+Trailing backslash
+Invalid back reference
+Unmatched [ or [^
+Unmatched ( or \(
+Unmatched \{
+Invalid content of \{\}
+Invalid range end
+Memory exhausted
+Invalid preceding regular expression
+Premature end of regular expression
+Regular expression too big
+Unmatched ) or \)
+LC_ALL
+LC_CTYPE
+LANG
+UTF-8
+UTF8
+/usr/src/coreutils/coreutils-5.97/lib/regcomp.c
+!IS_EPSILON_NODE (node->token.type)
+node->next == NULL
+REG_VALID_INDEX (right)
+REG_VALID_INDEX (left)
+alnum
+space
+upper
+lower
+cntrl
+alpha
+digit
+print
+blank
+graph
+punct
+xdigit
+/usr/src/coreutils/coreutils-5.97/lib/regexec.c
+pmatch[0].rm_so == start
+regs_allocated == REG_FIXED
+regs->rm_num_regs >= nregs
+mctx.input.offsets_needed == 0
+err == REG_ESPACE
+REG_VALID_INDEX (num)
+literal
+shell
+shell-always
+escape
+locale
+clocale
+/usr/src/coreutils/coreutils-5.97/lib/xstrtol.c
+0 <= strtol_base && strtol_base <= 36
+help
+version
+write error
+%s: %s
+: %s
+Unknown system error
+%s: 
+%s:%d: 
+memory exhausted
+POSIXLY_CORRECT
+%s: unrecognized option `%c%s'
+%s: illegal option -- %c
+%s: option `%c%s' doesn't allow an argument
+%s: invalid option -- %c
+%s: option `%s' requires an argument
+%s: option `%s' is ambiguous
+%s: option requires an argument -- %c
+%s: unrecognized option `--%s'
+%s: option `-W %s' is ambiguous
+%s: option `--%s' doesn't allow an argument
+%s: option `-W %s' doesn't allow an argument
+%s (%s) %s
+This is free software.  You may redistribute copies of it under the terms of
+the GNU General Public License <http://www.gnu.org/licenses/gpl.html>.
+There is NO WARRANTY, to the extent permitted by law.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, %s, and others.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+%s, %s, %s, %s,
+and %s.
+Written by %s, %s, %s,
+%s, %s, %s, and %s.
+Written by %s, %s, %s,
+%s, %s, and %s.
+Written by %s, %s, %s,
+%s, and %s.
+Written by %s, %s, %s,
+and %s.
+Written by %s, %s, and %s.
+Written by %s and %s.
+Written by %s.
+%s %s
+Copyright %s %d Free Software Foundation, Inc.
+<unknown module>: 
+Cygwin runtime failure: 
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation bit size %d.
+  Unknown pseudo relocation protocol version %d.
+__assert
+__errno
+__main
+__mb_cur_max
+_ctype_
+abort
+atexit
+calloc
+cygwin_conv_to_posix_path
+cygwin_internal
+dll_crt0__FP11per_process
+exit
+fclose
+fflush
+fputs
+free
+getenv
+malloc
+memcpy
+memmove
+memset
+putc
+puts
+realloc
+setlocale
+strchr
+strcmp
+strcoll
+strcspn
+strerror
+strlen
+strncmp
+strncpy
+vsnprintf
+__printf__
+libintl_bindtextdomain
+libintl_fprintf
+libintl_gettext
+libintl_textdomain
+libintl_vfprintf
+GetModuleFileNameA
+GetModuleHandleA
+GetStdHandle
+VirtualProtect
+VirtualQuery
+WriteFile
+msys-1.0.dll
+msys-intl-8.dll
+KERNEL32.dll
