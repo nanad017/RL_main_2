@@ -24,7 +24,7 @@ Các script chỉ cài package, **không tải dataset hay model**.
 | --- | --- | --- |
 | RL core | 3.7.17 | `PYTHON_BIN=python3.7 bash scripts/setup_rl_env.sh` |
 | STOKE + funcval cục bộ | >=3.9 | `PYTHON_BIN=python3.9 bash scripts/setup_stoke_env.sh` |
-| Custom detector | 3.9–3.11 | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh custom-xgboost` |
+| Custom detector | 3.10–3.11 | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh custom-xgboost` |
 | Sorel | 3.9 | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh sorel` |
 | DeepMal | 3.9 | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh deepmal` |
 | CNN | 3.7 | `PYTHON_BIN=python3.7 bash scripts/setup_detector_env.sh cnn` |
@@ -33,6 +33,20 @@ Các script chỉ cài package, **không tải dataset hay model**.
 `git` cần có khi cài Sorel vì dependency `ember` được lấy từ Git. Cài Python
 qua package manager/pyenv là việc của máy chủ; các script không tự build Python,
 không ghi vào `$HOME` và không tải artifact ngoài repo.
+
+### Nguồn hướng dẫn môi trường gốc
+
+Các lệnh `scripts/setup_*_env.sh` bên trên là bản chuẩn hóa cho repo public.
+Bảng dưới ghi lại hướng dẫn cài môi trường gốc hoặc file dependency gốc đã được
+dùng để tạo các script này.
+
+| Thành phần | Nguồn gốc | Hướng dẫn/env gốc | Lệnh chuẩn hóa trong repo này |
+| --- | --- | --- | --- |
+| EMBER2024 | `https://github.com/futurecomputing4ai/EMBER2024` | README gốc: `git clone https://github.com/FutureComputing4AI/EMBER2024.git`, `cd EMBER2024/`, `pip install .`; `pyproject.toml` yêu cầu Python `>=3.10` | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh ember` |
+| DeepMal | `https://github.com/jaketae/deep-malware-detection` | README gốc: `python -m venv venv`, `source venv/bin/activate`, `pip install -U pip wheel`, `pip install -r requirements.txt` | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh deepmal` |
+| CNN | `https://github.com/cridin1/malware-classification-CNN` | README gốc mô tả dataset/model, không có lệnh venv đầy đủ; repo public dùng `detectors/evaluation/malware-classification-CNN/requirements.txt` để pin TensorFlow/Keras runtime | `PYTHON_BIN=python3.7 bash scripts/setup_detector_env.sh cnn` |
+| Sorel | `https://github.com/sophos/SOREL-20M` và implementation local `sorel_multi` | Folder local không có README; dependency nằm trong `requirements.txt` và `environment.yml`; `environment.yml` dùng Python `3.9`, PyTorch, LightGBM, `pefile`, và `git+https://github.com/elastic/ember.git` | `PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh sorel` |
+| Custom XGBoost | implementation custom trong `detectors/custom_rl/xgboost` | Không phải detector upstream; dependency nằm trong `detectors/custom_rl/xgboost/requirements.txt` | `PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh custom-xgboost` |
 
 ## Artifact ngoài repository
 
@@ -61,7 +75,7 @@ cd /path/to/TIER-Mal-Public
 
 PYTHON_BIN=python3.7 bash scripts/setup_rl_env.sh
 PYTHON_BIN=python3.9 bash scripts/setup_stoke_env.sh
-PYTHON_BIN=python3.9 bash scripts/setup_detector_env.sh custom-xgboost
+PYTHON_BIN=python3.10 bash scripts/setup_detector_env.sh custom-xgboost
 
 CUSTOM_DETECTOR_SHARED_ROOT="$PWD/runtime/share" \
   "$PWD/.venv-detector-custom-xgboost/bin/uvicorn" API:app \
